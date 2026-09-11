@@ -1,7 +1,7 @@
 ---
 title: "Jelita Rahma Hidayati"
-description: "Jelita Rahma Hidayati is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183189
+description: "Jelita Rahma Hidayati is a Mid-career Soil Carbon researcher at Universitas Maritim Raja Ali Haji in ID. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.127296
 url: "/cdr-researcher-census/researchers/jelita-rahma-hidayati-a5003303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jelita Rahma Hidayati",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jelita-rahma-hidayati-a5003303/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universitas Maritim Raja Ali Haji"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-1971-309X",
     "https://openalex.org/A5003303398"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jelita Rahma Hidayati**
+**Jelita Rahma Hidayati**  
+Universitas Maritim Raja Ali Haji · 🇮🇩 ID
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 146 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 154 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

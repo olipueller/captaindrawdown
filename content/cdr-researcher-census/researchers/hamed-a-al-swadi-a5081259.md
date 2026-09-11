@@ -1,7 +1,7 @@
 ---
 title: "Hamed A. Al-Swadi"
-description: "Hamed A. Al-Swadi is a Mid-career Biochar researcher at Sana'a University in YE. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.678949
+description: "Hamed A. Al-Swadi is a Mid-career Biochar researcher at King Saud University in SA. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.600601
 url: "/cdr-researcher-census/researchers/hamed-a-al-swadi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hamed-a-al-swadi-a5081259/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sana'a University"
+    "name": "King Saud University"
   },
   "sameAs": "https://openalex.org/A5081259721"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hamed A. Al-Swadi**  
-Sana'a University ·  YE
+King Saud University · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 345 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 377 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impacts of kaolinite enrichment on biochar and hydrochar characterization, stability, toxicity, and maize germination and growth** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Clay-Biochar Composites: Emerging Applications in Soil** (2023)
    5 citations · Biochar

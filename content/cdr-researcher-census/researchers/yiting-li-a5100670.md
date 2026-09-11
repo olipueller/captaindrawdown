@@ -1,7 +1,7 @@
 ---
 title: "Yiting Li"
-description: "Yiting Li is a Senior Soil Carbon researcher at University of California, Davis in US. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.454864
+description: "Yiting Li is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.401223
 url: "/cdr-researcher-census/researchers/yiting-li-a5100670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yiting-li-a5100670/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California, Davis"
+    "name": "South China Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5356-8930",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yiting Li**  
-University of California, Davis · 🇺🇸 US
+South China Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 584 |
-| Publications | 45 |
-| CDR Focus | 6.7% |
+| Citations | 607 |
+| Publications | 46 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Protists regulate microbially mediated organic carbon turnover in soil aggregates** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Enhanced adsorption of copper citrate complexes by ferromanganese oxide biochar from water: performance and mechanism** (2025)
    0 citations · Biochar

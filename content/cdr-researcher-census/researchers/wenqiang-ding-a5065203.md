@@ -1,7 +1,7 @@
 ---
 title: "Wenqiang Ding"
-description: "Wenqiang Ding is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.976478
+description: "Wenqiang Ding is a Mid-career Soil Carbon researcher at Central Committee of the Communist Party of China in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.943493
 url: "/cdr-researcher-census/researchers/wenqiang-ding-a5065203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenqiang-ding-a5065203/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanxi Agricultural University"
+    "name": "Central Committee of the Communist Party of China"
   },
   "sameAs": "https://openalex.org/A5065203246"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenqiang Ding**  
-Shanxi Agricultural University · 🇨🇳 CN
+Central Committee of the Communist Party of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 205 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 208 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

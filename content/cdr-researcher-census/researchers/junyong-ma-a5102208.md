@@ -1,7 +1,7 @@
 ---
 title: "Junyong Ma"
-description: "Junyong Ma is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.677878
+description: "Junyong Ma is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.631884
 url: "/cdr-researcher-census/researchers/junyong-ma-a5102208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 346 |
-| Publications | 28 |
-| CDR Focus | 14.3% |
+| h-index | 10 |
+| Citations | 354 |
+| Publications | 24 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Reducing soil organic carbon mineralization under moderate thinning magnifies the soil carbon sink in a Larix principis-rupprechtii plantation** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Influence of nature reserve road traffic disturbance on soil carbon** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Soil mineralized carbon drives more carbon stock in coniferous-broadleaf mixed plantations compared to pure plantations** (2022)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Influence of Nature Reserve Road Traffic Disturbance on Soil C: A Case Study in Hulun Beihuir Huihe National Nature Reserve** (2024)
    0 citations · Soil Carbon

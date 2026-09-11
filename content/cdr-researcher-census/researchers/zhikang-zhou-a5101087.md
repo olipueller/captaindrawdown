@@ -1,7 +1,7 @@
 ---
 title: "Zhikang Zhou"
-description: "Zhikang Zhou is a Mid-career Biochar researcher at Binghamton University in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.843040
+description: "Zhikang Zhou is a Mid-career Biochar researcher at Binghamton University in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.761126
 url: "/cdr-researcher-census/researchers/zhikang-zhou-a5101087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 250 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| h-index | 11 |
+| Citations | 277 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Selective degradation of organic pollutants in the aquatic environment by microplastic-derived dissolved organic matter through molecular photoresponse sequence transformation** (2024)
-   22 citations
+   24 citations
 
 2. **Enhanced removal of methylene blue from water by mesopore-dominant biochar from kelp: Kinetic, equilibrium and thermodynamic studies** (2024)
    17 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Hongli Lian"
-description: "Hongli Lian is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.896867
+description: "Hongli Lian is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.789930
 url: "/cdr-researcher-census/researchers/hongli-lian-a5035054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 227 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| h-index | 7 |
+| Citations | 264 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

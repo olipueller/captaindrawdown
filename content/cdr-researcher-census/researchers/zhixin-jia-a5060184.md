@@ -1,7 +1,7 @@
 ---
 title: "Zhixin Jia"
 description: "Zhixin Jia is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.793655
+date: 2026-09-11T02:38:29.742203
 url: "/cdr-researcher-census/researchers/zhixin-jia-a5060184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 276 |
+| Citations | 287 |
 | Publications | 6 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manure applications to increase carbon sequestration and macroaggregate-stabilized carbon** (2022)
-   80 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Rejuvenation of iron oxides enhances carbon sequestration by the ‘iron gate’ and ‘enzyme latch’ mechanisms in a rice-wheat cropping system** (2022)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Towards a mechanistic understanding of microbial and nonmicrobial mediated topsoil organic carbon sequestration efficiency in a rice-wheat cropping system** (2021)
    13 citations · Soil Carbon

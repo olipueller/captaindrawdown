@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Talero"
 description: "Gabriel Talero is a Mid-career BECCS researcher at Universidad Nacional de Colombia in CO. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226003
+date: 2026-09-11T02:38:30.194181
 url: "/cdr-researcher-census/researchers/gabriel-talero-a5050090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 136 |
+| Citations | 138 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

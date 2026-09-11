@@ -1,7 +1,7 @@
 ---
 title: "Qiongchao Wang"
 description: "Qiongchao Wang is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.059992
+date: 2026-09-11T02:38:29.992700
 url: "/cdr-researcher-census/researchers/qiongchao-wang-a5111530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 179 |
+| Citations | 192 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recycling alkali lignin-derived biochar with adsorbed cadmium into cost-effective CdS/C photocatalyst for methylene blue removal** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

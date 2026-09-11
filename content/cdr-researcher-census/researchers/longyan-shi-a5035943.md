@@ -1,7 +1,7 @@
 ---
 title: "Longyan Shi"
-description: "Longyan Shi is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.205404
+description: "Longyan Shi is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Zhengzhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.119806
 url: "/cdr-researcher-census/researchers/longyan-shi-a5035943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/longyan-shi-a5035943/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "First Affiliated Hospital of Zhengzhou University"
   },
   "sameAs": "https://openalex.org/A5035943686"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Longyan Shi**  
-Nanjing Forestry University · 🇨🇳 CN
+First Affiliated Hospital of Zhengzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 141 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 156 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Arbor-shrub mixed vegetation restoration strategies cause greater increases in plant-derived carbon than microbial-derived carbon in limestone hills** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Long-term thinning effects on fine root biomass, morphology, and chemistry in a Pinus massoniana forest** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Khel"
-description: "Tomáš Khel is a Senior Soil Carbon researcher at Výzkumný ústav monitoringu a ochrany půdy, v. v. i. in CZ. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.797434
+description: "Tomáš Khel is a Senior Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.764893
 url: "/cdr-researcher-census/researchers/tomas-khel-a5075671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tomas-khel-a5075671/",
   "affiliation": {
     "@type": "Organization",
-    "name": "V\u00fdzkumn\u00fd \u00fastav monitoringu a ochrany p\u016fdy, v. v. i."
+    "name": "Jan Evangelista Purkyn\u011b University in \u00dast\u00ed nad Labem"
   },
   "sameAs": "https://openalex.org/A5075671361"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tomáš Khel**  
-Výzkumný ústav monitoringu a ochrany půdy, v. v. i. ·  CZ
+Jan Evangelista Purkyně University in Ústí nad Labem ·  CZ
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 274 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 276 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

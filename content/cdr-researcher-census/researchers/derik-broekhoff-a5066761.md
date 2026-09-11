@@ -1,7 +1,7 @@
 ---
 title: "Derik Broekhoff"
 description: "Derik Broekhoff is a Senior General CDR researcher at Stockholm Environment Institute in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662055
+date: 2026-09-11T02:38:29.610113
 url: "/cdr-researcher-census/researchers/derik-broekhoff-a5066761/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 357 |
+| Citations | 370 |
 | Publications | 36 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Ten New Insights in Climate Science 2025** (2026)
    0 citations · General CDR

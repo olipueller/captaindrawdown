@@ -1,7 +1,7 @@
 ---
 title: "Mike Bretherton"
-description: "Mike Bretherton is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.047344
+description: "Mike Bretherton is a Mid-career Soil Carbon researcher at Massey University in NZ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.007340
 url: "/cdr-researcher-census/researchers/mike-bretherton-a5110640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mike Bretherton",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mike-bretherton-a5110640/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Massey University"
+  },
   "sameAs": "https://openalex.org/A5110640204"
 }
 </script>
 
 ## Profile
 
-**Mike Bretherton**
+**Mike Bretherton**  
+Massey University · 🇳🇿 NZ
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 183 |
+| Citations | 188 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

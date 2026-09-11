@@ -1,7 +1,7 @@
 ---
 title: "Aaron Bizimana"
 description: "Aaron Bizimana is an Early-career General CDR researcher at Tongji University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.276294
+date: 2026-09-11T02:38:30.245880
 url: "/cdr-researcher-census/researchers/aaron-bizimana-a5063463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 126 |
+| Citations | 128 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving China's carbon neutrality: Predicting driving factors of CO2 emission by artificial neural network** (2022)
-   79 citations · General CDR
+   80 citations · General CDR
 
 ## External Profiles
 

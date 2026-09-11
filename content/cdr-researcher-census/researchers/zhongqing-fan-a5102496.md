@@ -1,7 +1,7 @@
 ---
 title: "Zhongqing Fan"
 description: "Zhongqing Fan is a Senior Biochar researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328925
+date: 2026-09-11T02:38:30.289999
 url: "/cdr-researcher-census/researchers/zhongqing-fan-a5102496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 117 |
+| Citations | 120 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

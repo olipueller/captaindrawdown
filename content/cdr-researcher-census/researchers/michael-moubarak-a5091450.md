@@ -1,7 +1,7 @@
 ---
 title: "Michael Moubarak"
-description: "Michael Moubarak is an Early-career Soil Carbon researcher at Hamilton College in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.124804
+description: "Michael Moubarak is an Early-career Soil Carbon researcher at Hamilton College in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.073370
 url: "/cdr-researcher-census/researchers/michael-moubarak-a5091450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 161 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 169 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

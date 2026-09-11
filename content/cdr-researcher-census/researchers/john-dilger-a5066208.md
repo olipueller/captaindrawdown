@@ -1,7 +1,7 @@
 ---
 title: "John Dilger"
 description: "John Dilger is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.910103
+date: 2026-09-11T02:38:29.872590
 url: "/cdr-researcher-census/researchers/john-dilger-a5066208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 222 |
+| Citations | 228 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2024)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2023)
    0 citations

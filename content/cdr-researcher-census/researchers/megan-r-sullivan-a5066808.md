@@ -1,7 +1,7 @@
 ---
 title: "Megan R. Sullivan"
 description: "Megan R. Sullivan is a Senior Ocean CDR researcher at University of Rhode Island in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.432430
+date: 2026-09-11T02:38:29.389070
 url: "/cdr-researcher-census/researchers/megan-r-sullivan-a5066808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 623 |
+| Citations | 628 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Decoupled timescales of organic carbon and phosphorus recycling in the global ocean** (2026)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dandan Zhang"
-description: "Dandan Zhang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.380181
+description: "Dandan Zhang is a Senior Biochar researcher at Nanjing Forestry University in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.328405
 url: "/cdr-researcher-census/researchers/dandan-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dandan-zhang-a5100386/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Heilongjiang Academy of Sciences"
+    "name": "Nanjing Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4763-2019",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dandan Zhang**  
-Heilongjiang Academy of Sciences · 🇨🇳 CN
+Nanjing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 732 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| Citations | 760 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    24 citations · Biochar
 
 2. **Increasing soil organic carbon pools and wheat yields by optimising tillage and fertilisation on the Loess Plateau in China** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Synergistic effects between adsorption and chemical reduction towards the effective Cr(Ⅵ) removal in the presence of the sulfur-doped biochar material** (2023)
    0 citations · Biochar

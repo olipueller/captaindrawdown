@@ -1,7 +1,7 @@
 ---
 title: "Prakash Binnal"
-description: "Prakash Binnal is a Mid-career Biochar researcher at Siddaganga Institute of Technology in IN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.534399
+description: "Prakash Binnal is a Mid-career Biochar researcher at Institute of Engineering in NP. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.470340
 url: "/cdr-researcher-census/researchers/prakash-binnal-a5056479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prakash-binnal-a5056479/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Siddaganga Institute of Technology"
+    "name": "Institute of Engineering"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1229-1100",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Prakash Binnal**  
-Siddaganga Institute of Technology · 🇮🇳 IN
+Institute of Engineering ·  NP
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 472 |
-| Publications | 33 |
-| CDR Focus | 9.1% |
+| Citations | 501 |
+| Publications | 34 |
+| CDR Focus | 8.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

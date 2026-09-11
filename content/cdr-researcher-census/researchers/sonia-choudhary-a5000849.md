@@ -1,7 +1,7 @@
 ---
 title: "Sonia Choudhary"
 description: "Sonia Choudhary is a Mid-career BECCS researcher at Indian Institute of Technology Roorkee in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.887875
+date: 2026-09-11T02:38:29.832977
 url: "/cdr-researcher-census/researchers/sonia-choudhary-a5000849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 230 |
+| Citations | 243 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Carbon capture, storage, and usage with microalgae: a review** (2023)
-   81 citations · BECCS
+   82 citations · BECCS
 
 ## External Profiles
 

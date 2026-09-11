@@ -1,7 +1,7 @@
 ---
 title: "Weishan Liu"
 description: "Weishan Liu is a Senior DAC researcher at State Key Laboratory of Clean Energy Utilization. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.330806
+date: 2026-09-11T02:38:29.285206
 url: "/cdr-researcher-census/researchers/weishan-liu-a5030542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 871 |
+| Citations | 881 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    69 citations
 
 2. **Humidity sensitivity reducing of moisture swing adsorbents by hydrophobic carrier doping for CO2 direct air capture** (2023)
-   53 citations
+   54 citations
 
 3. **Module optimization and array design of moisture swing direct air capture based on 2D-3D coupled analysis** (2024)
-   13 citations
+   14 citations
 
 4. **Kinetic research on ion exchange regeneration of quaternary ammonium-based CO2 sorbent for direct air capture** (2023)
    11 citations

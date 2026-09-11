@@ -1,7 +1,7 @@
 ---
 title: "Zainab Afailal"
-description: "Zainab Afailal is a Mid-career Biochar researcher at Universidad de Zaragoza in ES. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.260612
+description: "Zainab Afailal is a Mid-career Biochar researcher at Universidad de Zaragoza in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.213446
 url: "/cdr-researcher-census/researchers/zainab-afailal-a5012351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 129 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| h-index | 7 |
+| Citations | 134 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

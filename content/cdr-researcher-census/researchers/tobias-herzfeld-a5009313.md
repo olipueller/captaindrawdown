@@ -1,7 +1,7 @@
 ---
 title: "Tobias Herzfeld"
-description: "Tobias Herzfeld is a Senior Soil Carbon researcher. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852610
+description: "Tobias Herzfeld is a Senior Soil Carbon researcher. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.821108
 url: "/cdr-researcher-census/researchers/tobias-herzfeld-a5009313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 245 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 249 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon dynamics from agricultural management practices under climate change** (2021)
-   71 citations · General CDR
+   72 citations · General CDR
 
 2. **SOC sequestration potentials for agricultural management practices under climate change** (2021)
    3 citations · General CDR

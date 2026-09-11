@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Ji"
 description: "Yuhui Ji is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.773905
+date: 2026-09-11T02:38:29.713629
 url: "/cdr-researcher-census/researchers/yuhui-ji-a5014700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 286 |
+| Citations | 302 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Precipitation Dominates the Allocation Strategy of Above- and Belowground Biomass in Plants on Macro Scales** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Climate Factors Affect Above–Belowground Biomass Allocation in Broad-Leaved and Coniferous Forests by Regulating Soil Nutrients** (2023)
    15 citations

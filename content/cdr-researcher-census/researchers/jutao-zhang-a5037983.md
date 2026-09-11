@@ -1,7 +1,7 @@
 ---
 title: "Jutao Zhang"
-description: "Jutao Zhang is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.293570
+description: "Jutao Zhang is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.237024
 url: "/cdr-researcher-census/researchers/jutao-zhang-a5037983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 1,021 |
-| Publications | 51 |
-| CDR Focus | 7.8% |
+| h-index | 17 |
+| Citations | 1,073 |
+| Publications | 53 |
+| CDR Focus | 7.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **The Role of Soil Salinization in Shaping the Spatio-Temporal Patterns of Soil Organic Carbon Stock** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Identification of Priority Supply Areas for Carbon Sinks Based on Ecosystem Service Flow: A Case Study for the Hexi Region in Northwestern China** (2024)
    3 citations · General CDR

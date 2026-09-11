@@ -1,7 +1,7 @@
 ---
 title: "Rinaldi Rachman"
 description: "Rinaldi Rachman is a Mid-career BECCS researcher at Pertamina (Indonesia) in ID. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.739231
+date: 2026-09-11T02:38:29.690837
 url: "/cdr-researcher-census/researchers/rinaldi-rachman-a5028605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 304 |
+| Citations | 313 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

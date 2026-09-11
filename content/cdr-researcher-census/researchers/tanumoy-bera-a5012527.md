@@ -1,7 +1,7 @@
 ---
 title: "Tanumoy Bera"
-description: "Tanumoy Bera is a Mid-career Soil Carbon researcher at University of Wyoming in US. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.374193
+description: "Tanumoy Bera is a Mid-career Soil Carbon researcher at University of Wyoming in US. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.323119
 url: "/cdr-researcher-census/researchers/tanumoy-bera-a5012527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 749 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 777 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar aided priming of carbon and nutrient availability in three soil orders of India** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Soil Carbon Sequestration in the Context of Climate Change** (2024)
    3 citations · General CDR

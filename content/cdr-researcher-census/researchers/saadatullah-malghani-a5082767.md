@@ -1,7 +1,7 @@
 ---
 title: "Saadatullah Malghani"
-description: "Saadatullah Malghani is a Senior Biochar researcher at University of Copenhagen in DK. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.236514
+description: "Saadatullah Malghani is a Senior Biochar researcher at University of Copenhagen in DK. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.184810
 url: "/cdr-researcher-census/researchers/saadatullah-malghani-a5082767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,353 |
+| h-index | 19 |
+| Citations | 1,392 |
 | Publications | 40 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The impact of biochar on the activities of soil nutrients acquisition enzymes is potentially controlled by the pyrolysis temperature: A meta-analysis** (2022)
-   99 citations · Biochar
+   106 citations · Biochar
 
 2. **Biochar combined with different nitrogen fertilization rates increased crop yield and greenhouse gas emissions in a rapeseed-soybean rotation system** (2023)
    23 citations · Biochar
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations · Biochar
 
 5. **Resilience mechanisms in soil organic carbon storage after pre-commercial thinning in mixed oak-pine forests** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

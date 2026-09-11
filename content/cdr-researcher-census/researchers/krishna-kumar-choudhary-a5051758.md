@@ -1,7 +1,7 @@
 ---
 title: "Krishna Kumar Choudhary"
-description: "Krishna Kumar Choudhary is a Mid-career Biochar researcher at Banaras Hindu University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.996438
+description: "Krishna Kumar Choudhary is a Mid-career Biochar researcher at Banaras Hindu University in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.917876
 url: "/cdr-researcher-census/researchers/krishna-kumar-choudhary-a5051758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 198 |
+| h-index | 7 |
+| Citations | 210 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Use of biochar as a sustainable agronomic tool, its limitations and impact on environment: a review** (2024)
-   44 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

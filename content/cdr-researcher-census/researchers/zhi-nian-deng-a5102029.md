@@ -1,7 +1,7 @@
 ---
 title: "Zhi-Nian Deng"
-description: "Zhi-Nian Deng is a Senior Biochar researcher at Guangxi Academy of Agricultural Science in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.181735
+description: "Zhi-Nian Deng is a Senior Biochar researcher at Sugarcane Research Center (Brazil) in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.134648
 url: "/cdr-researcher-census/researchers/zhi-nian-deng-a5102029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhi-nian-deng-a5102029/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guangxi Academy of Agricultural Science"
+    "name": "Sugarcane Research Center (Brazil)"
   },
   "sameAs": "https://openalex.org/A5102029149"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhi-Nian Deng**  
-Guangxi Academy of Agricultural Science · 🇨🇳 CN
+Sugarcane Research Center (Brazil) · 🇧🇷 BR
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 146 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 152 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar and its impact on soil profile and plant development** (2024)
-   24 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

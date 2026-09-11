@@ -1,7 +1,7 @@
 ---
 title: "Johanna Nyman"
 description: "Johanna Nyman is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.157611
+date: 2026-09-11T02:38:30.136036
 url: "/cdr-researcher-census/researchers/johanna-nyman-a5086862/"
 layout: "researcher"
 hiddenInHomeList: true

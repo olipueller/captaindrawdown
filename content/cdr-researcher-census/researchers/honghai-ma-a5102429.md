@@ -1,7 +1,7 @@
 ---
 title: "Honghai Ma"
 description: "Honghai Ma is a Mid-career Soil Carbon researcher at Chongqing Institute of Green and Intelligent Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.970752
+date: 2026-09-11T02:38:29.916397
 url: "/cdr-researcher-census/researchers/honghai-ma-a5102429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 207 |
+| Citations | 211 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hydrological Fragmentation Driving Microbial Carbon Necromass Reduction in Columnar Sediments: Evidence from CAZyme Genomic Signatures in Cascade Reservoirs** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

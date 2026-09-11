@@ -1,7 +1,7 @@
 ---
 title: "Nihan Kaya"
-description: "Nihan Kaya is a Senior Biochar researcher at Ondokuz Mayıs University in TR. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.578337
+description: "Nihan Kaya is a Senior Biochar researcher at Ondokuz Mayıs University in TR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.514487
 url: "/cdr-researcher-census/researchers/nihan-kaya-a5000088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 429 |
+| h-index | 12 |
+| Citations | 453 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Zainab Rehman"
 description: "Zainab Rehman is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.392883
+date: 2026-09-11T02:38:29.350993
 url: "/cdr-researcher-census/researchers/zainab-rehman-a5033566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 705 |
+| Citations | 706 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

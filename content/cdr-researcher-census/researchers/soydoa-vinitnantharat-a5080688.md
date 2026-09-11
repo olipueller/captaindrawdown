@@ -1,7 +1,7 @@
 ---
 title: "Soydoa Vinitnantharat"
-description: "Soydoa Vinitnantharat is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.296895
+description: "Soydoa Vinitnantharat is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.245723
 url: "/cdr-researcher-census/researchers/soydoa-vinitnantharat-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,006 |
-| Publications | 54 |
-| CDR Focus | 7.4% |
-| Trajectory | Exiting |
+| Citations | 1,032 |
+| Publications | 55 |
+| CDR Focus | 9.1% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Fixed-bed biofilter for polluted surface water treatment using chitosan impregnated-coconut husk biochar** (2023)
-   24 citations · Biochar
+   25 citations · Biochar
 
 2. **Adsorption Kinetics of Cadmium and Lead by Biochars in Single- and Bisolute Brackish Water Systems** (2023)
-   20 citations · Biochar
+   22 citations · Biochar
 
 3. **Arsenic, Iron, and Manganese Adsorption in Single and Trinary Heavy Metal Solution Systems by Bamboo-Derived Biochars** (2023)
    13 citations · Biochar
 
 4. **Simultaneous sequestration of cadmium and lead in brackish aquaculture water by biochars: A mechanistic insight** (2024)
    2 citations · Biochar
+
+5. **Valorization of Aromatic Coconut Wastes into Biochars for Carbon Dioxide Uptake and Dye Adsorption: Adsorption Behavior and Economic Feasibility** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

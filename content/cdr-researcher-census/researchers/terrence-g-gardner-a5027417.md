@@ -1,7 +1,7 @@
 ---
 title: "Terrence G. Gardner"
-description: "Terrence G. Gardner is a Senior Biochar researcher at North Carolina State University in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.368112
+description: "Terrence G. Gardner is a Senior Biochar researcher at North Carolina State University in US. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.323036
 url: "/cdr-researcher-census/researchers/terrence-g-gardner-a5027417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 763 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 777 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

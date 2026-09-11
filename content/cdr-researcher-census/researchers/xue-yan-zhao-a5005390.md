@@ -1,7 +1,7 @@
 ---
 title: "Xue-yan ZHAO"
 description: "Xue-yan ZHAO is a Mid-career General CDR researcher at Northwest Normal University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.388606
+date: 2026-09-11T02:38:30.339306
 url: "/cdr-researcher-census/researchers/xue-yan-zhao-a5005390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 106 |
+| Citations | 110 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "W. Gudrun Reijnierse"
-description: "W. Gudrun Reijnierse is a Senior General CDR researcher at Vrije Universiteit Amsterdam in NL. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.336839
+description: "W. Gudrun Reijnierse is a Senior General CDR researcher at Vrije Universiteit Amsterdam in NL. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.292157
 url: "/cdr-researcher-census/researchers/w-gudrun-reijnierse-a5074069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 856 |
-| Publications | 47 |
-| CDR Focus | 10.6% |
+| Citations | 864 |
+| Publications | 49 |
+| CDR Focus | 8.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

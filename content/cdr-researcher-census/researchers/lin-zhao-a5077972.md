@@ -1,7 +1,7 @@
 ---
 title: "Lin Zhao"
 description: "Lin Zhao is a Mid-career Biochar researcher at Hangzhou Academy of Agricultural Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286143
+date: 2026-09-11T02:38:30.249644
 url: "/cdr-researcher-census/researchers/lin-zhao-a5077972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 125 |
+| Citations | 128 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Hongxin Dong"
-description: "Hongxin Dong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.054467
+description: "Hongxin Dong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.961963
 url: "/cdr-researcher-census/researchers/hongxin-dong-a5007978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 181 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 6 |
+| Citations | 201 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

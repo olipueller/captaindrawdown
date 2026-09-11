@@ -1,7 +1,7 @@
 ---
 title: "A SENGUPTA"
 description: "A SENGUPTA is a Senior DAC researcher at Lehigh University in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.565472
+date: 2026-09-11T02:38:29.524854
 url: "/cdr-researcher-census/researchers/a-sengupta-a5008283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 441 |
+| Citations | 443 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Growing |

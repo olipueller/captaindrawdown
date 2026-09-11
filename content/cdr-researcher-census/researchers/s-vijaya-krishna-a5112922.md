@@ -1,7 +1,7 @@
 ---
 title: "S. Vijaya Krishna"
-description: "S. Vijaya Krishna is a Mid-career DAC researcher at Acharya Nagarjuna University in IN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.557804
+description: "S. Vijaya Krishna is a Mid-career DAC researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.515853
 url: "/cdr-researcher-census/researchers/s-vijaya-krishna-a5112922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "S. Vijaya Krishna",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/s-vijaya-krishna-a5112922/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Acharya Nagarjuna University"
-  },
   "sameAs": "https://openalex.org/A5112922540"
 }
 </script>
 
 ## Profile
 
-**S. Vijaya Krishna**  
-Acharya Nagarjuna University · 🇮🇳 IN
+**S. Vijaya Krishna**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 448 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 452 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

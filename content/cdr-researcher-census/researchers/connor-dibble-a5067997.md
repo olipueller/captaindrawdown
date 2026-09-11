@@ -1,7 +1,7 @@
 ---
 title: "Connor Dibble"
 description: "Connor Dibble is a Mid-career Ocean CDR researcher at Fleet Science Center in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.297737
+date: 2026-09-11T02:38:30.239305
 url: "/cdr-researcher-census/researchers/connor-dibble-a5067997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 122 |
+| Citations | 129 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Management approach matters: meeting seagrass recovery and carbon mitigation goals** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

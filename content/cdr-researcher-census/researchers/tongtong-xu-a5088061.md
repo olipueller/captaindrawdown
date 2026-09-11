@@ -1,7 +1,7 @@
 ---
 title: "Tongtong Xu"
-description: "Tongtong Xu is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.441474
+description: "Tongtong Xu is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.378209
 url: "/cdr-researcher-census/researchers/tongtong-xu-a5088061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 608 |
+| h-index | 15 |
+| Citations | 645 |
 | Publications | 36 |
 | CDR Focus | 27.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 3. **Grazing effects on the relationship between plant functional diversity and soil carbon sequestration regulated by livestock species** (2024)
    21 citations · Soil Carbon
@@ -63,16 +63,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 5. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 6. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
-7. **Historical and future dynamics of soil organic carbon and driving mechanisms in mountainous soils of China** (2025)
+7. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
+   8 citations · Enhanced Weathering
+
+8. **Historical and future dynamics of soil organic carbon and driving mechanisms in mountainous soils of China** (2025)
    8 citations · Soil Carbon
-
-8. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   7 citations · Enhanced Weathering
 
 9. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
    7 citations · Enhanced Weathering

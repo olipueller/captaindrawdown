@@ -1,7 +1,7 @@
 ---
 title: "Xiapu Gai"
 description: "Xiapu Gai is a Mid-career Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155636
+date: 2026-09-11T02:38:29.106047
 url: "/cdr-researcher-census/researchers/xiapu-gai-a5056604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 2,340 |
+| Citations | 2,373 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Effects of fallow and chemical fertilizer applications on soil carbon and nitrogen pools in North China Plain: Medium-term and long-term trends** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

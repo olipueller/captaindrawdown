@@ -1,7 +1,7 @@
 ---
 title: "Han Wang"
-description: "Han Wang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.756528
+description: "Han Wang is a Senior Soil Carbon researcher at King University in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.670606
 url: "/cdr-researcher-census/researchers/han-wang-a5100703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/han-wang-a5100703/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "King University"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-2274-5686",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Han Wang**  
-Shenyang Agricultural University · 🇨🇳 CN
+King University · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 295 |
+| h-index | 11 |
+| Citations | 326 |
 | Publications | 36 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term cotton stubble return and subsoiling improve soil organic carbon by changing the stability and organic carbon of soil aggregates in coastal saline fields** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Long-term conservation tillage increase cotton rhizosphere sequestration of soil organic carbon by changing specific microbial CO2 fixation pathways in coastal saline soil** (2024)
    13 citations · Biochar

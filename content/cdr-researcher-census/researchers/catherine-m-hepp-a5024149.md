@@ -1,7 +1,7 @@
 ---
 title: "Catherine M. Hepp"
-description: "Catherine M. Hepp is a Mid-career Soil Carbon researcher at Research Institute for Humanity and Nature in JP. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.229455
+description: "Catherine M. Hepp is a Mid-career Soil Carbon researcher at Research Institute for Humanity and Nature in JP. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.188570
 url: "/cdr-researcher-census/researchers/catherine-m-hepp-a5024149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 136 |
+| h-index | 5 |
+| Citations | 140 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Regenerative Agriculture Practices on Soil Organic Carbon and Total Nitrogen on a Landscape Scale** (2023)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Zhao"
-description: "Yuqing Zhao is a Senior Biochar researcher at Northwest A&F University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484563
+description: "Yuqing Zhao is a Senior Biochar researcher at Tsinghua University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.440446
 url: "/cdr-researcher-census/researchers/yuqing-zhao-a5102200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuqing-zhao-a5102200/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northwest A&F University"
+    "name": "Tsinghua University"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-4219-8750",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuqing Zhao**  
-Northwest A&F University · 🇨🇳 CN
+Tsinghua University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 538 |
-| Publications | 15 |
-| CDR Focus | 20.0% |
+| Citations | 547 |
+| Publications | 16 |
+| CDR Focus | 18.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 2. **Moderate Heating Reduces Contents and Toxicity Related to Polycyclic Aromatic Hydrocarbons of Hydrochar** (2024)
    0 citations · Biochar

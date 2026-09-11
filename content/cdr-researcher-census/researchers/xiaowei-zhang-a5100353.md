@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Zhang"
-description: "Xiaowei Zhang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.352489
+description: "Xiaowei Zhang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.300468
 url: "/cdr-researcher-census/researchers/xiaowei-zhang-a5100353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 805 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 832 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

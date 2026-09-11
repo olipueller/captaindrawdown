@@ -1,7 +1,7 @@
 ---
 title: "Simon Weldon"
-description: "Simon Weldon is a Mid-career Soil Carbon researcher at Norwegian Institute for Bioeconomy in NO. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.377069
+description: "Simon Weldon is a Mid-career Soil Carbon researcher at Norwegian Institute for Bioeconomy in NO. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.324459
 url: "/cdr-researcher-census/researchers/simon-weldon-a5061594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 742 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 771 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
    9 citations · General CDR

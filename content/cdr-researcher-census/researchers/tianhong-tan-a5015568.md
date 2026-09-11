@@ -1,7 +1,7 @@
 ---
 title: "Tianhong Tan"
-description: "Tianhong Tan is a Senior Soil Carbon researcher at Harbin Engineering University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.061250
+description: "Tianhong Tan is a Senior Soil Carbon researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.017306
 url: "/cdr-researcher-census/researchers/tianhong-tan-a5015568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tianhong Tan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianhong-tan-a5015568/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Harbin Engineering University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-4300-6210",
     "https://openalex.org/A5015568458"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Tianhong Tan**  
-Harbin Engineering University · 🇨🇳 CN
+**Tianhong Tan**
 
 **Career Stage:** Senior
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 179 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 185 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

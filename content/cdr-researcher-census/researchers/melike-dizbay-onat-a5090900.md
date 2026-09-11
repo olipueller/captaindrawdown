@@ -1,7 +1,7 @@
 ---
 title: "Melike Dizbay-Onat"
-description: "Melike Dizbay-Onat is a Mid-career Biochar researcher at University of South Alabama in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.685567
+description: "Melike Dizbay-Onat is a Mid-career Biochar researcher at University of South Alabama in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.629376
 url: "/cdr-researcher-census/researchers/melike-dizbay-onat-a5090900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 340 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 355 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon-Based Adsorbents for Microplastic Removal from Wastewater** (2024)
-   74 citations · Biochar
+   78 citations · Biochar
+
+2. **A critical review of micro- and nanoplastics removal by carbonaceous sorbents, conventional media and emerging framework-based porous materials** (2026)
+   0 citations
 
 ## External Profiles
 

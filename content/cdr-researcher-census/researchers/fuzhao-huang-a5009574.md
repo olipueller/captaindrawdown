@@ -1,7 +1,7 @@
 ---
 title: "Fuzhao Huang"
-description: "Fuzhao Huang is a Mid-career Soil Carbon researcher at Guangxi Institute of Botany in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.690535
+description: "Fuzhao Huang is a Mid-career Soil Carbon researcher at Guangxi Institute of Botany in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.626479
 url: "/cdr-researcher-census/researchers/fuzhao-huang-a5009574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 338 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 358 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Molecular shifts in dissolved organic matter and microbial community assembly during vegetation restoration in karst ecosystems** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Unraveling radial growth patterns in tropical karst forests: A seasonal perspective** (2025)
    1 citations · Soil Carbon

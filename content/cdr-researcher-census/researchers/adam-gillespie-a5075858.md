@@ -1,7 +1,7 @@
 ---
 title: "Adam Gillespie"
-description: "Adam Gillespie is a Senior Soil Carbon researcher at University of Guelph in CA. With 92 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.181060
+description: "Adam Gillespie is a Senior Soil Carbon researcher at University of Guelph in CA. With 97 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.128663
 url: "/cdr-researcher-census/researchers/adam-gillespie-a5075858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,907 |
-| Publications | 92 |
-| CDR Focus | 12.0% |
+| Citations | 1,981 |
+| Publications | 97 |
+| CDR Focus | 11.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Chemical composition of soil humin in an organic soil profile** (2024)
-   19 citations
+1. **Chemical composition and thermal stability of topsoil organic carbon: Influence of cropping system and tillage practices** (2024)
+   21 citations · Soil Carbon
 
-2. **Chemical composition and thermal stability of topsoil organic carbon: Influence of cropping system and tillage practices** (2024)
-   19 citations · Soil Carbon
+2. **Chemical composition of soil humin in an organic soil profile** (2024)
+   20 citations
 
 3. **Impacts of land use conversions on soil organic carbon in a warming-induced agricultural frontier in Northern Ontario, Canada under historical and future climate** (2023)
    19 citations · Soil Carbon
 
 4. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
-   14 citations
+   15 citations
 
 5. **Adaptive multi-paddock grazing increases soil carbon stocks and decreases the carbon footprint of beef production in Ontario, Canada** (2024)
    13 citations · General CDR

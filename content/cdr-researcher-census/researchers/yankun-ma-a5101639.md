@@ -1,7 +1,7 @@
 ---
 title: "Yankun Ma"
 description: "Yankun Ma is a Mid-career Ocean CDR researcher at Anhui University of Science and Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.136423
+date: 2026-09-11T02:38:30.090248
 url: "/cdr-researcher-census/researchers/yankun-ma-a5101639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 157 |
+| Citations | 163 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

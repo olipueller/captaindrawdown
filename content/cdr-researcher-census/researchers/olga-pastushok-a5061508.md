@@ -1,7 +1,7 @@
 ---
 title: "Olga Pastushok"
-description: "Olga Pastushok is a Mid-career Biochar researcher at Lappeenranta-Lahti University of Technology in FI. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.212496
+description: "Olga Pastushok is a Mid-career Biochar researcher at Natural Resources Institute Finland in FI. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.154160
 url: "/cdr-researcher-census/researchers/olga-pastushok-a5061508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/olga-pastushok-a5061508/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Lappeenranta-Lahti University of Technology"
+    "name": "Natural Resources Institute Finland"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9330-5302",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Olga Pastushok**  
-Lappeenranta-Lahti University of Technology ·  FI
+Natural Resources Institute Finland ·  FI
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 139 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 147 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

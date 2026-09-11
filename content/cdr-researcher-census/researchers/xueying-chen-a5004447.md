@@ -1,7 +1,7 @@
 ---
 title: "Xueying Chen"
-description: "Xueying Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320850
+description: "Xueying Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.271881
 url: "/cdr-researcher-census/researchers/xueying-chen-a5004447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 905 |
+| h-index | 9 |
+| Citations | 927 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The desertification process alters soil microbial metabolic limitations and their effects on soil carbon sequestration in a Tibetan alpine steppe** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhirou Wang"
 description: "Zhirou Wang is a Senior Biochar researcher at Anhui University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.486296
+date: 2026-09-11T02:38:29.439000
 url: "/cdr-researcher-census/researchers/zhirou-wang-a5026124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 536 |
+| Citations | 548 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative study on characteristics and mechanism of levofloxacin adsorption on swine manure biochar** (2022)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Effect of Pyrolysis Temperature on the Characteristics and Levofloxacin Adsorption Capacity of Swine Manure Biochar** (2022)
    0 citations · Biochar

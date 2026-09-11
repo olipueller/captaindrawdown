@@ -1,7 +1,7 @@
 ---
 title: "Katja Fennel"
-description: "Katja Fennel is an Eminent Ocean CDR researcher at Dalhousie University in CA. With 358 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.072793
+description: "Katja Fennel is an Eminent Ocean CDR researcher at Dalhousie University in CA. With 362 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.025290
 url: "/cdr-researcher-census/researchers/katja-fennel-a5000863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 51 |
-| Citations | 11,250 |
-| Publications | 358 |
-| CDR Focus | 5.3% |
+| h-index | 52 |
+| Citations | 11,403 |
+| Publications | 362 |
+| CDR Focus | 5.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   41 citations · General CDR
+   44 citations · General CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   38 citations · General CDR
+   39 citations · General CDR
 
 3. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR
 
 4. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   10 citations · General CDR
+   12 citations · General CDR
 
 5. **The Verification Challenge of Marine Carbon Dioxide Removal** (2025)
    8 citations · General CDR
@@ -71,14 +71,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 7. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
    4 citations · General CDR
 
-8. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
+8. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+   3 citations
+
+9. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
    2 citations · General CDR
 
-9. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+10. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
    2 citations · General CDR
-
-10. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
-   2 citations
 
 ## External Profiles
 

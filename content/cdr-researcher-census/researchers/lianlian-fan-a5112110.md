@@ -1,7 +1,7 @@
 ---
 title: "Lianlian Fan"
-description: "Lianlian Fan is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.610442
+description: "Lianlian Fan is a Mid-career Soil Carbon researcher at Union Hospital in HK. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.549286
 url: "/cdr-researcher-census/researchers/lianlian-fan-a5112110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lianlian-fan-a5112110/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Ecology and Geography"
+    "name": "Union Hospital"
   },
   "sameAs": "https://openalex.org/A5112110973"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Lianlian Fan**  
-Institute of Ecology and Geography ·  MD
+Union Hospital · 🇭🇰 HK
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 398 |
-| Publications | 31 |
-| CDR Focus | 16.1% |
+| h-index | 12 |
+| Citations | 420 |
+| Publications | 34 |
+| CDR Focus | 14.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Grazing Decreases Soil Aggregation and Has Different Effects on Soil Organic Carbon Storage across Different Grassland Types in Northern Xinjiang, China** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **The response of soil organic carbon content of grasslands in Northern Xinjiang to future climate change** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Multiscale drivers and tipping points regulating particulate and mineral-associated organic carbon across Central Asian grasslands** (2025)
    4 citations · Soil Carbon
 
 5. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

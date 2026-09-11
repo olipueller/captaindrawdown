@@ -1,7 +1,7 @@
 ---
 title: "Michael Magnan"
-description: "Michael Magnan is a Mid-career General CDR researcher at Natural Resources Canada in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.129267
+description: "Michael Magnan is a Mid-career General CDR researcher at Natural Resources Canada in CA. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.087469
 url: "/cdr-researcher-census/researchers/michael-magnan-a5110545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 159 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 164 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Improving carbon storage and greenhouse gas emissions avoidance through harvested wood products use** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

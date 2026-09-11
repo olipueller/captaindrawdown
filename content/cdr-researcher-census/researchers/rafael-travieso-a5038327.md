@@ -1,7 +1,7 @@
 ---
 title: "Rafael Travieso"
-description: "Rafael Travieso is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.236634
+description: "Rafael Travieso is a Mid-career Soil Carbon researcher at Florida International University in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.169924
 url: "/cdr-researcher-census/researchers/rafael-travieso-a5038327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rafael Travieso",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rafael-travieso-a5038327/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Florida International University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-4747-6877",
     "https://openalex.org/A5038327398"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Rafael Travieso**
+**Rafael Travieso**  
+Florida International University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 134 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 144 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Tropical cyclones cumulatively control regional carbon fluxes in Everglades mangrove wetlands (Florida, USA)** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

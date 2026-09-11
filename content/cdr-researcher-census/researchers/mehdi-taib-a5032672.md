@@ -1,7 +1,7 @@
 ---
 title: "Mehdi Taib"
 description: "Mehdi Taib is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.846861
+date: 2026-09-11T02:38:29.762823
 url: "/cdr-researcher-census/researchers/mehdi-taib-a5032672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 249 |
+| Citations | 277 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **the main types of derivatives of plant matter and agricultural waste used as bio-adsorbents for the removal of heavy metals and dyes: a review** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

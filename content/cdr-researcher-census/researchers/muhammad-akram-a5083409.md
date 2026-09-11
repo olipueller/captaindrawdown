@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.312088
+date: 2026-09-11T02:38:29.254656
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 947 |
+| Citations | 993 |
 | Publications | 56 |
 | CDR Focus | 17.9% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   163 citations · DAC
+   170 citations · DAC
 
 2. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   101 citations · BECCS
+   102 citations · BECCS
 
 3. **Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept** (2024)
    24 citations · DAC
@@ -65,11 +65,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
    4 citations · General CDR
 
-6. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
-   3 citations · General CDR
+6. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
+   3 citations · BECCS
 
-7. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
-   2 citations · BECCS
+7. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
+   3 citations · General CDR
 
 8. **IDRIC Frontiers Report Carbon Dioxide Removal Technologies** (2025)
    0 citations · General CDR

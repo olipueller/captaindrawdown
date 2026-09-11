@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ayodele Mesele"
-description: "Samuel Ayodele Mesele is a Mid-career Soil Carbon researcher at Liberian Institute for Biomedical Research in LR. With 48 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.816924
+description: "Samuel Ayodele Mesele is a Mid-career Soil Carbon researcher at Liberian Institute for Biomedical Research in LR. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.733104
 url: "/cdr-researcher-census/researchers/samuel-ayodele-mesele-a5020572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 264 |
-| Publications | 48 |
-| CDR Focus | 6.2% |
+| h-index | 10 |
+| Citations | 292 |
+| Publications | 52 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Variation in Soil Organic Carbon and Total Nitrogen Stocks Across Elevation Gradients and Soil Depths in the Mount Kenya East Forest** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Soil organic carbon and nutrient characteristics of Anogeissus groves in old Opara forest reserve, Nigeria** (2024)
    7 citations · Soil Carbon

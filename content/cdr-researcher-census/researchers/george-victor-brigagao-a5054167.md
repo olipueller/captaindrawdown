@@ -1,7 +1,7 @@
 ---
 title: "George Victor Brigagão"
 description: "George Victor Brigagão is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.497997
+date: 2026-09-11T02:38:29.449303
 url: "/cdr-researcher-census/researchers/george-victor-brigagao-a5054167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 518 |
+| Citations | 532 |
 | Publications | 26 |
 | CDR Focus | 19.2% |
 | Trajectory | Declining |
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    32 citations · BECCS
 
 2. **Ironmaking hot-blast-stove retrofit with post-combustion CO2 capture by chemical absorption: Techno-economic evaluation under carbon taxation** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture** (2024)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Md. Juned K. Ahmed"
-description: "Md. Juned K. Ahmed is a Mid-career Biochar researcher at Rajiv Gandhi University in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.393208
+description: "Md. Juned K. Ahmed is a Mid-career Biochar researcher at Rajiv Gandhi University in IN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.344735
 url: "/cdr-researcher-census/researchers/md-juned-k-ahmed-a5027117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 704 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 719 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

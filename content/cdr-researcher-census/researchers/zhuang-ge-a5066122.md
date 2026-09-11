@@ -1,7 +1,7 @@
 ---
 title: "Zhuang Ge"
-description: "Zhuang Ge is a Mid-career Soil Carbon researcher at Dalian University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.568662
+description: "Zhuang Ge is a Mid-career Soil Carbon researcher at Dalian University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.501724
 url: "/cdr-researcher-census/researchers/zhuang-ge-a5066122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 438 |
+| h-index | 7 |
+| Citations | 467 |
 | Publications | 11 |
 | CDR Focus | 27.3% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 3. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Long-Term Fertilization Mediates Microbial Keystone Taxa to Regulate Straw-Derived 13C Incorporation in Soil Aggregates** (2025)
    0 citations

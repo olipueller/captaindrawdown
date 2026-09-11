@@ -1,7 +1,7 @@
 ---
 title: "Julia Lübbers"
-description: "Julia Lübbers is a Senior Ocean CDR researcher at University of Algarve in PT. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499525
+description: "Julia Lübbers is a Senior Ocean CDR researcher at University of Algarve in PT. With 48 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.453906
 url: "/cdr-researcher-census/researchers/julia-lubbers-a5043850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 514 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 525 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Alkalinity enhancement in intertidal environments: preliminary results of a field experiment** (2023)
+1. **Evaluating ocean alkalinity enhancement for carbon dioxide removal: evidence from a one-year saltmarsh field experiment** (2025)
+   1 citations · General CDR
+
+2. **Alkalinity enhancement in intertidal environments: preliminary results of a field experiment** (2023)
    1 citations · Ocean CDR
 
-2. **Enhancing alkalinity in Ria Formosa by deployment of alkaline substrates: variability in nutrients concentration and fluxes** (2026)
+3. **Enhancing alkalinity in Ria Formosa by deployment of alkaline substrates: variability in nutrients concentration and fluxes** (2026)
    0 citations
 
-3. **Supplementary material to "Evaluating ocean alkalinity enhancement for carbon dioxide removal: evidence from a one-year saltmarsh field experiment"** (2025)
-   0 citations · General CDR
-
-4. **Evaluating ocean alkalinity enhancement for carbon dioxide removal: evidence from a one-year saltmarsh field experiment** (2025)
+4. **Supplementary material to "Evaluating ocean alkalinity enhancement for carbon dioxide removal: evidence from a one-year saltmarsh field experiment"** (2025)
    0 citations · General CDR
 
 5. **Bacterial response to alkalinity enhancement in intertidal environments: results of one-year field experiment&amp;#160;** (2024)

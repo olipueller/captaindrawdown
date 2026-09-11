@@ -1,7 +1,7 @@
 ---
 title: "Xinru Liang"
 description: "Xinru Liang is a Mid-career Biochar researcher at Shihezi University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.677069
+date: 2026-09-11T02:38:29.616175
 url: "/cdr-researcher-census/researchers/xinru-liang-a5020861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 346 |
+| Citations | 365 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 2. **The degradation and greenhouse gas emissions of microplastic-derived dissolved organic matter: Role of mineral and polymer types** (2026)
    1 citations

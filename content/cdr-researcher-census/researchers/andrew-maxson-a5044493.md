@@ -1,7 +1,7 @@
 ---
 title: "Andrew Maxson"
-description: "Andrew Maxson is a Mid-career BECCS researcher. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.068690
+description: "Andrew Maxson is a Mid-career BECCS researcher. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.040788
 url: "/cdr-researcher-census/researchers/andrew-maxson-a5044493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 176 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 177 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

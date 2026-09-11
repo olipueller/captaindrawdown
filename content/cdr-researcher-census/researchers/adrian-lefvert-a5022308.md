@@ -1,7 +1,7 @@
 ---
 title: "Adrian Lefvert"
 description: "Adrian Lefvert is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.864125
+date: 2026-09-11T02:38:29.831144
 url: "/cdr-researcher-census/researchers/adrian-lefvert-a5022308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 240 |
+| Citations | 244 |
 | Publications | 9 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **What are the potential paths for carbon capture and storage in Sweden? A multi-level assessment of historical and current developments** (2021)
-   33 citations · BECCS
+   34 citations · BECCS
 
 2. **Lost in the scenarios of negative emissions: The role of bioenergy with carbon capture and storage (BECCS)** (2023)
-   31 citations · BECCS
+   32 citations · BECCS
 
 3. **Smarter ways to capture carbon dioxide – exploring alternatives for small to medium-scale carbon capture in Kraft pulp mills** (2023)
    11 citations · General CDR

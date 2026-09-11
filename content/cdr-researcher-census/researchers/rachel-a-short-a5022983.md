@@ -1,7 +1,7 @@
 ---
 title: "Rachel A. Short"
-description: "Rachel A. Short is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.120929
+description: "Rachel A. Short is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.089220
 url: "/cdr-researcher-census/researchers/rachel-a-short-a5022983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 162 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 9 |
+| Citations | 164 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

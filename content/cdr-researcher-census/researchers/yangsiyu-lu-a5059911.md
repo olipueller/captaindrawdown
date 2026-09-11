@@ -1,7 +1,7 @@
 ---
 title: "Yangsiyu Lu"
-description: "Yangsiyu Lu is a Mid-career General CDR researcher at South China University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.672503
+description: "Yangsiyu Lu is a Mid-career General CDR researcher at Hong Kong University of Science and Technology in HK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.632302
 url: "/cdr-researcher-census/researchers/yangsiyu-lu-a5059911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yangsiyu-lu-a5059911/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China University of Technology"
+    "name": "Hong Kong University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6201-5510",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yangsiyu Lu**  
-South China University of Technology · 🇨🇳 CN
+Hong Kong University of Science and Technology · 🇭🇰 HK
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 349 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 353 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

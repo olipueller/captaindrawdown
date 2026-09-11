@@ -1,7 +1,7 @@
 ---
 title: "Lucilla Losi"
 description: "Lucilla Losi is a Mid-career General CDR researcher at Aarhus University in DK. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.329396
+date: 2026-09-11T02:38:30.249944
 url: "/cdr-researcher-census/researchers/lucilla-losi-a5009632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 116 |
+| Citations | 127 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 21.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

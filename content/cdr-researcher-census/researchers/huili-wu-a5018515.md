@@ -1,7 +1,7 @@
 ---
 title: "Huili Wu"
-description: "Huili Wu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.303579
+description: "Huili Wu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.250346
 url: "/cdr-researcher-census/researchers/huili-wu-a5018515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 974 |
-| Publications | 33 |
-| CDR Focus | 9.1% |
+| Citations | 1,012 |
+| Publications | 34 |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

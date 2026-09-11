@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Entesari"
 description: "Nazanin Entesari is a Senior DAC researcher at University of Southern California in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.319544
+date: 2026-09-11T02:38:30.276861
 url: "/cdr-researcher-census/researchers/nazanin-entesari-a5014789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 118 |
+| Citations | 122 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Glycol assisted efficient conversion of CO2 captured from air to methanol with a heterogeneous Cu/ZnO/Al2O3 catalyst** (2021)
-   44 citations · DAC
+   45 citations · DAC
 
 ## External Profiles
 

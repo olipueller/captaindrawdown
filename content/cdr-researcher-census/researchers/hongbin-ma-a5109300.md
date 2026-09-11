@@ -1,7 +1,7 @@
 ---
 title: "Hongbin Ma"
-description: "Hongbin Ma is a Senior Soil Carbon researcher at Ningxia University in CN. With 71 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.531137
+description: "Hongbin Ma is a Senior Soil Carbon researcher at Ningxia University in CN. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.460340
 url: "/cdr-researcher-census/researchers/hongbin-ma-a5109300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 476 |
-| Publications | 71 |
-| CDR Focus | 5.6% |
+| Citations | 514 |
+| Publications | 69 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

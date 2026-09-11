@@ -1,7 +1,7 @@
 ---
 title: "Dale Bryan‐Brown"
 description: "Dale Bryan‐Brown is a Mid-career Soil Carbon researcher at Griffith University in AU. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.389539
+date: 2026-09-11T02:38:29.337658
 url: "/cdr-researcher-census/researchers/dale-bryanbrown-a5019048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 713 |
+| Citations | 737 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   244 citations · General CDR
+   254 citations · General CDR
 
 ## External Profiles
 

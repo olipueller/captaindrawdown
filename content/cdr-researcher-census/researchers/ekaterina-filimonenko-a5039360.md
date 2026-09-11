@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Filimonenko"
-description: "Ekaterina Filimonenko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 67 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.330684
+description: "Ekaterina Filimonenko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 67 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.266239
 url: "/cdr-researcher-census/researchers/ekaterina-filimonenko-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 872 |
+| h-index | 16 |
+| Citations | 951 |
 | Publications | 67 |
 | CDR Focus | 13.4% |
 | Trajectory | Stable |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Energy storage and stability of soil organic matter during the natural restoration of abandoned cropland** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Climate warming and agronomic practice interactively alter soil carbon stock in dry farmland in China** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
-4. **Glucoproteins in particulate and mineral-associated organic matter pools during grassland restoration** (2024)
+4. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
    9 citations · Soil Carbon
 
-5. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
-   6 citations · Soil Carbon
+5. **Glucoproteins in particulate and mineral-associated organic matter pools during grassland restoration** (2024)
+   9 citations · Soil Carbon
 
 6. **The over-estimation of long-term mineral fertilizer on CO2 release from soil carbonates** (2025)
-   5 citations
+   8 citations
 
 7. **Thermal Stability of Soil Organic Matter in Postagrogenic Luvic Phaeozems** (2023)
    3 citations · Soil Carbon

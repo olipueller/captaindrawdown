@@ -1,7 +1,7 @@
 ---
 title: "Ruimin Qin"
-description: "Ruimin Qin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.500398
+description: "Ruimin Qin is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.437332
 url: "/cdr-researcher-census/researchers/ruimin-qin-a5032896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ruimin-qin-a5032896/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Xi'an Jiaotong University"
   },
   "sameAs": "https://openalex.org/A5032896817"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ruimin Qin**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Xi'an Jiaotong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 514 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 551 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

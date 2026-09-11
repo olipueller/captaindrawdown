@@ -1,7 +1,7 @@
 ---
 title: "Yihong Tang"
-description: "Yihong Tang is a Senior Biochar researcher at Hong Kong University of Science and Technology in HK. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.260544
+description: "Yihong Tang is a Senior Biochar researcher at McGill University in HK. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.210998
 url: "/cdr-researcher-census/researchers/yihong-tang-a5066451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yihong-tang-a5066451/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hong Kong University of Science and Technology"
+    "name": "McGill University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6952-0643",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yihong Tang**  
-Hong Kong University of Science and Technology · 🇭🇰 HK
+McGill University · 🇭🇰 HK
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,194 |
+| Citations | 1,217 |
 | Publications | 51 |
 | CDR Focus | 7.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO2-sequestering ability of lightweight concrete based on reactive magnesia cement and high-dosage biochar aggregate** (2024)
-   36 citations · Biochar
+   38 citations · Biochar
 
 2. **Enhanced CO2-sequestering capacity and mechanical property of lightweight biochar-dosed reactive MgO cement concrete by recycled pulp** (2025)
    2 citations · Biochar

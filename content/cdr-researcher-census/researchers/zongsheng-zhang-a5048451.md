@@ -1,7 +1,7 @@
 ---
 title: "Zongsheng Zhang"
-description: "Zongsheng Zhang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.116346
+description: "Zongsheng Zhang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.081598
 url: "/cdr-researcher-census/researchers/zongsheng-zhang-a5048451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 163 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 5 |
+| Citations | 166 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

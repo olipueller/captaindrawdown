@@ -1,7 +1,7 @@
 ---
 title: "Torsten Graf"
 description: "Torsten Graf is a Senior Soil Carbon researcher at Thüringer Landesanstalt für Landwirtschaft in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.170656
+date: 2026-09-11T02:38:30.105545
 url: "/cdr-researcher-census/researchers/torsten-graf-a5113568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 149 |
+| Citations | 159 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   78 citations · General CDR
+   84 citations · General CDR
 
 ## External Profiles
 

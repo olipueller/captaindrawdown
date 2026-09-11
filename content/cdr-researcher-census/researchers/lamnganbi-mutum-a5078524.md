@@ -1,7 +1,7 @@
 ---
 title: "Lamnganbi Mutum"
-description: "Lamnganbi Mutum is a Mid-career Soil Carbon researcher at International Water Management Institute in LK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.688413
+description: "Lamnganbi Mutum is a Mid-career Soil Carbon researcher at International Water Management Institute (IWMI) in LK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.596545
 url: "/cdr-researcher-census/researchers/lamnganbi-mutum-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lamnganbi-mutum-a5078524/",
   "affiliation": {
     "@type": "Organization",
-    "name": "International Water Management Institute"
+    "name": "International Water Management Institute (IWMI)"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9516-1824",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lamnganbi Mutum**  
-International Water Management Institute ·  LK
+International Water Management Institute (IWMI) ·  LK
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 339 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 380 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biologia Futura: potential of different forms of microalgae for soil improvement** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

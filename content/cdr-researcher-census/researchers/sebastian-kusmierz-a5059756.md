@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Kuśmierz"
 description: "Sebastian Kuśmierz is a Mid-career Soil Carbon researcher at University of Life Sciences in Lublin in PL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.127600
+date: 2026-09-11T02:38:30.058735
 url: "/cdr-researcher-census/researchers/sebastian-kusmierz-a5059756/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 160 |
+| Citations | 173 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Role of Stand Age in Soil Carbon Dynamics in Afforested Post-Agricultural Ecosystems: The Case of Scots Pine Forests in Dfb-Climate Zone** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

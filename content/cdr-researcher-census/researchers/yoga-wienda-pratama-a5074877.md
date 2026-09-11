@@ -1,7 +1,7 @@
 ---
 title: "Yoga Wienda Pratama"
-description: "Yoga Wienda Pratama is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554426
+description: "Yoga Wienda Pratama is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.495857
 url: "/cdr-researcher-census/researchers/yoga-wienda-pratama-a5074877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 451 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| Citations | 472 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 2. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    7 citations · General CDR

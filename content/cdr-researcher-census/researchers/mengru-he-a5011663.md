@@ -1,7 +1,7 @@
 ---
 title: "Mengru He"
-description: "Mengru He is a Mid-career Biochar researcher at Ministry of Agriculture in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.029822
+description: "Mengru He is a Mid-career Biochar researcher at Zhengzhou University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.918309
 url: "/cdr-researcher-census/researchers/mengru-he-a5011663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mengru-he-a5011663/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture"
+    "name": "Zhengzhou University"
   },
   "sameAs": "https://openalex.org/A5011663088"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mengru He**  
-Ministry of Agriculture ·  CZ
+Zhengzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 188 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 210 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

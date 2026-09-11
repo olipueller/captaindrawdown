@@ -1,7 +1,7 @@
 ---
 title: "Wenfa Xiao"
-description: "Wenfa Xiao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 166 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.117911
+description: "Wenfa Xiao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 165 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.067899
 url: "/cdr-researcher-census/researchers/wenfa-xiao-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,620 |
-| Publications | 166 |
-| CDR Focus | 9.0% |
+| h-index | 34 |
+| Citations | 3,715 |
+| Publications | 165 |
+| CDR Focus | 8.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 3. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 4. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
    34 citations
@@ -69,10 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · General CDR
 
 8. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 9. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 10. **Nitrogen addition enhances nitrogen but not carbon mineralization in aggregate size fractions of soils in a Pinus massonia plantation** (2024)
    5 citations · Soil Carbon

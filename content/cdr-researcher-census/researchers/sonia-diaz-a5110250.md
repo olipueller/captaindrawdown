@@ -1,7 +1,7 @@
 ---
 title: "Sonia Díaz"
-description: "Sonia Díaz is a Senior DAC researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.832935
+description: "Sonia Díaz is a Senior DAC researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.804155
 url: "/cdr-researcher-census/researchers/sonia-diaz-a5110250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 255 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 256 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

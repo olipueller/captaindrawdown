@@ -1,7 +1,7 @@
 ---
 title: "Islam Hadj Mohamed Guetarni"
 description: "Islam Hadj Mohamed Guetarni is a Mid-career General CDR researcher at Université Oran 1 Ahmed Ben Bella in DZ. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.277767
+date: 2026-09-11T02:38:30.224171
 url: "/cdr-researcher-census/researchers/islam-hadj-mohamed-guetarni-a5080319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 126 |
+| Citations | 132 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

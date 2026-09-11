@@ -1,7 +1,7 @@
 ---
 title: "Fanjiang Zeng"
-description: "Fanjiang Zeng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.128869
+description: "Fanjiang Zeng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 159 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078119
 url: "/cdr-researcher-census/researchers/fanjiang-zeng-a5101834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,188 |
-| Publications | 158 |
-| CDR Focus | 7.6% |
+| h-index | 33 |
+| Citations | 3,313 |
+| Publications | 159 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
    29 citations · Soil Carbon
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Grazing exclusion significantly reduced soil organic carbon stocks but enhanced soil inorganic carbon stocks in desert steppe of northwest China** (2025)
    7 citations · Soil Carbon
 
-8. **Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands** (2025)
-   3 citations · Ocean CDR
+8. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
+   3 citations · Soil Carbon
 
-9. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
-   2 citations · Soil Carbon
+9. **Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands** (2025)
+   3 citations · Ocean CDR
 
 10. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
    1 citations · Soil Carbon

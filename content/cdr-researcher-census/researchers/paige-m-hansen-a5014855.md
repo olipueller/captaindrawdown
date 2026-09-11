@@ -1,7 +1,7 @@
 ---
 title: "Paige M. Hansen"
-description: "Paige M. Hansen is a Mid-career Soil Carbon researcher at Colorado State University in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.706860
+description: "Paige M. Hansen is a Mid-career Soil Carbon researcher at Applied BioMath (United States) in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.641721
 url: "/cdr-researcher-census/researchers/paige-m-hansen-a5014855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paige-m-hansen-a5014855/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Colorado State University"
+    "name": "Applied BioMath (United States)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9838-5601",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Paige M. Hansen**  
-Colorado State University · 🇺🇸 US
+Applied BioMath (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 326 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 347 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microbial inoculation increases maize yield and root biomass across smallholder farming systems in Rwanda** (2026)
-   0 citations
+   1 citations
 
 2. **Divergent controls on particulate and mineral-associated organic carbon formation and persistence** (2023)
    0 citations · General CDR

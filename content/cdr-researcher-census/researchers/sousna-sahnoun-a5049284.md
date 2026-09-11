@@ -1,7 +1,7 @@
 ---
 title: "Sousna Sahnoun"
 description: "Sousna Sahnoun is a Mid-career Biochar researcher at University Ferhat Abbas of Setif in DZ. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.700316
+date: 2026-09-11T02:38:29.660149
 url: "/cdr-researcher-census/researchers/sousna-sahnoun-a5049284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 331 |
+| Citations | 334 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modeling and optimization of methylene blue adsorption on biochar via artificial neural network (ANN)** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

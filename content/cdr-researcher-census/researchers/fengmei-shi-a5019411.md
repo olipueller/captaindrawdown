@@ -1,7 +1,7 @@
 ---
 title: "Fengmei Shi"
-description: "Fengmei Shi is a Mid-career Biochar researcher at Heilongjiang Provincial Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.841723
+description: "Fengmei Shi is a Mid-career Biochar researcher at Heilongjiang Provincial Academy of Agricultural Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.817835
 url: "/cdr-researcher-census/researchers/fengmei-shi-a5019411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 251 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 7 |
+| Citations | 250 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

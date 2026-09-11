@@ -1,7 +1,7 @@
 ---
 title: "Bandana Das Ghosh"
 description: "Bandana Das Ghosh is a Mid-career Soil Carbon researcher at Central Inland Fisheries Research Institute in IN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.922264
+date: 2026-09-11T02:38:29.883422
 url: "/cdr-researcher-census/researchers/bandana-das-ghosh-a5109490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 218 |
+| Citations | 224 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Chenrui Lan"
-description: "Chenrui Lan is a Mid-career Biochar researcher at Hunan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.962658
+description: "Chenrui Lan is a Mid-career Biochar researcher at Hunan University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.833552
 url: "/cdr-researcher-census/researchers/chenrui-lan-a5113118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 210 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 6 |
+| Citations | 243 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Selective recovery of precious metals from E-waste leachates using zinc-modified biochar in capacitive deionization** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

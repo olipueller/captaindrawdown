@@ -1,7 +1,7 @@
 ---
 title: "Yongji Han"
-description: "Yongji Han is a Mid-career Biochar researcher at Yanshan University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.020664
+description: "Yongji Han is a Mid-career Biochar researcher at Shenzhen University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.916814
 url: "/cdr-researcher-census/researchers/yongji-han-a5038630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yongji-han-a5038630/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yanshan University"
+    "name": "Shenzhen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4535-581X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yongji Han**  
-Yanshan University · 🇨🇳 CN
+Shenzhen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 191 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 211 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

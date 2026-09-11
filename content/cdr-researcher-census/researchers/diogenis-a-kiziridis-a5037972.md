@@ -1,7 +1,7 @@
 ---
 title: "Diogenis A. Kiziridis"
-description: "Diogenis A. Kiziridis is a Mid-career Soil Carbon researcher at Forest Research Institute, Hellenic Agricultural Organization \"DIMITRA\" in GR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248592
+description: "Diogenis A. Kiziridis is a Mid-career Soil Carbon researcher at Forest Research Institute, Hellenic Agricultural Organization \"DIMITRA\" in GR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.192774
 url: "/cdr-researcher-census/researchers/diogenis-a-kiziridis-a5037972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 139 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

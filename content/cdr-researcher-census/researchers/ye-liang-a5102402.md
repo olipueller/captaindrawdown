@@ -1,7 +1,7 @@
 ---
 title: "Ye Liang"
-description: "Ye Liang is a Mid-career Biochar researcher at Zhejiang Normal University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.819674
+description: "Ye Liang is a Mid-career Biochar researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.758993
 url: "/cdr-researcher-census/researchers/ye-liang-a5102402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ye Liang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ye-liang-a5102402/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Zhejiang Normal University"
-  },
   "sameAs": "https://openalex.org/A5102402924"
 }
 </script>
 
 ## Profile
 
-**Ye Liang**  
-Zhejiang Normal University · 🇨🇳 CN
+**Ye Liang**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 262 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 278 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

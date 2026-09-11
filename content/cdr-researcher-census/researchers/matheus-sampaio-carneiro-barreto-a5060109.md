@@ -1,7 +1,7 @@
 ---
 title: "Matheus Sampaio Carneiro Barreto"
-description: "Matheus Sampaio Carneiro Barreto is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.372731
+description: "Matheus Sampaio Carneiro Barreto is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.319130
 url: "/cdr-researcher-census/researchers/matheus-sampaio-carneiro-barreto-a5060109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 752 |
-| Publications | 42 |
-| CDR Focus | 11.9% |
+| Citations | 784 |
+| Publications | 43 |
+| CDR Focus | 11.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Depth assessed and up-scaling of single case studies might overestimate the role of C sequestration by pastures in the commitments of Brazil’s low-carbon agriculture plan** (2021)
    9 citations · Soil Carbon
 
-4. **N fertilization did not raise soil greenhouse gas emissions in a reforested reclaimed-mine site over a short-term study** (2023)
-   3 citations · Soil Carbon
+4. **Changes in soil organic matter content and quality in Amazonian mangrove forests converted to shrimp farms** (2026)
+   4 citations · Soil Carbon
 
-5. **Changes in soil organic matter content and quality in Amazonian mangrove forests converted to shrimp farms** (2026)
-   2 citations · Soil Carbon
+5. **N fertilization did not raise soil greenhouse gas emissions in a reforested reclaimed-mine site over a short-term study** (2023)
+   3 citations · Soil Carbon
 
 6. **Potential for carbon sequestration after biochar‐P fertilizer application: A biological and chemical assessment** (2023)
    0 citations · Biochar

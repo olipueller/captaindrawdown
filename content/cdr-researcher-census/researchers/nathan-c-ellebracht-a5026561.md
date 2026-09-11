@@ -1,7 +1,7 @@
 ---
 title: "Nathan C. Ellebracht"
-description: "Nathan C. Ellebracht is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.529461
+description: "Nathan C. Ellebracht is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.534444
 url: "/cdr-researcher-census/researchers/nathan-c-ellebracht-a5026561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Nathan C. Ellebracht**  
 Lawrence Livermore National Laboratory · 🇺🇸 US
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,28 +42,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 477 |
-| Publications | 27 |
-| CDR Focus | 18.5% |
+| h-index | 9 |
+| Citations | 434 |
+| Publications | 25 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
-   12 citations · DAC
+   14 citations · DAC
 
 3. **Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
-   5 citations
+   6 citations
 
-4. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
+4. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
+   2 citations · DAC
+
+5. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
    2 citations · General CDR
-
-5. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
-   1 citations · DAC
 
 6. **Efficient synthetic natural gas production from direct air capture using titania-based dual function materials** (2025)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "L.F.A. Anand Raj"
-description: "L.F.A. Anand Raj is a Mid-career Biochar researcher at Saint Joseph's College in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.816367
+description: "L.F.A. Anand Raj is a Mid-career Biochar researcher at Saint Joseph's College in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.730161
 url: "/cdr-researcher-census/researchers/lfa-anand-raj-a5007928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 264 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 9 |
+| Citations | 293 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar derived from pistachio shells: A novel adsorbent for efficient lead sequestration in water treatment** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

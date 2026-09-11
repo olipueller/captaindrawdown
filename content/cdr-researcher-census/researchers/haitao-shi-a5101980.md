@@ -1,7 +1,7 @@
 ---
 title: "Haitao Shi"
 description: "Haitao Shi is a Mid-career Soil Carbon researcher at State Ethnic Affairs Commission in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320561
+date: 2026-09-11T02:38:29.270862
 url: "/cdr-researcher-census/researchers/haitao-shi-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 906 |
+| Citations | 932 |
 | Publications | 32 |
 | CDR Focus | 12.5% |
 | Trajectory | Declining |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Fertilizer Application Intensity on Carbon Accumulation and Greenhouse Gas Emissions in Moso Bamboo Forest–Polygonatum cyrtonema Hua Agroforestry Systems** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
-2. **Short-Term Effects of Thinning on Vegetation Carbon Dynamics and Soil Respiration in Secondary Broadleaf Forests** (2024)
-   2 citations · Soil Carbon
+2. **Management of Hickory Forest Understory Vegetation Increases Ecosystem Carbon Sequestration, But It Also Increases Soil Greenhouse Gas Emissions in the Short Term** (2024)
+   3 citations · Soil Carbon
 
 3. **Effects of different urban vegetation cover and green space types on soil greenhouse gas emissions and carbon sequestration** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
-4. **Management of Hickory Forest Understory Vegetation Increases Ecosystem Carbon Sequestration, But It Also Increases Soil Greenhouse Gas Emissions in the Short Term** (2024)
-   1 citations · Soil Carbon
+4. **Short-Term Effects of Thinning on Vegetation Carbon Dynamics and Soil Respiration in Secondary Broadleaf Forests** (2024)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

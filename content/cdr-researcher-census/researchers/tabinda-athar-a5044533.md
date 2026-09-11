@@ -1,7 +1,7 @@
 ---
 title: "Tabinda Athar"
-description: "Tabinda Athar is a Mid-career Soil Carbon researcher at Baylor University in US. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.680996
+description: "Tabinda Athar is a Mid-career Soil Carbon researcher at Baylor University in US. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.622892
 url: "/cdr-researcher-census/researchers/tabinda-athar-a5044533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 344 |
+| h-index | 8 |
+| Citations | 360 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significance of soil health and soil life for sustainable food production** (2022)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Potential Role of Turfgrasses and Understorey Vegetation for Mitigating the Changing Climate** (2022)
    2 citations · General CDR

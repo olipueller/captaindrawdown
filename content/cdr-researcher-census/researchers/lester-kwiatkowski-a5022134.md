@@ -1,7 +1,7 @@
 ---
 title: "Lester Kwiatkowski"
-description: "Lester Kwiatkowski is a Senior Ocean CDR researcher at CNRS in FR. With 102 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105979
+description: "Lester Kwiatkowski is a Senior Ocean CDR researcher at CNRS in FR. With 98 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.055577
 url: "/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 4,374 |
-| Publications | 102 |
-| CDR Focus | 8.8% |
+| Citations | 4,462 |
+| Publications | 98 |
+| CDR Focus | 9.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    17 citations · General CDR
 
 4. **Potential Impacts of Climate Interventions on Marine Ecosystems** (2026)
-   6 citations · General CDR
+   9 citations · General CDR
 
 5. **Declining coral calcification to enhance twenty-first-century ocean carbon uptake by gigatonnes** (2025)
    5 citations · Ocean CDR

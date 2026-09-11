@@ -1,7 +1,7 @@
 ---
 title: "Ruihua Bai"
 description: "Ruihua Bai is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.357669
+date: 2026-09-11T02:38:29.297442
 url: "/cdr-researcher-census/researchers/ruihua-bai-a5101253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 794 |
+| Citations | 844 |
 | Publications | 61 |
 | CDR Focus | 8.2% |
 | Trajectory | Growing |
@@ -51,18 +51,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of vegetation restoration on soil erosion control and soil carbon and nitrogen dynamics: A meta-analysis** (2023)
-   60 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Impacts of Afforestation on Soil Organic Carbon Dynamics Along the Aridity Gradient in China** (2026)
    1 citations · Soil Carbon
 
-5. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
+5. **Deep soil carbon reshapes the assessment of restoration-driven carbon sequestration on the Loess Plateau** (2026)
+   0 citations · Soil Carbon
+
+6. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Hadi Mohamadzadeh Romiani"
-description: "Hadi Mohamadzadeh Romiani is a Mid-career Enhanced Weathering researcher at Buein Zahra Technical University in IR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.313885
+description: "Hadi Mohamadzadeh Romiani is a Mid-career Enhanced Weathering researcher at Buein Zahra Technical University in IR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.250696
 url: "/cdr-researcher-census/researchers/hadi-mohamadzadeh-romiani-a5063841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 119 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 127 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Stabilization of Petroleum-Contaminated Sandy Soil Using CO2-Induced Magnesite Precipitation** (2022)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 2. **Green Remediation for Lead-Contaminated Soil Using Carbon Dioxide Injection** (2022)
    1 citations

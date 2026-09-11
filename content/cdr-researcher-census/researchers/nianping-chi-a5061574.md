@@ -1,7 +1,7 @@
 ---
 title: "Nianping Chi"
 description: "Nianping Chi is a Senior Biochar researcher at Hunan City University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.612822
+date: 2026-09-11T02:38:29.559043
 url: "/cdr-researcher-census/researchers/nianping-chi-a5061574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 396 |
+| Citations | 410 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Exiting |

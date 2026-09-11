@@ -1,7 +1,7 @@
 ---
 title: "Mehr Ahmed Mujtaba Munir"
-description: "Mehr Ahmed Mujtaba Munir is a Senior Biochar researcher at Pakistan Agricultural Research Council in PK. With 57 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142269
+description: "Mehr Ahmed Mujtaba Munir is a Senior Biochar researcher at University of Science and Technology of China in CN. With 58 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.092256
 url: "/cdr-researcher-census/researchers/mehr-ahmed-mujtaba-munir-a5040023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mehr-ahmed-mujtaba-munir-a5040023/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pakistan Agricultural Research Council"
+    "name": "University of Science and Technology of China"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2824-1263",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mehr Ahmed Mujtaba Munir**  
-Pakistan Agricultural Research Council · 🇵🇰 PK
+University of Science and Technology of China · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,687 |
-| Publications | 57 |
-| CDR Focus | 7.0% |
+| Citations | 2,755 |
+| Publications | 58 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 3. **Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems** (2024)
    15 citations · Biochar

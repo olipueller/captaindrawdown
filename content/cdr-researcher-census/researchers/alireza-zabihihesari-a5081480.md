@@ -1,7 +1,7 @@
 ---
 title: "Alireza Zabihihesari"
-description: "Alireza Zabihihesari is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.724470
+description: "Alireza Zabihihesari is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.669887
 url: "/cdr-researcher-census/researchers/alireza-zabihihesari-a5081480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 314 |
-| Publications | 30 |
-| CDR Focus | 13.3% |
+| Citations | 327 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

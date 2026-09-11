@@ -1,7 +1,7 @@
 ---
 title: "Zhufeng Wang"
-description: "Zhufeng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.041422
+description: "Zhufeng Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.983904
 url: "/cdr-researcher-census/researchers/zhufeng-wang-a5103135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhufeng-wang-a5103135/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Agricultural Resources and Regional Planning"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6492-8743",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhufeng Wang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 185 |
-| Publications | 14 |
-| CDR Focus | 21.4% |
+| Citations | 195 |
+| Publications | 15 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations
 
 2. **Soil nitrogen availability regulates fungal necromass contribution to soil organic carbon during vegetation restoration** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Comparison of soil exchangeable calcium estimated using five extractants and near-infrared spectroscopy** (2024)
    1 citations

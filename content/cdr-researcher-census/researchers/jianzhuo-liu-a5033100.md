@@ -1,7 +1,7 @@
 ---
 title: "Jianzhuo Liu"
 description: "Jianzhuo Liu is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.234653
+date: 2026-09-11T02:38:30.181309
 url: "/cdr-researcher-census/researchers/jianzhuo-liu-a5033100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 134 |
+| Citations | 141 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

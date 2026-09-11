@@ -1,7 +1,7 @@
 ---
 title: "Shotaro Futamura"
 description: "Shotaro Futamura is a Mid-career General CDR researcher at Japan Aerospace Exploration Agency in JP. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.008160
+date: 2026-09-11T02:38:29.960015
 url: "/cdr-researcher-census/researchers/shotaro-futamura-a5017193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 194 |
+| Citations | 201 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

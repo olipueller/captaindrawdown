@@ -1,7 +1,7 @@
 ---
 title: "Siavash Khalili"
-description: "Siavash Khalili is a Mid-career General CDR researcher at LUT University in FI. With 26 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.134697
+description: "Siavash Khalili is a Mid-career General CDR researcher at LUT University in FI. With 27 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.081918
 url: "/cdr-researcher-census/researchers/siavash-khalili-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 2,964 |
-| Publications | 26 |
-| CDR Focus | 19.2% |
+| h-index | 19 |
+| Citations | 3,149 |
+| Publications | 27 |
+| CDR Focus | 22.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **On the History and Future of 100% Renewable Energy Systems Research** (2022)
-   564 citations · General CDR
+   582 citations · General CDR
 
 2. **Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals** (2022)
-   139 citations · DAC
+   142 citations · DAC
 
 3. **Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios** (2022)
-   103 citations · DAC
+   106 citations · DAC
 
 4. **Seeking El Dorado: Iceland’s carbon dioxide removal service opportunities to meet global demand and a new lens on overnight transition cost** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 5. **The value of CO2 point source capture for the energy-industry system transition** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 6. **Review of the Progressing Role of Solar Photovoltaics in Energy Transition Scenarios Over Five Decades of 100% Renewable Energy Systems Research** (2026)
    0 citations · General CDR

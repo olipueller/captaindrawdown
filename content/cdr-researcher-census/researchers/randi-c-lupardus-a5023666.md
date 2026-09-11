@@ -1,7 +1,7 @@
 ---
 title: "Randi C. Lupardus"
 description: "Randi C. Lupardus is a Mid-career Soil Carbon researcher at Bureau of Land Management in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.343814
+date: 2026-09-11T02:38:30.321580
 url: "/cdr-researcher-census/researchers/randi-c-lupardus-a5023666/"
 layout: "researcher"
 hiddenInHomeList: true

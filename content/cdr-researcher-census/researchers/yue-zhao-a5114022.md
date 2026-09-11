@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhao"
-description: "Yue Zhao is a Mid-career Biochar researcher at Shenyang Medical College in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056871
+description: "Yue Zhao is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.952817
 url: "/cdr-researcher-census/researchers/yue-zhao-a5114022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yue-zhao-a5114022/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Medical College"
+    "name": "Kunming University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0000-4978-6524",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yue Zhao**  
-Shenyang Medical College · 🇨🇳 CN
+Kunming University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,10 +43,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 180 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
-| Trajectory | Stable |
+| Citations | 204 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 2. **Upcycling sewage sludge into pyrolytic biochar for sustainable energy and environmental applications: A critical review** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

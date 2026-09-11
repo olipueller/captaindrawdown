@@ -1,7 +1,7 @@
 ---
 title: "Marius Constantinescu"
-description: "Marius Constantinescu is a Senior Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480571
+description: "Marius Constantinescu is a Senior Biochar researcher at Rambam Health Care Campus in IL. With 59 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.427465
 url: "/cdr-researcher-census/researchers/marius-constantinescu-a5112336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marius-constantinescu-a5112336/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Institute for Research and Development of Isotopic and Molecular Technologies"
+    "name": "Rambam Health Care Campus"
   },
   "sameAs": "https://openalex.org/A5112336413"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Marius Constantinescu**  
-National Institute for Research and Development of Isotopic and Molecular Technologies ·  RO
+Rambam Health Care Campus · 🇮🇱 IL
 
 **Career Stage:** Senior
 
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 544 |
-| Publications | 57 |
-| CDR Focus | 5.3% |
+| Citations | 568 |
+| Publications | 59 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Thermochemical processing of agricultural waste into biochar with potential application for coal mining degraded soils** (2025)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Biochar for Soil Fertility and Climate Mitigation: Review on Feedstocks, Pyrolysis Conditions, Functional Properties, and Applications with Emerging AI Integration** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 3. **Comparative multifactor optimization of biochar from pyrolysis and gasification: A Taguchi – ANOVA - RSM framework for climate-resilient soil applications** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

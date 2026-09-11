@@ -1,7 +1,7 @@
 ---
 title: "V. Miamin"
 description: "V. Miamin is a Mid-career Biochar researcher at National Academy of Sciences of Belarus in BY. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.290084
+date: 2026-09-11T02:38:30.243543
 url: "/cdr-researcher-census/researchers/v-miamin-a5043178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 124 |
+| Citations | 129 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

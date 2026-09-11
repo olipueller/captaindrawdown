@@ -1,7 +1,7 @@
 ---
 title: "Lingqin Liu"
 description: "Lingqin Liu is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.718868
+date: 2026-09-11T02:38:29.662461
 url: "/cdr-researcher-census/researchers/lingqin-liu-a5075940/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 316 |
+| Citations | 332 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Interpreting machine learning predictions of Pb2+ adsorption onto biochars produced by a fluidized bed system** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Investigation of elemental mercury removal performance and mechanism of rice straw biochars from a fluidized bed pyrolysis system impregnated by NH4Br** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Investigation of Elemental Mercury Removal Performance and Mechanism of Rice Straw Biochars from a Fluidized Bed Pyrolysis System Impregnated by Nh4br** (2024)
    2 citations · Biochar

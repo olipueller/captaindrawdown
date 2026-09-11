@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
 description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480675
+date: 2026-09-11T02:38:29.424805
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5101913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 544 |
+| Citations | 572 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Priming and balance of soil organic carbon differ with additive C:N ratios and long-term green manuring** (2024)
-   22 citations
+   24 citations
 
 2. **Long-term integrated organic-inorganic fertilization balances greenhouse gas emissions and soil properties enhancement in subtropical wheat-maize system** (2025)
    5 citations · General CDR

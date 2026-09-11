@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Amoakwah"
-description: "Emmanuel Amoakwah is a Mid-career Soil Carbon researcher at University of Lincoln in GB. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.420557
+description: "Emmanuel Amoakwah is a Mid-career Soil Carbon researcher at University of Lincoln in GB. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.368258
 url: "/cdr-researcher-census/researchers/emmanuel-amoakwah-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 644 |
+| h-index | 14 |
+| Citations | 668 |
 | Publications | 25 |
 | CDR Focus | 12.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar amendment impacts on microbial community structures and biological and enzyme activities in a weathered tropical sandy loam** (2021)
-   82 citations · Biochar
+   84 citations · Biochar
 
 2. **Impact of silicate and lime application on soil fertility and temporal changes in soil properties and carbon stocks in a temperate ecosystem** (2023)
    30 citations · Enhanced Weathering

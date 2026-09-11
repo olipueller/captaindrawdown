@@ -1,7 +1,7 @@
 ---
 title: "Sandrale Grace Mokue Mafo"
-description: "Sandrale Grace Mokue Mafo is a Mid-career Biochar researcher at University of Douala in CM. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.339224
+description: "Sandrale Grace Mokue Mafo is a Mid-career Biochar researcher at University of Douala in CM. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.271031
 url: "/cdr-researcher-census/researchers/sandrale-grace-mokue-mafo-a5006239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 115 |
+| h-index | 8 |
+| Citations | 124 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of graphitic carbon nitride-doped carbon (Cu-Al/Biochar@g-C3N4) for quinoline yellow removal by the Fenton process: optimization by the response surface method** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiangzhou Qin"
-description: "Jiangzhou Qin is a Mid-career Biochar researcher at Guizhou University in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.250626
+description: "Jiangzhou Qin is a Mid-career Biochar researcher at Guizhou University in CN. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.195464
 url: "/cdr-researcher-census/researchers/jiangzhou-qin-a5031130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,253 |
-| Publications | 47 |
-| CDR Focus | 8.5% |
+| h-index | 19 |
+| Citations | 1,311 |
+| Publications | 50 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

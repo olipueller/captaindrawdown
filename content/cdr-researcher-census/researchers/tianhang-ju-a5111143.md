@@ -1,7 +1,7 @@
 ---
 title: "Tianhang Ju"
-description: "Tianhang Ju is a Mid-career Soil Carbon researcher at Jilin University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.090837
+description: "Tianhang Ju is a Mid-career Soil Carbon researcher at Jilin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.000958
 url: "/cdr-researcher-census/researchers/tianhang-ju-a5111143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 170 |
-| Publications | 8 |
-| CDR Focus | 25.0% |
+| h-index | 6 |
+| Citations | 190 |
+| Publications | 9 |
+| CDR Focus | 22.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The Contribution of Saline-Alkali Land to the Terrestrial Carbon Stock Balance: Case of an Important Agriculture and Ecological Region in Northeast China** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **The contribution of saline-alkali land to the terrestrial carbon stock balance** (2023)
    0 citations · Soil Carbon

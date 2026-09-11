@@ -1,7 +1,7 @@
 ---
 title: "Noora Manninen"
-description: "Noora Manninen is a Mid-career Soil Carbon researcher at Oerlikon (Liechtenstein) in LI. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272221
+description: "Noora Manninen is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.205039
 url: "/cdr-researcher-census/researchers/noora-manninen-a5064337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Noora Manninen",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/noora-manninen-a5064337/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Oerlikon (Liechtenstein)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-7371-6702",
     "https://openalex.org/A5064337932"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Noora Manninen**  
-Oerlikon (Liechtenstein) ·  LI
+**Noora Manninen**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 127 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 136 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

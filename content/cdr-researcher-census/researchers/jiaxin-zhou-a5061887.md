@@ -1,7 +1,7 @@
 ---
 title: "Jiaxin Zhou"
 description: "Jiaxin Zhou is an Early-career BECCS researcher at Tsinghua University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.152550
+date: 2026-09-11T02:38:30.092844
 url: "/cdr-researcher-census/researchers/jiaxin-zhou-a5061887/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 153 |
+| Citations | 162 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Contributions of countries without a carbon neutrality target to limit global warming** (2025)
-   9 citations · BECCS
+   10 citations · BECCS
 
 2. **Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China** (2026)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Hehu Zhang"
 description: "Hehu Zhang is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.657145
+date: 2026-09-11T02:38:29.607522
 url: "/cdr-researcher-census/researchers/hehu-zhang-a5013793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 361 |
+| Citations | 372 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of pyrolysis temperature on composition, carbon fraction and abiotic stability of straw biochars: correlation and quantitative analysis** (2022)
-   65 citations · Biochar
+   66 citations · Biochar
 
 ## External Profiles
 

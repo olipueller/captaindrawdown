@@ -1,7 +1,7 @@
 ---
 title: "Thomas Erik Lyck Smitshuysen"
 description: "Thomas Erik Lyck Smitshuysen is a Mid-career BECCS researcher at Danish Academy of Technical Sciences in DK. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540529
+date: 2026-09-11T02:38:29.489899
 url: "/cdr-researcher-census/researchers/thomas-erik-lyck-smitshuysen-a5026735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 465 |
+| Citations | 479 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |

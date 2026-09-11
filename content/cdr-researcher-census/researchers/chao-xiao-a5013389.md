@@ -1,7 +1,7 @@
 ---
 title: "Chao Xiao"
-description: "Chao Xiao is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.394977
+description: "Chao Xiao is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.338798
 url: "/cdr-researcher-census/researchers/chao-xiao-a5013389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chao-xiao-a5013389/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture and Rural Affairs"
+    "name": "University of Helsinki"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5627-7613",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chao Xiao**  
-Ministry of Agriculture and Rural Affairs · 🇨🇳 CN
+University of Helsinki ·  FI
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 700 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 734 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Upland switchgrass enhances phytoremediation and promotes carbon sequestration in cadmium-contaminated soils** (2025)
    0 citations · Soil Carbon

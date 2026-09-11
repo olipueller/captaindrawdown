@@ -1,7 +1,7 @@
 ---
 title: "Ruonan Zhao"
-description: "Ruonan Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855034
+description: "Ruonan Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.795627
 url: "/cdr-researcher-census/researchers/ruonan-zhao-a5058997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 244 |
+| h-index | 10 |
+| Citations | 261 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Labile carbon inputs offset nitrogen-induced soil aggregate destabilization via enhanced growth of saprophytic fungi in a meadow steppe** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

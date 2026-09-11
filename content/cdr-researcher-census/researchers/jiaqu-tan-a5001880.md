@@ -1,7 +1,7 @@
 ---
 title: "Jiaqu Tan"
-description: "Jiaqu Tan is a Mid-career Biochar researcher at South China Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.049020
+description: "Jiaqu Tan is a Mid-career Biochar researcher at South China Agricultural University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.982000
 url: "/cdr-researcher-census/researchers/jiaqu-tan-a5001880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 182 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 195 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **N-doped biochar mediated peroxydisulfate activation for selective degradation of bisphenol A: The key role of potential difference-driven electron transfer mechanism** (2023)
-   97 citations · Biochar
+   98 citations · Biochar
 
 ## External Profiles
 

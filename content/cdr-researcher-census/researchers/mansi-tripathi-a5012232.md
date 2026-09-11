@@ -1,7 +1,7 @@
 ---
 title: "Mansi Tripathi"
-description: "Mansi Tripathi is a Mid-career Soil Carbon researcher at International Management Institute in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.507470
+description: "Mansi Tripathi is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.460425
 url: "/cdr-researcher-census/researchers/mansi-tripathi-a5012232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mansi Tripathi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mansi-tripathi-a5012232/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "International Management Institute"
-  },
   "sameAs": "https://openalex.org/A5012232480"
 }
 </script>
 
 ## Profile
 
-**Mansi Tripathi**  
-International Management Institute · 🇮🇳 IN
+**Mansi Tripathi**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 504 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 514 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

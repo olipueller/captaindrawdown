@@ -1,7 +1,7 @@
 ---
 title: "Laura Mäkelä"
 description: "Laura Mäkelä is a Senior Soil Carbon researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975735
+date: 2026-09-11T02:38:29.948130
 url: "/cdr-researcher-census/researchers/laura-makela-a5002052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 205 |
+| Citations | 206 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Maria Α. Lilli"
-description: "Maria Α. Lilli is a Mid-career Soil Carbon researcher at Health Innovations (United States) in US. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.521528
+description: "Maria Α. Lilli is a Mid-career Soil Carbon researcher at Health Innovations (United States) in US. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.454831
 url: "/cdr-researcher-census/researchers/maria-lilli-a5046343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 486 |
-| Publications | 44 |
-| CDR Focus | 11.4% |
+| h-index | 13 |
+| Citations | 523 |
+| Publications | 46 |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 3. **The Impact of Sewage-Sludge- and Olive-Mill-Waste-Derived Biochar Amendments to Tomato Cultivation** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Modeling soil functions of forested ecosystems** (2025)
    2 citations · Soil Carbon

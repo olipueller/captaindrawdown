@@ -1,7 +1,7 @@
 ---
 title: "Munirah Abdullah Al-Dosary"
-description: "Munirah Abdullah Al-Dosary is a Mid-career Soil Carbon researcher at King Saud University in SA. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499040
+description: "Munirah Abdullah Al-Dosary is a Mid-career Soil Carbon researcher at King Saud University in SA. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.438568
 url: "/cdr-researcher-census/researchers/munirah-abdullah-al-dosary-a5090796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 515 |
-| Publications | 45 |
-| CDR Focus | 6.7% |
+| Citations | 549 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
    0 citations · Biochar

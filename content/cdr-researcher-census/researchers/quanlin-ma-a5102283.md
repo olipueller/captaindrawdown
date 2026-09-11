@@ -1,7 +1,7 @@
 ---
 title: "Quanlin Ma"
-description: "Quanlin Ma is a Senior Soil Carbon researcher at Gansu Research Academy of Forestry Science and Technology in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.775398
+description: "Quanlin Ma is a Senior Soil Carbon researcher at Gansu Research Academy of Forestry Science and Technology in CN. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.730671
 url: "/cdr-researcher-census/researchers/quanlin-ma-a5102283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 285 |
-| Publications | 40 |
-| CDR Focus | 12.5% |
+| Citations | 293 |
+| Publications | 41 |
+| CDR Focus | 12.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration of sand-fixing plantation of Haloxylon ammodendron in Shiyang River Basin: Storage, rate and potential** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Carbon Density Change Characteristics and Driving Factors During the Natural Succession of Forests on Xinglong Mountain in the Transition Zone Between the Qinghai–Tibet and Loess Plateaus** (2025)
    2 citations · Soil Carbon

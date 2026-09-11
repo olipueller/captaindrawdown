@@ -1,7 +1,7 @@
 ---
 title: "Baoling Duan"
 description: "Baoling Duan is a Senior General CDR researcher at Shanxi University of Finance and Economics in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707995
+date: 2026-09-11T02:38:29.654208
 url: "/cdr-researcher-census/researchers/baoling-duan-a5056333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 325 |
+| Citations | 339 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ecosystem Services Supply–Demand Matching and Its Driving Factors: A Case Study of the Shanxi Section of the Yellow River Basin, China** (2023)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **The Effects of Land-Use Change/Conversion on Trade-Offs of Ecosystem Services in Three Precipitation Zones** (2021)
    12 citations · General CDR

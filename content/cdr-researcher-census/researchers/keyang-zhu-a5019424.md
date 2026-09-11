@@ -1,7 +1,7 @@
 ---
 title: "Keyang Zhu"
-description: "Keyang Zhu is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.372411
+description: "Keyang Zhu is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.324639
 url: "/cdr-researcher-census/researchers/keyang-zhu-a5019424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/keyang-zhu-a5019424/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North Sichuan Medical University"
+    "name": "Ningbo University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1986-2781",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Keyang Zhu**  
-North Sichuan Medical University · 🇨🇳 CN
+Ningbo University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 754 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 771 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

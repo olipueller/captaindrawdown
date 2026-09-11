@@ -1,7 +1,7 @@
 ---
 title: "Chih-Kuei Chen"
 description: "Chih-Kuei Chen is a Senior Biochar researcher at National Ilan University in TW. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.917851
+date: 2026-09-11T02:38:29.861271
 url: "/cdr-researcher-census/researchers/chih-kuei-chen-a5102976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 219 |
+| Citations | 231 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Montalvo"
-description: "Daniel Montalvo is a Mid-career Ocean CDR researcher at Instituto Tecnológico Superior de Xalapa in MX. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.129012
+description: "Daniel Montalvo is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.080752
 url: "/cdr-researcher-census/researchers/daniel-montalvo-a5039082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Daniel Montalvo",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-montalvo-a5039082/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Instituto Tecnol\u00f3gico Superior de Xalapa"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-7475-9616",
     "https://openalex.org/A5039082878"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Daniel Montalvo**  
-Instituto Tecnológico Superior de Xalapa · 🇲🇽 MX
+**Daniel Montalvo**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 159 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 166 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Harnessing of whey and CO2 for the production of Arthrospira (Spirulina) platensis microalgae biomass: a circular economy approach** (2024)
    1 citations · General CDR
+
+2. **Degradation of a Toxic Pollutant (Pyridine) in a Flat-Bed Reactor Using Ultraviolet Light: Comparison of Two Catalysts (ZnO-Au and TiO2-Au)** (2026)
+   0 citations
 
 ## External Profiles
 

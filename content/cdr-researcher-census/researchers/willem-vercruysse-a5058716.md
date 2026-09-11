@@ -1,7 +1,7 @@
 ---
 title: "Willem Vercruysse"
 description: "Willem Vercruysse is a Mid-career Biochar researcher at Hasselt University in BE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.315373
+date: 2026-09-11T02:38:30.256363
 url: "/cdr-researcher-census/researchers/willem-vercruysse-a5058716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 119 |
+| Citations | 126 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    28 citations · Biochar
 
 2. **Demineralization of common ivy-derived biomass and biochar and its effect on the resulting activated carbon properties** (2023)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

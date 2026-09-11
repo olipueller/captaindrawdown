@@ -1,7 +1,7 @@
 ---
 title: "Oluwaseyi Samuel Akinpelu"
-description: "Oluwaseyi Samuel Akinpelu is a Senior General CDR researcher at Institut de Recherche Vaccinale in FR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.089589
+description: "Oluwaseyi Samuel Akinpelu is a Senior General CDR researcher at Institut de Recherche Vaccinale in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.057648
 url: "/cdr-researcher-census/researchers/oluwaseyi-samuel-akinpelu-a5108990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 170 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 173 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

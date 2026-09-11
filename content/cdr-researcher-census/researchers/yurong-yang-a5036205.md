@@ -1,7 +1,7 @@
 ---
 title: "Yurong Yang"
 description: "Yurong Yang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 39 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.168437
+date: 2026-09-11T02:38:29.118652
 url: "/cdr-researcher-census/researchers/yurong-yang-a5036205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,100 |
+| Citations | 2,144 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fallow Land Enhances Carbon Sequestration in Glomalin and Soil Aggregates Through Regulating Diversity and Network Complexity of Arbuscular Mycorrhizal Fungi Under Climate Change in Relatively High-Latitude Regions** (2022)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Changes in Microbial Necromass Carbon in Soil Profiles of Grasslands with Different Stages of Restoration in a Karst Region** (2025)
    4 citations · Soil Carbon

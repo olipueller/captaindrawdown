@@ -1,7 +1,7 @@
 ---
 title: "Sophie O’Brien"
 description: "Sophie O’Brien is a Mid-career General CDR researcher at University of Canterbury in NZ. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408105
+date: 2026-09-11T02:38:30.360005
 url: "/cdr-researcher-census/researchers/sophie-obrien-a5078480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 102 |
+| Citations | 106 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

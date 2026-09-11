@@ -1,7 +1,7 @@
 ---
 title: "Rey‐May Liou"
 description: "Rey‐May Liou is a Senior Soil Carbon researcher at Chia Nan University of Pharmacy and Science in TW. With 29 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.349314
+date: 2026-09-11T02:38:29.303650
 url: "/cdr-researcher-census/researchers/reymay-liou-a5111933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 816 |
+| Citations | 822 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Stable |

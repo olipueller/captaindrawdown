@@ -1,7 +1,7 @@
 ---
 title: "Tobi Michael Alabi"
-description: "Tobi Michael Alabi is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.394885
+description: "Tobi Michael Alabi is a Mid-career General CDR researcher. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.345325
 url: "/cdr-researcher-census/researchers/tobi-michael-alabi-a5026228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tobi Michael Alabi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tobi-michael-alabi-a5026228/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Hong Kong Polytechnic University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-3356-2758",
     "https://openalex.org/A5026228142"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Tobi Michael Alabi**  
-Hong Kong Polytechnic University · 🇭🇰 HK
+**Tobi Michael Alabi**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 700 |
+| Citations | 718 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Automated deep reinforcement learning for real-time scheduling strategy of multi-energy system integrated with post-carbon and direct-air carbon captured system** (2023)
-   50 citations · General CDR
+   53 citations · General CDR
 
 ## External Profiles
 

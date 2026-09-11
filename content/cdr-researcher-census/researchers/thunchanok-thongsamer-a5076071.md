@@ -1,7 +1,7 @@
 ---
 title: "Thunchanok Thongsamer"
 description: "Thunchanok Thongsamer is a Mid-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.782160
+date: 2026-09-11T02:38:29.737262
 url: "/cdr-researcher-census/researchers/thunchanok-thongsamer-a5076071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 281 |
+| Citations | 289 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fixed-bed biofilter for polluted surface water treatment using chitosan impregnated-coconut husk biochar** (2023)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

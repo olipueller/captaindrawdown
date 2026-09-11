@@ -1,7 +1,7 @@
 ---
 title: "Mirjam Röder"
-description: "Mirjam Röder is a Senior General CDR researcher at Aston University in GB. With 66 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.206274
+description: "Mirjam Röder is a Senior General CDR researcher at Aston University in GB. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.155465
 url: "/cdr-researcher-census/researchers/mirjam-roder-a5033669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,602 |
-| Publications | 66 |
-| CDR Focus | 7.6% |
+| h-index | 25 |
+| Citations | 1,644 |
+| Publications | 69 |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target** (2021)
-   111 citations · BECCS
+   112 citations · BECCS
 
 2. **Carbon dioxide removal potential from decentralised bioenergy with carbon capture and storage (BECCS) and the relevance of operational choices** (2022)
-   108 citations · BECCS
+   111 citations · BECCS
 
 3. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
    8 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Lele Lei"
 description: "Lele Lei is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.409948
+date: 2026-09-11T02:38:29.358393
 url: "/cdr-researcher-census/researchers/lele-lei-a5005849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 667 |
+| Citations | 691 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A universal synthesis strategy for facile and scalable of magnetic biochar composite materials for PMS activation: Catalytic mechanisms** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Green Synthesis of Biochar Derived from Discarded Bagasse as a Peroxymonosulfate Activator for Sulfadiazine Rapid Degradation in Harsh Environments: Enhanced Electron Transfer** (2022)
    0 citations · Biochar

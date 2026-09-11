@@ -1,7 +1,7 @@
 ---
 title: "Jussi Heinonsalo"
-description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 232 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.112448
+description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 237 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.061966
 url: "/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 3,961 |
-| Publications | 232 |
-| CDR Focus | 5.6% |
+| Citations | 4,064 |
+| Publications | 237 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Biochar
 
 3. **High organic carbon content constricts the potential for stable organic carbon accrual in mineral agricultural soils in Finland** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Fungal communities in boreal soils are influenced by land use, agricultural soil management, and depth** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Effects of biochar and ligneous soil amendments on greenhouse gas exchange during extremely dry growing season in a Finnish cropland** (2022)
    7 citations · Biochar

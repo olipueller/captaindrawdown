@@ -1,7 +1,7 @@
 ---
 title: "Kris M. Hart"
-description: "Kris M. Hart is a Senior Soil Carbon researcher at Forest Research in GB. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.426311
+description: "Kris M. Hart is a Senior Soil Carbon researcher at Forest Research in GB. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.372940
 url: "/cdr-researcher-census/researchers/kris-m-hart-a5069464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 635 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| h-index | 15 |
+| Citations | 658 |
+| Publications | 44 |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · General CDR
 
 2. **Soil moisture and temperature dynamics in juvenile and mature forest as a result of tree growth, hydrometeorological forcings, and drought** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Temperate Forest of 2050's: carbon and nutrient cycling responses to seven years of elevated CO2 enrichment at BIFoR-FACE** (2024)
    2 citations · Soil Carbon

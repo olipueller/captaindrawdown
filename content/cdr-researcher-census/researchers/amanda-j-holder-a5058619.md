@@ -1,7 +1,7 @@
 ---
 title: "Amanda J. Holder"
-description: "Amanda J. Holder is a Mid-career Soil Carbon researcher at Institute of Biological, Environmental and Rural Sciences in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.368947
+description: "Amanda J. Holder is a Mid-career Soil Carbon researcher at Aberystwyth University in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.301796
 url: "/cdr-researcher-census/researchers/amanda-j-holder-a5058619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amanda-j-holder-a5058619/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Biological, Environmental and Rural Sciences"
+    "name": "Aberystwyth University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5355-2525",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Amanda J. Holder**  
-Institute of Biological, Environmental and Rural Sciences · 🇬🇧 GB
+Aberystwyth University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 109 |
-| Publications | 15 |
-| CDR Focus | 26.7% |
+| Citations | 117 |
+| Publications | 17 |
+| CDR Focus | 29.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,17 +53,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Significant difference in <i>Miscanthus</i> species root carbon exudation rate** (2025)
    3 citations
 
-2. **Genotypic Differences in Soil Carbon Stocks Under <i>Miscanthus</i>: Implications for Carbon Sequestration and Plant Breeding** (2025)
+2. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
+   3 citations · BECCS
+
+3. **Genotypic Differences in Soil Carbon Stocks Under <i>Miscanthus</i>: Implications for Carbon Sequestration and Plant Breeding** (2025)
    2 citations · BECCS
 
-3. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
-   2 citations · BECCS
+4. **Dynamics of <i>Miscanthus</i> spp. Overwinter Leaf Litter Drop and Decomposition** (2025)
+   1 citations · General CDR
 
-4. **Identifying a cell wall ideotype for increased soil carbon contents associated with Miscanthus cultivation** (2026)
+5. **Miscanthus Leaf Drop Timing Impacts Autumn and Winter Soil Decomposition Rates** (2026)
    0 citations · Soil Carbon
 
-5. **Dynamics of <i>Miscanthus</i> spp. Overwinter Leaf Litter Drop and Decomposition** (2025)
-   0 citations · General CDR
+6. **Identifying a cell wall ideotype for increased soil carbon contents associated with Miscanthus cultivation** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

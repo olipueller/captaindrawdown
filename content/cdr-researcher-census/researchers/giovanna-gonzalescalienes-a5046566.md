@@ -1,7 +1,7 @@
 ---
 title: "Giovanna Gonzales‐Calienes"
-description: "Giovanna Gonzales‐Calienes is a Mid-career General CDR researcher at National Research Council Canada in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.136157
+description: "Giovanna Gonzales‐Calienes is a Mid-career General CDR researcher at National Research Council Canada in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.056441
 url: "/cdr-researcher-census/researchers/giovanna-gonzalescalienes-a5046566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 157 |
+| h-index | 6 |
+| Citations | 173 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "N.A. Ahammad"
 description: "N.A. Ahammad is an Early-career Biochar researcher at Universiti Sains Malaysia in MY. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.368138
+date: 2026-09-11T02:38:30.332362
 url: "/cdr-researcher-census/researchers/na-ahammad-a5088001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 109 |
+| Citations | 111 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A mini review of recent progress in the removal of emerging contaminants from pharmaceutical waste using various adsorbents** (2022)
-   48 citations
+   49 citations
 
 2. **Preparation of Alpinia galangaStem Based Activated Carbon via Single-step Microwave Irradiation for Cationic Dye Removal** (2021)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

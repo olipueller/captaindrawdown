@@ -1,7 +1,7 @@
 ---
 title: "Victor D. N. Santos"
-description: "Victor D. N. Santos is a Senior DAC researcher at Universidade Federal de Pelotas in BR. With 59 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611309
+description: "Victor D. N. Santos is a Senior DAC researcher at Universidade Federal de Pelotas in BR. With 59 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.565739
 url: "/cdr-researcher-census/researchers/victor-d-n-santos-a5050342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 397 |
+| h-index | 9 |
+| Citations | 404 |
 | Publications | 59 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Liu"
-description: "Zhaoyang Liu is a Senior Biochar researcher at Jilin University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.430358
+description: "Zhaoyang Liu is a Senior Biochar researcher at Liaoning Normal University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.367571
 url: "/cdr-researcher-census/researchers/zhaoyang-liu-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhaoyang-liu-a5100603/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jilin University"
+    "name": "Liaoning Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9266-9371",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhaoyang Liu**  
-Jilin University · 🇨🇳 CN
+Liaoning Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 626 |
+| h-index | 13 |
+| Citations | 669 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Porous Fe-doped graphitized biochar: An innovative approach for co-removing per-/polyfluoroalkyl substances with different chain lengths from natural waters and wastewater** (2023)
-   65 citations · Biochar
+   70 citations · Biochar
 
 2. **Green construction strategies to combat climate change and public-health issues** (2026)
-   4 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

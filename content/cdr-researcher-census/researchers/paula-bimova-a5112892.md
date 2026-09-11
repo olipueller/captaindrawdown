@@ -1,7 +1,7 @@
 ---
 title: "Paula Bímová"
-description: "Paula Bímová is an Early-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.345591
+description: "Paula Bímová is an Early-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.317891
 url: "/cdr-researcher-census/researchers/paula-bimova-a5112892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 113 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 114 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shanyi Tian"
-description: "Shanyi Tian is a Mid-career Soil Carbon researcher at Southwest University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.340580
+description: "Shanyi Tian is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.278222
 url: "/cdr-researcher-census/researchers/shanyi-tian-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shanyi-tian-a5100686/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southwest University"
+    "name": "Anhui Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6353-323X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shanyi Tian**  
-Southwest University · 🇨🇳 CN
+Anhui Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 846 |
-| Publications | 31 |
-| CDR Focus | 12.9% |
+| h-index | 14 |
+| Citations | 906 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
-   8 citations
+   9 citations
 
 3. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
    5 citations

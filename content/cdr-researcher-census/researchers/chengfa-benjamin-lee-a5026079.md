@@ -1,7 +1,7 @@
 ---
 title: "Chengfa Benjamin Lee"
 description: "Chengfa Benjamin Lee is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.767117
+date: 2026-09-11T02:38:29.690166
 url: "/cdr-researcher-census/researchers/chengfa-benjamin-lee-a5026079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 290 |
+| Citations | 314 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Subtidal seagrass and blue carbon mapping at the regional scale: a cloud-native multi-temporal Earth Observation approach** (2024)
-   15 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 2. **Climate Change Mitigation in The Bahamas - The Power of Earth Observation for Blue Carbon Accounting** (2023)
    0 citations · Ocean CDR

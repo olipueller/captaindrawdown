@@ -1,7 +1,7 @@
 ---
 title: "Robin Reibold"
-description: "Robin Reibold is a Senior Soil Carbon researcher at United States Geological Survey in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.772417
+description: "Robin Reibold is a Mid-career Soil Carbon researcher at United States Geological Survey in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.727605
 url: "/cdr-researcher-census/researchers/robin-reibold-a5012159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Robin Reibold**  
 United States Geological Survey · 🇺🇸 US
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 287 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 295 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

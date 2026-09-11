@@ -1,7 +1,7 @@
 ---
 title: "Yilin Ning"
-description: "Yilin Ning is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.543841
+description: "Yilin Ning is a Mid-career Soil Carbon researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.494906
 url: "/cdr-researcher-census/researchers/yilin-ning-a5016118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yilin-ning-a5016118/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "Harbin Engineering University"
   },
   "sameAs": "https://openalex.org/A5016118559"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yilin Ning**  
-Nanjing Forestry University · 🇨🇳 CN
+Harbin Engineering University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 463 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 474 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

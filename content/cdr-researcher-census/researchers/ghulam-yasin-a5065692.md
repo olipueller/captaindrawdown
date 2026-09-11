@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Yasin"
 description: "Ghulam Yasin is a Senior Soil Carbon researcher at University of Sargodha in PK. With 106 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.169534
+date: 2026-09-11T02:38:29.116788
 url: "/cdr-researcher-census/researchers/ghulam-yasin-a5065692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 2,091 |
+| Citations | 2,178 |
 | Publications | 106 |
 | CDR Focus | 10.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   48 citations · General CDR
+   50 citations · General CDR
 
 2. **Carbon Storage Potential of Agroforestry System near Brick Kilns in Irrigated Agro-Ecosystem** (2022)
    24 citations · Soil Carbon
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Estimating carbon stocks and biomass accumulation in three different agroforestry patterns in the semi-arid region of Pakistan** (2021)
    19 citations · General CDR
 
-5. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
+5. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
    15 citations · General CDR
 
-6. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
-   14 citations · General CDR
+6. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
+   15 citations · General CDR
 
 7. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 8. **Climate-Smart Agriculture: Potential Role in Carbon Sequestration and to Address Climate Change Under Irrigated Agro-Ecosystems** (2024)
    2 citations · General CDR

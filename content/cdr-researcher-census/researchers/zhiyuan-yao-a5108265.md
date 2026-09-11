@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
-description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.651514
+description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.588630
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5108265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zhiyuan Yao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhiyuan-yao-a5108265/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Ningbo University"
-  },
   "sameAs": [
     "https://orcid.org/0009-0006-5649-1138",
     "https://openalex.org/A5108265235"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Zhiyuan Yao**  
-Ningbo University · 🇨🇳 CN
+**Zhiyuan Yao**
 
 **Career Stage:** Mid-career
 
@@ -42,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 365 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| h-index | 10 |
+| Citations | 386 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **High-Resolution Mapping of Cropland Soil Organic Carbon in Northern China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil Organic Carbon Stocks Under Daylily Cultivation and Their Influencing Factors in the Agro-Pastoral Ecotone of Northern China** (2025)
    1 citations · Soil Carbon

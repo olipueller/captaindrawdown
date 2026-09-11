@@ -1,7 +1,7 @@
 ---
 title: "M.F. Ricard"
 description: "M.F. Ricard is a Mid-career Soil Carbon researcher at Universidad Nacional de La Pampa in AR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.434527
+date: 2026-09-11T02:38:29.389152
 url: "/cdr-researcher-census/researchers/mf-ricard-a5009321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 619 |
+| Citations | 628 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An evaluation of soil carbon models and their role on finding ways to net-zero carbon in agricultural systems** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

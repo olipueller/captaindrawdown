@@ -1,7 +1,7 @@
 ---
 title: "Falong Hu"
-description: "Falong Hu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 89 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.145685
+description: "Falong Hu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 90 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.094330
 url: "/cdr-researcher-census/researchers/falong-hu-a5055308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 2,595 |
-| Publications | 89 |
-| CDR Focus | 7.9% |
+| h-index | 31 |
+| Citations | 2,701 |
+| Publications | 90 |
+| CDR Focus | 8.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Enhancing crop production and carbon sequestration of wheat in arid areas by green manure with reduced nitrogen fertilizer** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
-   9 citations
+   10 citations
 
 4. **A review of mechanisms underlying soil carbon sequestration and enhancement strategies via diversified planting and green manure integration** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Recent advances in soil carbon sequestration and emission reduction within legume green manure enhanced rotation systems: a review** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Intercropping grain crops with green manure under reduced chemical nitrogen improves the soil carbon stocks by optimizing aggregates in an oasis irrigation area** (2025)
    1 citations · Soil Carbon

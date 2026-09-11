@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Wójcik-Oliveira"
 description: "Katarzyna Wójcik-Oliveira is a Senior Soil Carbon researcher at Lublin University of Technology in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.257607
+date: 2026-09-11T02:38:30.209754
 url: "/cdr-researcher-census/researchers/katarzyna-wojcik-oliveira-a5030022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 130 |
+| Citations | 135 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Zhenming Shen"
-description: "Zhenming Shen is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745128
+description: "Zhenming Shen is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.740184
 url: "/cdr-researcher-census/researchers/zhenming-shen-a5064397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 301 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 288 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term cover crops boost multi-nutrient cycling and subsurface soil carbon sequestration by alleviating microbial carbon limitation in a subtropical forest** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Márquez‐García"
 description: "Francisco Márquez‐García is a Mid-career Soil Carbon researcher at University of Córdoba in ES. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916387
+date: 2026-09-11T02:38:29.877765
 url: "/cdr-researcher-census/researchers/francisco-marquezgarcia-a5022479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 220 |
+| Citations | 226 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

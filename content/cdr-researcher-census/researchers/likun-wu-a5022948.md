@@ -1,7 +1,7 @@
 ---
 title: "Likun Wu"
 description: "Likun Wu is a Senior Soil Carbon researcher at King University in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.557439
+date: 2026-09-11T02:38:29.494093
 url: "/cdr-researcher-census/researchers/likun-wu-a5022948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 449 |
+| Citations | 475 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return enhances soil multifunctionality by promoting protist-dominated microbial multitrophic interactions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

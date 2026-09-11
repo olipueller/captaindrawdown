@@ -1,7 +1,7 @@
 ---
 title: "Maurizio Ventura"
-description: "Maurizio Ventura is a Senior Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.162174
+description: "Maurizio Ventura is a Senior Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 90 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.112971
 url: "/cdr-researcher-census/researchers/maurizio-ventura-a5024196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,210 |
-| Publications | 86 |
-| CDR Focus | 5.8% |
+| Citations | 2,241 |
+| Publications | 90 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

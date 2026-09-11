@@ -1,7 +1,7 @@
 ---
 title: "Haoruo Li"
-description: "Haoruo Li is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852507
+description: "Haoruo Li is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.665080
 url: "/cdr-researcher-census/researchers/haoruo-li-a5015393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 245 |
-| Publications | 28 |
-| CDR Focus | 17.9% |
+| h-index | 9 |
+| Citations | 330 |
+| Publications | 32 |
+| CDR Focus | 15.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   49 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon

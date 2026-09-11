@@ -1,7 +1,7 @@
 ---
 title: "Oscar Zapata"
-description: "Oscar Zapata is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.276501
+description: "Oscar Zapata is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.225066
 url: "/cdr-researcher-census/researchers/oscar-zapata-a5014630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,109 |
-| Publications | 34 |
-| CDR Focus | 8.8% |
+| Citations | 1,132 |
+| Publications | 35 |
+| CDR Focus | 8.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    16 citations · Biochar
 
 2. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

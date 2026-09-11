@@ -1,7 +1,7 @@
 ---
 title: "Yajun Dai"
 description: "Yajun Dai is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.458571
+date: 2026-09-11T02:38:29.407837
 url: "/cdr-researcher-census/researchers/yajun-dai-a5074973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 579 |
+| Citations | 596 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term ditch-buried straw return increases functionality of soil microbial communities** (2021)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 ## External Profiles
 

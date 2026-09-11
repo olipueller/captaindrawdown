@@ -1,7 +1,7 @@
 ---
 title: "Kira Lancker"
-description: "Kira Lancker is a Mid-career Ocean CDR researcher at University of Copenhagen in DK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.112404
+description: "Kira Lancker is a Mid-career Ocean CDR researcher at University of Copenhagen in DK. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.062185
 url: "/cdr-researcher-census/researchers/kira-lancker-a5053104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 164 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 172 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

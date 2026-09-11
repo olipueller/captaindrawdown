@@ -1,7 +1,7 @@
 ---
 title: "A Doiron"
 description: "A Doiron is a Senior Ocean CDR researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408508
+date: 2026-09-11T02:38:30.385236
 url: "/cdr-researcher-census/researchers/a-doiron-a5011575/"
 layout: "researcher"
 hiddenInHomeList: true

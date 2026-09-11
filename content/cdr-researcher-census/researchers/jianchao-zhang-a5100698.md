@@ -1,7 +1,7 @@
 ---
 title: "Jianchao Zhang"
 description: "Jianchao Zhang is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.253375
+date: 2026-09-11T02:38:29.205260
 url: "/cdr-researcher-census/researchers/jianchao-zhang-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,237 |
+| Citations | 1,247 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   57 citations · Ocean CDR
+   58 citations · Ocean CDR
 
 2. **Substrate quality overrides soil salinity in mediating microbial respiration in coastal wetlands** (2023)
    14 citations · Soil Carbon

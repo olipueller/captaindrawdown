@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Bayad"
-description: "Mohamed Bayad is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.232716
+description: "Mohamed Bayad is a Mid-career Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.152109
 url: "/cdr-researcher-census/researchers/mohamed-bayad-a5027709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohamed-bayad-a5027709/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Mohammed VI Polytechnique"
+    "name": "Center For Remote Sensing (United States)"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5574-6924",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohamed Bayad**  
-Université Mohammed VI Polytechnique ·  MA
+Center For Remote Sensing (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 135 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 148 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

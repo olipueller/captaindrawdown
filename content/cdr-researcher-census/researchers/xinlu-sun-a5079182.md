@@ -1,7 +1,7 @@
 ---
 title: "Xinlu Sun"
 description: "Xinlu Sun is a Mid-career General CDR researcher at Shenyang Agricultural University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.430631
+date: 2026-09-11T02:38:29.370636
 url: "/cdr-researcher-census/researchers/xinlu-sun-a5079182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 625 |
+| Citations | 663 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    96 citations · General CDR
 
 2. **The global mismatch between equitable carbon dioxide removal liability and capacity** (2023)
-   32 citations · General CDR
+   33 citations · General CDR
 
 ## External Profiles
 

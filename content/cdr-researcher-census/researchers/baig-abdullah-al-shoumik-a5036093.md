@@ -1,7 +1,7 @@
 ---
 title: "Baig Abdullah Al Shoumik"
-description: "Baig Abdullah Al Shoumik is a Mid-career Soil Carbon researcher at Khulna University in BD. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.532924
+description: "Baig Abdullah Al Shoumik is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.458877
 url: "/cdr-researcher-census/researchers/baig-abdullah-al-shoumik-a5036093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Baig Abdullah Al Shoumik",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/baig-abdullah-al-shoumik-a5036093/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Khulna University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-0847-0739",
     "https://openalex.org/A5036093881"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Baig Abdullah Al Shoumik**  
-Khulna University · 🇧🇩 BD
+**Baig Abdullah Al Shoumik**
 
 **Career Stage:** Mid-career
 
@@ -43,21 +38,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 474 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 517 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon and total nitrogen in particulate and mineral-associated organic matter fractions under different continuous land use patterns across Europe** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Although invisible, fungi are recognized as the engines of a microbial powerhouse that drives soil ecosystem services** (2025)
    12 citations
 
 3. **Dynamics of soil carbon stock in response to land use conversion in European woodland and shrubland in the last decade** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

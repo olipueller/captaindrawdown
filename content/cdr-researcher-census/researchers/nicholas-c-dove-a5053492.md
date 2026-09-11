@@ -1,7 +1,7 @@
 ---
 title: "Nicholas C. Dove"
-description: "Nicholas C. Dove is a Mid-career Soil Carbon researcher at Mayo Clinic Florida in US. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177402
+description: "Nicholas C. Dove is a Mid-career Soil Carbon researcher at Mayo Clinic Florida in US. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.124839
 url: "/cdr-researcher-census/researchers/nicholas-c-dove-a5053492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,969 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 2,036 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Climatic controls on soil and saprock nitrogen distribution and persistence in the Sierra Nevada** (2022)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Soil Organic Matter Dynamics in the Critical Zone** (2024)
    0 citations · Soil Carbon

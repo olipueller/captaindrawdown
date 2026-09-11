@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Javier Beltrán"
-description: "Marcelo Javier Beltrán is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.405195
+description: "Marcelo Javier Beltrán is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.343978
 url: "/cdr-researcher-census/researchers/marcelo-javier-beltran-a5101403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 103 |
+| h-index | 5 |
+| Citations | 109 |
 | Publications | 26 |
 | CDR Focus | 19.2% |
 | Trajectory | Stable |
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **An evaluation of soil carbon models and their role on finding ways to net-zero carbon in agricultural systems** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **The Argentinian experience with yerba mate in agroforestry** (2024)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Biyensa Gurmessa"
-description: "Biyensa Gurmessa is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.496576
+description: "Biyensa Gurmessa is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.445410
 url: "/cdr-researcher-census/researchers/biyensa-gurmessa-a5114038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 521 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| h-index | 10 |
+| Citations | 537 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Trees and grass buffers impact on soil carbon in an agroforestry alleycropping watershed** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Long-term effects of cover crops on soil carbon forms and stocks in no-till corn-soybean rotations in midwest USA** (2026)
    0 citations · Soil Carbon

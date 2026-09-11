@@ -1,7 +1,7 @@
 ---
 title: "Sung Woo Jeong"
 description: "Sung Woo Jeong is a Mid-career General CDR researcher at Research Institute of Industrial Science and Technology in KR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.922985
+date: 2026-09-11T02:38:29.892290
 url: "/cdr-researcher-census/researchers/sung-woo-jeong-a5004164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 218 |
+| Citations | 221 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

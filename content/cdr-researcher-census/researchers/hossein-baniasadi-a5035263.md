@@ -1,7 +1,7 @@
 ---
 title: "Hossein Baniasadi"
-description: "Hossein Baniasadi is a Senior Biochar researcher at Aalto University in FI. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.304898
+description: "Hossein Baniasadi is a Senior Biochar researcher at Aalto University in FI. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.237447
 url: "/cdr-researcher-census/researchers/hossein-baniasadi-a5035263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 969 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 1,070 |
+| Publications | 53 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar-infused cellulose foams with PEG-based phase change materials for enhanced thermal energy storage and photothermal performance** (2025)
-   18 citations
+   20 citations
 
 2. **Biochar-reinforced polyamide 12 composites for sustainable selective laser sintering 3D printing: Performance enhancement and carbon footprint reduction** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Feedstock influence on mechanical properties and CO2 mineralization potential of biochar amended cemented soft clay** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 4. **Dynamic biogenic carbon accounting and functional properties of wood biochar from five species** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuan‐Yuan Xu"
-description: "Yuan‐Yuan Xu is a Senior Ocean CDR researcher at University of Miami in US. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.233660
+description: "Yuan‐Yuan Xu is a Senior Ocean CDR researcher at University of Miami in US. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.183388
 url: "/cdr-researcher-census/researchers/yuanyuan-xu-a5062249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,370 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 1,399 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

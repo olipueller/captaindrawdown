@@ -1,7 +1,7 @@
 ---
 title: "Joanna Hrabak"
 description: "Joanna Hrabak is a Mid-career Biochar researcher at Institute for Chemical Processing of Coal in PL. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611744
+date: 2026-09-11T02:38:29.550824
 url: "/cdr-researcher-census/researchers/joanna-hrabak-a5003545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 397 |
+| Citations | 418 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar** (2022)
-   241 citations · Biochar
+   251 citations · Biochar
 
 ## External Profiles
 

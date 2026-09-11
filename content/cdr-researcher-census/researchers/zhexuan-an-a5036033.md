@@ -1,7 +1,7 @@
 ---
 title: "Zhexuan An"
-description: "Zhexuan An is a Mid-career DAC researcher at China National Nuclear Corporation in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.373600
+description: "Zhexuan An is a Mid-career DAC researcher at China University of Petroleum, Beijing in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.290947
 url: "/cdr-researcher-census/researchers/zhexuan-an-a5036033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhexuan-an-a5036033/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China National Nuclear Corporation"
+    "name": "China University of Petroleum, Beijing"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0965-3430",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhexuan An**  
-China National Nuclear Corporation · 🇨🇳 CN
+China University of Petroleum, Beijing · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
+| Citations | 119 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

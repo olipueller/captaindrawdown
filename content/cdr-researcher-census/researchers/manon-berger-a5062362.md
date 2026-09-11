@@ -1,7 +1,7 @@
 ---
 title: "Manon Berger"
-description: "Manon Berger is a Mid-career Ocean CDR researcher at University of Liège in BE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.878589
+description: "Manon Berger is a Mid-career Ocean CDR researcher at University of Liège in BE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.808352
 url: "/cdr-researcher-census/researchers/manon-berger-a5062362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 234 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 254 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit** (2023)
-   46 citations · General CDR
+   48 citations · General CDR
 
 2. **Assessing global macroalgal carbon dioxide removal potential using a high-resolution ocean biogeochemistry model** (2022)
    5 citations · General CDR

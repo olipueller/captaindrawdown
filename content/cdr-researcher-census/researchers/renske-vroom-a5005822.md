@@ -1,7 +1,7 @@
 ---
 title: "Renske Vroom"
-description: "Renske Vroom is a Mid-career Soil Carbon researcher at University of Greifswald in DE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.294296
+description: "Renske Vroom is a Mid-career Soil Carbon researcher at University of Greifswald in DE. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240869
 url: "/cdr-researcher-census/researchers/renske-vroom-a5005822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,017 |
-| Publications | 31 |
-| CDR Focus | 12.9% |
+| Citations | 1,055 |
+| Publications | 32 |
+| CDR Focus | 9.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

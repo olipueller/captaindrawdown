@@ -1,7 +1,7 @@
 ---
 title: "Dexiang Zheng"
 description: "Dexiang Zheng is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.162839
+date: 2026-09-11T02:38:30.110213
 url: "/cdr-researcher-census/researchers/dexiang-zheng-a5101187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 151 |
+| Citations | 158 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Linking soil nutrients and carbon source composition to forest thinning intensity: evidence from a Chinese fir plantation** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

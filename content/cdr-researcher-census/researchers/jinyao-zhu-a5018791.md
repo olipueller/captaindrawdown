@@ -1,7 +1,7 @@
 ---
 title: "Jinyao Zhu"
 description: "Jinyao Zhu is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.471471
+date: 2026-09-11T02:38:29.408893
 url: "/cdr-researcher-census/researchers/jinyao-zhu-a5018791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 558 |
+| Citations | 594 |
 | Publications | 36 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient activation of ferrate (VI) via corncob biochar assisted by electrochemistry for the removal of sulfamethoxazole from water** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **One-pot hydrothermal synthesis of MoS2 modified sludge biochar for efficient removal of tetracycline from water** (2022)
    30 citations · Biochar
 
 3. **Novel insights into ferrate (VI) activation by Mn-modified sludge biochar for sulfamethoxazole degradation: Dominance of hydroxyl group and Mn-O bond in the non-radical pathway** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 4. **Ferrate (VI) oxidation of sulfamethoxazole enhanced by magnetized sludge-based biochar: Active sites regulation and degradation mechanism analysis** (2024)
    10 citations · Biochar

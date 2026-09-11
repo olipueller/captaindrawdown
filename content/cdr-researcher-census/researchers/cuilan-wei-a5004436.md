@@ -1,7 +1,7 @@
 ---
 title: "Cuilan Wei"
 description: "Cuilan Wei is a Mid-career Soil Carbon researcher at Yunnan Open University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.246351
+date: 2026-09-11T02:38:30.173207
 url: "/cdr-researcher-census/researchers/cuilan-wei-a5004436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
+| Citations | 143 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
-   38 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Zamir"
-description: "Ahmad Zamir is a Senior Soil Carbon researcher at Government of Khyber Pakhtunkhwa in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.334163
+description: "Ahmad Zamir is a Senior Soil Carbon researcher at Government of Khyber Pakhtunkhwa in PK. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.275927
 url: "/cdr-researcher-census/researchers/ahmad-zamir-a5112857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 116 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 123 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Mei"
 description: "Wenxuan Mei is a Mid-career Soil Carbon researcher at Tongji University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398347
+date: 2026-09-11T02:38:30.329367
 url: "/cdr-researcher-census/researchers/wenxuan-mei-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 104 |
+| Citations | 112 |
 | Publications | 14 |
 | CDR Focus | 71.4% |
 | Trajectory | Declining |
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of anthropogenic disturbances on the carbon sink function of Yangtze River estuary wetlands: A review of performance, process, and mechanism** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 2. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
    26 citations · Ocean CDR
 
-3. **Optimization of plant harvest and management patterns to enhance the carbon sink of reclaimed wetland in the Yangtze River estuary** (2022)
+3. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
    10 citations · Soil Carbon
 
-4. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
-   9 citations · Soil Carbon
+4. **Optimization of plant harvest and management patterns to enhance the carbon sink of reclaimed wetland in the Yangtze River estuary** (2022)
+   10 citations · Soil Carbon
 
 5. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
    2 citations · Biochar

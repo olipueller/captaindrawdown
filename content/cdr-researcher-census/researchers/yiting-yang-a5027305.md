@@ -1,7 +1,7 @@
 ---
 title: "Yiting Yang"
 description: "Yiting Yang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398528
+date: 2026-09-11T02:38:30.355422
 url: "/cdr-researcher-census/researchers/yiting-yang-a5027305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 104 |
+| Citations | 107 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

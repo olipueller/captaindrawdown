@@ -1,7 +1,7 @@
 ---
 title: "Malte Lilliestråle"
 description: "Malte Lilliestråle is a Mid-career Biochar researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562935
+date: 2026-09-11T02:38:29.520321
 url: "/cdr-researcher-census/researchers/malte-lilliestrale-a5054875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 443 |
+| Citations | 448 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

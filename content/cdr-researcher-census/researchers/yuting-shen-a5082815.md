@@ -1,7 +1,7 @@
 ---
 title: "Yuting Shen"
-description: "Yuting Shen is an Early-career Soil Carbon researcher at Minzu University of China in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.133707
+description: "Yuting Shen is an Early-career Soil Carbon researcher at Minzu University of China in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.058074
 url: "/cdr-researcher-census/researchers/yuting-shen-a5082815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 158 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 173 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Root Exudates Mediate the Processes of Soil Organic Carbon Input and Efflux** (2023)
-   143 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 ## External Profiles
 

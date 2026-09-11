@@ -1,7 +1,7 @@
 ---
 title: "Anna Grobelak"
-description: "Anna Grobelak is a Senior Soil Carbon researcher at Czestochowa University of Technology in PL. With 133 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.111651
+description: "Anna Grobelak is a Senior Soil Carbon researcher at Czestochowa University of Technology in PL. With 142 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.060352
 url: "/cdr-researcher-census/researchers/anna-grobelak-a5025511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 4,018 |
-| Publications | 133 |
-| CDR Focus | 6.8% |
+| h-index | 32 |
+| Citations | 4,127 |
+| Publications | 142 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Kinetic study of the simultaneous removal of ibuprofen, carbamazepine, sulfamethoxazole, and diclofenac from water using biochar and activated carbon adsorption, and TiO2 photocatalysis** (2024)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Conditioning Biomass for Biogas Plants: Innovative Pre-Treatment and Digestate Valorization Techniques to Enhance Soil Health and Fertility** (2025)
    17 citations · BECCS

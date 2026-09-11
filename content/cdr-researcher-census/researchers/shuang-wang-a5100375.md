@@ -1,7 +1,7 @@
 ---
 title: "Shuang Wang"
-description: "Shuang Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.160838
+description: "Shuang Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 83 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.111122
 url: "/cdr-researcher-census/researchers/shuang-wang-a5100375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,243 |
-| Publications | 85 |
-| CDR Focus | 7.1% |
+| Citations | 2,274 |
+| Publications | 83 |
+| CDR Focus | 7.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial strategies regulate organic carbon accumulation in saline paddy soils: A millennium chronosequence** (2025)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Integrating Landscape Pattern Metrics to Map Spatial Distribution of Farmland Soil Organic Carbon on Lower Liaohe Plain of Northeast China** (2023)
    12 citations · Soil Carbon
 
 4. **Iron‑carbon complex types and bonding forms jointly control organic carbon mineralization in paddy soils** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-5. **Influence of Vegetation Type and Park Age on Soil Dissolved Organic Matter Composition in Subtropical Urban Parks** (2026)
+5. **Plasma oxidation via Fenton-like reaction by algae-based activated biochar with Fe sites for dye pollutants degradation in wastewater** (2025)
+   3 citations
+
+6. **Influence of Vegetation Type and Park Age on Soil Dissolved Organic Matter Composition in Subtropical Urban Parks** (2026)
    2 citations · Soil Carbon
-
-6. **Plasma oxidation via Fenton-like reaction by algae-based activated biochar with Fe sites for dye pollutants degradation in wastewater** (2025)
-   1 citations
 
 7. **Plasma Oxidation Via Fenton-Like Reaction by Algae-Based Activated Biochar with Fe Sites for Dye Pollutants Degradation in Wastewater** (2025)
    0 citations · Biochar

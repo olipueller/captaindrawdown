@@ -1,7 +1,7 @@
 ---
 title: "Marmar Sabetizade"
 description: "Marmar Sabetizade is a Mid-career Soil Carbon researcher at UCLouvain in BE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.873855
+date: 2026-09-11T02:38:29.848586
 url: "/cdr-researcher-census/researchers/marmar-sabetizade-a5005322/"
 layout: "researcher"
 hiddenInHomeList: true

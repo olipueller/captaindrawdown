@@ -1,7 +1,7 @@
 ---
 title: "Peter Psarras"
-description: "Peter Psarras is a Mid-career General CDR researcher at University of Pennsylvania in US. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.137162
+description: "Peter Psarras is a Mid-career General CDR researcher at University of Pennsylvania in US. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.087833
 url: "/cdr-researcher-census/researchers/peter-psarras-a5075179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 2,855 |
-| Publications | 66 |
-| CDR Focus | 16.7% |
+| h-index | 18 |
+| Citations | 2,873 |
+| Publications | 65 |
+| CDR Focus | 16.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   194 citations · DAC
+   202 citations · DAC
 
 2. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
    90 citations
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 5. **Direct Air Capture: Assessing Impacts to Enable Responsible Scaling** (2022)
    16 citations · DAC
@@ -71,11 +71,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Opportunities for rail in the transport of carbon dioxide in the United States** (2024)
    11 citations · General CDR
 
-8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   5 citations · DAC
+8. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
+   8 citations · DAC
 
-9. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
-   4 citations · DAC
+9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
+   5 citations · DAC
 
 10. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    4 citations

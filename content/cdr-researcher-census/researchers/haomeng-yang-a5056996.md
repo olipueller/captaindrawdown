@@ -1,7 +1,7 @@
 ---
 title: "Haomeng Yang"
 description: "Haomeng Yang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.513232
+date: 2026-09-11T02:38:29.470446
 url: "/cdr-researcher-census/researchers/haomeng-yang-a5056996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 496 |
+| Citations | 501 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Research Progress and Prospects of Modified Biochar in the Adsorption and Degradation of Sulfonamide Antibiotics** (2026)
-   2 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

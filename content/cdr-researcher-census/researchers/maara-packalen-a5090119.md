@@ -1,7 +1,7 @@
 ---
 title: "Maara Packalen"
-description: "Maara Packalen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Forestry in CA. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.160245
+description: "Maara Packalen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Forestry in CA. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.109777
 url: "/cdr-researcher-census/researchers/maara-packalen-a5090119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 2,251 |
+| h-index | 12 |
+| Citations | 2,299 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The essential carbon service provided by northern peatlands** (2021)
-   120 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **Peat Carbon Vulnerability to Projected Climate Warming in the Hudson Bay Lowlands, Canada: A Decision Support Tool for Land Use Planning in Peatland Dominated Landscapes** (2021)
    13 citations · General CDR

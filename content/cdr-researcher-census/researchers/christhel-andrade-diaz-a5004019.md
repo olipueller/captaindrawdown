@@ -1,7 +1,7 @@
 ---
 title: "Christhel Andrade Díaz"
 description: "Christhel Andrade Díaz is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.136690
+date: 2026-09-11T02:38:30.087841
 url: "/cdr-researcher-census/researchers/christhel-andrade-diaz-a5004019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 157 |
+| Citations | 164 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

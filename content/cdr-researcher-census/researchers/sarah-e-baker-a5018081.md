@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. Baker"
-description: "Sarah E. Baker is an Eminent General CDR researcher at Lawrence Livermore National Laboratory in US. With 134 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.094448
+description: "Sarah E. Baker is an Eminent General CDR researcher at Lawrence Livermore National Laboratory in US. With 129 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.045553
 url: "/cdr-researcher-census/researchers/sarah-e-baker-a5018081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 41 |
-| Citations | 5,388 |
-| Publications | 134 |
-| CDR Focus | 6.0% |
-| Trajectory | Stable |
+| Citations | 5,460 |
+| Publications | 129 |
+| CDR Focus | 7.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Carbon accounting for carbon dioxide removal** (2024)
-   22 citations · General CDR
+   25 citations · General CDR
 
 3. **Net-Zero Ethylene: On the Sustainability, Economics, and Scalability of Synthetic and Fossil Production Pathways** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 4. **Optimization of direct air capture processes using reactive transport models of adsorption-desorption cycles** (2025)
-   3 citations
+   4 citations
 
-5. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
+5. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
+   2 citations · DAC
+
+6. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
    2 citations · General CDR
-
-6. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
-   1 citations · DAC
 
 7. **Summary Report of the Carbon-Negative Hydrogen Workshop** (2024)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Xiang-Min Fang"
 description: "Xiang-Min Fang is a Senior Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 94 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.165121
+date: 2026-09-11T02:38:29.115555
 url: "/cdr-researcher-census/researchers/xiang-min-fang-a5101891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,144 |
+| Citations | 2,200 |
 | Publications | 94 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aggregate‐associated soil organic carbon fractions in subtropical soil undergoing vegetative restoration** (2023)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Contrasting Effects of Nitrogen Deposition and Phosphorus Addition on Soil Organic Carbon in a Subtropical Forest: Physical Protection versus Chemical Stability** (2024)
    9 citations · Soil Carbon

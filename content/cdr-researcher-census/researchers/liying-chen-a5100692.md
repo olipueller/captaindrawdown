@@ -1,7 +1,7 @@
 ---
 title: "Liying Chen"
-description: "Liying Chen is a Senior Biochar researcher at Qingdao University in CN. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.165237
+description: "Liying Chen is a Senior Biochar researcher at Qingdao University in CN. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.113624
 url: "/cdr-researcher-census/researchers/liying-chen-a5100692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,9 +42,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 2,142 |
-| Publications | 73 |
+| h-index | 19 |
+| Citations | 2,226 |
+| Publications | 74 |
 | CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    85 citations · Biochar
 
 2. **Polylactic acid microplastics induced negative priming and improved carbon sequestration via microbial processes in different paddy soils** (2024)
-   51 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 3. **Carbon sequestration potential of biochar in soil from the perspective of organic carbon structural modification** (2024)
    32 citations · Biochar
 
 4. **Quantifying the negative effects of dissolved organic carbon of maize straw-derived biochar on its carbon sequestration potential in a paddy soil** (2024)
-   19 citations · Biochar
+   21 citations · Biochar
 
 5. **N, P, O-codoped biochar from phytoremediation residues: a promising cathode material for Li–S batteries** (2022)
    5 citations · Biochar

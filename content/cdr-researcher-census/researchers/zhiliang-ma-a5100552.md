@@ -1,7 +1,7 @@
 ---
 title: "Zhiliang Ma"
 description: "Zhiliang Ma is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.120502
+date: 2026-09-11T02:38:30.066489
 url: "/cdr-researcher-census/researchers/zhiliang-ma-a5100552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 162 |
+| Citations | 171 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increased plant growth may offset soil carbon loss caused by warming in an alpine Sibiraea angustata shrub ecosystem on the eastern Qinghai-Tibet Plateau** (2022)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maiara S. Mendes"
 description: "Maiara S. Mendes is a Mid-career Biochar researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.999069
+date: 2026-09-11T02:38:29.918396
 url: "/cdr-researcher-census/researchers/maiara-s-mendes-a5080522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 197 |
+| Citations | 210 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |

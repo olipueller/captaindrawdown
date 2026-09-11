@@ -1,7 +1,7 @@
 ---
 title: "Franziska B. Bucka"
-description: "Franziska B. Bucka is a Mid-career Soil Carbon researcher at Goethe University Frankfurt in DE. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.479292
+description: "Franziska B. Bucka is a Mid-career Soil Carbon researcher at Goethe University Frankfurt in DE. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.423578
 url: "/cdr-researcher-census/researchers/franziska-b-bucka-a5023210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 546 |
-| Publications | 52 |
-| CDR Focus | 15.4% |
+| Citations | 574 |
+| Publications | 53 |
+| CDR Focus | 15.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,22 +56,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    8 citations · Enhanced Weathering
 
-3. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
+3. **Biochar-amended constructed soils enhance roadside ecosystem functions with responses shaped by texture and hydrologic conditions** (2026)
+   2 citations · Biochar
+
+4. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
    2 citations · Enhanced Weathering
 
-4. **Detecting the Disintegration: Insights into soil structure decay following OC depletion** (2023)
+5. **Detecting the Disintegration: Insights into soil structure decay following OC depletion** (2023)
    1 citations · Soil Carbon
 
-5. **Biochar-amended constructed soils enhance roadside ecosystem functions with responses shaped by texture and hydrologic conditions** (2026)
-   0 citations · Biochar
-
-6. **The enhanced rock weathering stages determine the fluxes and interactions of soil inorganic and organic carbon pools** (2025)
+6. **Enhanced Rock Weathering Affects Formation of Mineral-Associated Organic Carbon in Soil** (2026)
    0 citations · Enhanced Weathering
 
-7. **How soil sodification and pH restrict microbially mediated organic carbon turnover and aggregate formation: An artificial soil microcosm study** (2022)
+7. **The enhanced rock weathering stages determine the fluxes and interactions of soil inorganic and organic carbon pools** (2025)
+   0 citations · Enhanced Weathering
+
+8. **How soil sodification and pH restrict microbially mediated organic carbon turnover and aggregate formation: An artificial soil microcosm study** (2022)
    0 citations · Soil Carbon
 
-8. **Explicit spatial modeling at the pore scale unravels the interplay of soil organic carbon storage and structure dynamics** (2022)
+9. **Explicit spatial modeling at the pore scale unravels the interplay of soil organic carbon storage and structure dynamics** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

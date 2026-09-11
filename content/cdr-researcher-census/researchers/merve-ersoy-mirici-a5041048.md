@@ -1,7 +1,7 @@
 ---
 title: "Merve ERSOY MİRİCİ"
 description: "Merve ERSOY MİRİCİ is a Mid-career Soil Carbon researcher at Bursa Technical University in TR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.972775
+date: 2026-09-11T02:38:29.904373
 url: "/cdr-researcher-census/researchers/merve-ersoy-mirici-a5041048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 206 |
+| Citations | 216 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

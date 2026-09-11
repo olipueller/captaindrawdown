@@ -1,7 +1,7 @@
 ---
 title: "Luke Farrow"
 description: "Luke Farrow is a Mid-career General CDR researcher at Agri Food and Biosciences Institute in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.799494
+date: 2026-09-11T02:38:29.744727
 url: "/cdr-researcher-census/researchers/luke-farrow-a5064317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 273 |
+| Citations | 286 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

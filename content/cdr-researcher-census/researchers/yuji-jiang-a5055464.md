@@ -1,7 +1,7 @@
 ---
 title: "Yuji Jiang"
 description: "Yuji Jiang is an Eminent Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 111 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.090312
+date: 2026-09-11T02:38:29.040876
 url: "/cdr-researcher-census/researchers/yuji-jiang-a5055464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 5,902 |
+| Citations | 6,082 |
 | Publications | 111 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Interaction between nematodes and bacteria enhances soil carbon sequestration under organic material amendments** (2023)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil** (2021)
    25 citations · Biochar

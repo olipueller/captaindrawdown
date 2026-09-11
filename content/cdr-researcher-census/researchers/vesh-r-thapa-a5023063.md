@@ -1,7 +1,7 @@
 ---
 title: "Vesh R. Thapa"
-description: "Vesh R. Thapa is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.415960
+description: "Vesh R. Thapa is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.351798
 url: "/cdr-researcher-census/researchers/vesh-r-thapa-a5023063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 653 |
-| Publications | 26 |
-| CDR Focus | 19.2% |
+| Citations | 705 |
+| Publications | 28 |
+| CDR Focus | 17.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration potential of conservation agriculture in arid and semi-arid regions: A review** (2023)
-   73 citations · General CDR
+   79 citations · General CDR
 
 2. **Response of soil organic matter to cover cropping in water-limited environments** (2021)
-   58 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 3. **Limited impacts of occasional tillage on dry aggregate size distribution and soil carbon and nitrogen fractions in semi-arid drylands** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 4. **Simulating long-term soil carbon storage, greenhouse gas balance, and crop yields in semi-arid cropping systems using DayCent model** (2024)
-   19 citations · General CDR
+   20 citations · General CDR
 
 5. **Enhancing estimation of cover crop biomass using field-based high-throughput phenotyping and machine learning models** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

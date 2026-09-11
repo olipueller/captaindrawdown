@@ -1,7 +1,7 @@
 ---
 title: "Fabian Rosner"
-description: "Fabian Rosner is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.439624
+description: "Fabian Rosner is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.367383
 url: "/cdr-researcher-census/researchers/fabian-rosner-a5077038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 611 |
-| Publications | 48 |
-| CDR Focus | 6.2% |
+| Citations | 669 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Emerging concepts in intermediate carbon dioxide emplacement to support carbon dioxide removal** (2023)
-   32 citations · General CDR
+   33 citations · General CDR
 
 2. **Techno-economic analysis of a CO2 direct air capture-cooling tower hybrid process at a geothermal facility** (2023)
    3 citations

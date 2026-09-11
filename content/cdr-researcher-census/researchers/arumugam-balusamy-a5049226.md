@@ -1,7 +1,7 @@
 ---
 title: "Arumugam Balusamy"
-description: "Arumugam Balusamy is a Mid-career Biochar researcher at ICAR Research Complex for NEH Region in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.156363
+description: "Arumugam Balusamy is a Mid-career Biochar researcher at ICAR Research Complex for NEH Region in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.154241
 url: "/cdr-researcher-census/researchers/arumugam-balusamy-a5049226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 152 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 4 |
+| Citations | 147 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

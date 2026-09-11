@@ -1,7 +1,7 @@
 ---
 title: "Chuthamat Chiamsathit"
 description: "Chuthamat Chiamsathit is a Mid-career Biochar researcher at Kalasin University in TH. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.397960
+date: 2026-09-11T02:38:30.354788
 url: "/cdr-researcher-census/researchers/chuthamat-chiamsathit-a5090226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 107 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

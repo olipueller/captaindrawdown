@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Poluzzi"
-description: "Alessandro Poluzzi is a Mid-career BECCS researcher at University of Milan in IT. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.515977
+description: "Alessandro Poluzzi is a Mid-career BECCS researcher at University of Milan in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.458279
 url: "/cdr-researcher-census/researchers/alessandro-poluzzi-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 493 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 517 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

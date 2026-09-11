@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
-description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.610755
+description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.538211
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 398 |
-| Publications | 34 |
-| CDR Focus | 8.8% |
+| h-index | 12 |
+| Citations | 432 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
-   4 citations
+   5 citations
 
-2. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
+2. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)
+   3 citations · DAC
+
+3. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
    2 citations
 
-3. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
+4. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
    1 citations
 
-4. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
+5. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
    1 citations
-
-5. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)
-   0 citations · DAC
 
 6. **Scale-Bridging Solid Adsorbents for Direct Air Capture: Integrating Material Chemistry, Structured Contactors, and Advanced Regeneration Processes** (2026)
    0 citations

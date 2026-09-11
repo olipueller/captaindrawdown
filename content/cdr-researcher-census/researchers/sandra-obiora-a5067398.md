@@ -1,7 +1,7 @@
 ---
 title: "Sandra Obiora"
 description: "Sandra Obiora is a Mid-career General CDR researcher at Leeds Beckett University in GB. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.345840
+date: 2026-09-11T02:38:29.282512
 url: "/cdr-researcher-census/researchers/sandra-obiora-a5067398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 829 |
+| Citations | 890 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The complementary role of carbon dioxide removal: A catalyst for advancing the COP28 pledges towards the 1.5 °C Paris Agreement target** (2024)
-   31 citations · General CDR
+   32 citations · General CDR
 
 2. **Socio-economic implications of deploying COP28 pledged negative emission technologies** (2026)
    0 citations · General CDR

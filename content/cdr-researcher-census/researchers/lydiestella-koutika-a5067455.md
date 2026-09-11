@@ -1,7 +1,7 @@
 ---
 title: "Lydie‐Stella Koutika"
 description: "Lydie‐Stella Koutika is a Senior Soil Carbon researcher at CRDPI in CG. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.151763
+date: 2026-09-11T02:38:29.104259
 url: "/cdr-researcher-census/researchers/lydiestella-koutika-a5067455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,424 |
+| Citations | 2,418 |
 | Publications | 92 |
 | CDR Focus | 9.8% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Wanyang Zhang"
-description: "Wanyang Zhang is a Mid-career Soil Carbon researcher at Wuhan University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316652
+description: "Wanyang Zhang is a Mid-career Soil Carbon researcher at Wuhan University of Technology in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.190735
 url: "/cdr-researcher-census/researchers/wanyang-zhang-a5013886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 119 |
-| Publications | 14 |
-| CDR Focus | 42.9% |
+| h-index | 8 |
+| Citations | 139 |
+| Publications | 15 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated rice-aquatic animals culture systems promote the sustainable development of agriculture by improving soil fertility and reducing greenhouse gas emissions** (2023)
-   38 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Rice-crayfish farming increases soil organic carbon sequestration by promoting aggregate protection and microbial necromass accumulation** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Rice-crayfish farming system promote subsoil microbial residual carbon accumulation and stabilization by mediating microbial metabolism process** (2024)
    12 citations · Soil Carbon
 
 4. **Global Potential and Trade‐Offs of Conservation Tillage for Crop Productivity and Ecosystem Services** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Reconciling the climate–productivity trade-off in cover cropping systems for agrifood transitions** (2026)
    0 citations

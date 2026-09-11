@@ -1,7 +1,7 @@
 ---
 title: "Yennam Rajesh"
 description: "Yennam Rajesh is a Mid-career Biochar researcher at Sandip Foundation in IN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.858680
+date: 2026-09-11T02:38:29.804326
 url: "/cdr-researcher-census/researchers/yennam-rajesh-a5037704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 242 |
+| Citations | 256 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of activated biochar from sustainable bamboo resources: An environment-friendly and low-cost solution for palladium (II) removal from wastewater** (2023)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Evaluation of Activated Biochar from Sustainable Sterculia foetida Shells for the Removal of AB 158 Dye** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

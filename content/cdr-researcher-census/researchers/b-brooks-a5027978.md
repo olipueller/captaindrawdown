@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
-description: "B. Brooks is a Senior DAC researcher at Carbon Solutions (United States) in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.748043
+description: "B. Brooks is a Senior DAC researcher at Carbon Solutions (United States) in US. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.712152
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 299 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
-| Trajectory | Exiting |
+| Citations | 302 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of Lower Tidal Volume Ventilation Facilitated by Extracorporeal Carbon Dioxide Removal vs Standard Care Ventilation on 90-Day Mortality in Patients With Acute Hypoxemic Respiratory Failure** (2021)
-   217 citations
+   223 citations
 
 2. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
-   20 citations · DAC
+   22 citations · DAC
 
 3. **Meeting Net-Zero America Direct Air Capture Targets with Sedimentary Basin Geothermal Heat While Considering Environmental Justice** (2024)
    2 citations · DAC

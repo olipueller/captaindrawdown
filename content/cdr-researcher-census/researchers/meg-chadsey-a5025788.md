@@ -1,7 +1,7 @@
 ---
 title: "Meg Chadsey"
 description: "Meg Chadsey is a Senior Ocean CDR researcher at University of Washington in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.826171
+date: 2026-09-11T02:38:29.793869
 url: "/cdr-researcher-census/researchers/meg-chadsey-a5025788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 259 |
+| Citations | 262 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

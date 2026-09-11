@@ -1,7 +1,7 @@
 ---
 title: "Kongcao Xiao"
-description: "Kongcao Xiao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 48 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.157185
+description: "Kongcao Xiao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 49 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.106903
 url: "/cdr-researcher-census/researchers/kongcao-xiao-a5052499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,305 |
-| Publications | 48 |
-| CDR Focus | 8.3% |
+| Citations | 2,355 |
+| Publications | 49 |
+| CDR Focus | 10.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

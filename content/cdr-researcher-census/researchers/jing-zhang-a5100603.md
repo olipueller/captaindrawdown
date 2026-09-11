@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
-description: "Jing Zhang is a Senior Soil Carbon researcher at South China Botanical Garden, Chinese Academy of Sciences in CN. With 117 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.143395
+description: "Jing Zhang is a Senior Soil Carbon researcher at South China Botanical Garden, Chinese Academy of Sciences in CN. With 118 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.092406
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 2,664 |
-| Publications | 117 |
+| Citations | 2,755 |
+| Publications | 118 |
 | CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Biochar in Combination with Nitrogen Fertilizer is a Technique: To Enhance Physiological and Morphological Traits of Rice (Oryza sativa L.) by Improving Soil Physio-biochemical Properties** (2021)
    51 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Soil Carbon
 
 5. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 6. **Partial root-zone drying (PRD) leads to lower carbon retention in the soil-plant systems of alfalfa** (2023)
    8 citations · Soil Carbon
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Late-season rice increased the contribution of glomalin rather than amino sugar to soil organic carbon in a double-season paddy soil** (2024)
    3 citations · Soil Carbon
 
-8. **Seasonal response patterns of plant-derived residue carbon to long-term supplementation of phosphorus and nitrogen in tropical forest soils** (2026)
-   0 citations
+8. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
+   1 citations · Soil Carbon
 
-9. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
-   0 citations · Soil Carbon
+9. **Seasonal response patterns of plant-derived residue carbon to long-term supplementation of phosphorus and nitrogen in tropical forest soils** (2026)
+   0 citations
 
 10. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
    0 citations · Soil Carbon

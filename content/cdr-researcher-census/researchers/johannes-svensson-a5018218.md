@@ -1,7 +1,7 @@
 ---
 title: "Johannes Svensson"
-description: "Johannes Svensson is a Mid-career General CDR researcher at Institut du Développement Durable et des Relations Internationales in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.987053
+description: "Johannes Svensson is a Mid-career General CDR researcher at Institut du Développement Durable et des Relations Internationales in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.946010
 url: "/cdr-researcher-census/researchers/johannes-svensson-a5018218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 201 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 207 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The AFOLU sector’s role in national decarbonization: a comparative analysis of low-GHG development pathways in Brazil, India and Indonesia** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

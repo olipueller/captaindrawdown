@@ -1,7 +1,7 @@
 ---
 title: "Paul Tautorat"
-description: "Paul Tautorat is a Mid-career General CDR researcher at ETH Zurich in CH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.915290
+description: "Paul Tautorat is a Mid-career General CDR researcher at ETH Zurich in CH. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.876867
 url: "/cdr-researcher-census/researchers/paul-tautorat-a5080485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 220 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 226 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

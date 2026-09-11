@@ -1,7 +1,7 @@
 ---
 title: "Chaoyun Wang"
 description: "Chaoyun Wang is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.985506
+date: 2026-09-11T02:38:29.917344
 url: "/cdr-researcher-census/researchers/chaoyun-wang-a5102886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 201 |
+| Citations | 210 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

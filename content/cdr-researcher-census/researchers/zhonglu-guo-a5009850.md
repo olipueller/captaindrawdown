@@ -1,7 +1,7 @@
 ---
 title: "Zhonglu Guo"
-description: "Zhonglu Guo is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 36 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.227268
+description: "Zhonglu Guo is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.177237
 url: "/cdr-researcher-census/researchers/zhonglu-guo-a5009850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,414 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 1,443 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

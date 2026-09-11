@@ -1,7 +1,7 @@
 ---
 title: "Shraddha Gupta"
-description: "Shraddha Gupta is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 56 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.815743
+description: "Shraddha Gupta is a Senior General CDR researcher at University of Petroleum and Energy Studies in IN. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.760928
 url: "/cdr-researcher-census/researchers/shraddha-gupta-a5052634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shraddha-gupta-a5052634/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Potsdam Institute for Climate Impact Research"
+    "name": "University of Petroleum and Energy Studies"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4158-9870",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shraddha Gupta**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
+University of Petroleum and Energy Studies · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 264 |
-| Publications | 56 |
-| CDR Focus | 7.1% |
+| Citations | 277 |
+| Publications | 57 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

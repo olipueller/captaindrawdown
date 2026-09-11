@@ -1,7 +1,7 @@
 ---
 title: "Kaige Li"
-description: "Kaige Li is a Senior Biochar researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.787668
+description: "Kaige Li is an Early-career Biochar researcher at Changchun University of Science and Technology in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.735391
 url: "/cdr-researcher-census/researchers/kaige-li-a5019297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Kaige Li",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kaige-li-a5019297/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Changchun University of Science and Technology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-6457-9387",
     "https://openalex.org/A5019297727"
@@ -23,9 +27,10 @@ robots: "index, follow"
 
 ## Profile
 
-**Kaige Li**
+**Kaige Li**  
+Changchun University of Science and Technology · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 279 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| Citations | 290 |
+| Publications | 9 |
+| CDR Focus | 22.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

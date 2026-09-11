@@ -1,7 +1,7 @@
 ---
 title: "Thomas C. Heller"
-description: "Thomas C. Heller is a Senior General CDR researcher at Stanford Medicine in US. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.422259
+description: "Thomas C. Heller is a Senior General CDR researcher at Stanford Medicine in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.381162
 url: "/cdr-researcher-census/researchers/thomas-c-heller-a5103946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 639 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 640 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **What’s next after carbon accounting? Emissions liability management** (2023)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **What’s Next After Carbon Accounting? Emissions Liability Management** (2023)
    7 citations · General CDR

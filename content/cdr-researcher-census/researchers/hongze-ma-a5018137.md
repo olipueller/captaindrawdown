@@ -1,7 +1,7 @@
 ---
 title: "Hongze Ma"
-description: "Hongze Ma is a Mid-career Soil Carbon researcher at Memorial University of Newfoundland in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.111730
+description: "Hongze Ma is a Mid-career Soil Carbon researcher at Memorial University of Newfoundland in CA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.009358
 url: "/cdr-researcher-census/researchers/hongze-ma-a5018137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 164 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| h-index | 8 |
+| Citations | 187 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Antagonistic and synergistic interactions dominate GHGs fluxes, soil properties and yield responses to biochar and N addition** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Impact of vegetation restoration on soil organic carbon fractions: A global meta-analysis** (2025)
    6 citations · Soil Carbon

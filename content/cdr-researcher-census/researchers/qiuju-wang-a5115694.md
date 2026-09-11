@@ -1,7 +1,7 @@
 ---
 title: "Qiuju Wang"
-description: "Qiuju Wang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.798452
+description: "Qiuju Wang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.741216
 url: "/cdr-researcher-census/researchers/qiuju-wang-a5115694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 273 |
+| h-index | 8 |
+| Citations | 287 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis of penicillin fermentation residue and sludge to produce biochar: Antibiotic resistance genes destruction and biochar application in the adsorption of penicillin in water** (2021)
-   83 citations · Biochar
+   85 citations · Biochar
 
 ## External Profiles
 

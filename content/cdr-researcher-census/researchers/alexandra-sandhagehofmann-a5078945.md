@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Sandhage‐Hofmann"
-description: "Alexandra Sandhage‐Hofmann is a Senior Soil Carbon researcher at University of Bonn in DE. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.265574
+description: "Alexandra Sandhage‐Hofmann is a Senior Soil Carbon researcher at University of Bonn in DE. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.215828
 url: "/cdr-researcher-census/researchers/alexandra-sandhagehofmann-a5078945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,170 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| h-index | 17 |
+| Citations | 1,191 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · Soil Carbon
 
 2. **Natural and Human Disturbances Have Non‐Linear Effects on Whole‐Ecosystem Carbon Storage in an African Savanna** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 3. **Revisiting a short rotation coppice plot trial 10 years after biochar application: can we expect long-term effects on soil organic carbon content?** (2023)
    0 citations · Biochar

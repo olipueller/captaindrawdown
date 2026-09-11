@@ -1,7 +1,7 @@
 ---
 title: "Biwan Shi"
 description: "Biwan Shi is an Early-career Soil Carbon researcher at Lanzhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.336683
+date: 2026-09-11T02:38:30.293374
 url: "/cdr-researcher-census/researchers/biwan-shi-a5029358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 115 |
+| Citations | 119 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus supply suppressed microbial necromass but stimulated plant lignin phenols accumulation in soils of alpine grassland on the Tibetan Plateau** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Effects of short- and long-term nutrient addition on microbial carbon use efficiency and carbon accumulation efficiency in the Tibetan alpine grassland** (2023)
    32 citations · Soil Carbon

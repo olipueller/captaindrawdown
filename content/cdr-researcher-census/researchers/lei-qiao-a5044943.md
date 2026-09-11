@@ -1,7 +1,7 @@
 ---
 title: "Lei Qiao"
 description: "Lei Qiao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258588
+date: 2026-09-11T02:38:29.200262
 url: "/cdr-researcher-census/researchers/lei-qiao-a5044943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,206 |
+| Citations | 1,277 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global crop production increase by soil organic carbon** (2023)
-   289 citations · General CDR
+   294 citations · General CDR
 
 2. **Both yields of maize and soybean and soil carbon sequestration in typical Mollisols cropland decrease under future climate change: SPACSYS simulation** (2024)
    1 citations · General CDR

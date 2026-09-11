@@ -1,7 +1,7 @@
 ---
 title: "Menghan Yuan"
-description: "Menghan Yuan is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375114
+description: "Menghan Yuan is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.268207
 url: "/cdr-researcher-census/researchers/menghan-yuan-a5074280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 124 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Alpine wetland degradation affects carbon cycle function genes but does not reduce soil microbial diversity** (2024)
-   36 citations
+   39 citations
 
 2. **Aridity-driven divergence in soil microbial necromass carbon in alpine grasslands of the Tibetan Plateau** (2024)
    22 citations · Soil Carbon

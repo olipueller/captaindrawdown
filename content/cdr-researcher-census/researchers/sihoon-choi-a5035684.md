@@ -1,7 +1,7 @@
 ---
 title: "Sihoon Choi"
-description: "Sihoon Choi is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.930406
+description: "Sihoon Choi is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.887081
 url: "/cdr-researcher-census/researchers/sihoon-choi-a5035684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 214 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 222 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture** (2024)
-   87 citations
+   91 citations
 
 2. **The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture** (2023)
    4 citations · DAC

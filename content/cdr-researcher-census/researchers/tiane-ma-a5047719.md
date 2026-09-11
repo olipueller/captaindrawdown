@@ -1,7 +1,7 @@
 ---
 title: "Tiane Ma"
 description: "Tiane Ma is a Mid-career Soil Carbon researcher at Guangdong Province Environmental Monitoring Center in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.197981
+date: 2026-09-11T02:38:30.175129
 url: "/cdr-researcher-census/researchers/tiane-ma-a5047719/"
 layout: "researcher"
 hiddenInHomeList: true

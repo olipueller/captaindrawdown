@@ -1,7 +1,7 @@
 ---
 title: "Sunil L. Narnaware"
-description: "Sunil L. Narnaware is a Mid-career BECCS researcher at Central Agricultural University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.644446
+description: "Sunil L. Narnaware is a Mid-career BECCS researcher at Central Agricultural University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.600042
 url: "/cdr-researcher-census/researchers/sunil-l-narnaware-a5086978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 370 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 377 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

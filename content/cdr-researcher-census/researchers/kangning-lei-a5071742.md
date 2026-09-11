@@ -1,7 +1,7 @@
 ---
 title: "Kangning Lei"
 description: "Kangning Lei is a Mid-career Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.170436
+date: 2026-09-11T02:38:30.131148
 url: "/cdr-researcher-census/researchers/kangning-lei-a5071742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 149 |
+| Citations | 153 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Gijs Staats"
 description: "Gijs Staats is an Early-career Soil Carbon researcher at Avans University of Applied Sciences in NL. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.382621
+date: 2026-09-11T02:38:30.320569
 url: "/cdr-researcher-census/researchers/gijs-staats-a5017480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 107 |
+| Citations | 114 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Validation of a new gamma ray soil bulk density sensor** (2024)
    10 citations · Soil Carbon
+
+2. **Validation of a new soil bulk density sensor** (2024)
+   0 citations
 
 ## External Profiles
 

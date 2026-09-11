@@ -1,7 +1,7 @@
 ---
 title: "Touyee Thao"
-description: "Touyee Thao is a Mid-career Soil Carbon researcher at San Joaquin Valley Agricultural Sciences Center in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.875735
+description: "Touyee Thao is a Mid-career Soil Carbon researcher at San Joaquin Valley Agricultural Sciences Center in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.810909
 url: "/cdr-researcher-census/researchers/touyee-thao-a5001384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 236 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 253 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,9 +54,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 2. **Influence of woodchip size and nitrogen fertilization on carbon dioxide and nitrous oxide emissions from soils amended with orchard biomass** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Four years after whole orchard recycling: Effects on soil ecosystem services in a young almond orchard** (2026)
+   1 citations
+
+4. **Whole orchard recycling in California's Central Valley: Benefits, management, and adoption** (2026)
    0 citations
 
 ## External Profiles

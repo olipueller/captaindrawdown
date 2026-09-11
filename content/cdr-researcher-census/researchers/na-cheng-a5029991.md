@@ -1,7 +1,7 @@
 ---
 title: "Na Cheng"
 description: "Na Cheng is an Early-career Soil Carbon researcher at China Jiliang University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.371673
+date: 2026-09-11T02:38:30.320845
 url: "/cdr-researcher-census/researchers/na-cheng-a5029991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 109 |
+| Citations | 114 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

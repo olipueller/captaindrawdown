@@ -1,7 +1,7 @@
 ---
 title: "Therese Nehler"
-description: "Therese Nehler is a Mid-career BECCS researcher at Linköping University in SE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.549073
+description: "Therese Nehler is a Mid-career BECCS researcher at Linköping University in SE. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.499536
 url: "/cdr-researcher-census/researchers/therese-nehler-a5025933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 457 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 468 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

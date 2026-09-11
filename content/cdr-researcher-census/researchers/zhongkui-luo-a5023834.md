@@ -1,7 +1,7 @@
 ---
 title: "Zhongkui Luo"
-description: "Zhongkui Luo is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 153 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.090629
+description: "Zhongkui Luo is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 152 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.040433
 url: "/cdr-researcher-census/researchers/zhongkui-luo-a5023834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 41 |
-| Citations | 5,839 |
-| Publications | 153 |
-| CDR Focus | 10.5% |
+| h-index | 44 |
+| Citations | 6,103 |
+| Publications | 152 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in the subsoil and the time required to stabilize carbon for climate change mitigation** (2024)
-   66 citations · General CDR
+   71 citations · General CDR
 
 2. **Nutrient limitation of soil organic carbon stocks under straw return** (2024)
-   59 citations
+   62 citations
 
 3. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 4. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
-   47 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 5. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 6. **Efficiency of additional organic inputs for carbon sequestration in agricultural soils modulated by the priming effect and physical accessibility** (2021)
    18 citations · Soil Carbon
@@ -71,13 +71,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Deep learning of the particulate and mineral-associated organic carbon fractions using a compositional transform and mid-infrared spectroscopy** (2025)
    13 citations · General CDR
 
-8. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
+8. **Effects of long-term fertiliser application on cropland soil carbon dynamics mediated by potential shifts in microbial carbon use efficiency** (2024)
    11 citations · Soil Carbon
 
-9. **Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability** (2025)
-   10 citations · Soil Carbon
+9. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
+   11 citations · Soil Carbon
 
-10. **Effects of long-term fertiliser application on cropland soil carbon dynamics mediated by potential shifts in microbial carbon use efficiency** (2024)
+10. **Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability** (2025)
    10 citations · Soil Carbon
 
 ## External Profiles

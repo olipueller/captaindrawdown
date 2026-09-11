@@ -1,7 +1,7 @@
 ---
 title: "Darìja Bilandžija"
-description: "Darìja Bilandžija is a Mid-career Soil Carbon researcher at University of Zagreb in HR. With 70 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554616
+description: "Darìja Bilandžija is a Mid-career Soil Carbon researcher at University of Zagreb in HR. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.505110
 url: "/cdr-researcher-census/researchers/darija-bilandzija-a5015159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 451 |
-| Publications | 70 |
-| CDR Focus | 7.1% |
+| Citations | 463 |
+| Publications | 71 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · General CDR
 
 2. **Carbon Balance of Miscanthus Biomass from Rhizomes and Seedlings** (2022)
-   10 citations · BECCS
+   11 citations · BECCS
 
 3. **Comparing the Grain Yields and Other Properties of Old and New Wheat Cultivars** (2023)
    3 citations · General CDR

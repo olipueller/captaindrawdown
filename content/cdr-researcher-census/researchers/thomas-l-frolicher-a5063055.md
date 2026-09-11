@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
-description: "Thomas L. Frölicher is an Eminent General CDR researcher at University of Bern in CH. With 283 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.068324
+description: "Thomas L. Frölicher is an Eminent General CDR researcher at University of Bern in CH. With 288 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.021061
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 66 |
-| Citations | 16,751 |
-| Publications | 283 |
-| CDR Focus | 5.3% |
+| Citations | 17,088 |
+| Publications | 288 |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
    64 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
-4. **Overconfidence in climate overshoot** (2023)
+4. **Ten new insights in climate science 2025** (2026)
+   7 citations · General CDR
+
+5. **Overconfidence in climate overshoot** (2023)
    7 citations
-
-5. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
 
 6. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
    2 citations · General CDR

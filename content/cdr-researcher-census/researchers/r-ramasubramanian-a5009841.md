@@ -1,7 +1,7 @@
 ---
 title: "R. Ramasubramanian"
 description: "R. Ramasubramanian is a Senior Soil Carbon researcher at M S Swaminathan Research Foundation in IN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.779176
+date: 2026-09-11T02:38:29.730573
 url: "/cdr-researcher-census/researchers/r-ramasubramanian-a5009841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 283 |
+| Citations | 293 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Shengchang Yang"
-description: "Shengchang Yang is a Senior Soil Carbon researcher at Xiamen University in CN. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.408618
+description: "Shengchang Yang is a Senior Soil Carbon researcher at Xiamen University in CN. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.347126
 url: "/cdr-researcher-census/researchers/shengchang-yang-a5107809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 670 |
-| Publications | 48 |
-| CDR Focus | 10.4% |
+| h-index | 15 |
+| Citations | 713 |
+| Publications | 49 |
+| CDR Focus | 10.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Source and stability of soil organic carbon jointly regulate soil carbon pool, but source alteration is more effective in mangrove ecosystem following Spartina alterniflora invasion** (2023)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Effects of different restored vegetation on soil organic carbon pools in subtropic erosive lands: Insights from stable carbon isotopes** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Warming and flooding have different effects on organic carbon stability in mangrove soils** (2023)
    12 citations · Soil Carbon
 
 5. **A machine learning framework for modeling and upscaling mangrove carbon productivity (ML-MCP)** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

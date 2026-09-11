@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Hessner Lindhardt"
 description: "Jonathan Hessner Lindhardt is an Early-career Biochar researcher at University of Copenhagen in DK. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.716287
+date: 2026-09-11T02:38:29.663522
 url: "/cdr-researcher-census/researchers/jonathan-hessner-lindhardt-a5025473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 318 |
+| Citations | 331 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Bryson Callie Clifford"
 description: "Bryson Callie Clifford is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.313269
+date: 2026-09-11T02:38:29.255996
 url: "/cdr-researcher-census/researchers/bryson-callie-clifford-a5016503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 940 |
+| Citations | 988 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **3775-year-old wood burial supports “wood vaulting” as a durable carbon removal method** (2024)
-   26 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Weiqiang Dou"
 description: "Weiqiang Dou is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.285319
+date: 2026-09-11T02:38:30.221114
 url: "/cdr-researcher-census/researchers/weiqiang-dou-a5001111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 125 |
+| Citations | 133 |
 | Publications | 12 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |

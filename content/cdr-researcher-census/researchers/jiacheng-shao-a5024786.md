@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Shao"
-description: "Jiacheng Shao is a Mid-career General CDR researcher at Zhejiang University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.857098
+description: "Jiacheng Shao is a Mid-career General CDR researcher at First Affiliated Hospital Zhejiang University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.787447
 url: "/cdr-researcher-census/researchers/jiacheng-shao-a5024786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiacheng-shao-a5024786/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "First Affiliated Hospital Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5024786578"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiacheng Shao**  
-Zhejiang University · 🇨🇳 CN
+First Affiliated Hospital Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 243 |
+| Citations | 265 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring the complex trade-offs and synergies of global ecosystem services** (2024)
-   93 citations · General CDR
+   99 citations · General CDR
 
 ## External Profiles
 

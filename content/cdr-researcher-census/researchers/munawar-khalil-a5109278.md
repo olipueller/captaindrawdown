@@ -1,7 +1,7 @@
 ---
 title: "Munawar Khalil"
 description: "Munawar Khalil is a Mid-career General CDR researcher at University of Indonesia in ID. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.140796
+date: 2026-09-11T02:38:30.083722
 url: "/cdr-researcher-census/researchers/munawar-khalil-a5109278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 156 |
+| Citations | 165 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

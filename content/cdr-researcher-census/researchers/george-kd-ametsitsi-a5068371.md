@@ -1,7 +1,7 @@
 ---
 title: "George K.D. Ametsitsi"
-description: "George K.D. Ametsitsi is a Mid-career Soil Carbon researcher at The Forestry Commission of Ghana in GH. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.913654
+description: "George K.D. Ametsitsi is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.859758
 url: "/cdr-researcher-census/researchers/george-kd-ametsitsi-a5068371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "George K.D. Ametsitsi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/george-kd-ametsitsi-a5068371/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "The Forestry Commission of Ghana"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-5289-6684",
     "https://openalex.org/A5068371063"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**George K.D. Ametsitsi**  
-The Forestry Commission of Ghana ·  GH
+**George K.D. Ametsitsi**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 221 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 232 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Fenghua Tang"
-description: "Fenghua Tang is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.142747
+description: "Fenghua Tang is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.045329
 url: "/cdr-researcher-census/researchers/fenghua-tang-a5074313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 156 |
+| h-index | 7 |
+| Citations | 176 |
 | Publications | 15 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mixing of pine and arbuscular mycorrhizal tree species changed soil organic carbon storage by affecting soil microbial characteristics** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Soil phosphorus compared to nitrogen limitation increases the uncertainty of subsoil organic carbon sequestration in Pinus massoniana mixed forests** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

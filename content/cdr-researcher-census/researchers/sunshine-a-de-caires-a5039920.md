@@ -1,7 +1,7 @@
 ---
 title: "Sunshine A. De Caires"
 description: "Sunshine A. De Caires is a Mid-career Soil Carbon researcher at University of the West Indies in TT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.209031
+date: 2026-09-11T02:38:30.101525
 url: "/cdr-researcher-census/researchers/sunshine-a-de-caires-a5039920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 140 |
+| Citations | 160 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

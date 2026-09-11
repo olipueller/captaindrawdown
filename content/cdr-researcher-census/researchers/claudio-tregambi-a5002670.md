@@ -1,7 +1,7 @@
 ---
 title: "Claudio Tregambi"
 description: "Claudio Tregambi is a Mid-career General CDR researcher at University of Sannio in IT. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.264586
+date: 2026-09-11T02:38:29.212798
 url: "/cdr-researcher-census/researchers/claudio-tregambi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,172 |
+| Citations | 1,209 |
 | Publications | 71 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Techno-economic assessment of a synthetic methane production process by hydrogenation of carbon dioxide from direct air capture** (2023)
-   50 citations · DAC
+   53 citations · DAC
 
 2. **Modelling of an integrated process for atmospheric carbon dioxide capture and methanation** (2022)
    30 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ser-Oddamba Byambadorj"
-description: "Ser-Oddamba Byambadorj is a Mid-career Soil Carbon researcher. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.015912
+description: "Ser-Oddamba Byambadorj is a Mid-career Soil Carbon researcher at National University of Mongolia in MN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.969548
 url: "/cdr-researcher-census/researchers/ser-oddamba-byambadorj-a5085272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ser-Oddamba Byambadorj",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ser-oddamba-byambadorj-a5085272/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National University of Mongolia"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0271-730X",
     "https://openalex.org/A5085272582"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Ser-Oddamba Byambadorj**
+**Ser-Oddamba Byambadorj**  
+National University of Mongolia ·  MN
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 192 |
+| Citations | 199 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

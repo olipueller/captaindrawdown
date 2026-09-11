@@ -1,7 +1,7 @@
 ---
 title: "Haoqian Li"
-description: "Haoqian Li is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.249612
+description: "Haoqian Li is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.076831
 url: "/cdr-researcher-census/researchers/haoqian-li-a5067808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 131 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| h-index | 7 |
+| Citations | 167 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potassium and phosphorous co-doped g-C3N4/shrimp shell biochar composite attached onto polylactic acid degradable mulching film for photocatalytic removal of atrazine in water and soil** (2025)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Polylactic acid degradable mulching film modified by N-TiO2/g-C3N4 photocatalyst for removal of carbendazim in water and soil under visible light** (2025)
-   4 citations
+   5 citations
 
 3. **Potassium and Phosphorous Co-Doped G-C3n4/Shrimp Shell Biochar Composite Attached Onto Polylactic Acid Degradable Mulching Film for Photocatalytic Removal of Atrazine in Water and Soil** (2025)
    0 citations · Biochar

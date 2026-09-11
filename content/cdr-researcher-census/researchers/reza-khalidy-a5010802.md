@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
-description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher at University of Guelph in CA. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.786809
+description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.733540
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Reza Khalidy",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/reza-khalidy-a5010802/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Guelph"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-6769-9691",
     "https://openalex.org/A5010802809"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Reza Khalidy**  
-University of Guelph · 🇨🇦 CA
+**Reza Khalidy**
 
 **Career Stage:** Mid-career
 
@@ -43,27 +38,27 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 279 |
-| Publications | 23 |
-| CDR Focus | 60.9% |
+| Citations | 291 |
+| Publications | 24 |
+| CDR Focus | 58.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Natural and Human-Induced Factors on the Accumulation and Migration of Pedogenic Carbonate in Soil: A Review** (2022)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **The fate of atmospheric carbon sequestrated through weathering in mine tailings** (2021)
-   33 citations
+   35 citations
 
 3. **Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering** (2023)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 4. **Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes** (2023)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 5. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 6. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering

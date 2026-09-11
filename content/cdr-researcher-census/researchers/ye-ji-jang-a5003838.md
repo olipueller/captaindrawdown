@@ -1,7 +1,7 @@
 ---
 title: "Ye-Ji Jang"
-description: "Ye-Ji Jang is a Mid-career General CDR researcher at Ildong (South Korea) in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248421
+description: "Ye-Ji Jang is a Mid-career General CDR researcher at Ildong (South Korea) in KR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.192665
 url: "/cdr-researcher-census/researchers/ye-ji-jang-a5003838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 132 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 139 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Advances in the characterization of in vitro–generated red blood cells: from biophysical properties to functional applications** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

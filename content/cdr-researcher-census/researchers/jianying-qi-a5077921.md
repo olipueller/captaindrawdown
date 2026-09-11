@@ -1,7 +1,7 @@
 ---
 title: "Jianying Qi"
-description: "Jianying Qi is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 99 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146058
+description: "Jianying Qi is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 106 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.096303
 url: "/cdr-researcher-census/researchers/jianying-qi-a5077921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 2,584 |
-| Publications | 99 |
-| CDR Focus | 7.1% |
+| h-index | 32 |
+| Citations | 2,652 |
+| Publications | 106 |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A 40 % paddy surface soil organic carbon increase after 5-year no-tillage is linked with shifts in soil bacterial composition and functions** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Effects of contrasting tillage managements on the vertical distribution of plant- and microbial-derived carbon in rice paddy** (2023)
    30 citations · Soil Carbon
 
 3. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
-4. **Effects of Deep Application of Fertilizer on Soil Carbon and Nitrogen Functions in Rice Paddies** (2025)
-   6 citations · Soil Carbon
+4. **Soil Carbon Sequestration: Role of Fe Oxides and Polyphenol Oxidase Across Temperature and Cultivation Systems** (2025)
+   8 citations · Soil Carbon
 
-5. **Soil Carbon Sequestration: Role of Fe Oxides and Polyphenol Oxidase Across Temperature and Cultivation Systems** (2025)
-   6 citations · Soil Carbon
+5. **Effects of Deep Application of Fertilizer on Soil Carbon and Nitrogen Functions in Rice Paddies** (2025)
+   7 citations · Soil Carbon
 
 6. **Effects of Substituting Synthetic Fertilizer with Organic Materials on Soil Organic Carbon Sequestration and Aggregate Size Distribution in Red Soil in South China** (2023)
    5 citations · Soil Carbon

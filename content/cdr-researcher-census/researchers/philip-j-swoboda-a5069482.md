@@ -1,7 +1,7 @@
 ---
 title: "Philip J. Swoboda"
 description: "Philip J. Swoboda is a Senior Enhanced Weathering researcher at Serviceplan (Germany) in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.842704
+date: 2026-09-11T02:38:29.817388
 url: "/cdr-researcher-census/researchers/philip-j-swoboda-a5069482/"
 layout: "researcher"
 hiddenInHomeList: true

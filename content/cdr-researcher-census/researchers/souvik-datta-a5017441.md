@@ -1,7 +1,7 @@
 ---
 title: "Souvik Datta"
 description: "Souvik Datta is a Senior BECCS researcher at Fachhochschule Nordwestschweiz in CH. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.515777
+date: 2026-09-11T02:38:29.465745
 url: "/cdr-researcher-census/researchers/souvik-datta-a5017441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 493 |
+| Citations | 506 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Thermodynamic limitations to direct CO2 utilisation within a small-scale integrated biomass power cycle** (2022)
-   16 citations · BECCS
+   18 citations · BECCS
 
 2. **Enhancement of gasification in oxyfuel BECCS cycles employing a direct recycling CO2 utilisation process** (2022)
    9 citations · BECCS
 
 3. **Mild-temperature gasification of biomass as a carbon-neutral CO2 utilisation process** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

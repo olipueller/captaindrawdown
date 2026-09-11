@@ -1,7 +1,7 @@
 ---
 title: "Urs Hofmann Elizondo"
-description: "Urs Hofmann Elizondo is a Mid-career Ocean CDR researcher at University of Bern in CH. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.730595
+description: "Urs Hofmann Elizondo is a Mid-career Ocean CDR researcher at University of Bern in CH. With 31 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.680788
 url: "/cdr-researcher-census/researchers/urs-hofmann-elizondo-a5090356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 309 |
-| Publications | 30 |
-| CDR Focus | 10.0% |
+| Citations | 319 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Wenqian Han"
-description: "Wenqian Han is a Senior Soil Carbon researcher at Collaborative Innovation Center of Chemistry for Energy Materials in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.450958
+description: "Wenqian Han is a Senior Soil Carbon researcher at Qingdao University in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.404875
 url: "/cdr-researcher-census/researchers/wenqian-han-a5046437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenqian-han-a5046437/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Collaborative Innovation Center of Chemistry for Energy Materials"
+    "name": "Qingdao University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7716-0051",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenqian Han**  
-Collaborative Innovation Center of Chemistry for Energy Materials · 🇨🇳 CN
+Qingdao University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 591 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 600 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

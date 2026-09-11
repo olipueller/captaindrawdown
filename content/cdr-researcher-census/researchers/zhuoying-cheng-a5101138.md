@@ -1,7 +1,7 @@
 ---
 title: "Zhuoying Cheng"
 description: "Zhuoying Cheng is a Mid-career Biochar researcher at Northeast Forestry University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.653883
+date: 2026-09-11T02:38:29.605545
 url: "/cdr-researcher-census/researchers/zhuoying-cheng-a5101138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 363 |
+| Citations | 373 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar loaded on MnFe2O4 as Fenton catalyst for Rhodamine B removal: Characterizations, catalytic performance, process optimization and mechanism** (2021)
-   51 citations · Biochar
+   53 citations · Biochar
 
 ## External Profiles
 

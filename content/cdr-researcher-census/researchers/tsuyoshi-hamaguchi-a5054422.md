@@ -1,7 +1,7 @@
 ---
 title: "Tsuyoshi Hamaguchi"
-description: "Tsuyoshi Hamaguchi is a Senior DAC researcher at 豊田中央研究所 in JP. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423864
+description: "Tsuyoshi Hamaguchi is a Senior DAC researcher at 豊田中央研究所 in JP. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.377479
 url: "/cdr-researcher-census/researchers/tsuyoshi-hamaguchi-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 637 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 646 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Chengyu Niu"
-description: "Chengyu Niu is a Senior Biochar researcher at Northwest University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.861387
+description: "Chengyu Niu is a Senior Biochar researcher at Northwest University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.810341
 url: "/cdr-researcher-census/researchers/chengyu-niu-a5103365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 241 |
+| h-index | 9 |
+| Citations | 253 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

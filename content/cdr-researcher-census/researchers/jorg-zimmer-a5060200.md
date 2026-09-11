@@ -1,7 +1,7 @@
 ---
 title: "Jörg Zimmer"
-description: "Jörg Zimmer is a Senior Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.080147
+description: "Jörg Zimmer is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.031513
 url: "/cdr-researcher-census/researchers/jorg-zimmer-a5060200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,7 +22,7 @@ robots: "index, follow"
 
 **Jörg Zimmer**
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 173 |
+| Citations | 180 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   73 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 ## External Profiles
 

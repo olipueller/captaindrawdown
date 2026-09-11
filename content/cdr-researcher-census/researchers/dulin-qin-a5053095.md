@@ -1,7 +1,7 @@
 ---
 title: "Dulin Qin"
 description: "Dulin Qin is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.258146
+date: 2026-09-11T02:38:30.178217
 url: "/cdr-researcher-census/researchers/dulin-qin-a5053095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
+| Citations | 142 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term cotton stubble return and subsoiling improve soil organic carbon by changing the stability and organic carbon of soil aggregates in coastal saline fields** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

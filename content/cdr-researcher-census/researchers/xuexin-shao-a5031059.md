@@ -1,7 +1,7 @@
 ---
 title: "Xuexin Shao"
-description: "Xuexin Shao is a Senior Soil Carbon researcher at Institute of Wetland Research in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.648116
+description: "Xuexin Shao is a Senior Soil Carbon researcher at Zhejiang Lab in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.597681
 url: "/cdr-researcher-census/researchers/xuexin-shao-a5031059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuexin-shao-a5031059/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Wetland Research"
+    "name": "Zhejiang Lab"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3214-6085",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuexin Shao**  
-Institute of Wetland Research · 🇨🇳 CN
+Zhejiang Lab · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 367 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| h-index | 12 |
+| Citations | 379 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

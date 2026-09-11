@@ -1,7 +1,7 @@
 ---
 title: "Matthias Poralla"
-description: "Matthias Poralla is an Early-career General CDR researcher at Climate Analytics in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.994002
+description: "Matthias Poralla is an Early-career General CDR researcher at Climate Analytics in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.943912
 url: "/cdr-researcher-census/researchers/matthias-poralla-a5077202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 198 |
-| Publications | 9 |
-| CDR Focus | 66.7% |
+| Citations | 207 |
+| Publications | 11 |
+| CDR Focus | 54.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Who Is Paying for Carbon Dioxide Removal? Designing Policy Instruments for Mobilizing Negative Emissions Technologies** (2021)
-   90 citations · General CDR
+   92 citations · General CDR
 
 2. **International carbon markets for carbon dioxide removal** (2023)
-   51 citations · General CDR
+   52 citations · General CDR
 
 3. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   44 citations · General CDR
+   45 citations · General CDR
 
 4. **Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing** (2021)
    5 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 6. **Effective and fair policy to mobilize industrial carbon dioxide removal** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

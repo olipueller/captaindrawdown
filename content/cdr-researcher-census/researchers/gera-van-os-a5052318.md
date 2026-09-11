@@ -1,7 +1,7 @@
 ---
 title: "Gera van Os"
 description: "Gera van Os is a Mid-career Soil Carbon researcher at Avans University of Applied Sciences in NL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.061631
+date: 2026-09-11T02:38:30.010058
 url: "/cdr-researcher-census/researchers/gera-van-os-a5052318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 179 |
+| Citations | 187 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Validation of a new gamma ray soil bulk density sensor** (2024)
    10 citations · Soil Carbon
+
+2. **Validation of a new soil bulk density sensor** (2024)
+   0 citations
 
 ## External Profiles
 

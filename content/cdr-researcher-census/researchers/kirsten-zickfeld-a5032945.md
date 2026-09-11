@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
-description: "Kirsten Zickfeld is an Eminent General CDR researcher at Simon Fraser University in CA. With 195 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.076364
+description: "Kirsten Zickfeld is an Eminent General CDR researcher at Simon Fraser University in CA. With 201 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.028553
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 47 |
-| Citations | 8,763 |
-| Publications | 195 |
-| CDR Focus | 7.2% |
-| Trajectory | Growing |
+| Citations | 8,903 |
+| Publications | 201 |
+| CDR Focus | 7.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Atmospheric methane removal: a research agenda** (2021)
-   125 citations · General CDR
+   128 citations · General CDR
 
 2. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
-   89 citations · General CDR
+   92 citations · General CDR
 
 3. **Geological Net Zero and the need for disaggregated accounting for carbon sinks** (2024)
-   83 citations · General CDR
+   87 citations · General CDR
 
 4. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 5. **Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario** (2021)
    15 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Wenfei Huang"
 description: "Wenfei Huang is a Mid-career Biochar researcher at Sichuan University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.696761
+date: 2026-09-11T02:38:29.650245
 url: "/cdr-researcher-census/researchers/wenfei-huang-a5044013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 333 |
+| Citations | 341 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

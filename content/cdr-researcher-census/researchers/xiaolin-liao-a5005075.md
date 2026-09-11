@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Liao"
-description: "Xiaolin Liao is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258912
+description: "Xiaolin Liao is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.205135
 url: "/cdr-researcher-census/researchers/xiaolin-liao-a5005075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,205 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| h-index | 21 |
+| Citations | 1,247 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The impact of biochar on the activities of soil nutrients acquisition enzymes is potentially controlled by the pyrolysis temperature: A meta-analysis** (2022)
-   99 citations · Biochar
+   106 citations · Biochar
 
 2. **Long-term afforestation accelerated soil organic carbon accumulation but decreased its mineralization loss and temperature sensitivity in the bulk soils and aggregates** (2021)
    29 citations · Soil Carbon

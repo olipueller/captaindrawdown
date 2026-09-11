@@ -1,7 +1,7 @@
 ---
 title: "Ariel E. Turcios"
 description: "Ariel E. Turcios is a Mid-career Biochar researcher at Federal Institute for Risk Assessment in DE. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.341045
+date: 2026-09-11T02:38:29.288607
 url: "/cdr-researcher-census/researchers/ariel-e-turcios-a5035356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 844 |
+| Citations | 872 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Physico-chemical characterization of walnut shell biochar from uncontrolled pyrolysis in a garden oven and surface modification by ex-situ chemical magnetization** (2023)
-   34 citations · Biochar
+   36 citations · Biochar
 
 2. **Biochar synthesis from mineral and ash-rich waste biomass, part 2: characterization of biochar and co-pyrolysis mechanism for carbon sequestration** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

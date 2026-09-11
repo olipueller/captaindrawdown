@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
-description: "Jun Meng is a Mid-career Biochar researcher at Ningbo Product Quality Supervision and Inspection Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.798547
+description: "Jun Meng is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.677808
 url: "/cdr-researcher-census/researchers/jun-meng-a5089856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jun-meng-a5089856/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ningbo Product Quality Supervision and Inspection Institute"
+    "name": "Ministry of Agriculture"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9299-4692",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jun Meng**  
-Ningbo Product Quality Supervision and Inspection Institute · 🇨🇳 CN
+Ministry of Agriculture ·  EE
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 273 |
+| Citations | 321 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficacy of nitrate and biochar@birnessite composite microspheres for simultaneous suppression of As(III) mobilization and greenhouse gas emissions in flooded paddy soils** (2025)
-   56 citations · Biochar
+   57 citations · Biochar
 
 2. **Effect of acid-modified biochar coupled with alternate wetting and drying on P leaching, soil P retention and plant P uptake in paddy fields** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 3. **Differential effects of biochar and straw incorporation on soil organic carbon: A case study on paddy cultivation in Northeast China** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 4. **Impact of oxidative aging on iron-modified biochar for Cr(VI) removal: mechanistic investigation into adsorption-reduction synergy and stability** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

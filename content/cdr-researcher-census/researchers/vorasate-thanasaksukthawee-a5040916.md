@@ -1,7 +1,7 @@
 ---
 title: "Vorasate Thanasaksukthawee"
 description: "Vorasate Thanasaksukthawee is a Mid-career BECCS researcher at Chiang Mai University in TH. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.281661
+date: 2026-09-11T02:38:30.222915
 url: "/cdr-researcher-census/researchers/vorasate-thanasaksukthawee-a5040916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
+| Citations | 132 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

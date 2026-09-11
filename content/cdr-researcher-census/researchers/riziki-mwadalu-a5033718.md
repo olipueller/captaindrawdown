@@ -1,7 +1,7 @@
 ---
 title: "Riziki Mwadalu"
-description: "Riziki Mwadalu is a Mid-career Soil Carbon researcher at Kenya Forestry Research Institute in KE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.002321
+description: "Riziki Mwadalu is a Mid-career Soil Carbon researcher at Kenya Forestry Research Institute in KE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.918053
 url: "/cdr-researcher-census/researchers/riziki-mwadalu-a5033718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 196 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 210 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

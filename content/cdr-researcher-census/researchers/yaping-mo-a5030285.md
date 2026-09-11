@@ -1,7 +1,7 @@
 ---
 title: "Yaping Mo"
-description: "Yaping Mo is a Mid-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.763182
+description: "Yaping Mo is a Mid-career Soil Carbon researcher at University of Portsmouth in GB. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.721221
 url: "/cdr-researcher-census/researchers/yaping-mo-a5030285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yaping-mo-a5030285/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing University of Information Science and Technology"
+    "name": "University of Portsmouth"
   },
   "sameAs": "https://openalex.org/A5030285731"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yaping Mo**  
-Nanjing University of Information Science and Technology · 🇨🇳 CN
+University of Portsmouth · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 292 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 10 |
+| Citations | 298 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spatial and temporal variations of net ecosystem productivity in Xinjiang Autonomous Region, China based on remote sensing** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

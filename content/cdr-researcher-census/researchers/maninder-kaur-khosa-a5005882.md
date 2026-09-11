@@ -1,7 +1,7 @@
 ---
 title: "Maninder Kaur Khosa"
 description: "Maninder Kaur Khosa is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.933668
+date: 2026-09-11T02:38:29.901043
 url: "/cdr-researcher-census/researchers/maninder-kaur-khosa-a5005882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 213 |
+| Citations | 217 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term continuous no-till corn-soybean systems: Examining soil carbon sequestration and nitrogen accumulation across various pools** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

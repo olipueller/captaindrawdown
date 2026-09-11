@@ -1,7 +1,7 @@
 ---
 title: "Laicong Luo"
-description: "Laicong Luo is a Mid-career BECCS researcher at Jiangxi Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.057567
+description: "Laicong Luo is a Mid-career BECCS researcher at Experimental Center of Subtropical Forestry in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.006502
 url: "/cdr-researcher-census/researchers/laicong-luo-a5011054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/laicong-luo-a5011054/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangxi Agricultural University"
+    "name": "Experimental Center of Subtropical Forestry"
   },
   "sameAs": "https://openalex.org/A5011054702"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Laicong Luo**  
-Jiangxi Agricultural University · 🇨🇳 CN
+Experimental Center of Subtropical Forestry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 188 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

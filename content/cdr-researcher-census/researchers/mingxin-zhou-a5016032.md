@@ -1,7 +1,7 @@
 ---
 title: "Mingxin Zhou"
-description: "Mingxin Zhou is a Mid-career Soil Carbon researcher at Heilongjiang Institute of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.102658
+description: "Mingxin Zhou is a Mid-career Soil Carbon researcher at Harbin University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.049709
 url: "/cdr-researcher-census/researchers/mingxin-zhou-a5016032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mingxin-zhou-a5016032/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Heilongjiang Institute of Technology"
+    "name": "Harbin University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9748-1036",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mingxin Zhou**  
-Heilongjiang Institute of Technology · 🇨🇳 CN
+Harbin University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 167 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 175 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

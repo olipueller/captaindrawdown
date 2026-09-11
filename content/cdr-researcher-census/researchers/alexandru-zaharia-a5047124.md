@@ -1,7 +1,7 @@
 ---
 title: "Alexandru Zaharia"
-description: "Alexandru Zaharia is a Senior Soil Carbon researcher at Delft University of Technology in NL. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.580189
+description: "Alexandru Zaharia is a Senior Soil Carbon researcher at Delft University of Technology in NL. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.531722
 url: "/cdr-researcher-census/researchers/alexandru-zaharia-a5047124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 428 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 437 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Dynamics in Peri-Urban Forests: Comparing Secondary Succession and Mature Stands under Varied Forest Management Practices** (2024)
-   7 citations · General CDR
+   10 citations · General CDR
 
 2. **Dynamics of Forest Floor, Soil Organic Matter, and Carbon Stock Estimation in Temperate Forests of Romania** (2025)
    0 citations · Soil Carbon

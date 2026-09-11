@@ -1,7 +1,7 @@
 ---
 title: "Abhay Kumar"
-description: "Abhay Kumar is a Senior Soil Carbon researcher at Birsa Agricultural University in IN. With 117 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.430017
+description: "Abhay Kumar is a Senior Soil Carbon researcher at Birsa Agricultural University in IN. With 115 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.386411
 url: "/cdr-researcher-census/researchers/abhay-kumar-a5100676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 626 |
-| Publications | 117 |
-| CDR Focus | 5.1% |
+| Citations | 631 |
+| Publications | 115 |
+| CDR Focus | 5.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · General CDR
 
 3. **Do poplar plantations enhance organic carbon stocks in arable soils? A comprehensive study from Northern Italy** (2024)
-   7 citations
+   8 citations
 
 4. **Agronomic practices for storing soil carbon and reducing greenhouse gas emission in the Mediterranean region** (2024)
    2 citations · Soil Carbon

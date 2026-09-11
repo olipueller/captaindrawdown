@@ -1,7 +1,7 @@
 ---
 title: "Caiyi Du"
 description: "Caiyi Du is a Mid-career DAC researcher at Jilin University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.140911
+date: 2026-09-11T02:38:30.056231
 url: "/cdr-researcher-census/researchers/caiyi-du-a5112682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 156 |
+| Citations | 173 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

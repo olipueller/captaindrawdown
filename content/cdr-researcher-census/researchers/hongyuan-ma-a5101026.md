@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Ma"
 description: "Hongyuan Ma is a Mid-career Soil Carbon researcher at Yalong Hydro (China) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177297
+date: 2026-09-11T02:38:29.126917
 url: "/cdr-researcher-census/researchers/hongyuan-ma-a5101026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,970 |
+| Citations | 2,012 |
 | Publications | 19 |
 | CDR Focus | 15.8% |
 | Trajectory | Growing |

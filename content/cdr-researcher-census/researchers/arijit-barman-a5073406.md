@@ -1,7 +1,7 @@
 ---
 title: "Arijit Barman"
 description: "Arijit Barman is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.507261
+date: 2026-09-11T02:38:29.452647
 url: "/cdr-researcher-census/researchers/arijit-barman-a5073406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 504 |
+| Citations | 528 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

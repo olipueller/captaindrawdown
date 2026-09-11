@@ -1,7 +1,7 @@
 ---
 title: "Yechen Yang"
 description: "Yechen Yang is an Early-career BECCS researcher at Rutgers, The State University of New Jersey in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.292309
+date: 2026-09-11T02:38:30.255342
 url: "/cdr-researcher-census/researchers/yechen-yang-a5030820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 123 |
+| Citations | 126 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

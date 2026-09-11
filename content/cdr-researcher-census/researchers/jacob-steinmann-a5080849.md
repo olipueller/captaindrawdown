@@ -1,7 +1,7 @@
 ---
 title: "Jacob Steinmann"
 description: "Jacob Steinmann is a Mid-career General CDR researcher at Ramboll (United Kingdom) in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286667
+date: 2026-09-11T02:38:30.250249
 url: "/cdr-researcher-census/researchers/jacob-steinmann-a5080849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
+| Citations | 127 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Whole-life greenhouse gas emission reduction and removal strategies for buildings: Impacts and diffusion potentials across EU Member States** (2024)
-   41 citations · General CDR
+   43 citations · General CDR
 
 ## External Profiles
 

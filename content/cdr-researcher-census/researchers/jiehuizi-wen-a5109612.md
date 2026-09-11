@@ -1,7 +1,7 @@
 ---
 title: "Jiehuizi Wen"
 description: "Jiehuizi Wen is an Early-career Biochar researcher at Sichuan University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417008
+date: 2026-09-11T02:38:30.374198
 url: "/cdr-researcher-census/researchers/jiehuizi-wen-a5109612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 101 |
+| Citations | 104 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |

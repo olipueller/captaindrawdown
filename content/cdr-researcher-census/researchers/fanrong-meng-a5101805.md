@@ -1,7 +1,7 @@
 ---
 title: "Fanrong Meng"
-description: "Fanrong Meng is a Mid-career Biochar researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343857
+description: "Fanrong Meng is a Mid-career Biochar researcher at Wageningen University & Research in NL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.293765
 url: "/cdr-researcher-census/researchers/fanrong-meng-a5101805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 834 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 858 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhenqing Zhang"
-description: "Zhenqing Zhang is a Senior Soil Carbon researcher at UK Coal in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.176687
+description: "Zhenqing Zhang is a Senior Soil Carbon researcher at UK Coal in GB. With 64 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.126393
 url: "/cdr-researcher-census/researchers/zhenqing-zhang-a5101928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,977 |
-| Publications | 59 |
-| CDR Focus | 6.8% |
+| h-index | 22 |
+| Citations | 2,015 |
+| Publications | 64 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 4. **Fire-Enhanced Soil Carbon Sequestration in Wetlands: A 5000-Year Record from the Ussuri River, Northeast China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

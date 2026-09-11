@@ -1,7 +1,7 @@
 ---
 title: "Anna Yudina"
-description: "Anna Yudina is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.294104
+description: "Anna Yudina is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.233641
 url: "/cdr-researcher-census/researchers/anna-yudina-a5086589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,018 |
-| Publications | 57 |
-| CDR Focus | 7.0% |
+| h-index | 15 |
+| Citations | 1,088 |
+| Publications | 56 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Dual nature of soil structure: The unity of aggregates and pores** (2023)
-   252 citations · Soil Carbon
+   265 citations · Soil Carbon
 
 2. **Physical mechanisms of carbon stabilization in soils (a review)** (2025)
    0 citations · Soil Carbon

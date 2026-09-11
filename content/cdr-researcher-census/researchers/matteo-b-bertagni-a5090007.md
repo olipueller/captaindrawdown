@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
-description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.384295
+description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.324334
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 722 |
-| Publications | 72 |
-| CDR Focus | 18.1% |
+| Citations | 771 |
+| Publications | 70 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   80 citations · Enhanced Weathering
+   84 citations · Enhanced Weathering
 
 2. **The Carbon-Capture Efficiency of Natural Water Alkalinization: Implications For Enhanced weathering** (2022)
-   57 citations · Enhanced Weathering
+   58 citations · Enhanced Weathering
 
 3. **Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data** (2024)
-   10 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
-4. **A Dimensionless Framework for the Partitioning of Fluvial Inorganic Carbon** (2024)
+4. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
+   7 citations · Enhanced Weathering
+
+5. **A Dimensionless Framework for the Partitioning of Fluvial Inorganic Carbon** (2024)
    6 citations
 
-5. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
-   4 citations · Enhanced Weathering
-
 6. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   2 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 7. **Soil Structure and Mixing Controls on Water‐Rock Contact: Implications for Enhanced Weathering** (2026)
    1 citations · Enhanced Weathering

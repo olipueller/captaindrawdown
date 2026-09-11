@@ -1,7 +1,7 @@
 ---
 title: "Cristiane Ferraz de Azevedo"
 description: "Cristiane Ferraz de Azevedo is a Mid-career Biochar researcher at Universidade Federal de Pelotas in BR. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602756
+date: 2026-09-11T02:38:29.552080
 url: "/cdr-researcher-census/researchers/cristiane-ferraz-de-azevedo-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 404 |
+| Citations | 417 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |

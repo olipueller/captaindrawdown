@@ -1,7 +1,7 @@
 ---
 title: "Gunturi Alekhya"
-description: "Gunturi Alekhya is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.235830
+description: "Gunturi Alekhya is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.097882
 url: "/cdr-researcher-census/researchers/gunturi-alekhya-a5002780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 134 |
-| Publications | 41 |
-| CDR Focus | 9.8% |
+| Citations | 161 |
+| Publications | 40 |
+| CDR Focus | 10.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
-   2 citations · General CDR
+1. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
+   3 citations · Soil Carbon
 
-2. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   2 citations · Soil Carbon
+2. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
+   2 citations · General CDR
 
 3. **Integrating Pulses into Conservation Agriculture for Sustainable Soil Health and Productivity in the Indo-Gangetic Plains** (2024)
    0 citations · General CDR

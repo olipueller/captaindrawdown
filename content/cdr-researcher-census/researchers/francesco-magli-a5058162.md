@@ -1,7 +1,7 @@
 ---
 title: "Francesco Magli"
 description: "Francesco Magli is a Mid-career General CDR researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.052215
+date: 2026-09-11T02:38:29.998682
 url: "/cdr-researcher-census/researchers/francesco-magli-a5058162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 181 |
+| Citations | 190 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Techno-economic optimization and off-design analysis of CO2 purification units for cement plants with oxyfuel-based CO2 capture** (2022)
-   51 citations · General CDR
+   54 citations · General CDR
 
 ## External Profiles
 

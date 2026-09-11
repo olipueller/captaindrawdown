@@ -1,7 +1,7 @@
 ---
 title: "Yuchen Cheng"
 description: "Yuchen Cheng is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.862472
+date: 2026-09-11T02:38:29.795814
 url: "/cdr-researcher-census/researchers/yuchen-cheng-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 241 |
+| Citations | 261 |
 | Publications | 31 |
 | CDR Focus | 9.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bibliometric analysis of research trends in agricultural soil organic carbon components from 2000 to 2023** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)
    0 citations · Soil Carbon

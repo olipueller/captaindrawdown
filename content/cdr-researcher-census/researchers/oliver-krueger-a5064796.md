@@ -1,7 +1,7 @@
 ---
 title: "Oliver Krueger"
 description: "Oliver Krueger is a Mid-career Biochar researcher at Berliner Hochschule für Technik in DE. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.360432
+date: 2026-09-11T02:38:29.313936
 url: "/cdr-researcher-census/researchers/oliver-krueger-a5064796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 785 |
+| Citations | 795 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparison of Oil-Seed Shell Biomass-Based Biochar for the Removal of Anionic Dyes—Characterization and Adsorption Efficiency Studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon

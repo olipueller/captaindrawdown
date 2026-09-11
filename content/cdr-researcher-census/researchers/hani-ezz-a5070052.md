@@ -1,7 +1,7 @@
 ---
 title: "Hani Ezz"
 description: "Hani Ezz is an Early-career Biochar researcher at Zagazig University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.282189
+date: 2026-09-11T02:38:30.246177
 url: "/cdr-researcher-census/researchers/hani-ezz-a5070052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 125 |
+| Citations | 128 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable management of petrochemical wastewater using algal-bacterial granules followed by biogas and biochar production: A techno-economic perspective** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

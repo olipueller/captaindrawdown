@@ -1,7 +1,7 @@
 ---
 title: "Nanping Lin"
-description: "Nanping Lin is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.110473
+description: "Nanping Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.029761
 url: "/cdr-researcher-census/researchers/nanping-lin-a5060167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Nanping Lin**  
 Chinese Academy of Sciences · 🇨🇳 CN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 164 |
+| h-index | 5 |
+| Citations | 180 |
 | Publications | 7 |
 | CDR Focus | 42.9% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Black biodegradable mulching increases grain yield and net return while decreasing carbon footprint in rain-fed conditions of the Loess Plateau** (2024)
-   99 citations · Soil Carbon
+   104 citations · Soil Carbon
 
 2. **Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration** (2024)
-   30 citations · Biochar
+   31 citations · Biochar
 
 3. **Plastic film-mulched ridges and straw-mulched furrows increase soil carbon sequestration and net ecosystem economic benefit in a wheat-maize rotation** (2022)
    25 citations · Soil Carbon

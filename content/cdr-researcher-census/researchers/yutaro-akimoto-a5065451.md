@@ -1,7 +1,7 @@
 ---
 title: "Yutaro Akimoto"
-description: "Yutaro Akimoto is a Senior Enhanced Weathering researcher at University of Tsukuba in JP. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.580489
+description: "Yutaro Akimoto is a Senior Enhanced Weathering researcher at University of Tsukuba in JP. With 68 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.533739
 url: "/cdr-researcher-census/researchers/yutaro-akimoto-a5065451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,26 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 427 |
-| Publications | 65 |
-| CDR Focus | 6.2% |
+| Citations | 435 |
+| Publications | 68 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy consumption assessment of silicate rock comminution options for enhanced weathering** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
-2. **Energy Consumption Assessment of Silicate Rock Comminution Options for Enhanced Weathering** (2025)
+2. **Benefit-cost analysis of enhanced rock weathering in Japan using experimentally derived agronomic responses and site-specific supply-chain parameters** (2026)
    0 citations · Enhanced Weathering
 
-3. **Assessment of CO<sub>2</sub> Emissions from Crushed Stone Transport for Site Selection of Enhanced Weathering Systems** (2024)
+3. **Energy Consumption Assessment of Silicate Rock Comminution Options for Enhanced Weathering** (2025)
    0 citations · Enhanced Weathering
 
-4. **Life Cycle Assessment of the Energy Consumption of Olivine Powder Production for Enhanced Weathering using the Mine-to-Mill Approach** (2024)
+4. **Assessment of CO<sub>2</sub> Emissions from Crushed Stone Transport for Site Selection of Enhanced Weathering Systems** (2024)
+   0 citations · Enhanced Weathering
+
+5. **Life Cycle Assessment of the Energy Consumption of Olivine Powder Production for Enhanced Weathering using the Mine-to-Mill Approach** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

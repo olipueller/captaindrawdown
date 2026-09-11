@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Gu"
-description: "Tianyu Gu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.118407
+description: "Tianyu Gu is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.047487
 url: "/cdr-researcher-census/researchers/tianyu-gu-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianyu-gu-a5101194/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China University of Mining and Technology"
+    "name": "Hunan University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5101194183"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianyu Gu**  
-China University of Mining and Technology · 🇨🇳 CN
+Hunan University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 163 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 176 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effect of biochar on soil organic carbon sequestration and cadmium stability: Insights from aging in organic-mineral complexes** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

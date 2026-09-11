@@ -1,7 +1,7 @@
 ---
 title: "Luka Seamus Wright"
-description: "Luka Seamus Wright is a Mid-career Ocean CDR researcher at The University of Western Australia in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510215
+description: "Luka Seamus Wright is a Mid-career Ocean CDR researcher at The University of Western Australia in AU. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.444091
 url: "/cdr-researcher-census/researchers/luka-seamus-wright-a5006758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 500 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 539 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review** (2023)
-   163 citations · General CDR
+   177 citations · General CDR
 
 2. **Temperature sensitivity of detrital photosynthesis** (2023)
    4 citations · General CDR

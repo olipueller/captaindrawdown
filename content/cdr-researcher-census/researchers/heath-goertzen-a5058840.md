@@ -1,7 +1,7 @@
 ---
 title: "Heath Goertzen"
-description: "Heath Goertzen is an Early-career Soil Carbon researcher at University of California, Davis in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.313628
+description: "Heath Goertzen is an Early-career Soil Carbon researcher at Oregon State University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.245104
 url: "/cdr-researcher-census/researchers/heath-goertzen-a5058840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/heath-goertzen-a5058840/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California, Davis"
+    "name": "Oregon State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5549-3154",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Heath Goertzen**  
-University of California, Davis · 🇺🇸 US
+Oregon State University · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 119 |
+| Citations | 128 |
 | Publications | 10 |
 | CDR Focus | 60.0% |
 | Trajectory | Declining |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   36 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 4. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
    12 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Tongqing Guo"
-description: "Tongqing Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.848310
+description: "Tongqing Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.790491
 url: "/cdr-researcher-census/researchers/tongqing-guo-a5046832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 248 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 11 |
+| Citations | 264 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jiangyue Li"
-description: "Jiangyue Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.366675
+description: "Jiangyue Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.317794
 url: "/cdr-researcher-census/researchers/jiangyue-li-a5071137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 767 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 787 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

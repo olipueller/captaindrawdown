@@ -1,7 +1,7 @@
 ---
 title: "Zhitao Xu"
-description: "Zhitao Xu is a Mid-career Soil Carbon researcher at Jiangxi University of Science and Technology in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.455585
+description: "Zhitao Xu is a Mid-career Soil Carbon researcher at Daqing Oilfield General Hospital in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.414103
 url: "/cdr-researcher-census/researchers/zhitao-xu-a5112449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhitao-xu-a5112449/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangxi University of Science and Technology"
+    "name": "Daqing Oilfield General Hospital"
   },
   "sameAs": "https://openalex.org/A5112449728"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhitao Xu**  
-Jiangxi University of Science and Technology · 🇨🇳 CN
+Daqing Oilfield General Hospital · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 583 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 588 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

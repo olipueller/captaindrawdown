@@ -1,7 +1,7 @@
 ---
 title: "Xiongduo Liu"
 description: "Xiongduo Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.236546
+date: 2026-09-11T02:38:30.183396
 url: "/cdr-researcher-census/researchers/xiongduo-liu-a5012860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 134 |
+| Citations | 141 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |

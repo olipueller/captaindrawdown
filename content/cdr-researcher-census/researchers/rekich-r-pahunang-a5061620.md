@@ -1,7 +1,7 @@
 ---
 title: "Rekich R. Pahunang"
 description: "Rekich R. Pahunang is a Mid-career General CDR researcher at Caraga State University in PH. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.115101
+date: 2026-09-11T02:38:30.064708
 url: "/cdr-researcher-census/researchers/rekich-r-pahunang-a5061620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 163 |
+| Citations | 171 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advanced treatment of toluene emissions with a cutting-edge algal bacterial photo-bioreactor: Performance assessment in a circular economy perspective** (2023)
-   21 citations · General CDR
+   22 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chuan Yang"
-description: "Chuan Yang is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences Rubber Research Institute in CN. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.358785
+description: "Chuan Yang is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences Rubber Research Institute in CN. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.303337
 url: "/cdr-researcher-census/researchers/chuan-yang-a5101770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 791 |
-| Publications | 54 |
-| CDR Focus | 5.6% |
+| Citations | 824 |
+| Publications | 55 |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Nadine Simon"
 description: "Nadine Simon is a Senior DAC researcher at Volkswagen Group (Germany) in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.394606
+date: 2026-09-11T02:38:29.353650
 url: "/cdr-researcher-census/researchers/nadine-simon-a5112346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 701 |
+| Citations | 703 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

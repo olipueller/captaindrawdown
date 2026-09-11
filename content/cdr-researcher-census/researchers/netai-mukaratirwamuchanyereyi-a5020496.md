@@ -1,7 +1,7 @@
 ---
 title: "Netai Mukaratirwa‐Muchanyereyi"
-description: "Netai Mukaratirwa‐Muchanyereyi is a Mid-career Biochar researcher at Bindura University of Science Education in ZW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056780
+description: "Netai Mukaratirwa‐Muchanyereyi is a Mid-career Biochar researcher at Bindura University of Science Education in ZW. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.045130
 url: "/cdr-researcher-census/researchers/netai-mukaratirwamuchanyereyi-a5020496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 176 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

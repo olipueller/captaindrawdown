@@ -1,7 +1,7 @@
 ---
 title: "Toon Pronk"
 description: "Toon Pronk is a Senior General CDR researcher at Government of New Brunswick in CA. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347605
+date: 2026-09-11T02:38:30.324128
 url: "/cdr-researcher-census/researchers/toon-pronk-a5015985/"
 layout: "researcher"
 hiddenInHomeList: true

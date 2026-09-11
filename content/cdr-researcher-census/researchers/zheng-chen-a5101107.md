@@ -1,7 +1,7 @@
 ---
 title: "Zheng Chen"
 description: "Zheng Chen is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.421219
+date: 2026-09-11T02:38:30.337142
 url: "/cdr-researcher-census/researchers/zheng-chen-a5101107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 100 |
+| Citations | 110 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluation on performance and carbon-sequestration of spent coffee grounds hydrothermal biochar concrete under multi-factor interaction** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

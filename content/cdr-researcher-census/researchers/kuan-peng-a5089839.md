@@ -1,7 +1,7 @@
 ---
 title: "Kuan Peng"
 description: "Kuan Peng is a Senior Biochar researcher at Central South University of Forestry and Technology in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.458022
+date: 2026-09-11T02:38:29.415446
 url: "/cdr-researcher-census/researchers/kuan-peng-a5089839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 580 |
+| Citations | 585 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

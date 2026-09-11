@@ -1,7 +1,7 @@
 ---
 title: "Hualong Jin"
 description: "Hualong Jin is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.679118
+date: 2026-09-11T02:38:29.610504
 url: "/cdr-researcher-census/researchers/hualong-jin-a5032913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 345 |
+| Citations | 370 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    21 citations · Enhanced Weathering
 
 2. **Global Cooling‐Driven Summer Monsoon Weakening in South China Across the Eocene‐Oligocene Transition** (2023)
-   6 citations
+   7 citations
 
 3. **Human Activities Induced Stronger Silicate Weathering in the Red River Basin: A Growing Carbon Sink During the Late Holocene** (2025)
    0 citations · Enhanced Weathering

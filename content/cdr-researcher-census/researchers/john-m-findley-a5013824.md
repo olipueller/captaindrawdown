@@ -1,7 +1,7 @@
 ---
 title: "John M. Findley"
 description: "John M. Findley is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.902970
+date: 2026-09-11T02:38:29.854985
 url: "/cdr-researcher-census/researchers/john-m-findley-a5013824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 224 |
+| Citations | 233 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Computational Screening of MOFs and Zeolites for Direct Air Capture of Carbon Dioxide under Humid Conditions** (2021)
-   74 citations · DAC
+   76 citations · DAC
 
 2. **Investigation of the Effect of Framework Flexibility on CO <sub>2</sub> Adsorption in SIFSIX-3-Cu Using a Machine-Learned Force Field** (2025)
-   5 citations
+   7 citations
 
 3. **Machine Learned Force Field Modeling of Metal Organic Frameworks for CO2 Direct Air Capture** (2024)
    1 citations

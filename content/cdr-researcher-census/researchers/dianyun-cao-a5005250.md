@@ -1,7 +1,7 @@
 ---
 title: "Dianyun Cao"
 description: "Dianyun Cao is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.523952
+date: 2026-09-11T02:38:29.468122
 url: "/cdr-researcher-census/researchers/dianyun-cao-a5005250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 483 |
+| Citations | 504 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term effects of biochar amendment on soil aggregate stability and biological binding agents in brown earth** (2021)
-   130 citations · Biochar
+   131 citations · Biochar
 
 2. **Responses of soil respiration and C sequestration efficiency to biochar amendment in maize field of Northeast China** (2022)
    55 citations · Biochar

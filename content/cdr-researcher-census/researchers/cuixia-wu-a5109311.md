@@ -1,7 +1,7 @@
 ---
 title: "Cuixia Wu"
 description: "Cuixia Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.357488
+date: 2026-09-11T02:38:29.307571
 url: "/cdr-researcher-census/researchers/cuixia-wu-a5109311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 794 |
+| Citations | 813 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manure application enhances the stability of aggregates and aggregate-associated carbon by regulating soil physicochemical characteristics** (2021)
-   128 citations · Soil Carbon
+   130 citations · Soil Carbon
 
 2. **Exogenous fulvic acid enhances stability of mineral-associated soil organic matter better than manure** (2021)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

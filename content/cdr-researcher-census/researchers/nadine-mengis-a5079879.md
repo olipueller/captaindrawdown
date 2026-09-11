@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
-description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 130 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.207388
+description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.155630
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,591 |
-| Publications | 130 |
-| CDR Focus | 23.1% |
+| Citations | 1,644 |
+| Publications | 143 |
+| CDR Focus | 19.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
-   65 citations · General CDR
+   66 citations · General CDR
 
-2. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   42 citations · General CDR
+2. **Perspectives and challenges of marine carbon dioxide removal** (2025)
+   44 citations · General CDR
 
-3. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   41 citations · General CDR
+3. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
+   43 citations · General CDR
 
 4. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    38 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    37 citations · General CDR
 
 6. **Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments** (2023)
-   32 citations · General CDR
+   35 citations · General CDR
 
 7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    24 citations · BECCS

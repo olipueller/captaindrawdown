@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Guo"
-description: "Yuxi Guo is a Mid-career Soil Carbon researcher at University of Florida in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.153235
+description: "Yuxi Guo is a Mid-career Soil Carbon researcher at University of Fort Lauderdale in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.085374
 url: "/cdr-researcher-census/researchers/yuxi-guo-a5000665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuxi-guo-a5000665/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Florida"
+    "name": "University of Fort Lauderdale"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6680-8868",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuxi Guo**  
-University of Florida · 🇺🇸 US
+University of Fort Lauderdale · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 153 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 165 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Interactive effects of land-use intensity, grazing and fire on decomposition of subtropical seasonal wetlands** (2021)
-   11 citations
+   12 citations
 
 2. **Foliar phosphorus concentrations in Bahiagrass are well-predicted by the abundance of a Fusarium taxa** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "AKMM Alam"
 description: "AKMM Alam is a Senior Soil Carbon researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.626164
+date: 2026-09-11T02:38:29.578554
 url: "/cdr-researcher-census/researchers/akmm-alam-a5053963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 385 |
+| Citations | 396 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Mbezele Junior Yannick Ngaba"
-description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Southwest University in CN. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.563058
+description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Université de Yaoundé I in CM. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.493216
 url: "/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southwest University"
+    "name": "Universit\u00e9 de Yaound\u00e9 I"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7823-8156",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mbezele Junior Yannick Ngaba**  
-Southwest University · 🇨🇳 CN
+Université de Yaoundé I ·  CM
 
 **Career Stage:** Mid-career
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 443 |
-| Publications | 54 |
-| CDR Focus | 7.4% |
+| h-index | 12 |
+| Citations | 476 |
+| Publications | 55 |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   73 citations
+   77 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Low-level nitrogen and short-term addition increase soil carbon sequestration in Chinese forest ecosystems** (2022)
-   21 citations
+   22 citations
 
 4. **Biochar application as a green clean-up method: bibliometric analysis of current trends and future perspectives** (2025)
    15 citations · Biochar

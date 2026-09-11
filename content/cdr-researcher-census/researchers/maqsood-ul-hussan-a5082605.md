@@ -1,7 +1,7 @@
 ---
 title: "Maqsood Ul Hussan"
-description: "Maqsood Ul Hussan is a Mid-career Biochar researcher at ZheJiang Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.308282
+description: "Maqsood Ul Hussan is a Mid-career Biochar researcher at ZheJiang Academy of Agricultural Sciences in CN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.331793
 url: "/cdr-researcher-census/researchers/maqsood-ul-hussan-a5082605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 121 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 112 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,14 +50,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Depth-Wise Assessment of Soil Fertility and Organic Carbon Under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
    1 citations
 
-2. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
+2. **Depth-Wise Assessment of Soil Fertility and Organic Carbon under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
+   1 citations
+
+3. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
    0 citations · Biochar
 
-3. **Long-Term Crop Diversification Enhances Soil Carbon Fractions and Sequestrations in Northwestern India** (2026)
+4. **Long-Term Crop Diversification Enhances Soil Carbon Fractions and Sequestrations in Northwestern India** (2026)
    0 citations · Soil Carbon
-
-4. **Depth-Wise Assessment of Soil Fertility and Organic Carbon under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
-   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Luis D. Virla"
 description: "Luis D. Virla is a Mid-career General CDR researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.528642
+date: 2026-09-11T02:38:29.478992
 url: "/cdr-researcher-census/researchers/luis-d-virla-a5078921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 478 |
+| Citations | 491 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potentials and barriers to land-based mitigation technologies and practices (LMTs)—a review** (2023)
-   13 citations · BECCS
+   14 citations · BECCS
 
 2. **Capacity gaps in land-based mitigation technologies and practices: A first stock take** (2023)
    6 citations · BECCS

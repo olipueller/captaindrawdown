@@ -1,7 +1,7 @@
 ---
 title: "Bjorn Joos"
-description: "Bjorn Joos is a Mid-career Biochar researcher at Imec the Netherlands in NL. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.519194
+description: "Bjorn Joos is a Mid-career Biochar researcher at Imec the Netherlands in NL. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.456799
 url: "/cdr-researcher-census/researchers/bjorn-joos-a5040027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 489 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 11 |
+| Citations | 519 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    28 citations · Biochar
 
 2. **Demineralization of common ivy-derived biomass and biochar and its effect on the resulting activated carbon properties** (2023)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

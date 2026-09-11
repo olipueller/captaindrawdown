@@ -1,7 +1,7 @@
 ---
 title: "David Branigan"
 description: "David Branigan is a Mid-career General CDR researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.167766
+date: 2026-09-11T02:38:30.145813
 url: "/cdr-researcher-census/researchers/david-branigan-a5080611/"
 layout: "researcher"
 hiddenInHomeList: true

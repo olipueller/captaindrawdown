@@ -1,7 +1,7 @@
 ---
 title: "Panfeng Tu"
-description: "Panfeng Tu is a Mid-career Biochar researcher at South China Agricultural University in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.255447
+description: "Panfeng Tu is a Mid-career Biochar researcher at South China Agricultural University in CN. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.190716
 url: "/cdr-researcher-census/researchers/panfeng-tu-a5052916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,226 |
+| h-index | 18 |
+| Citations | 1,355 |
 | Publications | 36 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,16 +48,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Influence of pyrolysis temperature on the physicochemical properties of biochars obtained from herbaceous and woody plants** (2022)
-   113 citations · Biochar
+   123 citations · Biochar
 
 2. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   86 citations
+   100 citations
 
 3. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
-   19 citations · Biochar
+   24 citations · Biochar
 
 4. **The multifunctional roles of arbuscular mycorrhizal fungi in soil health and nutrient dynamics** (2026)
-   3 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

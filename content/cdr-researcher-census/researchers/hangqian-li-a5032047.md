@@ -1,7 +1,7 @@
 ---
 title: "Hangqian Li"
 description: "Hangqian Li is an Early-career Ocean CDR researcher at Xiamen University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.291652
+date: 2026-09-11T02:38:30.239406
 url: "/cdr-researcher-census/researchers/hangqian-li-a5032047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 123 |
+| Citations | 129 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

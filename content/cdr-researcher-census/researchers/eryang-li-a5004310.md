@@ -1,7 +1,7 @@
 ---
 title: "Eryang Li"
-description: "Eryang Li is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.192722
+description: "Eryang Li is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in RW. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.141589
 url: "/cdr-researcher-census/researchers/eryang-li-a5004310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eryang-li-a5004310/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinjiang University"
+    "name": "Ministry of Natural Resources"
   },
   "sameAs": "https://openalex.org/A5004310822"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Eryang Li**  
-Xinjiang University · 🇨🇳 CN
+Ministry of Natural Resources ·  RW
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,755 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 1,801 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

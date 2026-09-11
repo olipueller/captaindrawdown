@@ -1,7 +1,7 @@
 ---
 title: "Francesco Sabatino"
 description: "Francesco Sabatino is a Mid-career DAC researcher at Eindhoven University of Technology in NL. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.391959
+date: 2026-09-11T02:38:29.335492
 url: "/cdr-researcher-census/researchers/francesco-sabatino-a5010085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 707 |
+| Citations | 741 |
 | Publications | 7 |
 | CDR Focus | 42.9% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A comparative energy and costs assessment and optimization for direct air capture technologies** (2021)
-   415 citations · DAC
+   429 citations · DAC
 
 2. **Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 3. **Design and Development of Integrated Direct Air Capture and Methanation Processes** (2024)
    6 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Norbert Onen Rubangakene"
 description: "Norbert Onen Rubangakene is a Mid-career Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.962164
+date: 2026-09-11T02:38:29.894995
 url: "/cdr-researcher-census/researchers/norbert-onen-rubangakene-a5030858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 210 |
+| Citations | 219 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels** (2022)
-   115 citations · Biochar
+   118 citations · Biochar
 
 2. **Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels** (2023)
    47 citations · Biochar

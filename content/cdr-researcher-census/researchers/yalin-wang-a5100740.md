@@ -1,7 +1,7 @@
 ---
 title: "Yalin Wang"
 description: "Yalin Wang is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332253
+date: 2026-09-11T02:38:29.284483
 url: "/cdr-researcher-census/researchers/yalin-wang-a5100740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 866 |
+| Citations | 885 |
 | Publications | 46 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bacteria-Like Gaiella Accelerate Soil Carbon Loss by Decomposing Organic Matter of Grazing Soils in Alpine Meadows on the Qinghai–Tibet Plateau** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Variations in microbial residue carbon and its contribution to soil organic carbon after vegetation restoration on farmland: The case of Guinan County** (2024)
    7 citations · Soil Carbon

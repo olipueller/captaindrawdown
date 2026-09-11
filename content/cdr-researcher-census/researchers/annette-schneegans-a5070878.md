@@ -1,7 +1,7 @@
 ---
 title: "Annette Schneegans"
-description: "Annette Schneegans is an Early-career Soil Carbon researcher at European Commission in BE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.033907
+description: "Annette Schneegans is a Senior Soil Carbon researcher at European Commission in BE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996759
 url: "/cdr-researcher-census/researchers/annette-schneegans-a5070878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Annette Schneegans**  
 European Commission · 🇧🇪 BE
 
-**Career Stage:** Early-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 187 |
+| Citations | 191 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil priorities in the European Union** (2022)
-   153 citations · General CDR
+   158 citations · General CDR
 
 ## External Profiles
 

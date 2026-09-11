@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel O. Oyelude"
 description: "Emmanuel O. Oyelude is a Mid-career Biochar researcher at Biochemical Society in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.822114
+date: 2026-09-11T02:38:29.772492
 url: "/cdr-researcher-census/researchers/emmanuel-o-oyelude-a5024720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 261 |
+| Citations | 272 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for sustainable agriculture: potential to mitigate climate change and advance sustainable development goals in Ghana—review** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

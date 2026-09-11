@@ -1,7 +1,7 @@
 ---
 title: "Ji‐Hoon Oh"
-description: "Ji‐Hoon Oh is a Mid-career General CDR researcher at Scripps Institution of Oceanography in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.711361
+description: "Ji‐Hoon Oh is a Mid-career General CDR researcher at Scripps Institution of Oceanography in US. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.637570
 url: "/cdr-researcher-census/researchers/jihoon-oh-a5006109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 322 |
-| Publications | 39 |
-| CDR Focus | 15.4% |
+| Citations | 349 |
+| Publications | 40 |
+| CDR Focus | 15.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Centennial Memory of the Arctic Ocean for Future Arctic Climate Recovery in Response to a Carbon Dioxide Removal** (2022)
-   32 citations · General CDR
+   33 citations · General CDR
 
-2. **Pervasive fire danger continued under a negative emission scenario** (2024)
+2. **Land aridification persists in vulnerable drylands under climate mitigation scenarios** (2025)
+   8 citations · General CDR
+
+3. **Pervasive fire danger continued under a negative emission scenario** (2024)
    7 citations · General CDR
-
-3. **Land aridification persists in vulnerable drylands under climate mitigation scenarios** (2025)
-   6 citations · General CDR
 
 4. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
    1 citations · General CDR

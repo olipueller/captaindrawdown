@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Li"
 description: "Zhiying Li is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855294
+date: 2026-09-11T02:38:29.811088
 url: "/cdr-researcher-census/researchers/zhiying-li-a5100634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 244 |
+| Citations | 253 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dry–wet cycles promoting the accumulation of microbial necromass and mineral associated organic carbon after wheat straw and nitrogen co-addition** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Arafat"
 description: "Ahmed Arafat is a Senior Biochar researcher at Taif University in SA. With 19 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.291106
+date: 2026-09-11T02:38:29.245072
 url: "/cdr-researcher-census/researchers/ahmed-arafat-a5011038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,037 |
+| Citations | 1,039 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

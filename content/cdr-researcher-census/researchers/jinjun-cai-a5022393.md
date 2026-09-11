@@ -1,7 +1,7 @@
 ---
 title: "Jinjun Cai"
-description: "Jinjun Cai is a Senior Biochar researcher at Xiangtan University in CN. With 107 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.119975
+description: "Jinjun Cai is a Senior Biochar researcher at Xiangtan University in CN. With 107 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.069651
 url: "/cdr-researcher-census/researchers/jinjun-cai-a5022393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 34 |
-| Citations | 3,541 |
+| h-index | 36 |
+| Citations | 3,615 |
 | Publications | 107 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Visible-light-driven photocatalytic degradation of dye and antibiotics by activated biochar composited with K+ doped g-C3N4: Effects, mechanisms, actual wastewater treatment and disinfection** (2022)
-   149 citations · Biochar
+   150 citations · Biochar
 
 2. **Facile preparation of multi-porous biochar from lotus biomass for methyl orange removal: Kinetics, isotherms, and regeneration studies** (2021)
    85 citations · Biochar
@@ -63,10 +63,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Biochar
 
 5. **One-step template-free pyrolysis for biochar: Biomass organs control porosity and high-performance for methylene blue removal from water** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 6. **Sustainable water remediation with algae-derived adsorbents: from synthesis strategies to adsorption performance and mechanisms** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

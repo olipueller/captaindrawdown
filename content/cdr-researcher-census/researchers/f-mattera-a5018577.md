@@ -1,7 +1,7 @@
 ---
 title: "F. Mattera"
 description: "F. Mattera is a Senior BECCS researcher at Aalborg University in DK. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555411
+date: 2026-09-11T02:38:29.516957
 url: "/cdr-researcher-census/researchers/f-mattera-a5018577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 450 |
+| Citations | 451 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

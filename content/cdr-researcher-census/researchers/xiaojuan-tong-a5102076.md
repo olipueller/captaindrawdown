@@ -1,7 +1,7 @@
 ---
 title: "Xiaojuan Tong"
 description: "Xiaojuan Tong is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.256696
+date: 2026-09-11T02:38:29.204933
 url: "/cdr-researcher-census/researchers/xiaojuan-tong-a5102076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,220 |
+| Citations | 1,249 |
 | Publications | 58 |
 | CDR Focus | 8.6% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Species Diversity, Biomass and Carbon Stock Assessment of Kanhlyashay Natural Mangrove Forest** (2022)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Impacts of Climate Change and Human Activities on Vegetation Productivity in China** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Regulation of biophysical drivers on carbon and water fluxes over a warm-temperate plantation in northern China** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Carbon exchange of forest plantations: global patterns and biophysical drivers** (2023)
    13 citations · General CDR

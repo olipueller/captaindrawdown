@@ -1,7 +1,7 @@
 ---
 title: "Yazheng Li"
 description: "Yazheng Li is a Mid-career Soil Carbon researcher at Anhui University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.005778
+date: 2026-09-11T02:38:29.942946
 url: "/cdr-researcher-census/researchers/yazheng-li-a5023965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 195 |
+| Citations | 208 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Acid rain reduces plant-photosynthesized carbon sequestration and soil microbial network complexity** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

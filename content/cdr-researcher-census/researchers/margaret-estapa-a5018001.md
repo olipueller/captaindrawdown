@@ -1,7 +1,7 @@
 ---
 title: "Margaret Estapa"
 description: "Margaret Estapa is a Senior Ocean CDR researcher at University of Maine in US. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.251028
+date: 2026-09-11T02:38:29.200035
 url: "/cdr-researcher-census/researchers/margaret-estapa-a5018001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,249 |
+| Citations | 1,278 |
 | Publications | 73 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **The case for ocean iron fertilization field trials** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
    4 citations · Ocean CDR

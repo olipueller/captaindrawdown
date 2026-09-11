@@ -1,7 +1,7 @@
 ---
 title: "Carolina Mayoral"
-description: "Carolina Mayoral is a Mid-career Soil Carbon researcher at University College Birmingham in GB. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.661792
+description: "Carolina Mayoral is a Mid-career Soil Carbon researcher at University College Birmingham in GB. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.592616
 url: "/cdr-researcher-census/researchers/carolina-mayoral-a5035719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 358 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| Citations | 383 |
+| Publications | 40 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
    0 citations · General CDR

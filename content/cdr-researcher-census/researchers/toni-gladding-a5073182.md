@@ -1,7 +1,7 @@
 ---
 title: "Toni Gladding"
-description: "Toni Gladding is a Senior Soil Carbon researcher at The Open University in GB. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.563457
+description: "Toni Gladding is a Senior Soil Carbon researcher at The Open University in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.514023
 url: "/cdr-researcher-census/researchers/toni-gladding-a5073182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 443 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 454 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

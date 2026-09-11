@@ -1,7 +1,7 @@
 ---
 title: "Klara Van Mierlo"
 description: "Klara Van Mierlo is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.919748
+date: 2026-09-11T02:38:29.875330
 url: "/cdr-researcher-census/researchers/klara-van-mierlo-a5027785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 219 |
+| Citations | 227 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harmonizing soil carbon simulation models, emission factors and direct measurements used in LCA of agricultural systems** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

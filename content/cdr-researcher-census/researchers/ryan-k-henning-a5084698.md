@@ -1,7 +1,7 @@
 ---
 title: "Ryan K. Henning"
 description: "Ryan K. Henning is a Senior DAC researcher at Energy and Resources Institute in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.932312
+date: 2026-09-11T02:38:29.905394
 url: "/cdr-researcher-census/researchers/ryan-k-henning-a5084698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 214 |
+| Citations | 216 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

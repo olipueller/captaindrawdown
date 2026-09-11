@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Su"
-description: "Bingqian Su is a Mid-career Soil Carbon researcher at Environment and Plant Protection Research Institute in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.691794
+description: "Bingqian Su is a Mid-career Soil Carbon researcher at Environment and Plant Protection Research Institute in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.638290
 url: "/cdr-researcher-census/researchers/bingqian-su-a5058877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 337 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| h-index | 9 |
+| Citations | 349 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Vegetation restoration changed the soil aggregate stability and aggregate carbon stabilization pathway according to δ13C signatures** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Minxuan Sun"
-description: "Minxuan Sun is a Mid-career General CDR researcher at Ministry of Education in ME. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.663412
+description: "Minxuan Sun is a Mid-career General CDR researcher at Ministry of Education in ME. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.583948
 url: "/cdr-researcher-census/researchers/minxuan-sun-a5026638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 356 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| h-index | 10 |
+| Citations | 390 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Contributions of countries without a carbon neutrality target to limit global warming** (2025)
-   9 citations · BECCS
+   10 citations · BECCS
 
 2. **Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China** (2026)
    0 citations · BECCS

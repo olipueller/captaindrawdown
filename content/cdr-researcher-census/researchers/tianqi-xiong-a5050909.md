@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Xiong"
 description: "Tianqi Xiong is a Senior Ocean CDR researcher at Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.387269
+date: 2026-09-11T02:38:29.325942
 url: "/cdr-researcher-census/researchers/tianqi-xiong-a5050909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 717 |
+| Citations | 766 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Legacy Effects of Late Macroalgal Blooms on Dissolved Inorganic Carbon Pool through Alkalinity Enhancement in Coastal Ocean** (2023)
-   48 citations · Ocean CDR
+   49 citations · Ocean CDR
 
 2. **Particulate Organic Carbon Released during Macroalgal Growth Has Significant Carbon Sequestration Potential in the Ocean** (2023)
-   39 citations
+   41 citations
 
 3. **Fate and carbon sequestration potential of sunken macroalgae in coastal oceans from long-term microbial degradation perspective** (2025)
-   14 citations · Ocean CDR
+   15 citations · Ocean CDR
 
 ## External Profiles
 

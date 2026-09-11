@@ -1,7 +1,7 @@
 ---
 title: "Wenes Ramos da Silva"
-description: "Wenes Ramos da Silva is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.980182
+description: "Wenes Ramos da Silva is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.906173
 url: "/cdr-researcher-census/researchers/wenes-ramos-da-silva-a5022775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 203 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| h-index | 10 |
+| Citations | 215 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Thermovalorization of acerola industrial waste by pyrolysis in a continuous rotary kiln reactor** (2021)
-   19 citations · Biochar
+1. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
+   19 citations · BECCS
 
-2. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   18 citations · BECCS
+2. **Thermovalorization of acerola industrial waste by pyrolysis in a continuous rotary kiln reactor** (2021)
+   19 citations · Biochar
 
 3. **Sustainable Bioproducts of Coconut Husk Biomass─Part I: Pyrolytic Conversion into Biochar, Bio-Oil, and Pyrolytic Gas** (2026)
    1 citations · Biochar

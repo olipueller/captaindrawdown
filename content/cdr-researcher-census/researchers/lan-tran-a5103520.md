@@ -1,7 +1,7 @@
 ---
 title: "Lan Tran"
 description: "Lan Tran is a Mid-career Soil Carbon researcher at Lincoln University - Missouri in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.051476
+date: 2026-09-11T02:38:30.004045
 url: "/cdr-researcher-census/researchers/lan-tran-a5103520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 182 |
+| Citations | 189 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

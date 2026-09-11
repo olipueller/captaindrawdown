@@ -1,7 +1,7 @@
 ---
 title: "Chen-Hao Yang"
 description: "Chen-Hao Yang is a Senior Biochar researcher at Hunan Normal University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.384043
+date: 2026-09-11T02:38:29.330007
 url: "/cdr-researcher-census/researchers/chen-hao-yang-a5113654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 723 |
+| Citations | 756 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges** (2022)
-   620 citations · Biochar
+   638 citations · Biochar
 
 ## External Profiles
 

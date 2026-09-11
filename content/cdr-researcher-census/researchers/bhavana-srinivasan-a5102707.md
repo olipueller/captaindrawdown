@@ -1,7 +1,7 @@
 ---
 title: "Bhavana Srinivasan"
-description: "Bhavana Srinivasan is a Mid-career Soil Carbon researcher at Christ University in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183606
+description: "Bhavana Srinivasan is an Early-career Soil Carbon researcher at Christ University in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.382799
 url: "/cdr-researcher-census/researchers/bhavana-srinivasan-a5102707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Bhavana Srinivasan**  
 Christ University · 🇮🇳 IN
 
-**Career Stage:** Mid-career
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 146 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| h-index | 4 |
+| Citations | 103 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

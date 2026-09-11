@@ -1,7 +1,7 @@
 ---
 title: "Shariat Mobasser"
 description: "Shariat Mobasser is a Mid-career Biochar researcher at Purdue University West Lafayette in US. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.392479
+date: 2026-09-11T02:38:30.328856
 url: "/cdr-researcher-census/researchers/shariat-mobasser-a5076578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
+| Citations | 112 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

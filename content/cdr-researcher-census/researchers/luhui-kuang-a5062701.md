@@ -1,7 +1,7 @@
 ---
 title: "Luhui Kuang"
-description: "Luhui Kuang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.407924
+description: "Luhui Kuang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.345540
 url: "/cdr-researcher-census/researchers/luhui-kuang-a5062701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 672 |
-| Publications | 20 |
-| CDR Focus | 25.0% |
+| Citations | 718 |
+| Publications | 24 |
+| CDR Focus | 20.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
    97 citations · Soil Carbon
 
 3. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   81 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 4. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
 
 5. **Accelerated soil carbon accumulation in an afforested multispecies forest compared with a monoculture driven by larger soil phosphorus mobilization** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
    0 citations · Soil Carbon

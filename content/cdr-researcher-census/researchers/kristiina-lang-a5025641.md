@@ -1,7 +1,7 @@
 ---
 title: "Kristiina Lång"
-description: "Kristiina Lång is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.530084
+description: "Kristiina Lång is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.480431
 url: "/cdr-researcher-census/researchers/kristiina-lang-a5025641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Kristiina Lång**  
 Natural Resources Institute Finland ·  FI
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 477 |
-| Publications | 39 |
-| CDR Focus | 10.3% |
+| h-index | 8 |
+| Citations | 490 |
+| Publications | 41 |
+| CDR Focus | 9.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
-description: "Katharina Keiblinger is a Senior Soil Carbon researcher at Institute for Biodiversity in AT. With 172 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089339
+description: "Katharina Keiblinger is a Senior Soil Carbon researcher at Gregor Mendel Institute of Molecular Plant Biology in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.040129
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute for Biodiversity"
+    "name": "Gregor Mendel Institute of Molecular Plant Biology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4668-3866",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Katharina Keiblinger**  
-Institute for Biodiversity · 🇦🇹 AT
+Gregor Mendel Institute of Molecular Plant Biology · 🇦🇹 AT
 
 **Career Stage:** Senior
 
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 6,004 |
-| Publications | 172 |
-| CDR Focus | 8.7% |
+| h-index | 31 |
+| Citations | 6,153 |
+| Publications | 175 |
+| CDR Focus | 8.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   121 citations · Soil Carbon
+   126 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
-3. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   27 citations
+3. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
+   29 citations · Soil Carbon
 
-4. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   26 citations · Soil Carbon
+4. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
+   29 citations
 
 5. **Potential for agricultural recycling of struvite and zeolites to improve soil microbial physiology and mitigate CO2 emissions** (2024)
    13 citations · General CDR

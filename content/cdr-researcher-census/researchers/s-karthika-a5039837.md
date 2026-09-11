@@ -1,7 +1,7 @@
 ---
 title: "S. Karthika"
-description: "S. Karthika is a Senior Soil Carbon researcher at Anna University, Chennai in IN. With 71 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.526809
+description: "S. Karthika is a Senior Soil Carbon researcher at Anna University, Chennai in IN. With 72 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.466478
 url: "/cdr-researcher-census/researchers/s-karthika-a5039837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 480 |
-| Publications | 71 |
-| CDR Focus | 11.3% |
+| Citations | 506 |
+| Publications | 72 |
+| CDR Focus | 11.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 2. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **LSTM-based Prediction of EV Charging Behavior Using Deep Learning** (2025)
    1 citations · General CDR

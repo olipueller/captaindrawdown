@@ -1,7 +1,7 @@
 ---
 title: "Adam Drosik"
-description: "Adam Drosik is a Mid-career Biochar researcher at University of Opole in PL. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.244812
+description: "Adam Drosik is a Mid-career Biochar researcher at University of Opole in PL. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.208344
 url: "/cdr-researcher-census/researchers/adam-drosik-a5085080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 132 |
-| Publications | 17 |
-| CDR Focus | 17.6% |
+| Citations | 135 |
+| Publications | 16 |
+| CDR Focus | 18.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

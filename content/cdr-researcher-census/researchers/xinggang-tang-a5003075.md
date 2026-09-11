@@ -1,7 +1,7 @@
 ---
 title: "Xinggang Tang"
 description: "Xinggang Tang is a Mid-career Enhanced Weathering researcher at Key Laboratory of Guangdong Province in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.436775
+date: 2026-09-11T02:38:29.380697
 url: "/cdr-researcher-census/researchers/xinggang-tang-a5003075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 616 |
+| Citations | 641 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

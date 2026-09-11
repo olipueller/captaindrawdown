@@ -1,7 +1,7 @@
 ---
 title: "ShouWei Han"
 description: "ShouWei Han is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155428
+date: 2026-09-11T02:38:29.106783
 url: "/cdr-researcher-census/researchers/shouwei-han-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,344 |
+| Citations | 2,357 |
 | Publications | 64 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
    28 citations · General CDR
@@ -59,14 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Higher sequestration of wheat versus maize crop carbon in soils under rotations** (2021)
    9 citations · Soil Carbon
 
-5. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
+5. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)
    5 citations · Soil Carbon
 
-6. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
-   4 citations · Soil Carbon
+6. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
+   5 citations · Soil Carbon
 
-7. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)
-   3 citations · Soil Carbon
+7. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
+   4 citations · Soil Carbon
 
 8. **Correction to: Higher sequestration of wheat versus maize crop carbon in soil under rotations** (2022)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Archw Promraksa"
-description: "Archw Promraksa is a Mid-career BECCS researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149528
+description: "Archw Promraksa is a Mid-career BECCS researcher at Walailak University in TH. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.109110
 url: "/cdr-researcher-census/researchers/archw-promraksa-a5044932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 154 |
+| h-index | 6 |
+| Citations | 158 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

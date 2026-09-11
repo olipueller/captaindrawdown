@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Son"
-description: "Seongmin Son is a Senior DAC researcher at Kyungpook National University - Sangju Campus in KR. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.269706
+description: "Seongmin Son is a Senior DAC researcher at Kyungpook National University - Sangju Campus in KR. With 68 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.218314
 url: "/cdr-researcher-census/researchers/seongmin-son-a5055286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,147 |
-| Publications | 66 |
-| CDR Focus | 6.1% |
+| Citations | 1,178 |
+| Publications | 68 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,15 +54,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    3 citations · DAC
 
 2. **Review of Direct Air Capture Systems Powered by Nuclear Energy** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 3. **Preliminary techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications** (2026)
+   1 citations · DAC
+
+4. **Experiment-Informed Techno-Economic Assessment of Adsorbents for an Open-Air Brayton Cycle Integrated Direct Air Capture System** (2026)
    0 citations · DAC
 
-4. **Thermodynamic assessment of a DAC integrated with an open-air brayton cycle for application in the small modular reactor** (2026)
+5. **Thermodynamic assessment of a DAC integrated with an open-air brayton cycle for application in the small modular reactor** (2026)
    0 citations
 
-5. **Techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications** (2026)
+6. **Techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications** (2026)
    0 citations · DAC
 
 ## External Profiles

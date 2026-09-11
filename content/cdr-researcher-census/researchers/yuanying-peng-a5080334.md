@@ -1,7 +1,7 @@
 ---
 title: "Yuanying Peng"
-description: "Yuanying Peng is a Mid-career Soil Carbon researcher at Lewis University in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.335580
+description: "Yuanying Peng is a Mid-career Soil Carbon researcher at Lewis University in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.240514
 url: "/cdr-researcher-census/researchers/yuanying-peng-a5080334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 115 |
-| Publications | 24 |
-| CDR Focus | 20.8% |
+| Citations | 129 |
+| Publications | 25 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
-   6 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Linking leaf‒litter‒soil stoichiometry to microbial carbon‒use efficiency across different forest types in north subtropical China** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 5. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Amanda de Sousa e Silva"
 description: "Amanda de Sousa e Silva is a Mid-career Biochar researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.759416
+date: 2026-09-11T02:38:29.708278
 url: "/cdr-researcher-census/researchers/amanda-de-sousa-e-silva-a5043679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 294 |
+| Citations | 305 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and granular activated carbon mitigate inhibitory stress and enhance methane production in brewery spent grain anaerobic digestion** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

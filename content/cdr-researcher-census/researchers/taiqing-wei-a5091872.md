@@ -1,7 +1,7 @@
 ---
 title: "Taiqing Wei"
 description: "Taiqing Wei is a Mid-career Biochar researcher at Liaoning Shihua University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.635963
+date: 2026-09-11T02:38:29.570621
 url: "/cdr-researcher-census/researchers/taiqing-wei-a5091872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 377 |
+| Citations | 401 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ball milling Fe3O4@biochar cathode coupling persulfate for the removal of sulfadiazine from water: Effectiveness and mechanisms** (2022)
-   25 citations · Biochar
+   28 citations · Biochar
 
 2. **Ball Milling Fe3o4@Biochar Cathode Coupling Persulfate for the Removal of Sulfadiazine from Water: Effectiveness and Mechanisms** (2022)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Thiago Massao Inagaki"
 description: "Thiago Massao Inagaki is a Senior Soil Carbon researcher at Norsk Institutt for Bioøkonomi in NO. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.238830
+date: 2026-09-11T02:38:29.187581
 url: "/cdr-researcher-census/researchers/thiago-massao-inagaki-a5007391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,334 |
+| Citations | 1,373 |
 | Publications | 80 |
 | CDR Focus | 7.5% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanical and biological chiseling impacts on soil organic C stocks, root growth, and crop yield in a long-term no-till system** (2021)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Can C-budget of natural capital be restored through conservation agriculture in a tropical and subtropical environment?** (2022)
    15 citations · General CDR
 
 3. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   9 citations
+   10 citations
 
 4. **Accessing and modelling soil organic carbon stocks in Prairies, Savannas, and forests** (2024)
    7 citations
@@ -65,10 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Accessing and Modelling Soil Organic Carbon Stocks in Prairies, Savannas, and Forests** (2023)
    4 citations · Soil Carbon
 
-6. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
-   1 citations · Soil Carbon
+6. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+   2 citations · Soil Carbon
 
-7. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+7. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon
 
 8. **The role of undersown cover crops for improving P cycling in high latitudes arable soils** (2026)

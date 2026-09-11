@@ -1,7 +1,7 @@
 ---
 title: "Tian Xie"
 description: "Tian Xie is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.999461
+date: 2026-09-11T02:38:29.940198
 url: "/cdr-researcher-census/researchers/tian-xie-a5113810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 197 |
+| Citations | 209 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of land use and land cover on soil carbon storage in the Yellow River Delta, China: Implications for wetland restoration and adaptive management** (2024)
-   29 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

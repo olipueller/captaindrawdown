@@ -1,7 +1,7 @@
 ---
 title: "Yangzhou Xiang"
-description: "Yangzhou Xiang is a Senior Soil Carbon researcher at Guizhou Education University in CN. With 67 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142626
+description: "Yangzhou Xiang is a Senior Soil Carbon researcher at Guizhou Education University in CN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.090436
 url: "/cdr-researcher-census/researchers/yangzhou-xiang-a5046130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,684 |
-| Publications | 67 |
-| CDR Focus | 11.9% |
+| Citations | 2,815 |
+| Publications | 68 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Factors shaping soil organic carbon stocks in grass covered orchards across China: A meta-analysis** (2021)
-   79 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 2. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
    71 citations · Soil Carbon
 
 3. **Grass cover increases soil microbial abundance and diversity and extracellular enzyme activities in orchards: A synthesis across China** (2022)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 4. **Soil carbon sequestration benefits of active versus natural restoration vary with initial carbon content and soil layer** (2023)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 5. **A meta‐analysis reveals increases in soil organic carbon following the restoration and recovery of croplands in Southwest China** (2024)
    9 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 8. **Evidence synthesis of soil carbon dynamics: A multi-scale meta-analysis integrating land-use change, conservation practices, and environmental stressors** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 9. **Mixed Plantations Enhance More Soil Organic Carbon Stocks than Monocultures Across China: Implication for Optimizing Afforestation Strategies** (2021)
    0 citations · Soil Carbon

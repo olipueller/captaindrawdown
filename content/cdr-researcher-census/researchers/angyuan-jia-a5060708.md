@@ -1,7 +1,7 @@
 ---
 title: "Angyuan Jia"
-description: "Angyuan Jia is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850057
+description: "Angyuan Jia is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.762430
 url: "/cdr-researcher-census/researchers/angyuan-jia-a5060708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 247 |
+| h-index | 8 |
+| Citations | 277 |
 | Publications | 12 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
    2 citations · Soil Carbon

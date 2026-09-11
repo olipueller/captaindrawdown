@@ -1,7 +1,7 @@
 ---
 title: "M. Paulina Fernández"
 description: "M. Paulina Fernández is a Senior General CDR researcher at Pontificia Universidad Católica de Chile in CL. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.254812
+date: 2026-09-11T02:38:30.206471
 url: "/cdr-researcher-census/researchers/m-paulina-fernandez-a5100370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 131 |
+| Citations | 136 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

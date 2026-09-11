@@ -1,7 +1,7 @@
 ---
 title: "Asta Kazlauskaitė-Jadzevičė"
 description: "Asta Kazlauskaitė-Jadzevičė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.348563
+date: 2026-09-11T02:38:30.325687
 url: "/cdr-researcher-census/researchers/asta-kazlauskaite-jadzevice-a5044780/"
 layout: "researcher"
 hiddenInHomeList: true

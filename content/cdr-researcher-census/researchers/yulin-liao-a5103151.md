@@ -1,7 +1,7 @@
 ---
 title: "Yulin Liao"
 description: "Yulin Liao is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 92 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.143126
+date: 2026-09-11T02:38:29.092524
 url: "/cdr-researcher-census/researchers/yulin-liao-a5103151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,674 |
+| Citations | 2,753 |
 | Publications | 92 |
 | CDR Focus | 5.4% |
 | Trajectory | Stable |
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    90 citations
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
-   38 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   22 citations
+   23 citations
 
 4. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
    13 citations · Soil Carbon

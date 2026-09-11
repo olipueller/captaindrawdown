@@ -1,7 +1,7 @@
 ---
 title: "Md. Sharif Hasan Limon"
 description: "Md. Sharif Hasan Limon is an Early-career Biochar researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.362037
+date: 2026-09-11T02:38:30.335580
 url: "/cdr-researcher-census/researchers/md-sharif-hasan-limon-a5139658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hydrochar-based soil amendments for agriculture: a review of recent progress** (2021)
-   111 citations · Biochar
+   113 citations · Biochar
 
 ## External Profiles
 

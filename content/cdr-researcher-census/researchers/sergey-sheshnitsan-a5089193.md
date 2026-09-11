@@ -1,7 +1,7 @@
 ---
 title: "Sergey Sheshnitsan"
 description: "Sergey Sheshnitsan is a Mid-career Soil Carbon researcher at Voronezh State University of Forestry and Technologies in RU. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.972871
+date: 2026-09-11T02:38:29.898046
 url: "/cdr-researcher-census/researchers/sergey-sheshnitsan-a5089193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 206 |
+| Citations | 218 |
 | Publications | 38 |
 | CDR Focus | 13.2% |
 | Trajectory | Exiting |

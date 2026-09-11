@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Tifft"
-description: "Stephen M. Tifft is a Mid-career BECCS researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.808796
+description: "Stephen M. Tifft is a Mid-career BECCS researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.774097
 url: "/cdr-researcher-census/researchers/stephen-m-tifft-a5063398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stephen-m-tifft-a5063398/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Renewable Energy Laboratory"
+    "name": "National Laboratory of the Rockies"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4510-2444",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Stephen M. Tifft**  
-National Renewable Energy Laboratory · 🇺🇸 US
+National Laboratory of the Rockies · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 268 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 5 |
+| Citations | 271 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

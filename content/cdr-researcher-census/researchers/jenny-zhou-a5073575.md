@@ -1,7 +1,7 @@
 ---
 title: "Jenny Zhou"
 description: "Jenny Zhou is a Senior Biochar researcher at Lawrence Livermore National Laboratory in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.417482
+date: 2026-09-11T02:38:29.356153
 url: "/cdr-researcher-census/researchers/jenny-zhou-a5073575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 650 |
+| Citations | 696 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

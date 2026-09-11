@@ -1,7 +1,7 @@
 ---
 title: "Souradeep Gupta"
-description: "Souradeep Gupta is a Senior Biochar researcher at Indian Institute of Science in IN. With 36 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.094694
+description: "Souradeep Gupta is a Senior Biochar researcher at Indian Institute of Science in IN. With 37 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.045094
 url: "/cdr-researcher-census/researchers/souradeep-gupta-a5061473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 5,376 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 5,533 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in cementitious composites containing two-step thermochemically activated biochar** (2025)
-   13 citations · Biochar
+   15 citations · Biochar
 
 2. **Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials: Investigation into Engineering Performance and Resistance Against Acid Attack** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

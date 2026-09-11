@@ -1,7 +1,7 @@
 ---
 title: "Jannis Florian Carstens"
 description: "Jannis Florian Carstens is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.977074
+date: 2026-09-11T02:38:29.902118
 url: "/cdr-researcher-census/researchers/jannis-florian-carstens-a5009480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 205 |
+| Citations | 217 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Role of Fe(II) Minerals in Carbon Stabilization in Coastal and Estuarine Anoxic Environments** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

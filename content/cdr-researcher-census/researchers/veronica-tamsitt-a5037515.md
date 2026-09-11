@@ -1,7 +1,7 @@
 ---
 title: "Veronica Tamsitt"
 description: "Veronica Tamsitt is a Mid-career Ocean CDR researcher at CSIRO in AU. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.238128
+date: 2026-09-11T02:38:29.188429
 url: "/cdr-researcher-census/researchers/veronica-tamsitt-a5037515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,336 |
+| Citations | 1,369 |
 | Publications | 62 |
 | CDR Focus | 9.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration** (2022)
-   170 citations · General CDR
+   180 citations · General CDR
 
 2. **Potential negative effects of ocean afforestation on offshore ecosystems** (2022)
-   82 citations · Ocean CDR
+   83 citations · Ocean CDR
 
 3. **Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean** (2023)
    15 citations · General CDR

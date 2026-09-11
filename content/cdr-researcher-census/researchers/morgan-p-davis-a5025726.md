@@ -1,7 +1,7 @@
 ---
 title: "Morgan P. Davis"
-description: "Morgan P. Davis is a Mid-career Soil Carbon researcher at Missouri Department of Natural Resources in US. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693288
+description: "Morgan P. Davis is a Mid-career Soil Carbon researcher at Missouri Department of Natural Resources in US. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.636584
 url: "/cdr-researcher-census/researchers/morgan-p-davis-a5025726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 335 |
-| Publications | 41 |
-| CDR Focus | 7.3% |
+| Citations | 350 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Trees and grass buffers impact on soil carbon in an agroforestry alleycropping watershed** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Can conservation drainage practices contribute to climate change mitigation?** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Long-term effects of cover crops on soil carbon forms and stocks in no-till corn-soybean rotations in midwest USA** (2026)
    0 citations · Soil Carbon

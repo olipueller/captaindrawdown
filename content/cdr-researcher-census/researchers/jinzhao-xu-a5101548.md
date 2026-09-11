@@ -1,7 +1,7 @@
 ---
 title: "Jinzhao Xu"
 description: "Jinzhao Xu is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.296687
+date: 2026-09-11T02:38:30.211538
 url: "/cdr-researcher-census/researchers/jinzhao-xu-a5101548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 123 |
+| Citations | 135 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-efficient co-removal of copper and zinc by modified biochar derived from tea stalk: Characteristics, adsorption behaviors, and mechanisms** (2023)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

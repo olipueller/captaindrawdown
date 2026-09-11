@@ -1,7 +1,7 @@
 ---
 title: "Kangning Xiong"
-description: "Kangning Xiong is an Early-career Soil Carbon researcher at Guizhou Normal University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.317140
+description: "Kangning Xiong is an Early-career Soil Carbon researcher at Guizhou Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.278743
 url: "/cdr-researcher-census/researchers/kangning-xiong-a5108030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 119 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 122 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evolution and determinants of ecosystem services: insights from South China karst** (2021)
-   87 citations · Soil Carbon
+   88 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Vikram Narayanan Dhamu"
-description: "Vikram Narayanan Dhamu is a Mid-career Soil Carbon researcher at The University of Texas at Dallas in US. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.405357
+description: "Vikram Narayanan Dhamu is a Mid-career Soil Carbon researcher at National Audubon Society in US. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.344420
 url: "/cdr-researcher-census/researchers/vikram-narayanan-dhamu-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vikram-narayanan-dhamu-a5066605/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The University of Texas at Dallas"
+    "name": "National Audubon Society"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9310-3276",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Vikram Narayanan Dhamu**  
-The University of Texas at Dallas · 🇺🇸 US
+National Audubon Society · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 677 |
-| Publications | 72 |
-| CDR Focus | 6.9% |
+| h-index | 15 |
+| Citations | 720 |
+| Publications | 76 |
+| CDR Focus | 6.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **ASSERT: A Platform Technology for Rapid Electrochemical Sensing of Soil Ammonium** (2024)
-   9 citations
+   10 citations
 
 3. **Electrochemical framework for dynamic tracking of Soil Organic Matter** (2024)
    8 citations · General CDR

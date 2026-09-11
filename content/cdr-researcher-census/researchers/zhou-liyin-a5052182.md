@@ -1,7 +1,7 @@
 ---
 title: "Zhou Liyin"
 description: "Zhou Liyin is a Mid-career Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.329192
+date: 2026-09-11T02:38:30.295391
 url: "/cdr-researcher-census/researchers/zhou-liyin-a5052182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 117 |
+| Citations | 119 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

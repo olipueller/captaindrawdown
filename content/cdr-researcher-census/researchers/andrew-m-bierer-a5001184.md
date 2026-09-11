@@ -1,7 +1,7 @@
 ---
 title: "Andrew M. Bierer"
-description: "Andrew M. Bierer is a Mid-career Soil Carbon researcher at Appalachian Fruit Research Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.342728
+description: "Andrew M. Bierer is a Mid-career Soil Carbon researcher at Appalachian Fruit Research Laboratory in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.298823
 url: "/cdr-researcher-census/researchers/andrew-m-bierer-a5001184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 114 |
+| h-index | 7 |
+| Citations | 118 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Dynamics in Semi-Arid Irrigated Cropping Systems** (2021)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

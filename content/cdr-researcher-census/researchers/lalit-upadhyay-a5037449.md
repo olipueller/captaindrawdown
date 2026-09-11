@@ -1,7 +1,7 @@
 ---
 title: "Lalit Upadhyay"
-description: "Lalit Upadhyay is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 45 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.283053
+description: "Lalit Upadhyay is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.159291
 url: "/cdr-researcher-census/researchers/lalit-upadhyay-a5037449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 125 |
-| Publications | 45 |
-| CDR Focus | 20.0% |
+| Citations | 146 |
+| Publications | 46 |
+| CDR Focus | 19.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Agroforestry and Its Potential for Sustainable Land Management and Climate Action: A Review** (2023)
-   28 citations · General CDR
+   32 citations · General CDR
 
 2. **Agroforestry Practices and Their Impact on Soil Health and Fertility: A Review** (2024)
    16 citations · General CDR
 
 3. **Agroforestry Practices as a Keystone for Biodiversity Conservation: A Review** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **A Review on Exploring Carbon Farming as a Strategy to Mitigate Greenhouse Gas Emissions** (2023)
    9 citations · General CDR
 
-5. **Assessing the Role of Regenerative Practices in Enhancing Soil Carbon Sequestration in Farmlands: A Review** (2025)
-   2 citations · General CDR
+5. **A Review on Agroforestry Practices for Biodiversity Restoration and Ecosystem Resilience** (2026)
+   3 citations · Soil Carbon
 
-6. **A Review on Agroforestry Practices for Biodiversity Restoration and Ecosystem Resilience** (2026)
-   1 citations · Soil Carbon
+6. **Assessing the Role of Regenerative Practices in Enhancing Soil Carbon Sequestration in Farmlands: A Review** (2025)
+   2 citations · General CDR
 
 7. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
    1 citations · Soil Carbon

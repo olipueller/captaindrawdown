@@ -1,7 +1,7 @@
 ---
 title: "Narjes Abbasabadi"
-description: "Narjes Abbasabadi is a Mid-career DAC researcher at University of Washington in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423607
+description: "Narjes Abbasabadi is a Mid-career DAC researcher at University of Washington in US. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.369955
 url: "/cdr-researcher-census/researchers/narjes-abbasabadi-a5015126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 638 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 665 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

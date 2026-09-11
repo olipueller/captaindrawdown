@@ -1,7 +1,7 @@
 ---
 title: "Kaiwen Cao"
-description: "Kaiwen Cao is a Mid-career Biochar researcher at Nanchang Hangkong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.835334
+description: "Kaiwen Cao is a Mid-career Biochar researcher at Tianjin Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.798847
 url: "/cdr-researcher-census/researchers/kaiwen-cao-a5010587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kaiwen-cao-a5010587/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanchang Hangkong University"
+    "name": "Tianjin Normal University"
   },
   "sameAs": "https://openalex.org/A5010587419"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Kaiwen Cao**  
-Nanchang Hangkong University · 🇨🇳 CN
+Tianjin Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 254 |
+| Citations | 259 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced peroxymonosulfate activation by biogenic iron-manganese oxide on biochar: Singlet oxygen generation and synergistic mechanism** (2024)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Enhanced Persulfate Activation by Biogenic Iron-Manganese Oxide on Biochar: Singlet Oxygen Generation and Synergistic Mechanism** (2024)
    0 citations · Biochar

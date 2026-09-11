@@ -1,7 +1,7 @@
 ---
 title: "Katarina Elofsson"
 description: "Katarina Elofsson is a Senior Soil Carbon researcher at Aarhus University in DK. With 116 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.238705
+date: 2026-09-11T02:38:29.190959
 url: "/cdr-researcher-census/researchers/katarina-elofsson-a5045434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,334 |
+| Citations | 1,353 |
 | Publications | 116 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,19 +54,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · General CDR
 
 2. **Practice- or results-based subsidies: balancing the direct costs for soil carbon sequestration and transaction costs for farmers and monitoring agencies** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Cost-effective Carbon Sequestration in Agricultural Soils in the EU From 2020 to 2050** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
-4. **Potential of crop residues management for soil organic carbon sequestration in European countries until 2050: a simplified modelling approach** (2025)
-   0 citations · General CDR
+4. **The role of transaction costs for the optimal supply of carbon sequestration from cover crops in Denmark** (2025)
+   1 citations · General CDR
 
-5. **Economically efficient economic instruments for increased use of biochar on agricultural land** (2024)
+5. **MRV financing under EU carbon farming governance: a review** (2026)
+   0 citations · Soil Carbon
+
+6. **Spatio-temporal dynamics of biochar application as a climate tool in European agriculture: Economic insights** (2026)
    0 citations · Biochar
 
-6. **The role of transaction costs for the optimal supply of carbon sequestration from cover crops in Denmark** (2025)
+7. **Potential of crop residues management for soil organic carbon sequestration in European countries until 2050: a simplified modelling approach** (2025)
    0 citations · General CDR
+
+8. **Economically efficient economic instruments for increased use of biochar on agricultural land** (2024)
+   0 citations · Biochar
 
 ## External Profiles
 

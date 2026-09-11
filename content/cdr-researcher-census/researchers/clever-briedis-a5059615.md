@@ -1,7 +1,7 @@
 ---
 title: "Cléver Briedis"
-description: "Cléver Briedis is a Senior Soil Carbon researcher at Federal University of Viçosa in BR. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.179390
+description: "Cléver Briedis is a Senior Soil Carbon researcher at Federal University of Viçosa in BR. With 76 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.129471
 url: "/cdr-researcher-census/researchers/clever-briedis-a5059615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,938 |
-| Publications | 73 |
-| CDR Focus | 8.2% |
+| Citations | 1,969 |
+| Publications | 76 |
+| CDR Focus | 7.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Mechanical and biological chiseling impacts on soil organic C stocks, root growth, and crop yield in a long-term no-till system** (2021)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Preservation of labile organic compounds is the pathway for carbon storage in a 23-year continuous no-till system on a Ferralsol in southern Brazil** (2023)
    15 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 4. **Quantity, quality and physical protection of soil carbon associated with sugarcane straw removal in southern Brazil** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   9 citations
+   10 citations
 
 6. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon

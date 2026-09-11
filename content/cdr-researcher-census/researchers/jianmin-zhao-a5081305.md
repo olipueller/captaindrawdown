@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Zhao"
 description: "Jianmin Zhao is a Senior Ocean CDR researcher at Jiangsu University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.455212
+date: 2026-09-11T02:38:29.406740
 url: "/cdr-researcher-census/researchers/jianmin-zhao-a5081305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 583 |
+| Citations | 597 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    19 citations · Enhanced Weathering
 
 2. **Gut microbial community plasticity as a climate shield mediating sea cucumber resilience to ocean acidification and warming** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

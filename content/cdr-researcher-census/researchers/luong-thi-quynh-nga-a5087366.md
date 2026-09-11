@@ -1,7 +1,7 @@
 ---
 title: "Luong Thị Quynh Nga"
 description: "Luong Thị Quynh Nga is an Early-career Biochar researcher at Thai Nguyen University in VN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.315280
+date: 2026-09-11T02:38:30.251930
 url: "/cdr-researcher-census/researchers/luong-thi-quynh-nga-a5087366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 119 |
+| Citations | 127 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Pritpal Singh"
 description: "Pritpal Singh is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 190 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.109701
+date: 2026-09-11T02:38:29.059177
 url: "/cdr-researcher-census/researchers/pritpal-singh-a5011899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 4,115 |
+| Citations | 4,219 |
 | Publications | 190 |
 | CDR Focus | 5.3% |
 | Trajectory | Declining |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice–wheat system in the northwest Indo-Gangetic plains of South Asia: issues and technological interventions for increasing productivity and sustainability** (2021)
-   199 citations · Soil Carbon
+   202 citations · Soil Carbon
 
 2. **Structural Stability and Organic Matter Stabilization in Soils: Differential Impacts of Soil Salinity and Sodicity** (2023)
-   46 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Landscape position and slope aspects impacts on soil organic carbon pool and biological indicators of a fragile ecosystem in high-altitude cold arid region** (2022)
    28 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · General CDR
 
 9. **Bacterial diversity and enzymatic activities in poplar chronosequence: Implications for soil carbon dynamics in a semi-arid ecosystem** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 10. **Crop Production and Soil Management Interventions for Increased Organic Carbon Sequestration in Soils** (2023)
    5 citations · Soil Carbon

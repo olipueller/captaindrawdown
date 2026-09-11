@@ -1,7 +1,7 @@
 ---
 title: "Inga Block"
 description: "Inga Block is a Senior Biochar researcher at University of Potsdam in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.096566
+date: 2026-09-11T02:38:30.037897
 url: "/cdr-researcher-census/researchers/inga-block-a5032112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 168 |
+| Citations | 178 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving Spent Coffee Biochar for Effective Organic Contaminant Removal from Aqueous Media** (2025)
-   11 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

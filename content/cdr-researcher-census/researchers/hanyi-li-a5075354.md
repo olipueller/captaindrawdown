@@ -1,7 +1,7 @@
 ---
 title: "Hanyi Li"
-description: "Hanyi Li is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.564143
+description: "Hanyi Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.511605
 url: "/cdr-researcher-census/researchers/hanyi-li-a5075354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanyi-li-a5075354/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xiamen University"
+    "name": "Kunming University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8024-1557",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hanyi Li**  
-Xiamen University · 🇨🇳 CN
+Kunming University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 442 |
-| Publications | 29 |
-| CDR Focus | 13.8% |
+| Citations | 456 |
+| Publications | 32 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Spatial heterogeneity in chemical composition and stability of glomalin-related soil protein in the coastal wetlands** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Enhanced Cr(VI) stabilization by terrestrial-derived soil protein: Photoelectrochemical properties and reduction mechanisms** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Network architecture across trophic levels governs ecosystem multifunctionality in subtropical riparian soils** (2026)
    0 citations

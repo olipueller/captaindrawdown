@@ -1,7 +1,7 @@
 ---
 title: "Zexian Gu"
-description: "Zexian Gu is a Mid-career General CDR researcher at Yunnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.845916
+description: "Zexian Gu is a Mid-career General CDR researcher at Yunnan University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.774361
 url: "/cdr-researcher-census/researchers/zexian-gu-a5101014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 249 |
+| h-index | 8 |
+| Citations | 271 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   89 citations
+   93 citations
 
 2. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
    4 citations · General CDR

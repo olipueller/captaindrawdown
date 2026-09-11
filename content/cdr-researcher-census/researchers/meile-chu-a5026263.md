@@ -1,7 +1,7 @@
 ---
 title: "Meile Chu"
-description: "Meile Chu is a Mid-career Biochar researcher at Henan Academy of Sciences in CN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.292431
+description: "Meile Chu is a Mid-career Biochar researcher at Henan Academy of Sciences in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.238654
 url: "/cdr-researcher-census/researchers/meile-chu-a5026263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,028 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 1,064 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

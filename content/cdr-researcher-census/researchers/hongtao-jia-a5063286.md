@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Jia"
 description: "Hongtao Jia is a Senior Soil Carbon researcher at College of Grassland and Environment Science, Xinjiang Agricultural University in CN. With 81 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.184604
+date: 2026-09-11T02:38:29.132908
 url: "/cdr-researcher-census/researchers/hongtao-jia-a5063286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,854 |
+| Citations | 1,918 |
 | Publications | 81 |
 | CDR Focus | 7.4% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Abundances of agricultural microplastics and their contribution to the soil organic carbon pool in plastic film mulching fields of Xinjiang, China** (2023)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
    29 citations · Soil Carbon
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 4. **Soil bacteria mediate organic carbon stability during alpine wetland biogeomorphic succession in the arid region of Central Asia** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 5. **Biochar Aged for Five Years Altered Carbon Fractions and Enzyme Activities of Sandy Soil** (2023)
    13 citations · Biochar
 
 6. **Microbial community assembly mediated by soil organic carbon stability in aggregates under long-term enclosure alpine meadows** (2026)
-   0 citations
+   1 citations
 
 7. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
    0 citations · Soil Carbon

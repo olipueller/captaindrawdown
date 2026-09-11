@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Medeiros Abrahão"
-description: "Gabriel Medeiros Abrahão is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung (PIK) e V in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.296348
+description: "Gabriel Medeiros Abrahão is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung (PIK) e V in DE. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.242044
 url: "/cdr-researcher-census/researchers/gabriel-medeiros-abrahao-a5045992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 1,010 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 14 |
+| Citations | 1,049 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   13 citations · General CDR
+   15 citations · General CDR
 
 2. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
    1 citations

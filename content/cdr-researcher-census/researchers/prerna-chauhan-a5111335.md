@@ -1,7 +1,7 @@
 ---
 title: "Prerna Chauhan"
-description: "Prerna Chauhan is an Early-career Biochar researcher at M.J.P. Rohilkhand University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.380452
+description: "Prerna Chauhan is an Early-career Biochar researcher at Chandigarh University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.240993
 url: "/cdr-researcher-census/researchers/prerna-chauhan-a5111335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prerna-chauhan-a5111335/",
   "affiliation": {
     "@type": "Organization",
-    "name": "M.J.P. Rohilkhand University"
+    "name": "Chandigarh University"
   },
   "sameAs": [
     "https://orcid.org/0009-0006-0509-8336",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Prerna Chauhan**  
-M.J.P. Rohilkhand University · 🇮🇳 IN
+Chandigarh University · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 107 |
+| Citations | 129 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive heavy metal remediation mechanisms with insights into CRISPR-Cas9 and biochar innovations** (2025)
-   10 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

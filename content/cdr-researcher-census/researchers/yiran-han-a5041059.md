@@ -1,7 +1,7 @@
 ---
 title: "Yiran Han"
-description: "Yiran Han is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.009844
+description: "Yiran Han is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.973983
 url: "/cdr-researcher-census/researchers/yiran-han-a5041059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yiran-han-a5041059/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Wuhan University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5041059352"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yiran Han**  
-Wuhan University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 194 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 198 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

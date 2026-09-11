@@ -1,7 +1,7 @@
 ---
 title: "Liangxiao Sun"
-description: "Liangxiao Sun is a Mid-career Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.247393
+description: "Liangxiao Sun is a Mid-career Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.200779
 url: "/cdr-researcher-census/researchers/liangxiao-sun-a5103094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 132 |
+| h-index | 8 |
+| Citations | 137 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The spatiotemporal patterns and climate impacts of the carbon dynamics in economically developed areas of China during the past 40 years: A case of Jiangsu Province** (2024)
-   10 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

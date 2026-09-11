@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Liu"
-description: "Jingtao Liu is a Mid-career Soil Carbon researcher at Binzhou University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.057734
+description: "Jingtao Liu is a Mid-career Soil Carbon researcher at Shandong University of Aeronautics in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.007122
 url: "/cdr-researcher-census/researchers/jingtao-liu-a5100752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingtao-liu-a5100752/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Binzhou University"
+    "name": "Shandong University of Aeronautics"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2973-4900",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jingtao Liu**  
-Binzhou University · 🇨🇳 CN
+Shandong University of Aeronautics · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 188 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

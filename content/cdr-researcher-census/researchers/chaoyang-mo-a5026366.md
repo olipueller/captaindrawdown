@@ -1,7 +1,7 @@
 ---
 title: "Chaoyang Mo"
 description: "Chaoyang Mo is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.847844
+date: 2026-09-11T02:38:29.807497
 url: "/cdr-researcher-census/researchers/chaoyang-mo-a5026366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 248 |
+| Citations | 255 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "D. Barisano"
-description: "D. Barisano is a Senior BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.468771
+description: "D. Barisano is a Senior BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.425292
 url: "/cdr-researcher-census/researchers/d-barisano-a5003105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 562 |
+| h-index | 11 |
+| Citations | 571 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |

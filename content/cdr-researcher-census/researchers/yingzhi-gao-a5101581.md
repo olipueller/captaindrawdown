@@ -1,7 +1,7 @@
 ---
 title: "Yingzhi Gao"
-description: "Yingzhi Gao is a Senior Soil Carbon researcher at Jilin University in CN. With 26 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.277097
+description: "Yingzhi Gao is a Senior Soil Carbon researcher at Jilin University in CN. With 25 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.232446
 url: "/cdr-researcher-census/researchers/yingzhi-gao-a5101581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,106 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 16 |
+| Citations | 1,097 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Georgia C.A. French"
-description: "Georgia C.A. French is a Mid-career Ocean CDR researcher at Bournemouth University in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.844728
+description: "Georgia C.A. French is a Mid-career Ocean CDR researcher at University of Sussex in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.108210
 url: "/cdr-researcher-census/researchers/georgia-ca-french-a5077123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/georgia-ca-french-a5077123/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bournemouth University"
+    "name": "University of Sussex"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4163-8786",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Georgia C.A. French**  
-Bournemouth University · 🇬🇧 GB
+University of Sussex · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 249 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| h-index | 3 |
+| Citations | 158 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

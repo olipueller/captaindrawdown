@@ -1,7 +1,7 @@
 ---
 title: "Sulaimon Basiru"
-description: "Sulaimon Basiru is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.649494
+description: "Sulaimon Basiru is a Mid-career Soil Carbon researcher at Université Mohammed VI Polytechnique in MA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.585487
 url: "/cdr-researcher-census/researchers/sulaimon-basiru-a5004287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 366 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 389 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Disentangling arbuscular mycorrhizal fungi and bacteria at the soil-root interface** (2023)
-   74 citations
+   76 citations
 
 2. **Trade-off between soil organic carbon sequestration and plant nutrient uptake in arbuscular mycorrhizal symbiosis** (2024)
-   36 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

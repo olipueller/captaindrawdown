@@ -1,7 +1,7 @@
 ---
 title: "Paola Celli"
-description: "Paola Celli is a Senior General CDR researcher at Policlinico Umberto I in IT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.296497
+description: "Paola Celli is a Senior General CDR researcher at Policlinico Umberto I in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.270939
 url: "/cdr-researcher-census/researchers/paola-celli-a5088013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 123 |
+| h-index | 7 |
+| Citations | 124 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

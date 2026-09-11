@@ -1,7 +1,7 @@
 ---
 title: "Francielle Carvalho"
 description: "Francielle Carvalho is a Mid-career General CDR researcher at University Hospital Heidelberg in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.726098
+date: 2026-09-11T02:38:29.679186
 url: "/cdr-researcher-census/researchers/francielle-carvalho-a5031780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 312 |
+| Citations | 320 |
 | Publications | 18 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
-   22 citations · General CDR
+   24 citations · General CDR
 
 2. **The potential of biomass** (2023)
    3 citations · BECCS

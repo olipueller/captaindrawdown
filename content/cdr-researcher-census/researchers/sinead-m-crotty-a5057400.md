@@ -1,7 +1,7 @@
 ---
 title: "Sinéad M. Crotty"
 description: "Sinéad M. Crotty is a Mid-career General CDR researcher at Yale University in US. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.441939
+date: 2026-09-11T02:38:29.428203
 url: "/cdr-researcher-census/researchers/sinead-m-crotty-a5057400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 607 |
+| Citations | 567 |
 | Publications | 33 |
-| CDR Focus | 6.1% |
-| Trajectory | Stable |
+| CDR Focus | 9.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Nonenergy Biomass Carbon Removal and Storage (BiCRS): Assessing Durability of Nongaseous Carbon Products Across Terrestrial Storage Fates** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
+
+3. **Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

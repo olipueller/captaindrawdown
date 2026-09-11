@@ -1,7 +1,7 @@
 ---
 title: "Yingcui Yu"
 description: "Yingcui Yu is a Mid-career Biochar researcher at Hebei Medical University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.261052
+date: 2026-09-11T02:38:30.219314
 url: "/cdr-researcher-census/researchers/yingcui-yu-a5104089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 129 |
+| Citations | 133 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of different aging treatments on the transport of nano-biochar in saturated porous media** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

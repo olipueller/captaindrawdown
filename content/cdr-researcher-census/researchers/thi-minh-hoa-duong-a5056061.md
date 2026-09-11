@@ -1,7 +1,7 @@
 ---
 title: "Thi Minh Hoa Duong"
-description: "Thi Minh Hoa Duong is a Mid-career Biochar researcher at Thai Nguyen University of Agriculture and Forestry in VN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398053
+description: "Thi Minh Hoa Duong is a Mid-career Biochar researcher at Agriculture and Forestry University in NP. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.367589
 url: "/cdr-researcher-census/researchers/thi-minh-hoa-duong-a5056061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thi-minh-hoa-duong-a5056061/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Thai Nguyen University of Agriculture and Forestry"
+    "name": "Agriculture and Forestry University"
   },
   "sameAs": "https://openalex.org/A5056061584"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Thi Minh Hoa Duong**  
-Thai Nguyen University of Agriculture and Forestry · 🇻🇳 VN
+Agriculture and Forestry University ·  NP
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 104 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 105 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

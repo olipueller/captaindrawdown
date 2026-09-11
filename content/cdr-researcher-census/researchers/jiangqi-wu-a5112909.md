@@ -1,7 +1,7 @@
 ---
 title: "Jiangqi Wu"
-description: "Jiangqi Wu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.338542
+description: "Jiangqi Wu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.271797
 url: "/cdr-researcher-census/researchers/jiangqi-wu-a5112909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 850 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| h-index | 18 |
+| Citations | 928 |
+| Publications | 38 |
+| CDR Focus | 7.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of extreme rainfall frequency on soil organic carbon fractions and carbon pool in a wet meadow on the Qinghai-Tibet Plateau** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Soil nitrogen and carbon storages and carbon pool management index under sustainable conservation tillage strategy** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Seasonal freeze-thaw characteristics of soil carbon pools under different vegetation restoration types on the Longzhong Loess Plateau** (2022)
    19 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shihua Zhu"
-description: "Shihua Zhu is a Senior Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.724196
+description: "Shihua Zhu is a Senior Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.678682
 url: "/cdr-researcher-census/researchers/shihua-zhu-a5011901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 314 |
+| h-index | 10 |
+| Citations | 321 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The spatiotemporal patterns and climate impacts of the carbon dynamics in economically developed areas of China during the past 40 years: A case of Jiangsu Province** (2024)
-   10 citations · General CDR
+   12 citations · General CDR
 
 2. **Complex climatic, CO2, and grazing controls on the net primary productivity and carbon stocks in grasslands of the Tibetan Plateau** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Tom J. Drinan"
 description: "Tom J. Drinan is a Mid-career General CDR researcher at University of Limerick in IE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.167129
+date: 2026-09-11T02:38:30.132545
 url: "/cdr-researcher-census/researchers/tom-j-drinan-a5053900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 150 |
+| Citations | 153 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

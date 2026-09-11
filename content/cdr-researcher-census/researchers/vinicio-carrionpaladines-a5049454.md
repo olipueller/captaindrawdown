@@ -1,7 +1,7 @@
 ---
 title: "Vinicio Carrión‐Paladines"
 description: "Vinicio Carrión‐Paladines is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.157717
+date: 2026-09-11T02:38:30.098557
 url: "/cdr-researcher-census/researchers/vinicio-carrionpaladines-a5049454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 152 |
+| Citations | 161 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Low-Severity Fire on Soil Physico-Chemical Properties in an Andean Páramo in Southern Ecuador** (2023)
-   11 citations
+   12 citations
 
 2. **Conversion of Andean montane forest to exotic forest plantation modifies soil physicochemical properties in the buffer zone of Ecuador's Podocarpus National Park** (2022)
    9 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Wei Qiang"
-description: "Wei Qiang is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.599241
+description: "Wei Qiang is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.528338
 url: "/cdr-researcher-census/researchers/wei-qiang-a5032007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 408 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 440 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   214 citations · Soil Carbon
+   219 citations · Soil Carbon
 
 ## External Profiles
 

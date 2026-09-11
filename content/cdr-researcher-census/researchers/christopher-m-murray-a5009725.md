@@ -1,7 +1,7 @@
 ---
 title: "Christopher M. Murray"
 description: "Christopher M. Murray is a Senior Ocean CDR researcher. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.359742
+date: 2026-09-11T02:38:29.311116
 url: "/cdr-researcher-census/researchers/christopher-m-murray-a5009725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 788 |
+| Citations | 804 |
 | Publications | 69 |
-| CDR Focus | 5.8% |
+| CDR Focus | 7.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,11 +51,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
    2 citations · General CDR
 
-3. **American alligators (Alligator mississippiensis) as wetland ecosystem carbon stock regulators** (2025)
-   1 citations · Soil Carbon
+3. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
+   1 citations · Ocean CDR
 
-4. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+4. **American alligators (Alligator mississippiensis) as wetland ecosystem carbon stock regulators** (2025)
+   1 citations · Soil Carbon
 
 5. **Comment on egusphere-2026-1597** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Haixiang Gao"
 description: "Haixiang Gao is a Senior Soil Carbon researcher at China Agricultural University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.308009
+date: 2026-09-11T02:38:29.261378
 url: "/cdr-researcher-census/researchers/haixiang-gao-a5103064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 961 |
+| Citations | 974 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **The Accumulation of Plant- and Microbial-Derived Carbon and its Contribution to Soil Organic Carbon in Saline-Sodic Farmland** (2024)
    0 citations · Soil Carbon

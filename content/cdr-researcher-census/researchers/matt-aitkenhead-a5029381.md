@@ -1,7 +1,7 @@
 ---
 title: "Matt Aitkenhead"
-description: "Matt Aitkenhead is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 125 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.113374
+description: "Matt Aitkenhead is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 124 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.062602
 url: "/cdr-researcher-census/researchers/matt-aitkenhead-a5029381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,903 |
-| Publications | 125 |
-| CDR Focus | 7.2% |
+| Citations | 3,981 |
+| Publications | 124 |
+| CDR Focus | 7.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Optimal sampling using Conditioned Latin Hypercube for digital soil mapping: An approach using Bhattacharyya distance** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Factors influencing winegrowers’ adoption of soil organic carbon sequestration practices in France** (2021)
    15 citations · General CDR

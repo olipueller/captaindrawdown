@@ -1,7 +1,7 @@
 ---
 title: "Krishan Lal Gautam"
-description: "Krishan Lal Gautam is an Early-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 24 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.412183
+description: "Krishan Lal Gautam is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.279034
 url: "/cdr-researcher-census/researchers/krishan-lal-gautam-a5087771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Krishan Lal Gautam**  
 Dr. Yashwant Singh Parmar University of Horticulture and Forestry · 🇮🇳 IN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 102 |
+| h-index | 5 |
+| Citations | 122 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Altitude-driven changes in carbon storage, soil properties, and leaf nutritional value of Quercus semecarpifolia in the northwestern Himalayas** (2025)
-   2 citations · Soil Carbon
+1. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
+   3 citations · General CDR
 
-2. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
-   1 citations · General CDR
+2. **Altitude-driven changes in carbon storage, soil properties, and leaf nutritional value of Quercus semecarpifolia in the northwestern Himalayas** (2025)
+   2 citations · Soil Carbon
 
 3. **Comparative Assessment of Inorganic Fertilizer and Farm Yard Manure Application on Yield, Sustainable Yield Index and Soil Physico-Chemical Properties in Cauliflower-Capsicum Cropping Sequence in Northern- Western Himalayas** (2024)
    1 citations · Soil Carbon

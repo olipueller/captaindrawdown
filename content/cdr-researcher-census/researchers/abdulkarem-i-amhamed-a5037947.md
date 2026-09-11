@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
-description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Qatar Environment and Energy Research Institute in QA. With 73 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.175010
+description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Qatar Environment and Energy Research Institute in QA. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.118919
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 2,005 |
-| Publications | 73 |
-| CDR Focus | 11.0% |
+| h-index | 24 |
+| Citations | 2,138 |
+| Publications | 74 |
+| CDR Focus | 12.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>** (2022)
-   263 citations · DAC
+   276 citations · DAC
 
 2. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   109 citations · DAC
+   111 citations · DAC
 
 3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   48 citations
+   52 citations
 
 4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
-   36 citations · DAC
+   39 citations · DAC
 
 5. **Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses** (2025)
-   16 citations · DAC
+   17 citations · DAC
 
-6. **Preliminary Design and Analysis of a Photovoltaic-Powered Direct Air Capture System for a Residential Building** (2023)
-   4 citations
+6. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
+   6 citations
 
-7. **Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment** (2025)
-   3 citations · DAC
+7. **Preliminary Design and Analysis of a Photovoltaic-Powered Direct Air Capture System for a Residential Building** (2023)
+   5 citations
 
-8. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
-   3 citations
+8. **Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System** (2025)
+   4 citations · DAC
 
-9. **Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System** (2025)
+9. **Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment** (2025)
    3 citations · DAC
 
 10. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
-   2 citations
+   3 citations
 
 ## External Profiles
 

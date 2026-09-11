@@ -1,7 +1,7 @@
 ---
 title: "R. Manivannan"
-description: "R. Manivannan is a Mid-career Soil Carbon researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311272
+description: "R. Manivannan is a Mid-career Soil Carbon researcher at Indian Institute of Oilseeds Research in IN. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.368628
 url: "/cdr-researcher-census/researchers/r-manivannan-a5037032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/r-manivannan-a5037032/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology"
+    "name": "Indian Institute of Oilseeds Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6677-0142",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **R. Manivannan**  
-Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology · 🇮🇳 IN
+Indian Institute of Oilseeds Research · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 120 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| h-index | 5 |
+| Citations | 105 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Integrated nutrient management - promising way to reduce carbon dioxide and methane emission in flooded rice ecosystem: A review** (2021)
-   5 citations · General CDR
+1. **Carbon Sequestration in Low Land Paddy Soils: Effect of Certain Cultural and Nutrient Management Practices: A Review** (2023)
+   5 citations · Soil Carbon
 
-2. **Carbon Sequestration in Low Land Paddy Soils: Effect of Certain Cultural and Nutrient Management Practices: A Review** (2023)
-   4 citations · Soil Carbon
+2. **Integrated nutrient management - promising way to reduce carbon dioxide and methane emission in flooded rice ecosystem: A review** (2021)
+   5 citations · General CDR
 
 ## External Profiles
 

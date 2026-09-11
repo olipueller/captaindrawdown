@@ -1,7 +1,7 @@
 ---
 title: "Qingwen Zhang"
 description: "Qingwen Zhang is a Senior Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.282217
+date: 2026-09-11T02:38:29.227716
 url: "/cdr-researcher-census/researchers/qingwen-zhang-a5044551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,080 |
+| Citations | 1,122 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Growing |
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 2. **Organic amendments alleviate SOC loss from erosion-prone sloping farmland by enhancing physical protection and chemical stabilization** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Competitive equilibrium between carbon loss and sequestration driven by erosion: Stratified responses of microbial metabolism and mineral protection** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

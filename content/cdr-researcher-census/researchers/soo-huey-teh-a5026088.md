@@ -1,7 +1,7 @@
 ---
 title: "Soo Huey Teh"
 description: "Soo Huey Teh is a Mid-career General CDR researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.383959
+date: 2026-09-11T02:38:29.337037
 url: "/cdr-researcher-census/researchers/soo-huey-teh-a5026088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 723 |
+| Citations | 738 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Arpit Goyal"
-description: "Arpit Goyal is a Mid-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.550632
+description: "Arpit Goyal is a Mid-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.488419
 url: "/cdr-researcher-census/researchers/arpit-goyal-a5036533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 456 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| Citations | 481 |
+| Publications | 47 |
+| CDR Focus | 8.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

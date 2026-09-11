@@ -1,7 +1,7 @@
 ---
 title: "Lauren Schmitt"
-description: "Lauren Schmitt is a Mid-career Soil Carbon researcher at Kenyon College in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.349255
+description: "Lauren Schmitt is a Mid-career Soil Carbon researcher at Kenyon College in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.293831
 url: "/cdr-researcher-census/researchers/lauren-schmitt-a5091689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 113 |
+| h-index | 7 |
+| Citations | 119 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legacy effects of long‐term autumn leaf litter removal slow decomposition rates and reduce soil carbon in suburban yards** (2024)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shumin Yao"
 description: "Shumin Yao is a Senior Biochar researcher at Qufu Normal University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.778687
+date: 2026-09-11T02:38:29.728247
 url: "/cdr-researcher-census/researchers/shumin-yao-a5101139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 283 |
+| Citations | 294 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced denitrification performance of electrotrophic bio-cathode mediated by biochar and potential microbial mechanism** (2024)
-   16 citations · Biochar
+   19 citations · Biochar
 
 2. **Enhanced effect and mechanism of biochar on the nitrogen removal of low C/N wastewater by cold-tolerant heterotrophic nitrifying–aerobic denitrifying bacterium** (2025)
    3 citations · Biochar

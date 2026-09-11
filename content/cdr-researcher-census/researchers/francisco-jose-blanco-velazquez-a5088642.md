@@ -1,7 +1,7 @@
 ---
 title: "Francisco José Blanco Velázquez"
-description: "Francisco José Blanco Velázquez is a Mid-career Biochar researcher at Aut Even Hospital in IE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.239770
+description: "Francisco José Blanco Velázquez is a Mid-career Biochar researcher at Aut Even Hospital in IE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.199205
 url: "/cdr-researcher-census/researchers/francisco-jose-blanco-velazquez-a5088642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 133 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 137 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

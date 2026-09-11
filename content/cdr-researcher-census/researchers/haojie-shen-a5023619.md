@@ -1,7 +1,7 @@
 ---
 title: "Haojie Shen"
-description: "Haojie Shen is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.433899
+description: "Haojie Shen is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.366207
 url: "/cdr-researcher-census/researchers/haojie-shen-a5023619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 620 |
+| h-index | 13 |
+| Citations | 672 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **General patterns of soil nutrient stoichiometry, microbial metabolic limitation and carbon use efficiency in paddy and vegetable fields along a climatic transect of eastern China** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

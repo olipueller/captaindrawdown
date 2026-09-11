@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
-description: "Jonathan Doelman is an Eminent General CDR researcher at PBL Netherland Environmental Assessment Agency in NL. With 170 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.064895
+description: "Jonathan Doelman is an Eminent General CDR researcher at PBL Netherland Environmental Assessment Agency in NL. With 175 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.017579
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 48 |
-| Citations | 21,364 |
-| Publications | 170 |
-| CDR Focus | 7.6% |
+| Citations | 21,965 |
+| Publications | 175 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   100 citations · General CDR
+   108 citations · General CDR
 
 2. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 3. **Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?** (2024)
    13 citations · General CDR
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · BECCS
 
 6. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   4 citations · BECCS
+   6 citations · BECCS
 
 7. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   4 citations · BECCS
+   6 citations · BECCS
 
 8. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
    3 citations · General CDR

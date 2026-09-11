@@ -1,7 +1,7 @@
 ---
 title: "Hao Yuan"
-description: "Hao Yuan is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.055432
+description: "Hao Yuan is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.020675
 url: "/cdr-researcher-census/researchers/hao-yuan-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hao-yuan-a5115604/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xi'an University of Technology"
+    "name": "Jiangnan University"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-4391-123X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hao Yuan**  
-Xi'an University of Technology · 🇨🇳 CN
+Jiangnan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 181 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 184 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

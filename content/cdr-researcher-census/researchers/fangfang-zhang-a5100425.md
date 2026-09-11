@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Zhang"
-description: "Fangfang Zhang is a Senior Soil Carbon researcher at Luoyang Normal University in CN. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.370753
+description: "Fangfang Zhang is a Senior Soil Carbon researcher at Luoyang Normal University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.316971
 url: "/cdr-researcher-census/researchers/fangfang-zhang-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 757 |
-| Publications | 36 |
-| CDR Focus | 11.1% |
+| Citations | 789 |
+| Publications | 38 |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A three-year record of CO2, CH4 and N2O emissions in maize fields influenced by mulching methods on the Loess Plateau, China** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Long-term film mulching with manure amendment increases crop yield and water productivity but decreases the soil carbon and nitrogen sequestration potential in semiarid farmland** (2022)
    23 citations · Soil Carbon

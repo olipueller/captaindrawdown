@@ -1,7 +1,7 @@
 ---
 title: "Yuankang Xiong"
-description: "Yuankang Xiong is a Mid-career BECCS researcher at Fudan University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317833
+description: "Yuankang Xiong is a Mid-career BECCS researcher at Fudan University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.253487
 url: "/cdr-researcher-census/researchers/yuankang-xiong-a5040268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 921 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 996 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

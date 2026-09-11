@@ -1,7 +1,7 @@
 ---
 title: "Gurmeet Singh Dheri"
 description: "Gurmeet Singh Dheri is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.227163
+date: 2026-09-11T02:38:29.177492
 url: "/cdr-researcher-census/researchers/gurmeet-singh-dheri-a5028235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,414 |
+| Citations | 1,442 |
 | Publications | 62 |
 | CDR Focus | 9.7% |
 | Trajectory | Growing |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on carbon pools and sequestration as influenced by long-term management practices in a rice–wheat cropping system** (2021)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **Soil carbon stocks and water stable aggregates under annual and perennial biofuel crops in central Ohio** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
-3. **Impact of 38-year integrated nutrient management on soil carbon sequestration and greenhouse gas emissions of a rice-wheat cropping system** (2025)
+3. **Management of Saline and Sodic Soils for Carbon Sequestration** (2025)
    9 citations · Soil Carbon
 
-4. **Influence of different management practices on carbon sequestration of agricultural soils – a review** (2022)
-   9 citations · General CDR
+4. **Impact of 38-year integrated nutrient management on soil carbon sequestration and greenhouse gas emissions of a rice-wheat cropping system** (2025)
+   9 citations · Soil Carbon
 
-5. **Management of Saline and Sodic Soils for Carbon Sequestration** (2025)
-   7 citations · Soil Carbon
+5. **Influence of different management practices on carbon sequestration of agricultural soils – a review** (2022)
+   9 citations · General CDR
 
 6. **Depth-dependent responses of carbon fractions and sequestration in a maize-wheat cropping system after 51 years of long-term fertilization** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Qixin Pan"
-description: "Qixin Pan is a Mid-career Biochar researcher at Southwest University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.635875
+description: "Qixin Pan is a Mid-career Biochar researcher at Southwest University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.582897
 url: "/cdr-researcher-census/researchers/qixin-pan-a5007067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 377 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 7 |
+| Citations | 391 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Thiourea-assisted one-step fabrication of a novel nitrogen and sulfur co-doped biochar from nanocellulose as metal-free catalyst for efficient activation of peroxymonosulfate** (2021)
-   142 citations · Biochar
+   143 citations · Biochar
 
 ## External Profiles
 

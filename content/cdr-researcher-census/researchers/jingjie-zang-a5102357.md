@@ -1,7 +1,7 @@
 ---
 title: "Jingjie Zang"
-description: "Jingjie Zang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.708881
+description: "Jingjie Zang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.659075
 url: "/cdr-researcher-census/researchers/jingjie-zang-a5102357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 324 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 10 |
+| Citations | 335 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Archaeal lipids in soils and sediments: Water impact and consequences for microbial carbon sequestration** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

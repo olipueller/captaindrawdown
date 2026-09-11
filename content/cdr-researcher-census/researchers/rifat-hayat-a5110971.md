@@ -1,7 +1,7 @@
 ---
 title: "Rifat Hayat"
 description: "Rifat Hayat is a Senior Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 79 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.104443
+date: 2026-09-11T02:38:29.054164
 url: "/cdr-researcher-census/researchers/rifat-hayat-a5110971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 4,521 |
+| Citations | 4,634 |
 | Publications | 79 |
 | CDR Focus | 6.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    105 citations · Biochar
 
 2. **Biofertilizers in sustainable agriculture: mechanisms, applications, and future prospects** (2025)
-   38 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 3. **Soil carbon and legumes** (2022)
    5 citations · Soil Carbon

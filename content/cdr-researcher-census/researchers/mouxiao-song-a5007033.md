@@ -1,7 +1,7 @@
 ---
 title: "Mouxiao Song"
-description: "Mouxiao Song is a Mid-career Biochar researcher at Kementerian Pendidikan Malaysia in MY. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850778
+description: "Mouxiao Song is a Mid-career Biochar researcher at Sichuan University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.789151
 url: "/cdr-researcher-census/researchers/mouxiao-song-a5007033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mouxiao-song-a5007033/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kementerian Pendidikan Malaysia"
+    "name": "Sichuan University"
   },
   "sameAs": "https://openalex.org/A5007033981"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mouxiao Song**  
-Kementerian Pendidikan Malaysia · 🇲🇾 MY
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 246 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 264 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    1 citations · Biochar
 
 2. **Valorization of penicillin mycelial residue via wet-process phosphoric acid: Nutrient recovery, carbon sequestration, and antibiotic adsorption mechanism** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

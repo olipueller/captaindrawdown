@@ -1,7 +1,7 @@
 ---
 title: "Qizhang Li"
-description: "Qizhang Li is an Early-career DAC researcher at University of Chicago in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.720986
+description: "Qizhang Li is a Mid-career DAC researcher at University of Chicago in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.606898
 url: "/cdr-researcher-census/researchers/qizhang-li-a5089297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Qizhang Li**  
 University of Chicago · 🇺🇸 US
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 315 |
+| h-index | 5 |
+| Citations | 372 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Distributed direct air capture by carbon nanofiber air filters** (2025)
-   11 citations
+   13 citations
 
 2. **Distributed direct air capture by carbon nanofiber air filters** (2025)
    0 citations

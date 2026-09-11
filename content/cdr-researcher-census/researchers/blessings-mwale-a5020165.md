@@ -1,7 +1,7 @@
 ---
 title: "Blessings Mwale"
 description: "Blessings Mwale is a Senior Soil Carbon researcher at Christian Health Association of Malawi in MW. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.792146
+date: 2026-09-11T02:38:29.753338
 url: "/cdr-researcher-census/researchers/blessings-mwale-a5020165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 277 |
+| Citations | 281 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating the merits of climate smart technologies under smallholder agriculture in Malawi** (2021)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

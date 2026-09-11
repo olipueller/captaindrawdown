@@ -1,7 +1,7 @@
 ---
 title: "Hao Wen Zhu"
-description: "Hao Wen Zhu is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.357414
+description: "Hao Wen Zhu is a Mid-career Biochar researcher at Chengdu University of Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.313242
 url: "/cdr-researcher-census/researchers/hao-wen-zhu-a5043504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hao-wen-zhu-a5043504/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Anhui University of Science and Technology"
+    "name": "Chengdu University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7647-3638",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hao Wen Zhu**  
-Anhui University of Science and Technology · 🇨🇳 CN
+Chengdu University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 111 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 115 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

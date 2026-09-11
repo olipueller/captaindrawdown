@@ -1,7 +1,7 @@
 ---
 title: "Mengyang Zhao"
-description: "Mengyang Zhao is a Mid-career Biochar researcher at Hunan University in CN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.364476
+description: "Mengyang Zhao is a Mid-career Biochar researcher at Hunan University in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.302689
 url: "/cdr-researcher-census/researchers/mengyang-zhao-a5101651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 774 |
-| Publications | 50 |
-| CDR Focus | 6.0% |
+| h-index | 15 |
+| Citations | 825 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

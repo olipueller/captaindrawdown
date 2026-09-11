@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Xuan"
-description: "Yingxue Xuan is a Mid-career Biochar researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.558679
+description: "Yingxue Xuan is a Mid-career Biochar researcher at Beijing Botanical Garden in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.505425
 url: "/cdr-researcher-census/researchers/yingxue-xuan-a5004454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yingxue-xuan-a5004454/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)"
+    "name": "Beijing Botanical Garden"
   },
   "sameAs": [
     "https://orcid.org/0009-0002-1236-8323",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yingxue Xuan**  
-Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) · 🇨🇳 CN
+Beijing Botanical Garden · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 447 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| h-index | 10 |
+| Citations | 463 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar** (2021)
-   90 citations · Biochar
+   93 citations · Biochar
 
 2. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
    1 citations · General CDR

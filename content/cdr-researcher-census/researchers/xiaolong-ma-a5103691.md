@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ma"
 description: "Xiaolong Ma is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.024059
+date: 2026-09-11T02:38:29.987651
 url: "/cdr-researcher-census/researchers/xiaolong-ma-a5103691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 190 |
+| Citations | 194 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

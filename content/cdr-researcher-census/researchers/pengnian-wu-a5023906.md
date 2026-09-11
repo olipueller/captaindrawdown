@@ -1,7 +1,7 @@
 ---
 title: "Pengnian Wu"
-description: "Pengnian Wu is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.614392
+description: "Pengnian Wu is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.549767
 url: "/cdr-researcher-census/researchers/pengnian-wu-a5023906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pengnian-wu-a5023906/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan Agricultural University"
+    "name": "Ningxia University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2480-5546",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pengnian Wu**  
-Henan Agricultural University · 🇨🇳 CN
+Ningxia University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 395 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 419 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Does continuous straw returning keep China farmland soil organic carbon continued increase? A meta-analysis** (2021)
-   232 citations · Soil Carbon
+   236 citations · Soil Carbon
 
 2. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   14 citations
+   15 citations
 
 ## External Profiles
 

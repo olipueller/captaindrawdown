@@ -1,7 +1,7 @@
 ---
 title: "Aviv Solodoch"
-description: "Aviv Solodoch is a Senior Ocean CDR researcher at Hebrew University of Jerusalem in IL. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.739321
+description: "Aviv Solodoch is a Senior Ocean CDR researcher at Hebrew University of Jerusalem in IL. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.692362
 url: "/cdr-researcher-census/researchers/aviv-solodoch-a5075783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 304 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| Citations | 312 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Michela Gallo"
-description: "Michela Gallo is a Senior Soil Carbon researcher at University of Genoa in IT. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.186480
+description: "Michela Gallo is a Senior Soil Carbon researcher at University of Genoa in IT. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.136098
 url: "/cdr-researcher-census/researchers/michela-gallo-a5005158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,825 |
+| h-index | 26 |
+| Citations | 1,869 |
 | Publications | 68 |
 | CDR Focus | 7.4% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 3. **From soil carbon towards system sustainability: Integrating SOC modelling and life cycle assessment to evaluate environmental trade-offs in carbon farming** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 4. **Beyond Carbon: Integrating Soil Carbon Modeling and Life Cycle Assessment to Evaluate the Environmental Performance of Carbon Farming** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Fengbo Yu"
-description: "Fengbo Yu is a Mid-career Biochar researcher at Nanchang University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.473275
+description: "Fengbo Yu is a Mid-career Biochar researcher at Nano Carbon (Poland) in PL. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.398660
 url: "/cdr-researcher-census/researchers/fengbo-yu-a5035237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fengbo-yu-a5035237/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanchang University"
+    "name": "Nano Carbon (Poland)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4368-265X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Fengbo Yu**  
-Nanchang University · 🇨🇳 CN
+Nano Carbon (Poland) ·  PL
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 556 |
+| h-index | 14 |
+| Citations | 611 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbothermal reduction synthesis of sulfide-modified biochar for heavy metal removal** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

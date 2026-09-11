@@ -1,7 +1,7 @@
 ---
 title: "Habtamu Hailu"
 description: "Habtamu Hailu is a Mid-career Soil Carbon researcher at Addis Ababa Science and Technology University in ET. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.758662
+date: 2026-09-11T02:38:29.702168
 url: "/cdr-researcher-census/researchers/habtamu-hailu-a5112451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 294 |
+| Citations | 308 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating spatially distributed SOC sequestration potentials of sustainable land management practices in Ethiopia** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

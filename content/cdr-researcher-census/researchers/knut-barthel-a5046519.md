@@ -1,7 +1,7 @@
 ---
 title: "Knut Barthel"
 description: "Knut Barthel is a Senior Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.614865
+date: 2026-09-11T02:38:29.578829
 url: "/cdr-researcher-census/researchers/knut-barthel-a5046519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 394 |
+| Citations | 395 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

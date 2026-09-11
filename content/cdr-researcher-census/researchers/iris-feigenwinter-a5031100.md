@@ -1,7 +1,7 @@
 ---
 title: "Iris Feigenwinter"
-description: "Iris Feigenwinter is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.133819
+description: "Iris Feigenwinter is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.083143
 url: "/cdr-researcher-census/researchers/iris-feigenwinter-a5031100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 2,991 |
-| Publications | 55 |
-| CDR Focus | 7.3% |
-| Trajectory | Stable |
+| Citations | 3,108 |
+| Publications | 60 |
+| CDR Focus | 5.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Net Ecosystem <scp>CO<sub>2</sub></scp> Exchange of a Subalpine Spruce Forest in Switzerland Over 26 Years: Effects of Phenology and Contributions of Abiotic Drivers at Daily Time Scales** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
    3 citations · Soil Carbon
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
    3 citations · General CDR
 
-4. **Greenhouse gas flux measurements from agricultural sites within the Swiss FluxNet network** (2025)
+4. **Forest under stress: responses and recovery of water relations across scales during the compound drought in summer 2022** (2026)
+   0 citations
+
+5. **Greenhouse gas flux measurements from agricultural sites within the Swiss FluxNet network** (2025)
    0 citations · General CDR
 
 ## External Profiles

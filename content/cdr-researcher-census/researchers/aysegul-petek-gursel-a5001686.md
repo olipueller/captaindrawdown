@@ -1,7 +1,7 @@
 ---
 title: "Aysegul Petek Gursel"
 description: "Aysegul Petek Gursel is a Senior Biochar researcher at University of California, Berkeley in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.214415
+date: 2026-09-11T02:38:29.164764
 url: "/cdr-researcher-census/researchers/aysegul-petek-gursel-a5001686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,529 |
+| Citations | 1,561 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Uncertainty in determining carbon dioxide removal potential of biochar** (2024)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Wan Yun Hong"
 description: "Wan Yun Hong is a Mid-career DAC researcher at Universiti Brunei Darussalam in BN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.415768
+date: 2026-09-11T02:38:29.367481
 url: "/cdr-researcher-census/researchers/wan-yun-hong-a5009087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 653 |
+| Citations | 669 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A techno-economic review on carbon capture, utilisation and storage systems for achieving a net-zero CO2 emissions future** (2022)
-   427 citations · DAC
+   434 citations · DAC
 
 ## External Profiles
 

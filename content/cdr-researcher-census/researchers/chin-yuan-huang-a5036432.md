@@ -1,7 +1,7 @@
 ---
 title: "Chin-Yuan Huang"
 description: "Chin-Yuan Huang is a Mid-career Soil Carbon researcher at Chaoyang University of Technology in TW. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.260256
+date: 2026-09-11T02:38:30.233739
 url: "/cdr-researcher-census/researchers/chin-yuan-huang-a5036432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 129 |
+| Citations | 130 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |

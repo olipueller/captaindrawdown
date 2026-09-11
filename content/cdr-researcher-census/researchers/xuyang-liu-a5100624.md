@@ -1,7 +1,7 @@
 ---
 title: "Xuyang Liu"
-description: "Xuyang Liu is a Mid-career Soil Carbon researcher at Institute of Crop Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.380459
+description: "Xuyang Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.322395
 url: "/cdr-researcher-census/researchers/xuyang-liu-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuyang-liu-a5100624/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Crop Sciences"
+    "name": "Chinese Academy of Agricultural Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6735-6413",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuyang Liu**  
-Institute of Crop Sciences · 🇨🇳 CN
+Chinese Academy of Agricultural Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 732 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 779 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
-   1 citations
+   2 citations
 
 4. **Straw, biochar, and silicon-modified biochar regulate soil carbon sequestration through fungal-mediated microaggregation in paddy soils** (2026)
    0 citations · Biochar

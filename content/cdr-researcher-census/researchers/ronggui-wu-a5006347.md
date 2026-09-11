@@ -1,7 +1,7 @@
 ---
 title: "Ronggui Wu"
 description: "Ronggui Wu is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.493308
+date: 2026-09-11T02:38:29.453628
 url: "/cdr-researcher-census/researchers/ronggui-wu-a5006347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 526 |
+| Citations | 527 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

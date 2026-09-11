@@ -1,7 +1,7 @@
 ---
 title: "Fang Ren"
 description: "Fang Ren is a Senior Biochar researcher at Minzu University of China in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.973627
+date: 2026-09-11T02:38:29.910331
 url: "/cdr-researcher-census/researchers/fang-ren-a5004362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 206 |
+| Citations | 214 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of ibuprofen using biomass carbon derived from one-step pyrolysis of ginkgo leaves** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

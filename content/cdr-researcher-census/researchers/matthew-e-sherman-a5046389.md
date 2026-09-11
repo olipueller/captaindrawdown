@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Sherman"
 description: "Matthew E. Sherman is a Senior BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.045755
+date: 2026-09-11T02:38:30.018489
 url: "/cdr-researcher-census/researchers/matthew-e-sherman-a5046389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 183 |
+| Citations | 184 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

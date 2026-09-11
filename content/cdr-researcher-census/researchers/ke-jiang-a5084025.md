@@ -1,7 +1,7 @@
 ---
 title: "Ke Jiang"
-description: "Ke Jiang is a Senior Soil Carbon researcher at Peking University in CN. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287970
+description: "Ke Jiang is a Senior Soil Carbon researcher at Peking University in CN. With 77 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.229643
 url: "/cdr-researcher-census/researchers/ke-jiang-a5084025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,053 |
-| Publications | 76 |
-| CDR Focus | 5.3% |
+| Citations | 1,110 |
+| Publications | 77 |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Changes in soil aggregate stability and aggregate-associated carbon under different slope positions in a karst region of Southwest China** (2024)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review** (2024)
    12 citations · Biochar
 
 3. **Effects of Water-Level Fluctuation on Soil Aggregates and Aggregate-Associated Organic Carbon in the Water-Level Fluctuation Zone of the Three Gorges Reservoir, China** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **[Effects of Land Use Change on Soil Aggregate Stability and Soil Aggregate Organic Carbon in Karst Area of Southwest China].** (2024)
    5 citations · Soil Carbon

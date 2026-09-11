@@ -1,7 +1,7 @@
 ---
 title: "Tom Powell"
-description: "Tom Powell is a Mid-career General CDR researcher at University of Exeter in GB. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.319067
+description: "Tom Powell is a Mid-career General CDR researcher at University of Exeter in GB. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.268784
 url: "/cdr-researcher-census/researchers/tom-powell-a5061867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 914 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 940 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

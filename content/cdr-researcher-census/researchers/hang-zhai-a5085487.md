@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhai"
-description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.466047
+description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.405348
 url: "/cdr-researcher-census/researchers/hang-zhai-a5085487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 566 |
-| Publications | 33 |
-| CDR Focus | 15.2% |
+| h-index | 15 |
+| Citations | 599 |
+| Publications | 34 |
+| CDR Focus | 14.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Direct Air Capture and Sequestration of CO<sub>2</sub> by Accelerated Indirect Aqueous Mineral Carbonation under Ambient Conditions** (2022)
-   49 citations · DAC
+   51 citations · DAC
 
 2. **Enhancing Aqueous Carbonation of Calcium Silicate through Acid and Base Pretreatments with Implications for Efficient Carbon Mineralization** (2023)
-   30 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 3. **Enhancing aqueous carbonation via co-milled serpentine and wollastonite: Effects of mechanochemical activation** (2024)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 4. **Trade-off between soil organic carbon accrual and stability driven by 30 years high-level phosphorus fertilization in paddy rice field** (2026)
    0 citations

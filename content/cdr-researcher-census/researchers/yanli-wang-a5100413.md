@@ -1,7 +1,7 @@
 ---
 title: "Yanli Wang"
 description: "Yanli Wang is a Senior Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.364287
+date: 2026-09-11T02:38:29.311395
 url: "/cdr-researcher-census/researchers/yanli-wang-a5100413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 775 |
+| Citations | 803 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does continuous straw returning keep China farmland soil organic carbon continued increase? A meta-analysis** (2021)
-   232 citations · Soil Carbon
+   236 citations · Soil Carbon
 
 2. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   14 citations
+   15 citations
 
 ## External Profiles
 

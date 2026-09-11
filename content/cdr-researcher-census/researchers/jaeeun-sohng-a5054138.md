@@ -1,7 +1,7 @@
 ---
 title: "Jaeeun Sohng"
 description: "Jaeeun Sohng is a Mid-career Enhanced Weathering researcher at University of California, Davis in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.908412
+date: 2026-09-11T02:38:29.853606
 url: "/cdr-researcher-census/researchers/jaeeun-sohng-a5054138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 222 |
+| Citations | 234 |
 | Publications | 13 |
 | CDR Focus | 46.2% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   36 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 2. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 3. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
    12 citations · Enhanced Weathering

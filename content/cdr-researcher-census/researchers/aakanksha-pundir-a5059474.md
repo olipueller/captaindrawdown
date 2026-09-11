@@ -1,7 +1,7 @@
 ---
 title: "Aakanksha Pundir"
-description: "Aakanksha Pundir is a Mid-career Biochar researcher at Indian Institute of Technology Roorkee in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788601
+description: "Aakanksha Pundir is a Mid-career Biochar researcher at Doon University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.730848
 url: "/cdr-researcher-census/researchers/aakanksha-pundir-a5059474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/aakanksha-pundir-a5059474/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Technology Roorkee"
+    "name": "Doon University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6669-1404",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Aakanksha Pundir**  
-Indian Institute of Technology Roorkee · 🇮🇳 IN
+Doon University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 279 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 293 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **3D printing with stabilized earth: Material development and effect of carbon sequestration on engineering performance** (2024)
-   26 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

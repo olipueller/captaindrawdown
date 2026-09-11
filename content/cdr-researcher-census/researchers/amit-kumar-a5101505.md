@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
-description: "Amit Kumar is an Early-career DAC researcher at Shri Mata Vaishno Devi University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.303514
+description: "Amit Kumar is an Early-career DAC researcher at Shri Mata Vaishno Devi University in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.261393
 url: "/cdr-researcher-census/researchers/amit-kumar-a5101505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 121 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 125 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Azrina Aziz"
 description: "Azrina Aziz is a Mid-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.366933
+date: 2026-09-11T02:38:29.314518
 url: "/cdr-researcher-census/researchers/azrina-aziz-a5101932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 765 |
+| Citations | 794 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    33 citations · Biochar
 
 3. **Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

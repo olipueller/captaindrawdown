@@ -1,7 +1,7 @@
 ---
 title: "Sudhanya Banerjee"
 description: "Sudhanya Banerjee is a Mid-career DAC researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.443285
+date: 2026-09-11T02:38:29.388680
 url: "/cdr-researcher-census/researchers/sudhanya-banerjee-a5041313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 603 |
+| Citations | 628 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
-   28 citations · BECCS
+   30 citations · BECCS
 
 ## External Profiles
 

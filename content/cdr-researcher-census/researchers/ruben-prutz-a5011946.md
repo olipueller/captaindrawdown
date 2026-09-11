@@ -1,7 +1,7 @@
 ---
 title: "Ruben Prütz"
 description: "Ruben Prütz is a Mid-career General CDR researcher at Leibniz Association in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.759562
+date: 2026-09-11T02:38:29.679084
 url: "/cdr-researcher-census/researchers/ruben-prutz-a5011946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 293 |
+| Citations | 320 |
 | Publications | 21 |
 | CDR Focus | 57.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    7 citations
 
 6. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   4 citations · BECCS
+   6 citations · BECCS
 
 7. **A new taxonomy to map evidence on carbon dioxide removal side effects** (2023)
    3 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Imputation of missing land carbon sequestration data in the AR6 Scenarios Database** (2025)
    2 citations · General CDR
 
-9. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   0 citations · BECCS
-
-10. **The impacts of ocean- and land-based Carbon Dioxide Removal on Planetary Boundaries** (2026)
+9. **Mapping conflicts in carbon removal narratives** (2026)
    0 citations · General CDR
+
+10. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

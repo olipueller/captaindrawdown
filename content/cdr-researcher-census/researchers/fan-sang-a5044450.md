@@ -1,7 +1,7 @@
 ---
 title: "Fan Sang"
 description: "Fan Sang is a Mid-career Biochar researcher at State Forestry and Grassland Administration in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056084
+date: 2026-09-11T02:38:30.021515
 url: "/cdr-researcher-census/researchers/fan-sang-a5044450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 180 |
+| Citations | 183 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    37 citations · Biochar
 
 2. **Effects of activated carbon, biochar, and carbon nanotubes on the heterogeneous Fenton oxidation catalyzed by pyrite for ciprofloxacin degradation** (2022)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

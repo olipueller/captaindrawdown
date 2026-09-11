@@ -1,7 +1,7 @@
 ---
 title: "Zihan Wang"
-description: "Zihan Wang is a Mid-career Soil Carbon researcher at North University of China in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.366244
+description: "Zihan Wang is a Mid-career Soil Carbon researcher at North University of China in CN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.318165
 url: "/cdr-researcher-census/researchers/zihan-wang-a5065878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 769 |
+| h-index | 14 |
+| Citations | 786 |
 | Publications | 50 |
-| CDR Focus | 8.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

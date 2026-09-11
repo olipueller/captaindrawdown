@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
-description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.154055
+description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102686
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 2,374 |
+| h-index | 13 |
+| Citations | 2,452 |
 | Publications | 25 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |
@@ -51,19 +51,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   700 citations · DAC
+   715 citations · DAC
 
 2. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   194 citations · DAC
+   202 citations · DAC
 
 3. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   154 citations · DAC
+   158 citations · DAC
 
 4. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
    90 citations
 
 5. **The use of warehouse automation technology for scalable and low-cost direct air capture** (2024)
-   12 citations
+   15 citations
 
 6. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    12 citations
@@ -72,7 +72,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    10 citations · DAC
 
 8. **Advancements in cost-effective direct air capture technology** (2024)
-   8 citations
+   9 citations
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC

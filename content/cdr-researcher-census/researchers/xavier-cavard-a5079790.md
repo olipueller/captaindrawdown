@@ -1,7 +1,7 @@
 ---
 title: "Xavier Cavard"
-description: "Xavier Cavard is a Senior Soil Carbon researcher at Université du Québec en Abitibi-Témiscamingue in CA. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.244256
+description: "Xavier Cavard is a Senior Soil Carbon researcher at Université du Québec en Abitibi-Témiscamingue in CA. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.192137
 url: "/cdr-researcher-census/researchers/xavier-cavard-a5079790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,300 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 15 |
+| Citations | 1,338 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forest Carbon Management: a Review of Silvicultural Practices and Management Strategies Across Boreal, Temperate and Tropical Forests** (2021)
-   343 citations · General CDR
+   356 citations · General CDR
 
 2. **Regional characteristics drive thinning effects on boreal soil organic carbon stocks** (2025)
-   3 citations
+   4 citations
 
 3. **Regional Characteristics Drive Thinning Effects on Boreal Soil Organic Carbon Stocks** (2025)
    0 citations · Soil Carbon

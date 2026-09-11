@@ -1,7 +1,7 @@
 ---
 title: "Ligong Peng"
-description: "Ligong Peng is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.127233
+description: "Ligong Peng is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.058535
 url: "/cdr-researcher-census/researchers/ligong-peng-a5091341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ligong-peng-a5091341/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Agricultural University"
+    "name": "Yunnan Agricultural University"
   },
   "sameAs": "https://openalex.org/A5091341970"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ligong Peng**  
-South China Agricultural University · 🇨🇳 CN
+Yunnan Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 160 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 173 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Modulation of greenhouse gas emissions and soil organic carbon in rice paddies through various crop rotation systems combined with water-saving irrigation: Insights into soil bacterial composition and functional alterations** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

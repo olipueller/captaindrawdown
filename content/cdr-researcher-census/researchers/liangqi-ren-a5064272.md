@@ -1,7 +1,7 @@
 ---
 title: "Liangqi Ren"
 description: "Liangqi Ren is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.192182
+date: 2026-09-11T02:38:30.135473
 url: "/cdr-researcher-census/researchers/liangqi-ren-a5064272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 144 |
+| Citations | 152 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can soil organic carbon sequestration and the carbon management index be improved by changing the film mulching methods in the semiarid region?** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

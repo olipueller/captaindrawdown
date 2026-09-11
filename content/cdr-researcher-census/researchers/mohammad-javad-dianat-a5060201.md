@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Javad Dianat"
-description: "Mohammad Javad Dianat is a Mid-career General CDR researcher at Persian Gulf University in IR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.024944
+description: "Mohammad Javad Dianat is a Mid-career General CDR researcher at Persian Gulf University in IR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.971765
 url: "/cdr-researcher-census/researchers/mohammad-javad-dianat-a5060201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 189 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 198 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

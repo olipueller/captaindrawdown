@@ -1,7 +1,7 @@
 ---
 title: "Bri-Mathias Hodge"
-description: "Bri-Mathias Hodge is a Mid-career General CDR researcher at University of Colorado Boulder in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.572110
+description: "Bri-Mathias Hodge is a Mid-career General CDR researcher at University of Colorado Boulder in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.499454
 url: "/cdr-researcher-census/researchers/bri-mathias-hodge-a5110424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 435 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 469 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

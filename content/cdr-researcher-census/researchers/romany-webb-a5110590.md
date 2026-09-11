@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb is a Mid-career General CDR researcher at Committee on Climate Change in GB. With 97 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.797760
+description: "Romany Webb is a Mid-career General CDR researcher at New York Law School in US. With 98 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.740922
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/romany-webb-a5110590/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Committee on Climate Change"
+    "name": "New York Law School"
   },
   "sameAs": "https://openalex.org/A5110590296"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Romany Webb**  
-Committee on Climate Change · 🇬🇧 GB
+New York Law School · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -39,37 +39,37 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 273 |
-| Publications | 97 |
-| CDR Focus | 14.4% |
-| Trajectory | Stable |
+| h-index | 9 |
+| Citations | 287 |
+| Publications | 98 |
+| CDR Focus | 16.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   62 citations · General CDR
+   67 citations · General CDR
 
 2. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
-3. **International laws governing ocean CDR** (2023)
+3. **Legal considerations relevant to research on ocean alkalinity enhancement** (2023)
+   9 citations · General CDR
+
+4. **International laws governing ocean CDR** (2023)
    9 citations
 
-4. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
+5. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    8 citations · General CDR
 
-5. **Legal considerations relevant to research on ocean alkalinity enhancement** (2023)
-   8 citations · General CDR
+6. **The case for ocean iron fertilization field trials** (2026)
+   5 citations · General CDR
 
-6. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
+7. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
    5 citations
 
-7. **The Legal Framework for Offshore Carbon Capture and Storage in Canada** (2021)
+8. **The Legal Framework for Offshore Carbon Capture and Storage in Canada** (2021)
    5 citations · DAC
-
-8. **The case for ocean iron fertilization field trials** (2026)
-   4 citations · General CDR
 
 9. **Legal Considerations relevant to the Research of Ocean Alkalinity Enhancement** (2023)
    4 citations · General CDR

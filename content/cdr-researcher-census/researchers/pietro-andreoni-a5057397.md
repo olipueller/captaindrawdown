@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
-description: "Pietro Andreoni is a Mid-career DAC researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.185648
+description: "Pietro Andreoni is a Mid-career DAC researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.124485
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Pietro Andreoni",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pietro-andreoni-a5057397/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "CMCC Foundation - Euro-Mediterranean Center on Climate Change"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2487-1671",
     "https://openalex.org/A5057397274"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Pietro Andreoni**
+**Pietro Andreoni**  
+CMCC Foundation - Euro-Mediterranean Center on Climate Change · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
-| Publications | 19 |
-| CDR Focus | 26.3% |
+| Citations | 154 |
+| Publications | 20 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

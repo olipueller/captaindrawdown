@@ -1,7 +1,7 @@
 ---
 title: "Parmanand Sahu"
-description: "Parmanand Sahu is a Mid-career Biochar researcher at ICAR-Indian Institute of Agricultural Biotechnology in IN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.988539
+description: "Parmanand Sahu is a Mid-career Biochar researcher at ICAR-Indian Institute of Agricultural Biotechnology in IN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.900115
 url: "/cdr-researcher-census/researchers/parmanand-sahu-a5024060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 200 |
+| h-index | 9 |
+| Citations | 217 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

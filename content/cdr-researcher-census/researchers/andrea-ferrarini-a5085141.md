@@ -1,7 +1,7 @@
 ---
 title: "Andrea Ferrarini"
-description: "Andrea Ferrarini is a Senior Soil Carbon researcher at Università Cattolica del Sacro Cuore  in IT. With 74 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.215953
+description: "Andrea Ferrarini is a Senior Soil Carbon researcher at Università Cattolica del Sacro Cuore  in IT. With 83 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.164673
 url: "/cdr-researcher-census/researchers/andrea-ferrarini-a5085141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,512 |
-| Publications | 74 |
-| CDR Focus | 9.5% |
+| Citations | 1,562 |
+| Publications | 83 |
+| CDR Focus | 8.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   53 citations · BECCS
+   55 citations · BECCS
 
 2. **Soil Organic Carbon Significantly Increases When Perennial Biomass Plantations Are Reverted Back to Annual Arable Crops** (2023)
    20 citations · Soil Carbon
 
 3. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   18 citations · BECCS
+   19 citations · BECCS
 
 4. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
    8 citations · Soil Carbon

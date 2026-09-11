@@ -1,7 +1,7 @@
 ---
 title: "Ankita Paul"
 description: "Ankita Paul is a Mid-career BECCS researcher at Indian Agricultural Statistics Research Institute in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375975
+date: 2026-09-11T02:38:30.338891
 url: "/cdr-researcher-census/researchers/ankita-paul-a5085875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 108 |
+| Citations | 110 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A review on environmental and socioeconomic perspectives of three promising biofuel plants Jatropha curcas, Pongamia pinnata and Mesua ferrea** (2021)
-   54 citations · BECCS
+   55 citations · BECCS
 
 2. **Evolving Dynamics of the Voluntary Carbon Market in Agricultural Contexts: A Scoping Review** (2026)
    0 citations · General CDR

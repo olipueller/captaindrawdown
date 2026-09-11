@@ -1,7 +1,7 @@
 ---
 title: "Shihao Ma"
-description: "Shihao Ma is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.332987
+description: "Shihao Ma is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.220824
 url: "/cdr-researcher-census/researchers/shihao-ma-a5065918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 116 |
+| h-index | 6 |
+| Citations | 133 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Soil Carbon
 
 2. **Soil organic carbon stabilization by organic amendments through iron gate and enzyme latch mechanisms** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

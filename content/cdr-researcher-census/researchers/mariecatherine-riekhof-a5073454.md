@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Catherine Riekhof"
-description: "Marie‐Catherine Riekhof is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.598881
+description: "Marie‐Catherine Riekhof is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.543805
 url: "/cdr-researcher-census/researchers/mariecatherine-riekhof-a5073454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 408 |
-| Publications | 45 |
-| CDR Focus | 6.7% |
+| Citations | 424 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

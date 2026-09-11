@@ -1,7 +1,7 @@
 ---
 title: "Juanjuan Qu"
-description: "Juanjuan Qu is a Senior Biochar researcher at Northeast Agricultural University in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.206860
+description: "Juanjuan Qu is a Senior Biochar researcher at Northeast Agricultural University in CN. With 47 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.157378
 url: "/cdr-researcher-census/researchers/juanjuan-qu-a5005904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,598 |
-| Publications | 48 |
-| CDR Focus | 6.2% |
+| h-index | 22 |
+| Citations | 1,632 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Synergistic effects of PGPR and organic fertilizer on soil fertility, enzyme activities, and microbial community composition in saline-alkali rice systems** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **New insights into the remediation of chromium-contaminated industrial electroplating wastewater by an innovative nano-modified biochar derived from spent mushroom substrate: Mechanisms, batch study, stability and application** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Synergistic Effects of Organic and Chemical Fertilizers on Microbial-Mediated Carbon Stabilization: Insights from Metagenomics and Spectroscopy** (2025)
    3 citations · Biochar

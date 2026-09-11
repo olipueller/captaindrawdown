@@ -1,7 +1,7 @@
 ---
 title: "Abubakar Umar Yuguda"
 description: "Abubakar Umar Yuguda is an Early-career Biochar researcher at Abubakar Tafawa Balewa University in NG. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.014791
+date: 2026-09-11T02:38:29.951992
 url: "/cdr-researcher-census/researchers/abubakar-umar-yuguda-a5060961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 192 |
+| Citations | 204 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A systematic review on applications of biochar and activated carbon derived from biomass as adsorbents for sustainable remediation of antibiotics from pharmaceutical wastewater** (2024)
-   86 citations · Biochar
+   88 citations · Biochar
 
 ## External Profiles
 

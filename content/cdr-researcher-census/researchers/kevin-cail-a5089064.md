@@ -1,7 +1,7 @@
 ---
 title: "Kevin Cail"
 description: "Kevin Cail is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.641732
+date: 2026-09-11T02:38:29.604071
 url: "/cdr-researcher-census/researchers/kevin-cail-a5089064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 373 |
+| Citations | 375 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Exiting |

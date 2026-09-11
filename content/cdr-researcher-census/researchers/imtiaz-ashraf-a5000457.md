@@ -1,7 +1,7 @@
 ---
 title: "Imtiaz Ashraf"
 description: "Imtiaz Ashraf is a Mid-career Biochar researcher at Aligarh Muslim University in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.776839
+date: 2026-09-11T02:38:29.737169
 url: "/cdr-researcher-census/researchers/imtiaz-ashraf-a5000457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 284 |
+| Citations | 289 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nanoarchitectonics and Kinetics Insights into Fluoride Removal from Drinking Water Using Magnetic Tea Biochar** (2022)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

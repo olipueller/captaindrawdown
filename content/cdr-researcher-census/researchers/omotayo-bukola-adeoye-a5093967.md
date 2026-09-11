@@ -1,7 +1,7 @@
 ---
 title: "Omotayo Bukola Adeoye"
-description: "Omotayo Bukola Adeoye is a Mid-career General CDR researcher. With 12 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.567107
+description: "Omotayo Bukola Adeoye is a Mid-career General CDR researcher in GB. With 12 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.472045
 url: "/cdr-researcher-census/researchers/omotayo-bukola-adeoye-a5093967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -20,7 +20,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Omotayo Bukola Adeoye**
+**Omotayo Bukola Adeoye**  
+🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -35,15 +36,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 439 |
+| Citations | 499 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
-| Trajectory | Unknown |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Predictive analytics in climate finance: Assessing risks and opportunities for investors** (2024)
-   23 citations · General CDR
+   27 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Javier Noa Turnes"
 description: "Javier Noa Turnes is a Mid-career General CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.902771
+date: 2026-09-11T02:38:29.824464
 url: "/cdr-researcher-census/researchers/javier-noa-turnes-a5027950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 224 |
+| Citations | 247 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

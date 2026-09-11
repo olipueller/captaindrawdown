@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Sun"
-description: "Ruifeng Sun is a Senior Soil Carbon researcher at Yale University in US. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.664384
+description: "Ruifeng Sun is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.609851
 url: "/cdr-researcher-census/researchers/ruifeng-sun-a5108081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ruifeng-sun-a5108081/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yale University"
+    "name": "Nanjing University of Information Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2279-1769",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ruifeng Sun**  
-Yale University · 🇺🇸 US
+Nanjing University of Information Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 356 |
-| Publications | 30 |
-| CDR Focus | 10.0% |
+| Citations | 371 |
+| Publications | 32 |
+| CDR Focus | 9.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

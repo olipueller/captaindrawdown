@@ -1,7 +1,7 @@
 ---
 title: "Quanhua Wang"
 description: "Quanhua Wang is a Mid-career Soil Carbon researcher at Taiyuan University of Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745883
+date: 2026-09-11T02:38:29.693489
 url: "/cdr-researcher-census/researchers/quanhua-wang-a5115591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 301 |
+| Citations | 312 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

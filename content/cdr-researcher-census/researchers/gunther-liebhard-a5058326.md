@@ -1,7 +1,7 @@
 ---
 title: "Gunther Liebhard"
 description: "Gunther Liebhard is a Mid-career Soil Carbon researcher at British Airways (United Kingdom) in GB. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.846503
+date: 2026-09-11T02:38:29.788039
 url: "/cdr-researcher-census/researchers/gunther-liebhard-a5058326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 249 |
+| Citations | 265 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

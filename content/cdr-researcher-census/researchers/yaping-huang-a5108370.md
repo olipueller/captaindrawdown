@@ -1,7 +1,7 @@
 ---
 title: "Yaping Huang"
-description: "Yaping Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424387
+description: "Yaping Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.359647
 url: "/cdr-researcher-census/researchers/yaping-huang-a5108370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,27 +40,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 637 |
-| Publications | 29 |
-| CDR Focus | 13.8% |
+| Citations | 688 |
+| Publications | 30 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   103 citations
+   104 citations
 
 2. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 4. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 5. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
+
+6. **Microbial network stability is linked to soil multifunctionality and functional trade-offs under long-term fertilization in a dryland agroecosystem** (2026)
+   0 citations
 
 ## External Profiles
 

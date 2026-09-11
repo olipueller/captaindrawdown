@@ -1,7 +1,7 @@
 ---
 title: "Jessica C. Awrey"
-description: "Jessica C. Awrey is an Early-career Soil Carbon researcher at University of Guelph in CA. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.317059
+description: "Jessica C. Awrey is an Early-career Soil Carbon researcher at University of Guelph in CA. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.231164
 url: "/cdr-researcher-census/researchers/jessica-c-awrey-a5076225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 119 |
+| h-index | 3 |
+| Citations | 131 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of cover crops at the four spheres: A review of ecosystem services, potential barriers, and future directions for North America** (2022)
-   116 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 ## External Profiles
 

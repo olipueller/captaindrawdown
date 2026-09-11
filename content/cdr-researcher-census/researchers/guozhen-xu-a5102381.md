@@ -1,7 +1,7 @@
 ---
 title: "Guozhen Xu"
 description: "Guozhen Xu is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456295
+date: 2026-09-11T02:38:29.406408
 url: "/cdr-researcher-census/researchers/guozhen-xu-a5102381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 582 |
+| Citations | 598 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

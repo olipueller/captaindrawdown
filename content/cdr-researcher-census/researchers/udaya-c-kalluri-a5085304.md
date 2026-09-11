@@ -1,7 +1,7 @@
 ---
 title: "Udaya C. Kalluri"
-description: "Udaya C. Kalluri is a Senior Soil Carbon researcher at Oak Ridge National Laboratory in US. With 95 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.082057
+description: "Udaya C. Kalluri is a Senior Soil Carbon researcher at Oak Ridge National Laboratory in US. With 94 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.034411
 url: "/cdr-researcher-census/researchers/udaya-c-kalluri-a5085304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 7,311 |
-| Publications | 95 |
+| Citations | 7,371 |
+| Publications | 94 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
 
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · BECCS
 
 2. **Rapid in situ nutrient element distribution in plants and soils using laser-induced breakdown spectroscopy (LIBS)** (2023)
-   21 citations
+   22 citations
 
 3. **Biological Parts for Plant Biodesign to Enhance Land-Based Carbon Dioxide Removal** (2021)
-   15 citations · General CDR
+   16 citations · General CDR
 
 4. **Intraspecific variability in plant and soil chemical properties in a common garden plantation of the energy crop Populus** (2024)
-   4 citations · BECCS
+   5 citations · BECCS
 
 5. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 6. **Which plant traits increase soil carbon sequestration? Empirical evidence from a long-term poplar genetic diversity trial** (2025)
    0 citations

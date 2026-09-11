@@ -1,7 +1,7 @@
 ---
 title: "Jinsai Chen"
-description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Beijing Academy of Agricultural and Forestry Sciences in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.471782
+description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.414200
 url: "/cdr-researcher-census/researchers/jinsai-chen-a5049849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinsai-chen-a5049849/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Academy of Agricultural and Forestry Sciences"
+    "name": "Beijing Academy of Agriculture and Forestry Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8755-8370",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jinsai Chen**  
-Beijing Academy of Agricultural and Forestry Sciences · 🇨🇳 CN
+Beijing Academy of Agriculture and Forestry Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 557 |
+| Citations | 587 |
 | Publications | 26 |
 | CDR Focus | 23.1% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **From growth to decline: The dynamic effects of maize-based cropping systems on soil organic carbon storage in Northeast China** (2025)
    7 citations · Soil Carbon

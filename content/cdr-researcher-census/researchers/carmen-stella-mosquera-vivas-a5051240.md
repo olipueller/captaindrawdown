@@ -1,7 +1,7 @@
 ---
 title: "Carmen Stella Mosquera-Vivas"
 description: "Carmen Stella Mosquera-Vivas is a Mid-career Soil Carbon researcher at Universidad Nacional de Colombia in CO. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.413873
+date: 2026-09-11T02:38:30.370369
 url: "/cdr-researcher-census/researchers/carmen-stella-mosquera-vivas-a5051240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 105 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

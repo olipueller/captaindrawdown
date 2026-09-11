@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
-description: "Matteo Gazzani is a Senior DAC researcher at Technische Universiteit Eindhoven in NL. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.086303
+description: "Matteo Gazzani is a Senior DAC researcher at Technische Universiteit Eindhoven in NL. With 126 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.037590
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,30 +42,30 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 37 |
-| Citations | 6,504 |
-| Publications | 123 |
-| CDR Focus | 6.5% |
+| h-index | 38 |
+| Citations | 6,741 |
+| Publications | 126 |
+| CDR Focus | 6.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **A comparative energy and costs assessment and optimization for direct air capture technologies** (2021)
-   415 citations · DAC
+   429 citations · DAC
 
 2. **Optimal Design and Operation of Solid Sorbent Direct Air Capture Processes at Varying Ambient Conditions** (2022)
-   135 citations
+   144 citations
 
 3. **Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 4. **Direct air capture based on ionic liquids: From molecular design to process assessment** (2023)
-   56 citations
+   58 citations
 
-5. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
-   17 citations · DAC
+5. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
+   19 citations · DAC
 
-6. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
+6. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
    17 citations · DAC
 
 7. **Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential** (2024)

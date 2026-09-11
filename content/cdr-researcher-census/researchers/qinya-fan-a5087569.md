@@ -1,7 +1,7 @@
 ---
 title: "Qinya Fan"
-description: "Qinya Fan is a Mid-career Soil Carbon researcher at Nanjing University of Science and Technology in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.216145
+description: "Qinya Fan is a Mid-career Soil Carbon researcher at Nanjing University of Science and Technology in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.163483
 url: "/cdr-researcher-census/researchers/qinya-fan-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,510 |
+| h-index | 17 |
+| Citations | 1,571 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon-fixing bacterial communities respond to plant community change in coastal salt marsh wetlands** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Plant and microbial-mediated soil organic carbon accumulation and stabilization in an estuary salt marsh wetland: Implications for blue carbon formation** (2025)
    6 citations · Ocean CDR

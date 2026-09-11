@@ -1,7 +1,7 @@
 ---
 title: "Kelsey H. Jensen"
-description: "Kelsey H. Jensen is a Mid-career Soil Carbon researcher at Cornell University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085604
+description: "Kelsey H. Jensen is a Mid-career Soil Carbon researcher at Environmental Defense Fund in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.050711
 url: "/cdr-researcher-census/researchers/kelsey-h-jensen-a5061485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kelsey-h-jensen-a5061485/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Cornell University"
+    "name": "Environmental Defense Fund"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1060-8226",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kelsey H. Jensen**  
-Cornell University · 🇺🇸 US
+Environmental Defense Fund · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 171 |
-| Publications | 11 |
-| CDR Focus | 18.2% |
+| Citations | 174 |
+| Publications | 12 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

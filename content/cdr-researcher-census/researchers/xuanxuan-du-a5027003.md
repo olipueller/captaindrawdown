@@ -1,7 +1,7 @@
 ---
 title: "Xuanxuan Du"
 description: "Xuanxuan Du is a Mid-career DAC researcher at Walker (United States) in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.893237
+date: 2026-09-11T02:38:29.869614
 url: "/cdr-researcher-census/researchers/xuanxuan-du-a5027003/"
 layout: "researcher"
 hiddenInHomeList: true

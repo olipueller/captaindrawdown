@@ -1,7 +1,7 @@
 ---
 title: "Asier Goñi‐Urtiaga"
-description: "Asier Goñi‐Urtiaga is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.457018
+description: "Asier Goñi‐Urtiaga is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.402943
 url: "/cdr-researcher-census/researchers/asier-goniurtiaga-a5078443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 581 |
+| h-index | 10 |
+| Citations | 603 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hop-derived biochar for efficient heavy metal removal: Unraveling and quantifying dominant mechanisms** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

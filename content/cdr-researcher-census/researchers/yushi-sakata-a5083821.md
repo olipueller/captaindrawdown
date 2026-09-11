@@ -1,7 +1,7 @@
 ---
 title: "Yushi Sakata"
-description: "Yushi Sakata is a Senior General CDR researcher at Kao Corporation (Japan) in JP. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048779
+description: "Yushi Sakata is a Senior General CDR researcher at Kao Corporation (Japan) in JP. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.021077
 url: "/cdr-researcher-census/researchers/yushi-sakata-a5083821/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 182 |
+| h-index | 6 |
+| Citations | 183 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

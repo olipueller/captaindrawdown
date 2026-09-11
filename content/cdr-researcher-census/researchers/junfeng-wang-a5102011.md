@@ -1,7 +1,7 @@
 ---
 title: "Jun‐Feng Wang"
-description: "Jun‐Feng Wang is a Senior Soil Carbon researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901883
+description: "Jun‐Feng Wang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.864745
 url: "/cdr-researcher-census/researchers/junfeng-wang-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jun\u2010Feng Wang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/junfeng-wang-a5102011/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sun Yat-sen University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8337-6967",
     "https://openalex.org/A5102011029"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jun‐Feng Wang**
+**Jun‐Feng Wang**  
+Sun Yat-sen University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 225 |
+| Citations | 230 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Mai"
 description: "Jingjing Mai is a Mid-career Biochar researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.018332
+date: 2026-09-11T02:38:29.893285
 url: "/cdr-researcher-census/researchers/jingjing-mai-a5073517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 191 |
+| Citations | 220 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Near-full-component sewage sludge valorization via integrated alkali-mediated pyrolysis and sub-boiling temperature crystallization of hierarchical carbon-zeolite composites from carbonaceous and inorganic constituents** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

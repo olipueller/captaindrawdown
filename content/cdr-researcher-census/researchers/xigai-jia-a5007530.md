@@ -1,7 +1,7 @@
 ---
 title: "Xigai Jia"
 description: "Xigai Jia is an Early-career Biochar researcher at North China University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.011849
+date: 2026-09-11T02:38:29.972324
 url: "/cdr-researcher-census/researchers/xigai-jia-a5007530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 193 |
+| Citations | 198 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on Application of Biochar in the Removal of Pharmaceutical Pollutants through Adsorption and Persulfate-Based AOPs** (2022)
-   155 citations · Biochar
+   156 citations · Biochar
 
 2. **Activation of peroxydisulfate by black fungus-derived N-doped biochar for tetracycline degradation via non-radical dominated oxidation pathway** (2022)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

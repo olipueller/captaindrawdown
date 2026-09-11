@@ -1,7 +1,7 @@
 ---
 title: "K. Suganya"
-description: "K. Suganya is a Mid-career Soil Carbon researcher at Gastroenterology Medical Center and Hospital in IN. With 59 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.773054
+description: "K. Suganya is a Mid-career Soil Carbon researcher at Gastroenterology Medical Center and Hospital in IN. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.729561
 url: "/cdr-researcher-census/researchers/k-suganya-a5078084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,33 +40,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 286 |
-| Publications | 59 |
-| CDR Focus | 8.5% |
+| Citations | 293 |
+| Publications | 57 |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organo-monomers coated slow-release fertilizers: Current understanding and future prospects** (2024)
-   21 citations
+   23 citations
 
 2. **Biosolids towards Back–To–Earth alternative concept (BEA) for environmental sustainability: a review** (2021)
    18 citations
 
-3. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
-   5 citations
+3. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
+   6 citations · General CDR
 
-4. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
-   5 citations · General CDR
+4. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
+   5 citations
 
 5. **Potential of activated biochar for sequestration of chromium (VI) from aqueous solution: parameters optimised by RSM, Isotherm and kinetics study** (2021)
    3 citations · Biochar
 
-6. **Potential of halophytes in managing soil salinity and mitigating climate change for environmental sustainability** (2021)
+6. **Role of Soil Protists in Agro Ecosystem Health** (2025)
    2 citations · Soil Carbon
 
-7. **Role of Soil Protists in Agro Ecosystem Health** (2025)
-   1 citations · Soil Carbon
+7. **Potential of halophytes in managing soil salinity and mitigating climate change for environmental sustainability** (2021)
+   2 citations · Soil Carbon
 
 8. **Physiological insights into the carbon sequestration potential of vetiver grass in effluent-contaminated soil ecosystems** (2025)
    1 citations · Soil Carbon

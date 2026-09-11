@@ -1,7 +1,7 @@
 ---
 title: "Qingxu Ma"
-description: "Qingxu Ma is a Senior Soil Carbon researcher at Bangor University in GB. With 194 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.110229
+description: "Qingxu Ma is a Senior Soil Carbon researcher at Bangor University in GB. With 198 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.057412
 url: "/cdr-researcher-census/researchers/qingxu-ma-a5041765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 4,086 |
-| Publications | 194 |
-| CDR Focus | 5.2% |
+| h-index | 38 |
+| Citations | 4,342 |
+| Publications | 198 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
-   47 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Patterns and abiotic drivers of soil organic carbon in perennial tea (Camellia sinensis L.) plantation system of China** (2023)
    24 citations · Soil Carbon
 
 4. **Opposite roles of plant quality and soil exoenzymes in regulation of litter carbon transfer to fungal and bacterial necromass** (2025)
-   14 citations
+   16 citations
 
 5. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
+   14 citations · Soil Carbon
+
+6. **Meta-analysis of the accumulation and stabilisation of particulate and mineral-associated organic carbon by fertilization** (2025)
    13 citations · Soil Carbon
 
-6. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
-   9 citations · Soil Carbon
-
-7. **Meta-analysis of the accumulation and stabilisation of particulate and mineral-associated organic carbon by fertilization** (2025)
-   8 citations · Soil Carbon
+7. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+   12 citations · Soil Carbon
 
 8. **Spatial variation in stability of wheat (Triticum aestivum L.) straw phytolith-occluded carbon in China** (2024)
    4 citations · Soil Carbon
@@ -77,7 +77,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **The effects of crop varieties and environmental conditions on the stability of phytolith-occluded carbon in wheat and rice** (2024)
    1 citations · Soil Carbon
 
-10. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation</b>** (2025)
+10. **Synergistic Interactions Between Warming and Elevated Atmospheric CO 2 Increase Soil Organic Carbon Sequestration** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

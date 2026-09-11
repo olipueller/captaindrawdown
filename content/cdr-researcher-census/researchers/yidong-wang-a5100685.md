@@ -1,7 +1,7 @@
 ---
 title: "Yidong Wang"
-description: "Yidong Wang is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 214 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.091930
+description: "Yidong Wang is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 213 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044787
 url: "/cdr-researcher-census/researchers/yidong-wang-a5100685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 5,732 |
-| Publications | 214 |
+| h-index | 37 |
+| Citations | 5,569 |
+| Publications | 213 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
    137 citations · Soil Carbon
 
 3. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 4. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   57 citations · Ocean CDR
+   58 citations · Ocean CDR
 
-5. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+5. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
    57 citations · Soil Carbon
 
-6. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+6. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+   57 citations · Soil Carbon
 
 7. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 8. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
    23 citations · Soil Carbon
 
-10. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   22 citations · Soil Carbon
+10. **Soil organic carbon pools under long-term mineral and organic amendments: a multisite study** (2024)
+   23 citations · Soil Carbon
 
 ## External Profiles
 

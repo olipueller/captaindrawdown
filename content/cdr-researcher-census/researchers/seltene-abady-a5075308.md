@@ -1,7 +1,7 @@
 ---
 title: "Seltene Abady"
-description: "Seltene Abady is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.660325
+description: "Seltene Abady is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.610858
 url: "/cdr-researcher-census/researchers/seltene-abady-a5075308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 359 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 370 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Response of Sorghum bicolor genotypes for yield and yield components and organic carbon storage in the shoot and root systems** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Genetic variation and association of yield, yield components, and carbon storage in sorghum (Sorghum bicolor [L.] Moench) genotypes** (2024)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Haishui Yang"
-description: "Haishui Yang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 112 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125642
+description: "Haishui Yang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 113 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.075851
 url: "/cdr-researcher-census/researchers/haishui-yang-a5026336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 3,305 |
-| Publications | 112 |
-| CDR Focus | 14.3% |
+| h-index | 29 |
+| Citations | 3,379 |
+| Publications | 113 |
+| CDR Focus | 14.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of tillage on soil organic carbon and crop yield under straw return** (2023)
-   117 citations · Soil Carbon
+   123 citations · Soil Carbon
 
 2. **Long-term ditch-buried straw return increases functionality of soil microbial communities** (2021)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **Soil organic carbon regulates CH4 production through methanogenic evenness and available phosphorus under different straw managements** (2022)
    37 citations · Soil Carbon
@@ -63,22 +63,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Biochar
 
 5. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-6. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   20 citations
+6. **Effects of crop rotation on plant- and microbial-derived carbon within particulate and mineral fractions in paddy soils** (2024)
+   22 citations · Soil Carbon
 
-7. **Effects of crop rotation on plant- and microbial-derived carbon within particulate and mineral fractions in paddy soils** (2024)
-   19 citations · Soil Carbon
+7. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
+   21 citations
 
 8. **Long-term ditch-buried straw return alters soil carbon sequestration, nitrogen availability and grain production in a rice–wheat rotation system** (2021)
    16 citations · Biochar
 
 9. **Enhancement joint fertilization efficacy of straw and nitrogen fertilizer on soil quality and seedcotton yield for sustainable cotton farming** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 10. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "San Dinh"
-description: "San Dinh is a Mid-career DAC researcher at West Virginia University in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.340093
+description: "San Dinh is a Mid-career DAC researcher at West Virginia University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.245500
 url: "/cdr-researcher-census/researchers/san-dinh-a5059801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 114 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 128 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "David P. Keller"
-description: "David P. Keller is a Senior Ocean CDR researcher at Carbon to Sea Initiative in US. With 167 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.154858
+description: "David P. Keller is a Senior Ocean CDR researcher at Carbon to Sea Initiative in US. With 171 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.104476
 url: "/cdr-researcher-census/researchers/david-p-keller-a5068205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,363 |
-| Publications | 167 |
-| CDR Focus | 23.4% |
+| Citations | 2,413 |
+| Publications | 171 |
+| CDR Focus | 22.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   82 citations · Ocean CDR
+   84 citations · Ocean CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   38 citations · General CDR
+   39 citations · General CDR
 
 3. **Carbon Dioxide Removal via Macroalgae Open-ocean Mariculture and Sinking: An Earth System Modeling Study** (2022)
    27 citations

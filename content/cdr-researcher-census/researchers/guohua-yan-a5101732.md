@@ -1,7 +1,7 @@
 ---
 title: "Guohua Yan"
-description: "Guohua Yan is a Mid-career Soil Carbon researcher at Qingdao Institute of Animal Husbandry and Veterinary Medicine in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499327
+description: "Guohua Yan is a Mid-career Soil Carbon researcher at Qingdao Institute of Animal Husbandry and Veterinary Medicine in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.443438
 url: "/cdr-researcher-census/researchers/guohua-yan-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 515 |
+| h-index | 11 |
+| Citations | 541 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Models in Pinus massoniana L. Plantation** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Modes of &lt;em&gt;Pinus massoniana&lt;/em&gt;** (2024)
    3 citations · Soil Carbon

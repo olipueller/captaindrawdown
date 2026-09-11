@@ -1,7 +1,7 @@
 ---
 title: "Wennian Xu"
-description: "Wennian Xu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.531409
+description: "Wennian Xu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.497683
 url: "/cdr-researcher-census/researchers/wennian-xu-a5086072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 476 |
-| Publications | 58 |
-| CDR Focus | 5.2% |
+| Citations | 471 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Dynamics of iron-bound organic carbon sequestration in soil-cement aggregates during the ecological restoration process** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Response of Soil Organic Carbon Fractions and Microbial Nutrient Limitations to Typical Woodlands in the West Karst Region of Hubei** (2024)
    0 citations · Soil Carbon

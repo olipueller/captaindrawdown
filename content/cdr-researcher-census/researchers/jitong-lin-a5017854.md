@@ -1,7 +1,7 @@
 ---
 title: "Jitong Lin"
-description: "Jitong Lin is a Mid-career Biochar researcher at Shenzhen Maternity and Child Healthcare Hospital in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369115
+description: "Jitong Lin is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.292215
 url: "/cdr-researcher-census/researchers/jitong-lin-a5017854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jitong-lin-a5017854/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenzhen Maternity and Child Healthcare Hospital"
+    "name": "Hunan University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5017854794"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jitong Lin**  
-Shenzhen Maternity and Child Healthcare Hospital · 🇨🇳 CN
+Hunan University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 109 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 6 |
+| Citations | 119 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

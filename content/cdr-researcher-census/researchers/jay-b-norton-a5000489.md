@@ -1,7 +1,7 @@
 ---
 title: "Jay B. Norton"
 description: "Jay B. Norton is a Senior Soil Carbon researcher at University of Wyoming in US. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.202002
+date: 2026-09-11T02:38:29.153395
 url: "/cdr-researcher-census/researchers/jay-b-norton-a5000489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,656 |
+| Citations | 1,672 |
 | Publications | 72 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat (Triticum aestivum, L.)** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Soil Carbon and Nitrogen Responses to Long-Term Flood Irrigation and Fertilization in High-Elevation Hay Meadows** (2024)
    3 citations · Soil Carbon

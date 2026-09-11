@@ -1,7 +1,7 @@
 ---
 title: "Vasu Gajendiran"
-description: "Vasu Gajendiran is a Mid-career Biochar researcher at Dhofar University in OM. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347264
+description: "Vasu Gajendiran is a Mid-career Biochar researcher at Sathyabama Institute of Science and Technology in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.273027
 url: "/cdr-researcher-census/researchers/vasu-gajendiran-a5055965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vasu-gajendiran-a5055965/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dhofar University"
+    "name": "Sathyabama Institute of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0130-3479",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Vasu Gajendiran**  
-Dhofar University ·  OM
+Sathyabama Institute of Science and Technology · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 113 |
+| Citations | 123 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

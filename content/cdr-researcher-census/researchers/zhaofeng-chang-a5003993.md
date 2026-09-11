@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
-description: "Zhaofeng Chang is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.274554
+description: "Zhaofeng Chang is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214952
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,120 |
-| Publications | 71 |
-| CDR Focus | 15.5% |
+| Citations | 1,198 |
+| Publications | 74 |
+| CDR Focus | 14.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fe3O4 loaded on ball milling biochar enhanced bisphenol a removal by activating persulfate: Performance and activating mechanism** (2022)
-   52 citations · Biochar
+   54 citations · Biochar
 
 2. **Biomass power generation: A pathway to carbon neutrality** (2024)
-   39 citations · BECCS
+   43 citations · BECCS
 
 3. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar
 
 4. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 5. **Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review** (2024)
    12 citations · Biochar
@@ -69,7 +69,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 7. **Effect of wildfires on soil organic carbon content and carbon flow pathways: The evidence of BPCAs molecular markers and 13C natural abundance** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 8. **Quantitative contribution of dissolution-driven precipitation to Pb(II) removal by biochars during adsorption process** (2026)
    0 citations · Biochar

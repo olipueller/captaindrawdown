@@ -1,7 +1,7 @@
 ---
 title: "Xibin Dong"
 description: "Xibin Dong is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.137647
+date: 2026-09-11T02:38:30.094130
 url: "/cdr-researcher-census/researchers/xibin-dong-a5026840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 157 |
+| Citations | 162 |
 | Publications | 44 |
 | CDR Focus | 6.8% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Effect of thinning intensity on the carbon sequestration of natural mixed coniferous and broadleaf forests in Xiaoxing’an Mountains, China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Effects of seasonal changes on the carbon dynamics in mixed coniferous forests** (2022)
    0 citations

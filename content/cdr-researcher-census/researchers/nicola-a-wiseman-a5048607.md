@@ -1,7 +1,7 @@
 ---
 title: "Nicola A. Wiseman"
-description: "Nicola A. Wiseman is a Mid-career Ocean CDR researcher at University of Bristol in GB. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.454137
+description: "Nicola A. Wiseman is a Mid-career Ocean CDR researcher at University of Bristol in GB. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.402381
 url: "/cdr-researcher-census/researchers/nicola-a-wiseman-a5048607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 585 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 604 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potential Impacts of Climate Interventions on Marine Ecosystems** (2026)
-   6 citations · General CDR
+   9 citations · General CDR
 
 2. **Potential impacts of climate interventions on marine ecosystems** (2024)
    2 citations

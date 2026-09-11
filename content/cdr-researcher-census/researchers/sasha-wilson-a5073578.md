@@ -1,7 +1,7 @@
 ---
 title: "Sasha Wilson"
 description: "Sasha Wilson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 166 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.090081
+date: 2026-09-11T02:38:29.042106
 url: "/cdr-researcher-census/researchers/sasha-wilson-a5073578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 5,929 |
+| Citations | 6,012 |
 | Publications | 166 |
 | CDR Focus | 14.5% |
 | Trajectory | Stable |
@@ -59,11 +59,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
 
-4. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   29 citations · DAC
+4. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
+   29 citations · Enhanced Weathering
 
-5. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   28 citations · Enhanced Weathering
+5. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
+   29 citations · DAC
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering
@@ -77,8 +77,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 9. **Artificial Laterite from Acid Leaching of Ultramafic Rocks: Mobilization, Enrichment, and Extraction of Critical Metals** (2025)
    2 citations
 
-10. **Net negative carbon dioxide nickel mining examined through prospective technoeconomic assessment** (2026)
-   1 citations · Enhanced Weathering
+10. **Incorporating enhanced rock weathering into sustainable forest management** (2025)
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

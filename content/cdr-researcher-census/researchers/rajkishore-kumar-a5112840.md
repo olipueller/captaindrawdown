@@ -1,7 +1,7 @@
 ---
 title: "Rajkishore Kumar"
-description: "Rajkishore Kumar is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.833624
+description: "Rajkishore Kumar is a Mid-career Soil Carbon researcher at Agharkar Research Institute in IN. With 42 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.772756
 url: "/cdr-researcher-census/researchers/rajkishore-kumar-a5112840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rajkishore-kumar-a5112840/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bihar Agricultural University"
+    "name": "Agharkar Research Institute"
   },
   "sameAs": "https://openalex.org/A5112840365"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Rajkishore Kumar**  
-Bihar Agricultural University · 🇮🇳 IN
+Agharkar Research Institute · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,24 +40,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 255 |
-| Publications | 41 |
-| CDR Focus | 9.8% |
+| Citations | 272 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   52 citations · General CDR
+   54 citations · General CDR
 
 2. **Hedge and Alder-Based Agroforestry Systems: Potential Interventions to Carbon Sequestration and Better Crop Productivity in Indian Sub-Himalayas** (2022)
-   23 citations · General CDR
+   27 citations · General CDR
 
 3. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration and Yield Sustainability in the Lowland Terai Region of India** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

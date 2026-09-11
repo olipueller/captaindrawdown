@@ -1,7 +1,7 @@
 ---
 title: "Jerome Dumortier"
-description: "Jerome Dumortier is a Senior General CDR researcher at Indiana University – Purdue University Indianapolis in US. With 94 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.266763
+description: "Jerome Dumortier is a Senior General CDR researcher at Indiana University – Purdue University Indianapolis in US. With 93 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.228025
 url: "/cdr-researcher-census/researchers/jerome-dumortier-a5062287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,163 |
-| Publications | 94 |
-| CDR Focus | 5.3% |
+| h-index | 18 |
+| Citations | 1,121 |
+| Publications | 93 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Cost of cooling: The value of reversible carbon storage in a zero-emissions world** (2025)
-   2 citations · DAC
+   3 citations · DAC
 
 3. **The Value of ReversibleCarbon Storage in a Zero-EmissionsWorld** (2026)
    0 citations · DAC

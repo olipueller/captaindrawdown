@@ -1,7 +1,7 @@
 ---
 title: "Elena Curcio"
 description: "Elena Curcio is an Early-career Soil Carbon researcher at University of Colorado Boulder in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.241864
+date: 2026-09-11T02:38:30.211347
 url: "/cdr-researcher-census/researchers/elena-curcio-a5052053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 133 |
+| Citations | 135 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Unknown |

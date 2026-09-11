@@ -1,7 +1,7 @@
 ---
 title: "Jianli Yang"
 description: "Jianli Yang is a Mid-career Soil Carbon researcher at Hybrid Rapeseed Research Center of Shaanxi Province in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.334791
+date: 2026-09-11T02:38:30.312423
 url: "/cdr-researcher-census/researchers/jianli-yang-a5101074/"
 layout: "researcher"
 hiddenInHomeList: true

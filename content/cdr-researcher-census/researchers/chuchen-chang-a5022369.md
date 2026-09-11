@@ -1,7 +1,7 @@
 ---
 title: "Chuchen Chang"
-description: "Chuchen Chang is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.295701
+description: "Chuchen Chang is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.232062
 url: "/cdr-researcher-census/researchers/chuchen-chang-a5022369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Chuchen Chang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chuchen-chang-a5022369/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "China Agricultural University"
-  },
   "sameAs": [
     "https://orcid.org/0009-0000-7953-3077",
     "https://openalex.org/A5022369920"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Chuchen Chang**  
-China Agricultural University · 🇨🇳 CN
+**Chuchen Chang**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 123 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 131 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

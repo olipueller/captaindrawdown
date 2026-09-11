@@ -1,7 +1,7 @@
 ---
 title: "Richard Heede"
-description: "Richard Heede is a Mid-career DAC researcher at Climate Centre in NL. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.187963
+description: "Richard Heede is a Mid-career DAC researcher at Climate Centre in NL. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.137257
 url: "/cdr-researcher-census/researchers/richard-heede-a5035683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,811 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 1,858 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

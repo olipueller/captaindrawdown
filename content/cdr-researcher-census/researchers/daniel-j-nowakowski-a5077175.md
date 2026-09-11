@@ -1,7 +1,7 @@
 ---
 title: "Daniel J. Nowakowski"
-description: "Daniel J. Nowakowski is a Senior Biochar researcher at Aston University in GB. With 47 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.135358
+description: "Daniel J. Nowakowski is a Senior Biochar researcher at Aston University in GB. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.086015
 url: "/cdr-researcher-census/researchers/daniel-j-nowakowski-a5077175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,950 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 2,974 |
+| Publications | 49 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

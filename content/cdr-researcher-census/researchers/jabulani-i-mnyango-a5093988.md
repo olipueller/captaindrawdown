@@ -1,7 +1,7 @@
 ---
 title: "Jabulani I. Mnyango"
 description: "Jabulani I. Mnyango is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.164908
+date: 2026-09-11T02:38:30.027178
 url: "/cdr-researcher-census/researchers/jabulani-i-mnyango-a5093988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 150 |
+| Citations | 181 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **The nexuses of micro(nano)plastics at environmental interfaces: Challenges in wastewater treatment and sustainable water management** (2025)
-   10 citations · Biochar
+   13 citations · Biochar
 
 3. **Biochar-reinforced biodegradable mulching films: Toward climate-resilient and sustainable agriculture** (2026)
    3 citations · Biochar

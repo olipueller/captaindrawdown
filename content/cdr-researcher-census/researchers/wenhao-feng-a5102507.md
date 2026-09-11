@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Feng"
-description: "Wenhao Feng is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 62 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.620046
+description: "Wenhao Feng is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 62 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.553903
 url: "/cdr-researcher-census/researchers/wenhao-feng-a5102507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 391 |
+| h-index | 9 |
+| Citations | 415 |
 | Publications | 62 |
 | CDR Focus | 9.7% |
 | Trajectory | Growing |
@@ -54,21 +54,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   20 citations
+   21 citations
 
 5. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon
 
-6. **Trade-offs between stock and stability: Reversing land-use for soil carbon sequestration in a warming world** (2026)
-   2 citations · Soil Carbon
+6. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
+   3 citations · Soil Carbon
 
-7. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
+7. **Trade-offs between stock and stability: Reversing land-use for soil carbon sequestration in a warming world** (2026)
    2 citations · Soil Carbon
 
 ## External Profiles

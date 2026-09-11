@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Ricketts"
-description: "Michael P. Ricketts is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.867505
+description: "Michael P. Ricketts is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.770058
 url: "/cdr-researcher-census/researchers/michael-p-ricketts-a5046085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 239 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 273 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    4 citations · BECCS
 
 3. **Impacts of Photovoltaic Solar Energy on Soil Carbon: A Global Systematic Review and Framework** (2024)
-   1 citations
+   2 citations
 
 ## External Profiles
 

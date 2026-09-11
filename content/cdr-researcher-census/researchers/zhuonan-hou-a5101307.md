@@ -1,7 +1,7 @@
 ---
 title: "Zhuonan Hou"
-description: "Zhuonan Hou is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.120299
+description: "Zhuonan Hou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.042357
 url: "/cdr-researcher-census/researchers/zhuonan-hou-a5101307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zhuonan Hou",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhuonan-hou-a5101307/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Chinese Academy of Sciences"
+  },
   "sameAs": [
     "https://orcid.org/0009-0001-5103-1494",
     "https://openalex.org/A5101307515"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Zhuonan Hou**
+**Zhuonan Hou**  
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 162 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 177 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Saurav Das"
-description: "Saurav Das is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.725392
+description: "Saurav Das is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.643390
 url: "/cdr-researcher-census/researchers/saurav-das-a5075604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 313 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 7 |
+| Citations | 346 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2025)
-   6 citations
+   7 citations
 
 3. **Soil organic carbon: measurement and monitoring using remote sensing data** (2024)
    6 citations · General CDR
 
 4. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2024)
-   0 citations
+   1 citations
 
 5. **Soil Carbon Sequestration: A Mechanistic Perspective on Limitations and Future Possibilities** (2024)
    0 citations

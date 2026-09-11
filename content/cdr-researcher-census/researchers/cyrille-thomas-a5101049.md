@@ -1,7 +1,7 @@
 ---
 title: "Cyrille Thomas"
-description: "Cyrille Thomas is a Mid-career Soil Carbon researcher at Centre Français des Fonds et Fondations in FR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.359663
+description: "Cyrille Thomas is a Mid-career Soil Carbon researcher at Centre Français des Fonds et Fondations in FR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.315768
 url: "/cdr-researcher-census/researchers/cyrille-thomas-a5101049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 111 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 115 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

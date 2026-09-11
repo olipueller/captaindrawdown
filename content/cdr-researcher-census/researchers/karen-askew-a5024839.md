@@ -1,7 +1,7 @@
 ---
 title: "Karen Askew"
-description: "Karen Askew is a Mid-career Soil Carbon researcher at Institute of Biological, Environmental and Rural Sciences in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.134963
+description: "Karen Askew is a Mid-career Soil Carbon researcher at Aberystwyth University in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.110504
 url: "/cdr-researcher-census/researchers/karen-askew-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/karen-askew-a5024839/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Biological, Environmental and Rural Sciences"
+    "name": "Aberystwyth University"
   },
   "sameAs": "https://openalex.org/A5024839245"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Karen Askew**  
-Institute of Biological, Environmental and Rural Sciences · 🇬🇧 GB
+Aberystwyth University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -41,8 +41,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 3 |
 | Citations | 158 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Significant difference in <i>Miscanthus</i> species root carbon exudation rate** (2025)
    3 citations
 
-2. **Identifying a cell wall ideotype for increased soil carbon contents associated with Miscanthus cultivation** (2026)
+2. **Miscanthus Leaf Drop Timing Impacts Autumn and Winter Soil Decomposition Rates** (2026)
+   0 citations · Soil Carbon
+
+3. **Identifying a cell wall ideotype for increased soil carbon contents associated with Miscanthus cultivation** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Jitao Zhou"
-description: "Jitao Zhou is a Mid-career Soil Carbon researcher at Chang'an University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.593227
+description: "Jitao Zhou is a Mid-career Soil Carbon researcher at Chang'an University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.533079
 url: "/cdr-researcher-census/researchers/jitao-zhou-a5034824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 415 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 436 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · General CDR
 
 2. **Atmospheric water demand dominates terrestrial ecosystem productivity in China** (2024)
-   24 citations
+   25 citations
 
 3. **Reconciling ecosystem service supply-demand mismatches through ecological compensation in the Tibetan plateau** (2025)
    3 citations · General CDR

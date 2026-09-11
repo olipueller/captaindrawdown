@@ -1,7 +1,7 @@
 ---
 title: "Sheela Barla"
-description: "Sheela Barla is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.327463
+description: "Sheela Barla is a Senior Soil Carbon researcher at Birsa Agricultural University in IN. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.236088
 url: "/cdr-researcher-census/researchers/sheela-barla-a5110310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,15 +14,20 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sheela Barla",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sheela-barla-a5110310/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Birsa Agricultural University"
+  },
   "sameAs": "https://openalex.org/A5110310777"
 }
 </script>
 
 ## Profile
 
-**Sheela Barla**
+**Sheela Barla**  
+Birsa Agricultural University · 🇮🇳 IN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -34,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 117 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| h-index | 7 |
+| Citations | 130 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

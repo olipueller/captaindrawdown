@@ -1,7 +1,7 @@
 ---
 title: "Emily Guest"
-description: "Emily Guest is a Mid-career Soil Carbon researcher at Agricultural Development Advisory Service (United Kingdom) in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.133548
+description: "Emily Guest is a Mid-career Soil Carbon researcher at Cranfield University in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.105347
 url: "/cdr-researcher-census/researchers/emily-guest-a5056595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/emily-guest-a5056595/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agricultural Development Advisory Service (United Kingdom)"
+    "name": "Cranfield University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8586-7567",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Emily Guest**  
-Agricultural Development Advisory Service (United Kingdom) · 🇬🇧 GB
+Cranfield University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 158 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 159 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

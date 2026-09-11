@@ -1,7 +1,7 @@
 ---
 title: "Kejin Chen"
-description: "Kejin Chen is a Senior Soil Carbon researcher at Chongqing University in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911178
+description: "Kejin Chen is a Senior Soil Carbon researcher at Chongqing University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.878490
 url: "/cdr-researcher-census/researchers/kejin-chen-a5004787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 221 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 225 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The dominant microbial metabolic pathway of the petroleum hydrocarbons in the soil of shale gas field: Carbon fixation instead of CO2 emissions** (2021)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Effects of fungal-derived necromass carbon in shale gas mining areas to soil carbon sequestration: insights into microbial degradation and mineral binding** (2025)
    0 citations · Biochar

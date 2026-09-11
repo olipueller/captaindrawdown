@@ -1,7 +1,7 @@
 ---
 title: "Luhao He"
 description: "Luhao He is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.173084
+date: 2026-09-11T02:38:30.033712
 url: "/cdr-researcher-census/researchers/luhao-he-a5113350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 148 |
+| Citations | 179 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Artificial intelligence for carbon sequestration: A multi-scale review of nature-based and engineered pathways** (2025)
-   0 citations · General CDR
+   3 citations · General CDR
 
 2. **A Systematic Review of Carbon Sink Pathways and Deployment Strategies** (2025)
    0 citations · General CDR

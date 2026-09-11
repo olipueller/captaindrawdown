@@ -1,7 +1,7 @@
 ---
 title: "Obey Gotore"
-description: "Obey Gotore is a Mid-career Biochar researcher at Nagasaki University in JP. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.579352
+description: "Obey Gotore is a Mid-career Biochar researcher at Kyushu University in JP. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.522864
 url: "/cdr-researcher-census/researchers/obey-gotore-a5059089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/obey-gotore-a5059089/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nagasaki University"
+    "name": "Kyushu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8556-0151",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Obey Gotore**  
-Nagasaki University · 🇯🇵 JP
+Kyushu University · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 428 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 445 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar derived from non-customized matamba fruit shell as an adsorbent for wastewater treatment** (2022)
-   146 citations · Biochar
+   147 citations · Biochar
 
 2. **The immobilization and adsorption mechanisms of agro-waste based biochar: A review on the effectiveness of pyrolytic temperatures on heavy metal removal** (2024)
-   48 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ci‐Jian Yang"
-description: "Ci‐Jian Yang is a Mid-career Enhanced Weathering researcher at National Taiwan University in TW. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.501767
+description: "Ci‐Jian Yang is a Mid-career Enhanced Weathering researcher at National Taiwan University in TW. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.446378
 url: "/cdr-researcher-census/researchers/cijian-yang-a5006273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 511 |
-| Publications | 58 |
-| CDR Focus | 8.6% |
+| Citations | 535 |
+| Publications | 64 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Alex Badgett"
-description: "Alex Badgett is a Mid-career General CDR researcher at National Renewable Energy Laboratory in US. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.367031
+description: "Alex Badgett is a Mid-career General CDR researcher at National Renewable Energy Laboratory in US. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.303756
 url: "/cdr-researcher-census/researchers/alex-badgett-a5078804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 765 |
+| h-index | 14 |
+| Citations | 821 |
 | Publications | 41 |
 | CDR Focus | 7.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Optimizing utilization of point source and atmospheric carbon dioxide as a feedstock in electrochemical CO2 reduction** (2022)
-   25 citations · DAC
+   26 citations · DAC
 
 2. **CO2ROpt (Feedstock Allocation Optimization Model) [SWR-22-13]** (2021)
    0 citations · DAC

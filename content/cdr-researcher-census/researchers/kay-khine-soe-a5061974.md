@@ -1,7 +1,7 @@
 ---
 title: "Kay Khine Soe"
-description: "Kay Khine Soe is a Mid-career Ocean CDR researcher at College of Micronesia-FSM in FM. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.193700
+description: "Kay Khine Soe is a Mid-career Ocean CDR researcher at College of Micronesia-FSM in FM. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.086158
 url: "/cdr-researcher-census/researchers/kay-khine-soe-a5061974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 144 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 165 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Blue carbon and microplastic dynamics in natural and planted mangroves, Thailand** (2026)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

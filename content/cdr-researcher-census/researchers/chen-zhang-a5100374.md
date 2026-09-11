@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
-description: "Chen Zhang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595802
+description: "Chen Zhang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.525968
 url: "/cdr-researcher-census/researchers/chen-zhang-a5100374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chen-zhang-a5100374/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "Zhejiang University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1882-6236",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chen Zhang**  
-Nanjing Forestry University · 🇨🇳 CN
+Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 412 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 442 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 2. **Long-term nitrogen deposition suppresses microbial necromass carbon with depth- and season-specific patterns in forest soils** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

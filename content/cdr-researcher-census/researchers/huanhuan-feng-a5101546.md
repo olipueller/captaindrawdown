@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Feng"
-description: "Huanhuan Feng is a Senior Soil Carbon researcher at Central South University in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.185494
+description: "Huanhuan Feng is a Senior Soil Carbon researcher at Central South University in CN. With 63 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.132534
 url: "/cdr-researcher-census/researchers/huanhuan-feng-a5101546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,843 |
-| Publications | 58 |
-| CDR Focus | 6.9% |
+| h-index | 19 |
+| Citations | 1,923 |
+| Publications | 63 |
+| CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
-   1 citations · Soil Carbon
+1. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
+   3 citations · Soil Carbon
 
-2. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
-   1 citations · Soil Carbon
+2. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
+   2 citations · Soil Carbon
 
 3. **Soil Water Content, Cbbm Gene Abundance and Saline-Alkaline are Crucial Factors for Soil Carbon Content During Wetland Reclamation and Restoration** (2025)
    0 citations · Soil Carbon

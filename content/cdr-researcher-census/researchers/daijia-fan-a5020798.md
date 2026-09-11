@@ -1,7 +1,7 @@
 ---
 title: "Daijia Fan"
-description: "Daijia Fan is a Mid-career Soil Carbon researcher at Beijing Academy of Agricultural and Forestry Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.393419
+description: "Daijia Fan is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.332776
 url: "/cdr-researcher-census/researchers/daijia-fan-a5020798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daijia-fan-a5020798/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Academy of Agricultural and Forestry Sciences"
+    "name": "Beijing Academy of Agriculture and Forestry Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1989-5428",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Daijia Fan**  
-Beijing Academy of Agricultural and Forestry Sciences · 🇨🇳 CN
+Beijing Academy of Agriculture and Forestry Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 703 |
+| Citations | 750 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating straw return and tillage practices to enhance soil organic carbon sequestration in wheat–maize rotation systems in the North China Plain** (2025)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Integrating Straw Return and Tillage Practices to Enhance Soil Organic Carbon Sequestration in Wheat-Maize Rotation Systems in North China** (2024)
    0 citations · Soil Carbon

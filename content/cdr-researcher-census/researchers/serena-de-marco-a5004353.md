@@ -1,7 +1,7 @@
 ---
 title: "Serena De Marco"
 description: "Serena De Marco is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.095338
+date: 2026-09-11T02:38:30.014684
 url: "/cdr-researcher-census/researchers/serena-de-marco-a5004353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 168 |
+| Citations | 185 |
 | Publications | 7 |
 | CDR Focus | 42.9% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   14 citations · General CDR
+   16 citations · General CDR
 
 2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 3. **Energy demand and savings opportunities in the supply of limestone and olivine-rich rocks for geochemical carbon dioxide removal** (2024)
-   6 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 ## External Profiles
 

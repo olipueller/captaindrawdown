@@ -1,7 +1,7 @@
 ---
 title: "Katherine Dombrowski"
-description: "Katherine Dombrowski is a Senior General CDR researcher at Trimeric (United States) in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.962052
+description: "Katherine Dombrowski is a Senior General CDR researcher at Trimeric (United States) in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.944262
 url: "/cdr-researcher-census/researchers/katherine-dombrowski-a5060023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 210 |
-| Publications | 21 |
-| CDR Focus | 23.8% |
+| Citations | 207 |
+| Publications | 19 |
+| CDR Focus | 26.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    21 citations · DAC
 
 2. **Cost details from front-end engineering design of piperazine with the advanced stripper** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 3. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
    6 citations · General CDR

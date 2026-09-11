@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhou"
-description: "Tao Zhou is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.344619
+description: "Tao Zhou is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.289732
 url: "/cdr-researcher-census/researchers/tao-zhou-a5101863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tao-zhou-a5101863/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Consejo Superior de Investigaciones Cient\u00edficas"
+    "name": "Northeast Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2475-3480",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tao Zhou**  
-Consejo Superior de Investigaciones Científicas · 🇪🇸 ES
+Northeast Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 833 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
-| Trajectory | Stable |
+| Citations | 871 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Impact of annual plant prevalence on soil carbon storage through root turnover and productivity** (2025)
    2 citations · Soil Carbon
+
+3. **Species compositions determine the ecosystem services of alternative forest transitions in the boreal‐temperate ecotone** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

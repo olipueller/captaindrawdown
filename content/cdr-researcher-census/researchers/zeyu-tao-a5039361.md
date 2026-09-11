@@ -1,7 +1,7 @@
 ---
 title: "Zeyu Tao"
 description: "Zeyu Tao is a Mid-career DAC researcher at City University of Hong Kong in HK. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.438591
+date: 2026-09-11T02:38:29.380454
 url: "/cdr-researcher-census/researchers/zeyu-tao-a5039361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 612 |
+| Citations | 641 |
 | Publications | 25 |
 | CDR Focus | 12.0% |
 | Trajectory | Growing |

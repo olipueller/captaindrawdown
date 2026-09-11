@@ -1,7 +1,7 @@
 ---
 title: "Evan G. Hockridge"
-description: "Evan G. Hockridge is a Mid-career Soil Carbon researcher at Harvard University Press in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.924833
+description: "Evan G. Hockridge is a Mid-career Soil Carbon researcher at Harvard University Press in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.883188
 url: "/cdr-researcher-census/researchers/evan-g-hockridge-a5066443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 217 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 224 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Limited increases in savanna carbon stocks over decades of fire suppression** (2022)
-   97 citations · Soil Carbon
+   99 citations · Soil Carbon
 
 ## External Profiles
 

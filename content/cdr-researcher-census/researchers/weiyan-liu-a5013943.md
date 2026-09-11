@@ -1,7 +1,7 @@
 ---
 title: "Weiyan Liu"
 description: "Weiyan Liu is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.989895
+date: 2026-09-11T02:38:29.883538
 url: "/cdr-researcher-census/researchers/weiyan-liu-a5013943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 200 |
+| Citations | 224 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A 2020 forest age map for China with 30 m resolution** (2024)
-   68 citations · General CDR
+   70 citations · General CDR
 
 2. **2020 forest age map for China with 30 m resolution** (2023)
    1 citations · General CDR

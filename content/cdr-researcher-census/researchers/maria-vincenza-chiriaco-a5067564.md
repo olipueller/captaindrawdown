@@ -1,7 +1,7 @@
 ---
 title: "Maria Vincenza Chiriacò"
-description: "Maria Vincenza Chiriacò is a Senior Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 97 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.374600
+description: "Maria Vincenza Chiriacò is a Senior Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 101 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.311621
 url: "/cdr-researcher-census/researchers/maria-vincenza-chiriaco-a5067564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 748 |
-| Publications | 97 |
-| CDR Focus | 7.2% |
+| h-index | 17 |
+| Citations | 802 |
+| Publications | 101 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   27 citations · General CDR
+   30 citations · General CDR
 
 2. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
-   24 citations · General CDR
+   29 citations · General CDR
 
 3. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 4. **Advancing carbon monitoring technologies in forests and woody crops: a review for carbon farming** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 5. **Advancing Forest Cover and Forest Cover Change Mapping for SDG 15: A Novel Approach Using Copernicus Data Products** (2024)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "Xin Zhao"
 description: "Xin Zhao is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.137436
+date: 2026-09-11T02:38:30.085467
 url: "/cdr-researcher-census/researchers/xin-zhao-a5103105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 157 |
+| Citations | 165 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

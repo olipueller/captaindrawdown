@@ -1,7 +1,7 @@
 ---
 title: "Danny Otto"
-description: "Danny Otto is a Mid-career General CDR researcher. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.587901
+description: "Danny Otto is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.528649
 url: "/cdr-researcher-census/researchers/danny-otto-a5034418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Danny Otto",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/danny-otto-a5034418/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Helmholtz Centre for Environmental Research"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6045-5531",
     "https://openalex.org/A5034418913"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Danny Otto**
+**Danny Otto**  
+Helmholtz Centre for Environmental Research · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 419 |
+| Citations | 439 |
 | Publications | 44 |
 | CDR Focus | 13.6% |
 | Trajectory | Growing |
@@ -49,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    7 citations · General CDR
 
 2. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 3. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 4. **Hurdles still outweigh opportunities for bioCDR: Reports from stakeholder workshops on biomass-based carbon dioxide removal (CDR)** (2025)
    0 citations · General CDR

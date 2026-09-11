@@ -1,7 +1,7 @@
 ---
 title: "Christoph Gerhards"
 description: "Christoph Gerhards is an Early-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.172495
+date: 2026-09-11T02:38:30.095824
 url: "/cdr-researcher-census/researchers/christoph-gerhards-a5049936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 148 |
+| Citations | 161 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Proposing a 1.0°C climate target for a safer future** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 2. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
-   26 citations · DAC
+   31 citations · DAC
 
 3. **Area demand quantification for energy system-integrated negative emissions based on carbon dioxide removal portfolios** (2025)
    2 citations · BECCS

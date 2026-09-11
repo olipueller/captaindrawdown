@@ -1,7 +1,7 @@
 ---
 title: "Astrid Bos"
-description: "Astrid Bos is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.761689
+description: "Astrid Bos is a Mid-career BECCS researcher at Netherlands Environmental Assessment Agency in NL. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.705157
 url: "/cdr-researcher-census/researchers/astrid-bos-a5049062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,27 +34,33 @@ Netherlands Environmental Assessment Agency · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 292 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
-| Trajectory | Exiting |
+| h-index | 9 |
+| Citations | 306 |
+| Publications | 21 |
+| CDR Focus | 19.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
    12 citations · General CDR
+
+3. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
+
+4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

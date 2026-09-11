@@ -1,7 +1,7 @@
 ---
 title: "Hang Shi"
-description: "Hang Shi is a Senior Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.621603
+description: "Hang Shi is a Senior Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.558543
 url: "/cdr-researcher-census/researchers/hang-shi-a5042228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 390 |
-| Publications | 37 |
-| CDR Focus | 13.5% |
+| Citations | 411 |
+| Publications | 36 |
+| CDR Focus | 13.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Tree biomass allocation is governed by allometry but modulated by optimization** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Short-term P addition weakens the positive effects of N addition on CH4 uptake in alpine grasslands of the Qinghai-Tibetan Plateau** (2024)
    5 citations · Soil Carbon
 
 3. **Microbial nutrient limitations and chemical composition of soil organic carbon regulate the organic carbon mineralization and temperature sensitivity in forest and grassland soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Fertilization practices for balancing carbon sequestration, emissions and yield in rice-wheat rotation: A meta-analysis** (2025)
    2 citations · General CDR

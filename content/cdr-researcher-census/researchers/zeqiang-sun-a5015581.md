@@ -1,7 +1,7 @@
 ---
 title: "Zeqiang Sun"
 description: "Zeqiang Sun is a Senior Soil Carbon researcher at Ministry of Agriculture in BW. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.695462
+date: 2026-09-11T02:38:29.624151
 url: "/cdr-researcher-census/researchers/zeqiang-sun-a5015581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 334 |
+| Citations | 359 |
 | Publications | 45 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The response of soil organic carbon sequestration to organic materials addition in saline-alkali soil: from the perspective of soil aggregate structure and organic carbon component** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
    7 citations · Soil Carbon

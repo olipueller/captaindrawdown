@@ -1,7 +1,7 @@
 ---
 title: "Hussain M. Almajed"
 description: "Hussain M. Almajed is an Early-career General CDR researcher at University of Colorado Boulder in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.028864
+date: 2026-09-11T02:38:29.954205
 url: "/cdr-researcher-census/researchers/hussain-m-almajed-a5070145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 188 |
+| Citations | 203 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Closing the Loop: Unexamined Performance Trade-Offs of Integrating Direct Air Capture with (Bi)carbonate Electrolysis** (2024)
-   40 citations
+   45 citations
 
 2. **Quantifying capital-energy trade-offs in bipolar membrane electrodialysis for atmospheric and oceanic carbon removal** (2026)
    0 citations · General CDR

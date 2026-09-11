@@ -1,7 +1,7 @@
 ---
 title: "Fuwei Wang"
-description: "Fuwei Wang is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.314366
+description: "Fuwei Wang is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.263984
 url: "/cdr-researcher-census/researchers/fuwei-wang-a5101858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 933 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 958 |
+| Publications | 38 |
+| CDR Focus | 7.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate change drivers alter root controls over litter decomposition in a semi-arid grassland** (2021)
-   47 citations
+   49 citations
 
 2. **Earthworm breeding techniques and their roles in microbial regulation and soil carbon sequestration** (2025)
    1 citations · Soil Carbon
 
-3. **Plateau zokor mounds decrease soil respiration by shifting microenvironment** (2025)
+3. **Straw return and organic fertilization promote soil organic carbon sequestration through microbes** (2026)
+   0 citations · Soil Carbon
+
+4. **Plateau zokor mounds decrease soil respiration by shifting microenvironment** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Sharmistha Das"
 description: "Sharmistha Das is a Mid-career Soil Carbon researcher at Bharath University in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.926673
+date: 2026-09-11T02:38:29.874392
 url: "/cdr-researcher-census/researchers/sharmistha-das-a5102424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 216 |
+| Citations | 227 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of soil organic carbon to conservation practices including climate-smart agriculture in tropical and subtropical regions: A meta-analysis** (2021)
-   77 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 2. **Changes in carbon stocks and its economic valuation under a changing land use pattern—A multitemporal study in Konar catchment, India** (2021)
    36 citations · General CDR

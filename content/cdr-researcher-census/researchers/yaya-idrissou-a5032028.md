@@ -1,7 +1,7 @@
 ---
 title: "Yaya Idrissou"
-description: "Yaya Idrissou is a Mid-career Soil Carbon researcher at Université de Parakou in BJ. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.137343
+description: "Yaya Idrissou is a Mid-career Soil Carbon researcher at Université de Parakou in BJ. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.098068
 url: "/cdr-researcher-census/researchers/yaya-idrissou-a5032028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 157 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 161 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

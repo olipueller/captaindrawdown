@@ -1,7 +1,7 @@
 ---
 title: "Zhe Shen"
-description: "Zhe Shen is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.580083
+description: "Zhe Shen is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.500354
 url: "/cdr-researcher-census/researchers/zhe-shen-a5112816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 428 |
-| Publications | 42 |
-| CDR Focus | 11.9% |
+| Citations | 468 |
+| Publications | 44 |
+| CDR Focus | 11.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · General CDR
 
 2. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR

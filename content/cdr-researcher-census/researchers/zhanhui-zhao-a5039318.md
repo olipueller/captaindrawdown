@@ -1,7 +1,7 @@
 ---
 title: "Zhanhui Zhao"
-description: "Zhanhui Zhao is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.573863
+description: "Zhanhui Zhao is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.519894
 url: "/cdr-researcher-census/researchers/zhanhui-zhao-a5039318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 433 |
-| Publications | 20 |
-| CDR Focus | 25.0% |
-| Trajectory | Exiting |
+| Citations | 449 |
+| Publications | 21 |
+| CDR Focus | 28.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Effects of different tillage and fertilization management practices on soil organic carbon and aggregates under the rice–wheat rotation system** (2021)
+1. **Organic carbon accumulation and aggregate formation in soils under organic and inorganic fertilizer management practices in a rice–wheat cropping system** (2023)
    69 citations · Soil Carbon
 
-2. **Organic carbon accumulation and aggregate formation in soils under organic and inorganic fertilizer management practices in a rice–wheat cropping system** (2023)
-   66 citations · Soil Carbon
+2. **Effects of different tillage and fertilization management practices on soil organic carbon and aggregates under the rice–wheat rotation system** (2021)
+   69 citations · Soil Carbon
 
 3. **Effects of Organic and Inorganic Fertilization on Soil Organic Carbon and Enzymatic Activities** (2022)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Soil organic carbon fractions and its association with water‐stable aggregates under different fertilization management practices** (2021)
    16 citations · Soil Carbon

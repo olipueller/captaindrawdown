@@ -1,7 +1,7 @@
 ---
 title: "Fanghong Yao"
 description: "Fanghong Yao is an Early-career General CDR researcher at Tsinghua University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.116441
+date: 2026-09-11T02:38:30.038296
 url: "/cdr-researcher-census/researchers/fanghong-yao-a5091628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 163 |
+| Citations | 178 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

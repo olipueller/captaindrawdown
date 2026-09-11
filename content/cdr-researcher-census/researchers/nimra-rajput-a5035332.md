@@ -1,7 +1,7 @@
 ---
 title: "Nimra Rajput"
 description: "Nimra Rajput is a Mid-career Biochar researcher at Yangzhou University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.092830
+date: 2026-09-11T02:38:30.002478
 url: "/cdr-researcher-census/researchers/nimra-rajput-a5035332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 169 |
+| Citations | 189 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploration of biochars for enhancing soil health, carbon sequestration, and greenhouse gas emission reductions under citrus cultivation** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

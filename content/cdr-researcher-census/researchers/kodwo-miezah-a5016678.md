@@ -1,7 +1,7 @@
 ---
 title: "Kodwo Miezah"
-description: "Kodwo Miezah is a Mid-career Biochar researcher at Kwame Nkrumah University of Science and Technology in GH. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.322633
+description: "Kodwo Miezah is a Mid-career Biochar researcher at Kwame Nkrumah University of Science and Technology in GH. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.273619
 url: "/cdr-researcher-census/researchers/kodwo-miezah-a5016678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 898 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 920 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

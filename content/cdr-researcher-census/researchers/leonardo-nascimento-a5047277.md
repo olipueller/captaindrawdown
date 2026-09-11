@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Nascimento"
 description: "Leonardo Nascimento is a Mid-career General CDR researcher at Universidade Federal Fluminense in BR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.455032
+date: 2026-09-11T02:38:29.403831
 url: "/cdr-researcher-census/researchers/leonardo-nascimento-a5047277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 583 |
+| Citations | 601 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Twenty years of climate policy: G20 coverage and gaps** (2021)
-   109 citations · General CDR
+   110 citations · General CDR
 
 2. **Implications of current net zero targets for long-term emissions pathways and warming levels** (2021)
    0 citations · General CDR

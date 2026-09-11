@@ -1,7 +1,7 @@
 ---
 title: "Jiamin Pan"
-description: "Jiamin Pan is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.826552
+description: "Jiamin Pan is a Mid-career Biochar researcher at South China University of Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.882041
 url: "/cdr-researcher-census/researchers/jiamin-pan-a5023438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiamin-pan-a5023438/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dalian University of Technology"
+    "name": "South China University of Technology"
   },
   "sameAs": "https://openalex.org/A5023438286"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiamin Pan**  
-Dalian University of Technology · 🇨🇳 CN
+South China University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 258 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| h-index | 5 |
+| Citations | 224 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

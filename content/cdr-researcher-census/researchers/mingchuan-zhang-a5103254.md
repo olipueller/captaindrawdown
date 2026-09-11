@@ -1,7 +1,7 @@
 ---
 title: "Mingchuan Zhang"
-description: "Mingchuan Zhang is a Senior Biochar researcher at Northeastern University in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.375413
+description: "Mingchuan Zhang is a Senior Biochar researcher at Northeastern University in CN. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.325542
 url: "/cdr-researcher-census/researchers/mingchuan-zhang-a5103254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 746 |
+| h-index | 15 |
+| Citations | 768 |
 | Publications | 27 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multi-walled carbon nanotubes modified corn straw biochar as high-performance anode in microbial fuel cells** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 2. **Straw-derived macroporous biochar as high-performance anode in microbial fuel cells** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Dual HNO₃/NH₃ modification of loofah biochar carbonised enabling high-performance and sustainable anodes for microbial fuel cells** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anna Daniela Malerba"
-description: "Anna Daniela Malerba is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.766565
+description: "Anna Daniela Malerba is a Mid-career Biochar researcher at Agenzia Regionale per la Protezione dell'ambiente ligure in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.732238
 url: "/cdr-researcher-census/researchers/anna-daniela-malerba-a5007422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Anna Daniela Malerba",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anna-daniela-malerba-a5007422/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Agenzia Regionale per la Protezione dell'ambiente ligure"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-9619-285X",
     "https://openalex.org/A5007422154"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Anna Daniela Malerba**
+**Anna Daniela Malerba**  
+Agenzia Regionale per la Protezione dell'ambiente ligure · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 290 |
+| Citations | 292 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

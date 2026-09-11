@@ -1,7 +1,7 @@
 ---
 title: "Michael Francis D. Benjamin"
-description: "Michael Francis D. Benjamin is a Mid-career General CDR researcher at University of Santo Tomas in PH. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.427889
+description: "Michael Francis D. Benjamin is a Mid-career General CDR researcher at University of Santo Tomas in PH. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.383308
 url: "/cdr-researcher-census/researchers/michael-francis-d-benjamin-a5055109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 632 |
-| Publications | 48 |
-| CDR Focus | 14.6% |
+| Citations | 636 |
+| Publications | 49 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,13 +62,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Mixed-Integer Linear Programming Model for the Synthesis of Negative-Emission Biochar Systems** (2022)
    1 citations · Biochar
 
-5. **Criticality analysis in carbon dioxide removal process network using P-graph** (2026)
+5. **Resources Allocation and Operations Optimization for CO2 Capture in Industrial Clusters** (2025)
+   0 citations
+
+6. **Criticality analysis in carbon dioxide removal process network using P-graph** (2026)
    0 citations · General CDR
 
-6. **Optimal Integration of Polygen eration with Carbon Dioxide Removal** (2022)
+7. **Optimal Integration of Polygen eration with Carbon Dioxide Removal** (2022)
    0 citations · General CDR
 
-7. **Fuzzy Optimization Model for Biochar-based Carbon Management Networks** (2021)
+8. **Fuzzy Optimization Model for Biochar-based Carbon Management Networks** (2021)
    0 citations · Biochar
 
 ## External Profiles

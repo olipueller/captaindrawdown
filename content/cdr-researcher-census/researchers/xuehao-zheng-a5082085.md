@@ -1,7 +1,7 @@
 ---
 title: "Xuehao Zheng"
-description: "Xuehao Zheng is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.534667
+description: "Xuehao Zheng is a Mid-career Soil Carbon researcher at Shenyang University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.481150
 url: "/cdr-researcher-census/researchers/xuehao-zheng-a5082085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuehao-zheng-a5082085/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China West Normal University"
+    "name": "Shenyang University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3220-4609",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuehao Zheng**  
-China West Normal University · 🇨🇳 CN
+Shenyang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 472 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 13 |
+| Citations | 489 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

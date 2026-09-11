@@ -1,7 +1,7 @@
 ---
 title: "Qingguan Wu"
-description: "Qingguan Wu is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.844276
+description: "Qingguan Wu is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.795990
 url: "/cdr-researcher-census/researchers/qingguan-wu-a5022640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qingguan-wu-a5022640/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "University of Wisconsin\u2013Madison"
   },
   "sameAs": "https://openalex.org/A5022640057"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qingguan Wu**  
-Zhejiang University · 🇨🇳 CN
+University of Wisconsin–Madison · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 250 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 261 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

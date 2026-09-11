@@ -1,7 +1,7 @@
 ---
 title: "Puskar Khanal"
 description: "Puskar Khanal is a Senior General CDR researcher at Clemson University in US. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.624955
+date: 2026-09-11T02:38:29.569296
 url: "/cdr-researcher-census/researchers/puskar-khanal-a5051349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 386 |
+| Citations | 402 |
 | Publications | 39 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Native bamboo Arundinaria gigantea restoration for climate smart land management: A review** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Overstorey leaf production and emergence of sassafras saplings in a southwest Missouri oak woodland: An analysis based upon long-term effects of fire** (2024)
    2 citations · General CDR

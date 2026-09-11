@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Kai Sun"
-description: "Sheng‐Kai Sun is a Mid-career Soil Carbon researcher at Heidelberg University in DE. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.386267
+description: "Sheng‐Kai Sun is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.331300
 url: "/cdr-researcher-census/researchers/shengkai-sun-a5051697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shengkai-sun-a5051697/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Heidelberg University"
+    "name": "Nanjing Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7688-3928",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sheng‐Kai Sun**  
-Heidelberg University · 🇩🇪 DE
+Nanjing Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 719 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 754 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

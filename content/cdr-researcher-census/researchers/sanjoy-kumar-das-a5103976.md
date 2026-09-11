@@ -1,7 +1,7 @@
 ---
 title: "Sanjoy Kumar Das"
-description: "Sanjoy Kumar Das is a Senior Soil Carbon researcher. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.712454
+description: "Sanjoy Kumar Das is a Senior Soil Carbon researcher at Central Institute of Brackishwater Aquaculture in IN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.659976
 url: "/cdr-researcher-census/researchers/sanjoy-kumar-das-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sanjoy Kumar Das",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sanjoy-kumar-das-a5103976/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Central Institute of Brackishwater Aquaculture"
+  },
   "sameAs": "https://openalex.org/A5103976137"
 }
 </script>
 
 ## Profile
 
-**Sanjoy Kumar Das**
+**Sanjoy Kumar Das**  
+Central Institute of Brackishwater Aquaculture · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 322 |
+| Citations | 334 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

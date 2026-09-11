@@ -1,7 +1,7 @@
 ---
 title: "Vera Porwollik"
-description: "Vera Porwollik is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.913193
+description: "Vera Porwollik is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.862054
 url: "/cdr-researcher-census/researchers/vera-porwollik-a5032056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 221 |
+| h-index | 5 |
+| Citations | 231 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The role of cover crops for cropland soil carbon, nitrogen leaching, and agricultural yields – a global simulation study with LPJmL (V. 5.0-tillage-cc)** (2022)
-   52 citations · General CDR
+   54 citations · General CDR
 
 2. **The role of cover crops for cropland soil carbon, nitrogen leaching, and agricultural yields – A global simulation study with LPJmL (V. 5.0-tillage-cc)** (2021)
    6 citations

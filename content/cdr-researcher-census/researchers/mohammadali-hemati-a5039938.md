@@ -1,7 +1,7 @@
 ---
 title: "Mohammadali Hemati"
-description: "Mohammadali Hemati is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592076
+description: "Mohammadali Hemati is a Mid-career Soil Carbon researcher at Memorial University of Newfoundland in CA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.516031
 url: "/cdr-researcher-census/researchers/mohammadali-hemati-a5039938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mohammadali Hemati",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohammadali-hemati-a5039938/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Memorial University of Newfoundland"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-7507-9591",
     "https://openalex.org/A5039938133"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mohammadali Hemati**
+**Mohammadali Hemati**  
+Memorial University of Newfoundland · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
@@ -38,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 416 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 452 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrating SAR and Optical Data for Aboveground Biomass Estimation of Coastal Wetlands Using Machine Learning: Multi-Scale Approach** (2024)
-   31 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Comparative Analysis of UAVSAR Polarimetric Decompositions for Wetland Aboveground Biomass Mapping Using Machine Learning Models** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

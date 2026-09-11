@@ -1,7 +1,7 @@
 ---
 title: "Rukeya Reheman"
 description: "Rukeya Reheman is a Mid-career General CDR researcher at Shaanxi Normal University in CN. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777909
+date: 2026-09-11T02:38:29.716880
 url: "/cdr-researcher-census/researchers/rukeya-reheman-a5081071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 284 |
+| Citations | 300 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Response of agroecosystem services to urbanization based on social-ecological networks: A case study of the Guanzhong Plain Urban Agglomeration** (2025)
-   14 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

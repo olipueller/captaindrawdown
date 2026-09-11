@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Romanholi Pinhati"
-description: "Fernanda Romanholi Pinhati is a Mid-career Biochar researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.072447
+description: "Fernanda Romanholi Pinhati is a Mid-career Biochar researcher at Universidade Federal do Estado do Rio de Janeiro in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.030579
 url: "/cdr-researcher-census/researchers/fernanda-romanholi-pinhati-a5015834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Fernanda Romanholi Pinhati",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fernanda-romanholi-pinhati-a5015834/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade Federal do Estado do Rio de Janeiro"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-7120-4663",
     "https://openalex.org/A5015834661"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Fernanda Romanholi Pinhati**
+**Fernanda Romanholi Pinhati**  
+Universidade Federal do Estado do Rio de Janeiro · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 175 |
+| Citations | 180 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Shijin Zhao"
 description: "Shijin Zhao is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.634899
+date: 2026-09-11T02:38:29.587162
 url: "/cdr-researcher-census/researchers/shijin-zhao-a5108274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 378 |
+| Citations | 387 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Archaeal lipids in soils and sediments: Water impact and consequences for microbial carbon sequestration** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

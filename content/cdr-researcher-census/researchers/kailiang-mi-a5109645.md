@@ -1,7 +1,7 @@
 ---
 title: "Kailiang Mi"
 description: "Kailiang Mi is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.961736
+date: 2026-09-11T02:38:29.916901
 url: "/cdr-researcher-census/researchers/kailiang-mi-a5109645/"
 layout: "researcher"
 hiddenInHomeList: true

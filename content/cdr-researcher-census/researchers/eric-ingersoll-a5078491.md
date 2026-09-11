@@ -1,7 +1,7 @@
 ---
 title: "Eric Ingersoll"
-description: "Eric Ingersoll is a Mid-career BECCS researcher at Lucid Technologies (United States) in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.154524
+description: "Eric Ingersoll is a Mid-career BECCS researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102910
 url: "/cdr-researcher-census/researchers/eric-ingersoll-a5078491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Eric Ingersoll",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eric-ingersoll-a5078491/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Lucid Technologies (United States)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-3431-2171",
     "https://openalex.org/A5078491193"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Eric Ingersoll**  
-Lucid Technologies (United States) · 🇺🇸 US
+**Eric Ingersoll**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 2,370 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 2,449 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

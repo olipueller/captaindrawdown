@@ -1,7 +1,7 @@
 ---
 title: "Fabio Panizzuti"
 description: "Fabio Panizzuti is a Senior Ocean CDR researcher at University of Milano-Bicocca in IT. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.974430
+date: 2026-09-11T02:38:29.946818
 url: "/cdr-researcher-census/researchers/fabio-panizzuti-a5031751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 205 |
+| Citations | 206 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

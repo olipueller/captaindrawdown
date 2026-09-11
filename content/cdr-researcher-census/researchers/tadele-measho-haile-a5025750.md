@@ -1,7 +1,7 @@
 ---
 title: "Tadele Measho Haile"
-description: "Tadele Measho Haile is a Senior Biochar researcher at University of Minnesota System in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.894082
+description: "Tadele Measho Haile is a Senior Biochar researcher at University of Minnesota in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.858366
 url: "/cdr-researcher-census/researchers/tadele-measho-haile-a5025750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tadele-measho-haile-a5025750/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Minnesota System"
+    "name": "University of Minnesota"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4060-9868",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tadele Measho Haile**  
-University of Minnesota System · 🇺🇸 US
+University of Minnesota · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 228 |
+| Citations | 232 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Durai Jayaraman"
 description: "Durai Jayaraman is a Mid-career Soil Carbon researcher at International Network for Bamboo and Rattan in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.576734
+date: 2026-09-11T02:38:29.518153
 url: "/cdr-researcher-census/researchers/durai-jayaraman-a5063023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 430 |
+| Citations | 450 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations
 
 2. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Biomass, Carbon Stock and Sequestration Potential of Oxytenanthera abyssinica forests in Lower Beles River Basin, Northwestern Ethiopia** (2021)
    5 citations · Soil Carbon

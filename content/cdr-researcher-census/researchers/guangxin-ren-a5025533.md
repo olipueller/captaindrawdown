@@ -1,7 +1,7 @@
 ---
 title: "Guangxin Ren"
-description: "Guangxin Ren is a Mid-career Soil Carbon researcher at Huainan Normal University in CN. With 30 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317608
+description: "Guangxin Ren is a Senior Soil Carbon researcher at Huainan Normal University in CN. With 30 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.264908
 url: "/cdr-researcher-census/researchers/guangxin-ren-a5025533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Guangxin Ren**  
 Huainan Normal University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 922 |
+| h-index | 20 |
+| Citations | 955 |
 | Publications | 30 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   106 citations · Biochar
+   107 citations · Biochar
 
 2. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   45 citations · Biochar
+   48 citations · Biochar
 
 3. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
 
 4. **Changes in Soil Aggregate Carbon Components and Responses to Plant Input during Vegetation Restoration in the Loess Plateau, China** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Changes of Soil Aggregate Carbon Components and Responses to Plant Input During Vegetation Restoration in the Loess Plateau,China** (2024)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **[Mineralization Characteristics of Soil Organic Carbon and Its Relationship with Organic Carbon Components in Artificial <i>Robinia pseudoacacia</i> Forest in Loess Hilly Region].** (2023)
    0 citations · Soil Carbon

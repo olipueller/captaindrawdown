@@ -1,7 +1,7 @@
 ---
 title: "Yuying Qu"
-description: "Yuying Qu is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.391309
+description: "Yuying Qu is a Mid-career Enhanced Weathering researcher at Institute of Applied Ecology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.360305
 url: "/cdr-researcher-census/researchers/yuying-qu-a5000506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuying-qu-a5000506/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Applied Ecology"
   },
   "sameAs": "https://openalex.org/A5000506174"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuying Qu**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Applied Ecology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
-| Trajectory | Exiting |
+| Citations | 106 |
+| Publications | 6 |
+| CDR Focus | 33.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
    14 citations · Enhanced Weathering
+
+2. **Effects of wollastonite application doses on rice yield and soil carbon sequestration** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

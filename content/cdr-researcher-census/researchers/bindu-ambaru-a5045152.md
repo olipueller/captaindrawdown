@@ -1,7 +1,7 @@
 ---
 title: "Bindu Ambaru"
-description: "Bindu Ambaru is a Senior Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.558949
+description: "Bindu Ambaru is a Senior Soil Carbon researcher at Sardar Patel University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.512489
 url: "/cdr-researcher-census/researchers/bindu-ambaru-a5045152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Bindu Ambaru",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bindu-ambaru-a5045152/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sardar Patel University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-0131-0353",
     "https://openalex.org/A5045152726"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Bindu Ambaru**
+**Bindu Ambaru**  
+Sardar Patel University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 447 |
+| Citations | 455 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -46,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Synergistic integration of remote sensing and soil metagenomics data: advancing precision agriculture through interdisciplinary approaches** (2025)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

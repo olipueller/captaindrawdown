@@ -1,7 +1,7 @@
 ---
 title: "Deepakshi Babbar"
-description: "Deepakshi Babbar is a Mid-career Soil Carbon researcher at Indian Institute of Technology Bombay in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.736903
+description: "Deepakshi Babbar is a Mid-career Soil Carbon researcher at Indian Institute of Technology Bombay in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.690252
 url: "/cdr-researcher-census/researchers/deepakshi-babbar-a5001824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 306 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 314 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Wanjin Hu"
-description: "Wanjin Hu is a Mid-career Soil Carbon researcher at SAIC-GM (China) in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.884876
+description: "Wanjin Hu is a Mid-career Soil Carbon researcher at SAIC-GM (China) in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.825218
 url: "/cdr-researcher-census/researchers/wanjin-hu-a5011320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 232 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 247 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term cultivation reduces soil carbon storage by altering microbial network complexity and metabolism activity in macroaggregates** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Long-Term Cultivation Reduces Soil Organic Carbon Storage by Affecting Microbial-Mediated Carbon Decomposition in Macroaggregates** (2023)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yaonan Bai"
-description: "Yaonan Bai is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.395610
+description: "Yaonan Bai is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.340621
 url: "/cdr-researcher-census/researchers/yaonan-bai-a5109589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 105 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 110 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Quantifying the Contribution of Driving Factors on Distribution and Change in Vegetation NPP in the Huang–Huai–Hai Plain, China** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

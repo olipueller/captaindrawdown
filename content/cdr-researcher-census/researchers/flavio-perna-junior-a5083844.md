@@ -1,7 +1,7 @@
 ---
 title: "Flávio Perna Júnior"
 description: "Flávio Perna Júnior is an Early-career Soil Carbon researcher at Universidade de São Paulo in BR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.348673
+date: 2026-09-11T02:38:30.320308
 url: "/cdr-researcher-census/researchers/flavio-perna-junior-a5083844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 113 |
+| Citations | 114 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |

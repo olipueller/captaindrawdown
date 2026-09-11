@@ -1,7 +1,7 @@
 ---
 title: "Xueting Fei"
 description: "Xueting Fei is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.103001
+date: 2026-09-11T02:38:30.047394
 url: "/cdr-researcher-census/researchers/xueting-fei-a5038206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 167 |
+| Citations | 176 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **S and N codoping disrupts the electronic symmetry of the lignin-based porous carbon to enhance the removal of Cr(VI): Adsorption-reduction-readsorption mechanism** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

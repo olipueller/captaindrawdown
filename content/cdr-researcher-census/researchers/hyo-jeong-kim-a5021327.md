@@ -1,7 +1,7 @@
 ---
 title: "Hyo-Jeong Kim"
 description: "Hyo-Jeong Kim is a Mid-career General CDR researcher at City University of Hong Kong in HK. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.790815
+date: 2026-09-11T02:38:29.742790
 url: "/cdr-researcher-census/researchers/hyo-jeong-kim-a5021327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 277 |
+| Citations | 286 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

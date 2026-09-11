@@ -1,7 +1,7 @@
 ---
 title: "Wenxu Cao"
-description: "Wenxu Cao is a Mid-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.200944
+description: "Wenxu Cao is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.144040
 url: "/cdr-researcher-census/researchers/wenxu-cao-a5112704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenxu-cao-a5112704/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qinghai University for Nationalities"
+    "name": "Chinese Academy of Forestry"
   },
   "sameAs": "https://openalex.org/A5112704639"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenxu Cao**  
-Qinghai University for Nationalities · 🇨🇳 CN
+Chinese Academy of Forestry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 142 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 150 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The effect of agricultural management on soil microbial necromass: A hierarchical meta-analysis** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **The Effect of Agricultural Management on Soil Microbial Necromass ：A Hierarchical Meta-Analysis** (2023)
    0 citations · Soil Carbon

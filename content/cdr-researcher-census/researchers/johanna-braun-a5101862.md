@@ -1,7 +1,7 @@
 ---
 title: "Johanna Braun"
-description: "Johanna Braun is a Senior General CDR researcher. With 37 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.997978
+description: "Johanna Braun is a Senior General CDR researcher. With 39 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.971323
 url: "/cdr-researcher-census/researchers/johanna-braun-a5101862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 197 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 198 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Assessing historical and potential future Planetary Boundary transgressions in a consistent modelling framework** (2024)
    0 citations · General CDR

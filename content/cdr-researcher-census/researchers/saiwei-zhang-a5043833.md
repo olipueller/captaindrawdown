@@ -1,7 +1,7 @@
 ---
 title: "Saiwei Zhang"
-description: "Saiwei Zhang is a Mid-career Ocean CDR researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.218193
+description: "Saiwei Zhang is a Mid-career Ocean CDR researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.168127
 url: "/cdr-researcher-census/researchers/saiwei-zhang-a5043833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 138 |
+| h-index | 7 |
+| Citations | 144 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Efficient amplification of marine dark carbon fixation at the bioreactor scale: Bottlenecks and regulating strategies** (2025)
    0 citations · Ocean CDR

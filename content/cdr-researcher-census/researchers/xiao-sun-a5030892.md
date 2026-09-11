@@ -1,7 +1,7 @@
 ---
 title: "Xiao Sun"
-description: "Xiao Sun is a Senior Soil Carbon researcher at Renmin University of China in CN. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.167944
+description: "Xiao Sun is a Senior Soil Carbon researcher at Renmin University of China in CN. With 54 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.117143
 url: "/cdr-researcher-census/researchers/xiao-sun-a5030892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,106 |
+| h-index | 26 |
+| Citations | 2,169 |
 | Publications | 54 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

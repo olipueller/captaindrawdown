@@ -1,7 +1,7 @@
 ---
 title: "Jerosha Iftikhar"
-description: "Jerosha Iftikhar is an Early-career Biochar researcher at Huazhong University of Science and Technology in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.992196
+description: "Jerosha Iftikhar is an Early-career Biochar researcher at Huazhong University of Science and Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.915337
 url: "/cdr-researcher-census/researchers/jerosha-iftikhar-a5012362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 199 |
-| Publications | 2 |
-| CDR Focus | 50.0% |
+| Citations | 211 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Potential Role of Biochar on Capturing Soil Nutrients, Carbon Sequestration and Managing Environmental Challenges: A Review** (2023)
-   184 citations · Biochar
+   191 citations · Biochar
 
 ## External Profiles
 

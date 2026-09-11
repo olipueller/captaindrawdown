@@ -1,7 +1,7 @@
 ---
 title: "Martin Lappage"
-description: "Martin Lappage is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.437847
+description: "Martin Lappage is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.390151
 url: "/cdr-researcher-census/researchers/martin-lappage-a5009043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 614 |
+| h-index | 9 |
+| Citations | 626 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · Soil Carbon
 
 2. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

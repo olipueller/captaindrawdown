@@ -1,7 +1,7 @@
 ---
 title: "Johanna Buchner"
 description: "Johanna Buchner is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320770
+date: 2026-09-11T02:38:29.271612
 url: "/cdr-researcher-census/researchers/johanna-buchner-a5053619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 906 |
+| Citations | 929 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hedgerow map of Bavaria, Germany, based on orthophotos and convolutional neural networks** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

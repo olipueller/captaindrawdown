@@ -1,7 +1,7 @@
 ---
 title: "Jintao Zhou"
 description: "Jintao Zhou is a Mid-career Enhanced Weathering researcher at Guizhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288069
+date: 2026-09-11T02:38:30.235014
 url: "/cdr-researcher-census/researchers/jintao-zhou-a5112617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 124 |
+| Citations | 130 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Continental weathering led to the accumulation of Early Carboniferous bauxite deposits in the SW South China Craton** (2023)
-   11 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 ## External Profiles
 

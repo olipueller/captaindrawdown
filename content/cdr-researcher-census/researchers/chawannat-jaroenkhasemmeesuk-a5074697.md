@@ -1,7 +1,7 @@
 ---
 title: "Chawannat Jaroenkhasemmeesuk"
-description: "Chawannat Jaroenkhasemmeesuk is a Mid-career DAC researcher at Chiang Mai University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.811653
+description: "Chawannat Jaroenkhasemmeesuk is a Mid-career DAC researcher at Chiang Mai University in TH. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.765063
 url: "/cdr-researcher-census/researchers/chawannat-jaroenkhasemmeesuk-a5074697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 267 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 9 |
+| Citations | 276 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Current technology landscape of biochar in carbon capture and storage research via bibliometric analysis** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xuetao Liang"
-description: "Xuetao Liang is a Mid-career Biochar researcher at Tsinghua University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.612922
+description: "Xuetao Liang is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.527879
 url: "/cdr-researcher-census/researchers/xuetao-liang-a5062754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuetao-liang-a5062754/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tsinghua University"
+    "name": "China University of Geosciences (Beijing)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6186-3163",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuetao Liang**  
-Tsinghua University · 🇨🇳 CN
+China University of Geosciences (Beijing) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,10 +43,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 396 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Citations | 440 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

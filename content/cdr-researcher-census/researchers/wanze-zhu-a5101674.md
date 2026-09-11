@@ -1,7 +1,7 @@
 ---
 title: "Wanze Zhu"
 description: "Wanze Zhu is a Senior Soil Carbon researcher at Southwest Forestry University in CN. With 6 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.104849
+date: 2026-09-11T02:38:30.069723
 url: "/cdr-researcher-census/researchers/wanze-zhu-a5101674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 166 |
+| Citations | 170 |
 | Publications | 6 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial assemblies with distinct trophic strategies drive changes in soil microbial carbon use efficiency along vegetation primary succession in a glacier retreat area of the southeastern Tibetan Plateau** (2023)
-   69 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Increased microbial carbon use efficiency and turnover rate drive soil organic carbon storage in old-aged forest on the southeastern Tibetan Plateau** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Long-term nitrogen addition increased soil microbial carbon use efficiency in subalpine forests on the eastern edge of the Qinghai–Tibet Plateau** (2022)
    18 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Washington Zhakata"
 description: "Washington Zhakata is a Senior General CDR researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.358562
+date: 2026-09-11T02:38:30.314611
 url: "/cdr-researcher-census/researchers/washington-zhakata-a5008743/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 111 |
+| Citations | 115 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Interrogating Climate Adaptation Financing in Zimbabwe: Proposed Direction** (2021)
-   21 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

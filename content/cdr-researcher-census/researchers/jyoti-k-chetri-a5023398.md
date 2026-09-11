@@ -1,7 +1,7 @@
 ---
 title: "Jyoti K. Chetri"
 description: "Jyoti K. Chetri is a Mid-career Biochar researcher at jacobs engineering group inc in US. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.395934
+date: 2026-09-11T02:38:29.347737
 url: "/cdr-researcher-census/researchers/jyoti-k-chetri-a5023398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 697 |
+| Citations | 712 |
 | Publications | 50 |
 | CDR Focus | 16.0% |
 | Trajectory | Declining |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 3. **Use of methanotrophically activated biochar in novel biogeochemical cover system for carbon sequestration: Microbial characterization** (2022)
-   20 citations · Biochar
+   21 citations · Biochar
 
 4. **Evaluating the efficacy of biogeochemical cover system in mitigating landfill gas emissions: A large-scale laboratory simulation** (2024)
    15 citations

@@ -1,7 +1,7 @@
 ---
 title: "Hui Wang"
-description: "Hui Wang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.514022
+description: "Hui Wang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.467693
 url: "/cdr-researcher-census/researchers/hui-wang-a5107234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 496 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| h-index | 14 |
+| Citations | 505 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhuoxia Su"
-description: "Zhuoxia Su is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.046893
+description: "Zhuoxia Su is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.958499
 url: "/cdr-researcher-census/researchers/zhuoxia-su-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhuoxia-su-a5101185/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Soil and Water Conservation"
+    "name": "Beijing Forestry University"
   },
   "sameAs": "https://openalex.org/A5101185872"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhuoxia Su**  
-Institute of Soil and Water Conservation · 🇨🇳 CN
+Beijing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 183 |
-| Publications | 10 |
-| CDR Focus | 30.0% |
+| Citations | 202 |
+| Publications | 11 |
+| CDR Focus | 27.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Vegetation restoration altered the soil organic carbon composition and favoured its stability in a Robinia pseudoacacia plantation** (2023)
-   68 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Nitrogen addition decreases the soil cumulative priming effect and favours soil net carbon gains in Robinia pseudoacacia plantation soil** (2023)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Vegetation restoration changed the soil aggregate stability and aggregate carbon stabilization pathway according to δ13C signatures** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

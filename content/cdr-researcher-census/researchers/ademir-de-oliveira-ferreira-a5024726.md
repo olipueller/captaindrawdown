@@ -1,7 +1,7 @@
 ---
 title: "Ademir de Oliveira Ferreira"
-description: "Ademir de Oliveira Ferreira is a Senior Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.232245
+description: "Ademir de Oliveira Ferreira is a Senior Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 78 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.180969
 url: "/cdr-researcher-census/researchers/ademir-de-oliveira-ferreira-a5024726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,380 |
-| Publications | 75 |
-| CDR Focus | 6.7% |
+| Citations | 1,414 |
+| Publications | 78 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mechanical and biological chiseling impacts on soil organic C stocks, root growth, and crop yield in a long-term no-till system** (2021)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Preservation of labile organic compounds is the pathway for carbon storage in a 23-year continuous no-till system on a Ferralsol in southern Brazil** (2023)
    15 citations · Soil Carbon
@@ -60,12 +60,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 4. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   9 citations
+   10 citations
 
 5. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+   2 citations · Soil Carbon
+
+6. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon
 
-6. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
+7. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
    1 citations · Soil Carbon
 
 ## External Profiles

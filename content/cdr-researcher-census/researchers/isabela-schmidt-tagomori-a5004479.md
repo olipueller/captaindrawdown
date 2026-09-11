@@ -1,7 +1,7 @@
 ---
 title: "Isabela Schmidt Tagomori"
-description: "Isabela Schmidt Tagomori is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510785
+description: "Isabela Schmidt Tagomori is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.432234
 url: "/cdr-researcher-census/researchers/isabela-schmidt-tagomori-a5004479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 499 |
-| Publications | 33 |
-| CDR Focus | 21.2% |
+| h-index | 11 |
+| Citations | 559 |
+| Publications | 37 |
+| CDR Focus | 18.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   100 citations · General CDR
+   108 citations · General CDR
 
 2. **Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?** (2024)
    13 citations · General CDR
 
 3. **<scp>BLOEM</scp>: A spatially explicit model of bioenergy and carbon capture and storage, applied to Brazil** (2022)
-   8 citations · BECCS
+   9 citations · BECCS
 
 4. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
    1 citations · General CDR

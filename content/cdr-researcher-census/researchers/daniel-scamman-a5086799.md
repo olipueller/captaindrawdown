@@ -1,7 +1,7 @@
 ---
 title: "Daniel Scamman"
 description: "Daniel Scamman is a Senior General CDR researcher. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.079526
+date: 2026-09-11T02:38:29.031079
 url: "/cdr-researcher-census/researchers/daniel-scamman-a5086799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 7,774 |
+| Citations | 8,193 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   93 citations · General CDR
+   96 citations · General CDR
 
 ## External Profiles
 

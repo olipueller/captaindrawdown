@@ -1,7 +1,7 @@
 ---
 title: "Chenxia Su"
-description: "Chenxia Su is a Mid-career Enhanced Weathering researcher at Shenyang University of Technology in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399247
+description: "Chenxia Su is a Mid-career Enhanced Weathering researcher at Shenyang University of Technology in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.314350
 url: "/cdr-researcher-census/researchers/chenxia-su-a5036178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 104 |
-| Publications | 21 |
-| CDR Focus | 19.0% |
+| Citations | 115 |
+| Publications | 22 |
+| CDR Focus | 22.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 2. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 3. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering
 
 4. **OverlookedSoil Acidity Leads to Significant Overestimationof Carbon Sequestration in Enhanced Rock Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 5. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

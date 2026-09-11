@@ -1,7 +1,7 @@
 ---
 title: "Guancheng Liu"
-description: "Guancheng Liu is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.187012
+description: "Guancheng Liu is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 85 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.136229
 url: "/cdr-researcher-census/researchers/guancheng-liu-a5043787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,817 |
-| Publications | 79 |
-| CDR Focus | 7.6% |
+| Citations | 1,868 |
+| Publications | 85 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Exogenous Organic C Inputs Profit Soil C Sequestration Under Different Long-Term N Addition Levels in a Boreal Forest** (2023)
    6 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
    0 citations · Soil Carbon

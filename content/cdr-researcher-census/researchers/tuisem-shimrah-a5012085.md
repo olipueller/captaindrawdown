@@ -1,7 +1,7 @@
 ---
 title: "Tuisem Shimrah"
-description: "Tuisem Shimrah is a Mid-career Soil Carbon researcher at Guru Gobind Singh Indraprastha University in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.126793
+description: "Tuisem Shimrah is a Mid-career Soil Carbon researcher at Guru Gobind Singh Indraprastha University in IN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.057975
 url: "/cdr-researcher-census/researchers/tuisem-shimrah-a5012085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 160 |
+| h-index | 9 |
+| Citations | 173 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Review on Soil Carbon Sequestration in Different Land Use and Land Cover** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Assessment of Soil Physicochemical Properties Across Different Land Use and Land Cover Types in South Delhi, India** (2025)
    0 citations · Soil Carbon

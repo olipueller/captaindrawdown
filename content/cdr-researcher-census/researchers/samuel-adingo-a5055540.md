@@ -1,7 +1,7 @@
 ---
 title: "Samuel Adingo"
-description: "Samuel Adingo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.797169
+description: "Samuel Adingo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.711572
 url: "/cdr-researcher-census/researchers/samuel-adingo-a5055540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 274 |
-| Publications | 28 |
-| CDR Focus | 10.7% |
+| Citations | 303 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,13 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon
 
-2. **Parent material in controlling mineral-associated organic carbon formation pathways: A mineral sieve mechanism** (2026)
+2. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
+   2 citations · Soil Carbon
+
+3. **Parent material in controlling mineral-associated organic carbon formation pathways: A mineral sieve mechanism** (2026)
    1 citations
 
-3. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
-   1 citations · Soil Carbon
-
-4. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
+4. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
    1 citations · Soil Carbon
 
 5. **Parent material modulates land use effects on soil organic carbon fractions but not inorganic carbon in subtropical red soils** (2026)

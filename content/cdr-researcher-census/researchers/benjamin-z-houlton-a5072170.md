@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
-description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 209 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.071046
+description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 183 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.023566
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 44 |
-| Citations | 13,449 |
-| Publications | 209 |
-| CDR Focus | 8.1% |
-| Trajectory | Stable |
+| Citations | 13,575 |
+| Publications | 183 |
+| CDR Focus | 9.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil** (2023)
-   36 citations · Enhanced Weathering
+   38 citations · Enhanced Weathering
 
 2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   36 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 4. **Controls on soil microbial carbon use efficiency over long-term ecosystem development** (2021)
    31 citations
 
-5. **Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal** (2024)
+5. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
+   22 citations · General CDR
+
+6. **Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal** (2024)
    21 citations · Enhanced Weathering
 
-6. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
-   21 citations · General CDR
-
 7. **Effects of Afforestation on Soil Carbon and Nitrogen Accumulation Depend on Initial Soil Nitrogen Status** (2022)
-   17 citations · General CDR
+   20 citations · General CDR
 
 8. **Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions** (2021)
    14 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Festus O. Amadu"
-description: "Festus O. Amadu is a Mid-career Soil Carbon researcher at University of Notre Dame in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.472742
+description: "Festus O. Amadu is a Mid-career Soil Carbon researcher at University of Notre Dame in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.410362
 url: "/cdr-researcher-census/researchers/festus-o-amadu-a5037263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 556 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 592 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Farmer extension facilitators as a pathway for climate smart agriculture: evidence from southern Malawi** (2022)
-   31 citations · General CDR
+   35 citations · General CDR
 
 2. **Soil health and grain yield impacts of climate resilient agriculture projects: Evidence from southern Malawi** (2021)
-   31 citations · General CDR
+   32 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Olawale Oloye"
 description: "Olawale Oloye is a Mid-career DAC researcher at Queensland University of Technology in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.724769
+date: 2026-09-11T02:38:29.675604
 url: "/cdr-researcher-census/researchers/olawale-oloye-a5015789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 313 |
+| Citations | 322 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Electrochemical Capture and Storage of CO<sub>2</sub> as Calcium Carbonate** (2021)
-   56 citations · DAC
+   57 citations · DAC
 
 2. **Sonochemical CO<sub>2</sub> Reduction to Acetamide and Liquid C<sub>2+</sub> Oxygenates Using a Liquid Metal Gallium-Based Reductant** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

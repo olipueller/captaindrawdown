@@ -1,7 +1,7 @@
 ---
 title: "Étienne Bernier"
-description: "Étienne Bernier is a Senior General CDR researcher at Natural Resources Canada in CA. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662141
+description: "Étienne Bernier is a Senior General CDR researcher at Natural Resources Canada in CA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.618117
 url: "/cdr-researcher-census/researchers/etienne-bernier-a5081302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 357 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 363 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The role of hydrogen in a net-zero emission economy under alternative policy scenarios** (2023)
-   99 citations · General CDR
+   102 citations · General CDR
 
 ## External Profiles
 

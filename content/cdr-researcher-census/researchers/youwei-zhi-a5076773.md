@@ -1,7 +1,7 @@
 ---
 title: "Youwei Zhi"
 description: "Youwei Zhi is a Mid-career Biochar researcher at China XD Group (China) in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.683207
+date: 2026-09-11T02:38:29.611786
 url: "/cdr-researcher-census/researchers/youwei-zhi-a5076773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 342 |
+| Citations | 369 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated biochar from Co-hydrothermal carbonization of municipal sludge and enteromorpha for high-efficiency Pb(II) removal: Activation optimization and adsorption mechanism** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

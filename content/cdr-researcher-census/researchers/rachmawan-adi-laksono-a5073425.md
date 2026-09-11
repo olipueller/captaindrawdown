@@ -1,7 +1,7 @@
 ---
 title: "Rachmawan Adi Laksono"
 description: "Rachmawan Adi Laksono is a Mid-career Soil Carbon researcher at Center for Plant Conservation in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.318031
+date: 2026-09-11T02:38:30.285203
 url: "/cdr-researcher-census/researchers/rachmawan-adi-laksono-a5073425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 119 |
+| Citations | 121 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

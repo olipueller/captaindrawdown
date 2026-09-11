@@ -1,7 +1,7 @@
 ---
 title: "Asterios Papageorgiou"
 description: "Asterios Papageorgiou is a Senior Biochar researcher at KTH Royal Institute of Technology in SE. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.411409
+date: 2026-09-11T02:38:29.363870
 url: "/cdr-researcher-census/researchers/asterios-papageorgiou-a5066822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 664 |
+| Citations | 676 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

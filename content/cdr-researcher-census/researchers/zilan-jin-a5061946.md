@@ -1,7 +1,7 @@
 ---
 title: "Zilan Jin"
-description: "Zilan Jin is a Mid-career Biochar researcher at Tianjin University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.280474
+description: "Zilan Jin is a Mid-career Biochar researcher at Tianjin University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.225156
 url: "/cdr-researcher-census/researchers/zilan-jin-a5061946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,089 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 1,132 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

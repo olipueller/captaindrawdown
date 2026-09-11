@@ -1,7 +1,7 @@
 ---
 title: "Pooja Uniyal"
-description: "Pooja Uniyal is an Early-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.205592
+description: "Pooja Uniyal is a Mid-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.179147
 url: "/cdr-researcher-census/researchers/pooja-uniyal-a5112625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Pooja Uniyal**  
 Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry · 🇮🇳 IN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -40,14 +40,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 141 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 142 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Assessment of carbon stocks and soil carbon pools in temperate oak forests of the Garhwal Himalaya, India** (2026)
+1. **Integration of Medicinal Plants in Agroforestry Systems to Enhance the Farmer Income** (2026)
+   0 citations
+
+2. **Assessment of carbon stocks and soil carbon pools in temperate oak forests of the Garhwal Himalaya, India** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

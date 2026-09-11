@@ -1,7 +1,7 @@
 ---
 title: "Harekrishna Das"
-description: "Harekrishna Das is a Mid-career BECCS researcher at Directorate of Health in IS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.384488
+description: "Harekrishna Das is a Mid-career BECCS researcher at Directorate of Health in IS. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.340867
 url: "/cdr-researcher-census/researchers/harekrishna-das-a5036937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 107 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 110 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

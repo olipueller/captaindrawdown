@@ -1,7 +1,7 @@
 ---
 title: "Yuehong Shi"
 description: "Yuehong Shi is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.120095
+date: 2026-09-11T02:38:30.075262
 url: "/cdr-researcher-census/researchers/yuehong-shi-a5077626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 162 |
+| Citations | 168 |
 | Publications | 27 |
 | CDR Focus | 14.8% |
 | Trajectory | Stable |

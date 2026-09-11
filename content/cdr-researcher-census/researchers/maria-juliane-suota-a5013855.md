@@ -1,7 +1,7 @@
 ---
 title: "Maria Juliane Suota"
-description: "Maria Juliane Suota is a Mid-career Biochar researcher at University of British Columbia in CA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.709734
+description: "Maria Juliane Suota is a Mid-career Biochar researcher at Universidade Federal do Paraná in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.655995
 url: "/cdr-researcher-census/researchers/maria-juliane-suota-a5013855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/maria-juliane-suota-a5013855/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of British Columbia"
+    "name": "Universidade Federal do Paran\u00e1"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7879-2373",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Maria Juliane Suota**  
-University of British Columbia · 🇨🇦 CA
+Universidade Federal do Paraná · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 323 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 337 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

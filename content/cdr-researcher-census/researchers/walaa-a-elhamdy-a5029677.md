@@ -1,7 +1,7 @@
 ---
 title: "Walaa A. Elhamdy"
 description: "Walaa A. Elhamdy is a Mid-career Biochar researcher at Sohag University in EG. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.063106
+date: 2026-09-11T02:38:30.027359
 url: "/cdr-researcher-census/researchers/walaa-a-elhamdy-a5029677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 178 |
+| Citations | 181 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Environmental sustainable ZrO2 -phosphorous Biochar nano composite derived from sugarcane bagasse and their adsorption behavior of antidepressant drugs** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

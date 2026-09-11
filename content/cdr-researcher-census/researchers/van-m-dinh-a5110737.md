@@ -1,7 +1,7 @@
 ---
 title: "Van M. Dinh"
-description: "Van M. Dinh is a Mid-career Enhanced Weathering researcher at Vietnam National University, Hanoi in VN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.099491
+description: "Van M. Dinh is a Mid-career Enhanced Weathering researcher at Vietnam National University, Hanoi in VN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.046835
 url: "/cdr-researcher-census/researchers/van-m-dinh-a5110737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 168 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 176 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Meng Mei"
-description: "Meng Mei is a Senior Biochar researcher at Wuhan Textile University in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.194106
+description: "Meng Mei is a Senior Biochar researcher at Wuhan Textile University in CN. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.142706
 url: "/cdr-researcher-census/researchers/meng-mei-a5101947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 1,741 |
-| Publications | 52 |
-| CDR Focus | 7.7% |
+| Citations | 1,790 |
+| Publications | 54 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **One-pot synthesis of MnFe2O4 functionalized magnetic biochar by the sol-gel pyrolysis method for diclofenac sodium removal** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 2. **A Ca-rich biochar derived from food waste digestate with exceptional adsorption capacity for arsenic (III) removal via a cooperative mechanism** (2022)
    46 citations · Biochar
@@ -60,7 +60,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    45 citations
 
 4. **Efficient degradation of diclofenac by digestate-derived biochar catalyzed peroxymonosulfate oxidation: Performance, machine learning prediction, and mechanism** (2022)
-   40 citations · Biochar
+   42 citations · Biochar
 
 5. **A Ca-Rich Biochar Derived from Food Waste Digestate with Exceptional Adsorption Capacity for Arsenic (Iii) Removal Via a Cooperative Mechanism** (2022)
    4 citations · Biochar

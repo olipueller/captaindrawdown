@@ -1,7 +1,7 @@
 ---
 title: "Roxana V. Piloni"
 description: "Roxana V. Piloni is a Mid-career Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149019
+date: 2026-09-11T02:38:30.112439
 url: "/cdr-researcher-census/researchers/roxana-v-piloni-a5036522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 154 |
+| Citations | 157 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

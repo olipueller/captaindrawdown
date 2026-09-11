@@ -1,7 +1,7 @@
 ---
 title: "Theresa Johnston"
 description: "Theresa Johnston is a Mid-career Soil Carbon researcher at United States Bureau of Reclamation in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.322861
+date: 2026-09-11T02:38:30.259146
 url: "/cdr-researcher-census/researchers/theresa-johnston-a5047138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 118 |
+| Citations | 126 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

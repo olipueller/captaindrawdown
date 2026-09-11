@@ -1,7 +1,7 @@
 ---
 title: "Xiaohan Dong"
-description: "Xiaohan Dong is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456201
+description: "Xiaohan Dong is a Mid-career Soil Carbon researcher at Ingenierie des Materiaux polymeres in FR. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.390424
 url: "/cdr-researcher-census/researchers/xiaohan-dong-a5102857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaohan-dong-a5102857/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sichuan University"
+    "name": "Ingenierie des Materiaux polymeres"
   },
   "sameAs": "https://openalex.org/A5102857011"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaohan Dong**  
-Sichuan University · 🇨🇳 CN
+Ingenierie des Materiaux polymeres · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 582 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| h-index | 15 |
+| Citations | 624 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
 2. **In-situ warming does not change soil priming effect induced by glucose addition in a temperate forest** (2023)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Daniel G. Pike"
-description: "Daniel G. Pike is a Senior General CDR researcher at Rocky Mountain Institute in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.311290
+description: "Daniel G. Pike is a Senior General CDR researcher at Rocky Mountain Institute in US. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.257918
 url: "/cdr-researcher-census/researchers/daniel-g-pike-a5088728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 950 |
-| Publications | 38 |
-| CDR Focus | 7.9% |
+| Citations | 982 |
+| Publications | 39 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   114 citations
+   119 citations
 
 2. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   66 citations · DAC
+   69 citations · DAC
 
 3. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations

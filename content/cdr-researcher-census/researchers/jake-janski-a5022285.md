@@ -1,7 +1,7 @@
 ---
 title: "Jake Janski"
 description: "Jake Janski is an Early-career Soil Carbon researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.299726
+date: 2026-09-11T02:38:30.247077
 url: "/cdr-researcher-census/researchers/jake-janski-a5022285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 122 |
+| Citations | 128 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

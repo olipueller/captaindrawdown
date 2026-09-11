@@ -1,7 +1,7 @@
 ---
 title: "Ruoya Ma"
 description: "Ruoya Ma is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499242
+date: 2026-09-11T02:38:29.446159
 url: "/cdr-researcher-census/researchers/ruoya-ma-a5022366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 515 |
+| Citations | 536 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

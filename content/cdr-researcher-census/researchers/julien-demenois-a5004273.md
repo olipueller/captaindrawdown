@@ -1,7 +1,7 @@
 ---
 title: "Julien Demenois"
-description: "Julien Demenois is a Senior Soil Carbon researcher at CIRAD Département Performances des systèmes de production et de transformation tropicaux in FR. With 76 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.264153
+description: "Julien Demenois is a Senior Soil Carbon researcher at CIRAD Département Performances des systèmes de production et de transformation tropicaux in FR. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.206481
 url: "/cdr-researcher-census/researchers/julien-demenois-a5004273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,176 |
-| Publications | 76 |
-| CDR Focus | 7.9% |
+| Citations | 1,242 |
+| Publications | 77 |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations · Soil Carbon
 
 3. **Towards a modular, multi-ecosystem monitoring, reporting and verification (MRV) framework for soil organic carbon stock change assessment** (2024)
-   21 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Surviving the jungle of soil organic carbon certification standards: an analytic and critical review** (2021)
-   17 citations · General CDR
+   18 citations · General CDR
 
 5. **Soil Carbon Sequestration: A Solution to Mitigate and Adapt to Climate Change?** (2026)
    0 citations · General CDR

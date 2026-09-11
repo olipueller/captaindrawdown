@@ -1,7 +1,7 @@
 ---
 title: "Patchimaporn Udomkun"
-description: "Patchimaporn Udomkun is a Mid-career Biochar researcher at Chiang Mai University in TH. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.387066
+description: "Patchimaporn Udomkun is a Mid-career Biochar researcher at Chiang Mai University in TH. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.333596
 url: "/cdr-researcher-census/researchers/patchimaporn-udomkun-a5021248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 717 |
-| Publications | 44 |
-| CDR Focus | 13.6% |
+| h-index | 15 |
+| Citations | 748 |
+| Publications | 46 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancing soil health, microbial count, and hydrophilic methomyl and hydrophobic lambda-cyhalothrin remediation with biochar and nano-biochar** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Innovative approaches: Exploring nano-biochar technology’s impact on soil properties, alachlor retention, and microbial populations** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Enhancing CO2 Sequestration Through Corn Stalk Biochar-Enhanced Mortar: A Synergistic Approach with Algal Growth for Carbon Capture Applications** (2025)
    8 citations · Biochar
 
 4. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 5. **Contrasting Pre- and Post-Pyrolysis Incorporation of Bentonite into Manure Biochar: Impacts on Nutrient Availability, Carbon Stability, and Physicochemical Properties** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 6. **Sustainable bioremediation of atrazine-contaminated soils via biochar and microbial ball co-amendments** (2025)
    0 citations · Biochar

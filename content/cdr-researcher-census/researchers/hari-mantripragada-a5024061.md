@@ -1,7 +1,7 @@
 ---
 title: "Hari Mantripragada"
 description: "Hari Mantripragada is a Senior General CDR researcher at University of Pittsburgh in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.281883
+date: 2026-09-11T02:38:29.233150
 url: "/cdr-researcher-census/researchers/hari-mantripragada-a5024061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,081 |
+| Citations | 1,091 |
 | Publications | 29 |
-| CDR Focus | 34.5% |
+| CDR Focus | 37.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,26 +59,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Assessment of Nuclear Energy to Support Negative Emission Technologies** (2023)
    13 citations · DAC
 
-4. **Techno-Economic Analysis of Sorbent-Based Direct Air Capture Informed by EPC Input and Recent Technological Advancements** (2025)
+4. **A comparative assessment of the economic viability of nuclear-integrated direct air capture systems** (2026)
+   2 citations · DAC
+
+5. **Techno-Economic Analysis of Sorbent-Based Direct Air Capture Informed by EPC Input and Recent Technological Advancements** (2025)
    1 citations · DAC
 
-5. **Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies** (2025)
+6. **Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies** (2025)
    0 citations · DAC
 
-6. **Direct Air Capture Case Studies: Limestone Looping Screening-Level Analysis** (2025)
+7. **Direct Air Capture Case Studies: Limestone Looping Screening-Level Analysis** (2025)
    0 citations
 
-7. **Direct Air Capture Case Studies: Sorbent System (Rev. 1)** (2025)
+8. **Direct Air Capture Case Studies: Sorbent System (Rev. 1)** (2025)
    0 citations
 
-8. **Screening Analysis of Terrestrial Enhanced Rock Weathering of Igneous Rocks and Industrial Waste Materials** (2024)
+9. **Screening Analysis of Terrestrial Enhanced Rock Weathering of Igneous Rocks and Industrial Waste Materials** (2024)
    0 citations · Enhanced Weathering
 
-9. **Technoeconomic Analysis of a Direct Air Capture System Utilizing a Looped CaCO3/Ca(OH)2 Process** (2024)
+10. **Technoeconomic Analysis of a Direct Air Capture System Utilizing a Looped CaCO3/Ca(OH)2 Process** (2024)
    0 citations · DAC
-
-10. **Screening Analysis of Enhanced Weathering of Igneous Rocks and Industrial Waste Materials** (2025)
-   0 citations · Enhanced Weathering
 
 ## External Profiles
 

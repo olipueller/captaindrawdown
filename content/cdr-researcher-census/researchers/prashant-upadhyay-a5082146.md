@@ -1,7 +1,7 @@
 ---
 title: "Prashant Upadhyay"
 description: "Prashant Upadhyay is a Mid-career Soil Carbon researcher at IFTM University in IN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.987133
+date: 2026-09-11T02:38:29.868544
 url: "/cdr-researcher-census/researchers/prashant-upadhyay-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 201 |
+| Citations | 229 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Neural Networks for Analyzing Soil Organic Carbon Storage** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Geospatial Data Analysis for Mapping Carbon Sequestration Hotspots** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

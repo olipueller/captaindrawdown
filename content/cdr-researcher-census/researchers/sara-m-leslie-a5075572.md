@@ -1,7 +1,7 @@
 ---
 title: "Sara M. Leslie"
 description: "Sara M. Leslie is a Mid-career Ocean CDR researcher at Hologic (Germany) in DE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.694880
+date: 2026-09-11T02:38:29.649896
 url: "/cdr-researcher-census/researchers/sara-m-leslie-a5075572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 334 |
+| Citations | 341 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Natasa Kiorapostolou"
-description: "Natasa Kiorapostolou is a Mid-career Soil Carbon researcher at Bridge University in SS. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.476858
+description: "Natasa Kiorapostolou is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.428109
 url: "/cdr-researcher-census/researchers/natasa-kiorapostolou-a5040804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/natasa-kiorapostolou-a5040804/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bridge University"
+    "name": "Forest Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9235-951X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Natasa Kiorapostolou**  
-Bridge University ·  SS
+Forest Research Institute ·  BG
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 551 |
+| Citations | 568 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

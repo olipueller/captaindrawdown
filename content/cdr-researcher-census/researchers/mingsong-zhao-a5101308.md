@@ -1,7 +1,7 @@
 ---
 title: "Mingsong Zhao"
 description: "Mingsong Zhao is a Mid-career Soil Carbon researcher at Anhui University of Science and Technology in CN. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.408202
+date: 2026-09-11T02:38:29.359832
 url: "/cdr-researcher-census/researchers/mingsong-zhao-a5101308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 672 |
+| Citations | 688 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Quantified and Major Influencing Factors on Spatial Distribution of Soil Organic Matter in Provincial-Scale Farmland—A Case Study of Shandong Province in Eastern China** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Regional simulation of soil organic carbon dynamics for dry farmland in Northeast China using the CENTURY model** (2021)
    12 citations · Soil Carbon

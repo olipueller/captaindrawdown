@@ -1,7 +1,7 @@
 ---
 title: "Ronghao Wu"
-description: "Ronghao Wu is a Mid-career Biochar researcher at Fujian Normal University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.784971
+description: "Ronghao Wu is a Mid-career Biochar researcher at Fujian Normal University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.710773
 url: "/cdr-researcher-census/researchers/ronghao-wu-a5067759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 280 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 8 |
+| Citations | 303 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

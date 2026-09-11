@@ -1,7 +1,7 @@
 ---
 title: "Litao Lin"
-description: "Litao Lin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.970131
+description: "Litao Lin is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.871666
 url: "/cdr-researcher-census/researchers/litao-lin-a5045708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/litao-lin-a5045708/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Chinese Research Academy of Environmental Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5202-6769",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Litao Lin**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Chinese Research Academy of Environmental Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 207 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 228 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil calcium prompts organic carbon accumulation after decadal saline-water irrigation in the Taklamakan desert** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Short-Term Nitrogen Enrichment Reshapes Carbon Allocation and Enhances Synergistic Ecosystem Services in Semi-Arid Sandy Grasslands in China** (2025)
    2 citations · Soil Carbon

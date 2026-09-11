@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Al-Kaisi"
-description: "Mahdi Al-Kaisi is a Mid-career Biochar researcher at Iowa State University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901252
+description: "Mahdi Al-Kaisi is a Mid-career Biochar researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.866934
 url: "/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mahdi Al-Kaisi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Iowa State University"
-  },
   "sameAs": "https://openalex.org/A5078506637"
 }
 </script>
 
 ## Profile
 
-**Mahdi Al-Kaisi**  
-Iowa State University · 🇺🇸 US
+**Mahdi Al-Kaisi**
 
 **Career Stage:** Mid-career
 
@@ -40,15 +35,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 225 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 229 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of chemical fertilizer and straw-derived organic amendments on continuous maize yield, soil carbon sequestration and soil quality in a Chinese Mollisol** (2021)
-   152 citations · Biochar
+   154 citations · Biochar
 
 ## External Profiles
 

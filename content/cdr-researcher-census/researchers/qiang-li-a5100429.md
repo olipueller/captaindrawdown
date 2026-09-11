@@ -1,7 +1,7 @@
 ---
 title: "Qiang Li"
-description: "Qiang Li is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 149 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.169159
+description: "Qiang Li is a Senior Soil Carbon researcher at Tianjin University in CN. With 151 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.112853
 url: "/cdr-researcher-census/researchers/qiang-li-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qiang-li-a5100429/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin Normal University"
+    "name": "Tianjin University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7129-1456",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Qiang Li**  
-Tianjin Normal University · 🇨🇳 CN
+Tianjin University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 2,093 |
-| Publications | 149 |
+| h-index | 21 |
+| Citations | 2,247 |
+| Publications | 151 |
 | CDR Focus | 6.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
    137 citations · Soil Carbon
 
 3. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
 
 5. **New insight into the mechanisms of preferential encapsulation of metal(loid)s by wheat phytoliths under silicon nanoparticle amendment** (2023)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
    8 citations · Soil Carbon

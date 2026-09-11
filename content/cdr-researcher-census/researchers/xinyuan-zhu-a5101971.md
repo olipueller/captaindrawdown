@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Zhu"
 description: "Xinyuan Zhu is a Senior Biochar researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.549570
+date: 2026-09-11T02:38:29.500922
 url: "/cdr-researcher-census/researchers/xinyuan-zhu-a5101971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 457 |
+| Citations | 467 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated biochar from Co-hydrothermal carbonization of municipal sludge and enteromorpha for high-efficiency Pb(II) removal: Activation optimization and adsorption mechanism** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

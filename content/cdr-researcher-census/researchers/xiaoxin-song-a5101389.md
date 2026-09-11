@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxin Song"
 description: "Xiaoxin Song is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.004062
+date: 2026-09-11T02:38:29.971148
 url: "/cdr-researcher-census/researchers/xiaoxin-song-a5101389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 196 |
+| Citations | 199 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

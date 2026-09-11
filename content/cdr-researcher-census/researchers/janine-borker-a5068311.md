@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
-description: "Janine Börker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.453458
+description: "Janine Börker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.405236
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 586 |
-| Publications | 29 |
-| CDR Focus | 13.8% |
+| h-index | 10 |
+| Citations | 599 |
+| Publications | 30 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 2. **Natural ocean alkalinization through erosion of glacial till and weathering at the seafloor** (2025)
    2 citations · Ocean CDR

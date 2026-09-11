@@ -1,7 +1,7 @@
 ---
 title: "Michael B. Fong"
-description: "Michael B. Fong is a Senior Ocean CDR researcher at Material Measurement Laboratory in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.487944
+description: "Michael B. Fong is a Senior Ocean CDR researcher at Material Measurement Laboratory in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.446487
 url: "/cdr-researcher-census/researchers/michael-b-fong-a5085815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 534 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 535 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

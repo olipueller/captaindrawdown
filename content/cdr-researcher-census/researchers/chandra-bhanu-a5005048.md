@@ -1,7 +1,7 @@
 ---
 title: "Chandra Bhanu"
-description: "Chandra Bhanu is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.208440
+description: "Chandra Bhanu is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.169218
 url: "/cdr-researcher-census/researchers/chandra-bhanu-a5005048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 140 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 144 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainable Soil Management for Climate Resilience: Long-Term Management Effects on Soil Carbon Sequestration and Nitrogen Dynamics in a Semi-Arid Tropical Inceptisol of India** (2024)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon

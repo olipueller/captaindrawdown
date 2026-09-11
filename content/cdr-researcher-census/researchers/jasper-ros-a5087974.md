@@ -1,7 +1,7 @@
 ---
 title: "Jasper Ros"
 description: "Jasper Ros is a Mid-career DAC researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.984512
+date: 2026-09-11T02:38:29.959473
 url: "/cdr-researcher-census/researchers/jasper-ros-a5087974/"
 layout: "researcher"
 hiddenInHomeList: true

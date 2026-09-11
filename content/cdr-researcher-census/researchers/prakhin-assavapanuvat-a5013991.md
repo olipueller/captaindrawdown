@@ -1,7 +1,7 @@
 ---
 title: "Prakhin Assavapanuvat"
 description: "Prakhin Assavapanuvat is a Mid-career Soil Carbon researcher at Chulalongkorn University in TH. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.412801
+date: 2026-09-11T02:38:30.325961
 url: "/cdr-researcher-census/researchers/prakhin-assavapanuvat-a5013991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 113 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |

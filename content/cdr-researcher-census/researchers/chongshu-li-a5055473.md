@@ -1,7 +1,7 @@
 ---
 title: "Chongshu Li"
 description: "Chongshu Li is a Mid-career Biochar researcher at Jinan University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.646237
+date: 2026-09-11T02:38:29.605243
 url: "/cdr-researcher-census/researchers/chongshu-li-a5055473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 369 |
+| Citations | 374 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

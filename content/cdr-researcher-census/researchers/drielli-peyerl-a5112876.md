@@ -1,7 +1,7 @@
 ---
 title: "Drielli Peyerl"
 description: "Drielli Peyerl is a Mid-career General CDR researcher at University of Amsterdam in NL. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.987958
+date: 2026-09-11T02:38:29.957301
 url: "/cdr-researcher-census/researchers/drielli-peyerl-a5112876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 200 |
+| Citations | 202 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Fanglin Tan"
-description: "Fanglin Tan is a Senior Soil Carbon researcher at Guangdong Academy of Forestry in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.607598
+description: "Fanglin Tan is a Senior Soil Carbon researcher at Guangdong Academy of Forestry in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.566558
 url: "/cdr-researcher-census/researchers/fanglin-tan-a5112741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 401 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Citations | 404 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Appropriate Nitrogen Addition Boosts Coastal Wetland Carbon Sequestration: Kandelia obovata Optimizes Microbial Carbon Use Strategies** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Effects of biochar addition on soil bacterial communities in mangrove wetlands** (2025)
    0 citations · Biochar

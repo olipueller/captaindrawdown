@@ -1,7 +1,7 @@
 ---
 title: "H. Lembisana Devi"
 description: "H. Lembisana Devi is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.688511
+date: 2026-09-11T02:38:29.624243
 url: "/cdr-researcher-census/researchers/h-lembisana-devi-a5079414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 339 |
+| Citations | 359 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of 28 year old agroforestry systems on soil carbon dynamics in Eastern Himalayas** (2021)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Policy on Integrating Soil Health into Climate and Carbon Market Frameworks: A Pathway to Resilient Food Systems and Verified Carbon Drawdown** (2025)
    0 citations · General CDR

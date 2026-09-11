@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
-description: "Clair Gough is a Senior General CDR researcher at The University of Manchester in GB. With 90 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.116661
+description: "Clair Gough is a Senior General CDR researcher at The University of Manchester in GB. With 89 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.067148
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,687 |
-| Publications | 90 |
+| Citations | 3,742 |
+| Publications | 89 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target** (2021)
-   111 citations · BECCS
+   112 citations · BECCS
 
 2. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
    27 citations · BECCS
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    23 citations · BECCS
 
 4. **Putting Bioenergy With Carbon Capture and Storage in a Spatial Context: What Should Go Where?** (2022)
-   17 citations · BECCS
+   18 citations · BECCS
 
 5. **Co-deployment of bioenergy with carbon capture and storage in the UK: Growth or gridlock?** (2024)
-   13 citations · BECCS
+   15 citations · BECCS
 
 6. **IDRIC Frontiers Report Carbon Dioxide Removal Technologies** (2025)
    0 citations · General CDR

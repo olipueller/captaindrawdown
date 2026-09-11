@@ -1,7 +1,7 @@
 ---
 title: "Rémi Cardinael"
-description: "Rémi Cardinael is a Senior Soil Carbon researcher at CIRAD in FR. With 152 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105339
+description: "Rémi Cardinael is a Senior Soil Carbon researcher at CIRAD in FR. With 155 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.054597
 url: "/cdr-researcher-census/researchers/remi-cardinael-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 33 |
-| Citations | 4,390 |
-| Publications | 152 |
-| CDR Focus | 12.5% |
+| Citations | 4,577 |
+| Publications | 155 |
+| CDR Focus | 12.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in temperate agroforestry systems – A meta-analysis** (2021)
-   180 citations · Soil Carbon
+   184 citations · Soil Carbon
 
 2. **A global database of land management, land-use change and climate change effects on soil organic carbon** (2022)
    57 citations · General CDR
@@ -59,14 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **A well‐established fact: Rapid mineralization of organic inputs is an important factor for soil carbon sequestration** (2022)
    34 citations · Soil Carbon
 
-4. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
+4. **Towards a modular, multi-ecosystem monitoring, reporting and verification (MRV) framework for soil organic carbon stock change assessment** (2024)
+   29 citations · Soil Carbon
+
+5. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
    26 citations · Soil Carbon
 
-5. **Towards a modular, multi-ecosystem monitoring, reporting and verification (MRV) framework for soil organic carbon stock change assessment** (2024)
-   21 citations · Soil Carbon
-
 6. **Guidelines for improved quantification and reporting of carbon stocks and additional carbon storage in agroforestry systems** (2025)
-   18 citations · General CDR
+   24 citations · General CDR
 
 7. **Surface albedo and thermal radiation dynamics under conservation and conventional agriculture in subhumid Zimbabwe** (2025)
    6 citations · Soil Carbon

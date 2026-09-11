@@ -1,7 +1,7 @@
 ---
 title: "Zoltán Molnár"
-description: "Zoltán Molnár is a Senior Soil Carbon researcher at Széchenyi István University in HU. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.208250
+description: "Zoltán Molnár is a Senior Soil Carbon researcher at Széchenyi István University in HU. With 87 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.149661
 url: "/cdr-researcher-census/researchers/zoltan-molnar-a5041432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,584 |
-| Publications | 86 |
-| CDR Focus | 5.8% |
+| h-index | 18 |
+| Citations | 1,705 |
+| Publications | 87 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Towards Climate-Smart Agriculture: Strategies for Sustainable Agricultural Production, Food Security, and Greenhouse Gas Reduction** (2025)
-   179 citations · General CDR
+   198 citations · General CDR
 
 2. **Biologia Futura: potential of different forms of microalgae for soil improvement** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Unveiling the Role of Edaphic Microalgae in Soil Carbon Sequestration: Potential for Agricultural Inoculants in Climate Change Mitigation** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Microalgae-Based Strategies for Soil Health and Crop Productivity: Mechanisms, Challenges, and Pathways to Climate-Resilient Agriculture** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
 
 5. **Review of the Use of Biostimulant Microalgae to Influence the Growth and Development of Ornamental Plants** (2024)
    2 citations · Ocean CDR

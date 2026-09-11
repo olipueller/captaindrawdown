@@ -1,7 +1,7 @@
 ---
 title: "Laura F. Gentry"
-description: "Laura F. Gentry is a Senior Soil Carbon researcher at Illinois Department of Natural Resources in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.463119
+description: "Laura F. Gentry is a Senior Soil Carbon researcher at Illinois Department of Natural Resources in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.382453
 url: "/cdr-researcher-census/researchers/laura-f-gentry-a5033509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 570 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 8 |
+| Citations | 637 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Cover crops, farm economics, and policy** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

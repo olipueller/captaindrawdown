@@ -1,7 +1,7 @@
 ---
 title: "Mutlu Canpolat"
-description: "Mutlu Canpolat is a Mid-career Biochar researcher at Batman University in TR. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.968769
+description: "Mutlu Canpolat is a Mid-career Biochar researcher at Batman University in TR. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.865542
 url: "/cdr-researcher-census/researchers/mutlu-canpolat-a5005088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 208 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 230 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

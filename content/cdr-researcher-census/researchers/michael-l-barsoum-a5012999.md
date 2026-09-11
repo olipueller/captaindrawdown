@@ -1,7 +1,7 @@
 ---
 title: "Michael L. Barsoum"
-description: "Michael L. Barsoum is a Mid-career DAC researcher at Northwestern University in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.672283
+description: "Michael L. Barsoum is a Mid-career DAC researcher at Northwestern University in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.584740
 url: "/cdr-researcher-census/researchers/michael-l-barsoum-a5012999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 349 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| Citations | 389 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Suitability of a diamine functionalized metal–organic framework for direct air capture** (2023)
-   57 citations
+   59 citations
 
 2. **Expanding the Library of Ions for Moisture-Swing Carbon Capture** (2023)
-   29 citations
+   30 citations
 
 3. **Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture** (2024)
    24 citations
 
 4. **Platform Materials for Moisture-Swing Carbon Capture** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 5. **Structure–Property Relationships for Moisture-Swing Direct Air Capture** (2026)
    0 citations · DAC

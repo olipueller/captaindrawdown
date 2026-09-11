@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Ryals"
-description: "Rebecca Ryals is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.288072
+description: "Rebecca Ryals is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.229745
 url: "/cdr-researcher-census/researchers/rebecca-ryals-a5019847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,053 |
+| h-index | 19 |
+| Citations | 1,110 |
 | Publications | 58 |
 | CDR Focus | 5.2% |
 | Trajectory | Stable |

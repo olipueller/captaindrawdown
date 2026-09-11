@@ -1,7 +1,7 @@
 ---
 title: "A. Arifin"
-description: "A. Arifin is a Mid-career Soil Carbon researcher at Universitas Bina Darma in ID. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.790069
+description: "A. Arifin is a Mid-career Soil Carbon researcher at Universitas Bina Darma in ID. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.757965
 url: "/cdr-researcher-census/researchers/a-arifin-a5112788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 278 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 279 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

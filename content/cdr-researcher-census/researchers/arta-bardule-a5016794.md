@@ -1,7 +1,7 @@
 ---
 title: "Arta Bārdule"
-description: "Arta Bārdule is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 102 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.556361
+description: "Arta Bārdule is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 102 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.506613
 url: "/cdr-researcher-census/researchers/arta-bardule-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 449 |
+| h-index | 12 |
+| Citations | 461 |
 | Publications | 102 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Impact of Former Peat Extraction Field Afforestation on Soil Greenhouse Gas Emissions in Hemiboreal Region** (2023)
-   9 citations
+   10 citations
 
 3. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
    5 citations · Soil Carbon

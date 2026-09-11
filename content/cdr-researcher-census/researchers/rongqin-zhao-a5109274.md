@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhao"
-description: "Rongqin Zhao is a Senior Soil Carbon researcher. With 77 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.141803
+description: "Rongqin Zhao is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 79 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.091460
 url: "/cdr-researcher-census/researchers/rongqin-zhao-a5109274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rongqin Zhao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rongqin-zhao-a5109274/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "North China University of Water Resources and Electric Power"
+  },
   "sameAs": "https://openalex.org/A5109274747"
 }
 </script>
 
 ## Profile
 
-**Rongqin Zhao**
+**Rongqin Zhao**  
+North China University of Water Resources and Electric Power · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -35,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 2,701 |
-| Publications | 77 |
-| CDR Focus | 5.2% |
+| Citations | 2,777 |
+| Publications | 79 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Net effects of conservation agriculture principles on sustainable land use: A synthesis** (2021)
-   73 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **The net and combined effects of minimum tillage and straw mulching on carbon accumulation in global croplands** (2022)
    13 citations · General CDR
@@ -52,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Effects of conservation agriculture on carbon dynamics across eroded slopes: A global synthesis** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

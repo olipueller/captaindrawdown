@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Zhu"
-description: "Yiwei Zhu is a Mid-career Soil Carbon researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.338729
+description: "Yiwei Zhu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.311901
 url: "/cdr-researcher-census/researchers/yiwei-zhu-a5065489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yiwei Zhu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yiwei-zhu-a5065489/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Central South University of Forestry and Technology"
+  },
   "sameAs": "https://openalex.org/A5065489313"
 }
 </script>
 
 ## Profile
 
-**Yiwei Zhu**
+**Yiwei Zhu**  
+Central South University of Forestry and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 115 |
+| Citations | 116 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |

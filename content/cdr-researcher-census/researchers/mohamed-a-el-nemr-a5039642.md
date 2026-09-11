@@ -1,7 +1,7 @@
 ---
 title: "Mohamed A. El-Nemr"
-description: "Mohamed A. El-Nemr is a Senior Biochar researcher at Minia University in EG. With 50 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.186366
+description: "Mohamed A. El-Nemr is a Senior Biochar researcher at Minia University in EG. With 50 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.130617
 url: "/cdr-researcher-census/researchers/mohamed-a-el-nemr-a5039642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 1,825 |
+| h-index | 27 |
+| Citations | 1,950 |
 | Publications | 50 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of methylene blue (MB) dye on ozone, purified and sonicated sawdust biochars** (2022)
-   84 citations · Biochar
+   86 citations · Biochar
 
 2. **The use of biochar-NH2 produced from watermelon peels as a natural adsorbent for the removal of Cu(II) ion from water** (2022)
    56 citations · Biochar
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    44 citations · Biochar
 
 5. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

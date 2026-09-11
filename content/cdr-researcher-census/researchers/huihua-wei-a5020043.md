@@ -1,7 +1,7 @@
 ---
 title: "Huihua Wei"
-description: "Huihua Wei is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in RW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.050003
+description: "Huihua Wei is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in RW. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.973519
 url: "/cdr-researcher-census/researchers/huihua-wei-a5020043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 182 |
+| h-index | 8 |
+| Citations | 198 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Distribution, spectral characteristics, and seasonal variation of dissolved organic matter in the northern Beibu Gulf, South China Sea** (2022)
-   7 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 ## External Profiles
 

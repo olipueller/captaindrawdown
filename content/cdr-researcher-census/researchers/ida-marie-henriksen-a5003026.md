@@ -1,7 +1,7 @@
 ---
 title: "Ida Marie Henriksen"
-description: "Ida Marie Henriksen is a Mid-career BECCS researcher at Norwegian University of Science and Technology in NO. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.684001
+description: "Ida Marie Henriksen is a Mid-career BECCS researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.638808
 url: "/cdr-researcher-census/researchers/ida-marie-henriksen-a5003026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ida Marie Henriksen",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ida-marie-henriksen-a5003026/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Norwegian University of Science and Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-9906-1713",
     "https://openalex.org/A5003026964"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Ida Marie Henriksen**  
-Norwegian University of Science and Technology · 🇳🇴 NO
+**Ida Marie Henriksen**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 341 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 348 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Bridging Quantitative and Qualitative Science for BECCS in Abandoned Croplands** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 2. **Integrating environmental modelling and qualitative social science to evaluate BECCS from abandoned cropland** (2024)
    0 citations · BECCS

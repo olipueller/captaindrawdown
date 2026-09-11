@@ -1,7 +1,7 @@
 ---
 title: "Xiujun Li"
-description: "Xiujun Li is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 42 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.167733
+description: "Xiujun Li is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 45 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.130719
 url: "/cdr-researcher-census/researchers/xiujun-li-a5101542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 2,107 |
-| Publications | 42 |
-| CDR Focus | 7.1% |
+| h-index | 21 |
+| Citations | 1,948 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

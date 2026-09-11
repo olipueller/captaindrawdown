@@ -1,7 +1,7 @@
 ---
 title: "Noor Sharina Mohd Rosli"
-description: "Noor Sharina Mohd Rosli is a Mid-career Biochar researcher at University of Malaya in MY. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374912
+description: "Noor Sharina Mohd Rosli is a Mid-career Biochar researcher at University of Malaya in MY. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.309312
 url: "/cdr-researcher-census/researchers/noor-sharina-mohd-rosli-a5077480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 108 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 116 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

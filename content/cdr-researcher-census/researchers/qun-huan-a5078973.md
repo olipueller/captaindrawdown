@@ -1,7 +1,7 @@
 ---
 title: "Qun Huan"
-description: "Qun Huan is a Mid-career Biochar researcher at Southeast University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.566945
+description: "Qun Huan is a Mid-career Biochar researcher at Southeast University in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.514652
 url: "/cdr-researcher-census/researchers/qun-huan-a5078973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 439 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 453 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimal regulation of modified biochar in solid waste-derived lightweight aggregates: Enhancing carbonation mechanisms and negative carbon emissions** (2025)
-   20 citations · Biochar
+   22 citations · Biochar
 
 2. **A review of biochar toward carbon neutrality: Production optimization and carbon sequestration potential assessment** (2026)
    2 citations · Biochar

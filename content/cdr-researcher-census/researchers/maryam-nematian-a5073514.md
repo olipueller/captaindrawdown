@@ -1,7 +1,7 @@
 ---
 title: "Maryam Nematian"
 description: "Maryam Nematian is an Early-career General CDR researcher at Energy Biosciences Institute in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.830554
+date: 2026-09-11T02:38:29.746411
 url: "/cdr-researcher-census/researchers/maryam-nematian-a5073514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 256 |
+| Citations | 284 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advances and Emerging Issues in Life‐Cycle Assessment for Biofuel Policy** (2025)
-   7 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

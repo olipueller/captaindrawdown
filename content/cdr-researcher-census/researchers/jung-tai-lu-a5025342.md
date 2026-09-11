@@ -1,7 +1,7 @@
 ---
 title: "Jung-Tai Lu"
 description: "Jung-Tai Lu is a Senior Soil Carbon researcher at National Sun Yat-sen University in TW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.907048
+date: 2026-09-11T02:38:29.874605
 url: "/cdr-researcher-census/researchers/jung-tai-lu-a5025342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 223 |
+| Citations | 227 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate-regulation of organic carbon export in erosive mountain settings: A case study from Taiwan since the last glacial maximum** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

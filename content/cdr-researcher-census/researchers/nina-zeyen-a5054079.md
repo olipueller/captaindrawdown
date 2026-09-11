@@ -1,7 +1,7 @@
 ---
 title: "Nina Zeyen"
-description: "Nina Zeyen is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.415670
+description: "Nina Zeyen is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.359461
 url: "/cdr-researcher-census/researchers/nina-zeyen-a5054079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 653 |
-| Publications | 59 |
-| CDR Focus | 15.3% |
+| Citations | 688 |
+| Publications | 60 |
+| CDR Focus | 15.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -59,11 +59,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
 
-4. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   29 citations · DAC
+4. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
+   29 citations · Enhanced Weathering
 
-5. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   28 citations · Enhanced Weathering
+5. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
+   29 citations · DAC
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Priya Kaur"
-description: "Priya Kaur is an Early-career Soil Carbon researcher at Motilal Nehru National Institute of Technology in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.387004
+description: "Priya Kaur is an Early-career Soil Carbon researcher at Dr. A.P.J. Abdul Kalam Technical University in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.344079
 url: "/cdr-researcher-census/researchers/priya-kaur-a5022000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/priya-kaur-a5022000/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Motilal Nehru National Institute of Technology"
+    "name": "Dr. A.P.J. Abdul Kalam Technical University"
   },
   "sameAs": "https://openalex.org/A5022000968"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Priya Kaur**  
-Motilal Nehru National Institute of Technology · 🇮🇳 IN
+Dr. A.P.J. Abdul Kalam Technical University · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 106 |
+| Citations | 109 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

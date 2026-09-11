@@ -1,7 +1,7 @@
 ---
 title: "Daniel G. Strawn"
-description: "Daniel G. Strawn is a Senior Biochar researcher at University of Idaho in US. With 103 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.114272
+description: "Daniel G. Strawn is a Senior Biochar researcher at University of Idaho in US. With 102 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.064573
 url: "/cdr-researcher-census/researchers/daniel-g-strawn-a5001733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,829 |
-| Publications | 103 |
-| CDR Focus | 6.8% |
+| Citations | 3,891 |
+| Publications | 102 |
+| CDR Focus | 6.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Reactivity of Fe-amended biochar for phosphorus removal and recycling from wastewater** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Biochar‐integrated reactive filtration of wastewater for P removal and recovery, micropollutant catalytic oxidation, and negative CO<sub>2</sub>e: Life cycle assessment and techno‐economic analysis** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Phosphorus availability and speciation in soils amended with upcycled dairy-waste nutrients** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Biochar integrated reactive filtration of wastewater for P removal and recovery, micropollutant catalytic oxidation, and negative CO<sub>2</sub>e: Process operation and mechanism** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Iron–ozone catalytic oxidation reactive filtration of municipal wastewater at field pilot and full‐scale with high‐efficiency pollutant removal and potential negative CO<sub>2</sub>e with biochar** (2023)
    7 citations · Biochar
@@ -69,7 +69,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations · Biochar
 
 7. **Availability of Recycled Phosphorus on Biochar Reacted with Wastewater to Support Growth of Lactuca sativa** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

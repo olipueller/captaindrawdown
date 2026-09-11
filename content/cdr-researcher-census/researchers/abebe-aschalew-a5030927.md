@@ -1,7 +1,7 @@
 ---
 title: "Abebe Aschalew"
-description: "Abebe Aschalew is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.780961
+description: "Abebe Aschalew is a Mid-career Soil Carbon researcher at Bahir Dar University in ET. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.720725
 url: "/cdr-researcher-census/researchers/abebe-aschalew-a5030927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Abebe Aschalew",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abebe-aschalew-a5030927/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Bahir Dar University"
+  },
   "sameAs": "https://openalex.org/A5030927558"
 }
 </script>
 
 ## Profile
 
-**Abebe Aschalew**
+**Abebe Aschalew**  
+Bahir Dar University ·  ET
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 282 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 298 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

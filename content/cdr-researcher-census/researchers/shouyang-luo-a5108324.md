@@ -1,7 +1,7 @@
 ---
 title: "Shouyang Luo"
 description: "Shouyang Luo is a Mid-career Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.899756
+date: 2026-09-11T02:38:29.787569
 url: "/cdr-researcher-census/researchers/shouyang-luo-a5108324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 226 |
+| Citations | 265 |
 | Publications | 27 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil water content and RubisCO activity control the carbon storage in soil under different land uses in Sanjiang Plain, China** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-2. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
-   1 citations · Soil Carbon
+2. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
+   3 citations · Soil Carbon
 
-3. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
-   1 citations · Soil Carbon
+3. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
+   2 citations · Soil Carbon
 
 4. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe under Different Wetland Use in Songnen Plain, China** (2026)
    0 citations

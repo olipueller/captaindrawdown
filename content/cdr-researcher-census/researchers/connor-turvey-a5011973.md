@@ -1,7 +1,7 @@
 ---
 title: "Connor Turvey"
-description: "Connor Turvey is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.368554
+description: "Connor Turvey is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.322183
 url: "/cdr-researcher-census/researchers/connor-turvey-a5011973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 762 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| Citations | 779 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

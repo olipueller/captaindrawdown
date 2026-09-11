@@ -1,7 +1,7 @@
 ---
 title: "Stephen F. Yates"
-description: "Stephen F. Yates is a Senior General CDR researcher. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.323496
+description: "Stephen F. Yates is a Senior General CDR researcher at Algonquin College in CA. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.279919
 url: "/cdr-researcher-census/researchers/stephen-f-yates-a5110001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Stephen F. Yates",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stephen-f-yates-a5110001/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Algonquin College"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-7791-4260",
     "https://openalex.org/A5110001031"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Stephen F. Yates**
+**Stephen F. Yates**  
+Algonquin College · 🇨🇦 CA
 
 **Career Stage:** Senior
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 895 |
-| Publications | 40 |
-| CDR Focus | 12.5% |
+| Citations | 901 |
+| Publications | 41 |
+| CDR Focus | 14.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qiyan Ma"
-description: "Qiyan Ma is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.001722
+description: "Qiyan Ma is a Mid-career Biochar researcher at Beijing Chaoyang Emergency Medical Center in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.960296
 url: "/cdr-researcher-census/researchers/qiyan-ma-a5100839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qiyan-ma-a5100839/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing University of Chemical Technology"
+    "name": "Beijing Chaoyang Emergency Medical Center"
   },
   "sameAs": "https://openalex.org/A5100839179"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qiyan Ma**  
-Beijing University of Chemical Technology · 🇨🇳 CN
+Beijing Chaoyang Emergency Medical Center · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 196 |
+| Citations | 201 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

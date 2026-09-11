@@ -1,7 +1,7 @@
 ---
 title: "Qianjing Jiang"
-description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 64 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.377431
+description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at First Affiliated Hospital Zhejiang University in CN. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.325842
 url: "/cdr-researcher-census/researchers/qianjing-jiang-a5101252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qianjing-jiang-a5101252/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "First Affiliated Hospital Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5101252066"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qianjing Jiang**  
-Zhejiang University · 🇨🇳 CN
+First Affiliated Hospital Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 740 |
-| Publications | 64 |
-| CDR Focus | 10.9% |
+| Citations | 767 |
+| Publications | 66 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil carbon and nitrous oxide dynamics in corn (Zea mays L.) production under different nitrogen, tillage and residue management practices** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Maximizing the carbon sink function of paddy systems in China with machine learning** (2023)
    11 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 5. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
-   7 citations
+   8 citations
 
 6. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)
    3 citations · Soil Carbon

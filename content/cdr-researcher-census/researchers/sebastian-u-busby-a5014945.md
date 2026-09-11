@@ -1,7 +1,7 @@
 ---
 title: "Sebastian U. Busby"
-description: "Sebastian U. Busby is a Senior Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704936
+description: "Sebastian U. Busby is a Senior Soil Carbon researcher at The Nature Conservancy in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.631427
 url: "/cdr-researcher-census/researchers/sebastian-u-busby-a5014945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sebastian U. Busby",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sebastian-u-busby-a5014945/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Nature Conservancy"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2084-0106",
     "https://openalex.org/A5014945273"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Sebastian U. Busby**
+**Sebastian U. Busby**  
+The Nature Conservancy · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -38,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 327 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 354 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

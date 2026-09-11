@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Das"
-description: "Priyanka Das is a Mid-career Biochar researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.133208
+description: "Priyanka Das is a Mid-career Biochar researcher at Assam Agricultural University in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.090625
 url: "/cdr-researcher-census/researchers/priyanka-das-a5019386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Priyanka Das",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/priyanka-das-a5019386/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Assam Agricultural University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2219-278X",
     "https://openalex.org/A5019386227"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Priyanka Das**
+**Priyanka Das**  
+Assam Agricultural University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 158 |
+| Citations | 163 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Zhang"
-description: "Xingyu Zhang is a Mid-career Soil Carbon researcher at Nanjing University of Aeronautics and Astronautics in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.350658
+description: "Xingyu Zhang is a Mid-career Soil Carbon researcher at Nanjing University of Aeronautics and Astronautics in CN. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.298357
 url: "/cdr-researcher-census/researchers/xingyu-zhang-a5027263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 812 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| h-index | 14 |
+| Citations | 841 |
+| Publications | 58 |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon

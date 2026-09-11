@@ -1,7 +1,7 @@
 ---
 title: "Animesh Debnath"
-description: "Animesh Debnath is a Senior Biochar researcher at National Institute of Technology Agartala in IN. With 97 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.129297
+description: "Animesh Debnath is a Senior Biochar researcher at National Institute of Technology Agartala in IN. With 98 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.079761
 url: "/cdr-researcher-census/researchers/animesh-debnath-a5033511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 36 |
-| Citations | 3,177 |
-| Publications | 97 |
-| CDR Focus | 5.2% |
+| Citations | 3,250 |
+| Publications | 98 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    97 citations · Biochar
 
 2. **Enhanced performance of Lagerstroemia speciosa seed biochar and polypyrrole composite for the sequestration of emerging contaminant from wastewater sample: Case study of ofloxacin drug** (2024)
-   52 citations · Biochar
+   53 citations · Biochar
 
 3. **Adsorption of malachite green by Aegle marmelos-derived activated biochar: Novelty assessment through phytotoxicity tests and economic analysis** (2024)
    31 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Lin"
-description: "Wenhao Lin is a Senior BECCS researcher at Sichuan University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.377754
+description: "Wenhao Lin is a Senior BECCS researcher at Sichuan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.326945
 url: "/cdr-researcher-census/researchers/wenhao-lin-a5044771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 113 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

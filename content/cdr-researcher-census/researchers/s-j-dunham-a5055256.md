@@ -1,7 +1,7 @@
 ---
 title: "S. J. Dunham"
 description: "S. J. Dunham is a Senior Enhanced Weathering researcher at Rothamsted Research in GB. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.108574
+date: 2026-09-11T02:38:29.058920
 url: "/cdr-researcher-census/researchers/s-j-dunham-a5055256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 4,210 |
+| Citations | 4,240 |
 | Publications | 40 |
 | CDR Focus | 7.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Impact of Basalt Rock Powder on Ryegrass Growth and Nutrition on Sandy and Loamy Acid Soils** (2025)
-   3 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 2. **Quantifying carbon dioxide removal via enhanced rock weathering in arable croplands within the UK** (2025)
    0 citations · Enhanced Weathering

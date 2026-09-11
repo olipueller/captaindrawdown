@@ -1,7 +1,7 @@
 ---
 title: "Omkar Patange"
-description: "Omkar Patange is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.440991
+description: "Omkar Patange is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.388772
 url: "/cdr-researcher-census/researchers/omkar-patange-a5007561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 609 |
+| h-index | 10 |
+| Citations | 628 |
 | Publications | 18 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · BECCS
 
 2. **The AFOLU sector’s role in national decarbonization: a comparative analysis of low-GHG development pathways in Brazil, India and Indonesia** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **An Integrated Bottom-Up Optimization to Investigate the Role of Beccs in Transitioning Towards a Net-Zero Energy System: A Case Study from Gujarat, India** (2022)
    0 citations · BECCS

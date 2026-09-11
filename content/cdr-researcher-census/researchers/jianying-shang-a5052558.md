@@ -1,7 +1,7 @@
 ---
 title: "Jianying Shang"
-description: "Jianying Shang is an Eminent Biochar researcher at China Agricultural University in CN. With 166 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.093624
+description: "Jianying Shang is an Eminent Biochar researcher at China Agricultural University in CN. With 163 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044660
 url: "/cdr-researcher-census/researchers/jianying-shang-a5052558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 44 |
-| Citations | 5,535 |
-| Publications | 166 |
-| CDR Focus | 9.0% |
+| h-index | 45 |
+| Citations | 5,635 |
+| Publications | 163 |
+| CDR Focus | 9.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Removal of hexavalent chromium via biochar-based adsorbents: State-of-the-art, challenges, and future perspectives** (2022)
-   154 citations · Biochar
+   156 citations · Biochar
 
 2. **Goethite modified biochar simultaneously mitigates the arsenic and cadmium accumulation in paddy rice (Oryza sativa) L** (2021)
-   80 citations · Biochar
+   81 citations · Biochar
 
 3. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   72 citations · Biochar
+   73 citations · Biochar
 
 4. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   46 citations · Biochar
+   49 citations · Biochar
 
-5. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
+5. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
+   35 citations · Biochar
+
+6. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
    34 citations · Biochar
-
-6. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
-   33 citations · Biochar
 
 7. **Transport of biochar colloids under unsaturated flow condition: Roles of chemical aging and cation type** (2022)
    33 citations · Biochar
 
 8. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
-   26 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 9. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
    20 citations · Biochar

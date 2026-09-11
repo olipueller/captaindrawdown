@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Cui"
-description: "Yongxing Cui is an Eminent Soil Carbon researcher at Peking University in CN. With 105 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.084641
+description: "Yongxing Cui is an Eminent Soil Carbon researcher at Peking University in CN. With 108 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.035522
 url: "/cdr-researcher-census/researchers/yongxing-cui-a5012682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 47 |
-| Citations | 6,738 |
-| Publications | 105 |
-| CDR Focus | 13.3% |
+| h-index | 48 |
+| Citations | 7,086 |
+| Publications | 108 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   161 citations · Soil Carbon
+   167 citations · Soil Carbon
 
 2. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   122 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 3. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   96 citations
+   100 citations
 
 4. **Heavy metal pollution increases soil microbial carbon limitation: Evidence from ecological enzyme stoichiometry** (2021)
-   69 citations · Soil Carbon
+   70 citations · Soil Carbon
 
-5. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
+5. **Microbial nutrient limitations limit carbon sequestration but promote nitrogen and phosphorus cycling: A case study in an agroecosystem with long-term straw return** (2023)
+   64 citations · Soil Carbon
+
+6. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
    60 citations · Soil Carbon
 
-6. **Microbial nutrient limitations limit carbon sequestration but promote nitrogen and phosphorus cycling: A case study in an agroecosystem with long-term straw return** (2023)
-   59 citations · Soil Carbon
-
 7. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
-   57 citations
+   58 citations
 
 8. **Soil microbial trait-based strategies drive the storage and stability of the soil carbon pool in Robinia pseudoacacia plantations** (2022)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 9. **Consistent Plant and Microbe Nutrient Limitation Patterns During Natural Vegetation Restoration** (2022)
    35 citations · Soil Carbon

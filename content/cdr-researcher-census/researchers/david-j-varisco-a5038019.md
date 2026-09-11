@@ -1,7 +1,7 @@
 ---
 title: "David J. Varisco"
-description: "David J. Varisco is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.856356
+description: "David J. Varisco is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.778776
 url: "/cdr-researcher-census/researchers/david-j-varisco-a5038019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 243 |
+| h-index | 8 |
+| Citations | 268 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,19 +48,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Intranasal administration of BReC-CoV-2 COVID-19 vaccine protects K18-hACE2 mice against lethal SARS-CoV-2 challenge** (2022)
-   52 citations
+   53 citations
 
 2. **Physicochemical characterization of biological and synthetic forms of two lipid A-based TLR4 agonists** (2023)
-   16 citations
+   17 citations
 
 3. **Development of a nano-emulsion based multivalent protein subunit vaccine against Pseudomonas aeruginosa** (2024)
-   7 citations
+   8 citations
 
-4. **Lipid A mimetics BECC438 and BECC470 potentiate durable and balanced immune responses using an ovalbumin murine vaccine model** (2021)
+4. **Enhancing protective efficacy and immunogenicity of hemagglutinin-based influenza vaccine utilizing adjuvants developed by BECC** (2025)
+   2 citations · BECCS
+
+5. **Lipid A mimetics BECC438 and BECC470 potentiate durable and balanced immune responses using an ovalbumin murine vaccine model** (2021)
    2 citations
-
-5. **Enhancing protective efficacy and immunogenicity of hemagglutinin-based influenza vaccine utilizing adjuvants developed by BECC** (2025)
-   1 citations · BECCS
 
 6. **BECC-adjuvanted hemagglutinin influenza vaccine promotes enhanced immunogenicity and protective efficacy** (2026)
    0 citations

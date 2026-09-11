@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Argüello"
-description: "Gabriela Argüello is a Mid-career Ocean CDR researcher at University of Gothenburg in SE. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.155150
+description: "Gabriela Argüello is a Mid-career Ocean CDR researcher at University of Gothenburg in SE. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.103233
 url: "/cdr-researcher-census/researchers/gabriela-arguello-a5015813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 152 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 159 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

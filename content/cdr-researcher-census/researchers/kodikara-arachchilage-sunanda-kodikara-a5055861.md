@@ -1,7 +1,7 @@
 ---
 title: "Kodikara Arachchilage Sunanda Kodikara"
 description: "Kodikara Arachchilage Sunanda Kodikara is a Mid-career Soil Carbon researcher at University of Ruhuna in LK. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.415147
+date: 2026-09-11T02:38:29.363973
 url: "/cdr-researcher-census/researchers/kodikara-arachchilage-sunanda-kodikara-a5055861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 654 |
+| Citations | 676 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and intertidal zonation drive variability in the carbon stocks of Sri Lankan mangrove forests** (2021)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Umed Paliwal"
-description: "Umed Paliwal is a Mid-career DAC researcher at University of California, Berkeley in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.847035
+description: "Umed Paliwal is a Mid-career DAC researcher at University of California, Berkeley in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.800217
 url: "/cdr-researcher-census/researchers/umed-paliwal-a5005234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 248 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 258 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Inflation Reduction Act incentives increase cost-competitiveness of lower-footprint clean hydrogen-based sustainable aviation fuel** (2024)
-   2 citations · DAC
+   3 citations · DAC
 
 ## External Profiles
 

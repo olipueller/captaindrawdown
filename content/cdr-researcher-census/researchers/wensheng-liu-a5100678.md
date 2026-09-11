@@ -1,7 +1,7 @@
 ---
 title: "Wensheng Liu"
-description: "Wensheng Liu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.272994
+description: "Wensheng Liu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.219201
 url: "/cdr-researcher-census/researchers/wensheng-liu-a5100678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,129 |
-| Publications | 45 |
-| CDR Focus | 11.1% |
+| h-index | 18 |
+| Citations | 1,170 |
+| Publications | 44 |
+| CDR Focus | 11.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Conservation tillage increases surface soil organic carbon stock by altering fungal communities and enzyme activity** (2023)
    25 citations · Soil Carbon
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Biochar-organic fertilizer synergy drives microbial-mediated C-sequestration and N-cycling in mixed forests toward sustainability** (2025)
    6 citations · Biochar
 
-4. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
-   4 citations · Soil Carbon
+4. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)
+   5 citations · Soil Carbon
 
-5. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)
-   3 citations · Soil Carbon
+5. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Hu"
-description: "Yongxin Hu is a Senior DAC researcher at Southwest Petroleum University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592616
+description: "Yongxin Hu is a Senior DAC researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.519165
 url: "/cdr-researcher-census/researchers/yongxin-hu-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yongxin Hu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yongxin-hu-a5109736/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Southwest Petroleum University"
-  },
   "sameAs": "https://openalex.org/A5109736719"
 }
 </script>
 
 ## Profile
 
-**Yongxin Hu**  
-Southwest Petroleum University · 🇨🇳 CN
+**Yongxin Hu**
 
 **Career Stage:** Senior
 
@@ -40,9 +35,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 415 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 449 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

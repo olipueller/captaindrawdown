@@ -1,7 +1,7 @@
 ---
 title: "Muazzam Arshad"
 description: "Muazzam Arshad is an Early-career General CDR researcher at TU Wien in AT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.987514
+date: 2026-09-11T02:38:29.912796
 url: "/cdr-researcher-census/researchers/muazzam-arshad-a5066959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 200 |
+| Citations | 212 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

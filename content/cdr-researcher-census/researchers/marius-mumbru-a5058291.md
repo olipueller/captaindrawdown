@@ -1,7 +1,7 @@
 ---
 title: "Màrius Mumbrú"
 description: "Màrius Mumbrú is a Mid-career Biochar researcher at Universitat de Barcelona in ES. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347028
+date: 2026-09-11T02:38:30.318689
 url: "/cdr-researcher-census/researchers/marius-mumbru-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 113 |
+| Citations | 114 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-year monitoring of nitrogen forms after the application of various types of biochar on different soils** (2021)
-   22 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

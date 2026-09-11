@@ -1,7 +1,7 @@
 ---
 title: "Laura Bastianini"
 description: "Laura Bastianini is a Mid-career Ocean CDR researcher at Heriot-Watt University in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.095642
+date: 2026-09-11T02:38:30.029556
 url: "/cdr-researcher-census/researchers/laura-bastianini-a5025578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 168 |
+| Citations | 180 |
 | Publications | 13 |
 | CDR Focus | 61.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   106 citations · General CDR
+   113 citations · General CDR
 
 2. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR

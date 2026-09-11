@@ -1,7 +1,7 @@
 ---
 title: "Sahely Kanthal"
-description: "Sahely Kanthal is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.030920
+description: "Sahely Kanthal is a Mid-career Soil Carbon researcher at Techno India University in IN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.940620
 url: "/cdr-researcher-census/researchers/sahely-kanthal-a5088400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sahely Kanthal",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sahely-kanthal-a5088400/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Techno India University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6550-5227",
     "https://openalex.org/A5088400772"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Sahely Kanthal**
+**Sahely Kanthal**  
+Techno India University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -37,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 188 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| h-index | 9 |
+| Citations | 209 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Rehabilitating fragile ecosystems through agroforestry in red and lateritic soils: A multi-criteria systems perspective** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Adoption of conservation agriculture in Africa: impact on crop yields** (2023)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Mitchell K. van der Hulst"
 description: "Mitchell K. van der Hulst is a Mid-career DAC researcher. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505460
+date: 2026-09-11T02:38:29.441550
 url: "/cdr-researcher-census/researchers/mitchell-k-van-der-hulst-a5079657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 506 |
+| Citations | 544 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Prospective environmental burdens and benefits of fast-swing direct air carbon capture and storage** (2024)
-   20 citations · DAC
+   22 citations · DAC
 
 ## External Profiles
 

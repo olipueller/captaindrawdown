@@ -1,7 +1,7 @@
 ---
 title: "Tahir Fazal"
 description: "Tahir Fazal is a Senior Ocean CDR researcher at South University of Science and Technology of China in CN. With 42 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.156935
+date: 2026-09-11T02:38:29.105257
 url: "/cdr-researcher-census/researchers/tahir-fazal-a5045533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 2,315 |
+| Citations | 2,386 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Algal-biochar and Chlorella vulgaris microalgae: a sustainable approach for textile wastewater treatment and biodiesel production** (2024)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Evaluating microalgal-induced carbonate precipitation for marine carbon sequestration using Chlorella species** (2025)
    9 citations · Ocean CDR
 
 3. **Enhancing ocean alkalinity and CO2 sequestration via microalgae-driven carbonate precipitation and biomimetic catalysis** (2026)
-   2 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 ## External Profiles
 

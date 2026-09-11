@@ -1,7 +1,7 @@
 ---
 title: "Philipp Gündler"
 description: "Philipp Gündler is an Early-career Soil Carbon researcher at University of Vienna in AT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.533802
+date: 2026-09-11T02:38:29.477456
 url: "/cdr-researcher-census/researchers/philipp-gundler-a5067597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 473 |
+| Citations | 493 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seasonal dynamics of soil microbial growth, respiration, biomass, and carbon use efficiency in temperate soils** (2023)
-   85 citations
+   88 citations
 
 2. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
    8 citations · Soil Carbon

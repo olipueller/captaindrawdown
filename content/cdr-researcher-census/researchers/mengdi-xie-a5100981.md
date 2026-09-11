@@ -1,7 +1,7 @@
 ---
 title: "Mengdi Xie"
 description: "Mengdi Xie is a Mid-career Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.535352
+date: 2026-09-11T02:38:29.481629
 url: "/cdr-researcher-census/researchers/mengdi-xie-a5100981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 471 |
+| Citations | 488 |
 | Publications | 30 |
 | CDR Focus | 23.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Ocean CDR
 
 2. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Large-Scale Biochar Incorporation Does Not Necessarily Promote the Carbon Sink of Estuarine Wetland Soil** (2023)
    4 citations · Biochar

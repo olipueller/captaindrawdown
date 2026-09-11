@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar Gupta"
-description: "Ajay Kumar Gupta is an Early-career Biochar researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.816108
+description: "Ajay Kumar Gupta is an Early-career Biochar researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.770157
 url: "/cdr-researcher-census/researchers/ajay-kumar-gupta-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 264 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 273 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar application for greenhouse gas mitigation, contaminants immobilization and soil fertility enhancement: A state-of-the-art review** (2022)
-   248 citations · Biochar
+   253 citations · Biochar
 
 ## External Profiles
 

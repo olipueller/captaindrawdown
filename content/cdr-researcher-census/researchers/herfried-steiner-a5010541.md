@@ -1,7 +1,7 @@
 ---
 title: "Herfried Steiner"
 description: "Herfried Steiner is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.407451
+date: 2026-09-11T02:38:30.370477
 url: "/cdr-researcher-census/researchers/herfried-steiner-a5010541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 103 |
+| Citations | 105 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |

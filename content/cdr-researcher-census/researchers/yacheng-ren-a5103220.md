@@ -1,7 +1,7 @@
 ---
 title: "Yacheng Ren"
 description: "Yacheng Ren is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590170
+date: 2026-09-11T02:38:29.550171
 url: "/cdr-researcher-census/researchers/yacheng-ren-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 418 |
+| Citations | 419 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatiotemporal variations and driving mechanisms of carbon storage in Central Asia: Insights from the PLUS-InVEST models and machine learning** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

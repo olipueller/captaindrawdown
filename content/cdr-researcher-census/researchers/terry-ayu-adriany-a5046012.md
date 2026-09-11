@@ -1,7 +1,7 @@
 ---
 title: "Terry Ayu Adriany"
-description: "Terry Ayu Adriany is a Mid-career Biochar researcher at National Nuclear Energy Agency of Indonesia in ID. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.980627
+description: "Terry Ayu Adriany is a Mid-career Biochar researcher at Center for Plant Conservation in US. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.913325
 url: "/cdr-researcher-census/researchers/terry-ayu-adriany-a5046012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/terry-ayu-adriany-a5046012/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Nuclear Energy Agency of Indonesia"
+    "name": "Center for Plant Conservation"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6990-7431",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Terry Ayu Adriany**  
-National Nuclear Energy Agency of Indonesia · 🇮🇩 ID
+Center for Plant Conservation · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 203 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 212 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

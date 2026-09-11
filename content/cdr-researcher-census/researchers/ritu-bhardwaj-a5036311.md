@@ -1,7 +1,7 @@
 ---
 title: "Ritu Bhardwaj"
 description: "Ritu Bhardwaj is a Mid-career DAC researcher at Indian Institute of Science Education and Research, Bhopal in IN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.275772
+date: 2026-09-11T02:38:30.233339
 url: "/cdr-researcher-census/researchers/ritu-bhardwaj-a5036311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 126 |
+| Citations | 130 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

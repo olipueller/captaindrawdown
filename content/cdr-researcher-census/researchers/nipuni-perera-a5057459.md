@@ -1,7 +1,7 @@
 ---
 title: "Nipuni Perera"
-description: "Nipuni Perera is an Early-career General CDR researcher at Deakin University in AU. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.233674
+description: "Nipuni Perera is an Early-career General CDR researcher at Deakin University in AU. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.157538
 url: "/cdr-researcher-census/researchers/nipuni-perera-a5057459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 135 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 147 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mangrove-based carbon market projects: Current trends and future perspectives** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

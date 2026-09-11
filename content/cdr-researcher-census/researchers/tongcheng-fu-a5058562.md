@@ -1,7 +1,7 @@
 ---
 title: "Tongcheng Fu"
 description: "Tongcheng Fu is a Mid-career Soil Carbon researcher at Changsha University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.634819
+date: 2026-09-11T02:38:29.580789
 url: "/cdr-researcher-census/researchers/tongcheng-fu-a5058562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 378 |
+| Citations | 393 |
 | Publications | 30 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |

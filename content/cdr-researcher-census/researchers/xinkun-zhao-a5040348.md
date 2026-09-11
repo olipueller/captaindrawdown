@@ -1,7 +1,7 @@
 ---
 title: "Xinkun Zhao"
-description: "Xinkun Zhao is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456491
+description: "Xinkun Zhao is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.399392
 url: "/cdr-researcher-census/researchers/xinkun-zhao-a5040348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 582 |
-| Publications | 39 |
-| CDR Focus | 10.3% |
+| Citations | 610 |
+| Publications | 40 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mechanisms of plant-derived and microbial residue carbon in coastal wetland soils in response to salinity gradients** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Salinity gradient shapes microbial carbon use efficiency in coastal wetlands: Insights from extracellular enzyme stoichiometry and metabolic limitation** (2025)
    0 citations · Soil Carbon

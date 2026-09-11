@@ -1,7 +1,7 @@
 ---
 title: "Xuewen Wei"
 description: "Xuewen Wei is a Mid-career Biochar researcher at Shanxi Coal Transportation and Sales Group (China) in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.026044
+date: 2026-09-11T02:38:29.995826
 url: "/cdr-researcher-census/researchers/xuewen-wei-a5032280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 189 |
+| Citations | 191 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An essential strategy to enhance carbon accumulation within coastal wetlands: Introducing Spartina alterniflora-biochar facilitating microbial carbon sequestration in subtidal zone** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

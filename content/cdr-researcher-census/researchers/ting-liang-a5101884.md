@@ -1,7 +1,7 @@
 ---
 title: "Ting Liang"
-description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.428767
+description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.358977
 url: "/cdr-researcher-census/researchers/ting-liang-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 631 |
+| h-index | 15 |
+| Citations | 690 |
 | Publications | 36 |
 | CDR Focus | 13.9% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Using ethylene combined with green manuring to enhance rice productivity, economic benefit, and energy efficiency in double-rice paddy field** (2026)
    0 citations

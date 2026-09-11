@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Drużyński"
 description: "Sebastian Drużyński is a Senior Biochar researcher at Nicolaus Copernicus University in PL. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.909295
+date: 2026-09-11T02:38:29.877125
 url: "/cdr-researcher-census/researchers/sebastian-druzynski-a5016044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 222 |
+| Citations | 226 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Exiting |

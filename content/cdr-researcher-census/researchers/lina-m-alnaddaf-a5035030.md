@@ -1,7 +1,7 @@
 ---
 title: "Lina M. Alnaddaf"
-description: "Lina M. Alnaddaf is a Mid-career Soil Carbon researcher at Homs University in SY. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.106405
+description: "Lina M. Alnaddaf is a Mid-career Soil Carbon researcher at Homs University in SY. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.064335
 url: "/cdr-researcher-census/researchers/lina-m-alnaddaf-a5035030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 166 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 172 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

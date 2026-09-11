@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
-description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.379595
+description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.324738
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 734 |
-| Publications | 43 |
-| CDR Focus | 9.3% |
+| Citations | 770 |
+| Publications | 44 |
+| CDR Focus | 9.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Fresh and saline submarine groundwater discharge as sources of carbon and nutrients to the Japan Sea** (2023)
-   38 citations · Ocean CDR
+   39 citations · Ocean CDR
 
 2. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
    12 citations · Ocean CDR
 
 3. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   9 citations
+   11 citations
 
 4. **Carbon and mercury burial in mangrove soils across an anthropogenic gradient** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
    0 citations · Ocean CDR

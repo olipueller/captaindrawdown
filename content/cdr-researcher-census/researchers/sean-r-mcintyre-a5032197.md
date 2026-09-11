@@ -1,7 +1,7 @@
 ---
 title: "Sean R. McIntyre"
 description: "Sean R. McIntyre is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.985421
+date: 2026-09-11T02:38:29.893024
 url: "/cdr-researcher-census/researchers/sean-r-mcintyre-a5032197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 201 |
+| Citations | 220 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   30 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

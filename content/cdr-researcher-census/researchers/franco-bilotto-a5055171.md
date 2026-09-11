@@ -1,7 +1,7 @@
 ---
 title: "Franco Bilotto"
 description: "Franco Bilotto is a Mid-career Soil Carbon researcher at Atkins (United States) in US. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.487562
+date: 2026-09-11T02:38:29.420086
 url: "/cdr-researcher-census/researchers/franco-bilotto-a5055171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 535 |
+| Citations | 578 |
 | Publications | 51 |
 | CDR Focus | 7.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon, cash, cattle and the climate crisis** (2023)
-   35 citations · General CDR
+   36 citations · General CDR
 
 2. **Extreme weather dominates farm management effects on long-term trends in soil carbon** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **The nexus between profitability, productivity, and greenhouse gas emissions of livestock businesses under increasingly variable climates** (2026)
    0 citations · Soil Carbon

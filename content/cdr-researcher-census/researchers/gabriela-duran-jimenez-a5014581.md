@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Durán-Jiménez"
 description: "Gabriela Durán-Jiménez is a Mid-career Biochar researcher at University of Nottingham in GB. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342870
+date: 2026-09-11T02:38:29.289093
 url: "/cdr-researcher-census/researchers/gabriela-duran-jimenez-a5014581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 839 |
+| Citations | 871 |
 | Publications | 23 |
 | CDR Focus | 13.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave pyrolysis of waste biomass and synthesis of micro-mesoporous activated carbons: The role of textural properties for CO2 and textile dye adsorption** (2024)
-   68 citations
+   74 citations
 
 2. **Pyrolysis of pulp and paper mill sludge: Mechanistic effects of process conditions and feldspar catalysis on product formation and biochar carbon permanence** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **Chemical looping oxygen uncoupling of biochar using CuO: Influence of oxygen carrier on combustion efficiency** (2025)
    5 citations · Biochar

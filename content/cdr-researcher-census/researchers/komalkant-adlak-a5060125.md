@@ -1,7 +1,7 @@
 ---
 title: "Komalkant Adlak"
 description: "Komalkant Adlak is a Mid-career Biochar researcher at The Center For Rural Development in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.588169
+date: 2026-09-11T02:38:29.525327
 url: "/cdr-researcher-census/researchers/komalkant-adlak-a5060125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 419 |
+| Citations | 442 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   160 citations · Biochar
+   163 citations · Biochar
 
 ## External Profiles
 

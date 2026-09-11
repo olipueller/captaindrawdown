@@ -1,7 +1,7 @@
 ---
 title: "Haewon McJeon"
-description: "Haewon McJeon is an Eminent General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 194 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.082671
+description: "Haewon McJeon is an Eminent General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 199 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.034278
 url: "/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 42 |
-| Citations | 7,178 |
-| Publications | 194 |
-| CDR Focus | 16.0% |
+| Citations | 7,384 |
+| Publications | 199 |
+| CDR Focus | 15.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   199 citations · General CDR
+   202 citations · General CDR
 
 2. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
    112 citations · DAC
@@ -60,13 +60,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    58 citations · General CDR
 
 4. **Trade-offs in land-based carbon removal measures under 1.5 °C and 2 °C futures** (2024)
-   53 citations · BECCS
+   54 citations · BECCS
 
-5. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   40 citations · DAC
+5. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
+   42 citations · General CDR
 
-6. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   38 citations · General CDR
+6. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
+   41 citations · DAC
 
 7. **Role of non-CO2 greenhouse gas emissions in limiting global warming** (2022)
    37 citations
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    30 citations · DAC
 
 9. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   28 citations · General CDR
+   29 citations · General CDR
 
 10. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
    28 citations · General CDR

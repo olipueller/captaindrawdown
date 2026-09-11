@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Zahid"
-description: "Mustafa Zahid is a Mid-career General CDR researcher at University of California, Berkeley in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.391391
+description: "Mustafa Zahid is a Mid-career General CDR researcher at University of California, Berkeley in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.307192
 url: "/cdr-researcher-census/researchers/mustafa-zahid-a5005781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 105 |
+| h-index | 6 |
+| Citations | 116 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -52,6 +52,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 1. **Quantifying Climate Change Loss and Damage Consistent with a Social Cost of Greenhouse Gases** (2023)
    9 citations · General CDR
+
+2. **Quantifying Climate Change Loss and Damage Consistent with a Social Cost of Greenhouse Gases** (2023)
+   8 citations
 
 ## External Profiles
 

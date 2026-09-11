@@ -1,7 +1,7 @@
 ---
 title: "Lin Xiong"
-description: "Lin Xiong is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.372930
+description: "Lin Xiong is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.956746
 url: "/cdr-researcher-census/researchers/lin-xiong-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 108 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 202 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

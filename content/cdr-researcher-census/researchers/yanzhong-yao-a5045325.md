@@ -1,7 +1,7 @@
 ---
 title: "Yanzhong Yao"
-description: "Yanzhong Yao is a Senior Soil Carbon researcher at Institute of Applied Physics and Computational Mathematics in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.472104
+description: "Yanzhong Yao is a Senior Soil Carbon researcher at Southwest University in CN. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.386618
 url: "/cdr-researcher-census/researchers/yanzhong-yao-a5045325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanzhong-yao-a5045325/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Applied Physics and Computational Mathematics"
+    "name": "Southwest University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6378-4787",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yanzhong Yao**  
-Institute of Applied Physics and Computational Mathematics · 🇨🇳 CN
+Southwest University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 557 |
-| Publications | 41 |
-| CDR Focus | 7.3% |
+| h-index | 14 |
+| Citations | 631 |
+| Publications | 44 |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   46 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Ecosystem service interactions and their driving factors based on a geospatially explainable framework: A case study in the Yangtze River Basin, China** (2026)
    0 citations

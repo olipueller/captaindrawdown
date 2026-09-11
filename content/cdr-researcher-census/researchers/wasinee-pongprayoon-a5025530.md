@@ -1,7 +1,7 @@
 ---
 title: "Wasinee Pongprayoon"
-description: "Wasinee Pongprayoon is a Mid-career DAC researcher at Burapha University in TH. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.690802
+description: "Wasinee Pongprayoon is a Mid-career DAC researcher at Burapha University in TH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.645477
 url: "/cdr-researcher-census/researchers/wasinee-pongprayoon-a5025530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 337 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 8 |
+| Citations | 344 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Comprehensive Review of Approaches in Carbon Capture, and Utilization to Reduce Greenhouse Gases** (2024)
-   6 citations · DAC
+   8 citations · DAC
 
 2. **Effect of silica fertilizer on accumulation of phytolith in rice plant and soil** (2025)
    1 citations · Soil Carbon

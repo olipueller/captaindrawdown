@@ -1,7 +1,7 @@
 ---
 title: "Enze Kang"
-description: "Enze Kang is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.315379
+description: "Enze Kang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.260639
 url: "/cdr-researcher-census/researchers/enze-kang-a5103208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/enze-kang-a5103208/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Botanical Garden"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-4680-6325",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Enze Kang**  
-Beijing Botanical Garden · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 930 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
+| Citations | 976 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
-   55 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   43 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 3. **Alpine wetland degradation reduces carbon sequestration in the Zoige Plateau, China** (2022)
    32 citations · Soil Carbon

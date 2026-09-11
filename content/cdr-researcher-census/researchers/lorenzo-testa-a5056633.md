@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Testa"
-description: "Lorenzo Testa is a Mid-career General CDR researcher at Polytechnic University of Turin in IT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.297949
+description: "Lorenzo Testa is a Mid-career General CDR researcher at Politecnico di Torino in IT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.233643
 url: "/cdr-researcher-census/researchers/lorenzo-testa-a5056633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lorenzo-testa-a5056633/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Polytechnic University of Turin"
+    "name": "Politecnico di Torino"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7267-8812",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lorenzo Testa**  
-Polytechnic University of Turin · 🇮🇹 IT
+Politecnico di Torino · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 122 |
+| Citations | 130 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

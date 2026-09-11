@@ -1,7 +1,7 @@
 ---
 title: "Ayesha Imtiyaz Cheema"
 description: "Ayesha Imtiyaz Cheema is an Early-career Biochar researcher at Tongji University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.169608
+date: 2026-09-11T02:38:30.134828
 url: "/cdr-researcher-census/researchers/ayesha-imtiyaz-cheema-a5103048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 149 |
+| Citations | 152 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |

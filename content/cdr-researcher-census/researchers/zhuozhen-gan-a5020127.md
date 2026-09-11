@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
-description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480465
+description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.410874
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,42 +42,42 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 544 |
-| Publications | 12 |
-| CDR Focus | 33.3% |
+| h-index | 8 |
+| Citations | 591 |
+| Publications | 14 |
+| CDR Focus | 28.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   438 citations
+   455 citations
 
 2. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   45 citations
+   48 citations
 
 3. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   26 citations
+   29 citations
 
 4. **A direct air capture rotary adsorber for CO2 enrichment in greenhouses** (2024)
    20 citations
 
 5. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
-   15 citations
+   16 citations
 
 6. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
-   9 citations · DAC
+   11 citations · DAC
 
 7. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
-   9 citations
+   10 citations
 
 8. **Multi-dimensional process optimization of temperature-vacuum swing adsorption for CO2 capture from humid air** (2025)
-   8 citations
+   9 citations
 
-9. **Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures** (2026)
+9. **A Mechanistic Framework for CO2 Adsorption over PEI-Functionalized LDO Adsorbents under Coupled Humidity and Temperature Conditions** (2026)
    0 citations · DAC
 
-10. **Generic modeling framework for direct air capture by temperature swing adsorption** (2026)
+10. **Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures** (2026)
    0 citations · DAC
 
 ## External Profiles

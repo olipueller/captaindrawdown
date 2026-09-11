@@ -1,7 +1,7 @@
 ---
 title: "Man Zhou"
 description: "Man Zhou is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.894795
+date: 2026-09-11T02:38:29.821016
 url: "/cdr-researcher-census/researchers/man-zhou-a5035692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 228 |
+| Citations | 249 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

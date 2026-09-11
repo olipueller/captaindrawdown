@@ -1,7 +1,7 @@
 ---
 title: "M. Rangel-Marrón"
 description: "M. Rangel-Marrón is a Senior Soil Carbon researcher at University of Alicante in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.401765
+date: 2026-09-11T02:38:30.352933
 url: "/cdr-researcher-census/researchers/m-rangel-marron-a5086835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 104 |
+| Citations | 108 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

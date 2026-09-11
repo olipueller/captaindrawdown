@@ -1,7 +1,7 @@
 ---
 title: "Yang Guo"
 description: "Yang Guo is a Senior Biochar researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.266238
+date: 2026-09-11T02:38:30.223452
 url: "/cdr-researcher-census/researchers/yang-guo-a5101278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 128 |
+| Citations | 132 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated biochar from Co-hydrothermal carbonization of municipal sludge and enteromorpha for high-efficiency Pb(II) removal: Activation optimization and adsorption mechanism** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

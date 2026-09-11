@@ -1,7 +1,7 @@
 ---
 title: "Jingbo Sun"
 description: "Jingbo Sun is a Senior Soil Carbon researcher at Lee Kong Chian School of Medicine, Nanyang Technological University in SG. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.361099
+date: 2026-09-11T02:38:29.315725
 url: "/cdr-researcher-census/researchers/jingbo-sun-a5102928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 784 |
+| Citations | 792 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Lowering soil greenhouse gas emissions without sacrificing yields by increasing crop rotation diversity in the North China Plain** (2021)
-   52 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "M. Manca Zeichen"
 description: "M. Manca Zeichen is a Senior Ocean CDR researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.167854
+date: 2026-09-11T02:38:30.145916
 url: "/cdr-researcher-census/researchers/m-manca-zeichen-a5080028/"
 layout: "researcher"
 hiddenInHomeList: true

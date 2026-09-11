@@ -1,7 +1,7 @@
 ---
 title: "Samantha Mosier"
 description: "Samantha Mosier is a Mid-career BECCS researcher at Great Lakes Bioenergy Research Center in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.556225
+date: 2026-09-11T02:38:29.486390
 url: "/cdr-researcher-census/researchers/samantha-mosier-a5062248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 449 |
+| Citations | 483 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

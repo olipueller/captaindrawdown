@@ -1,7 +1,7 @@
 ---
 title: "Julia Miloczki"
 description: "Julia Miloczki is a Mid-career Soil Carbon researcher at Climate Analytics in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.824398
+date: 2026-09-11T02:38:29.768765
 url: "/cdr-researcher-census/researchers/julia-miloczki-a5036868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 260 |
+| Citations | 274 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration in Croplands: A Synthesis** (2021)
-   184 citations · General CDR
+   187 citations · General CDR
 
 ## External Profiles
 

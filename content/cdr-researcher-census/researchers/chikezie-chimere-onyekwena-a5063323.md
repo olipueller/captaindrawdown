@@ -1,7 +1,7 @@
 ---
 title: "Chikezie Chimere Onyekwena"
-description: "Chikezie Chimere Onyekwena is a Mid-career Ocean CDR researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.676966
+description: "Chikezie Chimere Onyekwena is a Mid-career Ocean CDR researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.607416
 url: "/cdr-researcher-census/researchers/chikezie-chimere-onyekwena-a5063323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 346 |
+| h-index | 12 |
+| Citations | 372 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 2. **Impacts of biochar and slag on carbon sequestration potential and sustainability assessment of MgO-stabilized marine soils: insights from MIP analysis** (2024)
    5 citations · Biochar

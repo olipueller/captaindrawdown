@@ -1,7 +1,7 @@
 ---
 title: "Vijay Kumar Saini"
-description: "Vijay Kumar Saini is a Senior Enhanced Weathering researcher at All India Institute of Medical Sciences Jodhpur in IN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.313511
+description: "Vijay Kumar Saini is a Senior Enhanced Weathering researcher at All India Institute of Medical Sciences Jodhpur in IN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.265870
 url: "/cdr-researcher-census/researchers/vijay-kumar-saini-a5077183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 119 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 124 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

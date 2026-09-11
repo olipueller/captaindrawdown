@@ -1,7 +1,7 @@
 ---
 title: "Qirui Zhu"
-description: "Qirui Zhu is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.819056
+description: "Qirui Zhu is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.749832
 url: "/cdr-researcher-census/researchers/qirui-zhu-a5084587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Qirui Zhu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qirui-zhu-a5084587/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Hunan Agricultural University"
-  },
   "sameAs": "https://openalex.org/A5084587300"
 }
 </script>
 
 ## Profile
 
-**Qirui Zhu**  
-Hunan Agricultural University · 🇨🇳 CN
+**Qirui Zhu**
 
 **Career Stage:** Mid-career
 
@@ -40,15 +35,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 263 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 283 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   76 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 ## External Profiles
 

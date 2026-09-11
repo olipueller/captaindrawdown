@@ -1,7 +1,7 @@
 ---
 title: "Syed Faheem Anjum Gillani"
-description: "Syed Faheem Anjum Gillani is a Mid-career Biochar researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075769
+description: "Syed Faheem Anjum Gillani is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.021906
 url: "/cdr-researcher-census/researchers/syed-faheem-anjum-gillani-a5043360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Syed Faheem Anjum Gillani",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/syed-faheem-anjum-gillani-a5043360/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Gansu Agricultural University"
+  },
   "sameAs": "https://openalex.org/A5043360314"
 }
 </script>
 
 ## Profile
 
-**Syed Faheem Anjum Gillani**
+**Syed Faheem Anjum Gillani**  
+Gansu Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -34,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 174 |
+| h-index | 10 |
+| Citations | 183 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

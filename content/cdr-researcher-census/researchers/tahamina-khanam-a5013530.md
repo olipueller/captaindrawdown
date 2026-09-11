@@ -1,7 +1,7 @@
 ---
 title: "Tahamina Khanam"
 description: "Tahamina Khanam is a Mid-career Soil Carbon researcher at University of Eastern Finland in FI. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.047805
+date: 2026-09-11T02:38:29.997821
 url: "/cdr-researcher-census/researchers/tahamina-khanam-a5013530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 183 |
+| Citations | 191 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Navigating climate threats in forestry across five European regions: Stakeholder's adaptive management and policy strategies to resilience** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongbo He"
-description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 157 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089822
+description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 158 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.039979
 url: "/cdr-researcher-census/researchers/hongbo-he-a5109304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 44 |
-| Citations | 5,969 |
-| Publications | 157 |
-| CDR Focus | 9.6% |
+| h-index | 45 |
+| Citations | 6,169 |
+| Publications | 158 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   418 citations · Soil Carbon
+   427 citations · Soil Carbon
 
 2. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   217 citations
+   222 citations
 
 3. **Fungi determine increased soil organic carbon more than bacteria through their necromass inputs in conservation tillage croplands** (2022)
    163 citations · Soil Carbon
 
 4. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 6. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 7. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 9. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   7 citations
+   8 citations
 
 10. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
    6 citations · Soil Carbon

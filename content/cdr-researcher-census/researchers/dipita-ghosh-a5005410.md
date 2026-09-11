@@ -1,7 +1,7 @@
 ---
 title: "Dipita Ghosh"
 description: "Dipita Ghosh is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562164
+date: 2026-09-11T02:38:29.504211
 url: "/cdr-researcher-census/researchers/dipita-ghosh-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 444 |
+| Citations | 464 |
 | Publications | 32 |
 | CDR Focus | 18.8% |
 | Trajectory | Stable |
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Eco-Restoration of Coal Mine Spoil: Biochar Application and Carbon Sequestration for Achieving UN Sustainable Development Goals 13 and 15** (2021)
-   25 citations · Biochar
+   26 citations · Biochar
 
-2. **Invasive weed‐based biochar facilitated the restoration of coal mine degraded land by modulating the enzyme activity and carbon sequestration** (2022)
+2. **Role of biochar made from low‐value woody forest residues in ecological sustainability and carbon neutrality** (2024)
    22 citations · Biochar
 
-3. **Role of biochar made from low‐value woody forest residues in ecological sustainability and carbon neutrality** (2024)
-   19 citations · Biochar
+3. **Invasive weed‐based biochar facilitated the restoration of coal mine degraded land by modulating the enzyme activity and carbon sequestration** (2022)
+   22 citations · Biochar
 
 4. **Comparative assessment of biochar reactor technologies for biomass conversion: Design, performance, and application suitability** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 5. **Biochar as climate-smart strategy to address climate change mitigation and adoption in 21st century** (2024)
    2 citations · Biochar
 
 6. **Plant–soil–biochar interactions as a restoration tool** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

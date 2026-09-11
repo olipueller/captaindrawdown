@@ -1,7 +1,7 @@
 ---
 title: "Xianliang Wu"
-description: "Xianliang Wu is a Mid-career Biochar researcher at Guizhou Academy of Sciences in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.313541
+description: "Xianliang Wu is a Mid-career Biochar researcher at Guizhou Institute of Biology in CN. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.256720
 url: "/cdr-researcher-census/researchers/xianliang-wu-a5016398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xianliang-wu-a5016398/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guizhou Academy of Sciences"
+    "name": "Guizhou Institute of Biology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1506-0431",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xianliang Wu**  
-Guizhou Academy of Sciences · 🇨🇳 CN
+Guizhou Institute of Biology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 939 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| h-index | 18 |
+| Citations | 986 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Control of soil organic carbon under karst landforms: A case study of Guizhou Province, in southwest China** (2022)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
    12 citations · Biochar

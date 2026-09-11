@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
-description: "Stavros Michailos is a Senior General CDR researcher at University of Hull in GB. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.166067
+description: "Stavros Michailos is a Senior General CDR researcher at University of Hull in GB. With 61 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.113099
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 2,127 |
+| h-index | 24 |
+| Citations | 2,232 |
 | Publications | 61 |
 | CDR Focus | 16.4% |
 | Trajectory | Declining |
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sorption direct air capture with CO2 utilization** (2023)
-   308 citations · DAC
+   317 citations · DAC
 
 2. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   163 citations · DAC
+   170 citations · DAC
 
 3. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   101 citations · BECCS
+   102 citations · BECCS
 
 4. **A Modelling Study of Post-Combustion Capture Plant Process Conditions to Facilitate 95–99% CO2 Capture Levels From Gas Turbine Flue Gases** (2022)
    39 citations
 
 5. **Comprehensive process simulation of a biomass-based hydrogen production system through gasification within the BECCS concept in a commercial two-stage fixed bed gasifier** (2023)
-   34 citations · BECCS
+   38 citations · BECCS
 
 6. **A new hydrogen production route through biomass gasification in a two-stage fixed bed reactor within the BECCS concept: A techno-economic and life cycle assessment study** (2025)
-   28 citations · BECCS
+   30 citations · BECCS
 
 7. **Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept** (2024)
    24 citations · DAC
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    22 citations · BECCS
 
 9. **A techno-economic and life cycle assessment of a new power and biomass to liquids (PBtL) configuration with negative emissions for producing sustainable aviation fuel (SAF)** (2024)
-   7 citations · BECCS
+   8 citations · BECCS
 
 10. **Techno-economic and life cycle assessment of power-to-formic acid production using direct air capture and green hydrogen** (2025)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

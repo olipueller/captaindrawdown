@@ -1,7 +1,7 @@
 ---
 title: "Clement N. Uguna"
-description: "Clement N. Uguna is a Senior Biochar researcher at University of Nottingham in GB. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306708
+description: "Clement N. Uguna is a Senior Biochar researcher at University of Nottingham in GB. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.255320
 url: "/cdr-researcher-census/researchers/clement-n-uguna-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 965 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| Citations | 990 |
+| Publications | 50 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 3. **Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment** (2025)
    1 citations · Biochar

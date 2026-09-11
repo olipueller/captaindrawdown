@@ -1,7 +1,7 @@
 ---
 title: "Yao Liang"
-description: "Yao Liang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348806
+description: "Yao Liang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.297207
 url: "/cdr-researcher-census/researchers/yao-liang-a5100750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 819 |
-| Publications | 41 |
-| CDR Focus | 17.1% |
+| Citations | 845 |
+| Publications | 40 |
+| CDR Focus | 17.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effect of chemical fertilizer and straw-derived organic amendments on continuous maize yield, soil carbon sequestration and soil quality in a Chinese Mollisol** (2021)
-   152 citations · Biochar
+   154 citations · Biochar
 
 2. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   39 citations · Biochar
+   43 citations · Biochar
 
 3. **Soil microbial community and physicochemical properties together drive soil organic carbon in <i>Cunninghamia lanceolata</i> plantations of different stand ages** (2022)
    22 citations · Soil Carbon
 
-4. **The Relationship of Soil Organic Carbon and Nutrient Contents to Maize Yield as Affected by Maize Straw Return Modes** (2023)
+4. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
+   11 citations · Soil Carbon
+
+5. **The Relationship of Soil Organic Carbon and Nutrient Contents to Maize Yield as Affected by Maize Straw Return Modes** (2023)
    10 citations · Soil Carbon
 
-5. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
-   8 citations · Soil Carbon
-
 6. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 7. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
    2 citations · Soil Carbon

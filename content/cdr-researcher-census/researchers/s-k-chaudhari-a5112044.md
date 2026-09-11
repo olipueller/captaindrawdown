@@ -1,7 +1,7 @@
 ---
 title: "S. K. Chaudhari"
-description: "S. K. Chaudhari is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.156297
+description: "S. K. Chaudhari is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 107 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.105950
 url: "/cdr-researcher-census/researchers/s-k-chaudhari-a5112044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,331 |
-| Publications | 108 |
+| Citations | 2,373 |
+| Publications | 107 |
 | CDR Focus | 9.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential, challenges, and strategies towards climate action in smallholder agricultural systems of South Asia** (2022)
-   104 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 2. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
    57 citations · Soil Carbon
 
 3. **Organic farming: A prospect for food, environment and livelihood security in Indian agriculture** (2021)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 4. **Land and water conservation technologies for building carbon positive villages in India** (2021)
    12 citations · General CDR

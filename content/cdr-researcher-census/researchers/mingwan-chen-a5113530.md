@@ -1,7 +1,7 @@
 ---
 title: "Mingwan Chen"
-description: "Mingwan Chen is a Senior Biochar researcher at Hainan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.877269
+description: "Mingwan Chen is a Senior Biochar researcher at Hainan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.840068
 url: "/cdr-researcher-census/researchers/mingwan-chen-a5113530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 235 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
-| Trajectory | Exiting |
+| Citations | 240 |
+| Publications | 12 |
+| CDR Focus | 16.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of Biochar Types and Rates on SOC and Its Active Fractions in Tropical Farmlands of China** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
-2. **Tropical forest conversion reduces soil aggregate stability and microbial-derived stable carbon accumulation across aggregate fractions** (2026)
+2. **Biochar‐Induced Shifts in Resource Stoichiometry Shape Potential Nitrogen Limitation and Estimated Microbial Carbon Use Efficiency in Tropical Soils** (2026)
+   0 citations · Biochar
+
+3. **Tropical forest conversion reduces soil aggregate stability and microbial-derived stable carbon accumulation across aggregate fractions** (2026)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Luis Carrillo"
-description: "Luis Carrillo is a Mid-career General CDR researcher at Colorado School of Mines in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.159767
+description: "Luis Carrillo is a Mid-career General CDR researcher at Colorado School of Mines in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.108118
 url: "/cdr-researcher-census/researchers/luis-carrillo-a5102828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 151 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 158 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

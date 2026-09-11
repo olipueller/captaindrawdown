@@ -1,7 +1,7 @@
 ---
 title: "Do-Gyun Park"
-description: "Do-Gyun Park is a Mid-career Biochar researcher at Chungnam National University in KR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.015264
+description: "Do-Gyun Park is a Mid-career Biochar researcher at Rural Development Administration in KR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.896803
 url: "/cdr-researcher-census/researchers/do-gyun-park-a5024433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/do-gyun-park-a5024433/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chungnam National University"
+    "name": "Rural Development Administration"
   },
   "sameAs": "https://openalex.org/A5024433701"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Do-Gyun Park**  
-Chungnam National University · 🇰🇷 KR
+Rural Development Administration · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 192 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 218 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influence of activated biochar pellet fertilizer application on greenhouse gas emissions and carbon sequestration in rice (Oryza sativa L.) production** (2021)
-   48 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

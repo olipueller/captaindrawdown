@@ -1,7 +1,7 @@
 ---
 title: "Hanfeng Jiang"
-description: "Hanfeng Jiang is a Mid-career Biochar researcher at Nanjing University of Science and Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.822032
+description: "Hanfeng Jiang is a Mid-career Biochar researcher at Nanjing University of Science and Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.747066
 url: "/cdr-researcher-census/researchers/hanfeng-jiang-a5030464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 261 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 8 |
+| Citations | 284 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar is an innovative strategy for reconstructing microbial communities and enhancing nutrient utilization efficiency in acidic red soils** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

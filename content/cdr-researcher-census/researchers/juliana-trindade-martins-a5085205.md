@@ -1,7 +1,7 @@
 ---
 title: "Juliana Trindade Martins"
-description: "Juliana Trindade Martins is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.790456
+description: "Juliana Trindade Martins is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.719025
 url: "/cdr-researcher-census/researchers/juliana-trindade-martins-a5085205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 278 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 299 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Fresh grain legume systems with catch crops: promising soil C inputs and enhanced N fertility** (2025)
    0 citations · Soil Carbon

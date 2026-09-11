@@ -1,7 +1,7 @@
 ---
 title: "Susan Quick"
-description: "Susan Quick is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916296
+description: "Susan Quick is a Mid-career Soil Carbon researcher at Forest Research in GB. With 22 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.821465
 url: "/cdr-researcher-census/researchers/susan-quick-a5064910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/susan-quick-a5064910/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Birmingham"
+    "name": "Forest Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4239-5285",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Susan Quick**  
-University of Birmingham · 🇬🇧 GB
+Forest Research · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 220 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 249 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil moisture and temperature dynamics in juvenile and mature forest as a result of tree growth, hydrometeorological forcings, and drought** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Vasundra Nagendran"
 description: "Vasundra Nagendran is a Mid-career Biochar researcher at Nitte University in IN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.685659
+date: 2026-09-11T02:38:29.621902
 url: "/cdr-researcher-census/researchers/vasundra-nagendran-a5093440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 340 |
+| Citations | 360 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ one-pot synthesis, characterization of magnetic hydrochar and its application as Fenton-like catalyst for the degradation of methylene blue dye** (2024)
-   31 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

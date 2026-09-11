@@ -1,7 +1,7 @@
 ---
 title: "Christopher Van Arsdale"
-description: "Christopher Van Arsdale is a Mid-career General CDR researcher at Google (United States) in US. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.144545
+description: "Christopher Van Arsdale is a Mid-career General CDR researcher at Google (United States) in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.074534
 url: "/cdr-researcher-census/researchers/christopher-van-arsdale-a5003515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 155 |
-| Publications | 24 |
-| CDR Focus | 16.7% |
+| Citations | 168 |
+| Publications | 25 |
+| CDR Focus | 16.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Sustained Neutralization of the Warming Response to Emissions through a Portfolio of GHG Mitigation Strategies** (2026)
    0 citations · General CDR

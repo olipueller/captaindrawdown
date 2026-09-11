@@ -1,7 +1,7 @@
 ---
 title: "Ruixing Hou"
-description: "Ruixing Hou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.190529
+description: "Ruixing Hou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.136898
 url: "/cdr-researcher-census/researchers/ruixing-hou-a5065644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,785 |
-| Publications | 51 |
-| CDR Focus | 5.9% |
+| h-index | 21 |
+| Citations | 1,860 |
+| Publications | 50 |
+| CDR Focus | 6.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Malika M. Mezeli"
 description: "Malika M. Mezeli is a Mid-career Soil Carbon researcher at Lancaster University in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404589
+date: 2026-09-11T02:38:29.359229
 url: "/cdr-researcher-census/researchers/malika-m-mezeli-a5028753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 679 |
+| Citations | 689 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

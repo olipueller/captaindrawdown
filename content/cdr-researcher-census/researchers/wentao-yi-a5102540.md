@@ -1,7 +1,7 @@
 ---
 title: "Wentao Yi"
-description: "Wentao Yi is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.317312
+description: "Wentao Yi is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.258342
 url: "/cdr-researcher-census/researchers/wentao-yi-a5102540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 119 |
+| h-index | 7 |
+| Citations | 126 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Modulation of greenhouse gas emissions and soil organic carbon in rice paddies through various crop rotation systems combined with water-saving irrigation: Insights into soil bacterial composition and functional alterations** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

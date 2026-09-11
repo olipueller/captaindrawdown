@@ -1,7 +1,7 @@
 ---
 title: "Dongliang Han"
-description: "Dongliang Han is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.460177
+description: "Dongliang Han is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.397427
 url: "/cdr-researcher-census/researchers/dongliang-han-a5100617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 576 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 613 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Desert Abiotic Carbon Sequestration Weakening by Precipitation** (2023)
-   23 citations
+   27 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
    23 citations · Soil Carbon

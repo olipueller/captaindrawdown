@@ -1,7 +1,7 @@
 ---
 title: "Xingchang Wang"
-description: "Xingchang Wang is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.307170
+description: "Xingchang Wang is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.256604
 url: "/cdr-researcher-census/researchers/xingchang-wang-a5057303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,11 +42,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 965 |
-| Publications | 64 |
-| CDR Focus | 7.8% |
-| Trajectory | Declining |
+| h-index | 18 |
+| Citations | 987 |
+| Publications | 67 |
+| CDR Focus | 9.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Rising carbon uptake and sequestration but declining carbon allocation to biomass production and grain yield in a high-yield agroecosystem** (2023)
    1 citations · Soil Carbon
 
-4. **Similar Carbon Accumulation Rate But with Different Drivers between Two Restoration Approaches in a Temperate Forest** (2024)
+4. **Species compositions determine the ecosystem services of alternative forest transitions in the boreal‐temperate ecotone** (2026)
    0 citations · Soil Carbon
 
-5. **Different contributions of plant traits and soil properties to the efficiency of carbon sequestration between two restoration approaches in a boreal forest** (2024)
+5. **Similar Carbon Accumulation Rate But with Different Drivers between Two Restoration Approaches in a Temperate Forest** (2024)
+   0 citations · Soil Carbon
+
+6. **Different contributions of plant traits and soil properties to the efficiency of carbon sequestration between two restoration approaches in a boreal forest** (2024)
    0 citations · General CDR
 
 ## External Profiles

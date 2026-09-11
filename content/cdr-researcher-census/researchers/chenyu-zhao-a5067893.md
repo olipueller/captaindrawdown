@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zhao"
-description: "Chenyu Zhao is a Mid-career Soil Carbon researcher at Jilin Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.411327
+description: "Chenyu Zhao is a Mid-career Soil Carbon researcher at Singapore University of Technology and Design in SG. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.350949
 url: "/cdr-researcher-census/researchers/chenyu-zhao-a5067893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chenyu-zhao-a5067893/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jilin Agricultural University"
+    "name": "Singapore University of Technology and Design"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3656-7247",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chenyu Zhao**  
-Jilin Agricultural University · 🇨🇳 CN
+Singapore University of Technology and Design · 🇸🇬 SG
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 108 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

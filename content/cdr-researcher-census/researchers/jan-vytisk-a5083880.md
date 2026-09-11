@@ -1,7 +1,7 @@
 ---
 title: "Jan Výtisk"
-description: "Jan Výtisk is a Mid-career Biochar researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.234368
+description: "Jan Výtisk is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.197908
 url: "/cdr-researcher-census/researchers/jan-vytisk-a5083880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jan V\u00fdtisk",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jan-vytisk-a5083880/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "VSB - Technical University of Ostrava"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-7978-1812",
     "https://openalex.org/A5083880983"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jan Výtisk**
+**Jan Výtisk**  
+VSB - Technical University of Ostrava ·  CZ
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 134 |
+| Citations | 137 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

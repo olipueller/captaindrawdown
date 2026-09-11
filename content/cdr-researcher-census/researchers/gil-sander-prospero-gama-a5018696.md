@@ -1,7 +1,7 @@
 ---
 title: "Gil Sander Próspero Gama"
-description: "Gil Sander Próspero Gama is a Mid-career Biochar researcher at Universidade Federal do Rio Grande do Norte in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.242417
+description: "Gil Sander Próspero Gama is a Mid-career Biochar researcher at Universidade Federal do Rio Grande do Norte in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.136730
 url: "/cdr-researcher-census/researchers/gil-sander-prospero-gama-a5018696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 133 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 152 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

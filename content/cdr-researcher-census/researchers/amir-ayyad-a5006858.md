@@ -1,7 +1,7 @@
 ---
 title: "Amir Ayyad"
 description: "Amir Ayyad is an Early-career Biochar researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.991179
+date: 2026-09-11T02:38:29.889972
 url: "/cdr-researcher-census/researchers/amir-ayyad-a5006858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 199 |
+| Citations | 221 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Unknown |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
-   197 citations · Biochar
+   206 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dening Kong"
 description: "Dening Kong is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.933591
+date: 2026-09-11T02:38:29.888377
 url: "/cdr-researcher-census/researchers/dening-kong-a5002186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 213 |
+| Citations | 222 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |

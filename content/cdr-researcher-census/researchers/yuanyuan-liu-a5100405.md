@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Liu"
 description: "Yuanyuan Liu is a Mid-career Soil Carbon researcher at Southeast University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.925185
+date: 2026-09-11T02:38:29.886103
 url: "/cdr-researcher-census/researchers/yuanyuan-liu-a5100405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 217 |
+| Citations | 223 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spring rest-grazing time affected soil organic carbon stability and storage in subalpine meadows of Carex** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

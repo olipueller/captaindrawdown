@@ -1,7 +1,7 @@
 ---
 title: "Ajay Singh"
-description: "Ajay Singh is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.481444
+description: "Ajay Singh is a Mid-career Soil Carbon researcher at Texas A&M University System in US. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.429500
 url: "/cdr-researcher-census/researchers/ajay-singh-a5077570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ajay-singh-a5077570/",
   "affiliation": {
     "@type": "Organization",
-    "name": "International Crops Research Institute for the Semi-Arid Tropics"
+    "name": "Texas A&M University System"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9091-6949",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ajay Singh**  
-International Crops Research Institute for the Semi-Arid Tropics · 🇮🇳 IN
+Texas A&M University System · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 543 |
+| Citations | 565 |
 | Publications | 26 |
 | CDR Focus | 19.2% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   32 citations
+   34 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar
 
 3. **Assessing residue and tillage management options for carbon sequestration in future climate change scenarios** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Biochar‐based nutrient management as a futuristic scalable strategy for C‐sequestration in semiarid tropics** (2023)
    8 citations · Biochar

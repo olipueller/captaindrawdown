@@ -1,7 +1,7 @@
 ---
 title: "Andre Hendricks"
 description: "Andre Hendricks is a Mid-career Ocean CDR researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.225226
+date: 2026-09-11T02:38:30.184509
 url: "/cdr-researcher-census/researchers/andre-hendricks-a5078153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 136 |
+| Citations | 140 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An Automated Microfluidic Analyzer for <i>In Situ</i> Monitoring of Total Alkalinity** (2023)
-   52 citations · General CDR
+   53 citations · General CDR
 
 ## External Profiles
 

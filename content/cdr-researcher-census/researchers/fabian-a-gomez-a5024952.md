@@ -1,7 +1,7 @@
 ---
 title: "Fabian A. Gomez"
-description: "Fabian A. Gomez is a Senior Ocean CDR researcher at Mississippi State University  in US. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.329605
+description: "Fabian A. Gomez is a Senior Ocean CDR researcher at Mississippi State University  in US. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.283175
 url: "/cdr-researcher-census/researchers/fabian-a-gomez-a5024952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 875 |
-| Publications | 52 |
-| CDR Focus | 9.6% |
+| Citations | 889 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

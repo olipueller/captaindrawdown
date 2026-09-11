@@ -1,7 +1,7 @@
 ---
 title: "Aniqa Ashraf"
-description: "Aniqa Ashraf is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268873
+description: "Aniqa Ashraf is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.209331
 url: "/cdr-researcher-census/researchers/aniqa-ashraf-a5109683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,27 +40,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,153 |
-| Publications | 27 |
-| CDR Focus | 18.5% |
+| Citations | 1,225 |
+| Publications | 29 |
+| CDR Focus | 17.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis, characteristics and mechanistic insight into the clays and clay minerals-biochar surface interactions for contaminants removal-A review** (2021)
-   147 citations · Biochar
+   148 citations · Biochar
 
 2. **Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 3. **Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater** (2024)
-   64 citations · Biochar
+   66 citations · Biochar
 
 4. **The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin** (2024)
    33 citations · Biochar
 
 5. **Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

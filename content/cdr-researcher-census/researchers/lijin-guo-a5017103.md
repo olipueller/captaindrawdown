@@ -1,7 +1,7 @@
 ---
 title: "Lijin Guo"
 description: "Lijin Guo is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 48 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.205561
+date: 2026-09-11T02:38:29.151069
 url: "/cdr-researcher-census/researchers/lijin-guo-a5017103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,611 |
+| Citations | 1,696 |
 | Publications | 48 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term no tillage and straw return on greenhouse gas emissions and crop yields from a rice-wheat system in central China** (2021)
-   124 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Application rates of nitrogen fertilizers change the pattern of soil organic carbon fractions in a rice-wheat rotation system in China** (2022)
    37 citations · Soil Carbon
 
 3. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Soil Bacteria Mediate Soil Organic Carbon Sequestration under Different Tillage and Straw Management in Rice-Wheat Cropping Systems** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 5. **Magnesium enhances soil carbon sequestration by modulating carbon-cycling microorganisms under reduced fertilisation conditions** (2025)
-   5 citations
+   7 citations
 
 6. **Long-term conservation tillage enhances soil organic carbon accumulation in rice-wheat rotation systems by improving aggregate stability and reducing carbon flow from macroaggregates to microaggregates** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 7. **Magnesium Enhances Soil Carbon Sequestration by Modulating Carbon-Cycling Microorganisms Under Reduced Fertilisation Conditions** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Katrin Kuka"
-description: "Katrin Kuka is a Senior Soil Carbon researcher at Julius Kühn-Institut in DE. With 69 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.318156
+description: "Katrin Kuka is a Senior Soil Carbon researcher at Julius Kühn-Institut in DE. With 72 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.268466
 url: "/cdr-researcher-census/researchers/katrin-kuka-a5038033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 920 |
-| Publications | 69 |
-| CDR Focus | 5.8% |
+| Citations | 942 |
+| Publications | 72 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Effects of Manure Application and Herbivore Excreta on Plant and Soil Properties of Temperate Grasslands—A Review** (2023)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Simulation-based assessment of the soil organic carbon sequestration in grasslands in relation to management and climate change scenarios** (2023)
    9 citations · General CDR

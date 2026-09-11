@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Shindel"
 description: "Benjamin Shindel is a Mid-career General CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.893706
+date: 2026-09-11T02:38:29.842223
 url: "/cdr-researcher-census/researchers/benjamin-shindel-a5047719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 228 |
+| Citations | 239 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -46,10 +46,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Expanding the Library of Ions for Moisture-Swing Carbon Capture** (2023)
-   29 citations
+   30 citations
 
 2. **Platform Materials for Moisture-Swing Carbon Capture** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

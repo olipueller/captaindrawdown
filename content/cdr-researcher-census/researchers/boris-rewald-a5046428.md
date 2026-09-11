@@ -1,7 +1,7 @@
 ---
 title: "Boris Rewald"
-description: "Boris Rewald is a Senior Soil Carbon researcher at Vienna Scientific Instruments GmbH in AT. With 134 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.084181
+description: "Boris Rewald is a Senior Soil Carbon researcher at Vienna Scientific Instruments GmbH in AT. With 139 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.035830
 url: "/cdr-researcher-census/researchers/boris-rewald-a5046428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 6,811 |
-| Publications | 134 |
-| CDR Focus | 6.0% |
+| h-index | 36 |
+| Citations | 7,039 |
+| Publications | 139 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

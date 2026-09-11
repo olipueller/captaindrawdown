@@ -1,7 +1,7 @@
 ---
 title: "Naveen Chand"
-description: "Naveen Chand is a Mid-career Biochar researcher at All India Institute of Medical Sciences Raipur in IN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.522710
+description: "Naveen Chand is a Mid-career Biochar researcher at All India Institute of Medical Sciences Raipur in IN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.465154
 url: "/cdr-researcher-census/researchers/naveen-chand-a5044733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 484 |
+| h-index | 11 |
+| Citations | 507 |
 | Publications | 36 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    66 citations · Biochar
 
 2. **Wastewater nutrients and coliforms removals in tidal flow constructed wetland: Effect of the plant (Typha) stand and biochar addition** (2021)
-   36 citations · Biochar
+   37 citations · Biochar
 
 3. **Treatment of High Nutrient-Loaded Wastewater in a Constructed Floating Wetland with Different Configurations: Role of Lantana Biochar Addition** (2022)
    6 citations · Biochar

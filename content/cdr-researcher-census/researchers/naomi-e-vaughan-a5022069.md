@@ -1,7 +1,7 @@
 ---
 title: "Naomi E. Vaughan"
-description: "Naomi E. Vaughan is a Senior General CDR researcher at University of East Anglia in GB. With 77 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.111523
+description: "Naomi E. Vaughan is a Senior General CDR researcher at University of East Anglia in GB. With 77 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.062236
 url: "/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 4,019 |
+| h-index | 29 |
+| Citations | 4,042 |
 | Publications | 77 |
-| CDR Focus | 18.2% |
-| Trajectory | Declining |
+| CDR Focus | 19.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 2. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
    75 citations · General CDR
@@ -71,13 +71,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    7 citations · General CDR
 
-8. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
+8. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
+   6 citations · BECCS
+
+9. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
    5 citations · General CDR
 
-9. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   4 citations · BECCS
-
-10. **Betting on Forests and Soils to Reach Net Zero** (2022)
+10. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
    2 citations · General CDR
 
 ## External Profiles

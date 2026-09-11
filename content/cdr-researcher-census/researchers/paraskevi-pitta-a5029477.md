@@ -1,7 +1,7 @@
 ---
 title: "Paraskevi Pitta"
-description: "Paraskevi Pitta is a Senior Ocean CDR researcher at Natural History Museum in GB. With 135 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.098585
+description: "Paraskevi Pitta is a Senior Ocean CDR researcher at Natural History Museum in GB. With 139 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.049387
 url: "/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 37 |
-| Citations | 4,897 |
-| Publications | 135 |
-| CDR Focus | 5.9% |
+| h-index | 38 |
+| Citations | 4,976 |
+| Publications | 139 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR
@@ -65,13 +65,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
-6. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
+6. **Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem** (2026)
    0 citations · Ocean CDR
 
-7. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+7. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
 
-8. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
+8. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+   0 citations · Ocean CDR
+
+9. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

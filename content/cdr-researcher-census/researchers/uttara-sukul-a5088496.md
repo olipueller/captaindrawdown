@@ -1,7 +1,7 @@
 ---
 title: "Uttara Sukul"
 description: "Uttara Sukul is a Mid-career Biochar researcher at National Chung Cheng University in TW. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.996056
+date: 2026-09-11T02:38:29.874196
 url: "/cdr-researcher-census/researchers/uttara-sukul-a5088496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 198 |
+| Citations | 227 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbial induced carbonate precipitation for remediation of heavy metals, ions and radioactive elements: A comprehensive exploration of prospective applications in water and soil treatment** (2024)
-   113 citations
+   116 citations
 
 2. **Comprehensive evaluation of NaOH-modified lotus seed pericarp biochar as a sustainable adsorbent for fluoride removal: Mechanistic and performance study** (2025)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiao Shang"
 description: "Zhenxiao Shang is a Senior Biochar researcher at China University of Petroleum, East China in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.637571
+date: 2026-09-11T02:38:29.567889
 url: "/cdr-researcher-census/researchers/zhenxiao-shang-a5033178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 376 |
+| Citations | 403 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on the Enhanced Remediation of Petroleum-Contaminated Soil by Biochar/g-C3N4 Composites** (2022)
-   21 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

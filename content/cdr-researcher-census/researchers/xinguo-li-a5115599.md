@@ -1,7 +1,7 @@
 ---
 title: "Xinguo Li"
-description: "Xinguo Li is a Senior Soil Carbon researcher at Donghua University in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.333740
+description: "Xinguo Li is a Senior Soil Carbon researcher at Xinjiang Normal University in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.289350
 url: "/cdr-researcher-census/researchers/xinguo-li-a5115599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinguo-li-a5115599/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Donghua University"
+    "name": "Xinjiang Normal University"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-7978-2568",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xinguo Li**  
-Donghua University · 🇨🇳 CN
+Xinjiang Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 116 |
-| Publications | 30 |
-| CDR Focus | 10.0% |
+| Citations | 120 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

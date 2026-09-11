@@ -1,7 +1,7 @@
 ---
 title: "Thi Cuc Phuong Tran"
 description: "Thi Cuc Phuong Tran is a Mid-career Biochar researcher at Hue University in VN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.533429
+date: 2026-09-11T02:38:29.484903
 url: "/cdr-researcher-census/researchers/thi-cuc-phuong-tran-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 473 |
+| Citations | 485 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive removal of phosphate from aqueous solutions using low-cost modified biochar-packed column: Effect of operational parameters and kinetic study** (2022)
-   26 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

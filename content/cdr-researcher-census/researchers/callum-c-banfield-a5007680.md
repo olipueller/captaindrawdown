@@ -1,7 +1,7 @@
 ---
 title: "Callum C. Banfield"
 description: "Callum C. Banfield is a Mid-career Soil Carbon researcher at University of Tübingen in DE. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.226583
+date: 2026-09-11T02:38:29.175229
 url: "/cdr-researcher-census/researchers/callum-c-banfield-a5007680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,420 |
+| Citations | 1,456 |
 | Publications | 32 |
 | CDR Focus | 15.6% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrification-induced acidity controls CO2 emission from soil carbonates** (2024)
-   34 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Vegetation transition from meadow to forest reduces priming effect on SOM decomposition** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Localized fertilizer co-applied with biochar suspension can increase phosphorus uptake by maize while enabling carbon-sequestration benefits** (2026)
    2 citations · Biochar

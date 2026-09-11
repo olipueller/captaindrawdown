@@ -1,7 +1,7 @@
 ---
 title: "Wentian He"
-description: "Wentian He is a Senior Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 56 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.212059
+description: "Wentian He is a Senior Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.154961
 url: "/cdr-researcher-census/researchers/wentian-he-a5042244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 1,561 |
-| Publications | 56 |
-| CDR Focus | 5.4% |
+| h-index | 24 |
+| Citations | 1,651 |
+| Publications | 60 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Measuring and modeling soil carbon sequestration under diverse cropping systems in the semiarid prairies of western Canada** (2021)
-   34 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Integrating straw return and tillage practices to enhance soil organic carbon sequestration in wheat–maize rotation systems in the North China Plain** (2025)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Integrating Straw Return and Tillage Practices to Enhance Soil Organic Carbon Sequestration in Wheat-Maize Rotation Systems in North China** (2024)
    0 citations · Soil Carbon

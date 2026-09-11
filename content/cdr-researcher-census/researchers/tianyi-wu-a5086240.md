@@ -1,7 +1,7 @@
 ---
 title: "Tianyi Wu"
 description: "Tianyi Wu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.022721
+date: 2026-09-11T02:38:29.973704
 url: "/cdr-researcher-census/researchers/tianyi-wu-a5086240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 190 |
+| Citations | 198 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations
 
 2. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **4D Surface Reconstructions to Study Microscale Structures and Functions in Soil Biogeochemistry** (2021)
    19 citations · Soil Carbon

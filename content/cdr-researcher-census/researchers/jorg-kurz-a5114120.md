@@ -1,7 +1,7 @@
 ---
 title: "Jörg Kurz"
-description: "Jörg Kurz is a Senior General CDR researcher at Baxter (Germany) in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.674758
+description: "Jörg Kurz is a Senior General CDR researcher at Baxter (Germany) in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.626862
 url: "/cdr-researcher-census/researchers/jorg-kurz-a5114120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 347 |
+| h-index | 7 |
+| Citations | 357 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A prospective clinical evaluation of new ECCO2R technology in mild to moderate ARDS patients: assessing ultra-lung-protective ventilation with PRISMALUNG+** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Modeling acid‐base balance for in‐series extracorporeal carbon dioxide removal and continuous venovenous hemofiltration devices** (2021)
    2 citations

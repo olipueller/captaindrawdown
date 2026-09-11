@@ -1,7 +1,7 @@
 ---
 title: "Lucrezia Nava"
 description: "Lucrezia Nava is a Mid-career General CDR researcher at University of Exeter in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.372077
+date: 2026-09-11T02:38:30.289822
 url: "/cdr-researcher-census/researchers/lucrezia-nava-a5022180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 109 |
+| Citations | 120 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Expert insights into future trajectories: assessing cost reductions and scalability of carbon dioxide removal technologies** (2024)
-   21 citations · BECCS
+   23 citations · BECCS
 
 2. **Science Or Morality? The Effects of Frames on Stakeholder Dialogue, a Field Experiment** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jinhu Cui"
-description: "Jinhu Cui is a Mid-career Soil Carbon researcher at Anhui University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.894493
+description: "Jinhu Cui is a Mid-career Soil Carbon researcher at Anhui University in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.771101
 url: "/cdr-researcher-census/researchers/jinhu-cui-a5113321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 228 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 273 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar Input to Saline-Alkali Farmland Can Improve Soil Health and Crop Yield: A Meta-Analysis** (2025)
-   15 citations · Biochar
+   19 citations · Biochar
 
 2. **Increasing soil organic carbon content: The key roles of straw return duration and maize growth stages in driving microbial community shifts** (2026)
    1 citations

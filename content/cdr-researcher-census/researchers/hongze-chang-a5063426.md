@@ -1,7 +1,7 @@
 ---
 title: "Hongze Chang"
-description: "Hongze Chang is a Mid-career Biochar researcher at Tongji University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.811756
+description: "Hongze Chang is a Mid-career Biochar researcher at Tongji University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.772031
 url: "/cdr-researcher-census/researchers/hongze-chang-a5063426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 267 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 273 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

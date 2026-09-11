@@ -1,7 +1,7 @@
 ---
 title: "Kimberlee Baldry"
-description: "Kimberlee Baldry is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.834894
+description: "Kimberlee Baldry is a Mid-career Ocean CDR researcher at Geoscience Australia in AU. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.792509
 url: "/cdr-researcher-census/researchers/kimberlee-baldry-a5011218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kimberlee-baldry-a5011218/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Tasmania"
+    "name": "Geoscience Australia"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3286-8624",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kimberlee Baldry**  
-University of Tasmania · 🇦🇺 AU
+Geoscience Australia · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 254 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 262 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

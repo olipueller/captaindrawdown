@@ -1,7 +1,7 @@
 ---
 title: "Quanfeng Yao"
-description: "Quanfeng Yao is a Mid-career Biochar researcher at Fiberhome Technology Group (China) in CN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.379462
+description: "Quanfeng Yao is a Mid-career Biochar researcher at Fiberhome Technology Group (China) in CN. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.296514
 url: "/cdr-researcher-census/researchers/quanfeng-yao-a5032658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 107 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 118 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A mechanism study of methylene blue adsorption on seaweed biomass derived carbon: From macroscopic to microscopic scale** (2023)
-   89 citations · Biochar
+   93 citations · Biochar
 
 ## External Profiles
 

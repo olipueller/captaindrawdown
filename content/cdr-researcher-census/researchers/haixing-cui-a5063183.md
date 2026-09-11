@@ -1,7 +1,7 @@
 ---
 title: "Haixing Cui"
-description: "Haixing Cui is an Early-career Soil Carbon researcher at Heze University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188005
+description: "Haixing Cui is an Early-career Soil Carbon researcher at Shandong Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.127072
 url: "/cdr-researcher-census/researchers/haixing-cui-a5063183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haixing-cui-a5063183/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Heze University"
+    "name": "Shandong Agricultural University"
   },
   "sameAs": "https://openalex.org/A5063183310"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Haixing Cui**  
-Heze University · 🇨🇳 CN
+Shandong Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 145 |
+| Citations | 154 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

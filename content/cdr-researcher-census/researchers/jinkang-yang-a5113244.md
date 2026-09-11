@@ -1,7 +1,7 @@
 ---
 title: "Jinkang Yang"
-description: "Jinkang Yang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.330137
+description: "Jinkang Yang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.228666
 url: "/cdr-researcher-census/researchers/jinkang-yang-a5113244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 116 |
+| h-index | 6 |
+| Citations | 131 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Biochar
 
 2. **Medium molecular weight carbon fractions of DOM: Driving soil microbial community differentiation and soil organic carbon sequestration** (2025)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **pH-Dependent preferential adsorption and stability of humic substances on goethite: The dual role of aromatic and aliphatic moieties** (2025)
    6 citations

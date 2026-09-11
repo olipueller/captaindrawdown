@@ -1,7 +1,7 @@
 ---
 title: "Qifei Bo"
 description: "Qifei Bo is a Mid-career Soil Carbon researcher at Chengdu Organic Chemicals (China) in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849358
+date: 2026-09-11T02:38:29.815847
 url: "/cdr-researcher-census/researchers/qifei-bo-a5037057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 247 |
+| Citations | 251 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Stable |

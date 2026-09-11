@@ -1,7 +1,7 @@
 ---
 title: "Xupeng Zhao"
 description: "Xupeng Zhao is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311541
+date: 2026-09-11T02:38:30.224841
 url: "/cdr-researcher-census/researchers/xupeng-zhao-a5021173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 120 |
+| Citations | 132 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercropping increases soil macroaggregate carbon through root traits induced microbial necromass accumulation** (2023)
-   122 citations · Soil Carbon
+   129 citations · Soil Carbon
 
 ## External Profiles
 

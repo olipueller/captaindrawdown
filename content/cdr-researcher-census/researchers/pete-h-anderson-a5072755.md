@@ -1,7 +1,7 @@
 ---
 title: "Pete H. Anderson"
 description: "Pete H. Anderson is a Mid-career Soil Carbon researcher at Triangle in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.006784
+date: 2026-09-11T02:38:29.974616
 url: "/cdr-researcher-census/researchers/pete-h-anderson-a5072755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 195 |
+| Citations | 198 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The response of coarse root biomass to long‐term CO<sub>2</sub> enrichment and nitrogen application in a maturing <i>Pinus taeda</i> stand with a large broadleaved component** (2021)
-   19 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

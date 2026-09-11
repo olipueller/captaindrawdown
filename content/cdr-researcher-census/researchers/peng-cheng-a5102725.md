@@ -1,7 +1,7 @@
 ---
 title: "Peng Cheng"
-description: "Peng Cheng is an Early-career Biochar researcher at Hubei University of Automotive Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.870381
+description: "Peng Cheng is an Early-career Biochar researcher at Hubei University of Automotive Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.783625
 url: "/cdr-researcher-census/researchers/peng-cheng-a5102725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 238 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 266 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of biochar application rate on changes in soil labile organic carbon fractions and the association between bacterial community assembly and carbon metabolism with time** (2022)
-   71 citations · Biochar
+   75 citations · Biochar
 
 ## External Profiles
 

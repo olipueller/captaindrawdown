@@ -1,7 +1,7 @@
 ---
 title: "Rianne Visser"
-description: "Rianne Visser is a Senior Biochar researcher at Energy Research Centre of the Netherlands in NL. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.485780
+description: "Rianne Visser is a Senior Biochar researcher at Energy Research Centre of the Netherlands in NL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.440543
 url: "/cdr-researcher-census/researchers/rianne-visser-a5004087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 537 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 547 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar and Green Compost Used in Cascade: The Link Between Circular Horticulture and Soil Improvement** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kuangyi Shi"
-description: "Kuangyi Shi is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.672407
+description: "Kuangyi Shi is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.580389
 url: "/cdr-researcher-census/researchers/kuangyi-shi-a5114112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 349 |
+| h-index | 10 |
+| Citations | 393 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Review on Advances and Prospectives of Direct Air Capture: Thermodynamic Verification, Optimized Material Selection, and Technical Economic Assessment for the Application** (2024)
-   12 citations · DAC
+   13 citations · DAC
 
 ## External Profiles
 

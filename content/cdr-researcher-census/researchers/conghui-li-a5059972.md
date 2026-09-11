@@ -1,7 +1,7 @@
 ---
 title: "Conghui Li"
-description: "Conghui Li is a Mid-career Soil Carbon researcher at Monash University Malaysia in MY. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.295453
+description: "Conghui Li is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.148628
 url: "/cdr-researcher-census/researchers/conghui-li-a5059972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/conghui-li-a5059972/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Monash University Malaysia"
+    "name": "Hebei University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5414-6521",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Conghui Li**  
-Monash University Malaysia · 🇲🇾 MY
+Hebei University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 123 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 7 |
+| Citations | 149 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

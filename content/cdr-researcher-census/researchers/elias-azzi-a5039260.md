@@ -1,7 +1,7 @@
 ---
 title: "Elias Azzi"
 description: "Elias Azzi is a Mid-career Biochar researcher at Swedish University of Agricultural Sciences in SE. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.383528
+date: 2026-09-11T02:38:29.327273
 url: "/cdr-researcher-census/researchers/elias-azzi-a5039260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 725 |
+| Citations | 762 |
 | Publications | 33 |
 | CDR Focus | 36.4% |
 | Trajectory | Exiting |
@@ -54,19 +54,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    104 citations · Biochar
 
 2. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   86 citations · Biochar
+   89 citations · Biochar
 
 3. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
    56 citations · Biochar
 
 4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   53 citations · Biochar
+   54 citations · Biochar
 
 5. **Assessing the diverse environmental effects of biochar systems: An evaluation framework** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 6. **Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability** (2023)
-   18 citations · BECCS
+   19 citations · BECCS
 
 7. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
    16 citations

@@ -1,7 +1,7 @@
 ---
 title: "José Luis Vicente‐Vicente"
-description: "José Luis Vicente‐Vicente is a Mid-career Soil Carbon researcher at IEGD - CSIC in ES. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.110086
+description: "José Luis Vicente‐Vicente is a Mid-career Soil Carbon researcher at IEGD - CSIC in ES. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.059644
 url: "/cdr-researcher-census/researchers/jose-luis-vicentevicente-a5014415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 4,093 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| Citations | 4,179 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   200 citations · General CDR
+   207 citations · General CDR
 
 2. **Effects of herbaceous covers and mineral fertilizers on the nutrient stocks and fluxes in a Mediterranean olive grove** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Role of Clay Mineralogy in the Stabilization of Soil Organic Carbon in Olive Groves under Contrasted Soil Management** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Divergent Nutrient Stocks and Fluxes in Herbaceous Vegetation Versus Olive Trees Explain Competition Outcomes in a Mediterranean Olive Grove** (2022)
    1 citations

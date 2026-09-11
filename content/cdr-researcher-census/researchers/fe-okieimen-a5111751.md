@@ -1,7 +1,7 @@
 ---
 title: "FE Okieimen"
-description: "FE Okieimen is a Senior Biochar researcher at University of Benin in NG. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.141793
+description: "FE Okieimen is a Senior Biochar researcher at University of Science and Technology of Benin in BJ. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.117574
 url: "/cdr-researcher-census/researchers/fe-okieimen-a5111751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fe-okieimen-a5111751/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Benin"
+    "name": "University of Science and Technology of Benin"
   },
   "sameAs": "https://openalex.org/A5111751860"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **FE Okieimen**  
-University of Benin ·  NG
+University of Science and Technology of Benin ·  BJ
 
 **Career Stage:** Senior
 
@@ -41,8 +41,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 |--------|-------|
 | h-index | 3 |
 | Citations | 156 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

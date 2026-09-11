@@ -1,7 +1,7 @@
 ---
 title: "Venkatesh Paramesh"
-description: "Venkatesh Paramesh is a Senior Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 121 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.169407
+description: "Venkatesh Paramesh is a Senior Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 123 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.114297
 url: "/cdr-researcher-census/researchers/venkatesh-paramesh-a5051846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,28 +39,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 2,091 |
-| Publications | 121 |
-| CDR Focus | 6.6% |
+| h-index | 27 |
+| Citations | 2,216 |
+| Publications | 123 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Integrated farming system approaches to achieve food and nutritional security for enhancing profitability, employment, and climate resilience in India** (2022)
-   88 citations · Soil Carbon
+   93 citations · Soil Carbon
 
 3. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
-   72 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 4. **Enhancing productivity and sustainability of ravine lands through horti-silviculture and soil moisture conservation: A pathway to land degradation neutrality** (2024)
    28 citations · Soil Carbon
 
 5. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   19 citations · General CDR
+   22 citations · General CDR
 
 6. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    16 citations · Soil Carbon

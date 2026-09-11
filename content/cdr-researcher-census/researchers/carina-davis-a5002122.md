@@ -1,7 +1,7 @@
 ---
 title: "Carina Davis"
-description: "Carina Davis is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.019421
+description: "Carina Davis is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.054336
 url: "/cdr-researcher-census/researchers/carina-davis-a5002122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 191 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| h-index | 5 |
+| Citations | 174 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

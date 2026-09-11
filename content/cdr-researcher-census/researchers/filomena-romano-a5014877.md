@@ -1,7 +1,7 @@
 ---
 title: "Filomena Romano"
-description: "Filomena Romano is a Mid-career Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.717573
+description: "Filomena Romano is a Mid-career Ocean CDR researcher. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.650016
 url: "/cdr-researcher-census/researchers/filomena-romano-a5014877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Filomena Romano",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/filomena-romano-a5014877/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Hellenic Centre for Marine Research"
-  },
   "sameAs": [
     "https://orcid.org/0009-0006-5498-3657",
     "https://openalex.org/A5014877786"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Filomena Romano**  
-Hellenic Centre for Marine Research · 🇬🇷 GR
+**Filomena Romano**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 317 |
-| Publications | 20 |
-| CDR Focus | 30.0% |
+| Citations | 341 |
+| Publications | 22 |
+| CDR Focus | 31.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR
@@ -65,7 +60,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
-6. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+6. **Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem** (2026)
+   0 citations · Ocean CDR
+
+7. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

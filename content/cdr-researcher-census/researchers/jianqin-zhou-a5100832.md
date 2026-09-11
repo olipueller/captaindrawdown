@@ -1,7 +1,7 @@
 ---
 title: "Jianqin Zhou"
 description: "Jianqin Zhou is a Senior Soil Carbon researcher at Climate Central in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.447624
+date: 2026-09-11T02:38:29.403141
 url: "/cdr-researcher-census/researchers/jianqin-zhou-a5100832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 597 |
+| Citations | 603 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

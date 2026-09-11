@@ -1,7 +1,7 @@
 ---
 title: "Xueqin Ren"
-description: "Xueqin Ren is a Senior Soil Carbon researcher at China Agricultural University in CN. With 130 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.124168
+description: "Xueqin Ren is a Senior Soil Carbon researcher at China Agricultural University in CN. With 128 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.076187
 url: "/cdr-researcher-census/researchers/xueqin-ren-a5064636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,375 |
-| Publications | 130 |
+| Citations | 3,364 |
+| Publications | 128 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Long-term rice cultivation increases contributions of plant and microbial-derived carbon to soil organic carbon in saline-sodic soils** (2023)
-   53 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    13 citations · Soil Carbon
 
 5. **Artificial utilization of saline-sodic land promotes carbon stock: The importance of large macroaggregates** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Amendment of saline-alkali soils promotes the formation and stability of iron-bound organic carbon** (2025)
    1 citations · Soil Carbon

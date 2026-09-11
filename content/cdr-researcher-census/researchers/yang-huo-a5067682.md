@@ -1,7 +1,7 @@
 ---
 title: "Yang Huo"
 description: "Yang Huo is a Mid-career Biochar researcher at Northeast Normal University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.287722
+date: 2026-09-11T02:38:30.240907
 url: "/cdr-researcher-census/researchers/yang-huo-a5067682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 124 |
+| Citations | 129 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-Fe3O4-modified biochar promotes the formation of iron plaque and cadmium immobilization in rice root** (2021)
-   75 citations · Biochar
+   77 citations · Biochar
 
 ## External Profiles
 

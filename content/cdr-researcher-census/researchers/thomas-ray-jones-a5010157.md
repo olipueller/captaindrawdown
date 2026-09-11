@@ -1,7 +1,7 @@
 ---
 title: "Thomas Ray Jones"
 description: "Thomas Ray Jones is a Senior Enhanced Weathering researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.185408
+date: 2026-09-11T02:38:30.129239
 url: "/cdr-researcher-census/researchers/thomas-ray-jones-a5010157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
+| Citations | 153 |
 | Publications | 20 |
-| CDR Focus | 25.0% |
+| CDR Focus | 30.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    17 citations · Enhanced Weathering
 
 3. **Accelerated carbonate biomineralisation of Venetia diamond mine coarse residue deposit (CRD) material – A field trial study** (2023)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 4. **Fate, distribution, and transport dynamics of indium in a polymetallic mine waste environment: An integrated mineralogical characterisation and geochemical modelling study** (2025)
    4 citations

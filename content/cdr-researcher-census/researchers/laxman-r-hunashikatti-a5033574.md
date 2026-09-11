@@ -1,7 +1,7 @@
 ---
 title: "Laxman R. Hunashikatti"
-description: "Laxman R. Hunashikatti is a Mid-career Soil Carbon researcher at Indian Institute of Horticultural Research in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.171749
+description: "Laxman R. Hunashikatti is a Mid-career Soil Carbon researcher at Indian Institute of Horticultural Research in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.128156
 url: "/cdr-researcher-census/researchers/laxman-r-hunashikatti-a5033574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 149 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 154 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

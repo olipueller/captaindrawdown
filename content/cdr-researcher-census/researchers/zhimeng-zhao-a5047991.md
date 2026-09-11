@@ -1,7 +1,7 @@
 ---
 title: "Zhimeng Zhao"
-description: "Zhimeng Zhao is a Mid-career Biochar researcher at Guizhou Education University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.664917
+description: "Zhimeng Zhao is a Mid-career Biochar researcher at Guizhou Education University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.607303
 url: "/cdr-researcher-census/researchers/zhimeng-zhao-a5047991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 355 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 372 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

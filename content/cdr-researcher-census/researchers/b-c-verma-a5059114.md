@@ -1,7 +1,7 @@
 ---
 title: "B. C. Verma"
-description: "B. C. Verma is a Senior Soil Carbon researcher. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.690157
+description: "B. C. Verma is a Senior Soil Carbon researcher at Madhya Pradesh Bhoj Open University in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.647665
 url: "/cdr-researcher-census/researchers/b-c-verma-a5059114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "B. C. Verma",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/b-c-verma-a5059114/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Madhya Pradesh Bhoj Open University"
+  },
   "sameAs": "https://openalex.org/A5059114259"
 }
 </script>
 
 ## Profile
 
-**B. C. Verma**
+**B. C. Verma**  
+Madhya Pradesh Bhoj Open University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 338 |
+| Citations | 343 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Exiting |

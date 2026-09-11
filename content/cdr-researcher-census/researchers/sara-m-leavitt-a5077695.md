@@ -1,7 +1,7 @@
 ---
 title: "Sara M. Leavitt"
 description: "Sara M. Leavitt is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.091630
+date: 2026-09-11T02:38:29.042784
 url: "/cdr-researcher-census/researchers/sara-m-leavitt-a5077695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 5,776 |
+| Citations | 5,954 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The global potential for increased storage of carbon on land** (2022)
-   235 citations · General CDR
+   241 citations · General CDR
 
 ## External Profiles
 

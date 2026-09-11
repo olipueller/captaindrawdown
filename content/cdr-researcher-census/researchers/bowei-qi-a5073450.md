@@ -1,7 +1,7 @@
 ---
 title: "Bowei Qi"
-description: "Bowei Qi is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.309986
+description: "Bowei Qi is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.223363
 url: "/cdr-researcher-census/researchers/bowei-qi-a5073450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 120 |
+| h-index | 7 |
+| Citations | 132 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Inhibiting release of phenanthrene from rice-crab coculture sediments to overlying water with rice stalk biochar: Performance and mechanisms** (2023)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

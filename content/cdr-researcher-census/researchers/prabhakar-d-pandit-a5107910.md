@@ -1,7 +1,7 @@
 ---
 title: "Prabhakar D. Pandit"
 description: "Prabhakar D. Pandit is a Mid-career Soil Carbon researcher at HCG NCHRI Cancer Centre in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.690450
+date: 2026-09-11T02:38:29.643710
 url: "/cdr-researcher-census/researchers/prabhakar-d-pandit-a5107910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 338 |
+| Citations | 346 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbiome: An intrinsic driver for climate smart agriculture** (2024)
-   27 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Emily Polk"
-description: "Emily Polk is a Mid-career DAC researcher at Stanford University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.883501
+description: "Emily Polk is a Mid-career DAC researcher at University of California, Santa Barbara in US. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.854664
 url: "/cdr-researcher-census/researchers/emily-polk-a5082048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/emily-polk-a5082048/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Stanford University"
+    "name": "University of California, Santa Barbara"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5961-6497",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Emily Polk**  
-Stanford University · 🇺🇸 US
+University of California, Santa Barbara · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 232 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 233 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

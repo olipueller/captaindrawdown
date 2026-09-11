@@ -1,7 +1,7 @@
 ---
 title: "Zhihuan Wu"
-description: "Zhihuan Wu is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.594539
+description: "Zhihuan Wu is a Mid-career Biochar researcher at Shenyang Pharmaceutical University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.546129
 url: "/cdr-researcher-census/researchers/zhihuan-wu-a5062364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhihuan-wu-a5062364/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Agricultural University"
+    "name": "Shenyang Pharmaceutical University"
   },
   "sameAs": "https://openalex.org/A5062364972"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhihuan Wu**  
-Northeast Agricultural University · 🇨🇳 CN
+Shenyang Pharmaceutical University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 413 |
+| Citations | 422 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step preparation of Fe/N co-doped porous biochar for chromium(VI) and bisphenol a decontamination in water: Insights to co-activation and adsorption mechanisms** (2022)
-   100 citations · Biochar
+   102 citations · Biochar
 
 2. **Enhanced degradation of atrazine from soil with recyclable magnetic carbon-based bacterial pellets: Performance and mechanism** (2024)
-   63 citations
+   64 citations
 
 ## External Profiles
 

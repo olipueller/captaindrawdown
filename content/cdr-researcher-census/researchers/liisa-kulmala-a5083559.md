@@ -1,7 +1,7 @@
 ---
 title: "Liisa Kulmala"
-description: "Liisa Kulmala is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 222 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.123958
+description: "Liisa Kulmala is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 224 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.074697
 url: "/cdr-researcher-census/researchers/liisa-kulmala-a5083559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 3,379 |
-| Publications | 222 |
-| CDR Focus | 7.2% |
+| h-index | 34 |
+| Citations | 3,429 |
+| Publications | 224 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential of Biochar to Reduce Greenhouse Gas Emissions and Increase Nitrogen Use Efficiency in Boreal Arable Soils in the Long-Term** (2022)
-   77 citations · Biochar
+   82 citations · Biochar
 
 2. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
    39 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Lixiong Zeng"
-description: "Lixiong Zeng is a Senior Soil Carbon researcher at Central South University in CN. With 125 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.149462
+description: "Lixiong Zeng is a Senior Soil Carbon researcher at Central South University in CN. With 128 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.097577
 url: "/cdr-researcher-census/researchers/lixiong-zeng-a5066577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,488 |
-| Publications | 125 |
-| CDR Focus | 6.4% |
+| h-index | 29 |
+| Citations | 2,585 |
+| Publications | 128 |
+| CDR Focus | 6.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 3. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
    34 citations
@@ -63,16 +63,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 5. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 7. **Nitrogen addition enhances nitrogen but not carbon mineralization in aggregate size fractions of soils in a Pinus massonia plantation** (2024)
    5 citations · Soil Carbon
 
 8. **Spatial matching of ecosystem service supply and stakeholder preferences insights for regional management in the Shennongjia forest region, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 9. **Season-Dependent Temperature Effects on Soil Respiration in a Subtropical Pinus Massoniana Forest** (2021)
    0 citations · Soil Carbon

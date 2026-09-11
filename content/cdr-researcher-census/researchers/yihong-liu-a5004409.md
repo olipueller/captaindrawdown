@@ -1,7 +1,7 @@
 ---
 title: "Yihong Liu"
 description: "Yihong Liu is a Mid-career Soil Carbon researcher at Western University in CA. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.138917
+date: 2026-09-11T02:38:30.042709
 url: "/cdr-researcher-census/researchers/yihong-liu-a5004409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 157 |
+| Citations | 177 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |

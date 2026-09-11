@@ -1,7 +1,7 @@
 ---
 title: "Steve Rackley"
-description: "Steve Rackley is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 45 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.249425
+description: "Steve Rackley is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 44 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.222251
 url: "/cdr-researcher-census/researchers/steve-rackley-a5048609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 131 |
-| Publications | 45 |
-| CDR Focus | 15.6% |
+| Citations | 132 |
+| Publications | 44 |
+| CDR Focus | 15.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -56,26 +56,26 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **Direct air capture** (2023)
    2 citations
 
-4. **CO2 adsorption** (2023)
+4. **Membrane CO2 separation** (2023)
+   2 citations
+
+5. **CO2 adsorption** (2023)
    1 citations
 
-5. **Afforestation and other land- and soil-based methods** (2023)
+6. **CO2 absorption** (2023)
+   1 citations
+
+7. **Afforestation and other land- and soil-based methods** (2023)
    1 citations · Soil Carbon
 
-6. **Removal of methane and other non-CO2 GHGs** (2023)
+8. **Removal of methane and other non-CO2 GHGs** (2023)
    1 citations
 
-7. **Membrane CO2 separation** (2023)
-   1 citations
-
-8. **The viability and safety of Ocean Alkalinity Enhancement: encouraging results from collaborative industry-academic field studies in Canada, the USA and the UK** (2025)
+9. **The viability and safety of Ocean Alkalinity Enhancement: encouraging results from collaborative industry-academic field studies in Canada, the USA and the UK** (2025)
    0 citations · Ocean CDR
 
-9. **The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model** (2024)
+10. **The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model** (2024)
    0 citations · Ocean CDR
-
-10. **Comment on sp-2023-10** (2023)
-   0 citations · General CDR
 
 ## External Profiles
 

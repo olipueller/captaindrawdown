@@ -1,7 +1,7 @@
 ---
 title: "Yang Qiu"
-description: "Yang Qiu is a Senior General CDR researcher at Joint Global Change Research Institute in US. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.115418
+description: "Yang Qiu is a Senior General CDR researcher at Joint Global Change Research Institute in US. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.064010
 url: "/cdr-researcher-census/researchers/yang-qiu-a5078561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 3,783 |
-| Publications | 49 |
-| CDR Focus | 10.2% |
+| h-index | 12 |
+| Citations | 3,917 |
+| Publications | 48 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   154 citations · DAC
+   158 citations · DAC
 
 2. **The path to 2060: Saudi Arabia's long-term pathway for GHG emission reduction** (2024)
-   28 citations · General CDR
+   30 citations · General CDR
 
 3. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
-   10 citations · DAC
+   13 citations · DAC
 
 4. **The role and deployment timing of direct air capture in Saudi Arabia’s net-zero transition** (2024)
    7 citations · DAC

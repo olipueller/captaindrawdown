@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Wilson"
 description: "Rebecca Wilson is a Senior BECCS researcher at Aberystwyth University in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.071842
+date: 2026-09-11T02:38:30.044559
 url: "/cdr-researcher-census/researchers/rebecca-wilson-a5111954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 175 |
+| Citations | 176 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

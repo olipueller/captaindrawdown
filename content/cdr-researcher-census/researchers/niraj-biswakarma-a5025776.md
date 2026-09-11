@@ -1,7 +1,7 @@
 ---
 title: "Niraj Biswakarma"
 description: "Niraj Biswakarma is a Senior Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.668166
+date: 2026-09-11T02:38:29.610766
 url: "/cdr-researcher-census/researchers/niraj-biswakarma-a5025776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 353 |
+| Citations | 370 |
 | Publications | 43 |
 | CDR Focus | 7.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Twenty-one years’ impact of using organic amendments on the productivity of rice-wheat rotation and soil properties** (2024)
-   23 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Two decades of organic farming in rice-wheat agroecosystems: An impact assessment of environmental footprints reduction and carbon credit potential for climate resilience** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **Agroforestry: Harnessing the unrealized potential for negative carbon emission** (2025)
    2 citations · BECCS

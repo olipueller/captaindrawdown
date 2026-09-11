@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Pasumarthi"
-description: "Rajesh Pasumarthi is a Mid-career Biochar researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.821948
+description: "Rajesh Pasumarthi is a Mid-career Biochar researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.745159
 url: "/cdr-researcher-census/researchers/rajesh-pasumarthi-a5033698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 261 |
-| Publications | 19 |
-| CDR Focus | 15.8% |
+| Citations | 285 |
+| Publications | 20 |
+| CDR Focus | 15.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   32 citations
+   34 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar

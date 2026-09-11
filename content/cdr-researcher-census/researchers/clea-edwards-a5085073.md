@@ -1,7 +1,7 @@
 ---
 title: "Clea Edwards"
 description: "Clea Edwards is a Mid-career General CDR researcher at Arizona State University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.281225
+date: 2026-09-11T02:38:30.228081
 url: "/cdr-researcher-census/researchers/clea-edwards-a5085073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
+| Citations | 131 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bayu Dume"
 description: "Bayu Dume is a Mid-career Soil Carbon researcher at Jimma University in ET. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590795
+date: 2026-09-11T02:38:29.525533
 url: "/cdr-researcher-census/researchers/bayu-dume-a5045521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 417 |
+| Citations | 442 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Biochar‐based fertilizers increase crop yields in acidic tropical soils** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

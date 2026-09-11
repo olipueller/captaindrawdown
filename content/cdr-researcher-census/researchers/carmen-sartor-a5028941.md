@@ -1,7 +1,7 @@
 ---
 title: "Carmen Sartor"
-description: "Carmen Sartor is a Senior Soil Carbon researcher at Universidad Nacional de Cuyo in AR. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.845791
+description: "Carmen Sartor is a Senior Soil Carbon researcher at Universidad Nacional de Cuyo in AR. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.807396
 url: "/cdr-researcher-census/researchers/carmen-sartor-a5028941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 249 |
+| h-index | 10 |
+| Citations | 255 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Stable |

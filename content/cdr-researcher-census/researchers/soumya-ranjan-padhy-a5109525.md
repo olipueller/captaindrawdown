@@ -1,7 +1,7 @@
 ---
 title: "Soumya Ranjan Padhy"
-description: "Soumya Ranjan Padhy is a Mid-career Soil Carbon researcher at Indian Institute of Rice Research in IN. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.322450
+description: "Soumya Ranjan Padhy is a Mid-career Soil Carbon researcher at Central Rice Research Institute in IN. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.269285
 url: "/cdr-researcher-census/researchers/soumya-ranjan-padhy-a5109525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/soumya-ranjan-padhy-a5109525/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Rice Research"
+    "name": "Central Rice Research Institute"
   },
   "sameAs": "https://openalex.org/A5109525686"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Soumya Ranjan Padhy**  
-Indian Institute of Rice Research · 🇮🇳 IN
+Central Rice Research Institute · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 898 |
-| Publications | 44 |
-| CDR Focus | 13.6% |
+| Citations | 938 |
+| Publications | 47 |
+| CDR Focus | 12.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Ocean CDR
 
 4. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Impact of Conservation Agriculture on Greenhouse Gas Emission and Its Implications** (2021)
    5 citations · General CDR

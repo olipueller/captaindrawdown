@@ -1,7 +1,7 @@
 ---
 title: "Lucas Moreau"
-description: "Lucas Moreau is a Mid-career General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.225313
+description: "Lucas Moreau is a Mid-career General CDR researcher at Institut Supérieur d'Électronique de Paris in FR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.184604
 url: "/cdr-researcher-census/researchers/lucas-moreau-a5018862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Lucas Moreau",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lucas-moreau-a5018862/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institut Sup\u00e9rieur d'\u00c9lectronique de Paris"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2456-8971",
     "https://openalex.org/A5018862796"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Lucas Moreau**
+**Lucas Moreau**  
+Institut Supérieur d'Électronique de Paris · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 136 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 140 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

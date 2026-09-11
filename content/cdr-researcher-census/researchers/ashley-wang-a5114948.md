@@ -1,7 +1,7 @@
 ---
 title: "Ashley Wang"
 description: "Ashley Wang is a Mid-career Soil Carbon researcher at Stanford University in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.172191
+date: 2026-09-11T02:38:30.095194
 url: "/cdr-researcher-census/researchers/ashley-wang-a5114948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 149 |
+| Citations | 162 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Hinshaw"
 description: "Sarah Hinshaw is a Mid-career Soil Carbon researcher at GEI Consultants in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.387448
+date: 2026-09-11T02:38:30.356524
 url: "/cdr-researcher-census/researchers/sarah-hinshaw-a5062899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 106 |
+| Citations | 107 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantitatively Estimating Carbon Sequestration Potential in Soil and Large Wood in the Context of River Restoration** (2021)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Carbon sequestration potential of process‐based river restoration** (2023)
    12 citations · General CDR

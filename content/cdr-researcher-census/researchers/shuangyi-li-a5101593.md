@@ -1,7 +1,7 @@
 ---
 title: "Shuangyi Li"
 description: "Shuangyi Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.175668
+date: 2026-09-11T02:38:29.123196
 url: "/cdr-researcher-census/researchers/shuangyi-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,990 |
+| Citations | 2,070 |
 | Publications | 79 |
-| CDR Focus | 17.7% |
-| Trajectory | Declining |
+| CDR Focus | 16.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Effects of farmland landscape pattern on spatial distribution of soil organic carbon in Lower Liaohe Plain of northeastern China** (2022)
    53 citations · General CDR
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 6. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
-   7 citations · Biochar
+   9 citations · Biochar
 
 7. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
    5 citations

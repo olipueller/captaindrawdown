@@ -1,7 +1,7 @@
 ---
 title: "Huaqing Zhu"
-description: "Huaqing Zhu is a Senior Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 47 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155057
+description: "Huaqing Zhu is a Senior Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 47 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.105363
 url: "/cdr-researcher-census/researchers/huaqing-zhu-a5100297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 2,360 |
+| h-index | 23 |
+| Citations | 2,386 |
 | Publications | 47 |
 | CDR Focus | 6.4% |
 | Trajectory | Stable |

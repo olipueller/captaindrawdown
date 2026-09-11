@@ -1,7 +1,7 @@
 ---
 title: "Giulia Ravenni"
 description: "Giulia Ravenni is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.419576
+date: 2026-09-11T02:38:29.369461
 url: "/cdr-researcher-census/researchers/giulia-ravenni-a5040211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 645 |
+| Citations | 665 |
 | Publications | 43 |
 | CDR Focus | 9.3% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Low-cost hydrogen sulfide removal with biochar and activated biochar** (2025)
    7 citations · Biochar
 
 3. **Biochar in the circular bioeconomy: a bibliometric analysis of technologies, applications, and trends** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 4. **Towards evidence-based environmental regulation of biochar for agricultural use: Inorganic composition and environmental quality of biochar** (2026)
    0 citations · Biochar

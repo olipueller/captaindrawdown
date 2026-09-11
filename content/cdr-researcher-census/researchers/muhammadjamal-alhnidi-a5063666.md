@@ -1,7 +1,7 @@
 ---
 title: "Muhammad‐Jamal Alhnidi"
 description: "Muhammad‐Jamal Alhnidi is a Mid-career Biochar researcher at University of Hohenheim in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.830027
+date: 2026-09-11T02:38:29.784597
 url: "/cdr-researcher-census/researchers/muhammadjamal-alhnidi-a5063666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 257 |
+| Citations | 266 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Hydrothermal Carbonization and Pyrolysis in Wetland Engineering: Carbon Sequestration, Phosphorus Recovery, and Structural Characterization of Willow-Based Chars with X-Ray Μ-Computed Tomography** (2024)
    0 citations · Biochar

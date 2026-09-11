@@ -1,7 +1,7 @@
 ---
 title: "Jixia Zhao"
-description: "Jixia Zhao is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.891976
+description: "Jixia Zhao is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.842935
 url: "/cdr-researcher-census/researchers/jixia-zhao-a5008738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 229 |
-| Publications | 32 |
-| CDR Focus | 9.4% |
+| Citations | 239 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

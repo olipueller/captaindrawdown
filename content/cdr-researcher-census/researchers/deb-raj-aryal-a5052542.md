@@ -1,7 +1,7 @@
 ---
 title: "Deb Raj Aryal"
-description: "Deb Raj Aryal is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 86 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.294616
+description: "Deb Raj Aryal is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.241377
 url: "/cdr-researcher-census/researchers/deb-raj-aryal-a5052542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,017 |
-| Publications | 86 |
-| CDR Focus | 15.1% |
+| Citations | 1,053 |
+| Publications | 89 |
+| CDR Focus | 14.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Silvopastoral systems and remnant forests enhance carbon storage in livestock-dominated landscapes in Mexico** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Cover crop residue quality regulates litter decomposition dynamics and soil carbon mineralization kinetics in semi-arid cropping systems** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
-   23 citations
+   27 citations
 
 4. **Carbon storage and sequestration rates in Leucaena leucocephala-based silvopasture in Southern Mexico** (2023)
    23 citations · General CDR
@@ -69,15 +69,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · General CDR
 
 7. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 8. **Soil profile distribution of organic, inorganic, and labile carbon and nitrogen fractions vary in semi‐arid drylands under long‐term conservation tillage systems** (2024)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 9. **Land use-driven shifts in labile carbon fractions regulated total profile sequestration of soil organic and inorganic carbon in arid environments** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
-10. **Soil carbon sequestration and biological health under pecan orchards of varying ages** (2025)
+10. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

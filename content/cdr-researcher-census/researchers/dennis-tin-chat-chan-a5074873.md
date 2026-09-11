@@ -1,7 +1,7 @@
 ---
 title: "Dennis Tin Chat Chan"
-description: "Dennis Tin Chat Chan is a Mid-career General CDR researcher at University of Copenhagen in DK. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.306639
+description: "Dennis Tin Chat Chan is a Mid-career General CDR researcher at University of Copenhagen in DK. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.242595
 url: "/cdr-researcher-census/researchers/dennis-tin-chat-chan-a5074873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 121 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 129 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Innovating carbon-capture biotechnologies through ecosystem-inspired solutions** (2021)
-   33 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

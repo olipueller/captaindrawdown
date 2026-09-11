@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Li"
-description: "Yuanyuan Li is a Senior Soil Carbon researcher at Sinopec (China) in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.307076
+description: "Yuanyuan Li is a Senior Soil Carbon researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.279332
 url: "/cdr-researcher-census/researchers/yuanyuan-li-a5101573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yuanyuan Li",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuanyuan-li-a5101573/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Sinopec (China)"
-  },
   "sameAs": [
     "https://orcid.org/0009-0006-0113-5312",
     "https://openalex.org/A5101573448"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Yuanyuan Li**  
-Sinopec (China) · 🇨🇳 CN
+**Yuanyuan Li**
 
 **Career Stage:** Senior
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 121 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 122 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

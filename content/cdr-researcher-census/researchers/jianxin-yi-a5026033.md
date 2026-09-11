@@ -1,7 +1,7 @@
 ---
 title: "Jianxin Yi"
 description: "Jianxin Yi is an Early-career Biochar researcher at Universidad Autónoma de Madrid in ES. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.367337
+date: 2026-09-11T02:38:30.321919
 url: "/cdr-researcher-census/researchers/jianxin-yi-a5026033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 110 |
+| Citations | 114 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of Fe-Nx site-based iron-nitrogen co-doped biochar catalysts for efficient removal of sulfamethoxazole from water by activation of persulfate: Electron transfer mechanism of non-free radical degradation** (2022)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tinghua Li"
-description: "Tinghua Li is a Senior Soil Carbon researcher at University of Groningen in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.007851
+description: "Tinghua Li is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.946644
 url: "/cdr-researcher-census/researchers/tinghua-li-a5004154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tinghua-li-a5004154/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Groningen"
+    "name": "Guangxi Academy of Agricultural Science"
   },
   "sameAs": "https://openalex.org/A5004154892"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tinghua Li**  
-University of Groningen · 🇳🇱 NL
+Guangxi Academy of Agricultural Science · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 194 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 206 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

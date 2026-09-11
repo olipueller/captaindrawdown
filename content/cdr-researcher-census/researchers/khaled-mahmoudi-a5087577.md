@@ -1,7 +1,7 @@
 ---
 title: "Khaled Mahmoudi"
 description: "Khaled Mahmoudi is a Mid-career Biochar researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.680100
+date: 2026-09-11T02:38:29.640868
 url: "/cdr-researcher-census/researchers/khaled-mahmoudi-a5087577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 344 |
+| Citations | 347 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

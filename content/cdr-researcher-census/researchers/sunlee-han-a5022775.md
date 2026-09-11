@@ -1,7 +1,7 @@
 ---
 title: "Sunlee Han"
 description: "Sunlee Han is a Mid-career BECCS researcher at Mineral Resources in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.008487
+date: 2026-09-11T02:38:29.949984
 url: "/cdr-researcher-census/researchers/sunlee-han-a5022775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 194 |
+| Citations | 205 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy with carbon capture and storage (BECCS): Interconnected technological challenges and advances using biomass thermochemical conversion towards negative emissions** (2026)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

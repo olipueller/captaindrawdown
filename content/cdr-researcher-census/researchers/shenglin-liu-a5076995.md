@@ -1,7 +1,7 @@
 ---
 title: "Shenglin Liu"
-description: "Shenglin Liu is a Senior Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.331800
+description: "Shenglin Liu is a Senior Soil Carbon researcher at Gannan University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.288427
 url: "/cdr-researcher-census/researchers/shenglin-liu-a5076995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Shenglin Liu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shenglin-liu-a5076995/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Gannan University of Science and Technology"
+  },
   "sameAs": "https://openalex.org/A5076995382"
 }
 </script>
 
 ## Profile
 
-**Shenglin Liu**
+**Shenglin Liu**  
+Gannan University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 116 |
+| Citations | 120 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |

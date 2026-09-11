@@ -1,7 +1,7 @@
 ---
 title: "Abdulmannan Rouhani"
-description: "Abdulmannan Rouhani is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595890
+description: "Abdulmannan Rouhani is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.518897
 url: "/cdr-researcher-census/researchers/abdulmannan-rouhani-a5013968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 412 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 13 |
+| Citations | 450 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Haris R. Gilani"
 description: "Haris R. Gilani is a Mid-career General CDR researcher at University of California Division of Agriculture and Natural Resources in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788959
+date: 2026-09-11T02:38:29.736437
 url: "/cdr-researcher-census/researchers/haris-r-gilani-a5048082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 278 |
+| Citations | 289 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Near-term carbon dioxide removal deployment can minimize disruptive pace of decarbonization and economic risks towards United States’ net-zero goal** (2024)
-   18 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

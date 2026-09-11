@@ -1,7 +1,7 @@
 ---
 title: "Aidong Yang"
-description: "Aidong Yang is an Eminent General CDR researcher at University of Oxford in GB. With 236 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092734
+description: "Aidong Yang is an Eminent General CDR researcher at Mansfield University in US. With 241 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.043210
 url: "/cdr-researcher-census/researchers/aidong-yang-a5067371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/aidong-yang-a5067371/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Oxford"
+    "name": "Mansfield University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5974-247X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Aidong Yang**  
-University of Oxford · 🇬🇧 GB
+Mansfield University · 🇺🇸 US
 
 **Career Stage:** Eminent
 
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 5,624 |
-| Publications | 236 |
-| CDR Focus | 5.1% |
-| Trajectory | Declining |
+| Citations | 5,835 |
+| Publications | 241 |
+| CDR Focus | 5.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
-   50 citations · Enhanced Weathering
+1. **Decarbonisation pathways of the cement production process via hydrogen and oxy-combustion** (2023)
+   52 citations · General CDR
 
-2. **Decarbonisation pathways of the cement production process via hydrogen and oxy-combustion** (2023)
-   46 citations · General CDR
+2. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
+   50 citations · Enhanced Weathering
 
 3. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
    25 citations · Enhanced Weathering
 
 4. **Numerical Modeling and Comparative Analysis of Electrolysis and Electrodialysis Systems for Direct Air Capture** (2024)
-   23 citations · DAC
+   24 citations · DAC
 
 5. **Enhanced weathering to capture atmospheric carbon dioxide: Modeling of a trickle‐bed reactor** (2021)
    16 citations · Enhanced Weathering

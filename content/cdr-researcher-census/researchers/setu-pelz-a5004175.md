@@ -1,7 +1,7 @@
 ---
 title: "Setu Pelz"
-description: "Setu Pelz is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 93 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.376963
+description: "Setu Pelz is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 100 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.316625
 url: "/cdr-researcher-census/researchers/setu-pelz-a5004175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,27 +42,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 742 |
-| Publications | 93 |
-| CDR Focus | 5.4% |
+| h-index | 16 |
+| Citations | 789 |
+| Publications | 100 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Understanding land-based carbon dioxide removal in the context of the Rio Conventions** (2024)
-   14 citations · General CDR
+   16 citations · General CDR
 
 2. **Fair carbon removal obligations under climate response uncertainty** (2025)
    5 citations · General CDR
 
-3. **Exploring Real Zero definitions** (2026)
+3. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
    0 citations · General CDR
 
-4. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+4. **Exploring Real Zero definitions** (2026)
    0 citations · General CDR
 
-5. **Preventive carbon dioxide removal under climate response uncertainty** (2025)
+5. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+   0 citations · General CDR
+
+6. **Preventive carbon dioxide removal under climate response uncertainty** (2025)
    0 citations · General CDR
 
 ## External Profiles

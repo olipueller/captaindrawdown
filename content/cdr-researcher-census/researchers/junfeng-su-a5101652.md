@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
-description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.082486
+description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.033678
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 49 |
-| Citations | 7,192 |
+| h-index | 51 |
+| Citations | 7,455 |
 | Publications | 266 |
 | CDR Focus | 5.3% |
 | Trajectory | Declining |
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of nitrate and diethyl phthalate using a novel sponge–based biocarrier combined modified walnut shell biochar with Fe3O4 in the immobilized bioreactor** (2021)
-   72 citations · Biochar
+   73 citations · Biochar
 
 2. **Magnetite-loaded rice husk biochar promoted the denitrification performance of Aquabacterium sp. XL4 under low carbon to nitrogen ratio: Optimization and mechanism** (2022)
-   70 citations · Biochar
+   72 citations · Biochar
 
 3. **Removal of oxytetracycline from wastewater by biochar modified with biosynthesized iron oxide nanoparticles and carbon nanotubes: Modification performance and adsorption mechanism** (2023)
-   35 citations · Biochar
+   37 citations · Biochar
 
 4. **Nano iron tetroxide-modified rice husk biochar promoted Feammox performance of Klebsiella sp. FC61 and synergistically removed Ni2+ and ciprofloxacin** (2023)
    30 citations · Biochar
@@ -74,11 +74,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 8. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
    21 citations · Biochar
 
-9. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
+9. **Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization** (2024)
    20 citations · Biochar
 
-10. **Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization** (2024)
-   18 citations · Biochar
+10. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
+   20 citations · Biochar
 
 ## External Profiles
 

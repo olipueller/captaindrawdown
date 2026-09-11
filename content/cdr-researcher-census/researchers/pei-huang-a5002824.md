@@ -1,7 +1,7 @@
 ---
 title: "Pei Huang"
-description: "Pei Huang is a Mid-career General CDR researcher at Yunnan University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.524427
+description: "Pei Huang is a Mid-career General CDR researcher at Sichuan Normal University in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.454375
 url: "/cdr-researcher-census/researchers/pei-huang-a5002824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pei-huang-a5002824/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yunnan University"
+    "name": "Sichuan Normal University"
   },
   "sameAs": "https://openalex.org/A5002824765"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Pei Huang**  
-Yunnan University · 🇨🇳 CN
+Sichuan Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 483 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 525 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   89 citations
+   93 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   45 citations · General CDR
+   48 citations · General CDR
 
 3. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
    4 citations · General CDR

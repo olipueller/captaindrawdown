@@ -1,7 +1,7 @@
 ---
 title: "Olivier Sulpis"
-description: "Olivier Sulpis is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 66 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.386816
+description: "Olivier Sulpis is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 67 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.336736
 url: "/cdr-researcher-census/researchers/olivier-sulpis-a5000406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 717 |
-| Publications | 66 |
-| CDR Focus | 7.6% |
+| Citations | 739 |
+| Publications | 67 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

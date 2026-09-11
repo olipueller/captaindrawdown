@@ -1,7 +1,7 @@
 ---
 title: "Melani Cortijos‐López"
 description: "Melani Cortijos‐López is a Mid-career Soil Carbon researcher at Instituto Pirenaico de Ecología in ES. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.214289
+date: 2026-09-11T02:38:30.122220
 url: "/cdr-researcher-census/researchers/melani-cortijoslopez-a5047443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 139 |
+| Citations | 155 |
 | Publications | 19 |
 | CDR Focus | 31.6% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Shrub clearing and extensive livestock as a strategy for enhancing ecosystem services in degraded Mediterranean mid-mountain areas** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **How do acid or alkaline soil environments affect soil organic carbon stocks in a post-abandonment secondary succession process in Mediterranean mountain areas?** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **A strategy to enhance soil quality and <scp>soil organic carbon</scp> stock in abandoned lands: Pasture regeneration through shrub clearing** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **How acidic or alkaline soils affect SOC stock in a post-abandonment secondary succession process: a case study in th Mediterranean mid-mountains.** (2023)
    0 citations · Soil Carbon

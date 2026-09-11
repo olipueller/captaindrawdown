@@ -1,7 +1,7 @@
 ---
 title: "Jan Steinhauser"
-description: "Jan Steinhauser is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.685214
+description: "Jan Steinhauser is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.626761
 url: "/cdr-researcher-census/researchers/jan-steinhauser-a5062853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 340 |
-| Publications | 30 |
-| CDR Focus | 16.7% |
-| Trajectory | Declining |
+| Citations | 357 |
+| Publications | 34 |
+| CDR Focus | 17.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 2. **Climate policy for a net-zero future: ten recommendations for Direct Air Capture** (2022)
-   76 citations · DAC
+   77 citations · DAC
 
 3. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR
@@ -68,10 +68,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Author Correction: Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    1 citations · General CDR
 
-7. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
+7. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
    0 citations · BECCS
 
-8. **The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower** (2023)
+8. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
+   0 citations · BECCS
+
+9. **The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower** (2023)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Petra Luláková"
-description: "Petra Luláková is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.326757
+description: "Petra Luláková is a Mid-career Soil Carbon researcher at Sewanee: The University of the South in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.288229
 url: "/cdr-researcher-census/researchers/petra-lulakova-a5037395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Petra Lul\u00e1kov\u00e1",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/petra-lulakova-a5037395/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sewanee: The University of the South"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6743-5357",
     "https://openalex.org/A5037395695"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Petra Luláková**
+**Petra Luláková**  
+Sewanee: The University of the South · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 117 |
+| Citations | 120 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

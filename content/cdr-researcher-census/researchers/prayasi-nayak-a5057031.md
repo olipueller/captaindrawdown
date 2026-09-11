@@ -1,7 +1,7 @@
 ---
 title: "Prayasi Nayak"
 description: "Prayasi Nayak is a Mid-career Ocean CDR researcher at Sri Sri University in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.206812
+date: 2026-09-11T02:38:30.111543
 url: "/cdr-researcher-census/researchers/prayasi-nayak-a5057031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 140 |
+| Citations | 157 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The global potential of seaweed farming for carbon sequestration and removal** (2024)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 ## External Profiles
 

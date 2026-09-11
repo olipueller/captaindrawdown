@@ -1,7 +1,7 @@
 ---
 title: "Anita Kumawat"
-description: "Anita Kumawat is a Mid-career Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 63 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.363536
+description: "Anita Kumawat is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.308441
 url: "/cdr-researcher-census/researchers/anita-kumawat-a5044790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Anita Kumawat**  
 ICAR Indian Institute of Soil and Water Conservation · 🇮🇳 IN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 776 |
+| h-index | 17 |
+| Citations | 810 |
 | Publications | 63 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
-   80 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 2. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   19 citations · General CDR
+   22 citations · General CDR
 
 3. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Soil Amendments: An Ecofriendly Approach for Soil Health Improvement and Sustainable Oilseed Production** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Crop Residue Management: A Novel Technique for Restoring Soil Health and Sustainable Intensification in India** (2021)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 6. **Impact of Long-Term Agroforestry Systems on Carbon Pools and Sequestration in Top and Deep Soil Layers of Semi-Arid Region of Western India** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 7. **Carbon farming: Innovations, potential, and challenges for sustainable future** (2025)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Thirawit Prasert"
 description: "Thirawit Prasert is a Mid-career Biochar researcher at Khon Kaen University in TH. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.216822
+date: 2026-09-11T02:38:30.180709
 url: "/cdr-researcher-census/researchers/thirawit-prasert-a5061315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 138 |
+| Citations | 141 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of catalytic ozonation catalyzed by TiO2 activated carbon and biochar on dissolved organic matter removal and disinfection by-product formations investigated by Orbitrap mass spectrometry** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Characterization of molecular dissolved organic matter removed by modified eucalyptus-based biochar and disinfection by-product formation potential using Orbitrap mass spectrometric analysis** (2022)
    18 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Xiang Tu"
-description: "Xiang Tu is a Mid-career Biochar researcher at Jiangxi Provincial Institute of Water Resources Planning and Design in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.397535
+description: "Xiang Tu is a Mid-career Biochar researcher at Jiangxi Provincial Institute of Water Resources Planning and Design in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.296788
 url: "/cdr-researcher-census/researchers/xiang-tu-a5062716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 104 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 7 |
+| Citations | 118 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis of corncob biochar with high surface area by <scp>KOH</scp> activation for <scp>VOC</scp> adsorption: effect of <scp>KOH</scp> addition method** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

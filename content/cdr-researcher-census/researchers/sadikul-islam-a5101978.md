@@ -1,7 +1,7 @@
 ---
 title: "Sadikul Islam"
 description: "Sadikul Islam is a Mid-career Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.528869
+date: 2026-09-11T02:38:29.478105
 url: "/cdr-researcher-census/researchers/sadikul-islam-a5101978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 478 |
+| Citations | 492 |
 | Publications | 50 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    3 citations · Soil Carbon
 
 4. **Impact of slope gradient on tree biomass, carbon sequestration, and ecological functions in Rayagada District, Odisha, India** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Experimental study of the effect of tillage gradient along the slope transect on soil respiration rates under agricultural fields of Indian Himalaya** (2024)
    0 citations · Soil Carbon

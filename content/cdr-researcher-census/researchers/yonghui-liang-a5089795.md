@@ -1,7 +1,7 @@
 ---
 title: "Yonghui Liang"
-description: "Yonghui Liang is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.965630
+description: "Yonghui Liang is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.847765
 url: "/cdr-researcher-census/researchers/yonghui-liang-a5089795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yonghui-liang-a5089795/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Institute of Technology"
+    "name": "Shihezi University"
   },
   "sameAs": "https://openalex.org/A5089795402"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yonghui Liang**  
-Beijing Institute of Technology · 🇨🇳 CN
+Shihezi University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 209 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| h-index | 10 |
+| Citations | 237 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multi-objective optimization of saline water irrigation in arid oasis regions: Integrating water-saving, salinity control, yield enhancement, and CO2 emission reduction for sustainable cotton production** (2023)
-   29 citations · General CDR
+   30 citations · General CDR
 
 2. **Synergy between aerated drip and biodegradable film enhances sustainable maize production in arid oasis** (2025)
    12 citations · Soil Carbon

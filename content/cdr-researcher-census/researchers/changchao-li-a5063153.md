@@ -1,7 +1,7 @@
 ---
 title: "Changchao Li"
-description: "Changchao Li is a Senior Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 65 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.156720
+description: "Changchao Li is a Senior Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102805
 url: "/cdr-researcher-census/researchers/changchao-li-a5063153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 2,318 |
-| Publications | 65 |
-| CDR Focus | 6.2% |
+| h-index | 21 |
+| Citations | 2,450 |
+| Publications | 75 |
+| CDR Focus | 5.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
-   26 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Interference of microplastics on autotrophic microbiome in paddy soils: Shifts in carbon fixation rate, structure, abundance, co-occurrence, and assembly process** (2024)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Microorganisms Directly Affected Sediment Carbon–Nitrogen Coupling in Two Constructed Wetlands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Effects of herb Alternanthera philoxeroides invasion on soil organic matter varied with flooding conditions in wetlands** (2025)
    3 citations · Soil Carbon

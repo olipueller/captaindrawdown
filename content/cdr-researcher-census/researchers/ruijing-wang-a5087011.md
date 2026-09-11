@@ -1,7 +1,7 @@
 ---
 title: "Ruijing Wang"
-description: "Ruijing Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.178215
+description: "Ruijing Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.058431
 url: "/cdr-researcher-census/researchers/ruijing-wang-a5087011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 147 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| h-index | 8 |
+| Citations | 173 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
    3 citations

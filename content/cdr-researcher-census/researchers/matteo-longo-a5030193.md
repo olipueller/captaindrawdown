@@ -1,7 +1,7 @@
 ---
 title: "Matteo Longo"
-description: "Matteo Longo is a Mid-career Soil Carbon researcher at University of Padua in IT. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.844022
+description: "Matteo Longo is a Mid-career Soil Carbon researcher at University of Padua in IT. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.766830
 url: "/cdr-researcher-census/researchers/matteo-longo-a5030193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 250 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 275 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **How water table level influences C balance under different fertilization regimes** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Modeling perspectives on soil carbon sequestration in Mediterranean regions: a comparison of process-based and statistical models in the croplands of Northern Greece** (2025)
    0 citations · Soil Carbon

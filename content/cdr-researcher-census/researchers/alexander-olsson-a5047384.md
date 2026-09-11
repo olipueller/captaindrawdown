@@ -1,7 +1,7 @@
 ---
 title: "Alexander Olsson"
-description: "Alexander Olsson is a Mid-career General CDR researcher at Södertörn University in SE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.810097
+description: "Alexander Olsson is a Mid-career General CDR researcher at Södertörn University in SE. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.758145
 url: "/cdr-researcher-census/researchers/alexander-olsson-a5047384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 267 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| h-index | 9 |
+| Citations | 278 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   24 citations · BECCS
+   26 citations · BECCS
 
 2. **Expectations on biochar as a climate solution in Sweden: Carbon dioxide removal with environmental co-benefits** (2024)
    1 citations · Biochar

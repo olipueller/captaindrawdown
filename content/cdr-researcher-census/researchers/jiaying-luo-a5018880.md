@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Luo"
-description: "Jiaying Luo is a Mid-career Soil Carbon researcher at ShanghaiTech University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286305
+description: "Jiaying Luo is a Mid-career Soil Carbon researcher at ShanghaiTech University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.238712
 url: "/cdr-researcher-census/researchers/jiaying-luo-a5018880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 130 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

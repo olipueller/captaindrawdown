@@ -1,7 +1,7 @@
 ---
 title: "Hongjian Hao"
-description: "Hongjian Hao is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.348120
+description: "Hongjian Hao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.268791
 url: "/cdr-researcher-census/researchers/hongjian-hao-a5101374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongjian-hao-a5101374/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Northwest A&F University"
   },
   "sameAs": "https://openalex.org/A5101374738"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongjian Hao**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 113 |
-| Publications | 10 |
-| CDR Focus | 30.0% |
+| Citations | 124 |
+| Publications | 9 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
    12 citations · Soil Carbon
 
 3. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

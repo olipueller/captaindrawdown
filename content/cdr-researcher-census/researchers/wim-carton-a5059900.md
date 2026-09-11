@@ -1,7 +1,7 @@
 ---
 title: "Wim Carton"
-description: "Wim Carton is a Senior General CDR researcher at Lund University Samhällsvetenskapliga fakulteten in SE. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155179
+description: "Wim Carton is a Senior General CDR researcher at Lund University Samhällsvetenskapliga fakulteten in SE. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102000
 url: "/cdr-researcher-census/researchers/wim-carton-a5059900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,358 |
-| Publications | 59 |
-| CDR Focus | 13.6% |
+| Citations | 2,468 |
+| Publications | 60 |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Why residual emissions matter right now** (2023)
-   183 citations · General CDR
+   189 citations · General CDR
 
 2. **Is carbon removal delaying emission reductions?** (2023)
-   122 citations · General CDR
+   124 citations · General CDR
 
 3. **Net zero and the unexplored politics of residual emissions** (2023)
-   68 citations · General CDR
+   71 citations · General CDR
 
-4. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
+4. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
+   46 citations · General CDR
+
+5. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
    44 citations · General CDR
 
-5. **Seize the Means of Carbon Removal: The Political Economy of Direct Air Capture** (2021)
-   41 citations · DAC
-
-6. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
-   39 citations · General CDR
+6. **Seize the Means of Carbon Removal: The Political Economy of Direct Air Capture** (2021)
+   43 citations · DAC
 
 7. **Why Residual Emissions Matter Right Now** (2022)
    11 citations · General CDR

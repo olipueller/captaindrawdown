@@ -1,7 +1,7 @@
 ---
 title: "Soheil Abdpour"
 description: "Soheil Abdpour is a Mid-career Biochar researcher at Heinrich Heine University Düsseldorf in DE. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.547443
+date: 2026-09-11T02:38:29.498143
 url: "/cdr-researcher-census/researchers/soheil-abdpour-a5066714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 459 |
+| Citations | 470 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of pozzolan and sugarcane bagasse derived geopolymer-biochar composites for methylene blue sequestration from aqueous medium** (2022)
-   48 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

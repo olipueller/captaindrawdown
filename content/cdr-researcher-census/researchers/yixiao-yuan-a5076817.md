@@ -1,7 +1,7 @@
 ---
 title: "Yixiao Yuan"
 description: "Yixiao Yuan is an Early-career Soil Carbon researcher at Beijing Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.306980
+date: 2026-09-11T02:38:30.215557
 url: "/cdr-researcher-census/researchers/yixiao-yuan-a5076817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 121 |
+| Citations | 134 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An evaluation of topsoil carbon storage in Chinese deserts** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

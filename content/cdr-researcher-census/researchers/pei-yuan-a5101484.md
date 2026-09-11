@@ -1,7 +1,7 @@
 ---
 title: "Pei Yuan"
-description: "Pei Yuan is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.563355
+description: "Pei Yuan is a Senior Soil Carbon researcher at Xi'an University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.522653
 url: "/cdr-researcher-census/researchers/pei-yuan-a5101484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Pei Yuan**  
 Xi'an University of Technology · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 443 |
+| Citations | 446 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Substitution Increases Soil Organic Carbon Accumulation by Altering the Bacterial Carbon Metabolism in Dry Farmland** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

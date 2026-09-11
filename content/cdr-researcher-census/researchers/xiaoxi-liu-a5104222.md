@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxi Liu"
 description: "Xiaoxi Liu is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.178531
+date: 2026-09-11T02:38:30.098823
 url: "/cdr-researcher-census/researchers/xiaoxi-liu-a5104222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 147 |
+| Citations | 161 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differences in organic carbon accumulation in mangrove soils due to foraging by herbivorous crabs** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ning Chai"
-description: "Ning Chai is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.000334
+description: "Ning Chai is a Mid-career Soil Carbon researcher at Peoples' Friendship University of Russia in RU. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.940808
 url: "/cdr-researcher-census/researchers/ning-chai-a5028493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ning-chai-a5028493/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Education of the People's Republic of China"
+    "name": "Peoples' Friendship University of Russia"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2870-1653",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ning Chai**  
-Ministry of Education of the People's Republic of China · 🇨🇳 CN
+Peoples' Friendship University of Russia · 🇷🇺 RU
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 197 |
+| Citations | 209 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

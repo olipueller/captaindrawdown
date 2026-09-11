@@ -1,7 +1,7 @@
 ---
 title: "Elisa López‐Capél"
 description: "Elisa López‐Capél is a Senior Soil Carbon researcher at Newcastle University in GB. With 62 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092045
+date: 2026-09-11T02:38:29.043542
 url: "/cdr-researcher-census/researchers/elisa-lopezcapel-a5015924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 5,731 |
+| Citations | 5,808 |
 | Publications | 62 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Diversified crop rotations and organic amendments as strategies for increasing soil carbon storage and stabilisation in UK arable systems** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Biochar benefits carbon off-setting in blue-green infrastructure soils - A lysimeter study** (2022)
-   16 citations · Biochar
+   17 citations · Biochar
 
 3. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Biochar for Carbon Off-Setting in Blue-Green Infrastructure Soils - a Lysimeter Study** (2022)
    0 citations · Biochar

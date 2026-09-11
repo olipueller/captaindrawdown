@@ -1,7 +1,7 @@
 ---
 title: "Fanqi Jing"
 description: "Fanqi Jing is a Mid-career Biochar researcher at Guangdong Provincial Academy of Environmental Science in CN. With 17 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.293154
+date: 2026-09-11T02:38:29.241479
 url: "/cdr-researcher-census/researchers/fanqi-jing-a5045540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,023 |
+| Citations | 1,051 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interactions between biochar and clay minerals in changing biochar carbon stability** (2021)
-   106 citations · Biochar
+   110 citations · Biochar
 
 2. **Mechanistic insight into adsorptive removal of ionic NOR and nonionic DEP organic contaminates by clay-biochar composites** (2022)
    37 citations · Biochar

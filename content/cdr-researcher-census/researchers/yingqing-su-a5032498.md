@@ -1,7 +1,7 @@
 ---
 title: "Yingqing Su"
-description: "Yingqing Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.090736
+description: "Yingqing Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.013663
 url: "/cdr-researcher-census/researchers/yingqing-su-a5032498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 170 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 5 |
+| Citations | 186 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

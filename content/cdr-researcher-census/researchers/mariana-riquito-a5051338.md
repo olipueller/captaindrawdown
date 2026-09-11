@@ -1,7 +1,7 @@
 ---
 title: "Mariana Riquito"
-description: "Mariana Riquito is a Mid-career General CDR researcher at Netherlands Institute for Social Research in NL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853765
+description: "Mariana Riquito is a Mid-career General CDR researcher at Netherlands Institute for Social Research in NL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.802658
 url: "/cdr-researcher-census/researchers/mariana-riquito-a5051338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 244 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 257 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

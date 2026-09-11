@@ -1,7 +1,7 @@
 ---
 title: "Maya Almaraz"
-description: "Maya Almaraz is a Mid-career General CDR researcher at Yale University in US. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.269254
+description: "Maya Almaraz is a Mid-career General CDR researcher at Yale University in US. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.213679
 url: "/cdr-researcher-census/researchers/maya-almaraz-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,149 |
-| Publications | 53 |
-| CDR Focus | 18.9% |
+| Citations | 1,205 |
+| Publications | 56 |
+| CDR Focus | 19.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   42 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 2. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 3. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   36 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 5. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
-   21 citations · General CDR
+   22 citations · General CDR
 
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
    3 citations · General CDR
 
-10. **Soil management practices can contribute to net carbon neutrality in California** (2024)
-   2 citations · General CDR
+10. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

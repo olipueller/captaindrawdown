@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhu"
-description: "Jianhua Zhu is a Senior Soil Carbon researcher at Xinjiang Uygur Autonomous Region Institute of Metrology and Measurement in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.437948
+description: "Jianhua Zhu is a Senior Soil Carbon researcher at Xinjiang Uygur Autonomous Region Institute of Metrology and Measurement in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.383110
 url: "/cdr-researcher-census/researchers/jianhua-zhu-a5012091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 614 |
+| h-index | 13 |
+| Citations | 637 |
 | Publications | 38 |
 | CDR Focus | 13.2% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration of Chinese forests from 2010 to 2060: spatiotemporal dynamics and its regulatory strategies** (2021)
-   190 citations · Soil Carbon
+   192 citations · Soil Carbon
 
 2. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 3. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
    34 citations
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · General CDR
 
 5. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Season-Dependent Temperature Effects on Soil Respiration in a Subtropical Pinus Massoniana Forest** (2021)
    0 citations · Soil Carbon

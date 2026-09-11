@@ -1,7 +1,7 @@
 ---
 title: "Freddy S. Navarro‐Pineda"
 description: "Freddy S. Navarro‐Pineda is a Mid-career DAC researcher at Autonomous University of Yucatán in MX. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.577728
+date: 2026-09-11T02:38:29.529963
 url: "/cdr-researcher-census/researchers/freddy-s-navarropineda-a5055607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 429 |
+| Citations | 438 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic and life cycle assessment of power-to-formic acid production using direct air capture and green hydrogen** (2025)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

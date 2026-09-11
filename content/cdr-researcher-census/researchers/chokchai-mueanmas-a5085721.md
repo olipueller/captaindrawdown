@@ -1,7 +1,7 @@
 ---
 title: "Chokchai Mueanmas"
-description: "Chokchai Mueanmas is a Senior BECCS researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.969404
+description: "Chokchai Mueanmas is a Senior BECCS researcher at Thaksin University in TH. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.918486
 url: "/cdr-researcher-census/researchers/chokchai-mueanmas-a5085721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Chokchai Mueanmas",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chokchai-mueanmas-a5085721/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Thaksin University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2326-3092",
     "https://openalex.org/A5085721548"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Chokchai Mueanmas**
+**Chokchai Mueanmas**  
+Thaksin University · 🇹🇭 TH
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 207 |
+| Citations | 210 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Lux"
 description: "Benjamin Lux is a Senior General CDR researcher at Fraunhofer Institute for Systems and Innovation Research in DE. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.494855
+date: 2026-09-11T02:38:29.438122
 url: "/cdr-researcher-census/researchers/benjamin-lux-a5009129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 523 |
+| Citations | 549 |
 | Publications | 24 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potentials of direct air capture and storage in a greenhouse gas-neutral European energy system** (2022)
-   47 citations · DAC
+   48 citations · DAC
 
 2. **Potentials of Direct Air Capture and Storage in a Greenhouse Gas-Neutral European Energy System** (2022)
    6 citations · DAC

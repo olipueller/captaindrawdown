@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Thévenot"
-description: "Mathieu Thévenot is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.260752
+description: "Mathieu Thévenot is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.209130
 url: "/cdr-researcher-census/researchers/mathieu-thevenot-a5013931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,193 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 1,227 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Impact of fire exclusion and aspect on soil carbon fractions in Afromontane grasslands, Cathedral Peak, South Africa** (2024)
-   3 citations · Soil Carbon
+1. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2026)
+   3 citations
 
-2. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2026)
-   2 citations
+2. **Impact of fire exclusion and aspect on soil carbon fractions in Afromontane grasslands, Cathedral Peak, South Africa** (2024)
+   3 citations · Soil Carbon
 
 3. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
    1 citations · Biochar

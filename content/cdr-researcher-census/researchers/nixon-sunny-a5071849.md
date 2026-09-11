@@ -1,7 +1,7 @@
 ---
 title: "Nixon Sunny"
-description: "Nixon Sunny is a Mid-career General CDR researcher at Imperial College London in GB. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.185263
+description: "Nixon Sunny is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.132649
 url: "/cdr-researcher-census/researchers/nixon-sunny-a5071849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nixon-sunny-a5071849/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Imperial College London"
+    "name": "Saudi Aramco (Saudi Arabia)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2353-8263",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nixon Sunny**  
-Imperial College London · 🇬🇧 GB
+Saudi Aramco (Saudi Arabia) · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,844 |
-| Publications | 36 |
-| CDR Focus | 25.0% |
+| Citations | 1,922 |
+| Publications | 39 |
+| CDR Focus | 23.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
-   91 citations · General CDR
+   96 citations · General CDR
 
 2. **Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies** (2022)
-   86 citations · General CDR
+   87 citations · General CDR
 
 3. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 4. **Tools and options for hydrogen and CCS cluster development and acceleration – UK case study, ELEGANCY project** (2021)
    11 citations · General CDR

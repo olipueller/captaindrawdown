@@ -1,7 +1,7 @@
 ---
 title: "Aleksandar I. Goranov"
-description: "Aleksandar I. Goranov is a Mid-career Soil Carbon researcher at Skidaway Institute of Oceanography in US. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.387764
+description: "Aleksandar I. Goranov is a Mid-career Soil Carbon researcher at Skidaway Institute of Oceanography in US. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.329179
 url: "/cdr-researcher-census/researchers/aleksandar-i-goranov-a5044297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 716 |
-| Publications | 56 |
-| CDR Focus | 5.4% |
+| h-index | 17 |
+| Citations | 758 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

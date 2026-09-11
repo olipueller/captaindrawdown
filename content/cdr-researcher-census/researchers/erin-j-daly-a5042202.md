@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Daly"
-description: "Erin J. Daly is a Senior Soil Carbon researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.752803
+description: "Erin J. Daly is a Senior Soil Carbon researcher at University of Guelph in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.697813
 url: "/cdr-researcher-census/researchers/erin-j-daly-a5042202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/erin-j-daly-a5042202/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Alberta"
+    "name": "University of Guelph"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7061-9405",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Erin J. Daly**  
-University of Alberta · 🇨🇦 CA
+University of Guelph · 🇨🇦 CA
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 297 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 310 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    51 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi community linkages to soil nutrient availability across contrasting agroecosystems** (2022)
-   29 citations
+   30 citations
 
 3. **Carbon and water dynamics of a perennial versus an annual grain crop in temperate agroecosystems** (2022)
    23 citations · Soil Carbon

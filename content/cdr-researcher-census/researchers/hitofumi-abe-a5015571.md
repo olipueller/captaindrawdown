@@ -1,7 +1,7 @@
 ---
 title: "Hitofumi Abe"
 description: "Hitofumi Abe is a Senior Soil Carbon researcher at University of Papua New Guinea in PG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.517342
+date: 2026-09-11T02:38:29.472561
 url: "/cdr-researcher-census/researchers/hitofumi-abe-a5015571/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 492 |
+| Citations | 499 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

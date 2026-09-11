@@ -1,7 +1,7 @@
 ---
 title: "Anne Wambui Mumbi"
 description: "Anne Wambui Mumbi is a Mid-career Soil Carbon researcher at Writtle University College in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.349773
+date: 2026-09-11T02:38:30.289215
 url: "/cdr-researcher-census/researchers/anne-wambui-mumbi-a5061842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 113 |
+| Citations | 120 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

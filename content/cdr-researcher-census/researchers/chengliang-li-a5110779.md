@@ -1,7 +1,7 @@
 ---
 title: "Chengliang Li"
-description: "Chengliang Li is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.190893
+description: "Chengliang Li is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.141791
 url: "/cdr-researcher-census/researchers/chengliang-li-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,778 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| Citations | 1,796 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   62 citations · Soil Carbon
+1. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
+   63 citations · Soil Carbon
 
-2. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   61 citations · Soil Carbon
+2. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
+   63 citations · Soil Carbon
 
 3. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   28 citations
+   30 citations
 
 4. **Microbial community structure in rhizosphere soil rather than that in bulk soil characterizes aggregate-associated organic carbon under long-term forest conversion in subtropical region** (2021)
    17 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jesús Aguilera-Huertas"
 description: "Jesús Aguilera-Huertas is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.924549
+date: 2026-09-11T02:38:29.864557
 url: "/cdr-researcher-census/researchers/jesus-aguilera-huertas-a5064786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 217 |
+| Citations | 230 |
 | Publications | 28 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 4. **What Influence Does Conventional Tillage Have on the Ability of Soils to Sequester Carbon, Stabilise It and Become Saturated in the Medium Term? A Case Study in a Traditional Rainfed Olive Grove** (2022)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Alley cropping associated with conservation tillage can promote short-term soil aggregation and carbon sequestration in European woody crops** (2026)
    1 citations · Soil Carbon

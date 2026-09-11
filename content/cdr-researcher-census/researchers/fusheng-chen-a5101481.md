@@ -1,7 +1,7 @@
 ---
 title: "Fusheng Chen"
 description: "Fusheng Chen is a Senior Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.613281
+date: 2026-09-11T02:38:29.557329
 url: "/cdr-researcher-census/researchers/fusheng-chen-a5101481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 396 |
+| Citations | 412 |
 | Publications | 35 |
 | CDR Focus | 8.6% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Diversity of Arbuscular Mycorrhizal Fungi (AMF) and Its and Role in Nutrient Recycling and Availability in Subtropical Forest Ecosystem of China: A Review** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Nutrient enrichment weakens the positive feedback of soil organic carbon decomposition to short-term warming in subtropical forests** (2025)
    1 citations · Soil Carbon

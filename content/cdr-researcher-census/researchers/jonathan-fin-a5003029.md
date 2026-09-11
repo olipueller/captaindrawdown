@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Fin"
-description: "Jonathan Fin is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.882142
+description: "Jonathan Fin is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.838295
 url: "/cdr-researcher-census/researchers/jonathan-fin-a5003029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 233 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 241 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
    8 citations · General CDR

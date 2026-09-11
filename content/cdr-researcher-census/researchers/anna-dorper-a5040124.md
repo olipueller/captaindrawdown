@@ -1,7 +1,7 @@
 ---
 title: "Anna Dörper"
-description: "Anna Dörper is a Mid-career DAC researcher at Wageningen University & Research in NL. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.021326
+description: "Anna Dörper is a Mid-career DAC researcher at Wageningen University & Research in NL. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.964390
 url: "/cdr-researcher-census/researchers/anna-dorper-a5040124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 190 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 200 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

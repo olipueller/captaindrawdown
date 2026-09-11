@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
-description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 551 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.063550
+description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 556 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.016740
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 90 |
-| Citations | 24,092 |
-| Publications | 551 |
-| CDR Focus | 5.8% |
+| Citations | 24,405 |
+| Publications | 556 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   119 citations
+   122 citations
 
 2. **Potential of no-till agriculture as a nature-based solution for climate-change mitigation in Brazil** (2022)
-   59 citations · General CDR
+   60 citations · General CDR
 
 3. **Changes in soil carbon and soil carbon sequestration potential under different types of pasture management in Brazil** (2022)
    49 citations · Soil Carbon
@@ -63,19 +63,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations
 
 5. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   24 citations · General CDR
+   25 citations · General CDR
 
-6. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
-   16 citations · General CDR
+6. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
+   17 citations · Soil Carbon
 
-7. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
-   15 citations · Soil Carbon
+7. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
+   17 citations · General CDR
 
 8. **Simulation of changes in C and N stocks with land use and cover in Amazon Forest-Cerrado transition environment** (2021)
    14 citations · Soil Carbon
 
 9. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
-   12 citations · General CDR
+   13 citations · General CDR
 
 10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
    11 citations · BECCS

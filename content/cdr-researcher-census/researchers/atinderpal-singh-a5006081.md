@@ -1,7 +1,7 @@
 ---
 title: "Atinderpal Singh"
 description: "Atinderpal Singh is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.648414
+date: 2026-09-11T02:38:29.589887
 url: "/cdr-researcher-census/researchers/atinderpal-singh-a5006081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 367 |
+| Citations | 385 |
 | Publications | 16 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

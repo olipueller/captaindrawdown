@@ -1,7 +1,7 @@
 ---
 title: "Stephen J. Romaniello"
-description: "Stephen J. Romaniello is a Senior Enhanced Weathering researcher at Arizona State University in US. With 166 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.102458
+description: "Stephen J. Romaniello is a Senior Enhanced Weathering researcher at Arizona State University in US. With 168 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.052854
 url: "/cdr-researcher-census/researchers/stephen-j-romaniello-a5079734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 39 |
-| Citations | 4,641 |
-| Publications | 166 |
+| Citations | 4,737 |
+| Publications | 168 |
 | CDR Focus | 5.4% |
 | Trajectory | Declining |
 
@@ -74,10 +74,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
    1 citations
 
-9. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
-   0 citations · Enhanced Weathering
+9. **Is anomalous molybdenum isotope fractionation in Proterozoic ocean analogue driven by colloidal organic matter?** (2026)
+   0 citations
 
-10. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+10. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

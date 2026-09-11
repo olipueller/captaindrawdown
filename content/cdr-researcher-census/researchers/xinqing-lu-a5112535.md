@@ -1,7 +1,7 @@
 ---
 title: "Xinqing Lu"
 description: "Xinqing Lu is a Mid-career Soil Carbon researcher at Handan College in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.021417
+date: 2026-09-11T02:38:29.910971
 url: "/cdr-researcher-census/researchers/xinqing-lu-a5112535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 190 |
+| Citations | 213 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Climate-management interactions drive soil organic carbon sequestration potential in China's croplands during 2020–2060** (2025)
    11 citations · General CDR

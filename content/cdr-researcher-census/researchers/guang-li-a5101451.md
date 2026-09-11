@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
-description: "Guang Li is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.796655
+description: "Guang Li is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.749467
 url: "/cdr-researcher-census/researchers/guang-li-a5101451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 274 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
+| h-index | 8 |
+| Citations | 283 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

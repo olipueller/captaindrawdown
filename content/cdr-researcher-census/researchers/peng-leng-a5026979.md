@@ -1,7 +1,7 @@
 ---
 title: "Peng Leng"
 description: "Peng Leng is a Mid-career Biochar researcher at Fujian Normal University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.587209
+date: 2026-09-11T02:38:29.518330
 url: "/cdr-researcher-census/researchers/peng-leng-a5026979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 420 |
+| Citations | 450 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   356 citations · Biochar
+   369 citations · Biochar
 
 2. **Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil** (2022)
-   33 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

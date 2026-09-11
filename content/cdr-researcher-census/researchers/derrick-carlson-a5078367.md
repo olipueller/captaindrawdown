@@ -1,7 +1,7 @@
 ---
 title: "Derrick Carlson"
 description: "Derrick Carlson is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911087
+date: 2026-09-11T02:38:29.865740
 url: "/cdr-researcher-census/researchers/derrick-carlson-a5078367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 221 |
+| Citations | 229 |
 | Publications | 19 |
 | CDR Focus | 42.1% |
 | Trajectory | Declining |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Technoeconomic and Life Cycle Analysis for Bio-Energy with Carbon Capture and Storage (BECCS) Baseline** (2021)
-   10 citations · BECCS
+   12 citations · BECCS
 
 2. **LCA-TEA of Sorbent-Based Direct Air Capture with Temperature-Vacuum Swing Adsorption Model** (2025)
    0 citations · DAC

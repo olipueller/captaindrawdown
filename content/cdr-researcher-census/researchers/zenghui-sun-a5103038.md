@@ -1,7 +1,7 @@
 ---
 title: "Zenghui Sun"
-description: "Zenghui Sun is a Mid-career Soil Carbon researcher at Qilu University of Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.034871
+description: "Zenghui Sun is a Mid-career Soil Carbon researcher at Qilu University of Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.984300
 url: "/cdr-researcher-census/researchers/zenghui-sun-a5103038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 187 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 195 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Mingzhen Zhang"
-description: "Mingzhen Zhang is a Mid-career Biochar researcher at Xiamen University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.110137
+description: "Mingzhen Zhang is a Mid-career Biochar researcher at Xiamen University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.059878
 url: "/cdr-researcher-census/researchers/mingzhen-zhang-a5100717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 165 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 173 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **High-efficient co-removal of copper and zinc by modified biochar derived from tea stalk: Characteristics, adsorption behaviors, and mechanisms** (2023)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

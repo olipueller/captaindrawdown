@@ -1,7 +1,7 @@
 ---
 title: "Arun Bhattacharyya"
-description: "Arun Bhattacharyya is a Senior General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.984331
+description: "Arun Bhattacharyya is a Senior General CDR researcher at Lockheed Martin (United States) in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.949234
 url: "/cdr-researcher-census/researchers/arun-bhattacharyya-a5060223/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Arun Bhattacharyya",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/arun-bhattacharyya-a5060223/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Lockheed Martin (United States)"
+  },
   "sameAs": "https://openalex.org/A5060223306"
 }
 </script>
 
 ## Profile
 
-**Arun Bhattacharyya**
+**Arun Bhattacharyya**  
+Lockheed Martin (United States) · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 202 |
+| Citations | 206 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

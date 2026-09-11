@@ -1,7 +1,7 @@
 ---
 title: "Sié Sylvestre Da"
-description: "Sié Sylvestre Da is a Mid-career Biochar researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.005585
+description: "Sié Sylvestre Da is a Mid-career Biochar researcher at West African Science Service Centre on Climate Change and Adapted Land Use in GH. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.952995
 url: "/cdr-researcher-census/researchers/sie-sylvestre-da-a5076363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Si\u00e9 Sylvestre Da",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sie-sylvestre-da-a5076363/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "West African Science Service Centre on Climate Change and Adapted Land Use"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8284-4589",
     "https://openalex.org/A5076363107"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Sié Sylvestre Da**
+**Sié Sylvestre Da**  
+West African Science Service Centre on Climate Change and Adapted Land Use ·  GH
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 195 |
+| Citations | 204 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

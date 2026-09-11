@@ -1,7 +1,7 @@
 ---
 title: "Govind Kumar Yadav"
-description: "Govind Kumar Yadav is an Early-career DAC researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.366082
+description: "Govind Kumar Yadav is an Early-career DAC researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.334612
 url: "/cdr-researcher-census/researchers/govind-kumar-yadav-a5069321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Govind Kumar Yadav",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/govind-kumar-yadav-a5069321/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Swami Keshwanand Rajasthan Agricultural University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0996-0783",
     "https://openalex.org/A5069321580"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Govind Kumar Yadav**
+**Govind Kumar Yadav**  
+Swami Keshwanand Rajasthan Agricultural University · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
@@ -38,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 110 |
+| Citations | 111 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

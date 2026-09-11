@@ -1,7 +1,7 @@
 ---
 title: "Hanna Poffenbarger"
-description: "Hanna Poffenbarger is a Senior Soil Carbon researcher at University of Kentucky in US. With 80 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.120433
+description: "Hanna Poffenbarger is a Senior Soil Carbon researcher at University of Kentucky in US. With 81 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.068548
 url: "/cdr-researcher-census/researchers/hanna-poffenbarger-a5001258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 3,530 |
-| Publications | 80 |
-| CDR Focus | 5.0% |
+| h-index | 30 |
+| Citations | 3,683 |
+| Publications | 81 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Litter quality and living roots affected the formation of new mineral-associated organic carbon but did not affect total mineral-associated organic carbon in a short-term incubation** (2022)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Contributions of plant breeding to soil carbon storage: Retrospect and prospects** (2023)
    28 citations · Soil Carbon
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **Tracing the source of organic carbon in particulate and mineral-associated soil fractions in response to tillage and nitrogen fertilization intensities** (2026)
    1 citations · Soil Carbon
+
+6. **The role of continuous living roots in soil carbon sequestration efficiency: A meta-analysis of carbon stocks and inputs in contrasting agricultural systems** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

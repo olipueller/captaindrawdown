@@ -1,7 +1,7 @@
 ---
 title: "Mariem Saadani"
 description: "Mariem Saadani is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.223008
+date: 2026-09-11T02:38:30.169430
 url: "/cdr-researcher-census/researchers/mariem-saadani-a5009207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 137 |
+| Citations | 144 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Abiotic and biotic drivers of tree trait effects on soil microbial biomass and soil carbon concentration** (2022)
-   44 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Tree diversity effects on litter decomposition are mediated by litterfall and microbial processes** (2023)
    31 citations · Soil Carbon

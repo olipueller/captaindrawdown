@@ -1,7 +1,7 @@
 ---
 title: "Azad Singh Panwar"
 description: "Azad Singh Panwar is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.513753
+date: 2026-09-11T02:38:29.454457
 url: "/cdr-researcher-census/researchers/azad-singh-panwar-a5104088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 496 |
+| Citations | 524 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term impact of organic and inorganic fertilizers on soil organic carbon dynamics in a rice‐ wheat system** (2022)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Caiyue Zhang"
 description: "Caiyue Zhang is a Mid-career Biochar researcher at Qingdao University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056695
+date: 2026-09-11T02:38:30.016188
 url: "/cdr-researcher-census/researchers/caiyue-zhang-a5061630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 180 |
+| Citations | 185 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-applying biochar and manganese ore can improve the formation and stability of humic acid during co-composting of sewage sludge and corn straw** (2022)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

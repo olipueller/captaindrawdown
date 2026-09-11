@@ -1,7 +1,7 @@
 ---
 title: "Margarita A. Charalambous"
 description: "Margarita A. Charalambous is a Mid-career General CDR researcher at ETH Zurich in CH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.906342
+date: 2026-09-11T02:38:29.849108
 url: "/cdr-researcher-census/researchers/margarita-a-charalambous-a5067951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 223 |
+| Citations | 236 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   39 citations
+   41 citations
 
 2. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
    8 citations · General CDR

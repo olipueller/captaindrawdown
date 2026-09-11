@@ -1,7 +1,7 @@
 ---
 title: "Kok Loong Yeong"
-description: "Kok Loong Yeong is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.481932
+description: "Kok Loong Yeong is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.429768
 url: "/cdr-researcher-census/researchers/kok-loong-yeong-a5006137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 541 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
+| Citations | 564 |
+| Publications | 20 |
+| CDR Focus | 15.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   156 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 2. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   71 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 3. **Quantifying CO<sub>2 </sub>removal via enhanced rock weathering in constrasting croplands** (2021)
    0 citations · Enhanced Weathering

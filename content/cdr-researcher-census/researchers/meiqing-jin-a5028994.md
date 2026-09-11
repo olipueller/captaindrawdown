@@ -1,7 +1,7 @@
 ---
 title: "Meiqing Jin"
-description: "Meiqing Jin is a Senior Biochar researcher at California University of Pennsylvania in US. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198743
+description: "Meiqing Jin is a Senior Biochar researcher at California University of Pennsylvania in US. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.145141
 url: "/cdr-researcher-census/researchers/meiqing-jin-a5028994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,21 +42,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,688 |
-| Publications | 59 |
-| CDR Focus | 5.1% |
+| h-index | 25 |
+| Citations | 1,756 |
+| Publications | 66 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
+1. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
    4 citations · Biochar
 
-2. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
-   1 citations · Biochar
+2. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
+   4 citations · Biochar
 
-3. **Biochar-induced strong microbial carbon limitation prompts organic carbon sequestration and plant growth in antibiotic-contaminated soil** (2025)
+3. **Formation, Stability, and Mobility of Biochar Colloids in Soil Environments** (2026)
+   3 citations · Biochar
+
+4. **Biochar-induced strong microbial carbon limitation prompts organic carbon sequestration and plant growth in antibiotic-contaminated soil** (2025)
    0 citations · Biochar
 
 ## External Profiles

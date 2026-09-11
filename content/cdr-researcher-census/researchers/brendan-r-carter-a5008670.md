@@ -1,7 +1,7 @@
 ---
 title: "Brendan R. Carter"
-description: "Brendan R. Carter is a Senior Ocean CDR researcher at CICOES in US. With 131 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.101473
+description: "Brendan R. Carter is a Senior Ocean CDR researcher at CICOES in US. With 137 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.051922
 url: "/cdr-researcher-census/researchers/brendan-r-carter-a5008670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 4,679 |
-| Publications | 131 |
-| CDR Focus | 10.7% |
+| h-index | 33 |
+| Citations | 4,790 |
+| Publications | 137 |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   97 citations · General CDR
+   101 citations · General CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   38 citations · General CDR
+   39 citations · General CDR
 
 3. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   28 citations · Ocean CDR
+   36 citations · Ocean CDR
 
 4. **An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021** (2021)
    23 citations · General CDR
@@ -66,19 +66,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    21 citations · General CDR
 
 6. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   16 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 7. **Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle** (2025)
-   11 citations · Ocean CDR
+   15 citations · Ocean CDR
 
 8. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 9. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
    8 citations · General CDR
 
 10. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Duminda N. Vidana Gamage"
 description: "Duminda N. Vidana Gamage is a Mid-career Soil Carbon researcher at University of Peradeniya in LK. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.835834
+date: 2026-09-11T02:38:29.797464
 url: "/cdr-researcher-census/researchers/duminda-n-vidana-gamage-a5013331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 254 |
+| Citations | 260 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

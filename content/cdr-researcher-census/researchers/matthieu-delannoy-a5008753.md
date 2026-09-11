@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
 description: "Matthieu Delannoy is a Mid-career Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505661
+date: 2026-09-11T02:38:29.458665
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 506 |
+| Citations | 517 |
 | Publications | 92 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of organochlorinated pesticides: Adsorption kinetic and adsorption isotherm study** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **Organochlorine POPs sequestration strategy by carbonaceous amendments of contaminated soils: Toward a better understanding of the transfer reduction to laying hens** (2022)
    11 citations
 
-3. **In vitro and in vivo assessment of a CLD sequestration strategy in Nitisol using contrasted carbonaceous materials** (2021)
-   8 citations
+3. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
+   8 citations · Biochar
 
-4. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
-   7 citations · Biochar
+4. **In vitro and in vivo assessment of a CLD sequestration strategy in Nitisol using contrasted carbonaceous materials** (2021)
+   8 citations
 
 5. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Cao Feng"
-description: "Cao Feng is a Senior Soil Carbon researcher at Virginia University of Lynchburg in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.290791
+description: "Cao Feng is a Senior Soil Carbon researcher at Virginia University of Lynchburg in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.253670
 url: "/cdr-researcher-census/researchers/cao-feng-a5046406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 124 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 5 |
+| Citations | 127 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unraveling depth-dependent patterns of soil physicochemical properties: the role of integrated fertilization regimes in apple orchard profiles** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Depth-stratified soil enzyme activities and stoichiometric responses to integrated fertilization in apple orchard profiles on the Loess Plateau** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

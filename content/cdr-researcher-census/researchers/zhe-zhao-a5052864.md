@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhao"
-description: "Zhe Zhao is a Senior General CDR researcher at Kunming Medical University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.464738
+description: "Zhe Zhao is a Senior General CDR researcher at Taizhou University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.405992
 url: "/cdr-researcher-census/researchers/zhe-zhao-a5052864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhe-zhao-a5052864/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kunming Medical University"
+    "name": "Taizhou University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2199-5022",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhe Zhao**  
-Kunming Medical University · 🇨🇳 CN
+Taizhou University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 568 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 598 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   59 citations · Biochar
+   60 citations · Biochar
 
 2. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
    17 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Xuhui Zhang"
-description: "Xuhui Zhang is an Eminent Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 134 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.077055
+description: "Xuhui Zhang is an Eminent Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 137 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.029271
 url: "/cdr-researcher-census/researchers/xuhui-zhang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 45 |
-| Citations | 8,506 |
-| Publications | 134 |
-| CDR Focus | 5.2% |
+| h-index | 47 |
+| Citations | 8,729 |
+| Publications | 137 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Long-term elevated CO2 and warming enhance microbial necromass carbon accumulation in a paddy soil** (2021)
-   54 citations
+   56 citations
 
 3. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
    47 citations · Soil Carbon
 
 4. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
-   34 citations · Biochar
+   37 citations · Biochar
 
 5. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
    26 citations · Biochar

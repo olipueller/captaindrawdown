@@ -1,7 +1,7 @@
 ---
 title: "Mingdian Zhou"
 description: "Mingdian Zhou is a Mid-career Biochar researcher at Central South University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.479588
+date: 2026-09-11T02:38:29.435015
 url: "/cdr-researcher-census/researchers/mingdian-zhou-a5071538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 545 |
+| Citations | 555 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon- and metal-based mediators modulate anaerobic methanogenesis and phenol removal: Focusing on stimulatory and inhibitory mechanism** (2021)
-   48 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

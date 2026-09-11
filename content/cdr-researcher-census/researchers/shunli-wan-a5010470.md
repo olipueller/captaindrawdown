@@ -1,7 +1,7 @@
 ---
 title: "Shunli Wan"
-description: "Shunli Wan is a Senior Biochar researcher at Huangshan University in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.194595
+description: "Shunli Wan is a Senior Biochar researcher at Huangshan University in CN. With 44 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.143795
 url: "/cdr-researcher-census/researchers/shunli-wan-a5010470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,736 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| h-index | 20 |
+| Citations | 1,772 |
+| Publications | 44 |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

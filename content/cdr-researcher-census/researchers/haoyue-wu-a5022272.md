@@ -1,7 +1,7 @@
 ---
 title: "Haoyue Wu"
-description: "Haoyue Wu is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.446332
+description: "Haoyue Wu is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.391595
 url: "/cdr-researcher-census/researchers/haoyue-wu-a5022272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 599 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 14 |
+| Citations | 623 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

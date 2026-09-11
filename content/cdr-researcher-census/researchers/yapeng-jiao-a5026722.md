@@ -1,7 +1,7 @@
 ---
 title: "Yapeng Jiao"
-description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.683471
+description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.596235
 url: "/cdr-researcher-census/researchers/yapeng-jiao-a5026722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 342 |
-| Publications | 9 |
-| CDR Focus | 88.9% |
-| Trajectory | Declining |
+| h-index | 7 |
+| Citations | 380 |
+| Publications | 10 |
+| CDR Focus | 90.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 3. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 4. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon

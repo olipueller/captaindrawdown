@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Harguinteguy"
 description: "Carlos A. Harguinteguy is a Senior Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.516187
+date: 2026-09-11T02:38:29.471506
 url: "/cdr-researcher-census/researchers/carlos-a-harguinteguy-a5042165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 493 |
+| Citations | 499 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

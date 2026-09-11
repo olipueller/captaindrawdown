@@ -1,7 +1,7 @@
 ---
 title: "Emma J. Sayer"
 description: "Emma J. Sayer is a Senior Soil Carbon researcher at University of Ulm in DE. With 146 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092332
+date: 2026-09-11T02:38:29.043073
 url: "/cdr-researcher-census/researchers/emma-j-sayer-a5050783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 39 |
-| Citations | 5,712 |
+| Citations | 5,867 |
 | Publications | 146 |
 | CDR Focus | 6.8% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aboveground litter inputs determine carbon storage across soil profiles: a meta-analysis** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Distinct storage mechanisms of soil organic carbon in coniferous forest and evergreen broadleaf forest in tropical China** (2021)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **Soil carbon storage is related to tree functional composition in naturally regenerating tropical forests** (2022)
    36 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Sili Peng"
 description: "Sili Peng is a Senior Biochar researcher at Nanjing Forestry University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.603502
+date: 2026-09-11T02:38:29.554237
 url: "/cdr-researcher-census/researchers/sili-peng-a5016727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 404 |
+| Citations | 415 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Stable |

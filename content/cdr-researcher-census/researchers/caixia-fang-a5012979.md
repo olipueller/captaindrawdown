@@ -1,7 +1,7 @@
 ---
 title: "Caixia Fang"
-description: "Caixia Fang is a Senior Biochar researcher at Liaocheng University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.858494
+description: "Caixia Fang is a Senior Biochar researcher at Anhui Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.829082
 url: "/cdr-researcher-census/researchers/caixia-fang-a5012979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/caixia-fang-a5012979/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Liaocheng University"
+    "name": "Anhui Normal University"
   },
   "sameAs": "https://openalex.org/A5012979710"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Caixia Fang**  
-Liaocheng University · 🇨🇳 CN
+Anhui Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 242 |
+| Citations | 245 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

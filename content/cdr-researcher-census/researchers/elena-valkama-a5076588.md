@@ -1,7 +1,7 @@
 ---
 title: "Elena Valkama"
-description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.172811
+description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 91 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122805
 url: "/cdr-researcher-census/researchers/elena-valkama-a5076588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,034 |
-| Publications | 85 |
-| CDR Focus | 12.9% |
+| Citations | 2,072 |
+| Publications | 91 |
+| CDR Focus | 12.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **New pedotransfer approaches to predict soil bulk density using WoSIS soil data and environmental covariates in Mediterranean agro-ecosystems** (2021)
-   80 citations
+   81 citations
 
 2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   37 citations · General CDR
+   39 citations · General CDR
 
 3. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 4. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 5. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2025)
    3 citations · General CDR

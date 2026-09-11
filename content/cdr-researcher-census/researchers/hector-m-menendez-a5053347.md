@@ -1,7 +1,7 @@
 ---
 title: "Hector M Menendez"
-description: "Hector M Menendez is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 67 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.512653
+description: "Hector M Menendez is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 67 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.457409
 url: "/cdr-researcher-census/researchers/hector-m-menendez-a5053347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 497 |
+| h-index | 11 |
+| Citations | 519 |
 | Publications | 67 |
 | CDR Focus | 6.0% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Applying Systems Thinking to Sustainable Beef Production Management: Modeling-Based Evidence for Enhancing Ecosystem Services** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Soil carbon fraction responses to grazing intensity and texture in a semiarid grassland** (2026)
    1 citations · Soil Carbon

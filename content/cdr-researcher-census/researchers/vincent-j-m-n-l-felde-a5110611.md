@@ -1,7 +1,7 @@
 ---
 title: "Vincent J. M. N. L. Felde"
 description: "Vincent J. M. N. L. Felde is a Mid-career Soil Carbon researcher at Leibniz University Hannover in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.201498
+date: 2026-09-11T02:38:30.149055
 url: "/cdr-researcher-census/researchers/vincent-j-m-n-l-felde-a5110611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 142 |
+| Citations | 149 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

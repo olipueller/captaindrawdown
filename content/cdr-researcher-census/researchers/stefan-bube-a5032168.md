@@ -1,7 +1,7 @@
 ---
 title: "Stefan Bube"
-description: "Stefan Bube is a Mid-career General CDR researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.803795
+description: "Stefan Bube is a Mid-career General CDR researcher at Universität Hamburg in DE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.715760
 url: "/cdr-researcher-census/researchers/stefan-bube-a5032168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Stefan Bube",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stefan-bube-a5032168/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universit\u00e4t Hamburg"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-7623-3773",
     "https://openalex.org/A5032168185"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Stefan Bube**
+**Stefan Bube**  
+Universität Hamburg · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 270 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 300 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Derrick Vaughn"
 description: "Derrick Vaughn is a Senior Soil Carbon researcher at Utah State University in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.567756
+date: 2026-09-11T02:38:29.501928
 url: "/cdr-researcher-census/researchers/derrick-vaughn-a5001930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 439 |
+| Citations | 467 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Using loss-on-ignition to estimate total nitrogen content of mangrove soils** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Sediment stratigraphy in NYC salt marsh reveals extensive wetland loss, heavy metal pollution and blue carbon release** (2025)
    2 citations · Soil Carbon

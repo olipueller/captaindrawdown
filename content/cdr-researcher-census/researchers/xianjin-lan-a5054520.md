@@ -1,7 +1,7 @@
 ---
 title: "Xianjin Lan"
-description: "Xianjin Lan is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.822208
+description: "Xianjin Lan is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.766184
 url: "/cdr-researcher-census/researchers/xianjin-lan-a5054520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xianjin-lan-a5054520/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangxi Institute of Red Soil"
+    "name": "Institute of Agricultural Resources and Regional Planning"
   },
   "sameAs": "https://openalex.org/A5054520119"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xianjin Lan**  
-Jiangxi Institute of Red Soil · 🇨🇳 CN
+Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 261 |
-| Publications | 13 |
-| CDR Focus | 23.1% |
+| Citations | 275 |
+| Publications | 14 |
+| CDR Focus | 21.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of long-term manure substitution regimes on soil organic carbon composition in a red paddy soil of southern China** (2022)
-   71 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon

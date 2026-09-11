@@ -1,7 +1,7 @@
 ---
 title: "Giuliano Marchi"
-description: "Giuliano Marchi is a Senior Enhanced Weathering researcher at Empresa Brasileira de Pesquisa Agropecuária in BR. With 76 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.448294
+description: "Giuliano Marchi is a Senior Enhanced Weathering researcher at Empresa Brasileira de Pesquisa Agropecuária in BR. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.403450
 url: "/cdr-researcher-census/researchers/giuliano-marchi-a5041552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 596 |
-| Publications | 76 |
-| CDR Focus | 5.3% |
+| Citations | 602 |
+| Publications | 77 |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,11 +53,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 1. **Impact of Silicate Agrominerals on Charge Generation in Cerrado Soil** (2026)
    2 citations · Enhanced Weathering
 
-2. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
-   1 citations · Enhanced Weathering
+2. **Co-Pyrolysis of Sewage Sludge and Zeolitic Basalt: Physicochemical Characterization, Stability and Carbon Sequestration Potential** (2025)
+   2 citations · Biochar
 
-3. **Co-Pyrolysis of Sewage Sludge and Zeolitic Basalt: Physicochemical Characterization, Stability and Carbon Sequestration Potential** (2025)
-   1 citations · Biochar
+3. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
+   1 citations · Enhanced Weathering
 
 4. **AGROGEOLOGICAL POTENTIAL OF SCHISTS FROM THE RIO DAS VELHAS SUPERGROUP: A STUDY OF THE WASTE ROCK FROM THE ITABIRA IRON MINE, MG** (2026)
    0 citations

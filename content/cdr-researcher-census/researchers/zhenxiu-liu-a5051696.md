@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiu Liu"
-description: "Zhenxiu Liu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.625913
+description: "Zhenxiu Liu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.557894
 url: "/cdr-researcher-census/researchers/zhenxiu-liu-a5051696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 385 |
+| h-index | 10 |
+| Citations | 411 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Acid rain reduces plant-photosynthesized carbon sequestration and soil microbial network complexity** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

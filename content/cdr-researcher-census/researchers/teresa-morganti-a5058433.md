@@ -1,7 +1,7 @@
 ---
 title: "Teresa Morganti"
-description: "Teresa Morganti is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.461984
+description: "Teresa Morganti is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.415673
 url: "/cdr-researcher-census/researchers/teresa-morganti-a5058433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 573 |
-| Publications | 35 |
-| CDR Focus | 14.3% |
+| Citations | 584 |
+| Publications | 37 |
+| CDR Focus | 13.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations
 
 5. **Monitoring marine carbon dioxide removal: quantitative analysis of indicators for carbon removed and environmental side-effects** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 6. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

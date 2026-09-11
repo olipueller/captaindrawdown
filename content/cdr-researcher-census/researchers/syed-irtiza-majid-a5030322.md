@@ -1,7 +1,7 @@
 ---
 title: "Syed Irtiza Majid"
-description: "Syed Irtiza Majid is a Mid-career Soil Carbon researcher at Central University of Haryana in IN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.801476
+description: "Syed Irtiza Majid is a Mid-career Soil Carbon researcher at Central University of Haryana in IN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.734423
 url: "/cdr-researcher-census/researchers/syed-irtiza-majid-a5030322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 272 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 291 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

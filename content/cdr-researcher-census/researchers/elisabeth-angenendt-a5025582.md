@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Angenendt"
-description: "Elisabeth Angenendt is a Senior General CDR researcher at University of Hohenheim in DE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.626262
+description: "Elisabeth Angenendt is a Senior General CDR researcher at University of Hohenheim in DE. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.573006
 url: "/cdr-researcher-census/researchers/elisabeth-angenendt-a5025582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 385 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| Citations | 400 |
+| Publications | 46 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

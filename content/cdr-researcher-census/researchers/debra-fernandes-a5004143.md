@@ -1,7 +1,7 @@
 ---
 title: "Debra Fernandes"
-description: "Debra Fernandes is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.367925
+description: "Debra Fernandes is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.323436
 url: "/cdr-researcher-census/researchers/debra-fernandes-a5004143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 763 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Citations | 775 |
+| Publications | 23 |
+| CDR Focus | 17.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,13 +50,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study** (2022)
    9 citations · DAC
 
-2. **Reclaiming Water from a Direct Air Capture Plant Using Vacuum Membrane Distillation – a Bench-Scale Study** (2022)
+2. **Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate** (2026)
+   1 citations · DAC
+
+3. **Reclaiming Water from a Direct Air Capture Plant Using Vacuum Membrane Distillation – a Bench-Scale Study** (2022)
    1 citations
 
-3. **Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate** (2026)
+4. **Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture** (2026)
    0 citations · DAC
 
-4. **Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate** (2026)
+5. **Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate** (2026)
    0 citations · DAC
 
 ## External Profiles

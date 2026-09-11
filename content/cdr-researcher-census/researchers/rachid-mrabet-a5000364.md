@@ -1,7 +1,7 @@
 ---
 title: "Rachid Mrabet"
-description: "Rachid Mrabet is a Senior Soil Carbon researcher at Institut National de la Recherche Agronomique in MA. With 115 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.147834
+description: "Rachid Mrabet is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 121 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.098212
 url: "/cdr-researcher-census/researchers/rachid-mrabet-a5000364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rachid-mrabet-a5000364/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institut National de la Recherche Agronomique"
+    "name": "National Agricultural Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0311-193X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rachid Mrabet**  
-Institut National de la Recherche Agronomique ·  MA
+National Agricultural Research Institute ·  PG
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,529 |
-| Publications | 115 |
-| CDR Focus | 6.1% |
+| Citations | 2,569 |
+| Publications | 121 |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Modeling the effects of farming management practices on soil organic carbon stock under two tillage practices in a semi-arid region, Morocco** (2021)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Modeling Soil Organic Carbon Changes under Alternative Climatic Scenarios and Soil Properties Using DNDC Model at a Semi-Arid Mediterranean Environment** (2022)
    18 citations · Soil Carbon

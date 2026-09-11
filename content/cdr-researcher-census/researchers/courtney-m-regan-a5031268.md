@@ -1,7 +1,7 @@
 ---
 title: "Courtney M. Regan"
 description: "Courtney M. Regan is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.976873
+date: 2026-09-11T02:38:29.941185
 url: "/cdr-researcher-census/researchers/courtney-m-regan-a5031268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 205 |
+| Citations | 209 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
-   0 citations · General CDR
+1. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
+   1 citations · General CDR
 
-2. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
+2. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
    0 citations · General CDR
 
 ## External Profiles

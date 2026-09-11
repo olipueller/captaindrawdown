@@ -1,7 +1,7 @@
 ---
 title: "Ward Goldthorpe"
 description: "Ward Goldthorpe is a Senior General CDR researcher. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.409846
+date: 2026-09-11T02:38:29.359922
 url: "/cdr-researcher-census/researchers/ward-goldthorpe-a5009025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 667 |
+| Citations | 687 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies** (2022)
-   86 citations · General CDR
+   87 citations · General CDR
 
 2. **Tools and options for hydrogen and CCS cluster development and acceleration – UK case study, ELEGANCY project** (2021)
    11 citations · General CDR

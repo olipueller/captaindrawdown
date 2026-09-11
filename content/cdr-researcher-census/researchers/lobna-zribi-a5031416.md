@@ -1,7 +1,7 @@
 ---
 title: "Lobna Zribi"
 description: "Lobna Zribi is a Senior Soil Carbon researcher at AgroParisTech in FR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853340
+date: 2026-09-11T02:38:29.811355
 url: "/cdr-researcher-census/researchers/lobna-zribi-a5031416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 245 |
+| Citations | 253 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of Pinus halepensis Forests’ Vulnerability Using the Temporal Dynamics of Carbon Stocks and Fire Traits in Tunisia** (2024)
-   6 citations
+   7 citations
 
 2. **Resprouting shrubs significantly contribute to Mediterranean forest carbon stocks with their root system** (2026)
    0 citations · Soil Carbon

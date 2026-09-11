@@ -1,7 +1,7 @@
 ---
 title: "Zhiyang Lie"
-description: "Zhiyang Lie is a Mid-career Enhanced Weathering researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.334555
+description: "Zhiyang Lie is a Mid-career Enhanced Weathering researcher at South China Botanical Garden in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.273109
 url: "/cdr-researcher-census/researchers/zhiyang-lie-a5028143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 859 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| h-index | 19 |
+| Citations | 921 |
+| Publications | 56 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration and storage capacity of Chinese fir at different stand ages** (2023)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Warming drives sustained plant phosphorus demand in a humid tropical forest** (2022)
    50 citations · Enhanced Weathering
 
 3. **Long‐term warming increased carbon sequestration capacity in a humid subtropical forest** (2023)
-   38 citations
+   40 citations
 
 4. **Carbon storage capacity of Castanopsis hystrix plantations at different stand–ages in South China** (2023)
-   25 citations · General CDR
+   26 citations · General CDR
 
 5. **Warming drives sustained plant phosphorus demand in a humid tropical forest** (2021)
    3 citations

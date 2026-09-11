@@ -1,7 +1,7 @@
 ---
 title: "Hanne Siikavirta"
 description: "Hanne Siikavirta is a Senior BECCS researcher at Ministry of the Environment in FI. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.378891
+date: 2026-09-11T02:38:29.331404
 url: "/cdr-researcher-census/researchers/hanne-siikavirta-a5036265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 736 |
+| Citations | 753 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

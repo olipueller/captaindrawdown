@@ -1,7 +1,7 @@
 ---
 title: "Jimena E. Chaves"
-description: "Jimena E. Chaves is a Senior Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.684909
+description: "Jimena E. Chaves is a Senior Soil Carbon researcher at National University of Tierra del Fuego in AR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.621513
 url: "/cdr-researcher-census/researchers/jimena-e-chaves-a5036408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jimena-e-chaves-a5036408/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas"
+    "name": "National University of Tierra del Fuego"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1684-3243",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jimena E. Chaves**  
-Consejo Nacional de Investigaciones Científicas y Técnicas ·  AR
+National University of Tierra del Fuego ·  AR
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 341 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 361 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Duy Anh Khuong"
 description: "Duy Anh Khuong is a Mid-career Biochar researcher at Kyushu Institute of Technology in JP. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.521346
+date: 2026-09-11T02:38:29.460886
 url: "/cdr-researcher-census/researchers/duy-anh-khuong-a5069441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 486 |
+| Citations | 513 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New Trends in Pyrolysis Methods: Opportunities, Limitations, and Advantages** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

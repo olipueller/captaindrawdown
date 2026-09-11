@@ -1,7 +1,7 @@
 ---
 title: "Huaxia Sheng"
-description: "Huaxia Sheng is a Mid-career Ocean CDR researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.536555
+description: "Huaxia Sheng is a Mid-career Ocean CDR researcher at Faculty of 1000 (United Kingdom) in GB. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.464905
 url: "/cdr-researcher-census/researchers/huaxia-sheng-a5083537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Huaxia Sheng",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huaxia-sheng-a5083537/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Faculty of 1000 (United Kingdom)"
+  },
   "sameAs": "https://openalex.org/A5083537766"
 }
 </script>
 
 ## Profile
 
-**Huaxia Sheng**
+**Huaxia Sheng**  
+Faculty of 1000 (United Kingdom) · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -34,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 469 |
+| h-index | 10 |
+| Citations | 507 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Chuanjie Yang"
 description: "Chuanjie Yang is a Senior Soil Carbon researcher at Hebei Medical University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.701572
+date: 2026-09-11T02:38:29.661603
 url: "/cdr-researcher-census/researchers/chuanjie-yang-a5111503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 330 |
+| Citations | 333 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

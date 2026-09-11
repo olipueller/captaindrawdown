@@ -1,7 +1,7 @@
 ---
 title: "Sining Liu"
-description: "Sining Liu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 95 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.309696
+description: "Sining Liu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 96 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.260180
 url: "/cdr-researcher-census/researchers/sining-liu-a5100638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 957 |
-| Publications | 95 |
-| CDR Focus | 5.3% |
+| h-index | 17 |
+| Citations | 977 |
+| Publications | 96 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fertilization effects on soil organic matter chemistry** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
-2. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
-   11 citations · Soil Carbon
+2. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
+   13 citations · Soil Carbon
 
-3. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
-   11 citations · Soil Carbon
+3. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
+   12 citations · Soil Carbon
 
 4. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
    4 citations · Soil Carbon

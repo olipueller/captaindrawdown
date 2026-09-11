@@ -1,7 +1,7 @@
 ---
 title: "Jocelyn M. Lavallee"
-description: "Jocelyn M. Lavallee is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 67 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.074842
+description: "Jocelyn M. Lavallee is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 69 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.026716
 url: "/cdr-researcher-census/researchers/jocelyn-m-lavallee-a5004577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 9,631 |
-| Publications | 67 |
-| CDR Focus | 11.9% |
+| Citations | 10,112 |
+| Publications | 69 |
+| CDR Focus | 11.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Different climate sensitivity of particulate and mineral-associated soil organic matter** (2021)
-   543 citations · Soil Carbon
+   555 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   121 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 3. **The robust concept of mineral‐associated organic matter saturation: A letter to Begill et al., 2023** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
-   26 citations · General CDR
+   28 citations · General CDR
 
 5. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
    24 citations · General CDR
 
 6. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   18 citations · General CDR
+   20 citations · General CDR
 
 7. **Systematic review reveals soil organic carbon benefits of alternative grazing depend on study quality** (2026)
    0 citations

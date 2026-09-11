@@ -1,7 +1,7 @@
 ---
 title: "Enrique E. Rozas"
 description: "Enrique E. Rozas is a Senior Ocean CDR researcher at Universidade de São Paulo in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.053729
+date: 2026-09-11T02:38:30.012704
 url: "/cdr-researcher-census/researchers/enrique-e-rozas-a5064811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 181 |
+| Citations | 186 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

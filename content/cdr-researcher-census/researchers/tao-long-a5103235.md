@@ -1,7 +1,7 @@
 ---
 title: "Tao Long"
-description: "Tao Long is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.072754
+description: "Tao Long is a Mid-career Biochar researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.012077
 url: "/cdr-researcher-census/researchers/tao-long-a5103235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tao Long",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tao-long-a5103235/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Xi'an University of Architecture and Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-2190-6675",
     "https://openalex.org/A5103235216"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Tao Long**  
-Xi'an University of Architecture and Technology · 🇨🇳 CN
+**Tao Long**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 175 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 186 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

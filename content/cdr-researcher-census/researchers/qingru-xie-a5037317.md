@@ -1,7 +1,7 @@
 ---
 title: "Qingru Xie"
 description: "Qingru Xie is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.993351
+date: 2026-09-11T02:38:29.948898
 url: "/cdr-researcher-census/researchers/qingru-xie-a5037317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 199 |
+| Citations | 206 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent Roles of Clay versus Iron (Hydr)oxide Minerals in Preserving Soil Organic Matter during Wildfire Heating** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

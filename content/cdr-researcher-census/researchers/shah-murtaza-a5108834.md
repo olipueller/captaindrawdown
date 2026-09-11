@@ -1,7 +1,7 @@
 ---
 title: "Shah Murtaza"
 description: "Shah Murtaza is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.354863
+date: 2026-09-11T02:38:30.285029
 url: "/cdr-researcher-census/researchers/shah-murtaza-a5108834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
+| Citations | 121 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |

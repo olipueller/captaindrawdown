@@ -1,7 +1,7 @@
 ---
 title: "Prakriti Bista"
-description: "Prakriti Bista is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.319820
+description: "Prakriti Bista is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.267383
 url: "/cdr-researcher-census/researchers/prakriti-bista-a5025192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,26 +43,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 912 |
-| Publications | 33 |
-| CDR Focus | 18.2% |
+| Citations | 947 |
+| Publications | 35 |
+| CDR Focus | 17.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation and soil carbon stabilization potential of forest biochar varied with biochar type and characteristics** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Simulating long-term soil carbon storage, greenhouse gas balance, and crop yields in semi-arid cropping systems using DayCent model** (2024)
-   19 citations · General CDR
+   20 citations · General CDR
 
 3. **Soil organic carbon recovery and soil health in semi-arid drylands with years of transition to perennial grasses** (2024)
    16 citations · Soil Carbon
 
-4. **Regenerative Agriculture for Soil Health and Sustainability in a Changing World** (2026)
-   0 citations · Soil Carbon
+4. **Enhancing soil carbon storage in water-limited environments with multispecies cover cropping: Insights from DayCent® model simulation** (2026)
+   1 citations · Soil Carbon
 
-5. **Enhancing soil carbon storage in water-limited environments with multispecies cover cropping: Insights from DayCent® model simulation** (2026)
+5. **Regenerative Agriculture for Soil Health and Sustainability in a Changing World** (2026)
    0 citations · Soil Carbon
 
 6. **Case Studies in America on Carbon Management and Sequestration in Agriculture** (2024)

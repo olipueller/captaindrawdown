@@ -1,7 +1,7 @@
 ---
 title: "Peng Liu"
-description: "Peng Liu is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.708083
+description: "Peng Liu is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.608167
 url: "/cdr-researcher-census/researchers/peng-liu-a5089906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 325 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 372 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Divergent Roles of Clay versus Iron (Hydr)oxide Minerals in Preserving Soil Organic Matter during Wildfire Heating** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

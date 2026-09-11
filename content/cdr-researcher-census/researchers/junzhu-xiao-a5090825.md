@@ -1,7 +1,7 @@
 ---
 title: "Junzhu Xiao"
-description: "Junzhu Xiao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.635064
+description: "Junzhu Xiao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.581439
 url: "/cdr-researcher-census/researchers/junzhu-xiao-a5090825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 378 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 393 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic-to-inorganic carbon conversion as a potential pathway for soil carbon sequestration in revegetated soils of the Loess Plateau** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
    0 citations · Soil Carbon

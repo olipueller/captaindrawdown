@@ -1,7 +1,7 @@
 ---
 title: "Xin-Peng Ji"
 description: "Xin-Peng Ji is a Mid-career Biochar researcher at Xi'an Polytechnic University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.293153
+date: 2026-09-11T02:38:30.267460
 url: "/cdr-researcher-census/researchers/xin-peng-ji-a5109418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 123 |
+| Citations | 124 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

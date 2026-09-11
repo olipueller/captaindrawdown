@@ -1,7 +1,7 @@
 ---
 title: "Meina Zhu"
-description: "Meina Zhu is a Senior Soil Carbon researcher at Wayne State College in US. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.162316
+description: "Meina Zhu is a Senior Soil Carbon researcher at Wayne State College in US. With 104 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.110253
 url: "/cdr-researcher-census/researchers/meina-zhu-a5024999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,32 +43,35 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,210 |
-| Publications | 102 |
-| CDR Focus | 5.9% |
+| Citations | 2,290 |
+| Publications | 104 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
+1. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
+   17 citations · Soil Carbon
+
+2. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
    16 citations · Soil Carbon
 
-2. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
-   15 citations · Soil Carbon
-
 3. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Farmland Afforestation by Poplar Shelterbelts Increased Soil Inorganic Carbon but Showed Ambiguous Effects on Soil Organic Carbon as Revealed by Carbon Isotopic Composition: Inter-Fraction and Inter-Site Differences in Northern China** (2025)
    5 citations · Soil Carbon
 
 5. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Mulberry (Morus alba L.) planting increased the abundance of soil carbon cycling functional genes by improving soil properties, and further enhanced the stability of soil carbon pool** (2025)
    1 citations · Soil Carbon
 
-7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
+7. **Higher NO 3 − ‐N Levels Under Mulberry ( Morus alba L.) Planting Enhanced CAZyme Abundance, Increasing Soil Carbon Stability** (2026)
+   0 citations
+
+8. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mira Abou Rjeily"
 description: "Mira Abou Rjeily is a Mid-career Biochar researcher at Université de Reims Champagne-Ardenne in FR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.991812
+date: 2026-09-11T02:38:29.913129
 url: "/cdr-researcher-census/researchers/mira-abou-rjeily-a5013473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 199 |
+| Citations | 212 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis-catalytic upgrading of bio-oil and pyrolysis-catalytic steam reforming of biogas: a review** (2021)
-   132 citations · Biochar
+   133 citations · Biochar
 
 ## External Profiles
 

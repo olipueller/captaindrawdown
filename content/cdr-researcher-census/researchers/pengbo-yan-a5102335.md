@@ -1,7 +1,7 @@
 ---
 title: "Pengbo Yan"
-description: "Pengbo Yan is a Mid-career General CDR researcher at Guilin University of Technology in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.509010
+description: "Pengbo Yan is a Mid-career General CDR researcher at College of Tourism in BG. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.451813
 url: "/cdr-researcher-census/researchers/pengbo-yan-a5102335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pengbo-yan-a5102335/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guilin University of Technology"
+    "name": "College of Tourism"
   },
   "sameAs": [
     "https://orcid.org/0009-0002-5124-0250",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pengbo Yan**  
-Guilin University of Technology · 🇨🇳 CN
+College of Tourism ·  BG
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 502 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 11 |
+| Citations | 529 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

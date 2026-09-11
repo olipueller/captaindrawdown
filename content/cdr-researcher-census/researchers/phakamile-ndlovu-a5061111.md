@@ -1,7 +1,7 @@
 ---
 title: "Phakamile Ndlovu"
-description: "Phakamile Ndlovu is a Mid-career DAC researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.885806
+description: "Phakamile Ndlovu is a Mid-career DAC researcher at Durban University of Technology in ZA. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.822467
 url: "/cdr-researcher-census/researchers/phakamile-ndlovu-a5061111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Phakamile Ndlovu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/phakamile-ndlovu-a5061111/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Durban University of Technology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0705-8200",
     "https://openalex.org/A5061111201"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Phakamile Ndlovu**
+**Phakamile Ndlovu**  
+Durban University of Technology · 🇿🇦 ZA
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 231 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 248 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture, storage and monitoring in geological landform** (2024)
-   29 citations · DAC
+   32 citations · DAC
 
 ## External Profiles
 

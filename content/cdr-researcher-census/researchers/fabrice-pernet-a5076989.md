@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
-description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 153 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.102325
+description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 160 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.052601
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 43 |
-| Citations | 4,643 |
-| Publications | 153 |
-| CDR Focus | 5.2% |
+| h-index | 44 |
+| Citations | 4,754 |
+| Publications | 160 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **The alkalinity generation potential of olivine and oyster shell for laboratory experiments: testing the effects of ocean alkalinity enhancement** (2025)
+1. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
    3 citations · Ocean CDR
 
-2. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
-   2 citations · Ocean CDR
+2. **The alkalinity generation potential of olivine and oyster shell for laboratory experiments: testing the effects of ocean alkalinity enhancement** (2025)
+   3 citations · Ocean CDR
 
 3. **Three challenges to marine carbon dioxide removal** (2026)
    1 citations · General CDR
 
-4. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
+4. **A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy** (2026)
+   1 citations · General CDR
+
+5. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement** (2026)
+   1 citations · General CDR
+
+6. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
    0 citations · Enhanced Weathering
 
-5. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
+7. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
    0 citations · Enhanced Weathering
 
-6. **A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy** (2026)
+8. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement** (2026)
    0 citations · General CDR
 
-7. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
-
-8. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy** (2026)
+9. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy** (2026)
    0 citations
-
-9. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
 
 10. **Keeping tabs on ocean alkalinity enhancement: effects of olivine dissolution on the embryonic and larval development of the Pacific oyster Magallana gigas  ** (2025)
    0 citations · General CDR

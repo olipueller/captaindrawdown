@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
-description: "Etienne Schneider is a Mid-career General CDR researcher. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.454046
+description: "Etienne Schneider is a Mid-career General CDR researcher at University of Vienna in AT. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.392670
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Etienne Schneider",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/etienne-schneider-a5089196/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Vienna"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-4243-7337",
     "https://openalex.org/A5089196024"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Etienne Schneider**
+**Etienne Schneider**  
+University of Vienna · 🇦🇹 AT
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 585 |
-| Publications | 42 |
-| CDR Focus | 11.9% |
+| Citations | 621 |
+| Publications | 43 |
+| CDR Focus | 14.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    46 citations · General CDR
 
 2. **Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries** (2024)
-   18 citations · General CDR
+   19 citations · General CDR
 
 3. **Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation** (2025)
    11 citations · General CDR
 
-4. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
-   8 citations · General CDR
+4. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
+   9 citations · General CDR
 
-5. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
-   6 citations · General CDR
+5. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
+   8 citations · General CDR
 
 6. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
    1 citations

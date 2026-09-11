@@ -1,7 +1,7 @@
 ---
 title: "Haoqin Yan"
-description: "Haoqin Yan is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.582533
+description: "Haoqin Yan is a Mid-career Biochar researcher at Hunan University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.574625
 url: "/cdr-researcher-census/researchers/haoqin-yan-a5113942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 425 |
-| Publications | 11 |
-| CDR Focus | 18.2% |
+| h-index | 8 |
+| Citations | 398 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

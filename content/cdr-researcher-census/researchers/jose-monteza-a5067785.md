@@ -1,7 +1,7 @@
 ---
 title: "José Monteza"
-description: "José Monteza is a Senior Soil Carbon researcher at Smithsonian Tropical Research Institute in PA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.406799
+description: "José Monteza is a Senior Soil Carbon researcher at Smithsonian Tropical Research Institute in PA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.358182
 url: "/cdr-researcher-census/researchers/jose-monteza-a5067785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,10 +40,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 103 |
-| Publications | 5 |
-| CDR Focus | 40.0% |
-| Trajectory | Stable |
+| Citations | 107 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

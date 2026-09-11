@@ -1,7 +1,7 @@
 ---
 title: "Yujiao Wen"
-description: "Yujiao Wen is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.628995
+description: "Yujiao Wen is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.592993
 url: "/cdr-researcher-census/researchers/yujiao-wen-a5052821/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,14 +41,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 |--------|-------|
 | h-index | 14 |
 | Citations | 382 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Publications | 21 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Novel α-amino acid-like structure decorated biochar for heavy metal remediation in acid soil** (2023)
-   46 citations · Biochar
+   47 citations · Biochar
 
 2. **High-efficiency degradation of quinclorac via peroxymonosulfate activated by N-doped CoFe2O4/Fe0@CEDTA hybrid catalyst** (2021)
    25 citations
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    17 citations · Biochar
 
 4. **Enhancing pyrolysis oil quality through in-situ catalytic pyrolysis of biochar with temperature-driven nitrogen configuration modulation: Mechanistic insights into the catalytic process** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

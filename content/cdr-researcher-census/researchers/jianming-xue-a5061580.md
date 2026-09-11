@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xue"
-description: "Jianming Xue is a Senior Soil Carbon researcher at Scion in NZ. With 131 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.099741
+description: "Jianming Xue is a Senior Soil Carbon researcher at Scion in NZ. With 135 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.050513
 url: "/cdr-researcher-census/researchers/jianming-xue-a5061580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 37 |
-| Citations | 4,751 |
-| Publications | 131 |
-| CDR Focus | 6.9% |
+| Citations | 4,891 |
+| Publications | 135 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Factors shaping soil organic carbon stocks in grass covered orchards across China: A meta-analysis** (2021)
-   79 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 2. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
    71 citations · Soil Carbon
 
 3. **Grass cover increases soil microbial abundance and diversity and extracellular enzyme activities in orchards: A synthesis across China** (2022)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 4. **Impact of nitrogen input from biosolids application on carbon sequestration in a Pinus radiata forest** (2022)
    13 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 7. **Sequential carbonization of pig manure biogas residue into engineered biochar for diethyl phthalate removal toward environmental sustainability** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 8. **Biochar derived from feedstock with high lignin content leads to better soil improvement performance in red soils: from the perspective of soil microbial regulation and carbon stabilization** (2025)
    4 citations · Biochar
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Micro-mesoporous biochars derived from the copyrolysis of agroforestry residue and eggshell for removing plasticizer from water** (2025)
    3 citations
 
-10. **Mixed Plantations Enhance More Soil Organic Carbon Stocks than Monocultures Across China: Implication for Optimizing Afforestation Strategies** (2021)
-   0 citations · Soil Carbon
+10. **Tunable nanoarchitectonics of porous biochar through sequential calcium and potassium salt activation for high-efficiency removal of emerging pollutants** (2026)
+   2 citations · Biochar
 
 ## External Profiles
 

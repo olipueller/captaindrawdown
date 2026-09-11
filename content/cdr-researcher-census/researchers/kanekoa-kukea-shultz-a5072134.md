@@ -1,7 +1,7 @@
 ---
 title: "Kānekoa Kukea-Shultz"
 description: "Kānekoa Kukea-Shultz is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.054571
+date: 2026-09-11T02:38:30.003774
 url: "/cdr-researcher-census/researchers/kanekoa-kukea-shultz-a5072134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 181 |
+| Citations | 189 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing Baseline Carbon Stocks for Forest Transitions: A Case Study of Agroforestry Restoration from Hawaiʻi** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jordan Poitras"
-description: "Jordan Poitras is a Mid-career Enhanced Weathering researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.912553
+description: "Jordan Poitras is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.867412
 url: "/cdr-researcher-census/researchers/jordan-poitras-a5064831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jordan Poitras",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jordan-poitras-a5064831/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The University of Queensland"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2248-5590",
     "https://openalex.org/A5064831304"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jordan Poitras**
+**Jordan Poitras**  
+The University of Queensland · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 221 |
-| Publications | 28 |
-| CDR Focus | 10.7% |
+| Citations | 229 |
+| Publications | 29 |
+| CDR Focus | 10.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    17 citations · Enhanced Weathering
 
 3. **Accelerated carbonate biomineralisation of Venetia diamond mine coarse residue deposit (CRD) material – A field trial study** (2023)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 4. **Microbe-mineral interactions within kimberlitic fine residue deposits: impacts on mineral carbonation** (2024)
    2 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Cui"
-description: "Jiaqi Cui is a Mid-career Biochar researcher at Qingdao University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.261365
+description: "Jiaqi Cui is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203752
 url: "/cdr-researcher-census/researchers/jiaqi-cui-a5103126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiaqi-cui-a5103126/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University"
+    "name": "Ministry of Education of the People's Republic of China"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5232-6107",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiaqi Cui**  
-Qingdao University · 🇨🇳 CN
+Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,188 |
-| Publications | 56 |
-| CDR Focus | 5.4% |
+| Citations | 1,257 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Underlying reasons and factors associated with changes in earthworm activities in response to biochar amendment: a review** (2023)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Insight into algae-derived boron-doped biochar for efficient peroxydisulfate activation: The dominant effect of electron-transfer processes** (2025)
    5 citations · Biochar

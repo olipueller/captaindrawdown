@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Wu"
-description: "Yuanyuan Wu is a Mid-career Soil Carbon researcher at Liaocheng University in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602265
+description: "Yuanyuan Wu is a Mid-career Soil Carbon researcher at Liaocheng University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.541759
 url: "/cdr-researcher-census/researchers/yuanyuan-wu-a5113206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 405 |
+| h-index | 12 |
+| Citations | 427 |
 | Publications | 43 |
 | CDR Focus | 7.0% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional Diversity Explains Ecosystem Carbon Storage in Subtropical Forests** (2025)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Decoding soil carbon and nitrogen dynamics: The integrated role of biotic and abiotic drivers in subtropical forests** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Soil microbial nutrient limitation and carbon use efficiency in relation to altitude and slope aspect in arid and semi-arid mountainous ecosystems** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anatoli Chatzipanagi"
-description: "Anatoli Chatzipanagi is a Senior DAC researcher at Joint Research Centre in IT. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.790996
+description: "Anatoli Chatzipanagi is a Senior DAC researcher at Joint Research Centre in IT. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.714195
 url: "/cdr-researcher-census/researchers/anatoli-chatzipanagi-a5065066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 277 |
+| h-index | 8 |
+| Citations | 301 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The Role of Direct Air Capture in EU’s Decarbonisation and Associated Carbon Intensity for Synthetic Fuels Production** (2023)
-   8 citations · DAC
+   10 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
-description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 166 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.110519
+description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 168 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.060850
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 34 |
-| Citations | 4,058 |
-| Publications | 166 |
+| Citations | 4,113 |
+| Publications | 168 |
 | CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
-   12 citations
+1. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
+   14 citations · Enhanced Weathering
 
-2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   11 citations · Enhanced Weathering
+2. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
+   13 citations
 
 3. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 4. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR

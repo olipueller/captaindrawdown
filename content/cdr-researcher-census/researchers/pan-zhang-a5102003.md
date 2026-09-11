@@ -1,7 +1,7 @@
 ---
 title: "Pan Zhang"
-description: "Pan Zhang is a Senior Soil Carbon researcher at Guangzhou University of Chinese Medicine in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.817018
+description: "Pan Zhang is a Senior Soil Carbon researcher at Guangzhou University of Chinese Medicine in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.723573
 url: "/cdr-researcher-census/researchers/pan-zhang-a5102003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 264 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 8 |
+| Citations | 297 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

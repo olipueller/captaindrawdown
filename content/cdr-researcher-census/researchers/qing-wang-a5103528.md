@@ -1,7 +1,7 @@
 ---
 title: "Qing Wang"
-description: "Qing Wang is a Senior Ocean CDR researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.354558
+description: "Qing Wang is a Senior Ocean CDR researcher at Yantai Institute of Coastal Zone Research in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.309701
 url: "/cdr-researcher-census/researchers/qing-wang-a5103528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qing-wang-a5103528/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Yantai Institute of Coastal Zone Research"
   },
   "sameAs": "https://openalex.org/A5103528321"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qing Wang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Yantai Institute of Coastal Zone Research · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 800 |
+| Citations | 807 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Gut microbial community plasticity as a climate shield mediating sea cucumber resilience to ocean acidification and warming** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

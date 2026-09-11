@@ -1,7 +1,7 @@
 ---
 title: "Michaela K. Reay"
-description: "Michaela K. Reay is a Mid-career Soil Carbon researcher at The University of Bristol in GB. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.418504
+description: "Michaela K. Reay is a Mid-career Soil Carbon researcher at The University of Bristol in GB. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341778
 url: "/cdr-researcher-census/researchers/michaela-k-reay-a5085149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 648 |
-| Publications | 71 |
-| CDR Focus | 7.0% |
+| h-index | 16 |
+| Citations | 725 |
+| Publications | 73 |
+| CDR Focus | 6.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 4. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jingli Fan"
 description: "Jingli Fan is a Mid-career General CDR researcher at China University of Mining and Technology in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.121324
+date: 2026-09-11T02:38:30.095726
 url: "/cdr-researcher-census/researchers/jingli-fan-a5080578/"
 layout: "researcher"
 hiddenInHomeList: true

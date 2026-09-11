@@ -1,7 +1,7 @@
 ---
 title: "Jiudong Zhang"
-description: "Jiudong Zhang is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.345097
+description: "Jiudong Zhang is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.277204
 url: "/cdr-researcher-census/researchers/jiudong-zhang-a5050290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 832 |
-| Publications | 53 |
-| CDR Focus | 11.3% |
+| Citations | 909 |
+| Publications | 55 |
+| CDR Focus | 10.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Temporal and spatial effects of crop diversity on soil carbon and nitrogen storage and vertical distribution** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Intercropping significantly elevates carbon sequestration by mitigating the decline in soil total carbon caused by excessive phosphorus-application** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Long-term green manuring reduces net greenhouse gas emissions in upland cropping systems in China** (2025)
    2 citations · General CDR

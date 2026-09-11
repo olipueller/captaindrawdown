@@ -1,7 +1,7 @@
 ---
 title: "Zhanli Ma"
-description: "Zhanli Ma is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849854
+description: "Zhanli Ma is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.736235
 url: "/cdr-researcher-census/researchers/zhanli-ma-a5010289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 247 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 11 |
+| Citations | 290 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Multi-objective optimization of saline water irrigation in arid oasis regions: Integrating water-saving, salinity control, yield enhancement, and CO2 emission reduction for sustainable cotton production** (2023)
-   29 citations · General CDR
+   30 citations · General CDR
 
 2. **Synergy between aerated drip and biodegradable film enhances sustainable maize production in arid oasis** (2025)
    12 citations · Soil Carbon

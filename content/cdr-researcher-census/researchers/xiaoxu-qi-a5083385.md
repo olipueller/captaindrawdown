@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxu Qi"
 description: "Xiaoxu Qi is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.208021
+date: 2026-09-11T02:38:29.158625
 url: "/cdr-researcher-census/researchers/xiaoxu-qi-a5083385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,585 |
+| Citations | 1,612 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Growing |

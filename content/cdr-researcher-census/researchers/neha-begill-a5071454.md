@@ -1,7 +1,7 @@
 ---
 title: "Neha Begill"
-description: "Neha Begill is an Early-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788042
+description: "Neha Begill is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.720061
 url: "/cdr-researcher-census/researchers/neha-begill-a5071454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Neha Begill**  
 Johann Heinrich von Thünen-Institut · 🇩🇪 DE
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 279 |
+| h-index | 5 |
+| Citations | 298 |
 | Publications | 13 |
 | CDR Focus | 46.2% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   186 citations · Soil Carbon
+   192 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
    30 citations
 
 3. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

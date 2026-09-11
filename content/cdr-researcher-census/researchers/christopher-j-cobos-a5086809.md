@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Cobos"
-description: "Christopher J. Cobos is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.970672
+description: "Christopher J. Cobos is a Mid-career Soil Carbon researcher at Texas Tech University in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.898488
 url: "/cdr-researcher-census/researchers/christopher-j-cobos-a5086809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Christopher J. Cobos",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christopher-j-cobos-a5086809/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Texas Tech University"
+  },
   "sameAs": "https://openalex.org/A5086809547"
 }
 </script>
 
 ## Profile
 
-**Christopher J. Cobos**
+**Christopher J. Cobos**  
+Texas Tech University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 207 |
+| Citations | 218 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

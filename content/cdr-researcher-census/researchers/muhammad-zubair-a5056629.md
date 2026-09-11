@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zubair"
-description: "Muhammad Zubair is a Senior Soil Carbon researcher at Bahauddin Zakariya University in PK. With 82 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.309330
+description: "Muhammad Zubair is a Senior Soil Carbon researcher at University of Sharjah in AE. With 83 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.260733
 url: "/cdr-researcher-census/researchers/muhammad-zubair-a5056629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-zubair-a5056629/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bahauddin Zakariya University"
+    "name": "University of Sharjah"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4833-0466",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhammad Zubair**  
-Bahauddin Zakariya University · 🇵🇰 PK
+University of Sharjah · 🇦🇪 AE
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 958 |
-| Publications | 82 |
-| CDR Focus | 7.3% |
+| Citations | 976 |
+| Publications | 83 |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   48 citations · General CDR
+   50 citations · General CDR
 
 2. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
    20 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 5. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 6. **Perceived Profitability of Agroforestry in Rural Multan of Pakistan** (2021)
    0 citations · General CDR

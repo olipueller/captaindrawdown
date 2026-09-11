@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Spahr"
-description: "Stephanie Spahr is a Mid-career Biochar researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225052
+description: "Stephanie Spahr is a Mid-career Biochar researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.166748
 url: "/cdr-researcher-census/researchers/stephanie-spahr-a5013723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,432 |
-| Publications | 71 |
-| CDR Focus | 8.5% |
+| Citations | 1,536 |
+| Publications | 79 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 2. **Black Carbon-Amended Engineered Media Filters for Improved Treatment of Stormwater Runoff** (2022)
    29 citations · Biochar
@@ -59,11 +59,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Predicting PFAS and Hydrophilic Trace Organic Contaminant Transport in Black Carbon-Amended Engineered Media Filters for Improved Stormwater Runoff Treatment** (2023)
    25 citations · Biochar
 
-4. **Flow rate and kinetics of trace organic contaminants removal in black carbon-amended engineered media filters for improved stormwater runoff treatment** (2024)
+4. **Persulfate activation by biochar for trace organic contaminant removal from urban stormwater** (2025)
    17 citations · Biochar
 
-5. **Persulfate activation by biochar for trace organic contaminant removal from urban stormwater** (2025)
-   16 citations · Biochar
+5. **Flow rate and kinetics of trace organic contaminants removal in black carbon-amended engineered media filters for improved stormwater runoff treatment** (2024)
+   17 citations · Biochar
 
 6. **Hydrophilic Organic Compound Migration in Biochar-Amended Stormwater Filters with Dynamic Conditions and Varied Background Dissolved Organic Carbon Contents** (2025)
    4 citations · Biochar

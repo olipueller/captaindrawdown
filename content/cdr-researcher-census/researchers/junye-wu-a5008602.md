@@ -1,7 +1,7 @@
 ---
 title: "Junye Wu"
-description: "Junye Wu is a Mid-career DAC researcher at Institute of Refrigeration in GB. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302032
+description: "Junye Wu is a Mid-career DAC researcher at Institute of Refrigeration in GB. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.243224
 url: "/cdr-researcher-census/researchers/junye-wu-a5008602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,30 +40,30 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 982 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 1,045 |
+| Publications | 21 |
+| CDR Focus | 19.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   438 citations
+   455 citations
 
 2. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   54 citations
+   56 citations
 
 3. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
-   52 citations
+   53 citations
 
 4. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   45 citations
+   48 citations
 
 5. **A direct air capture rotary adsorber for CO2 enrichment in greenhouses** (2024)
    20 citations
 
 6. **Large-scale applications and challenges of adsorption-based carbon capture technologies** (2021)
-   16 citations · DAC
+   17 citations · DAC
 
 7. **Feasibility and Effectivity of an Amine-Grafted Alumina Adsorbent for Direct Air Capture** (2024)
    8 citations
@@ -75,7 +75,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    4 citations · DAC
 
 10. **Rapid Steam‐Assisted Temperature Swing Adsorption for Direct Air Capture Using a Rotary Adsorber** (2026)
-   1 citations
+   2 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
-description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.732191
+description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Innovation Engineering (Italy) in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.658425
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Politecnico di Milano"
+    "name": "Innovation Engineering (Italy)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9459-6786",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Francesco Pietro Campo**  
-Politecnico di Milano · 🇮🇹 IT
+Innovation Engineering (Italy) · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 308 |
-| Publications | 22 |
-| CDR Focus | 40.9% |
-| Trajectory | Declining |
+| Citations | 335 |
+| Publications | 23 |
+| CDR Focus | 43.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   73 citations
+   76 citations
 
 2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 3. **Assessment of potential environmental impacts of an Enhanced Rock Weathering process for carbon dioxide removal in the form of bicarbonates by means of Life Cycle Assessment** (2024)
    1 citations · Enhanced Weathering

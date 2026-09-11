@@ -1,7 +1,7 @@
 ---
 title: "Nannan Cao"
 description: "Nannan Cao is a Mid-career Soil Carbon researcher at Hebei University of Economics and Business in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484983
+date: 2026-09-11T02:38:29.434560
 url: "/cdr-researcher-census/researchers/nannan-cao-a5078180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 537 |
+| Citations | 556 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil acidification enhanced soil carbon sequestration through increased mineral protection** (2024)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Longdong Xiao"
 description: "Longdong Xiao is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.182839
+date: 2026-09-11T02:38:30.126856
 url: "/cdr-researcher-census/researchers/longdong-xiao-a5069204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 146 |
+| Citations | 154 |
 | Publications | 6 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
-   25 citations · Soil Carbon
+1. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+   26 citations · Soil Carbon
 
-2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
-   24 citations · Soil Carbon
+2. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+   25 citations · Soil Carbon
 
 ## External Profiles
 

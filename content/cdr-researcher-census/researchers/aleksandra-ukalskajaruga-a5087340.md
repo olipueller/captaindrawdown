@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Ukalska‐Jaruga"
-description: "Aleksandra Ukalska‐Jaruga is a Senior Soil Carbon researcher at Institute of Soil Science and Plant Cultivation in PL. With 67 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.241441
+description: "Aleksandra Ukalska‐Jaruga is a Senior Soil Carbon researcher at Institute of Soil Science and Plant Cultivation in PL. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.188659
 url: "/cdr-researcher-census/researchers/aleksandra-ukalskajaruga-a5087340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,320 |
-| Publications | 67 |
-| CDR Focus | 9.0% |
+| Citations | 1,369 |
+| Publications | 68 |
+| CDR Focus | 8.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Dissolved organic carbon in cropland soils: A global meta-analysis of management effects** (2024)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Differential impacts of nitrogen addition on soil dissolved organic carbon in humid and non-humid regions: A global meta-analysis** (2025)
    12 citations · Soil Carbon
 
-3. **How Does Specialization in Agricultural Production Affect Soil Health?** (2024)
-   7 citations · Soil Carbon
+3. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
+   9 citations · Soil Carbon
 
-4. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
+4. **How Does Specialization in Agricultural Production Affect Soil Health?** (2024)
    7 citations · Soil Carbon
 
 5. **Depth-dependent effects of crop rotation and monoculture on dissolved organic matter quantity and quality** (2025)

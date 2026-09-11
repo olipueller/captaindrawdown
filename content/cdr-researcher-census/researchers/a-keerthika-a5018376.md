@@ -1,7 +1,7 @@
 ---
 title: "A. Keerthika"
-description: "A. Keerthika is a Mid-career Soil Carbon researcher at Central Arid Zone Research Institute in IN. With 67 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.533529
+description: "A. Keerthika is a Mid-career Soil Carbon researcher at Vinayaka Missions University in IN. With 67 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.487664
 url: "/cdr-researcher-census/researchers/a-keerthika-a5018376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/a-keerthika-a5018376/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Central Arid Zone Research Institute"
+    "name": "Vinayaka Missions University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3929-0995",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **A. Keerthika**  
-Central Arid Zone Research Institute · 🇮🇳 IN
+Vinayaka Missions University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 473 |
+| Citations | 482 |
 | Publications | 67 |
 | CDR Focus | 6.0% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Quantification and Economic Valuation of Carbon Sequestration from Smallholder Multifunctional Agroforestry: A Study from The Foothills of The Nilgiris, India** (2022)
-   10 citations · General CDR
+   11 citations · General CDR
 
 3. **Ecosystem-Based Approaches to Natural Resource Management: Adapting to Climate Change in Arid Regions** (2025)
    0 citations · General CDR

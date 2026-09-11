@@ -1,7 +1,7 @@
 ---
 title: "Xinjie Ni"
-description: "Xinjie Ni is a Senior Biochar researcher at Nanning Normal University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.403521
+description: "Xinjie Ni is a Senior Biochar researcher at National Chung Hsing University in TW. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.313412
 url: "/cdr-researcher-census/researchers/xinjie-ni-a5111221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinjie-ni-a5111221/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanning Normal University"
+    "name": "National Chung Hsing University"
   },
   "sameAs": "https://openalex.org/A5111221354"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xinjie Ni**  
-Nanning Normal University · 🇨🇳 CN
+National Chung Hsing University · 🇹🇼 TW
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 103 |
-| Publications | 7 |
-| CDR Focus | 28.6% |
+| Citations | 115 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

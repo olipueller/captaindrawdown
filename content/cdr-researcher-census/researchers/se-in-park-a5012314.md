@@ -1,7 +1,7 @@
 ---
 title: "Se-In Park"
 description: "Se-In Park is a Mid-career Soil Carbon researcher at National Institute of Environmental Research in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.743690
+date: 2026-09-11T02:38:29.695149
 url: "/cdr-researcher-census/researchers/se-in-park-a5012314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 302 |
+| Citations | 311 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil salinity, fertility and carbon content, and rice yield of salt-affected paddy with different cultivation period in southwestern coastal area of South Korea** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 ## External Profiles
 

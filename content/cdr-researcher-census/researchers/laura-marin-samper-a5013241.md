@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
-description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.979427
+description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.908324
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 203 |
-| Publications | 16 |
-| CDR Focus | 50.0% |
+| Citations | 214 |
+| Publications | 17 |
+| CDR Focus | 47.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   150 citations · General CDR
+   154 citations · General CDR
 
 2. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
 3. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   20 citations · Ocean CDR
+   22 citations · Ocean CDR
 
 4. **Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement** (2024)
    6 citations · General CDR

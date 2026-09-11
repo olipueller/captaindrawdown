@@ -1,7 +1,7 @@
 ---
 title: "Mohd Ahmed"
 description: "Mohd Ahmed is a Mid-career Biochar researcher at King Khalid University in SA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.780654
+date: 2026-09-11T02:38:29.707299
 url: "/cdr-researcher-census/researchers/mohd-ahmed-a5011436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 282 |
+| Citations | 305 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Utilization of engineered biochar as a binder in carbon negative cement-based composites: A review** (2024)
-   84 citations · Biochar
+   87 citations · Biochar
 
 ## External Profiles
 

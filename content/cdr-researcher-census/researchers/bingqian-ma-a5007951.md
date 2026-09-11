@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Ma"
-description: "Bingqian Ma is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.737186
+description: "Bingqian Ma is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.671266
 url: "/cdr-researcher-census/researchers/bingqian-ma-a5007951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 306 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 326 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Positive Relationships Between Soil Organic Carbon and Tree Physical Structure Highlights Significant Carbon Co-Benefits of Beijing’s Urban Forests** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

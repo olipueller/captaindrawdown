@@ -1,7 +1,7 @@
 ---
 title: "Munesh Kumar"
-description: "Munesh Kumar is a Senior Soil Carbon researcher at Hemvati Nandan Bahuguna Garhwal University in IN. With 153 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.100918
+description: "Munesh Kumar is a Senior Soil Carbon researcher at Hemvati Nandan Bahuguna Garhwal University in IN. With 155 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.051234
 url: "/cdr-researcher-census/researchers/munesh-kumar-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,39 +42,39 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 4,721 |
-| Publications | 153 |
+| h-index | 34 |
+| Citations | 4,850 |
+| Publications | 155 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forest soil nutrient stocks along altitudinal range of Uttarakhand Himalayas: An aid to Nature Based Climate Solutions** (2021)
-   117 citations · General CDR
+   118 citations · General CDR
 
 2. **Stand Structure, Biomass and Carbon Storage in Gmelina arborea Plantation at Agricultural Landscape in Foothills of Eastern Himalayas** (2021)
    46 citations · General CDR
 
-3. **Contribution of Cedrus deodara forests for climate mitigation along altitudinal gradient in Garhwal Himalaya, India** (2021)
-   26 citations · Soil Carbon
+3. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
+   27 citations
 
-4. **Carbon Storage Potential of a Waterlogged Agroforestry System of Tripura, India** (2021)
+4. **Contribution of Cedrus deodara forests for climate mitigation along altitudinal gradient in Garhwal Himalaya, India** (2021)
+   27 citations · Soil Carbon
+
+5. **Carbon Storage Potential of a Waterlogged Agroforestry System of Tripura, India** (2021)
    22 citations · Soil Carbon
 
-5. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   21 citations
-
 6. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 7. **Disentangling Forest Dynamics for Litter Biomass Production in a Biosphere Reserve in Central India** (2022)
    19 citations · Soil Carbon
 
-8. **Altitude-driven changes in carbon storage, soil properties, and leaf nutritional value of Quercus semecarpifolia in the northwestern Himalayas** (2025)
-   2 citations · Soil Carbon
+8. **Altitudinal Variation in Carbon Sequestration and Carbon Credit Potential of <i>Grewia optiva</i> Drumm in the Himalayan Ecosystems of Uttarakhand, India** (2025)
+   3 citations · Soil Carbon
 
-9. **Altitudinal Variation in Carbon Sequestration and Carbon Credit Potential of <i>Grewia optiva</i> Drumm in the Himalayan Ecosystems of Uttarakhand, India** (2025)
+9. **Altitude-driven changes in carbon storage, soil properties, and leaf nutritional value of Quercus semecarpifolia in the northwestern Himalayas** (2025)
    2 citations · Soil Carbon
 
 10. **The Carbon Credit of <i>Alnus nepalensis</i> Forest Stands as a Source of Livelihood to the Local Inhabitants in the Garhwal Himalaya** (2026)

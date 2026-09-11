@@ -1,7 +1,7 @@
 ---
 title: "Thamiris Ferreira Souza"
 description: "Thamiris Ferreira Souza is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.292491
+date: 2026-09-11T02:38:30.189878
 url: "/cdr-researcher-census/researchers/thamiris-ferreira-souza-a5076252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 123 |
+| Citations | 139 |
 | Publications | 10 |
 | CDR Focus | 30.0% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    34 citations · Biochar
 
 2. **Influence of Mn precursor on pre-pyrolysis modification of sugarcane bagasse biochar for enhanced removal of 2,4-dichlorophenoxyacetic acid from aqueous solutions: Experimental and theoretical insights** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 3. **Fe–Mn Biochar Composites from Sugarcane Bagasse for Herbicides Removal: Structure, Mechanisms, and Safety Relationships toward Sustainable Water Treatment** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

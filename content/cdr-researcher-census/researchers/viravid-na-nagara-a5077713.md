@@ -1,7 +1,7 @@
 ---
 title: "Viravid Na Nagara"
-description: "Viravid Na Nagara is a Mid-career Biochar researcher at New Jersey Institute of Technology in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.074281
+description: "Viravid Na Nagara is a Mid-career Biochar researcher at Stevens Institute of Technology in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.011242
 url: "/cdr-researcher-census/researchers/viravid-na-nagara-a5077713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/viravid-na-nagara-a5077713/",
   "affiliation": {
     "@type": "Organization",
-    "name": "New Jersey Institute of Technology"
+    "name": "Stevens Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0627-5078",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Viravid Na Nagara**  
-New Jersey Institute of Technology · 🇺🇸 US
+Stevens Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 174 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 186 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring low-concentration methane oxidation: Insights from bioengineered column experiments** (2025)
    5 citations · Biochar
+
+2. **Vetiver biochar application for heavy metal sequestration in water treatment: bridging perfumery waste and environmental sustainability** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

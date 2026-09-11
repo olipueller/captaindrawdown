@@ -1,7 +1,7 @@
 ---
 title: "Shirong Zhang"
-description: "Shirong Zhang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.180816
+description: "Shirong Zhang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.129610
 url: "/cdr-researcher-census/researchers/shirong-zhang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,915 |
+| h-index | 23 |
+| Citations | 1,967 |
 | Publications | 71 |
 | CDR Focus | 8.5% |
 | Trajectory | Declining |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic fertilization increased soil organic carbon stability and sequestration by improving aggregate stability and iron oxide transformation in saline-alkaline soil** (2022)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 2. **Straw incorporation and nitrogen fertilization enhance soil carbon sequestration by altering soil aggregate and microbial community composition in saline-alkali soil** (2023)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Response of soil organic carbon stability and sequestration to long-term phosphorus application: insight from a 9-year field experiment in saline alkaline paddy soil** (2023)
    15 citations · Soil Carbon
 
 4. **Laccase Promotes the Formation of Fe-OM Complexes by Catalyzing the Polymerization of OM in Coastal Saline-Alkaline Soil** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Potential effects of laccase on the formation and accumulation of Fe-OM complexes in coastal saline paddy soil under straw and nitrogen fertilization** (2022)
    2 citations · Soil Carbon

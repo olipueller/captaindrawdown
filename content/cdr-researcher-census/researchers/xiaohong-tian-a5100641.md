@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
-description: "Xiaohong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.501387
+description: "Xiaohong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.451098
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 512 |
+| h-index | 6 |
+| Citations | 530 |
 | Publications | 17 |
 | CDR Focus | 29.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
-   13 citations
+   14 citations
 
 2. **Equal-straw produced biochar continuous incorporation substitutes straw returns for global warming mitigation: An appraisal based on five-year field experiment** (2025)
    5 citations · Biochar

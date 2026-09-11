@@ -1,7 +1,7 @@
 ---
 title: "Nigel Gale"
-description: "Nigel Gale is a Mid-career Biochar researcher. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.283460
+description: "Nigel Gale is a Mid-career Biochar researcher at Landscape Institute in GB. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.232723
 url: "/cdr-researcher-census/researchers/nigel-gale-a5023439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nigel Gale",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nigel-gale-a5023439/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Landscape Institute"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-5008-4981",
     "https://openalex.org/A5023439887"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Nigel Gale**
+**Nigel Gale**  
+Landscape Institute · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,075 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 1,094 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

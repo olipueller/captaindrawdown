@@ -1,7 +1,7 @@
 ---
 title: "Hayato Maruyama"
-description: "Hayato Maruyama is a Senior Enhanced Weathering researcher at Hokkaido University in JP. With 90 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.440784
+description: "Hayato Maruyama is a Senior Enhanced Weathering researcher at Hokkaido University in JP. With 87 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.391921
 url: "/cdr-researcher-census/researchers/hayato-maruyama-a5044914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 609 |
-| Publications | 90 |
-| CDR Focus | 5.6% |
+| Citations | 622 |
+| Publications | 87 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

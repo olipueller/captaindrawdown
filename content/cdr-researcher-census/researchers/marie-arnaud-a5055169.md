@@ -1,7 +1,7 @@
 ---
 title: "Marie Arnaud"
-description: "Marie Arnaud is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595710
+description: "Marie Arnaud is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 52 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.519791
 url: "/cdr-researcher-census/researchers/marie-arnaud-a5055169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 412 |
-| Publications | 48 |
-| CDR Focus | 6.2% |
+| h-index | 11 |
+| Citations | 449 |
+| Publications | 52 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **The effect of crab burrows on soil‐water dynamics in mangroves** (2022)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

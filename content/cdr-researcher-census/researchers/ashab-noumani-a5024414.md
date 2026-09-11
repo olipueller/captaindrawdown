@@ -1,7 +1,7 @@
 ---
 title: "Ashab Noumani"
 description: "Ashab Noumani is a Mid-career Biochar researcher at NanoQom Research and Development in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.713245
+date: 2026-09-11T02:38:29.635391
 url: "/cdr-researcher-census/researchers/ashab-noumani-a5024414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 321 |
+| Citations | 352 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Engineered biochar composites for improved adsorption stability and remediation of the wastewater** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

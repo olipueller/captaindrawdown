@@ -1,7 +1,7 @@
 ---
 title: "Zixuan Chang"
-description: "Zixuan Chang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788773
+description: "Zixuan Chang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.733389
 url: "/cdr-researcher-census/researchers/zixuan-chang-a5112888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 279 |
+| h-index | 8 |
+| Citations | 292 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combined Application of Chemical and Organic Fertilizers Promoted Soil Carbon Sequestration and Bacterial Community Diversity in Dryland Wheat Fields** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **The Effects of Various Long-Term Fertilizer Applications on Soil Carbon Fractions in a Winter Wheat Monoculture Area** (2023)
    9 citations · Soil Carbon

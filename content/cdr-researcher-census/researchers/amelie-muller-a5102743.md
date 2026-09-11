@@ -1,7 +1,7 @@
 ---
 title: "Amelie Müller"
-description: "Amelie Müller is an Early-career General CDR researcher at Leiden University in NL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.768353
+description: "Amelie Müller is a Mid-career General CDR researcher at Leiden University in NL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.680980
 url: "/cdr-researcher-census/researchers/amelie-muller-a5102743/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Amelie Müller**  
 Leiden University · 🇳🇱 NL
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 289 |
+| h-index | 5 |
+| Citations | 319 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
-   48 citations · General CDR
+   54 citations · General CDR
 
 ## External Profiles
 

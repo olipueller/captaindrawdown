@@ -1,7 +1,7 @@
 ---
 title: "Weidong Wang"
-description: "Weidong Wang is a Senior Biochar researcher at China Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.854389
+description: "Weidong Wang is a Senior Biochar researcher at China Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.820820
 url: "/cdr-researcher-census/researchers/weidong-wang-a5100432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 244 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 249 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Research Advances in the Impacts of Biochar on the Physicochemical Properties and Microbial Communities of Saline Soils** (2023)
-   29 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

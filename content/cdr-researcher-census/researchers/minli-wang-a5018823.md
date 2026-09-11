@@ -1,7 +1,7 @@
 ---
 title: "Minli Wang"
-description: "Minli Wang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.330235
+description: "Minli Wang is a Mid-career Biochar researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.267372
 url: "/cdr-researcher-census/researchers/minli-wang-a5018823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Minli Wang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/minli-wang-a5018823/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
-  },
   "sameAs": "https://openalex.org/A5018823956"
 }
 </script>
 
 ## Profile
 
-**Minli Wang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+**Minli Wang**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 116 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 124 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

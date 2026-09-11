@@ -1,7 +1,7 @@
 ---
 title: "Huihui Wei"
 description: "Huihui Wei is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.600279
+date: 2026-09-11T02:38:29.540902
 url: "/cdr-researcher-census/researchers/huihui-wei-a5108142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 407 |
+| Citations | 428 |
 | Publications | 19 |
 | CDR Focus | 15.8% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    40 citations · Soil Carbon
 
 2. **Improving agricultural mulching to reduce environmental footprint and enhance economic profit across China** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Climate and breeding determined below-ground biomass allocation strategy in wheat** (2023)
    3 citations · Soil Carbon

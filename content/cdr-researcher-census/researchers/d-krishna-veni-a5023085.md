@@ -1,7 +1,7 @@
 ---
 title: "D. Krishna Veni"
 description: "D. Krishna Veni is a Mid-career Biochar researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.218450
+date: 2026-09-11T02:38:30.194706
 url: "/cdr-researcher-census/researchers/d-krishna-veni-a5023085/"
 layout: "researcher"
 hiddenInHomeList: true

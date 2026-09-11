@@ -1,7 +1,7 @@
 ---
 title: "Haitao Wang"
 description: "Haitao Wang is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.515211
+date: 2026-09-11T02:38:29.472467
 url: "/cdr-researcher-census/researchers/haitao-wang-a5079172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 494 |
+| Citations | 499 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

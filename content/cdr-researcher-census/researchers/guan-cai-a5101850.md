@@ -1,7 +1,7 @@
 ---
 title: "Guan Cai"
 description: "Guan Cai is a Senior Soil Carbon researcher at Nanjing Surveying and Mapping Research Institute (China) in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.872826
+date: 2026-09-11T02:38:29.827716
 url: "/cdr-researcher-census/researchers/guan-cai-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 237 |
+| Citations | 246 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis on the effects of types and levels of N, P, and K fertilization on organic carbon in cropland soils** (2023)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
    8 citations · Soil Carbon

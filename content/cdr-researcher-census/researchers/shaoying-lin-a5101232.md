@@ -1,7 +1,7 @@
 ---
 title: "Shaoying Lin"
-description: "Shaoying Lin is a Mid-career Soil Carbon researcher at Jiaying University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.086343
+description: "Shaoying Lin is a Mid-career Soil Carbon researcher at Jiaying University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.034147
 url: "/cdr-researcher-census/researchers/shaoying-lin-a5101232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 171 |
-| Publications | 16 |
-| CDR Focus | 25.0% |
+| Citations | 179 |
+| Publications | 17 |
+| CDR Focus | 23.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **Combined slag and biochar amendments to subtropical paddy soils lead to a short-term change of bacteria community structure and rise of soil organic carbon** (2022)
    32 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 5. **Microbially driven iron redox cycling dominates Fe-bound organic carbon formation in coastal wetlands under sea level rise** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

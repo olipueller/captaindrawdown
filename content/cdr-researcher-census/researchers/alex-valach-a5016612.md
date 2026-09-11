@@ -1,7 +1,7 @@
 ---
 title: "Alex Valach"
 description: "Alex Valach is a Mid-career Soil Carbon researcher at Berner Fachhochschule Hochschule für Agrar- Forst- und Lebensmittelwissenschaften in CH. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.178220
+date: 2026-09-11T02:38:29.125168
 url: "/cdr-researcher-census/researchers/alex-valach-a5016612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,955 |
+| Citations | 2,032 |
 | Publications | 73 |
 | CDR Focus | 5.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Productive wetlands restored for carbon sequestration quickly become net CO2 sinks with site-level factors driving uptake variability** (2021)
-   93 citations · General CDR
+   95 citations · General CDR
 
 2. **Restoring wetlands on intensive agricultural lands modifies nitrogen cycling microbial communities and reduces N2O production potential** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Carbon Flux Trajectories and Site Conditions from Restored Impounded Marshes in the Sacramento‐San Joaquin Delta** (2021)
    13 citations · Soil Carbon

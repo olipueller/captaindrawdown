@@ -1,7 +1,7 @@
 ---
 title: "Abdeldjallil Mansouri"
-description: "Abdeldjallil Mansouri is a Mid-career Biochar researcher at Université de Saida Dr.Moulay Tahar in DZ. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.373999
+description: "Abdeldjallil Mansouri is a Mid-career Biochar researcher at Université de Saida Dr Moulay Tahar in DZ. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.336590
 url: "/cdr-researcher-census/researchers/abdeldjallil-mansouri-a5006736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abdeldjallil-mansouri-a5006736/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 de Saida Dr.Moulay Tahar"
+    "name": "Universit\u00e9 de Saida Dr Moulay Tahar"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1996-9754",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Abdeldjallil Mansouri**  
-Université de Saida Dr.Moulay Tahar ·  DZ
+Université de Saida Dr Moulay Tahar ·  DZ
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 108 |
+| Citations | 110 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

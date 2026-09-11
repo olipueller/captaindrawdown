@@ -1,7 +1,7 @@
 ---
 title: "Jana Poláková"
-description: "Jana Poláková is a Mid-career General CDR researcher at Czech University of Life Sciences Prague in CZ. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.162641
+description: "Jana Poláková is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 43 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.114776
 url: "/cdr-researcher-census/researchers/jana-polakova-a5047696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,30 +34,33 @@ Czech University of Life Sciences Prague ·  CZ
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 151 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Citations | 157 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Do agri-environment schemes enhance carbon sequestration? Quantifying the effort in the Czech Republic** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Carbon Farming: The Foundation For Carbon Farming Schemes – Lessons Learned from 160 European Schemes** (2024)
    3 citations · General CDR
+
+4. **MRV financing under EU carbon farming governance: a review** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

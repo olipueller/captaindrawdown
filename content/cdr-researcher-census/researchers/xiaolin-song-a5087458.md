@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Song"
-description: "Xiaolin Song is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.351243
+description: "Xiaolin Song is a Mid-career Soil Carbon researcher. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.297542
 url: "/cdr-researcher-census/researchers/xiaolin-song-a5087458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Xiaolin Song",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaolin-song-a5087458/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
-  },
   "sameAs": "https://openalex.org/A5087458476"
 }
 </script>
 
 ## Profile
 
-**Xiaolin Song**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+**Xiaolin Song**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 809 |
-| Publications | 31 |
-| CDR Focus | 9.7% |
+| Citations | 844 |
+| Publications | 32 |
+| CDR Focus | 9.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

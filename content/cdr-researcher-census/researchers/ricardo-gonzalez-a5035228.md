@@ -1,7 +1,7 @@
 ---
 title: "Ricardo González"
-description: "Ricardo González is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.010037
+description: "Ricardo González is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.970156
 url: "/cdr-researcher-census/researchers/ricardo-gonzalez-a5035228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ricardo Gonz\u00e1lez",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ricardo-gonzalez-a5035228/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universidad de La Frontera"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-6100-2059",
     "https://openalex.org/A5035228262"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Ricardo González**  
-Universidad de La Frontera ·  CL
+**Ricardo González**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 194 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 199 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

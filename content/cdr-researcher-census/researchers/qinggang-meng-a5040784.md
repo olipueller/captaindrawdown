@@ -1,7 +1,7 @@
 ---
 title: "Qinggang Meng"
-description: "Qinggang Meng is a Mid-career Biochar researcher at Hebei Research Institute of Microbiology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971924
+description: "Qinggang Meng is a Mid-career Biochar researcher at Hebei Research Institute of Microbiology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.867101
 url: "/cdr-researcher-census/researchers/qinggang-meng-a5040784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 206 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 229 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

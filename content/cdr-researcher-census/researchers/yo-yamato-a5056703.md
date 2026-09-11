@@ -1,7 +1,7 @@
 ---
 title: "Yo Yamato"
 description: "Yo Yamato is a Senior DAC researcher at Daicel (Japan) in JP. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.416146
+date: 2026-09-11T02:38:30.372015
 url: "/cdr-researcher-census/researchers/yo-yamato-a5056703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 101 |
+| Citations | 104 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Ionic Liquid Mixtures for Direct Air Capture: High CO<sub>2</sub> Permeation Driven by Superior CO<sub>2</sub> Absorption with Lower Absolute Enthalpy** (2022)
-   26 citations · DAC
+   28 citations · DAC
 
 ## External Profiles
 

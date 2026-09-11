@@ -1,7 +1,7 @@
 ---
 title: "Estiner W. Katengeza"
 description: "Estiner W. Katengeza is a Mid-career Soil Carbon researcher at University of Malawi in MW. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.193528
+date: 2026-09-11T02:38:30.161319
 url: "/cdr-researcher-census/researchers/estiner-w-katengeza-a5055208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 144 |
+| Citations | 146 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

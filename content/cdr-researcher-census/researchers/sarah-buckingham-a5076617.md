@@ -1,7 +1,7 @@
 ---
 title: "Sarah Buckingham"
-description: "Sarah Buckingham is a Senior Soil Carbon researcher at Scotland's Rural College in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.547989
+description: "Sarah Buckingham is a Senior Soil Carbon researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.503649
 url: "/cdr-researcher-census/researchers/sarah-buckingham-a5076617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sarah Buckingham",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sarah-buckingham-a5076617/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Scotland's Rural College"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0655-6865",
     "https://openalex.org/A5076617132"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Sarah Buckingham**  
-Scotland's Rural College · 🇬🇧 GB
+**Sarah Buckingham**
 
 **Career Stage:** Senior
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 459 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 465 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

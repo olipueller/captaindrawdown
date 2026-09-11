@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Saha"
-description: "Priyanka Saha is a Senior General CDR researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 114 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.222141
+description: "Priyanka Saha is a Senior General CDR researcher at Techno India University in IN. With 116 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.170361
 url: "/cdr-researcher-census/researchers/priyanka-saha-a5101601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/priyanka-saha-a5101601/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Krishi Vigyan Kendra, Ghatkhed Amravati"
+    "name": "Techno India University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5106-9751",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Priyanka Saha**  
-Krishi Vigyan Kendra, Ghatkhed Amravati · 🇮🇳 IN
+Techno India University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,462 |
-| Publications | 114 |
-| CDR Focus | 6.1% |
+| Citations | 1,497 |
+| Publications | 116 |
+| CDR Focus | 6.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -56,11 +56,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Agroforestry for Food Security and Ecological Sustainability Under Changing Climatic Scenarios** (2024)
    5 citations · General CDR
 
-3. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
-   2 citations · General CDR
+3. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
+   3 citations · Soil Carbon
 
-4. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   2 citations · Soil Carbon
+4. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
+   2 citations · General CDR
 
 5. **The use of biochar to reduce carbon footprint: toward net zero emission from agriculture** (2024)
    1 citations · Biochar

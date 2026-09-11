@@ -1,7 +1,7 @@
 ---
 title: "Hongrun Liu"
-description: "Hongrun Liu is a Mid-career Soil Carbon researcher at Beijing Agricultural Machinery Research Institute in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.542020
+description: "Hongrun Liu is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.478381
 url: "/cdr-researcher-census/researchers/hongrun-liu-a5026268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongrun-liu-a5026268/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Agricultural Machinery Research Institute"
+    "name": "Ministry of Education of the People's Republic of China"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-7137-1617",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongrun Liu**  
-Beijing Agricultural Machinery Research Institute · 🇨🇳 CN
+Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 464 |
-| Publications | 19 |
-| CDR Focus | 15.8% |
+| h-index | 10 |
+| Citations | 492 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Straw return drives soil microbial community assemblage to change metabolic processes for soil quality amendment in a rice-wheat rotation system** (2023)
-   135 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 2. **Adsorption and Fenton-like Degradation of Ciprofloxacin Using Corncob Biochar-Based Magnetic Iron–Copper Bimetallic Nanomaterial in Aqueous Solutions** (2022)
    61 citations · Biochar

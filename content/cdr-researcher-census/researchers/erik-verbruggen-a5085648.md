@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
-description: "Erik Verbruggen is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 167 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.076760
+description: "Erik Verbruggen is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 166 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.028680
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 46 |
-| Citations | 8,653 |
-| Publications | 167 |
+| Citations | 8,833 |
+| Publications | 166 |
 | CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 2. **Soil properties as key predictors of global grassland production: Have we overlooked micronutrients?** (2021)
    71 citations · Soil Carbon
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    53 citations · Enhanced Weathering
 
 4. **Unraveling microbial processes involved in carbon and nitrogen cycling and greenhouse gas emissions in rewetted peatlands by molecular biology** (2024)
-   18 citations
+   19 citations
 
 5. **Negative erosion and negative emissions: Combining multiple land-based carbon dioxide removal techniques to rebuild fertile topsoils and enhance food production** (2022)
    16 citations · General CDR

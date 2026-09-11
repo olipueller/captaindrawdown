@@ -1,7 +1,7 @@
 ---
 title: "Jan Sandstad Næss"
-description: "Jan Sandstad Næss is a Mid-career BECCS researcher at Norwegian University of Science and Technology in NO. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.392516
+description: "Jan Sandstad Næss is a Mid-career BECCS researcher at Norwegian University of Science and Technology in NO. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.343956
 url: "/cdr-researcher-census/researchers/jan-sandstad-nss-a5009427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 705 |
-| Publications | 33 |
-| CDR Focus | 12.1% |
+| Citations | 720 |
+| Publications | 34 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    94 citations · BECCS
 
 2. **Climate change mitigation potentials of biofuels produced from perennial crops and natural regrowth on abandoned and degraded cropland in Nordic countries** (2022)
-   43 citations · BECCS
+   44 citations · BECCS
 
 3. **Bridging Quantitative and Qualitative Science for BECCS in Abandoned Croplands** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 4. **Integrating environmental modelling and qualitative social science to evaluate BECCS from abandoned cropland** (2024)
    0 citations · BECCS

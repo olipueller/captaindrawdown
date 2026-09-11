@@ -1,7 +1,7 @@
 ---
 title: "Zhuqing Feng"
-description: "Zhuqing Feng is a Mid-career Biochar researcher at Chizhou University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.301023
+description: "Zhuqing Feng is a Mid-career Biochar researcher at Sichuan University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.248331
 url: "/cdr-researcher-census/researchers/zhuqing-feng-a5005170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhuqing-feng-a5005170/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chizhou University"
+    "name": "Sichuan University"
   },
   "sameAs": "https://openalex.org/A5005170273"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhuqing Feng**  
-Chizhou University · 🇨🇳 CN
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 985 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 1,019 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

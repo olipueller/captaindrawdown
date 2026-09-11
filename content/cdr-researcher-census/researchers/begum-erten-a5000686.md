@@ -1,7 +1,7 @@
 ---
 title: "Begüm Erten"
 description: "Begüm Erten is a Mid-career General CDR researcher at Gedik University in TR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.164657
+date: 2026-09-11T02:38:30.125130
 url: "/cdr-researcher-census/researchers/begum-erten-a5000686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 150 |
+| Citations | 154 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

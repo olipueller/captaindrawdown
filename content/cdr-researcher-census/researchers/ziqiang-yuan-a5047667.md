@@ -1,7 +1,7 @@
 ---
 title: "Zi‐Qiang Yuan"
-description: "Zi‐Qiang Yuan is a Senior Soil Carbon researcher at Beijing Institute of Technology in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.242804
+description: "Zi‐Qiang Yuan is a Senior Soil Carbon researcher. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.190402
 url: "/cdr-researcher-census/researchers/ziqiang-yuan-a5047667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zi\u2010Qiang Yuan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ziqiang-yuan-a5047667/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Beijing Institute of Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-4785-122X",
     "https://openalex.org/A5047667841"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Zi‐Qiang Yuan**  
-Beijing Institute of Technology · 🇨🇳 CN
+**Zi‐Qiang Yuan**
 
 **Career Stage:** Senior
 
@@ -43,24 +38,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,314 |
-| Publications | 48 |
-| CDR Focus | 8.3% |
+| Citations | 1,357 |
+| Publications | 49 |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The formation of humic acid and micro-aggregates facilitated long-time soil organic carbon sequestration after Medicago sativa L. introduction on abandoned farmlands** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
-2. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
+2. **Distinct mechanisms of soil organic carbon formation in natural and legume-based grasslands on the Loess Plateau, China** (2025)
+   11 citations · Soil Carbon
+
+3. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
    10 citations · Soil Carbon
 
-3. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
+4. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
    10 citations · Soil Carbon
 
-4. **Distinct mechanisms of soil organic carbon formation in natural and legume-based grasslands on the Loess Plateau, China** (2025)
-   9 citations · Soil Carbon
+5. **Plant and microbial pathways driving soil carbon sequestration in dryland leguminous shrublands** (2026)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

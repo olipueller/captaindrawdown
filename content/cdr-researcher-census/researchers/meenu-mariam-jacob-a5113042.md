@@ -1,7 +1,7 @@
 ---
 title: "Meenu Mariam Jacob"
-description: "Meenu Mariam Jacob is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.292249
+description: "Meenu Mariam Jacob is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.235956
 url: "/cdr-researcher-census/researchers/meenu-mariam-jacob-a5113042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,030 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| Citations | 1,075 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

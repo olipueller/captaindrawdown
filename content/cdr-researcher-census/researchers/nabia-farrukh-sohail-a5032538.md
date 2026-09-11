@@ -1,7 +1,7 @@
 ---
 title: "Nabia Farrukh Sohail"
 description: "Nabia Farrukh Sohail is a Mid-career General CDR researcher at National University of Sciences and Technology in PK. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.414649
+date: 2026-09-11T02:38:29.366915
 url: "/cdr-researcher-census/researchers/nabia-farrukh-sohail-a5032538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 655 |
+| Citations | 670 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

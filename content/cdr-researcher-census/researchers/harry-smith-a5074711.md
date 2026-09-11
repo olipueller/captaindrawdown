@@ -1,7 +1,7 @@
 ---
 title: "Harry Smith"
 description: "Harry Smith is an Early-career General CDR researcher at University of East Anglia in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.007631
+date: 2026-09-11T02:38:29.949523
 url: "/cdr-researcher-census/researchers/harry-smith-a5074711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 194 |
+| Citations | 205 |
 | Publications | 11 |
 | CDR Focus | 63.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 2. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
    75 citations · General CDR
@@ -62,11 +62,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    7 citations · General CDR
 
-5. **Betting on Forests and Soils to Reach Net Zero** (2022)
+5. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
    2 citations · General CDR
 
-6. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
-   1 citations · General CDR
+6. **Betting on Forests and Soils to Reach Net Zero** (2022)
+   2 citations · General CDR
 
 7. **Author Correction: Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    1 citations · General CDR

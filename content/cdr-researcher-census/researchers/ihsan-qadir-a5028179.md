@@ -1,7 +1,7 @@
 ---
 title: "Ihsan Qadir"
 description: "Ihsan Qadir is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.157316
+date: 2026-09-11T02:38:30.131733
 url: "/cdr-researcher-census/researchers/ihsan-qadir-a5028179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 152 |
+| Citations | 153 |
 | Publications | 22 |
 | CDR Focus | 13.6% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · General CDR
 
 3. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Danny Broberg"
 description: "Danny Broberg is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.246566
+date: 2026-09-11T02:38:29.195884
 url: "/cdr-researcher-census/researchers/danny-broberg-a5018284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,283 |
+| Citations | 1,309 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Shumin Guo"
 description: "Shumin Guo is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.376150
+date: 2026-09-11T02:38:29.320300
 url: "/cdr-researcher-census/researchers/shumin-guo-a5000483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 744 |
+| Citations | 782 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   118 citations · Biochar
+   123 citations · Biochar
 
 2. **Divergent effects of biochar amendment and replacing mineral fertilizer with manure on soil respiration in a subtropical tea plantation** (2023)
    20 citations · Biochar

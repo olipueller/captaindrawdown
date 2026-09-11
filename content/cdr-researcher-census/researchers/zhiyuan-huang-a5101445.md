@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Huang"
-description: "Zhiyuan Huang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.113778
+description: "Zhiyuan Huang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.063451
 url: "/cdr-researcher-census/researchers/zhiyuan-huang-a5101445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 164 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 172 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Introducing sedum affects root‐soil interface phytoremediation of heavy metals in <i>lei</i> bamboo forest and potential risks from edible bamboo shoots** (2022)
-   3 citations
+   4 citations
 
 2. **Effects of Bamboo-Sourced Organic Fertilizer on the Soil Microbial Necromass Carbon and Its Contribution to Soil Organic Carbon in Moso Bamboo (Phyllostachys edulis) Forest** (2025)
    1 citations · Soil Carbon

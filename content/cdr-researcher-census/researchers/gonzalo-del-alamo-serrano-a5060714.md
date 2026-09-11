@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo del Alamo Serrano"
 description: "Gonzalo del Alamo Serrano is a Senior BECCS researcher at SINTEF in NO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595178
+date: 2026-09-11T02:38:29.540995
 url: "/cdr-researcher-census/researchers/gonzalo-del-alamo-serrano-a5060714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 413 |
+| Citations | 428 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption** (2026)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

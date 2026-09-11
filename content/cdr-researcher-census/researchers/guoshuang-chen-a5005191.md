@@ -1,7 +1,7 @@
 ---
 title: "Guoshuang Chen"
 description: "Guoshuang Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636267
+date: 2026-09-11T02:38:29.583121
 url: "/cdr-researcher-census/researchers/guoshuang-chen-a5005191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 377 |
+| Citations | 391 |
 | Publications | 33 |
 | CDR Focus | 15.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar promotes soil aggregate stability and associated organic carbon sequestration and regulates microbial community structures in Mollisols from northeast China** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **The Residue Chemistry Transformation Linked to the Fungi Keystone Taxa during Different Residue Tissues Incorporation into Mollisols in Northeast China** (2024)
    7 citations · Soil Carbon
@@ -59,13 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China** (2022)
    5 citations
 
-4. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
+4. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
+   1 citations · Soil Carbon
+
+5. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
    1 citations · Biochar
 
-5. **Interactive water-nitrogen effects on tissue-specific maize straw degradation in mollisols** (2026)
-   0 citations · Soil Carbon
-
-6. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
+6. **Interactive water-nitrogen effects on tissue-specific maize straw degradation in mollisols** (2026)
    0 citations · Soil Carbon
 
 7. **Comment on egusphere-2022-1084** (2023)

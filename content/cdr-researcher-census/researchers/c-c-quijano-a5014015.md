@@ -1,7 +1,7 @@
 ---
 title: "C. C. Quijano"
 description: "C. C. Quijano is a Senior Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.747053
+date: 2026-09-11T02:38:29.716711
 url: "/cdr-researcher-census/researchers/c-c-quijano-a5014015/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tasso Azevedo"
-description: "Tasso Azevedo is a Mid-career General CDR researcher at Woman's Hospital in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.147301
+description: "Tasso Azevedo is a Mid-career General CDR researcher at Woman's Hospital in US. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.095099
 url: "/cdr-researcher-census/researchers/tasso-azevedo-a5084117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 2,551 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 2,678 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

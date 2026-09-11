@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Yin"
-description: "Yingjie Yin is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.326570
+description: "Yingjie Yin is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 84 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.278882
 url: "/cdr-researcher-census/researchers/yingjie-yin-a5016850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 886 |
-| Publications | 83 |
-| CDR Focus | 7.2% |
+| Citations | 904 |
+| Publications | 84 |
+| CDR Focus | 7.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Goethite modified biochar simultaneously mitigates the arsenic and cadmium accumulation in paddy rice (Oryza sativa) L** (2021)
-   80 citations · Biochar
+   81 citations · Biochar
 
-2. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
+2. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
+   35 citations · Biochar
+
+3. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
    34 citations · Biochar
-
-3. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
-   33 citations · Biochar
 
 4. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
    16 citations · Biochar
 
 5. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Deep soil inorganic carbon, an overlooked carbon sink in alkaline croplands** (2026)
    0 citations

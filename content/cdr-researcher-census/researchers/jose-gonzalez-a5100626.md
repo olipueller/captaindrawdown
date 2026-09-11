@@ -1,7 +1,7 @@
 ---
 title: "José González"
-description: "José González is a Senior Ocean CDR researcher at Universidad de La Laguna in ES. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590584
+description: "José González is a Senior Ocean CDR researcher at Universidad de La Laguna in ES. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.545948
 url: "/cdr-researcher-census/researchers/jose-gonzalez-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 417 |
-| Publications | 41 |
-| CDR Focus | 9.8% |
+| Citations | 422 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

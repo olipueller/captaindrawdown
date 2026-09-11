@@ -1,7 +1,7 @@
 ---
 title: "Yaohong Yu"
-description: "Yaohong Yu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.102573
+description: "Yaohong Yu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.028626
 url: "/cdr-researcher-census/researchers/yaohong-yu-a5086358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 167 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 181 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of fertilization and dry-season irrigation on the timber production and carbon storage in subtropical Eucalyptus plantations** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
    3 citations

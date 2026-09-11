@@ -1,7 +1,7 @@
 ---
 title: "Yuchen Jiang"
-description: "Yuchen Jiang is a Mid-career Biochar researcher at Henan Polytechnic University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.407698
+description: "Yuchen Jiang is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.333496
 url: "/cdr-researcher-census/researchers/yuchen-jiang-a5053950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuchen-jiang-a5053950/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan Polytechnic University"
+    "name": "Guangdong University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5365-8373",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuchen Jiang**  
-Henan Polytechnic University · 🇨🇳 CN
+Guangdong University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 672 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| h-index | 15 |
+| Citations | 748 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 2. **Contribution of hemicellulose/cellulose to structural evolution of char from pyrolysis, hydrothermal carbonization, gasification and activation of poplar wood** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Influence of steric hindrance created by silica in rice husk on evolution of products from pyrolysis, hydrothermal carbonization, activation and gasification** (2026)
    1 citations · Biochar

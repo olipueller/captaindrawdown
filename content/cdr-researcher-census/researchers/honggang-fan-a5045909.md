@@ -1,7 +1,7 @@
 ---
 title: "Honggang Fan"
-description: "Honggang Fan is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.504487
+description: "Honggang Fan is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.457583
 url: "/cdr-researcher-census/researchers/honggang-fan-a5045909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 508 |
+| h-index | 11 |
+| Citations | 518 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Organic contaminants removal and carbon sequestration using pig manure solid residue-derived biochar: A novel closed-loop strategy for anaerobic liquid digestate** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

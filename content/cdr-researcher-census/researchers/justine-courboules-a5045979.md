@@ -1,7 +1,7 @@
 ---
 title: "Justine Courboulès"
-description: "Justine Courboulès is a Mid-career Ocean CDR researcher. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.324396
+description: "Justine Courboulès is a Mid-career Ocean CDR researcher. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.266170
 url: "/cdr-researcher-census/researchers/justine-courboules-a5045979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Citations | 124 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Sanger Huang"
 description: "Sanger Huang is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.828958
+date: 2026-09-11T02:38:29.796685
 url: "/cdr-researcher-census/researchers/sanger-huang-a5103963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 257 |
+| Citations | 260 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

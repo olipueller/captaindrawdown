@@ -1,7 +1,7 @@
 ---
 title: "Arijit Mondal"
 description: "Arijit Mondal is an Early-career Biochar researcher at Indian Institute of Science Education and Research Kolkata in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.764022
+date: 2026-09-11T02:38:29.705536
 url: "/cdr-researcher-census/researchers/arijit-mondal-a5022406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 291 |
+| Citations | 306 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparison of Oil-Seed Shell Biomass-Based Biochar for the Removal of Anionic Dyes—Characterization and Adsorption Efficiency Studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

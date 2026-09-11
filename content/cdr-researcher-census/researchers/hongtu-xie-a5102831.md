@@ -1,7 +1,7 @@
 ---
 title: "Hongtu Xie"
-description: "Hongtu Xie is a Senior Soil Carbon researcher at 中国科学院沈阳应用生态研究所 in CN. With 154 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105049
+description: "Hongtu Xie is a Senior Soil Carbon researcher at 中国科学院沈阳应用生态研究所 in CN. With 153 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.054725
 url: "/cdr-researcher-census/researchers/hongtu-xie-a5102831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 4,411 |
-| Publications | 154 |
-| CDR Focus | 7.1% |
+| Citations | 4,532 |
+| Publications | 153 |
+| CDR Focus | 7.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    163 citations · Soil Carbon
 
 2. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   85 citations · Soil Carbon
+   88 citations · Soil Carbon
 
 3. **Shifts in microbial metabolic pathway for soil carbon accumulation along subtropical forest succession** (2021)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 4. **Effects of biochar incorporation on soil viable and necromass carbon in the luvisol soil** (2021)
    32 citations · Biochar
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 6. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 7. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 8. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Biochar
 
 10. **Elevated hydrolase activity rather than oxidase activity enhances the accumulation of organic matter in black soil under maize stover retention** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

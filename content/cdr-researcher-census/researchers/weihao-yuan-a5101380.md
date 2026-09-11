@@ -1,7 +1,7 @@
 ---
 title: "Weihao Yuan"
-description: "Weihao Yuan is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.377388
+description: "Weihao Yuan is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.285733
 url: "/cdr-researcher-census/researchers/weihao-yuan-a5101380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 108 |
+| h-index | 8 |
+| Citations | 121 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Sílvio Vaz"
 description: "Sílvio Vaz is an Early-career General CDR researcher at Brazilian Agricultural Research Corporation in BR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.017561
+date: 2026-09-11T02:38:29.979798
 url: "/cdr-researcher-census/researchers/silvio-vaz-a5105827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 191 |
+| Citations | 196 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Technologies for carbon dioxide capture: A review applied to energy sectors** (2022)
-   154 citations · General CDR
+   157 citations · General CDR
 
 ## External Profiles
 

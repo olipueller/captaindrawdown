@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Soil Carbon researcher at City University of Hong Kong in HK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149945
+date: 2026-09-11T02:38:30.052927
 url: "/cdr-researcher-census/researchers/cong-wang-a5104216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 154 |
+| Citations | 174 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop residue return achieves environmental mitigation and enhances grain yield: a global meta-analysis** (2023)
-   117 citations · Soil Carbon
+   120 citations · Soil Carbon
 
 ## External Profiles
 

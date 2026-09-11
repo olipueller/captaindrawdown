@@ -1,7 +1,7 @@
 ---
 title: "Naira Meky"
 description: "Naira Meky is a Mid-career Biochar researcher at University of Tabuk in SA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.108028
+date: 2026-09-11T02:38:30.051839
 url: "/cdr-researcher-census/researchers/naira-meky-a5040546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 165 |
+| Citations | 174 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Zhifei Pan"
 description: "Zhifei Pan is a Mid-career Biochar researcher at Xuzhou University of Technology in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.861102
+date: 2026-09-11T02:38:29.808801
 url: "/cdr-researcher-census/researchers/zhifei-pan-a5058911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 241 |
+| Citations | 254 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave biochar produced with activated carbon catalyst: Characterization and adsorption of heavy metals** (2022)
-   100 citations · Biochar
+   103 citations · Biochar
 
 ## External Profiles
 

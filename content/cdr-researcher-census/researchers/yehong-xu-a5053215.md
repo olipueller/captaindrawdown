@@ -1,7 +1,7 @@
 ---
 title: "Yehong Xu"
 description: "Yehong Xu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.297266
+date: 2026-09-11T02:38:29.247062
 url: "/cdr-researcher-census/researchers/yehong-xu-a5053215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,005 |
+| Citations | 1,027 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon quality determined the responses of respiration components to nitrogen fertilization and straw return** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

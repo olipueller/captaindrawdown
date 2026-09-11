@@ -1,7 +1,7 @@
 ---
 title: "Benedict Probst"
-description: "Benedict Probst is a Mid-career General CDR researcher at University of Cambridge in GB. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.308460
+description: "Benedict Probst is a Mid-career General CDR researcher at University of Cambridge in GB. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.246104
 url: "/cdr-researcher-census/researchers/benedict-probst-a5091139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,32 +43,38 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 959 |
-| Publications | 55 |
-| CDR Focus | 12.7% |
+| Citations | 1,030 |
+| Publications | 58 |
+| CDR Focus | 15.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
-2. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
+2. **Ten new insights in climate science 2025** (2026)
    7 citations · General CDR
 
-3. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
+   7 citations · General CDR
 
-4. **Fixing carbon credits requires a new financing model** (2026)
+4. **Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   1 citations · General CDR
+
+5. **Fixing carbon credits requires a new financing model** (2026)
    0 citations · General CDR
 
-5. **Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+6. **Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
    0 citations · General CDR
 
-6. **Fixing carbon credits requires a new financing model** (2026)
+7. **Fixing carbon credits requires a new financing model** (2026)
    0 citations · General CDR
 
-7. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
+8. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+9. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR
 
 ## External Profiles

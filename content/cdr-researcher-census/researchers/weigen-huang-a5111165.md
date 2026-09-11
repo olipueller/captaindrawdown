@@ -1,7 +1,7 @@
 ---
 title: "Weigen Huang"
-description: "Weigen Huang is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.478288
+description: "Weigen Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.399186
 url: "/cdr-researcher-census/researchers/weigen-huang-a5111165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weigen-huang-a5111165/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Chinese Academy of Sciences"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5111165186"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Weigen Huang**  
-University of Chinese Academy of Sciences · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 548 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 8 |
+| Citations | 610 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

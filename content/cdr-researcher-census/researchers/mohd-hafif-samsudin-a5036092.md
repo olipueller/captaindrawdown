@@ -1,7 +1,7 @@
 ---
 title: "Mohd Hafif Samsudin"
-description: "Mohd Hafif Samsudin is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.687477
+description: "Mohd Hafif Samsudin is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.632531
 url: "/cdr-researcher-census/researchers/mohd-hafif-samsudin-a5036092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 339 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 353 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Production of nanopore structure bio-adsorbent from wood waste through a self-sustained carbonization process for landfill leachate treatment** (2022)
-   19 citations · Biochar
+   21 citations · Biochar
 
 2. **Economic evaluation of woodchip-derived bio-adsorbent production: a case study using a self-sustained pilot-scale pool-type carbonization reactor** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

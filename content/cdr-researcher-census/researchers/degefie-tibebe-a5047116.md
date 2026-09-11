@@ -1,7 +1,7 @@
 ---
 title: "Degefie Tibebe"
-description: "Degefie Tibebe is a Senior Soil Carbon researcher at Alliance Bioversity International and CIAT in ET. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.458105
+description: "Degefie Tibebe is a Senior Soil Carbon researcher at Alliance Bioversity International and CIAT in ET. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.409456
 url: "/cdr-researcher-census/researchers/degefie-tibebe-a5047116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 580 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 594 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modelling SOC dynamics on cropland under different regenerative agriculture practices and climate change scenario using RothC model in the Abbay basin of Ethiopia** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Interactive Web Tool for Mapping Soil Organic Carbon Dynamics** (2025)
    0 citations · General CDR

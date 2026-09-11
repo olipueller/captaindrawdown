@@ -1,7 +1,7 @@
 ---
 title: "Iylia Idris"
-description: "Iylia Idris is a Mid-career Biochar researcher at Universiti Teknologi MARA System in MY. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920474
+description: "Iylia Idris is a Mid-career Biochar researcher at Universiti Teknologi MARA System in MY. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.869116
 url: "/cdr-researcher-census/researchers/iylia-idris-a5027767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 219 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 229 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

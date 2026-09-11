@@ -1,7 +1,7 @@
 ---
 title: "Renaud de Richter"
-description: "Renaud de Richter is a Senior General CDR researcher. With 78 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.141685
+description: "Renaud de Richter is a Senior General CDR researcher. With 77 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.092018
 url: "/cdr-researcher-census/researchers/renaud-de-richter-a5059775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,33 +38,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 2,704 |
-| Publications | 78 |
-| CDR Focus | 7.7% |
+| Citations | 2,766 |
+| Publications | 77 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Atmospheric methane removal: a research agenda** (2021)
-   125 citations · General CDR
+   128 citations · General CDR
 
 2. **Perspectives on removal of atmospheric methane** (2022)
    81 citations · DAC
 
 3. **A nature-based negative emissions technology able to remove atmospheric methane and other greenhouse gases** (2021)
-   47 citations · General CDR
+   49 citations · General CDR
 
 4. **Atmospheric removal of methane by enhancing the natural hydroxyl radical sink** (2022)
-   31 citations
+   32 citations
 
 5. **Numerical analysis of solar chimney power plant integrated with CH4 photocatalytic reactors for fighting global warming under ambient crosswind** (2022)
-   21 citations · General CDR
+   23 citations · General CDR
 
-6. **A novel green technology: Reducing carbon dioxide and eliminating methane from the atmosphere** (2022)
-   19 citations
+6. **Experimental and kinetic studies on the photocatalysis of UV–vis light irradiation for low concentrations of the methane** (2024)
+   20 citations
 
-7. **Experimental and kinetic studies on the photocatalysis of UV–vis light irradiation for low concentrations of the methane** (2024)
-   16 citations
+7. **A novel green technology: Reducing carbon dioxide and eliminating methane from the atmosphere** (2022)
+   20 citations
 
 8. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
    1 citations · General CDR

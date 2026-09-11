@@ -1,7 +1,7 @@
 ---
 title: "Xiaoju Yue"
-description: "Xiaoju Yue is a Mid-career Biochar researcher at Tibet University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.194775
+description: "Xiaoju Yue is a Mid-career Biochar researcher at Tibet University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.093025
 url: "/cdr-researcher-census/researchers/xiaoju-yue-a5102606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 143 |
+| h-index | 8 |
+| Citations | 162 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

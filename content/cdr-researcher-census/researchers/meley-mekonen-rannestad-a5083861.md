@@ -1,7 +1,7 @@
 ---
 title: "Meley Mekonen Rannestad"
 description: "Meley Mekonen Rannestad is a Mid-career Soil Carbon researcher at Norwegian University of Life Sciences in NO. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.358681
+date: 2026-09-11T02:38:29.302358
 url: "/cdr-researcher-census/researchers/meley-mekonen-rannestad-a5083861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 791 |
+| Citations | 827 |
 | Publications | 48 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 2. **Grazing exclosures increase soil organic carbon stock at a rate greater than “4 per 1000” per year across agricultural landscapes in Northern Ethiopia** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Emergy synthesis of dry afromontane forest ecosystem services in Tigray, Ethiopia** (2026)
    0 citations · General CDR

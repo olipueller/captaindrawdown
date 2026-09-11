@@ -1,7 +1,7 @@
 ---
 title: "Tarimoboere Agbalalah"
-description: "Tarimoboere Agbalalah is a Mid-career Soil Carbon researcher at National Primary Health Care Development Agency in NG. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537846
+description: "Tarimoboere Agbalalah is a Mid-career Soil Carbon researcher at National Primary Health Care Development Agency in NG. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.480042
 url: "/cdr-researcher-census/researchers/tarimoboere-agbalalah-a5069733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 468 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 490 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

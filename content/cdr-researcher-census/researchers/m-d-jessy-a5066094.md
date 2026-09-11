@@ -1,7 +1,7 @@
 ---
 title: "M. D. Jessy"
 description: "M. D. Jessy is a Senior Soil Carbon researcher at Rubber Board in IN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.240881
+date: 2026-09-11T02:38:30.195919
 url: "/cdr-researcher-census/researchers/m-d-jessy-a5066094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 133 |
+| Citations | 138 |
 | Publications | 30 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

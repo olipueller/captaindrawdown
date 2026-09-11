@@ -1,7 +1,7 @@
 ---
 title: "Trond Simensen"
 description: "Trond Simensen is a Mid-career Soil Carbon researcher at Norwegian Institute for Cultural Heritage Research in NO. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.349524
+date: 2026-09-11T02:38:29.294971
 url: "/cdr-researcher-census/researchers/trond-simensen-a5070264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 816 |
+| Citations | 854 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

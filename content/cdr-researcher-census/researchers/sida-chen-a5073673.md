@@ -1,7 +1,7 @@
 ---
 title: "Sida Chen"
-description: "Sida Chen is a Mid-career General CDR researcher at Beijing Normal University in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.418068
+description: "Sida Chen is a Mid-career General CDR researcher at Beijing Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.345077
 url: "/cdr-researcher-census/researchers/sida-chen-a5073673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 101 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 109 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Social-ecological system sustainability in China from the perspective of supply-demand balance for ecosystem services** (2025)
-   68 citations · General CDR
+   71 citations · General CDR
 
 ## External Profiles
 

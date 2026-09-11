@@ -1,7 +1,7 @@
 ---
 title: "Cole D. Gross"
-description: "Cole D. Gross is a Mid-career Soil Carbon researcher at SUNY College of Environmental Science and Forestry in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505357
+description: "Cole D. Gross is a Mid-career Soil Carbon researcher at SUNY College of Environmental Science and Forestry in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.456536
 url: "/cdr-researcher-census/researchers/cole-d-gross-a5010542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 506 |
-| Publications | 35 |
-| CDR Focus | 14.3% |
+| Citations | 519 |
+| Publications | 36 |
+| CDR Focus | 13.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar and its manure-based feedstock have divergent effects on soil organic carbon and greenhouse gas emissions in croplands** (2021)
-   92 citations · Biochar
+   95 citations · Biochar
 
 2. **Agroforestry perennials reduce nitrous oxide emissions and their live and dead trees increase ecosystem carbon storage** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 3. **Carbon stocks differ among land-uses in agroforestry systems in western Canada** (2021)
    22 citations · Soil Carbon
 
 4. **Corn and Wheat Residue Management Effects on Greenhouse Gas Emissions in the Mid-Atlantic USA** (2022)
-   19 citations
+   20 citations
 
 5. **Forested lands have lower soil carbon priming effects than croplands in hedgerow agroforestry systems** (2025)
    2 citations · Soil Carbon

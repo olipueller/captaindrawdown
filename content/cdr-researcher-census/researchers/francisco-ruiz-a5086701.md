@@ -1,7 +1,7 @@
 ---
 title: "Francisco Ruíz"
 description: "Francisco Ruíz is a Senior Soil Carbon researcher at ESALQ - University of São Paulo in BR. With 95 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.243216
+date: 2026-09-11T02:38:29.191423
 url: "/cdr-researcher-census/researchers/francisco-ruiz-a5086701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,309 |
+| Citations | 1,350 |
 | Publications | 95 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Iron’s role in soil organic carbon (de)stabilization in mangroves under land use change** (2024)
-   70 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Soil organic matter stabilization during early stages of Technosol development from Ca, Mg and pyrite-rich parent material** (2023)
    11 citations · Soil Carbon
 
-5. **Irrigation reshapes weathering and pedogenesis in calcareous soils of tropical dryland (NE Brazil)** (2025)
+5. **Changes in soil organic matter content and quality in Amazonian mangrove forests converted to shrimp farms** (2026)
+   4 citations · Soil Carbon
+
+6. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
+   3 citations · Soil Carbon
+
+7. **Irrigation reshapes weathering and pedogenesis in calcareous soils of tropical dryland (NE Brazil)** (2025)
    3 citations · Enhanced Weathering
-
-6. **Changes in soil organic matter content and quality in Amazonian mangrove forests converted to shrimp farms** (2026)
-   2 citations · Soil Carbon
-
-7. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
-   1 citations · Soil Carbon
 
 8. **Sequestro de carbono e mecanismos de estabilização da matéria orgânica em Tecnossolos construídos para a recuperação de áreas degradadas por mineração** (2023)
    0 citations · General CDR

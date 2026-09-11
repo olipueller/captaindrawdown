@@ -1,7 +1,7 @@
 ---
 title: "Wendi Qu"
-description: "Wendi Qu is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.523485
+description: "Wendi Qu is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.472365
 url: "/cdr-researcher-census/researchers/wendi-qu-a5018242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 484 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 499 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of nitrogen input on carbon cycle and carbon budget in a coastal salt marsh** (2021)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Moderate nitrogen enrichment increases CO<sub>2</sub> sink strength in a coastal wetland** (2024)
    1 citations · Soil Carbon

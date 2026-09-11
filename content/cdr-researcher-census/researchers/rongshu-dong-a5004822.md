@@ -1,7 +1,7 @@
 ---
 title: "Rongshu Dong"
-description: "Rongshu Dong is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.421227
+description: "Rongshu Dong is a Mid-career Soil Carbon researcher. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.365594
 url: "/cdr-researcher-census/researchers/rongshu-dong-a5004822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rongshu Dong",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rongshu-dong-a5004822/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Chinese Academy of Tropical Agricultural Sciences"
-  },
   "sameAs": [
     "https://orcid.org/0009-0000-2485-2783",
     "https://openalex.org/A5004822121"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Rongshu Dong**  
-Chinese Academy of Tropical Agricultural Sciences · 🇨🇳 CN
+**Rongshu Dong**
 
 **Career Stage:** Mid-career
 
@@ -42,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 642 |
-| Publications | 38 |
-| CDR Focus | 10.5% |
+| h-index | 12 |
+| Citations | 673 |
+| Publications | 40 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Natural vegetation regeneration facilitated soil organic carbon sequestration and microbial community stability in the degraded karst ecosystem** (2022)
-   54 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Priming of soil organic carbon mineralization and its temperature sensitivity in response to vegetation restoration in a karst area of Southwest China** (2022)
    40 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Chunpei Li"
-description: "Chunpei Li is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.333519
+description: "Chunpei Li is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.275611
 url: "/cdr-researcher-census/researchers/chunpei-li-a5070748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 861 |
-| Publications | 62 |
-| CDR Focus | 6.5% |
+| Citations | 913 |
+| Publications | 61 |
+| CDR Focus | 6.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

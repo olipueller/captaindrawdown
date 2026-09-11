@@ -1,7 +1,7 @@
 ---
 title: "Erica Dorr"
-description: "Erica Dorr is a Mid-career Biochar researcher. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.546698
+description: "Erica Dorr is a Mid-career Biochar researcher. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.487949
 url: "/cdr-researcher-census/researchers/erica-dorr-a5078203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 460 |
+| h-index | 9 |
+| Citations | 481 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Best practices for consistent and reliable life cycle assessments of urban agriculture** (2023)
-   16 citations
+   18 citations
 
 2. **Quantifying Inertinite Carbon in Biochar** (2025)
    0 citations · Biochar

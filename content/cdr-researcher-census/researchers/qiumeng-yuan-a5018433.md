@@ -1,7 +1,7 @@
 ---
 title: "Qiumeng Yuan"
 description: "Qiumeng Yuan is a Mid-career General CDR researcher at Chongqing Jiaotong University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.112104
+date: 2026-09-11T02:38:30.041818
 url: "/cdr-researcher-census/researchers/qiumeng-yuan-a5018433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 164 |
+| Citations | 177 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Uncertainty-informed ship voyage optimization approach for exploiting safety, energy saving and low carbon routes** (2022)
-   24 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

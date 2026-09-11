@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Huang"
-description: "Zhiyuan Huang is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590090
+description: "Zhiyuan Huang is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.536529
 url: "/cdr-researcher-census/researchers/zhiyuan-huang-a5009750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 418 |
+| h-index | 11 |
+| Citations | 433 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |

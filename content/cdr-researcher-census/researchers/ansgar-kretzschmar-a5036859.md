@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
-description: "Ansgar Kretzschmar is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.778590
+description: "Ansgar Kretzschmar is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.672861
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 283 |
-| Publications | 29 |
-| CDR Focus | 13.8% |
+| Citations | 324 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 2. **CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Quanzhi Yuan"
-description: "Quanzhi Yuan is a Senior Soil Carbon researcher at Sichuan Normal University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.391018
+description: "Quanzhi Yuan is a Senior Soil Carbon researcher at Sichuan Normal University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.338246
 url: "/cdr-researcher-census/researchers/quanzhi-yuan-a5039298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 709 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 735 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of different restoration years on soil carbon sequestration and water retention capacity in bamboo forest: A case study in Southwest China Karst** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Effect of “Returning Farmland to Bamboo” Measures On Soil Carbon Sequestration and Water Retention Capacity：A Case Study in South China Karst** (2024)
    0 citations · Soil Carbon

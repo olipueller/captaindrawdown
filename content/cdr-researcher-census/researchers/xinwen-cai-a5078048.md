@@ -1,7 +1,7 @@
 ---
 title: "Xinwen Cai"
 description: "Xinwen Cai is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.814692
+date: 2026-09-11T02:38:29.775502
 url: "/cdr-researcher-census/researchers/xinwen-cai-a5078048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 265 |
+| Citations | 270 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil organic carbon and nitrogen pool sizes, dynamics, and biochemical stability during ∼160 years natural vegetation restoration on the Loess Plateau, China** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Natural revegetation over ∼ 160 years alters carbon and nitrogen sequestration and stabilization in soil organic matter on the Loess Plateau of China** (2022)
    33 citations · Soil Carbon

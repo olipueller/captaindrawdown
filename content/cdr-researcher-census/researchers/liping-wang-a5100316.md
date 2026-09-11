@@ -1,7 +1,7 @@
 ---
 title: "Liping Wang"
-description: "Liping Wang is a Mid-career Biochar researcher at Jimei University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.331168
+description: "Liping Wang is a Mid-career Biochar researcher at Jimei University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.386441
 url: "/cdr-researcher-census/researchers/liping-wang-a5100316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 116 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 102 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

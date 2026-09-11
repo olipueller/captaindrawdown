@@ -1,7 +1,7 @@
 ---
 title: "Chengzheng Li"
 description: "Chengzheng Li is a Mid-career Soil Carbon researcher at Jinan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.349949
+date: 2026-09-11T02:38:30.305934
 url: "/cdr-researcher-census/researchers/chengzheng-li-a5063949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 113 |
+| Citations | 117 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Effects of Different Tillage and Straw Return Practices on Soil Organic Carbon Dynamics from 1980 to 2022 in the Mollisol Region of Northeast China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

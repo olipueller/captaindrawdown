@@ -1,7 +1,7 @@
 ---
 title: "Xiaocui Xie"
 description: "Xiaocui Xie is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.912227
+date: 2026-09-11T02:38:29.867021
 url: "/cdr-researcher-census/researchers/xiaocui-xie-a5108715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 221 |
+| Citations | 229 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar co-pyrolyzed from peanut shells and maize straw improved soil biochemical properties, rice yield, and reduced cadmium mobilization and accumulation by rice: Biogeochemical investigations** (2024)
-   39 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

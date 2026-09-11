@@ -1,7 +1,7 @@
 ---
 title: "Yiping Jin"
-description: "Yiping Jin is a Senior Biochar researcher at Jilin Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850474
+description: "Yiping Jin is a Senior Biochar researcher at Zhejiang University of Technology in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.800418
 url: "/cdr-researcher-census/researchers/yiping-jin-a5030514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yiping-jin-a5030514/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jilin Agricultural University"
+    "name": "Zhejiang University of Technology"
   },
   "sameAs": "https://openalex.org/A5030514002"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yiping Jin**  
-Jilin Agricultural University · 🇨🇳 CN
+Zhejiang University of Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 246 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 258 |
+| Publications | 21 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar derived from straw residue prepared via combined pre-treatment designed for efficient removal of tetracycline hydrochloride and sulfadiazine sodium salt** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Biochar with enhanced performance prepared based on “graphite-structure regulation” conjecture designed to effectively control water pollution** (2024)
    10 citations · Biochar

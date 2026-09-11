@@ -1,7 +1,7 @@
 ---
 title: "Arash Ostovar"
-description: "Arash Ostovar is a Mid-career DAC researcher at Malek Ashtar University of Technology in IR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.696261
+description: "Arash Ostovar is a Mid-career DAC researcher at Malek Ashtar University of Technology in IR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.636304
 url: "/cdr-researcher-census/researchers/arash-ostovar-a5019334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 333 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 350 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>** (2022)
-   263 citations · DAC
+   276 citations · DAC
 
 ## External Profiles
 

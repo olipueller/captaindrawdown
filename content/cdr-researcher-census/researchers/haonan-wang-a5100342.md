@@ -1,7 +1,7 @@
 ---
 title: "Haonan Wang"
-description: "Haonan Wang is a Mid-career Biochar researcher at Ocean University of China in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.029712
+description: "Haonan Wang is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.950665
 url: "/cdr-researcher-census/researchers/haonan-wang-a5100342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haonan-wang-a5100342/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ocean University of China"
+    "name": "University of Science and Technology of China"
   },
   "sameAs": "https://openalex.org/A5100342600"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Haonan Wang**  
-Ocean University of China · 🇨🇳 CN
+University of Science and Technology of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 188 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 205 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Kai Yang"
-description: "Kai Yang is a Senior Soil Carbon researcher at CHN Energy (China). With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.256579
+description: "Kai Yang is a Senior Soil Carbon researcher at CHN Energy (China). With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.202121
 url: "/cdr-researcher-census/researchers/kai-yang-a5101506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,221 |
+| h-index | 19 |
+| Citations | 1,265 |
 | Publications | 39 |
 | CDR Focus | 10.3% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mycorrhizal type regulates trade-offs between plant and soil carbon in forests** (2023)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
-2. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   33 citations · General CDR
+2. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
+   37 citations
 
-3. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
-   32 citations
+3. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
+   36 citations · General CDR
 
 4. **Carbon sink of forest ecosystems: Concept, time effect and improvement approaches.** (2024)
    3 citations · General CDR

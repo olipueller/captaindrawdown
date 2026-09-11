@@ -1,7 +1,7 @@
 ---
 title: "Xiong Fang"
-description: "Xiong Fang is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.393927
+description: "Xiong Fang is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341544
 url: "/cdr-researcher-census/researchers/xiong-fang-a5041610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 702 |
-| Publications | 55 |
-| CDR Focus | 7.3% |
+| Citations | 725 |
+| Publications | 56 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Response of Soil CO2 Emission to Addition of Biochar and Dissolved Organic Carbon along a Vegetation Restoration Gradient of Subtropical China** (2024)
-   2 citations · Biochar
+1. **Drought Offsets the Potential Effects of Nitrogen Addition on Soil Respiration and Organic Carbon in Model Subtropical Forests** (2022)
+   3 citations · Soil Carbon
 
-2. **Drought Offsets the Potential Effects of Nitrogen Addition on Soil Respiration and Organic Carbon in Model Subtropical Forests** (2022)
-   2 citations · Soil Carbon
+2. **Response of Soil CO2 Emission to Addition of Biochar and Dissolved Organic Carbon along a Vegetation Restoration Gradient of Subtropical China** (2024)
+   2 citations · Biochar
 
 3. **Research on Soil Acidification and Heavy Metals: A Comparative Bibliometric Analysis Based on CNKI and Web of Science (2005–2025)** (2026)
    1 citations · Biochar

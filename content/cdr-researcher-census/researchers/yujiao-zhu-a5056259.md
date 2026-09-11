@@ -1,7 +1,7 @@
 ---
 title: "Yujiao Zhu"
 description: "Yujiao Zhu is an Early-career Biochar researcher at Ningbo University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.832470
+date: 2026-09-11T02:38:29.788206
 url: "/cdr-researcher-census/researchers/yujiao-zhu-a5056259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 256 |
+| Citations | 265 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step self-assembly of Fe-biochar composite for enhanced persulfate activation to phenol degradation: Different active sites-induced radical/non-radical mechanism** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

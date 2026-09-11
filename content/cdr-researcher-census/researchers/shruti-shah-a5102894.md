@@ -1,7 +1,7 @@
 ---
 title: "Shruti Shah"
-description: "Shruti Shah is a Senior BECCS researcher at Kumaun University in IN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.205680
+description: "Shruti Shah is a Senior BECCS researcher at Kumaun University in IN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.152604
 url: "/cdr-researcher-census/researchers/shruti-shah-a5102894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 141 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 148 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Vani Novita Alviani"
-description: "Vani Novita Alviani is a Mid-career BECCS researcher at Tohoku University in JP. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.632588
+description: "Vani Novita Alviani is a Mid-career BECCS researcher at Tohoku University in JP. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.567696
 url: "/cdr-researcher-census/researchers/vani-novita-alviani-a5037600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 379 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 9 |
+| Citations | 403 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

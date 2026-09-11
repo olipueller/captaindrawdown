@@ -1,7 +1,7 @@
 ---
 title: "Hilaire Sorébou Sanni Worogo"
 description: "Hilaire Sorébou Sanni Worogo is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130441
+date: 2026-09-11T02:38:30.088457
 url: "/cdr-researcher-census/researchers/hilaire-sorebou-sanni-worogo-a5080529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 159 |
+| Citations | 164 |
 | Publications | 35 |
 | CDR Focus | 8.6% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Lessons from a next generation carbon ranching experiment** (2022)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **Carbon sequestration uncertainty: is grazing-induced soil organic carbon accrual offset by inorganic carbon loss?** (2024)
    3 citations · Soil Carbon

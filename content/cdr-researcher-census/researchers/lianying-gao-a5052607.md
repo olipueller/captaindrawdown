@@ -1,7 +1,7 @@
 ---
 title: "Lianying Gao"
-description: "Lianying Gao is a Senior Ocean CDR researcher at Tongji University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.407498
+description: "Lianying Gao is a Senior Ocean CDR researcher at Tongji University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.363415
 url: "/cdr-researcher-census/researchers/lianying-gao-a5052607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 673 |
+| h-index | 7 |
+| Citations | 678 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

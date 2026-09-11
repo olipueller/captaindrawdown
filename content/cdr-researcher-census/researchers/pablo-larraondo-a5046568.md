@@ -1,7 +1,7 @@
 ---
 title: "Pablo Larraondo"
 description: "Pablo Larraondo is a Mid-career Soil Carbon researcher. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.285161
+date: 2026-09-11T02:38:29.233341
 url: "/cdr-researcher-census/researchers/pablo-larraondo-a5046568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,067 |
+| Citations | 1,089 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

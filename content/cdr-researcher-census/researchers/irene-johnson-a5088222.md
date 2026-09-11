@@ -1,7 +1,7 @@
 ---
 title: "Irene Johnson"
-description: "Irene Johnson is a Senior Soil Carbon researcher at University of Sheffield in GB. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.402354
+description: "Irene Johnson is a Senior Soil Carbon researcher at University of Sheffield in GB. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.357482
 url: "/cdr-researcher-census/researchers/irene-johnson-a5088222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 686 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 694 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

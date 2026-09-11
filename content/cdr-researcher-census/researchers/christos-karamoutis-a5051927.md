@@ -1,7 +1,7 @@
 ---
 title: "Christos Karamoutis"
 description: "Christos Karamoutis is a Mid-career Soil Carbon researcher at University of Thessaly in GR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.376058
+date: 2026-09-11T02:38:30.338976
 url: "/cdr-researcher-census/researchers/christos-karamoutis-a5051927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
+| Citations | 110 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rotational Tillage Practices to Deal with Soil Compaction in Carbon Farming** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

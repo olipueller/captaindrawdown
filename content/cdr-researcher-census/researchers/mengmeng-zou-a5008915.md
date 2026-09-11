@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Zou"
-description: "Mengmeng Zou is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.226481
+description: "Mengmeng Zou is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.173158
 url: "/cdr-researcher-census/researchers/mengmeng-zou-a5008915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,8 +34,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,421 |
+| h-index | 15 |
+| Citations | 1,472 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic material addition on active soil organic carbon and microbial diversity: A meta-analysis** (2024)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 ## External Profiles
 

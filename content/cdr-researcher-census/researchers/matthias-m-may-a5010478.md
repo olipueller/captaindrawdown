@@ -1,7 +1,7 @@
 ---
 title: "Matthias M. May"
-description: "Matthias M. May is a Senior General CDR researcher at Universität Tübingen in DE. With 124 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.139117
+description: "Matthias M. May is a Senior General CDR researcher at Universität Tübingen in DE. With 128 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.088610
 url: "/cdr-researcher-census/researchers/matthias-m-may-a5010478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,798 |
-| Publications | 124 |
-| CDR Focus | 6.5% |
+| Citations | 2,854 |
+| Publications | 128 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,29 +56,29 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **From CO2 to solid carbon: reaction mechanism, active species, and conditioning the Ce-alloyed GaInSn catalyst** (2024)
    1 citations
 
-3. **Electrochemical Studies on CO2-Reduction to Carbon-Rich Products for the Removal of Carbon Dioxide in the Context of Negative Emission Technologies.** (2025)
+3. **Temperature-and potential-induced exfoliation of electrochemically produced solid carbon from CO2 on a Ce:GaInSn electrode** (2026)
    0 citations · General CDR
 
-4. **On the way to realizing the potential of long-term safe carbon dioxide removal out of the atmosphere by artificial photosynthesis** (2026)
+4. **Electrochemical Studies on CO2-Reduction to Carbon-Rich Products for the Removal of Carbon Dioxide in the Context of Negative Emission Technologies.** (2025)
    0 citations · General CDR
 
-5. **From CO2 to Solid Carbon &amp;#8211; Realizing Carbon Dioxide Removal with Liquid Metal-Based Electrocatalysis** (2025)
+5. **On the way to realizing the potential of long-term safe carbon dioxide removal out of the atmosphere by artificial photosynthesis** (2026)
    0 citations · General CDR
 
-6. **Land conversions not climate effects are the dominant consequence of sun-driven CO2 capture, conversion, and sequestration** (2024)
+6. **From CO2 to Solid Carbon &amp;#8211; Realizing Carbon Dioxide Removal with Liquid Metal-Based Electrocatalysis** (2025)
+   0 citations · General CDR
+
+7. **Land conversions not climate effects are the dominant consequence of sun-driven CO2 capture, conversion, and sequestration** (2024)
    0 citations · DAC
 
-7. **Negative Emissions based on Photoelectrochemical Methods: Surface Investigation of Potential Catalysts** (2023)
+8. **Negative Emissions based on Photoelectrochemical Methods: Surface Investigation of Potential Catalysts** (2023)
    0 citations · General CDR
 
-8. **Consequences of the spatial configuration of Carbon Dioxide Removal for its potential to withdraw atmospheric CO2** (2023)
+9. **Consequences of the spatial configuration of Carbon Dioxide Removal for its potential to withdraw atmospheric CO2** (2023)
    0 citations · General CDR
 
-9. **Climatic response of thermally coupled solar water splitting in Antarctica** (2022)
+10. **Climatic response of thermally coupled solar water splitting in Antarctica** (2022)
    0 citations
-
-10. **Investigating potential climatic side-effects of a large-scale deployment of photoelectrochemical devices for carbon dioxide removal** (2022)
-   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Praveen Kumar"
-description: "Praveen Kumar is a Mid-career Biochar researcher at Indian Institute of Technology Indore in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.357688
+description: "Praveen Kumar is a Mid-career Biochar researcher at Indian Institute of Technology Indore in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.318289
 url: "/cdr-researcher-census/researchers/praveen-kumar-a5103649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 111 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 114 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

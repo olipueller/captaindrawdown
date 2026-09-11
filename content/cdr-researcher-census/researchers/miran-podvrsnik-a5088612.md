@@ -1,7 +1,7 @@
 ---
 title: "Miran Podvršnik"
 description: "Miran Podvršnik is a Mid-career Soil Carbon researcher at University of Maribor in SI. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.280018
+date: 2026-09-11T02:38:30.243978
 url: "/cdr-researcher-census/researchers/miran-podvrsnik-a5088612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
+| Citations | 129 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Grassland Management System Intensity on Composition of Functional Groups and Soil Chemical Properties in Semi-Natural Grasslands** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qilin Lv"
-description: "Qilin Lv is a Mid-career Soil Carbon researcher at Singapore General Hospital in SG. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.026793
+description: "Qilin Lv is a Mid-career Soil Carbon researcher at University of Jinan in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.948305
 url: "/cdr-researcher-census/researchers/qilin-lv-a5088428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qilin-lv-a5088428/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Singapore General Hospital"
+    "name": "University of Jinan"
   },
   "sameAs": "https://openalex.org/A5088428875"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qilin Lv**  
-Singapore General Hospital · 🇸🇬 SG
+University of Jinan · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 189 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| h-index | 9 |
+| Citations | 206 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    13 citations · Soil Carbon

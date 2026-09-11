@@ -1,7 +1,7 @@
 ---
 title: "Chenggong Liu"
-description: "Chenggong Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.283399
+description: "Chenggong Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.224380
 url: "/cdr-researcher-census/researchers/chenggong-liu-a5023767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 125 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| h-index | 6 |
+| Citations | 132 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

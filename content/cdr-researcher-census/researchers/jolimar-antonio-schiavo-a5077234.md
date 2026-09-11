@@ -1,7 +1,7 @@
 ---
 title: "Jolimar Antônio Schiavo"
-description: "Jolimar Antônio Schiavo is a Senior Soil Carbon researcher at Universidade Estadual do Mato Grosso do Sul in BR. With 96 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320657
+description: "Jolimar Antônio Schiavo is a Senior Soil Carbon researcher at Universidade Estadual do Mato Grosso do Sul in BR. With 98 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.270663
 url: "/cdr-researcher-census/researchers/jolimar-antonio-schiavo-a5077234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 906 |
-| Publications | 96 |
-| CDR Focus | 6.2% |
+| Citations | 933 |
+| Publications | 98 |
+| CDR Focus | 6.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Isotopic variations of carbon and nitrogen and their implications on the conversion of Cerrado vegetation into pasture** (2021)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Black soils in the southwest of the Brazilian Pantanal: Organic carbon and secondary carbonates accumulation in Phaeozems–Gleysol-Chernozem** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Chemical and Spectroscopic Characteristics of Humic Acids Under No-Tillage and Forest Systems** (2023)
    5 citations · Soil Carbon

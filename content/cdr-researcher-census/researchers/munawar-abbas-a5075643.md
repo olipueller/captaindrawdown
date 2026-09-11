@@ -1,7 +1,7 @@
 ---
 title: "Munawar Abbas"
-description: "Munawar Abbas is a Mid-career BECCS researcher at Henan University of Technology in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.367154
+description: "Munawar Abbas is a Mid-career BECCS researcher at National Institute for Biotechnology and Genetic Engineering in PK. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.254012
 url: "/cdr-researcher-census/researchers/munawar-abbas-a5075643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/munawar-abbas-a5075643/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan University of Technology"
+    "name": "National Institute for Biotechnology and Genetic Engineering"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-9847-7936",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Munawar Abbas**  
-Henan University of Technology · 🇨🇳 CN
+National Institute for Biotechnology and Genetic Engineering · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 110 |
+| Citations | 127 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **"Biomass crops for sustainable energy in Europe: contributions to bioenergy, environment, and energy security"** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiayu Zhang"
-description: "Jiayu Zhang is a Mid-career General CDR researcher at University of Electronic Science and Technology of China in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.886305
+description: "Jiayu Zhang is a Mid-career General CDR researcher at Tsinghua University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.846962
 url: "/cdr-researcher-census/researchers/jiayu-zhang-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiayu-zhang-a5100324/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Electronic Science and Technology of China"
+    "name": "Tsinghua University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6746-9757",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiayu Zhang**  
-University of Electronic Science and Technology of China · 🇨🇳 CN
+Tsinghua University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 231 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 237 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 2. **Estimation of carbon sequestration potential and air quality impacts of biochar production from straw in China** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "M Dela Costa"
 description: "M Dela Costa is a Mid-career Soil Carbon researcher at Deakin University in AU. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.871738
+date: 2026-09-11T02:38:29.845963
 url: "/cdr-researcher-census/researchers/m-dela-costa-a5103933/"
 layout: "researcher"
 hiddenInHomeList: true

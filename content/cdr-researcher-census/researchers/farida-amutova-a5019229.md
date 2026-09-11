@@ -1,7 +1,7 @@
 ---
 title: "Farida Amutova"
-description: "Farida Amutova is a Mid-career Biochar researcher at Agenus (United States) in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.928817
+description: "Farida Amutova is a Mid-career Biochar researcher at Agenus (United States) in US. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.879242
 url: "/cdr-researcher-census/researchers/farida-amutova-a5019229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 215 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 225 |
+| Publications | 36 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorption of organochlorinated pesticides: Adsorption kinetic and adsorption isotherm study** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar

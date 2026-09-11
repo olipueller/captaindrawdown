@@ -1,7 +1,7 @@
 ---
 title: "Siyu Ren"
-description: "Siyu Ren is a Mid-career Biochar researcher at Tongji University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183011
+description: "Siyu Ren is a Mid-career Biochar researcher at Tongji University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.054237
 url: "/cdr-researcher-census/researchers/siyu-ren-a5111078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 146 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 8 |
+| Citations | 174 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    18 citations · General CDR
 
 2. **Bridging the Microbial and Mineral Carbon Pumps: Biochar for Synergistic Soil Carbon Sequestration** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

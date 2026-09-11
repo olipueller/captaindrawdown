@@ -1,7 +1,7 @@
 ---
 title: "Casey L. France"
-description: "Casey L. France is an Early-career Soil Carbon researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.358739
+description: "Casey L. France is an Early-career Soil Carbon researcher at University of Nebraska at Kearney in US. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.319214
 url: "/cdr-researcher-census/researchers/casey-l-france-a5000277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Casey L. France",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/casey-l-france-a5000277/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Nebraska at Kearney"
+  },
   "sameAs": "https://openalex.org/A5000277909"
 }
 </script>
 
 ## Profile
 
-**Casey L. France**
+**Casey L. France**  
+University of Nebraska at Kearney · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -35,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 111 |
+| Citations | 114 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
-| Trajectory | Unknown |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration, greenhouse gas emissions, and water pollution under different tillage practices** (2022)
-   113 citations · Soil Carbon
+   115 citations · Soil Carbon
 
 ## External Profiles
 

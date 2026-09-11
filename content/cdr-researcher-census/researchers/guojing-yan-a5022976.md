@@ -1,7 +1,7 @@
 ---
 title: "Guojing Yan"
-description: "Guojing Yan is a Mid-career Soil Carbon researcher at Taiyuan University of Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.400224
+description: "Guojing Yan is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.283957
 url: "/cdr-researcher-census/researchers/guojing-yan-a5022976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guojing-yan-a5022976/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Taiyuan University of Technology"
+    "name": "University of Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5022976641"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Guojing Yan**  
-Taiyuan University of Technology · 🇨🇳 CN
+University of Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 104 |
+| Citations | 121 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Historical and future dynamics of cropland soil organic carbon stocks in an intensive human-impacted area of southeastern China** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

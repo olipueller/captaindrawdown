@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Zimmerman"
-description: "Andrew R. Zimmerman is an Eminent Biochar researcher at University of Florida in US. With 233 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.062688
+description: "Andrew R. Zimmerman is an Eminent Biochar researcher at University of Florida in US. With 231 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.015576
 url: "/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 76 |
-| Citations | 28,105 |
-| Publications | 233 |
+| Citations | 28,438 |
+| Publications | 231 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Sewage sludge biochars as effective PFAS-sorbents** (2022)
-   118 citations · Biochar
+   119 citations · Biochar
 
 2. **Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs)** (2022)
-   88 citations · Biochar
+   89 citations · Biochar
 
 3. **Microwave-assisted pyrolysis derived biochar for volatile organic compounds treatment: Characteristics and adsorption performance** (2022)
    78 citations · Biochar
 
 4. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 5. **Adsorption of extracellular enzymes by biochar: Impacts of enzyme and biochar properties** (2024)
-   25 citations · Biochar
+   27 citations · Biochar
 
 6. **Mineralogic controls are harbingers of hydrological controls on soil organic matter content in warmer boreal forests** (2022)
    16 citations

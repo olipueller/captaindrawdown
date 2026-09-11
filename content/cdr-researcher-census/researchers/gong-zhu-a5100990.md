@@ -1,7 +1,7 @@
 ---
 title: "Gong Zhu"
 description: "Gong Zhu is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.244247
+date: 2026-09-11T02:38:30.218719
 url: "/cdr-researcher-census/researchers/gong-zhu-a5100990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 132 |
+| Citations | 133 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hydrothermal-assisted acid-etching of oil shale semi-coke for preparation of mineral/biochar nanocomposites and selective adsorption toward mycotoxins** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

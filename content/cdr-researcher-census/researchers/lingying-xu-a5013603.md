@@ -1,7 +1,7 @@
 ---
 title: "Lingying Xu"
-description: "Lingying Xu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.477996
+description: "Lingying Xu is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.413820
 url: "/cdr-researcher-census/researchers/lingying-xu-a5013603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lingying-xu-a5013603/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yunnan Agricultural University"
+    "name": "Institute of Soil Science"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7528-3509",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lingying Xu**  
-Yunnan Agricultural University · 🇨🇳 CN
+Institute of Soil Science · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 548 |
-| Publications | 37 |
-| CDR Focus | 13.5% |
+| Citations | 588 |
+| Publications | 39 |
+| CDR Focus | 12.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of vegetation restoration on soil erosion control and soil carbon and nitrogen dynamics: A meta-analysis** (2023)
-   60 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Organic Fertilization Leads to N Limitation Rather than P Limitation in Both Vegetable Soils** (2025)
    5 citations · Biochar

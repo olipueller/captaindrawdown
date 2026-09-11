@@ -1,7 +1,7 @@
 ---
 title: "Adnan Hussain"
-description: "Adnan Hussain is a Mid-career Soil Carbon researcher at National Chung Cheng University in TW. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.500210
+description: "Adnan Hussain is a Mid-career Soil Carbon researcher at Karakoram International University in PK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.433732
 url: "/cdr-researcher-census/researchers/adnan-hussain-a5102868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adnan-hussain-a5102868/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Chung Cheng University"
+    "name": "Karakoram International University"
   },
   "sameAs": "https://openalex.org/A5102868850"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Adnan Hussain**  
-National Chung Cheng University · 🇹🇼 TW
+Karakoram International University · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 514 |
+| Citations | 557 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the impact of land use and land cover changes on soil properties and carbon sequestration in the upper Himalayan Region of Gilgit, Pakistan** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

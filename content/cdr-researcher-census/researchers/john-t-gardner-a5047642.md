@@ -1,7 +1,7 @@
 ---
 title: "John T. Gardner"
-description: "John T. Gardner is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.221717
+description: "John T. Gardner is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.172688
 url: "/cdr-researcher-census/researchers/john-t-gardner-a5047642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 1,464 |
+| h-index | 13 |
+| Citations | 1,477 |
 | Publications | 32 |
-| CDR Focus | 15.6% |
+| CDR Focus | 18.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 2. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
    4 citations · General CDR

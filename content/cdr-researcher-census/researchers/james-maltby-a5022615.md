@@ -1,7 +1,7 @@
 ---
 title: "James Maltby"
-description: "James Maltby is a Mid-career General CDR researcher at Defence Science and Technology Laboratory in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.255226
+description: "James Maltby is a Senior General CDR researcher at Defence Science and Technology Laboratory in GB. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.201925
 url: "/cdr-researcher-census/researchers/james-maltby-a5022615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **James Maltby**  
 Defence Science and Technology Laboratory · 🇬🇧 GB
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 130 |
-| Publications | 3 |
-| CDR Focus | 33.3% |
+| Citations | 136 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate policy decision making in contexts of deep uncertainty - from optimisation to robustness** (2021)
-   50 citations · General CDR
+   52 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Erli Pinto dos Santos"
-description: "Erli Pinto dos Santos is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.972320
+description: "Erli Pinto dos Santos is a Mid-career Soil Carbon researcher at Universidade Federal Rural do Rio de Janeiro in BR. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.907051
 url: "/cdr-researcher-census/researchers/erli-pinto-dos-santos-a5019015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Erli Pinto dos Santos",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/erli-pinto-dos-santos-a5019015/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade Federal Rural do Rio de Janeiro"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-4888-906X",
     "https://openalex.org/A5019015232"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Erli Pinto dos Santos**
+**Erli Pinto dos Santos**  
+Universidade Federal Rural do Rio de Janeiro · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 206 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 215 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

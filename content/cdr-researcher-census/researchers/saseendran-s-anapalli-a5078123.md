@@ -1,7 +1,7 @@
 ---
 title: "Saseendran S. Anapalli"
-description: "Saseendran S. Anapalli is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268555
+description: "Saseendran S. Anapalli is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 64 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.217794
 url: "/cdr-researcher-census/researchers/saseendran-s-anapalli-a5078123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,154 |
-| Publications | 61 |
-| CDR Focus | 8.2% |
+| Citations | 1,180 |
+| Publications | 64 |
+| CDR Focus | 7.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Biochar
 
 2. **No‐till impacts on soil organic carbon and soil quality in the Lower Mississippi River basin: Implications for sustainable management** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Effect of Rye cover crop on weed control, soybean (Glycine max L.) yield and profitability** (2022)
    2 citations · Soil Carbon

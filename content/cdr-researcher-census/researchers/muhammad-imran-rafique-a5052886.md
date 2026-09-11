@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Imran Rafique"
-description: "Muhammad Imran Rafique is a Mid-career Biochar researcher at King Saud University in SA. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.418392
+description: "Muhammad Imran Rafique is a Mid-career Biochar researcher at King Saud University in SA. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.360008
 url: "/cdr-researcher-census/researchers/muhammad-imran-rafique-a5052886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 648 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 687 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impacts of kaolinite enrichment on biochar and hydrochar characterization, stability, toxicity, and maize germination and growth** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Clay-Biochar Composites: Emerging Applications in Soil** (2023)
    5 citations · Biochar

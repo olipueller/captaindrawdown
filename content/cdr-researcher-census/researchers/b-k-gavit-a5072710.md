@@ -1,7 +1,7 @@
 ---
 title: "B. K. Gavit"
-description: "B. K. Gavit is a Mid-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.102742
+description: "B. K. Gavit is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.066848
 url: "/cdr-researcher-census/researchers/b-k-gavit-a5072710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/b-k-gavit-a5072710/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Mahatma Phule Krishi Vidyapeeth"
+    "name": "Natural Resources Conservation Service"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7501-5501",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **B. K. Gavit**  
-Mahatma Phule Krishi Vidyapeeth · 🇮🇳 IN
+Natural Resources Conservation Service · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 167 |
+| Citations | 171 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

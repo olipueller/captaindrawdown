@@ -1,7 +1,7 @@
 ---
 title: "Vijay M. Shah"
-description: "Vijay M. Shah is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.339910
+description: "Vijay M. Shah is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.286750
 url: "/cdr-researcher-census/researchers/vijay-m-shah-a5030971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 114 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 4 |
+| Citations | 120 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Process Integration of Membrane-Based CO <sub>2</sub> Capture and Electrochemical Oxygen Removal to Generate CO <sub>2</sub> Utilization Feeds <sub/>** (2025)
+1. **Impact of feed composition on performance of PDMS nanomembrane-based multistage CO2 capture** (2026)
+   2 citations
+
+2. **Process Integration of Membrane-Based CO <sub>2</sub> Capture and Electrochemical Oxygen Removal to Generate CO <sub>2</sub> Utilization Feeds <sub/>** (2025)
    0 citations · DAC
 
-2. **Impact of Feed Composition on Performance of PDMS Nanomembrane-Based Multistage CO2 Capture** (2025)
+3. **Impact of Feed Composition on Performance of PDMS Nanomembrane-Based Multistage CO2 Capture** (2025)
    0 citations
 
 ## External Profiles

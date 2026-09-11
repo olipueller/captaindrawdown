@@ -1,7 +1,7 @@
 ---
 title: "Baijun Shang"
-description: "Baijun Shang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.228936
+description: "Baijun Shang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.140547
 url: "/cdr-researcher-census/researchers/baijun-shang-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 136 |
+| h-index | 6 |
+| Citations | 151 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

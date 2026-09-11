@@ -1,7 +1,7 @@
 ---
 title: "Marjetka Suhadolc"
-description: "Marjetka Suhadolc is a Senior Soil Carbon researcher at University of Ljubljana in SI. With 77 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.300117
+description: "Marjetka Suhadolc is a Senior Soil Carbon researcher at University of Ljubljana in SI. With 81 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.249280
 url: "/cdr-researcher-census/researchers/marjetka-suhadolc-a5023875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 990 |
-| Publications | 77 |
-| CDR Focus | 10.4% |
+| Citations | 1,014 |
+| Publications | 81 |
+| CDR Focus | 9.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Combined effects of long-term tillage and fertilisation regimes on soil organic carbon, microbial biomass, and abundance of the total microbial communities and N-functional guilds** (2023)
-   38 citations · Soil Carbon
+1. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
+   39 citations · General CDR
 
-2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   37 citations · General CDR
+2. **Combined effects of long-term tillage and fertilisation regimes on soil organic carbon, microbial biomass, and abundance of the total microbial communities and N-functional guilds** (2023)
+   38 citations · Soil Carbon
 
 3. **Tree Species Effects on <scp>SOC</scp> and Soil Microbial Properties: Case Study From Beech and Spruce Stands in Bohinj Valley, Slovenia** (2025)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yali Meng"
-description: "Yali Meng is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 121 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.109418
+description: "Yali Meng is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 123 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.058819
 url: "/cdr-researcher-census/researchers/yali-meng-a5101480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 4,132 |
-| Publications | 121 |
-| CDR Focus | 6.6% |
+| Citations | 4,251 |
+| Publications | 123 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Responses of SOC, labile SOC fractions, and amino sugars to different organic amendments in a coastal saline-alkali soil** (2024)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Responses of greenhouse gas emissions to different straw management methods with the same amount of carbon input in cotton field** (2021)
    43 citations · Soil Carbon
@@ -60,18 +60,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Biochar
 
 4. **Enhancement joint fertilization efficacy of straw and nitrogen fertilizer on soil quality and seedcotton yield for sustainable cotton farming** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **External carbon addition alters soil photosynthetic carbon accumulation and rhizosphere processes of carbon** (2024)
    4 citations · Soil Carbon
 
 6. **Effect of Straw Input on Soil Carbon Sequestration in Clay Loam and Sandy Loam Soils in a Wheat-cotton Cropping System** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-7. **Soil carbon sequestration and microbial metabolic limitation under wheat-cotton straw returning with potassium fertilization** (2026)
+7. **Annual straw return mode enhances soil quality, apparent stable organic carbon saturation capacity, and seedcotton yield stability in East China** (2026)
+   0 citations
+
+8. **Soil carbon sequestration and microbial metabolic limitation under wheat-cotton straw returning with potassium fertilization** (2026)
    0 citations · Soil Carbon
 
-8. **External Carbon Addition Alters Photosynthetic Carbon Allocation and Improves Carbon Sequestration in a Cotton-Soil System** (2023)
+9. **External Carbon Addition Alters Photosynthetic Carbon Allocation and Improves Carbon Sequestration in a Cotton-Soil System** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

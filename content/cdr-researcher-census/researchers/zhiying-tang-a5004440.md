@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Tang"
 description: "Zhiying Tang is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.382807
+date: 2026-09-11T02:38:30.326124
 url: "/cdr-researcher-census/researchers/zhiying-tang-a5004440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 107 |
+| Citations | 113 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade-offs and driving factors of multiple ecosystem services and bundles under spatiotemporal changes in the Danjiangkou Basin, China** (2022)
-   28 citations · General CDR
+   29 citations · General CDR
 
 2. **The Dominant Factor Affecting Soil Organic Carbon in Subtropical Phyllostachys edulis Forests Is Climatic Factors Rather Than Soil Physicochemical Properties** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

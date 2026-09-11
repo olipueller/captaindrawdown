@@ -1,7 +1,7 @@
 ---
 title: "Giulia Maria Curcio"
-description: "Giulia Maria Curcio is a Mid-career BECCS researcher at University of Calabria in IT. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.546603
+description: "Giulia Maria Curcio is a Mid-career BECCS researcher at University of Calabria in IT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.486301
 url: "/cdr-researcher-census/researchers/giulia-maria-curcio-a5083674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 460 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 483 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

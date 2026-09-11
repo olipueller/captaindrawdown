@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
-description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.229339
+description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.180850
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,398 |
-| Publications | 82 |
-| CDR Focus | 13.4% |
+| Citations | 1,414 |
+| Publications | 80 |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   38 citations · General CDR
+   39 citations · General CDR
 
 2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR
 
 3. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   10 citations · General CDR
+   12 citations · General CDR
 
-4. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
+4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+   3 citations
+
+5. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
    2 citations · General CDR
 
-5. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+6. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
    2 citations · General CDR
-
-6. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
-   2 citations
 
 7. **Numerical dye tracer experiments in Bedford Basin in support of Ocean Alkalinity Enhancement research** (2024)
    1 citations · General CDR

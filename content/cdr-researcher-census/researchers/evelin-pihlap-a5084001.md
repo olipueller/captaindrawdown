@@ -1,7 +1,7 @@
 ---
 title: "Evelin Pihlap"
-description: "Evelin Pihlap is a Mid-career Enhanced Weathering researcher at Estonian University of Life Sciences in EE. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855912
+description: "Evelin Pihlap is a Mid-career Enhanced Weathering researcher at Estonian University of Life Sciences in EE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.798277
 url: "/cdr-researcher-census/researchers/evelin-pihlap-a5084001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 243 |
-| Publications | 27 |
-| CDR Focus | 22.2% |
+| h-index | 7 |
+| Citations | 259 |
+| Publications | 28 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,16 +56,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    8 citations · Enhanced Weathering
 
-3. **Effects of rock amendment on soil physicochemical properties and organic carbon stabilization** (2025)
+3. **Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed** (2026)
    2 citations · Enhanced Weathering
 
-4. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
+4. **Effects of rock amendment on soil physicochemical properties and organic carbon stabilization** (2025)
    2 citations · Enhanced Weathering
 
-5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+5. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
+   2 citations · Enhanced Weathering
 
-6. **Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed** (2026)
+6. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
 7. **Effects of enhanced mineral weathering on soil structure and organic carbon storage** (2024)

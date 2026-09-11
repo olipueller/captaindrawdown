@@ -1,7 +1,7 @@
 ---
 title: "Degefie Tibebe"
-description: "Degefie Tibebe is a Mid-career Soil Carbon researcher at International Institute of Tropical Agriculture in UG. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.312229
+description: "Degefie Tibebe is a Mid-career Soil Carbon researcher at International Trachoma Initiative in ET. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.215754
 url: "/cdr-researcher-census/researchers/degefie-tibebe-a5079503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/degefie-tibebe-a5079503/",
   "affiliation": {
     "@type": "Organization",
-    "name": "International Institute of Tropical Agriculture"
+    "name": "International Trachoma Initiative"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0670-2340",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Degefie Tibebe**  
-International Institute of Tropical Agriculture ·  UG
+International Trachoma Initiative ·  ET
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 120 |
+| h-index | 7 |
+| Citations | 134 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **RETRACTED: Evaluating the effects of Climate Smart Agricultural (CSA) practices on productivity, adaptation, and mitigation indicators in Ethiopia: A meta-analysis approach** (2025)
-   18 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

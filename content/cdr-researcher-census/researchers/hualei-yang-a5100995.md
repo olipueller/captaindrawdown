@@ -1,7 +1,7 @@
 ---
 title: "Hualei Yang"
 description: "Hualei Yang is a Mid-career Soil Carbon researcher at Ningxia Water Conservancy in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.379317
+date: 2026-09-11T02:38:29.330228
 url: "/cdr-researcher-census/researchers/hualei-yang-a5100995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 735 |
+| Citations | 756 |
 | Publications | 27 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |

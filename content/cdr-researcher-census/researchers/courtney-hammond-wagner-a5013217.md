@@ -1,7 +1,7 @@
 ---
 title: "Courtney Hammond Wagner"
-description: "Courtney Hammond Wagner is a Mid-career Soil Carbon researcher at USDA Agricultural Research Service in US. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.326096
+description: "Courtney Hammond Wagner is a Mid-career Soil Carbon researcher at USDA Agricultural Research Service in US. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.273208
 url: "/cdr-researcher-census/researchers/courtney-hammond-wagner-a5013217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 888 |
+| h-index | 15 |
+| Citations | 921 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Reichert"
-description: "Tatiana Reichert is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.106203
+description: "Tatiana Reichert is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.035960
 url: "/cdr-researcher-census/researchers/tatiana-reichert-a5012688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 166 |
+| h-index | 4 |
+| Citations | 179 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

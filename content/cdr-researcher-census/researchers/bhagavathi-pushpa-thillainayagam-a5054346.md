@@ -1,7 +1,7 @@
 ---
 title: "Bhagavathi Pushpa Thillainayagam"
 description: "Bhagavathi Pushpa Thillainayagam is a Mid-career Biochar researcher at Anna University, Chennai in IN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043204
+date: 2026-09-11T02:38:29.999316
 url: "/cdr-researcher-census/researchers/bhagavathi-pushpa-thillainayagam-a5054346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 184 |
+| Citations | 190 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluation of the adsorptive removal of cationic dyes by greening biochar derived from agricultural bio-waste of rice husk** (2021)
-   66 citations · Biochar
+   67 citations · Biochar
 
 ## External Profiles
 

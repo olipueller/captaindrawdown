@@ -1,7 +1,7 @@
 ---
 title: "Prashant Basavaraj Bhagawati"
-description: "Prashant Basavaraj Bhagawati is a Mid-career Biochar researcher at Visvesvaraya Technological University in IN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.798272
+description: "Prashant Basavaraj Bhagawati is a Mid-career Biochar researcher at Dayananda Sagar College of Engineering in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.752393
 url: "/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Visvesvaraya Technological University"
+    "name": "Dayananda Sagar College of Engineering"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4156-7874",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Prashant Basavaraj Bhagawati**  
-Visvesvaraya Technological University · 🇮🇳 IN
+Dayananda Sagar College of Engineering · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 273 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 281 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

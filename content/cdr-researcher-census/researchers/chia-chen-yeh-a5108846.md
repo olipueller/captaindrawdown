@@ -1,7 +1,7 @@
 ---
 title: "Chia-Chen Yeh"
 description: "Chia-Chen Yeh is a Mid-career BECCS researcher at National Sun Yat-sen University in TW. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.718666
+date: 2026-09-11T02:38:29.677609
 url: "/cdr-researcher-census/researchers/chia-chen-yeh-a5108846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 316 |
+| Citations | 321 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A zero-waste approach to Sarcodia suiae valorization: Recycling aquaculture wastes and carbon dioxide for biostimulant, biofertilizer, and bioenergy production** (2024)
-   7 citations · BECCS
+   9 citations · BECCS
 
 ## External Profiles
 

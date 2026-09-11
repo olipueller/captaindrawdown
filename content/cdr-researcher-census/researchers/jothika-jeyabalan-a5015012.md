@@ -1,7 +1,7 @@
 ---
 title: "Jothika Jeyabalan"
 description: "Jothika Jeyabalan is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043037
+date: 2026-09-11T02:38:29.973176
 url: "/cdr-researcher-census/researchers/jothika-jeyabalan-a5015012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 184 |
+| Citations | 198 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

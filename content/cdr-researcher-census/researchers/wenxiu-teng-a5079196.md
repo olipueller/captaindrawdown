@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Teng"
 description: "Wenxiu Teng is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.010235
+date: 2026-09-11T02:38:29.959099
 url: "/cdr-researcher-census/researchers/wenxiu-teng-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 194 |
+| Citations | 202 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
-| Trajectory | Stable |
+| CDR Focus | 5.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Blue Carbon Mapping Using Temporally Optimized Satellite Remote Sensing Imagery: A Regional Study of Northeast US Salt Marshes** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Blue Carbon Mapping Using Temporally Optimized Satellite Remote Sensing Imagery: A Regional Study of Northeast Us Salt Marshes** (2024)
    0 citations · Soil Carbon

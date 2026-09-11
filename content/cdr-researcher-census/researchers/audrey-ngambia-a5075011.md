@@ -1,7 +1,7 @@
 ---
 title: "Audrey Ngambia"
-description: "Audrey Ngambia is a Mid-career Biochar researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.579793
+description: "Audrey Ngambia is a Mid-career Biochar researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.532763
 url: "/cdr-researcher-census/researchers/audrey-ngambia-a5075011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 428 |
-| Publications | 11 |
-| CDR Focus | 27.3% |
+| Citations | 436 |
+| Publications | 15 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -52,6 +52,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    0 citations · Biochar
 
 3. **Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** (2026)
+   0 citations · Biochar
+
+4. **Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** (2026)
    0 citations · Biochar
 
 ## External Profiles

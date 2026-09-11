@@ -1,7 +1,7 @@
 ---
 title: "Lily Kuentz"
 description: "Lily Kuentz is a Mid-career Enhanced Weathering researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.257268
+date: 2026-09-11T02:38:30.214064
 url: "/cdr-researcher-census/researchers/lily-kuentz-a5047536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 130 |
+| Citations | 134 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

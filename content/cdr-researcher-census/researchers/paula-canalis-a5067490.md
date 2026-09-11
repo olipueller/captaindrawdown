@@ -1,7 +1,7 @@
 ---
 title: "Paula Canalís"
-description: "Paula Canalís is a Senior BECCS researcher at Universidad de Zaragoza in ES. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.264670
+description: "Paula Canalís is a Senior BECCS researcher at Universidad de Zaragoza in ES. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214123
 url: "/cdr-researcher-census/researchers/paula-canalis-a5067490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 1,172 |
+| h-index | 9 |
+| Citations | 1,202 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **On the oxy-combustion of blends of coal and agro-waste biomass under dry and wet conditions** (2024)
-   9 citations · BECCS
+   10 citations · BECCS
 
 ## External Profiles
 

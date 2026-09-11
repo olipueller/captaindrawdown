@@ -1,7 +1,7 @@
 ---
 title: "Weiwen Zhou"
 description: "Weiwen Zhou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.037442
+date: 2026-09-11T02:38:29.990946
 url: "/cdr-researcher-census/researchers/weiwen-zhou-a5013301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 186 |
+| Citations | 193 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mangrove afforestation increases microbial necromass but reduces their contribution to soil carbon pool** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Mangrove Restoration Increases Microbial Necromass But Reduces Their Contribution to Soil Carbon Pool** (2024)
    0 citations · Soil Carbon

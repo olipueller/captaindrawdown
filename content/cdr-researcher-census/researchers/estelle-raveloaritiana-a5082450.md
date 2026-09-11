@@ -1,7 +1,7 @@
 ---
 title: "Estelle Raveloaritiana"
-description: "Estelle Raveloaritiana is a Mid-career Soil Carbon researcher at University of Zurich in CH. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.641626
+description: "Estelle Raveloaritiana is a Mid-career Soil Carbon researcher. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.570054
 url: "/cdr-researcher-census/researchers/estelle-raveloaritiana-a5082450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Estelle Raveloaritiana",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/estelle-raveloaritiana-a5082450/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Zurich"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-6893-4051",
     "https://openalex.org/A5082450201"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Estelle Raveloaritiana**  
-University of Zurich · 🇨🇭 CH
+**Estelle Raveloaritiana**
 
 **Career Stage:** Mid-career
 
@@ -42,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 373 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 11 |
+| Citations | 402 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term agricultural diversification increases financial profitability, biodiversity, and ecosystem services: a second-order meta-analysis** (2026)
-   7 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Decades matter: Agricultural diversification increases financial profitability, biodiversity, and ecosystem services over time** (2024)
    2 citations · Soil Carbon

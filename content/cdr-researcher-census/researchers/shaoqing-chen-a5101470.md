@@ -1,7 +1,7 @@
 ---
 title: "Shaoqing Chen"
 description: "Shaoqing Chen is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.301242
+date: 2026-09-11T02:38:29.247543
 url: "/cdr-researcher-census/researchers/shaoqing-chen-a5101470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 984 |
+| Citations | 1,024 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
-description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 275 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.068684
+description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.021417
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 57 |
-| Citations | 16,276 |
-| Publications | 275 |
-| CDR Focus | 6.5% |
+| h-index | 58 |
+| Citations | 16,698 |
+| Publications | 278 |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   197 citations · Enhanced Weathering
+   199 citations · Enhanced Weathering
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 3. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
    119 citations · BECCS
 
 4. **Understanding soil phosphorus cycling for sustainable development: A review** (2024)
-   70 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 5. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 6. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   59 citations · Biochar
+   60 citations · Biochar
 
 7. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 8. **Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use** (2021)
    30 citations · BECCS

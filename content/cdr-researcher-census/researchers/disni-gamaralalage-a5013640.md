@@ -1,7 +1,7 @@
 ---
 title: "Disni Gamaralalage"
-description: "Disni Gamaralalage is a Mid-career General CDR researcher at Supermicro (United States) in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.073942
+description: "Disni Gamaralalage is a Mid-career General CDR researcher at Supermicro (United States) in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.981716
 url: "/cdr-researcher-census/researchers/disni-gamaralalage-a5013640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 174 |
-| Publications | 10 |
-| CDR Focus | 40.0% |
+| Citations | 195 |
+| Publications | 11 |
+| CDR Focus | 36.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biowaste to biochar: a techno-economic and life cycle assessment of biochar production from food-waste digestate and its agricultural field application** (2025)
-   50 citations · Biochar
+   58 citations · Biochar
 
 2. **DECO2—An Open-Source Energy System Decarbonisation Planning Software including Negative Emissions Technologies** (2023)
    13 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Marcin Baranowski"
 description: "Marcin Baranowski is a Senior BECCS researcher at Institute of Power Engineering in PL. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.443369
+date: 2026-09-11T02:38:29.397084
 url: "/cdr-researcher-census/researchers/marcin-baranowski-a5020991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 603 |
+| Citations | 613 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    7 citations · BECCS
 
 2. **Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption** (2026)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

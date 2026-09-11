@@ -1,7 +1,7 @@
 ---
 title: "Mustafa M. Karhib"
-description: "Mustafa M. Karhib is a Mid-career Biochar researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.298250
+description: "Mustafa M. Karhib is a Mid-career Biochar researcher at Al-Mustaqbal University. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.213343
 url: "/cdr-researcher-census/researchers/mustafa-m-karhib-a5047353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mustafa M. Karhib",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mustafa-m-karhib-a5047353/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Al-Mustaqbal University"
+  },
   "sameAs": "https://openalex.org/A5047353123"
 }
 </script>
 
 ## Profile
 
-**Mustafa M. Karhib**
+**Mustafa M. Karhib**  
+Al-Mustaqbal University
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 122 |
+| Citations | 134 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

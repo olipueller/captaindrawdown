@@ -1,7 +1,7 @@
 ---
 title: "Tra-My Justine Richardson"
-description: "Tra-My Justine Richardson is a Senior General CDR researcher. With 65 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.727384
+description: "Tra-My Justine Richardson is a Senior General CDR researcher at Ames Research Center in US. With 70 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.684765
 url: "/cdr-researcher-census/researchers/tra-my-justine-richardson-a5054387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tra-My Justine Richardson",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tra-my-justine-richardson-a5054387/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ames Research Center"
+  },
   "sameAs": "https://openalex.org/A5054387570"
 }
 </script>
 
 ## Profile
 
-**Tra-My Justine Richardson**
+**Tra-My Justine Richardson**  
+Ames Research Center · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -35,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 312 |
-| Publications | 65 |
-| CDR Focus | 7.7% |
+| Citations | 317 |
+| Publications | 70 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

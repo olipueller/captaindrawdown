@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Rodriguez-García"
-description: "Gonzalo Rodriguez-García is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.251437
+description: "Gonzalo Rodriguez-García is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.202807
 url: "/cdr-researcher-census/researchers/gonzalo-rodriguez-garcia-a5037010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,246 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 1,262 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

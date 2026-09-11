@@ -1,7 +1,7 @@
 ---
 title: "Mingjuan Xie"
 description: "Mingjuan Xie is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931806
+date: 2026-09-11T02:38:29.864972
 url: "/cdr-researcher-census/researchers/mingjuan-xie-a5004195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 214 |
+| Citations | 230 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Stable |

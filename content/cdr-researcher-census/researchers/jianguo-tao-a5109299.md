@@ -1,7 +1,7 @@
 ---
 title: "Jianguo Tao"
-description: "Jianguo Tao is a Mid-career Soil Carbon researcher at Tsinghua University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.713938
+description: "Jianguo Tao is a Mid-career Soil Carbon researcher at Ministry of Education in MV. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.627586
 url: "/cdr-researcher-census/researchers/jianguo-tao-a5109299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianguo-tao-a5109299/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tsinghua University"
+    "name": "Ministry of Education"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4744-6387",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianguo Tao**  
-Tsinghua University · 🇨🇳 CN
+Ministry of Education ·  MV
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 320 |
+| Citations | 357 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microplastic-Derived Dissolved Organic Matter Regulates Soil Carbon Respiration via Microbial Ecophysiological Controls** (2025)
-   31 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Multitrophic interactions support belowground carbon sequestration through microbial necromass accumulation in dryland biocrusts** (2024)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Biocrusts benefit soil carbon sequestration via increasing the stability of soil dissolved organic carbon in dryland ecosystem** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

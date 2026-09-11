@@ -1,7 +1,7 @@
 ---
 title: "Héctor Hiram Torres-Ventura"
-description: "Héctor Hiram Torres-Ventura is a Mid-career Biochar researcher at Universidad Autónoma de Chiapas in MX. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.416712
+description: "Héctor Hiram Torres-Ventura is a Mid-career Biochar researcher at Universidad Autónoma de Chiapas in MX. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.302213
 url: "/cdr-researcher-census/researchers/hector-hiram-torres-ventura-a5055017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 101 |
+| h-index | 5 |
+| Citations | 117 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated Biochar from Pineapple Crown Biomass: A High-Efficiency Adsorbent for Organic Dye Removal** (2024)
-   35 citations · Biochar
+   39 citations · Biochar
 
 ## External Profiles
 

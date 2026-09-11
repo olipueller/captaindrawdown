@@ -1,7 +1,7 @@
 ---
 title: "Timothy S. Sinclair"
 description: "Timothy S. Sinclair is a Mid-career General CDR researcher at Ministry of Health in AE. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.617895
+date: 2026-09-11T02:38:29.570937
 url: "/cdr-researcher-census/researchers/timothy-s-sinclair-a5088415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 392 |
+| Citations | 401 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

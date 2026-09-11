@@ -1,7 +1,7 @@
 ---
 title: "Hongyu Si"
-description: "Hongyu Si is a Senior Biochar researcher at Qilu University of Technology in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.279076
+description: "Hongyu Si is a Senior Biochar researcher at Zhengzhou University in CN. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.224556
 url: "/cdr-researcher-census/researchers/hongyu-si-a5109724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongyu-si-a5109724/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qilu University of Technology"
+    "name": "Zhengzhou University"
   },
   "sameAs": "https://openalex.org/A5109724387"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongyu Si**  
-Qilu University of Technology · 🇨🇳 CN
+Zhengzhou University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,094 |
-| Publications | 77 |
-| CDR Focus | 5.2% |
+| Citations | 1,135 |
+| Publications | 76 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Liquid-solid ratio during hydrothermal carbonization affects hydrochar application potential in soil: Based on characteristics comparison and economic benefit analysis** (2023)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
    20 citations · Biochar
 
 3. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 4. **Moderate Heating Reduces Contents and Toxicity Related to Polycyclic Aromatic Hydrocarbons of Hydrochar** (2024)
    0 citations · Biochar

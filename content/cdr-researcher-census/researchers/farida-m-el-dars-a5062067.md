@@ -1,7 +1,7 @@
 ---
 title: "Farida M. El Dars"
 description: "Farida M. El Dars is a Mid-career Biochar researcher at Helwan University in EG. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.977910
+date: 2026-09-11T02:38:29.911066
 url: "/cdr-researcher-census/researchers/farida-m-el-dars-a5062067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 204 |
+| Citations | 213 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction of porous biochar decorated with NiS for the removal of ciprofloxacin antibiotic from pharmaceutical wastewaters** (2022)
-   63 citations · Biochar
+   64 citations · Biochar
 
 2. **Construction of Porous Biochar Decorated with Nis for the Removal of Ciprofloxacin Antibiotic from Pharmaceutical Wastewaters: Preparations, Characterization, and Adsorption Mechanism Studies** (2022)
    2 citations · Biochar

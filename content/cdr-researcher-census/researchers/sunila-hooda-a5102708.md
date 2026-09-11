@@ -1,7 +1,7 @@
 ---
 title: "Sunila Hooda"
-description: "Sunila Hooda is a Mid-career Enhanced Weathering researcher at University of Delhi in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.169903
+description: "Sunila Hooda is a Mid-career Enhanced Weathering researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.130701
 url: "/cdr-researcher-census/researchers/sunila-hooda-a5102708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sunila Hooda",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sunila-hooda-a5102708/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Delhi"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-8768-8367",
     "https://openalex.org/A5102708264"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Sunila Hooda**  
-University of Delhi · 🇮🇳 IN
+**Sunila Hooda**
 
 **Career Stage:** Mid-career
 
@@ -42,8 +37,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 149 |
+| h-index | 7 |
+| Citations | 153 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

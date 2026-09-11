@@ -1,7 +1,7 @@
 ---
 title: "Sovan Debnath"
-description: "Sovan Debnath is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 75 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590899
+description: "Sovan Debnath is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 76 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.531627
 url: "/cdr-researcher-census/researchers/sovan-debnath-a5036899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 417 |
-| Publications | 75 |
-| CDR Focus | 6.7% |
+| Citations | 437 |
+| Publications | 76 |
+| CDR Focus | 6.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Olaf Corry"
-description: "Olaf Corry is a Senior General CDR researcher at University of Leeds in GB. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.244043
+description: "Olaf Corry is a Senior General CDR researcher at University of Leeds in GB. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.194599
 url: "/cdr-researcher-census/researchers/olaf-corry-a5017337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,300 |
-| Publications | 66 |
-| CDR Focus | 6.1% |
+| Citations | 1,318 |
+| Publications | 67 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 2. **Making the Climate Malleable? “Weak” and “Strong” Governance Objects and the Transformation of International Climate Politics** (2024)
-   6 citations · General CDR
+   8 citations · General CDR
 
 3. **Carbon Dioxide Removal: What Is Sustainable and Just?** (2025)
    5 citations · General CDR

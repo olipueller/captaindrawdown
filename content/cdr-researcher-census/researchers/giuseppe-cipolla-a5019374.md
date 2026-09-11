@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
-description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at AECOM (China) in CN. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.486124
+description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at AECOM (China) in CN. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.429896
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 536 |
+| h-index | 10 |
+| Citations | 564 |
 | Publications | 52 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   80 citations · Enhanced Weathering
+   84 citations · Enhanced Weathering
 
 2. **The role of hydrology on enhanced weathering for carbon sequestration I. Modeling rock-dissolution reactions coupled to plant, soil moisture, and carbon dynamics** (2021)
    43 citations · Enhanced Weathering
@@ -60,10 +60,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    24 citations · Enhanced Weathering
 
 4. **Effects of precipitation seasonality, irrigation, vegetation cycle and soil type on enhanced weathering – modeling of cropland case studies across four sites** (2022)
-   22 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
 5. **Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data** (2024)
-   10 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 6. **Effects of precipitation seasonality, vegetation cycle, and irrigation on enhanced weathering** (2022)
    4 citations · Enhanced Weathering

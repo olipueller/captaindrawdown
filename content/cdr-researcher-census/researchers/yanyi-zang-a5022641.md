@@ -1,7 +1,7 @@
 ---
 title: "Yanyi Zang"
-description: "Yanyi Zang is a Mid-career General CDR researcher at The Geneva Foundation in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.135398
+description: "Yanyi Zang is a Mid-career General CDR researcher at The Geneva Foundation in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.092202
 url: "/cdr-researcher-census/researchers/yanyi-zang-a5022641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 157 |
+| h-index | 6 |
+| Citations | 162 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **<i>In vitro</i> hemocompatibility screening of a slippery liquid impregnated surface coating for extracorporeal organ support applications** (2022)
-   6 citations · General CDR
+1. **Anticoagulate the Circuit, Not the Patient: Nitric Oxide Reduces Thrombus Formation During Extracorporeal Carbon Dioxide Removal** (2025)
+   6 citations
 
-2. **Anticoagulate the Circuit, Not the Patient: Nitric Oxide Reduces Thrombus Formation During Extracorporeal Carbon Dioxide Removal** (2025)
-   5 citations
+2. **<i>In vitro</i> hemocompatibility screening of a slippery liquid impregnated surface coating for extracorporeal organ support applications** (2022)
+   6 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Changshuo Wu"
-description: "Changshuo Wu is an Early-career Biochar researcher at Southeast University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176660
+description: "Changshuo Wu is an Early-career Biochar researcher at Liaoning Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.133763
 url: "/cdr-researcher-census/researchers/changshuo-wu-a5025669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/changshuo-wu-a5025669/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southeast University"
+    "name": "Liaoning Normal University"
   },
   "sameAs": "https://openalex.org/A5025669575"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Changshuo Wu**  
-Southeast University · 🇨🇳 CN
+Liaoning Normal University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 147 |
-| Publications | 5 |
-| CDR Focus | 40.0% |
+| Citations | 152 |
+| Publications | 6 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

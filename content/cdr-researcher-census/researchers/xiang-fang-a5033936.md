@@ -1,7 +1,7 @@
 ---
 title: "Xiang Fang"
 description: "Xiang Fang is an Early-career Biochar researcher at Sichuan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.129452
+date: 2026-09-11T02:38:30.087725
 url: "/cdr-researcher-census/researchers/xiang-fang-a5033936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 159 |
+| Citations | 164 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of KMnO4 pre- and post-treatments on biochar properties and its adsorption of tetracycline** (2023)
-   65 citations · Biochar
+   67 citations · Biochar
 
 2. **Preparation of magnetic porous biochar through hydrothermal pretreatment combined with K2FeO4 activation to improve tetracycline removal** (2022)
-   48 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

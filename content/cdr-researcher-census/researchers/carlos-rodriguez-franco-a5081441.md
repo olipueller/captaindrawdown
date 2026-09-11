@@ -1,7 +1,7 @@
 ---
 title: "Carlos Rodriguez-Franco"
 description: "Carlos Rodriguez-Franco is a Mid-career Biochar researcher at US Forest Service in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931334
+date: 2026-09-11T02:38:29.864185
 url: "/cdr-researcher-census/researchers/carlos-rodriguez-franco-a5081441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 214 |
+| Citations | 230 |
 | Publications | 15 |
 | CDR Focus | 26.7% |
 | Trajectory | Exiting |
@@ -51,15 +51,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Utilization as a Forestry Climate-Smart Tool** (2024)
+   22 citations · Biochar
+
+2. **Forest management and biochar for continued ecosystem services** (2022)
    21 citations · Biochar
 
-2. **Continuous In-woods Production of Biochar Using a Trailer-mounted Air Curtain Burner** (2024)
-   4 citations · Biochar
-
 3. **Decreasing the urban carbon footprint with woody biomass biochar in the united states of america** (2023)
+   5 citations · Biochar
+
+4. **Continuous In-woods Production of Biochar Using a Trailer-mounted Air Curtain Burner** (2024)
    4 citations · Biochar
 
-4. **Carbon, Forests, and Biochar** (2023)
+5. **Carbon, Forests, and Biochar** (2023)
    1 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Rolando Cruz Encarnación"
-description: "Rolando Cruz Encarnación is a Mid-career Soil Carbon researcher at Instituto Nacional del Agua in AR. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.756424
+description: "Rolando Cruz Encarnación is a Mid-career Soil Carbon researcher at Instituto Nacional del Agua in AR. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.682394
 url: "/cdr-researcher-census/researchers/rolando-cruz-encarnacion-a5077799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 295 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 11 |
+| Citations | 318 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

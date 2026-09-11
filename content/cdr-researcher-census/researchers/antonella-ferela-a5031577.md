@@ -1,7 +1,7 @@
 ---
 title: "Antonella Ferela"
-description: "Antonella Ferela is a Mid-career Soil Carbon researcher at Iowa State University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.575453
+description: "Antonella Ferela is a Mid-career Soil Carbon researcher at Iowa State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.507503
 url: "/cdr-researcher-census/researchers/antonella-ferela-a5031577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 432 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 461 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Historical increases in plant density increased vegetative maize biomass while breeding increased reproductive biomass and allocation to ear over stem** (2024)
-   27 citations
+   29 citations
 
 2. **Large increases in maize residue carbon inputs in the US Corn Belt from 1980 to 2020** (2025)
    0 citations · Soil Carbon

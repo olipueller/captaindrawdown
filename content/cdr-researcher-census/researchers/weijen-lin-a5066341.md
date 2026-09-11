@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jen Lin"
-description: "Wei‐Jen Lin is a Mid-career Soil Carbon researcher at National Chiayi University in TW. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.847750
+description: "Wei‐Jen Lin is a Mid-career Soil Carbon researcher at National Chung Hsing University in TW. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.764414
 url: "/cdr-researcher-census/researchers/weijen-lin-a5066341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weijen-lin-a5066341/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Chiayi University"
+    "name": "National Chung Hsing University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9217-5267",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wei‐Jen Lin**  
-National Chiayi University · 🇹🇼 TW
+National Chung Hsing University · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 248 |
-| Publications | 33 |
-| CDR Focus | 12.1% |
+| Citations | 276 |
+| Publications | 36 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Effects of Pneumatophore Density on Methane Emissions in Mangroves** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   12 citations · General CDR
+   16 citations · General CDR
 
 4. **Exploring Spatial and Temporal Variations in Stem-Mediated Greenhouse Gas Emissions from Different Species of Mangroves** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 5. **Comment on egusphere-2024-533** (2024)
    0 citations

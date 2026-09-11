@@ -1,7 +1,7 @@
 ---
 title: "Yingchao Yan"
 description: "Yingchao Yan is a Mid-career Soil Carbon researcher at Inner Mongolia Normal University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.621682
+date: 2026-09-11T02:38:29.578645
 url: "/cdr-researcher-census/researchers/yingchao-yan-a5103878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 390 |
+| Citations | 396 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
 description: "Siqing Xu is a Mid-career General CDR researcher at Dubai Pharmacy College in AE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.889900
+date: 2026-09-11T02:38:29.848114
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 230 |
+| Citations | 237 |
 | Publications | 34 |
 | CDR Focus | 17.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   133 citations · BECCS
+   134 citations · BECCS
 
 2. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
    119 citations · BECCS

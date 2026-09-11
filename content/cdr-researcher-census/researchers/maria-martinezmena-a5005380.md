@@ -1,7 +1,7 @@
 ---
 title: "María Martínez‐Mena"
 description: "María Martínez‐Mena is an Eminent Soil Carbon researcher at centro de edafología y biología aplicada del segura in ES. With 134 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089100
+date: 2026-09-11T02:38:29.040563
 url: "/cdr-researcher-census/researchers/maria-martinezmena-a5005380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 42 |
-| Citations | 6,037 |
+| Citations | 6,094 |
 | Publications | 134 |
 | CDR Focus | 6.0% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    41 citations · Soil Carbon
 
 3. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   40 citations · General CDR
+   41 citations · General CDR
 
 4. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
    18 citations · Soil Carbon

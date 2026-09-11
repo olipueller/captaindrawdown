@@ -1,7 +1,7 @@
 ---
 title: "Meng Yan"
-description: "Meng Yan is a Senior Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.721212
+description: "Meng Yan is a Senior Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.664685
 url: "/cdr-researcher-census/researchers/meng-yan-a5112120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 315 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 9 |
+| Citations | 330 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Editorial: Applications of environmental DNA in the aquatic ecosystem management of East Asia** (2024)
    1 citations

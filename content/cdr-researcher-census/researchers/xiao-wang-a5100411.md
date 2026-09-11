@@ -1,7 +1,7 @@
 ---
 title: "Xiao Wang"
-description: "Xiao Wang is a Mid-career Biochar researcher at Henan University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.516397
+description: "Xiao Wang is a Mid-career Biochar researcher at Tobacco Research Institute in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.468636
 url: "/cdr-researcher-census/researchers/xiao-wang-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiao-wang-a5100411/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan University of Technology"
+    "name": "Tobacco Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6307-4507",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiao Wang**  
-Henan University of Technology · 🇨🇳 CN
+Tobacco Research Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 493 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 503 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

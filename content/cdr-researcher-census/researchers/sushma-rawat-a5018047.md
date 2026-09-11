@@ -1,7 +1,7 @@
 ---
 title: "Sushma Rawat"
 description: "Sushma Rawat is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.003610
+date: 2026-09-11T02:38:29.946268
 url: "/cdr-researcher-census/researchers/sushma-rawat-a5018047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 196 |
+| Citations | 207 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

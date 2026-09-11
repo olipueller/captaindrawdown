@@ -1,7 +1,7 @@
 ---
 title: "Daniel Pontes de Oliveira"
-description: "Daniel Pontes de Oliveira is a Mid-career Enhanced Weathering researcher at Universidade de Fortaleza in BR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.355112
+description: "Daniel Pontes de Oliveira is a Mid-career Enhanced Weathering researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.311378
 url: "/cdr-researcher-census/researchers/daniel-pontes-de-oliveira-a5102441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Daniel Pontes de Oliveira",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-pontes-de-oliveira-a5102441/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universidade de Fortaleza"
-  },
   "sameAs": "https://openalex.org/A5102441598"
 }
 </script>
 
 ## Profile
 
-**Daniel Pontes de Oliveira**  
-Universidade de Fortaleza · 🇧🇷 BR
+**Daniel Pontes de Oliveira**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 116 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

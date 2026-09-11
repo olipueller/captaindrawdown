@@ -1,7 +1,7 @@
 ---
 title: "Simona Procházková"
 description: "Simona Procházková is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.963380
+date: 2026-09-11T02:38:29.911688
 url: "/cdr-researcher-census/researchers/simona-prochazkova-a5065268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 210 |
+| Citations | 213 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Stable |

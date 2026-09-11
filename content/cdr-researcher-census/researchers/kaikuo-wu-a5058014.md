@@ -1,7 +1,7 @@
 ---
 title: "Kaikuo Wu"
-description: "Kaikuo Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272482
+description: "Kaikuo Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.215451
 url: "/cdr-researcher-census/researchers/kaikuo-wu-a5058014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 127 |
+| h-index | 8 |
+| Citations | 134 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

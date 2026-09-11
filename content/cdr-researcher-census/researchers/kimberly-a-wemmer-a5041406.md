@@ -1,7 +1,7 @@
 ---
 title: "Kimberly A. Wemmer"
-description: "Kimberly A. Wemmer is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.396911
+description: "Kimberly A. Wemmer is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.347501
 url: "/cdr-researcher-census/researchers/kimberly-a-wemmer-a5041406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 695 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 712 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
    2 citations · Enhanced Weathering

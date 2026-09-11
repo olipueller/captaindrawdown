@@ -1,7 +1,7 @@
 ---
 title: "Sha Huang"
 description: "Sha Huang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.629836
+date: 2026-09-11T02:38:29.568075
 url: "/cdr-researcher-census/researchers/sha-huang-a5101953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 382 |
+| Citations | 403 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management of Hickory Forest Understory Vegetation Increases Ecosystem Carbon Sequestration, But It Also Increases Soil Greenhouse Gas Emissions in the Short Term** (2024)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

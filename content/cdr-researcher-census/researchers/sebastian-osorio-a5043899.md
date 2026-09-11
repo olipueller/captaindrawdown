@@ -1,7 +1,7 @@
 ---
 title: "Sebastián Osorio"
-description: "Sebastián Osorio is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung  eV in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.339641
+description: "Sebastián Osorio is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung  eV in DE. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.281668
 url: "/cdr-researcher-census/researchers/sebastian-osorio-a5043899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 847 |
-| Publications | 48 |
-| CDR Focus | 10.4% |
+| Citations | 893 |
+| Publications | 51 |
+| CDR Focus | 9.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector** (2021)
-   314 citations
+   316 citations
 
 2. **Sequencing Carbon Dioxide Removal into the EU ETS** (2024)
    10 citations · General CDR
 
 3. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   2 citations · BECCS
+   3 citations · BECCS
 
 4. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
    1 citations · BECCS

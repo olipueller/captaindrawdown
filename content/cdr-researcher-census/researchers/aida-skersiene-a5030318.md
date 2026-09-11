@@ -1,7 +1,7 @@
 ---
 title: "Aida Skersienė"
 description: "Aida Skersienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188323
+date: 2026-09-11T02:38:30.101950
 url: "/cdr-researcher-census/researchers/aida-skersiene-a5030318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
+| Citations | 160 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biomass of Shoots and Roots of Multicomponent Grasslands and Their Impact on Soil Carbon Accumulation in Arenosol Rich in Stones** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

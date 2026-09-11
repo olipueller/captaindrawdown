@@ -1,7 +1,7 @@
 ---
 title: "Mohd Nasrullah"
-description: "Mohd Nasrullah is a Senior Biochar researcher at Universiti Malaysia Pahang in MY. With 80 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125994
+description: "Mohd Nasrullah is a Senior Biochar researcher at Universiti Malaysia Pahang in MY. With 79 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.075968
 url: "/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 3,285 |
-| Publications | 80 |
-| CDR Focus | 6.2% |
+| Citations | 3,377 |
+| Publications | 79 |
+| CDR Focus | 6.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar production techniques utilizing biomass waste-derived materials and environmental applications – A review** (2022)
-   339 citations · Biochar
+   343 citations · Biochar
 
 2. **Advanced techniques in the production of biochar from lignocellulosic biomass and environmental applications** (2022)
-   158 citations · Biochar
+   160 citations · Biochar
 
 3. **Biochar and sustainable environmental development towards adsorptive removal of pollutants: Modern advancements and future insight** (2023)
-   68 citations · Biochar
+   69 citations · Biochar
 
 4. **Pristine and modified biochar applications as multifunctional component towards sustainable future: Recent advances and new insights** (2023)
-   40 citations · Biochar
+   42 citations · Biochar
 
 5. **Comprehensive assessment of biochar integration in agricultural soil conditioning: Advantages, drawbacks, and future prospects** (2023)
    19 citations · Biochar

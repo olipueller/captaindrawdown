@@ -1,7 +1,7 @@
 ---
 title: "Anawat Pinisakul"
 description: "Anawat Pinisakul is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.036044
+date: 2026-09-11T02:38:30.005408
 url: "/cdr-researcher-census/researchers/anawat-pinisakul-a5058863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 186 |
+| Citations | 188 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fixed-bed biofilter for polluted surface water treatment using chitosan impregnated-coconut husk biochar** (2023)
-   24 citations · Biochar
+   25 citations · Biochar
 
 2. **Arsenic, Iron, and Manganese Adsorption in Single and Trinary Heavy Metal Solution Systems by Bamboo-Derived Biochars** (2023)
    13 citations · Biochar

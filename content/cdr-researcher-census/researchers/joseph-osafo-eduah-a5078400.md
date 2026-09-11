@@ -1,7 +1,7 @@
 ---
 title: "Joseph Osafo Eduah"
-description: "Joseph Osafo Eduah is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.669123
+description: "Joseph Osafo Eduah is a Mid-career Soil Carbon researcher at Aga Khan Foundation in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.618741
 url: "/cdr-researcher-census/researchers/joseph-osafo-eduah-a5078400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Joseph Osafo Eduah",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joseph-osafo-eduah-a5078400/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Aga Khan Foundation"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-4227-4603",
     "https://openalex.org/A5078400250"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Joseph Osafo Eduah**
+**Joseph Osafo Eduah**  
+Aga Khan Foundation · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 352 |
+| Citations | 363 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -46,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential impacts of organic and chemical fertilization on soil organic carbon pools and stability, and soil quality in cacao agroforestry** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

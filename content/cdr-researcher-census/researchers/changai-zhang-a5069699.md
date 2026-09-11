@@ -1,7 +1,7 @@
 ---
 title: "Changai Zhang"
-description: "Changai Zhang is a Senior Biochar researcher at Zhejiang University of Science and Technology in CN. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284514
+description: "Changai Zhang is a Senior Biochar researcher at Zhejiang University of Science and Technology in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.230177
 url: "/cdr-researcher-census/researchers/changai-zhang-a5069699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,068 |
-| Publications | 44 |
-| CDR Focus | 6.8% |
+| Citations | 1,106 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of degradable microplastics, biochar and their coexistence on soil organic matter decomposition: A critical review** (2024)
-   154 citations · Biochar
+   159 citations · Biochar
 
 2. **Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)** (2021)
-   101 citations · Biochar
+   102 citations · Biochar
 
 3. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

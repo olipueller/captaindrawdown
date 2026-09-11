@@ -1,7 +1,7 @@
 ---
 title: "Xuelian Bao"
-description: "Xuelian Bao is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.191835
+description: "Xuelian Bao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.137401
 url: "/cdr-researcher-census/researchers/xuelian-bao-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuelian-bao-a5101177/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2287-8864",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuelian Bao**  
-Shenyang Agricultural University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,768 |
+| Citations | 1,857 |
 | Publications | 53 |
 | CDR Focus | 15.1% |
 | Trajectory | Stable |
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    163 citations · Soil Carbon
 
 2. **Shifts in microbial metabolic pathway for soil carbon accumulation along subtropical forest succession** (2021)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Effects of residue mulching amounts on metabolic footprints based on production and respiration of soil nematodes in a long‐term no‐tillage system** (2021)
    32 citations · Soil Carbon
 
 4. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 5. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   9 citations
+   11 citations
 
 6. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   7 citations
+   8 citations
 
 7. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
    6 citations · Soil Carbon

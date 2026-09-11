@@ -1,7 +1,7 @@
 ---
 title: "Meli F. Saragi‐Sasmito"
 description: "Meli F. Saragi‐Sasmito is a Mid-career Soil Carbon researcher at Center for International Forestry Research in ID. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.517442
+date: 2026-09-11T02:38:29.464817
 url: "/cdr-researcher-census/researchers/meli-f-saragisasmito-a5041166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 492 |
+| Citations | 508 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

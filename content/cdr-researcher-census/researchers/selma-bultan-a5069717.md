@@ -1,7 +1,7 @@
 ---
 title: "Selma Bultan"
 description: "Selma Bultan is a Mid-career General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.133920
+date: 2026-09-11T02:38:29.085191
 url: "/cdr-researcher-census/researchers/selma-bultan-a5069717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 2,986 |
+| Citations | 3,032 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Land Use Effects on Climate: Current State, Recent Progress, and Emerging Topics** (2021)
-   186 citations · General CDR
+   193 citations · General CDR
 
 ## External Profiles
 

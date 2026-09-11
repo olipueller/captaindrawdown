@@ -1,7 +1,7 @@
 ---
 title: "Xianwei Cai"
-description: "Xianwei Cai is a Senior Biochar researcher at University of Jinan in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.466147
+description: "Xianwei Cai is a Senior Biochar researcher at University of Jinan in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.425522
 url: "/cdr-researcher-census/researchers/xianwei-cai-a5020516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 566 |
-| Publications | 7 |
-| CDR Focus | 28.6% |
+| h-index | 4 |
+| Citations | 571 |
+| Publications | 10 |
+| CDR Focus | 30.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Salt-templated synthesis of bio-oil derived porous biochar for enhanced adsorption performance** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Bio-oil mediated hydrothermal functionalization of biochar for efficient Cr (VI) adsorption** (2026)
    0 citations · Biochar

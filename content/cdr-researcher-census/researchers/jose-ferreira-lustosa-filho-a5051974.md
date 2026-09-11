@@ -1,7 +1,7 @@
 ---
 title: "José Ferreira Lustosa Filho"
-description: "José Ferreira Lustosa Filho is a Senior Soil Carbon researcher at University of Brasilia in BR. With 79 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268992
+description: "José Ferreira Lustosa Filho is a Senior Soil Carbon researcher at University of Brasilia in BR. With 80 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214702
 url: "/cdr-researcher-census/researchers/jose-ferreira-lustosa-filho-a5051974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,152 |
-| Publications | 79 |
-| CDR Focus | 7.6% |
+| Citations | 1,199 |
+| Publications | 80 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · Biochar
 
 2. **Biochars Derived from Olive Mill Byproducts: Typology, Characterization, and Eco-Efficient Application in Agriculture—A Systematic Review** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 3. **From forest to pastures and silvopastoral systems: Soil carbon and nitrogen stocks changes in northeast Amazônia** (2023)
    28 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 6. **Co-Pyrolysis of Sewage Sludge and Zeolitic Basalt: Physicochemical Characterization, Stability and Carbon Sequestration Potential** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

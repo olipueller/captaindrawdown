@@ -1,7 +1,7 @@
 ---
 title: "Juan-Juan Hou"
 description: "Juan-Juan Hou is a Mid-career BECCS researcher at Beijing Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.486213
+date: 2026-09-11T02:38:29.437146
 url: "/cdr-researcher-census/researchers/juan-juan-hou-a5102974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 536 |
+| Citations | 551 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **The role of BECCS technology in achieving carbon neutrality: evidences from China’ coal power sector** (2023)
-   8 citations · BECCS
+   9 citations · BECCS
 
 ## External Profiles
 

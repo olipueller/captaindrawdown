@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng An"
-description: "Xiaomeng An is a Mid-career Biochar researcher at Fudan University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.891546
+description: "Xiaomeng An is a Mid-career Biochar researcher at Fudan University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.817925
 url: "/cdr-researcher-census/researchers/xiaomeng-an-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 229 |
+| h-index | 9 |
+| Citations | 250 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

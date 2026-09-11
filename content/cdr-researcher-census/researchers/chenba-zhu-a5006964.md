@@ -1,7 +1,7 @@
 ---
 title: "Chenba Zhu"
-description: "Chenba Zhu is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.327865
+description: "Chenba Zhu is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.275700
 url: "/cdr-researcher-census/researchers/chenba-zhu-a5006964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 882 |
+| h-index | 18 |
+| Citations | 913 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Integrating bicarbonate-based microalgal production with alkaline sewage for ocean negative carbon emissions** (2024)
-   15 citations · Ocean CDR
+   16 citations · Ocean CDR
 
 2. **Unveiling the secrets of diatom-mediated calcification: Implications for the biological pump** (2024)
    8 citations · Ocean CDR

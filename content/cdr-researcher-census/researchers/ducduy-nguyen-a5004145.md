@@ -1,7 +1,7 @@
 ---
 title: "Ducduy Nguyen"
-description: "Ducduy Nguyen is a Mid-career General CDR researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.001630
+description: "Ducduy Nguyen is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.947512
 url: "/cdr-researcher-census/researchers/ducduy-nguyen-a5004145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ducduy Nguyen",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ducduy-nguyen-a5004145/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Norwegian University of Science and Technology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-7789-3351",
     "https://openalex.org/A5004145144"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Ducduy Nguyen**
+**Ducduy Nguyen**  
+Norwegian University of Science and Technology · 🇳🇴 NO
 
 **Career Stage:** Mid-career
 
@@ -37,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 196 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 7 |
+| Citations | 206 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

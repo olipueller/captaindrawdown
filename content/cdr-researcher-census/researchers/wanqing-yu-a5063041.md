@@ -1,7 +1,7 @@
 ---
 title: "Wanqing Yu"
 description: "Wanqing Yu is an Early-career Soil Carbon researcher at Zhejiang Water Conservancy and Hydropower Survey and Design Institute in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.142260
+date: 2026-09-11T02:38:30.093645
 url: "/cdr-researcher-census/researchers/wanqing-yu-a5063041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 156 |
+| Citations | 162 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **CO2 Fluxes Over Water-Saving Paddy Fields with Different Straw Management Methods on the Basis of the Same Amount of Carbon Input** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

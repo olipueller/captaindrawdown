@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Wang"
-description: "Hongjie Wang is a Senior Ocean CDR researcher at University of Rhode Island Narragansett Bay Campus in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.434293
+description: "Hongjie Wang is a Senior Ocean CDR researcher at University of Rhode Island Narragansett Bay Campus in US. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.392819
 url: "/cdr-researcher-census/researchers/hongjie-wang-a5111242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 619 |
-| Publications | 32 |
-| CDR Focus | 18.8% |
+| h-index | 14 |
+| Citations | 621 |
+| Publications | 30 |
+| CDR Focus | 20.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   97 citations · General CDR
+   101 citations · General CDR
 
 2. **Enhanced removal of Cu-EDTA in a three-dimensional electrolysis system with highly graphitic activated biochar produced via acidic and K2FeO4 treatment** (2021)
    68 citations · Biochar
@@ -71,14 +71,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 7. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – Insights to an environment in transition** (2023)
    1 citations · Ocean CDR
 
-8. **Data for "Simulated impact of ocean alkalinity enhancement on atmospheric CO 2 removal in the Bering Sea"** (2022)
+8. **Contribution of ultrafine particles to alkalinity in a limestone‐treated waterbody** (2026)
    0 citations · General CDR
 
 9. **Data for "Simulated impact of ocean alkalinity enhancement on atmospheric CO 2 removal in the Bering Sea"** (2022)
    0 citations · General CDR
 
-10. **Comment on essd-2023-325** (2023)
-   0 citations · Ocean CDR
+10. **Data for "Simulated impact of ocean alkalinity enhancement on atmospheric CO 2 removal in the Bering Sea"** (2022)
+   0 citations · General CDR
 
 ## External Profiles
 

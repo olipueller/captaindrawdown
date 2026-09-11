@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Erguvan"
-description: "Mustafa Erguvan is a Mid-career DAC researcher at University of Alabama in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.836954
+description: "Mustafa Erguvan is a Mid-career DAC researcher at University of Alabama in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.758733
 url: "/cdr-researcher-census/researchers/mustafa-erguvan-a5091594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 253 |
-| Publications | 30 |
-| CDR Focus | 10.0% |
+| Citations | 278 |
+| Publications | 34 |
+| CDR Focus | 8.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024)
-   49 citations · DAC
+   52 citations · DAC
 
 2. **Investigation of microwave-based CO2 regeneration in a packed bed reactor for Direct Air Capture** (2024)
    16 citations

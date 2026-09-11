@@ -1,7 +1,7 @@
 ---
 title: "André Rovai"
-description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 108 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.162053
+description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 110 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.109316
 url: "/cdr-researcher-census/researchers/andre-rovai-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 2,211 |
-| Publications | 108 |
-| CDR Focus | 7.4% |
+| h-index | 24 |
+| Citations | 2,305 |
+| Publications | 110 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Brazilian Mangroves: Blue Carbon Hotspots of National and Global Relevance to Natural Climate Solutions** (2022)
-   68 citations · General CDR
+   71 citations · General CDR
 
 2. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **Above- and Belowground Biomass Carbon Stock and Net Primary Productivity Maps for Tidal Herbaceous Marshes of the United States** (2023)
    20 citations
 
 4. **Using loss-on-ignition to estimate total nitrogen content of mangrove soils** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 5. **Gaps, challenges, and opportunities in mangrove blue carbon research: a biogeographic perspective** (2021)
    7 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Basil Wadi"
-description: "Basil Wadi is a Mid-career DAC researcher at Natural Resources Canada in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.721094
+description: "Basil Wadi is a Mid-career DAC researcher at Natural Resources Canada in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.662371
 url: "/cdr-researcher-census/researchers/basil-wadi-a5063086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 315 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 332 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Huiwen Xiang"
 description: "Huiwen Xiang is a Mid-career Soil Carbon researcher at Central South University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.342829
+date: 2026-09-11T02:38:30.304688
 url: "/cdr-researcher-census/researchers/huiwen-xiang-a5063875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 114 |
+| Citations | 117 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

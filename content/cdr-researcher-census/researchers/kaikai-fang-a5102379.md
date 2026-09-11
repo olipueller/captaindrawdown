@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Fang"
 description: "Kaikai Fang is a Mid-career Soil Carbon researcher at Zhejiang University of Science and Technology in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.370651
+date: 2026-09-11T02:38:29.323547
 url: "/cdr-researcher-census/researchers/kaikai-fang-a5102379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 757 |
+| Citations | 775 |
 | Publications | 31 |
 | CDR Focus | 12.9% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced nitrate removal by physical activation and Mg/Al layered double hydroxide modified biochar derived from wood waste: Adsorption characteristics and mechanisms** (2021)
-   110 citations · Biochar
+   113 citations · Biochar
 
 2. **Rice straw-derived biochar amendment enabling a synergy for mercury alkylation and carbon sequestration in mercury-contaminated paddy soil** (2024)
    10 citations · Biochar

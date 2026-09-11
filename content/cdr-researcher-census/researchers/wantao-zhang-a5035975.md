@@ -1,7 +1,7 @@
 ---
 title: "Wantao Zhang"
-description: "Wantao Zhang is a Mid-career Soil Carbon researcher at University of Science and Technology Liaoning in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.318119
+description: "Wantao Zhang is a Mid-career Soil Carbon researcher at University of Science and Technology Liaoning in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.232145
 url: "/cdr-researcher-census/researchers/wantao-zhang-a5035975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 119 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 7 |
+| Citations | 131 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

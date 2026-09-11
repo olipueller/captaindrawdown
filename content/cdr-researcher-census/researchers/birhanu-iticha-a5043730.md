@@ -1,7 +1,7 @@
 ---
 title: "Birhanu Iticha"
-description: "Birhanu Iticha is a Mid-career Soil Carbon researcher at University of South Australia in AU. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.765072
+description: "Birhanu Iticha is a Mid-career Soil Carbon researcher at University of South Australia in AU. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.702083
 url: "/cdr-researcher-census/researchers/birhanu-iticha-a5043730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 291 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 308 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Contribution of coffee plants to carbon sequestration in agroforestry systems of Southwestern Ethiopia** (2022)
-   36 citations · General CDR
+   41 citations · General CDR
 
 2. **Geospatial evidence of enhanced soil carbon storage, moisture stability, and microclimate mitigation under Ethiopia’s green legacy initiative** (2026)
    1 citations · General CDR

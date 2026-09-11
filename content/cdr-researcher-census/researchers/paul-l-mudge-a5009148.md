@@ -1,7 +1,7 @@
 ---
 title: "Paul L. Mudge"
-description: "Paul L. Mudge is a Senior Soil Carbon researcher at Landcare Research in NZ. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.234209
+description: "Paul L. Mudge is a Senior Soil Carbon researcher at Landcare Research in NZ. With 64 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.183706
 url: "/cdr-researcher-census/researchers/paul-l-mudge-a5009148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,369 |
-| Publications | 63 |
-| CDR Focus | 6.3% |
+| Citations | 1,398 |
+| Publications | 64 |
+| CDR Focus | 6.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Observed and modelled carbon fluxes at a grazed site with CO2 enrichment** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 4. **Comparison of Different Approaches for Estimating Profile Soil Organic Carbon Stocks from Topsoil Samples** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Pant"
-description: "Gaurav Pant is a Mid-career Biochar researcher at Gurukul Kangri Vishwavidyalaya in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.101371
+description: "Gaurav Pant is a Mid-career Biochar researcher at Gurukul Kangri Vishwavidyalaya in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.024630
 url: "/cdr-researcher-census/researchers/gaurav-pant-a5036424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 167 |
+| h-index | 8 |
+| Citations | 182 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

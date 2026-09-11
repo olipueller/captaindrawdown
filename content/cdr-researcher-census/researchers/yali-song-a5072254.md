@@ -1,7 +1,7 @@
 ---
 title: "Yali Song"
 description: "Yali Song is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.067353
+date: 2026-09-11T02:38:29.993815
 url: "/cdr-researcher-census/researchers/yali-song-a5072254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 177 |
+| Citations | 192 |
 | Publications | 37 |
 | CDR Focus | 10.8% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of forest vegetation restoration on carbon increment after mining** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Indirect Regulation of SOC by Different Land Uses in Karst Areas Through the Modulation of Soil Microbiomes and Aggregate Stability** (2025)
    1 citations · Soil Carbon

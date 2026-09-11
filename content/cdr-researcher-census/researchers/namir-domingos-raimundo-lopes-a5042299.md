@@ -1,7 +1,7 @@
 ---
 title: "Namir Domingos Raimundo Lopes"
 description: "Namir Domingos Raimundo Lopes is a Mid-career Soil Carbon researcher at University of Science and Technology Beijing in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.263382
+date: 2026-09-11T02:38:30.226225
 url: "/cdr-researcher-census/researchers/namir-domingos-raimundo-lopes-a5042299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 129 |
+| Citations | 132 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

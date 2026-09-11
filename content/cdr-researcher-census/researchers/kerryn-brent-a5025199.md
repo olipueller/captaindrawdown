@@ -1,7 +1,7 @@
 ---
 title: "Kerryn Brent"
-description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.606404
+description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.552885
 url: "/cdr-researcher-census/researchers/kerryn-brent-a5025199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 401 |
+| h-index | 10 |
+| Citations | 416 |
 | Publications | 51 |
-| CDR Focus | 17.6% |
+| CDR Focus | 19.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
-   65 citations · General CDR
+   66 citations · General CDR
 
 2. **Navigating stakeholder heterogeneity in carbon dioxide removal governance** (2025)
    13 citations · General CDR
@@ -60,12 +60,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · BECCS
 
 4. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
-5. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
-   4 citations · General CDR
+5. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
+   5 citations · General CDR
 
-6. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
+6. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
    4 citations · General CDR
 
 7. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)

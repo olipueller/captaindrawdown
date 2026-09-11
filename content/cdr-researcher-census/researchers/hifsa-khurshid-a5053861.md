@@ -1,7 +1,7 @@
 ---
 title: "Hifsa Khurshid"
-description: "Hifsa Khurshid is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.604171
+description: "Hifsa Khurshid is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.532566
 url: "/cdr-researcher-census/researchers/hifsa-khurshid-a5053861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 403 |
+| h-index | 11 |
+| Citations | 436 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 3. **Evaluation of Contemporary Computational Techniques to Optimize Adsorption Process for Simultaneous Removal of COD and TOC in Wastewater** (2022)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

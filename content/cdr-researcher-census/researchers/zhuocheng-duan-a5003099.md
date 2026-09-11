@@ -1,7 +1,7 @@
 ---
 title: "Zhuocheng Duan"
 description: "Zhuocheng Duan is a Mid-career General CDR researcher at The University of Adelaide in AU. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.600745
+date: 2026-09-11T02:38:29.525634
 url: "/cdr-researcher-census/researchers/zhuocheng-duan-a5003099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 406 |
+| Citations | 442 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Challenges in predicting the impact of climate change on thermal building performance through simulation: A systematic review** (2025)
-   40 citations · General CDR
+   45 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ramhari Paneru"
-description: "Ramhari Paneru is a Mid-career General CDR researcher at University of Wyoming in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.569806
+description: "Ramhari Paneru is a Mid-career General CDR researcher at University of Wyoming in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.509691
 url: "/cdr-researcher-census/researchers/ramhari-paneru-a5100427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 437 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 10 |
+| Citations | 458 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yeye Zhang"
 description: "Yeye Zhang is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.598111
+date: 2026-09-11T02:38:29.531287
 url: "/cdr-researcher-census/researchers/yeye-zhang-a5064833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 409 |
+| Citations | 437 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbial life-history strategies and particulate organic carbon mediate formation of microbial necromass carbon and stabilization in response to biochar addition** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **A synthesis of soil organic carbon mineralization in response to biochar amendment** (2022)
-   38 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

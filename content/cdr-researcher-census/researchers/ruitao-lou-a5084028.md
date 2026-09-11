@@ -1,7 +1,7 @@
 ---
 title: "Ruitao Lou"
-description: "Ruitao Lou is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.337295
+description: "Ruitao Lou is a Mid-career Soil Carbon researcher at First Affiliated Hospital Zhejiang University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.253095
 url: "/cdr-researcher-census/researchers/ruitao-lou-a5084028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ruitao-lou-a5084028/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "First Affiliated Hospital Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5084028140"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ruitao Lou**  
-Zhejiang University · 🇨🇳 CN
+First Affiliated Hospital Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 115 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| Citations | 127 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

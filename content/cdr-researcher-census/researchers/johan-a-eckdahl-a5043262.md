@@ -1,7 +1,7 @@
 ---
 title: "Johan A. Eckdahl"
-description: "Johan A. Eckdahl is a Mid-career Biochar researcher at Santa Barbara City College in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.212994
+description: "Johan A. Eckdahl is a Mid-career Biochar researcher at Santa Barbara City College in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.109194
 url: "/cdr-researcher-census/researchers/johan-a-eckdahl-a5043262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 139 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 8 |
+| Citations | 158 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mineral Soils Are an Important Intermediate Storage Pool of Black Carbon in Fennoscandian Boreal Forests** (2022)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

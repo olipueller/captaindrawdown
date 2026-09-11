@@ -1,7 +1,7 @@
 ---
 title: "Vandana Jaggi"
 description: "Vandana Jaggi is a Mid-career Soil Carbon researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.058207
+date: 2026-09-11T02:38:30.000754
 url: "/cdr-researcher-census/researchers/vandana-jaggi-a5013582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 180 |
+| Citations | 190 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

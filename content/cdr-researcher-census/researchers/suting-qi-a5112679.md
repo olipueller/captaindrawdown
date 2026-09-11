@@ -1,7 +1,7 @@
 ---
 title: "Suting Qi"
 description: "Suting Qi is a Mid-career Soil Carbon researcher at Hohai University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.575820
+date: 2026-09-11T02:38:29.514921
 url: "/cdr-researcher-census/researchers/suting-qi-a5112679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 431 |
+| Citations | 453 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Metagenomic insights into the influence of soil microbiome on greenhouse gas emissions from paddy fields under varying irrigation and fertilisation regimes** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **CO2 Fluxes Over Water-Saving Paddy Fields with Different Straw Management Methods on the Basis of the Same Amount of Carbon Input** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Philipp Runge"
 description: "Philipp Runge is a Mid-career Biochar researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.657907
+date: 2026-09-11T02:38:29.606662
 url: "/cdr-researcher-census/researchers/philipp-runge-a5080713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 360 |
+| Citations | 372 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessing biomass carbon dioxide removal supply chains: System modelling and economic assessment** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

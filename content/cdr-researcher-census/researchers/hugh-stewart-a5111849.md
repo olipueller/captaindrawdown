@@ -1,7 +1,7 @@
 ---
 title: "Hugh Stewart"
-description: "Hugh Stewart is a Senior Soil Carbon researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.740122
+description: "Hugh Stewart is a Senior Soil Carbon researcher at FIT Consulting (Italy) in IT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.686125
 url: "/cdr-researcher-census/researchers/hugh-stewart-a5111849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Hugh Stewart",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hugh-stewart-a5111849/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "FIT Consulting (Italy)"
+  },
   "sameAs": "https://openalex.org/A5111849191"
 }
 </script>
 
 ## Profile
 
-**Hugh Stewart**
+**Hugh Stewart**  
+FIT Consulting (Italy) · 🇮🇹 IT
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 304 |
+| Citations | 316 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -43,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can soil and tree carbon sequestration maintain zero net emissions grazing?** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

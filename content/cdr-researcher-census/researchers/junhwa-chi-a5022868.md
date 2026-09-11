@@ -1,7 +1,7 @@
 ---
 title: "Junhwa Chi"
 description: "Junhwa Chi is a Senior Biochar researcher at Korea Electric Power Corporation (South Korea) in KR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.403716
+date: 2026-09-11T02:38:30.379932
 url: "/cdr-researcher-census/researchers/junhwa-chi-a5022868/"
 layout: "researcher"
 hiddenInHomeList: true

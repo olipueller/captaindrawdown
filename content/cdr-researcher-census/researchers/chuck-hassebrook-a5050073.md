@@ -1,7 +1,7 @@
 ---
 title: "Chuck Hassebrook"
 description: "Chuck Hassebrook is a Senior Enhanced Weathering researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.402278
+date: 2026-09-11T02:38:30.377951
 url: "/cdr-researcher-census/researchers/chuck-hassebrook-a5050073/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feilong Gao"
-description: "Feilong Gao is a Mid-career Biochar researcher at National University of Singapore in SG. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.323585
+description: "Feilong Gao is a Mid-career Biochar researcher at National University of Singapore in SG. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.268568
 url: "/cdr-researcher-census/researchers/feilong-gao-a5101355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 895 |
-| Publications | 37 |
-| CDR Focus | 8.1% |
+| Citations | 941 |
+| Publications | 40 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced nitrobenzene removal in soil by biochar supported sulfidated nano zerovalent iron: Solubilization effect and mechanism** (2022)
-   46 citations · Biochar
+   47 citations · Biochar
 
 2. **Mechanistic details of the removal of 2,4,6-trichlorophenol from aqueous solution by iron and nitrogen co-doped biochar: Characterization, performance, and mechanism studies** (2023)
    25 citations · Biochar
 
 3. **Simulated Multi-Scenario Analysis of Land Use and Carbon Stock Dynamics in the Yiluo River Basin Using the PLUS-InVEST Model** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

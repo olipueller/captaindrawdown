@@ -1,7 +1,7 @@
 ---
 title: "Nayan Ahmed"
-description: "Nayan Ahmed is a Senior Soil Carbon researcher at Academy of Sciences Republic of Uzbekistan in UZ. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.461273
+description: "Nayan Ahmed is a Senior Soil Carbon researcher at Academy of Sciences Republic of Uzbekistan in UZ. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.412924
 url: "/cdr-researcher-census/researchers/nayan-ahmed-a5104227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 574 |
-| Publications | 56 |
-| CDR Focus | 16.1% |
+| Citations | 589 |
+| Publications | 57 |
+| CDR Focus | 14.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
    6 citations · Biochar

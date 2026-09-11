@@ -1,7 +1,7 @@
 ---
 title: "Prisca Divra Johan"
-description: "Prisca Divra Johan is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611944
+description: "Prisca Divra Johan is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.548743
 url: "/cdr-researcher-census/researchers/prisca-divra-johan-a5059884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Prisca Divra Johan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prisca-divra-johan-a5059884/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universiti Putra Malaysia"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-1794-7797",
     "https://openalex.org/A5059884225"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Prisca Divra Johan**  
-Universiti Putra Malaysia · 🇲🇾 MY
+**Prisca Divra Johan**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 397 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 420 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimisation of Charcoal and Sago (Metroxylon sagu) Bark Ash to Improve Phosphorus Availability in Acidic Soils** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

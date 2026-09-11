@@ -1,7 +1,7 @@
 ---
 title: "Ting Gong"
-description: "Ting Gong is a Mid-career Soil Carbon researcher at Guizhou Institute of Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.223520
+description: "Ting Gong is a Mid-career Soil Carbon researcher at Capital University of Physical Education and Sports in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.191510
 url: "/cdr-researcher-census/researchers/ting-gong-a5101491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ting-gong-a5101491/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guizhou Institute of Technology"
+    "name": "Capital University of Physical Education and Sports"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9595-4533",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ting Gong**  
-Guizhou Institute of Technology · 🇨🇳 CN
+Capital University of Physical Education and Sports · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 137 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 139 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

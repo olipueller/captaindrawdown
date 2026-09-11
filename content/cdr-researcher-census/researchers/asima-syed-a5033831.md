@@ -1,7 +1,7 @@
 ---
 title: "Asima Syed"
 description: "Asima Syed is a Senior DAC researcher at Universiti Teknologi Petronas in MY. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.356691
+date: 2026-09-11T02:38:30.307376
 url: "/cdr-researcher-census/researchers/asima-syed-a5033831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 111 |
+| Citations | 116 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Applicability of Adsorbents in Direct Air Capture (DAC): Recent Progress and Future Perspectives** (2025)
-   49 citations · DAC
+   51 citations · DAC
 
 ## External Profiles
 

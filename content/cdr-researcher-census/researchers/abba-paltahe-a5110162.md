@@ -1,7 +1,7 @@
 ---
 title: "Abba Paltahe"
-description: "Abba Paltahe is a Mid-career Biochar researcher at University of Maroua in CM. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.282274
+description: "Abba Paltahe is a Mid-career Biochar researcher at University of Maroua in CM. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.218889
 url: "/cdr-researcher-census/researchers/abba-paltahe-a5110162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 133 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Evaluating the efficiency of cattle hair waste biochar fortified with alum on the treatment of vegetable oil refinery wastewater** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lijia Huang"
 description: "Lijia Huang is a Mid-career Biochar researcher at Harvard University in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.344224
+date: 2026-09-11T02:38:29.292480
 url: "/cdr-researcher-census/researchers/lijia-huang-a5104107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 833 |
+| Citations | 862 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step synthesis of ZnFe2O4-loaded biochar derived from leftover rice for high-performance H2S removal** (2021)
-   71 citations · Biochar
+   72 citations · Biochar
 
 2. **CaCO3-ZnO loaded scrap rice-derived biochar for H2S removal at room-temperature: Characterization, performance and mechanism** (2023)
    40 citations · Biochar

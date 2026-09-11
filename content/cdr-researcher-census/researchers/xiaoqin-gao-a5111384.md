@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Gao"
 description: "Xiaoqin Gao is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.201687
+date: 2026-09-11T02:38:30.170676
 url: "/cdr-researcher-census/researchers/xiaoqin-gao-a5111384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 142 |
+| Citations | 144 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Shifts in biotic and abiotic controls of soil organic carbon mineralization across vegetation types and soil depths in Luya Mountain** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

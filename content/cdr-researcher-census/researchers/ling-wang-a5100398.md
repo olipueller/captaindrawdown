@@ -1,7 +1,7 @@
 ---
 title: "Ling Wang"
-description: "Ling Wang is a Senior Soil Carbon researcher at Hainan Normal University in CN. With 129 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.112844
+description: "Ling Wang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 126 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.062090
 url: "/cdr-researcher-census/researchers/ling-wang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ling-wang-a5100398/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hainan Normal University"
+    "name": "Northeast Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2276-9529",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ling Wang**  
-Hainan Normal University · 🇨🇳 CN
+Northeast Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 3,935 |
-| Publications | 129 |
-| CDR Focus | 6.2% |
+| Citations | 4,052 |
+| Publications | 126 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The global contribution of soil mosses to ecosystem services** (2023)
-   100 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 2. **Spatial effects of nitrogen deposition on soil organic carbon stocks in patchy degraded saline-alkaline grassland** (2023)
    20 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon

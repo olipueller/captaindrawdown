@@ -1,7 +1,7 @@
 ---
 title: "Hsueh-Han Hsieh"
-description: "Hsueh-Han Hsieh is a Mid-career Ocean CDR researcher at National Sun Yat-sen University in TW. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.147951
+description: "Hsueh-Han Hsieh is a Mid-career Ocean CDR researcher at National Sun Yat-sen University in TW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.086795
 url: "/cdr-researcher-census/researchers/hsueh-han-hsieh-a5011636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 154 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 7 |
+| Citations | 164 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

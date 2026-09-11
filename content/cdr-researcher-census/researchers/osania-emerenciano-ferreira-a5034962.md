@@ -1,7 +1,7 @@
 ---
 title: "Osânia Emerenciano Ferreira"
-description: "Osânia Emerenciano Ferreira is a Mid-career Biochar researcher at Universidade do Estado de Minas Gerais in BR. With 58 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.165112
+description: "Osânia Emerenciano Ferreira is a Mid-career Biochar researcher at Universidade do Estado de Minas Gerais in BR. With 60 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.097148
 url: "/cdr-researcher-census/researchers/osania-emerenciano-ferreira-a5034962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 150 |
-| Publications | 58 |
-| CDR Focus | 12.1% |
+| h-index | 8 |
+| Citations | 161 |
+| Publications | 60 |
+| CDR Focus | 11.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -60,10 +60,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 4. **Pyrolysis converts urban pruning waste into biochar with soil and climate benefits** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 5. **Biochar Prepared from Sugarcane Bagasse for the Clarification of Brown Sugar Solutions** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 6. **Effect of sugarcane bagasse biochar on soybean germination and initial growth** (2024)
    1 citations · Biochar

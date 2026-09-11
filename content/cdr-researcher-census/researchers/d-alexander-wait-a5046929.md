@@ -1,7 +1,7 @@
 ---
 title: "D. Alexander Wait"
 description: "D. Alexander Wait is a Senior Soil Carbon researcher at Missouri State University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.321508
+date: 2026-09-11T02:38:29.278328
 url: "/cdr-researcher-census/researchers/d-alexander-wait-a5046929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 902 |
+| Citations | 906 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Native bamboo Arundinaria gigantea restoration for climate smart land management: A review** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Overstorey leaf production and emergence of sassafras saplings in a southwest Missouri oak woodland: An analysis based upon long-term effects of fire** (2024)
    2 citations · General CDR

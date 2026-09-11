@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Bouchard"
 description: "Sylvie Bouchard is a Mid-career General CDR researcher at Université du Québec à Chicoutimi in CA. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.676747
+date: 2026-09-11T02:38:29.634716
 url: "/cdr-researcher-census/researchers/sylvie-bouchard-a5069468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 346 |
+| Citations | 352 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

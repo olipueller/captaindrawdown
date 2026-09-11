@@ -1,7 +1,7 @@
 ---
 title: "Carmen Sánchez-García"
-description: "Carmen Sánchez-García is a Mid-career Soil Carbon researcher at European Commission in BE. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.957206
+description: "Carmen Sánchez-García is a Mid-career Soil Carbon researcher at Albany State University in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.878133
 url: "/cdr-researcher-census/researchers/carmen-sanchez-garcia-a5063268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/carmen-sanchez-garcia-a5063268/",
   "affiliation": {
     "@type": "Organization",
-    "name": "European Commission"
+    "name": "Albany State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6753-243X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Carmen Sánchez-García**  
-European Commission · 🇧🇪 BE
+Albany State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 212 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 226 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

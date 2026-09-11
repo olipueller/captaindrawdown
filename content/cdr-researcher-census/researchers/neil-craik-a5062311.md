@@ -1,7 +1,7 @@
 ---
 title: "Neil Craik"
-description: "Neil Craik is a Senior General CDR researcher at University of Waterloo in CA. With 83 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.406367
+description: "Neil Craik is a Senior General CDR researcher at University of Waterloo in CA. With 81 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.357079
 url: "/cdr-researcher-census/researchers/neil-craik-a5062311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 674 |
-| Publications | 83 |
-| CDR Focus | 9.6% |
+| Citations | 694 |
+| Publications | 81 |
+| CDR Focus | 9.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    36 citations · DAC
 
 2. **Scaling carbon removal systems: deploying direct air capture amidst Canada’s low-carbon transition** (2024)
-   7 citations · DAC
+   10 citations · DAC
 
 3. **Applying equity principles leads to higher carbon removal obligations in Canada** (2025)
    6 citations · DAC
 
 4. **Equitable marine carbon dioxide removal: the legal basis for interstate benefit-sharing** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 5. **The Legal Framework for Carbon Dioxide Removal in Canada** (2022)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Qipei Shangguan"
-description: "Qipei Shangguan is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375190
+description: "Qipei Shangguan is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.319136
 url: "/cdr-researcher-census/researchers/qipei-shangguan-a5089599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 108 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 114 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

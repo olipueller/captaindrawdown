@@ -1,7 +1,7 @@
 ---
 title: "Luxiang Lin"
 description: "Luxiang Lin is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences in CN. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144120
+date: 2026-09-11T02:38:29.093397
 url: "/cdr-researcher-census/researchers/luxiang-lin-a5112873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 2,648 |
+| Citations | 2,742 |
 | Publications | 115 |
 | CDR Focus | 5.2% |
 | Trajectory | Exiting |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 3. **Reference carbon cycle dataset for typical Chinese forests via colocated observations and data assimilation** (2021)
    32 citations · Soil Carbon
 
-4. **Forest structure predicts aboveground biomass better than community-weighted mean of traits, functional diversity, topography, and soil in a tropical forest across spatial scales** (2024)
-   18 citations
+4. **Top Canopy Height and Stem Size Variation Enhance Aboveground Biomass across Spatial Scales in Seasonal Tropical Forests** (2023)
+   19 citations · Soil Carbon
 
-5. **Top Canopy Height and Stem Size Variation Enhance Aboveground Biomass across Spatial Scales in Seasonal Tropical Forests** (2023)
-   13 citations · Soil Carbon
+5. **Forest structure predicts aboveground biomass better than community-weighted mean of traits, functional diversity, topography, and soil in a tropical forest across spatial scales** (2024)
+   18 citations
 
 6. **Climate Sensitivities of Carbon Turnover Times in Soil and Vegetation: Understanding Their Effects on Forest Carbon Sequestration** (2022)
    12 citations · Soil Carbon

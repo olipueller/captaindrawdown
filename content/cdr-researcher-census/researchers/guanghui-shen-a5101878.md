@@ -1,7 +1,7 @@
 ---
 title: "Guanghui Shen"
 description: "Guanghui Shen is a Mid-career Biochar researcher at Zhengzhou University of Light Industry in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505754
+date: 2026-09-11T02:38:29.456342
 url: "/cdr-researcher-census/researchers/guanghui-shen-a5101878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 506 |
+| Citations | 520 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Two-dimensional correlation infrared spectroscopy reveals the evolution of functional groups governing biochar oxidation resistance** (2026)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

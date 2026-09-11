@@ -1,7 +1,7 @@
 ---
 title: "Guanjie Zeng"
-description: "Guanjie Zeng is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795723
+description: "Guanjie Zeng is a Mid-career Biochar researcher at Ningbo Institute of Industrial Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.750686
 url: "/cdr-researcher-census/researchers/guanjie-zeng-a5112512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Guanjie Zeng",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guanjie-zeng-a5112512/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ningbo Institute of Industrial Technology"
+  },
   "sameAs": "https://openalex.org/A5112512836"
 }
 </script>
 
 ## Profile
 
-**Guanjie Zeng**
+**Guanjie Zeng**  
+Ningbo Institute of Industrial Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 275 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 283 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

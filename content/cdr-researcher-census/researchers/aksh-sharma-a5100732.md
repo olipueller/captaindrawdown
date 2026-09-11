@@ -1,7 +1,7 @@
 ---
 title: "Aksh Sharma"
 description: "Aksh Sharma is an Early-career Soil Carbon researcher at Lovely Professional University in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347184
+date: 2026-09-11T02:38:30.302830
 url: "/cdr-researcher-census/researchers/aksh-sharma-a5100732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 113 |
+| Citations | 117 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **PGPR-Enabled bioremediation of pesticide and heavy metal-contaminated soil: A review of recent advances and emerging challenges** (2024)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 ## External Profiles
 

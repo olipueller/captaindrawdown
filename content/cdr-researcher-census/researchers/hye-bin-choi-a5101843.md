@@ -1,7 +1,7 @@
 ---
 title: "Hye-Bin Choi"
 description: "Hye-Bin Choi is a Senior Enhanced Weathering researcher at Ewha Womans University in KR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.992772
+date: 2026-09-11T02:38:29.964778
 url: "/cdr-researcher-census/researchers/hye-bin-choi-a5101843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 199 |
+| Citations | 200 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

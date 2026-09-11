@@ -1,7 +1,7 @@
 ---
 title: "Monika Raczkiewicz"
 description: "Monika Raczkiewicz is a Mid-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.128647
+date: 2026-09-11T02:38:30.102890
 url: "/cdr-researcher-census/researchers/monika-raczkiewicz-a5093587/"
 layout: "researcher"
 hiddenInHomeList: true

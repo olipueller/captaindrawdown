@@ -1,7 +1,7 @@
 ---
 title: "Ellen G. Polites"
-description: "Ellen G. Polites is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.068423
+description: "Ellen G. Polites is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.026604
 url: "/cdr-researcher-census/researchers/ellen-g-polites-a5003535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 176 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 181 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

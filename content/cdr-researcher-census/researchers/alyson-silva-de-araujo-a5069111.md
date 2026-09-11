@@ -1,7 +1,7 @@
 ---
 title: "Alyson Silva de Araujo"
-description: "Alyson Silva de Araujo is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.843462
+description: "Alyson Silva de Araujo is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.804502
 url: "/cdr-researcher-census/researchers/alyson-silva-de-araujo-a5069111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 250 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 256 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

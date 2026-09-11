@@ -1,7 +1,7 @@
 ---
 title: "Enas Soliman"
 description: "Enas Soliman is a Senior Soil Carbon researcher at Mansoura University in EG. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222472
+date: 2026-09-11T02:38:30.169318
 url: "/cdr-researcher-census/researchers/enas-soliman-a5060582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 137 |
+| Citations | 144 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Takaya Miyazaki"
-description: "Takaya Miyazaki is a Mid-career Biochar researcher at The University of Tokyo in JP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.299121
+description: "Takaya Miyazaki is a Mid-career Biochar researcher at The University of Tokyo in JP. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.267811
 url: "/cdr-researcher-census/researchers/takaya-miyazaki-a5048750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 122 |
+| h-index | 5 |
+| Citations | 124 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Livestock Manure Compost Mixed with Biochar: Efficient Pelleting and Pellet Production Characteristics** (2024)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

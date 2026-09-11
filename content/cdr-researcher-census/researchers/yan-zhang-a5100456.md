@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhang"
-description: "Yan Zhang is a Mid-career Soil Carbon researcher at Westlake University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.556839
+description: "Yan Zhang is a Mid-career Soil Carbon researcher at Westlake University in CN. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.491331
 url: "/cdr-researcher-census/researchers/yan-zhang-a5100456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 449 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 478 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ecosystem carbon storage and sink/source of temperate forested wetlands in Xiaoxing’anling, northeast China** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Effects of ecological restoration on carbon sink and carbon drawdown of degraded salt marshes with carbon‐rich additives application** (2022)
    17 citations · Biochar

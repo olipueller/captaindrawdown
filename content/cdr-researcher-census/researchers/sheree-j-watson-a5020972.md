@@ -1,7 +1,7 @@
 ---
 title: "Sheree J. Watson"
 description: "Sheree J. Watson is a Senior Soil Carbon researcher at University of Hawaiʻi at Mānoa in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.432801
+date: 2026-09-11T02:38:29.389515
 url: "/cdr-researcher-census/researchers/sheree-j-watson-a5020972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 622 |
+| Citations | 627 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing Baseline Carbon Stocks for Forest Transitions: A Case Study of Agroforestry Restoration from Hawaiʻi** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

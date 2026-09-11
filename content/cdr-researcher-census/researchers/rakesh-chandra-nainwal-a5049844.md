@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Chandra Nainwal"
-description: "Rakesh Chandra Nainwal is a Mid-career Biochar researcher at Indian Institute of Toxicology Research in IN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.173749
+description: "Rakesh Chandra Nainwal is a Mid-career Biochar researcher at National Botanical Research Institute in IN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.113443
 url: "/cdr-researcher-census/researchers/rakesh-chandra-nainwal-a5049844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rakesh-chandra-nainwal-a5049844/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Toxicology Research"
+    "name": "National Botanical Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5865-327X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rakesh Chandra Nainwal**  
-Indian Institute of Toxicology Research · 🇮🇳 IN
+National Botanical Research Institute · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 148 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 157 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Phytoremediation: A Sustainable Approach to Combat Soil Salinity** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Biochar derived from agricultural waste is a potential source of biofuel** (2025)
    0 citations · Biochar

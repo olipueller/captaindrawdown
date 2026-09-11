@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
-description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 116 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.115133
+description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.063885
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 37 |
-| Citations | 3,797 |
-| Publications | 116 |
-| CDR Focus | 23.3% |
+| Citations | 3,917 |
+| Publications | 123 |
+| CDR Focus | 23.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   194 citations · DAC
+   202 citations · DAC
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   106 citations · General CDR
+   113 citations · General CDR
 
 3. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
-   95 citations · Enhanced Weathering
+   100 citations · Enhanced Weathering
 
 4. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   73 citations
+   76 citations
 
 5. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   66 citations · DAC
+   69 citations · DAC
 
 6. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
    16 citations · General CDR
 
-9. **Wastewater Treatment for Carbon Dioxide Removal** (2023)
-   15 citations · DAC
+9. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
+   16 citations · General CDR
 
-10. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   14 citations · General CDR
+10. **Wastewater Treatment for Carbon Dioxide Removal** (2023)
+   16 citations · DAC
 
 ## External Profiles
 

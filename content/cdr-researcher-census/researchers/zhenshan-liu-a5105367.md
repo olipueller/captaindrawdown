@@ -1,7 +1,7 @@
 ---
 title: "Zhenshan Liu"
 description: "Zhenshan Liu is a Senior Soil Carbon researcher at Shenyang Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.560166
+date: 2026-09-11T02:38:29.507127
 url: "/cdr-researcher-census/researchers/zhenshan-liu-a5105367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 446 |
+| Citations | 461 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop Rotation and Diversification in China: Enhancing Sustainable Agriculture and Resilience** (2024)
-   90 citations · Soil Carbon
+   96 citations · Soil Carbon
 
 ## External Profiles
 

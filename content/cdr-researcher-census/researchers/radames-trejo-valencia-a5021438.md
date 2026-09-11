@@ -1,7 +1,7 @@
 ---
 title: "Radamés Trejo-Valencia"
-description: "Radamés Trejo-Valencia is a Mid-career Biochar researcher at Instituto Tecnológico de Mérida in MX. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.035954
+description: "Radamés Trejo-Valencia is a Mid-career Biochar researcher at Tecnológico Nacional de México in MX. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.009090
 url: "/cdr-researcher-census/researchers/radames-trejo-valencia-a5021438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/radames-trejo-valencia-a5021438/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituto Tecnol\u00f3gico de M\u00e9rida"
+    "name": "Tecnol\u00f3gico Nacional de M\u00e9xico"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3046-4872",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Radamés Trejo-Valencia**  
-Instituto Tecnológico de Mérida · 🇲🇽 MX
+Tecnológico Nacional de México · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 186 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 187 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Engineered Magnetic Carbon-Based Adsorbents for the Removal of Water Priority Pollutants: An Overview** (2021)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

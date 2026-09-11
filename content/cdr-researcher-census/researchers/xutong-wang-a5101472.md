@@ -1,7 +1,7 @@
 ---
 title: "Xutong Wang"
-description: "Xutong Wang is a Mid-career Biochar researcher at Nuclear and Radiation Safety Center in CN. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.270040
+description: "Xutong Wang is a Mid-career Biochar researcher at Nuclear and Radiation Safety Center in CN. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.215052
 url: "/cdr-researcher-census/researchers/xutong-wang-a5101472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,146 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| h-index | 19 |
+| Citations | 1,198 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    93 citations · Biochar
 
 2. **Pyrolysis of exhausted hydrochar sorbent for cadmium separation and biochar regeneration** (2022)
-   27 citations · Biochar
+   29 citations · Biochar
 
 3. **Pyrolysis of exhausted biochar sorbent: Fates of cadmium and generation of products** (2024)
    4 citations · Biochar

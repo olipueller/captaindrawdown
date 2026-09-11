@@ -1,7 +1,7 @@
 ---
 title: "Liana Kindermann"
 description: "Liana Kindermann is a Mid-career Soil Carbon researcher at University of Potsdam in DE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.733598
+date: 2026-09-11T02:38:29.635014
 url: "/cdr-researcher-census/researchers/liana-kindermann-a5013841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 308 |
+| Citations | 352 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · Soil Carbon
 
 2. **Natural and Human Disturbances Have Non‐Linear Effects on Whole‐Ecosystem Carbon Storage in an African Savanna** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 3. **Dataset on woody aboveground biomass, disturbance losses, and wood density from an African savanna ecosystem** (2022)
    6 citations

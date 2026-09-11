@@ -1,7 +1,7 @@
 ---
 title: "Edson Leonardo Scarpa de Souza"
-description: "Edson Leonardo Scarpa de Souza is a Mid-career General CDR researcher at Universidade Federal de São Carlos in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.378882
+description: "Edson Leonardo Scarpa de Souza is a Mid-career General CDR researcher at Universidade Federal de São Carlos in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.307090
 url: "/cdr-researcher-census/researchers/edson-leonardo-scarpa-de-souza-a5049550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 107 |
+| h-index | 6 |
+| Citations | 116 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Proposing Oxalic Acid as Chemical Storage of Carbon Dioxide to Achieve Carbon Neutrality** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

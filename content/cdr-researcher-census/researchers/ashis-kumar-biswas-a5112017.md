@@ -1,7 +1,7 @@
 ---
 title: "Ashis Kumar Biswas"
-description: "Ashis Kumar Biswas is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.559130
+description: "Ashis Kumar Biswas is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.510429
 url: "/cdr-researcher-census/researchers/ashis-kumar-biswas-a5112017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 447 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 457 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of residue retention and nutrient management on carbon sequestration, soil biological properties, and yield in multi-ratoon sugarcane** (2023)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Intensification of Rice-Fallow Agroecosystem of South Asia with Oilseeds and Pulses: Impacts on System Productivity, Soil Carbon Dynamics and Energetics** (2023)
    9 citations · Soil Carbon

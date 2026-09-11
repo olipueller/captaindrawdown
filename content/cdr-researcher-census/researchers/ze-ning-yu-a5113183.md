@@ -1,7 +1,7 @@
 ---
 title: "Ze-ning Yu"
-description: "Ze-ning Yu is an Early-career Biochar researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043513
+description: "Ze-ning Yu is an Early-career Biochar researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.895915
 url: "/cdr-researcher-census/researchers/ze-ning-yu-a5113183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 184 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 219 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The key role of biochar in amending acidic soil: reducing soil acidity and improving soil acid buffering capacity** (2025)
-   111 citations · Biochar
+   125 citations · Biochar
 
 ## External Profiles
 

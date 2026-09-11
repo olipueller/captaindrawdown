@@ -1,7 +1,7 @@
 ---
 title: "Yulan Zhang"
-description: "Yulan Zhang is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 102 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.122845
+description: "Yulan Zhang is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 104 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.073059
 url: "/cdr-researcher-census/researchers/yulan-zhang-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 3,412 |
-| Publications | 102 |
-| CDR Focus | 7.8% |
+| h-index | 29 |
+| Citations | 3,500 |
+| Publications | 104 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Biochar
 
 2. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 3. **The role of oxidases and hydrolases in enhancing carbon sequestration through soil management practices: A global meta-analysis across diverse ecosystems** (2025)
    11 citations · Soil Carbon
@@ -63,15 +63,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Biochar
 
 5. **Elevated hydrolase activity rather than oxidase activity enhances the accumulation of organic matter in black soil under maize stover retention** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **More labile carbon inputs lessen the positive effects of nitrogen enrichment on soil carbon storage in a temperate grassland** (2023)
    3 citations · Soil Carbon
 
-7. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
-   0 citations · Biochar
+7. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+   1 citations · Biochar
 
-8. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+8. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
    0 citations · Biochar
 
 ## External Profiles

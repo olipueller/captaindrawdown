@@ -1,7 +1,7 @@
 ---
 title: "Tianchu Shu"
 description: "Tianchu Shu is a Mid-career Biochar researcher at Zhongkai University of Agriculture and Engineering in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.380266
+date: 2026-09-11T02:38:30.318525
 url: "/cdr-researcher-census/researchers/tianchu-shu-a5004522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 107 |
+| Citations | 114 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Synergistic Effects of Rice Straw-Pyrolyzed Biochar and Compost on Acidity Mitigation and Carbon Sequestration in Acidic Soils: A Comparative Study** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

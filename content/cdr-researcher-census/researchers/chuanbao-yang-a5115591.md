@@ -1,7 +1,7 @@
 ---
 title: "Chuanbao Yang"
-description: "Chuanbao Yang is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.401521
+description: "Chuanbao Yang is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.350520
 url: "/cdr-researcher-census/researchers/chuanbao-yang-a5115591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 688 |
+| h-index | 14 |
+| Citations | 707 |
 | Publications | 19 |
 | CDR Focus | 21.1% |
 | Trajectory | Exiting |
@@ -52,13 +52,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 3. **Impact of extensive management system on soil properties and carbon sequestration under an age chronosequence of Moso bamboo plantations in subtropical China** (2021)
-   21 citations · General CDR
+   22 citations · General CDR
 
 4. **Metagenomic insights into the characteristics of soil microbial communities in the decomposing biomass of Moso bamboo forests under different management practices** (2022)
-   14 citations
+   16 citations
 
 5. **Effects of chicken farming on soil extracellular enzyme activity and microbial nutrient limitation in Lei bamboo forest (Phyllostachys praecox) in subtropical China** (2021)
-   13 citations
+   14 citations
 
 6. **Introducing Native Tree Species Alter the Soil Organic Carbon, Nitrogen, Phosphorus, and Fine Roots in Moso Bamboo Plantations** (2024)
    4 citations · Soil Carbon

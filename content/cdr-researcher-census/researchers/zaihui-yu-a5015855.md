@@ -1,7 +1,7 @@
 ---
 title: "Zaihui Yu"
 description: "Zaihui Yu is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.241325
+date: 2026-09-11T02:38:30.165019
 url: "/cdr-researcher-census/researchers/zaihui-yu-a5015855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 133 |
+| Citations | 145 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unpaved road-altered confluence networks exacerbate soil organic carbon loss in mountainous forested catchments** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

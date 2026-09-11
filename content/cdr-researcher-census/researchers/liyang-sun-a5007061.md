@@ -1,7 +1,7 @@
 ---
 title: "Liyang Sun"
 description: "Liyang Sun is a Mid-career Soil Carbon researcher at Southwest University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.089512
+date: 2026-09-11T02:38:30.024801
 url: "/cdr-researcher-census/researchers/liyang-sun-a5007061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 170 |
+| Citations | 182 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

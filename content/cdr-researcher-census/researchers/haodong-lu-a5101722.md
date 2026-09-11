@@ -1,7 +1,7 @@
 ---
 title: "Haodong Lu"
-description: "Haodong Lu is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.219420
+description: "Haodong Lu is a Mid-career Soil Carbon researcher at Dalian Polytechnic University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.119330
 url: "/cdr-researcher-census/researchers/haodong-lu-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haodong-lu-a5101722/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northwest A&F University"
+    "name": "Dalian Polytechnic University"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-2120-4165",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haodong Lu**  
-Northwest A&F University · 🇨🇳 CN
+Dalian Polytechnic University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 138 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 156 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

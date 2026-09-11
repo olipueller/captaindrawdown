@@ -1,7 +1,7 @@
 ---
 title: "Meng Zhu"
-description: "Meng Zhu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.160578
+description: "Meng Zhu is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.107276
 url: "/cdr-researcher-census/researchers/meng-zhu-a5074195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/meng-zhu-a5074195/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Northwest Institute of Eco-Environment and Resources"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5557-0156",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Meng Zhu**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Northwest Institute of Eco-Environment and Resources · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,246 |
+| Citations | 2,343 |
 | Publications | 94 |
-| CDR Focus | 7.4% |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Divergent effects of biomass-derived carbon dots application and sweetpotato planting on accumulations of soil microbial necromass carbon in Vertisol** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Identification of Priority Supply Areas for Carbon Sinks Based on Ecosystem Service Flow: A Case Study for the Hexi Region in Northwestern China** (2024)
    3 citations · General CDR

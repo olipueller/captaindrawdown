@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Abdel-Aziz"
-description: "Mahmoud Abdel-Aziz is a Mid-career Soil Carbon researcher at University Medical Center Groningen in NL. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.346329
+description: "Mahmoud Abdel-Aziz is a Mid-career Soil Carbon researcher at University Medical Center Groningen in NL. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.295269
 url: "/cdr-researcher-census/researchers/mahmoud-abdel-aziz-a5022453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 828 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
+| Citations | 853 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR

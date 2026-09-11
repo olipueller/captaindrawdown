@@ -1,7 +1,7 @@
 ---
 title: "Wen‐Chen Chou"
-description: "Wen‐Chen Chou is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.207604
+description: "Wen‐Chen Chou is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.157917
 url: "/cdr-researcher-census/researchers/wenchen-chou-a5013548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,590 |
-| Publications | 58 |
-| CDR Focus | 5.2% |
+| Citations | 1,627 |
+| Publications | 60 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 3. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
    8 citations · Ocean CDR
+
+4. **Wastewater treatment-induced carbonate chemistry alteration and its implications for ocean alkalinity enhancement** (2026)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

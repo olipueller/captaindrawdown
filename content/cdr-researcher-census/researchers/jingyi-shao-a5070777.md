@@ -1,7 +1,7 @@
 ---
 title: "Jingyi Shao"
-description: "Jingyi Shao is a Senior Soil Carbon researcher at University of Canberra in AU. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.652859
+description: "Jingyi Shao is a Senior Soil Carbon researcher at Hunan Normal University in CN. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.613189
 url: "/cdr-researcher-census/researchers/jingyi-shao-a5070777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingyi-shao-a5070777/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Canberra"
+    "name": "Hunan Normal University"
   },
   "sameAs": "https://openalex.org/A5070777518"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jingyi Shao**  
-University of Canberra · 🇦🇺 AU
+Hunan Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 364 |
-| Publications | 46 |
-| CDR Focus | 10.9% |
+| Citations | 368 |
+| Publications | 47 |
+| CDR Focus | 10.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

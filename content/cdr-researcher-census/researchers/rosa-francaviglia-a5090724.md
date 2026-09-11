@@ -1,7 +1,7 @@
 ---
 title: "Rosa Francaviglia"
-description: "Rosa Francaviglia is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA) in IT. With 181 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.123335
+description: "Rosa Francaviglia is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA) in IT. With 185 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.072377
 url: "/cdr-researcher-census/researchers/rosa-francaviglia-a5090724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,407 |
-| Publications | 181 |
-| CDR Focus | 6.6% |
+| h-index | 33 |
+| Citations | 3,510 |
+| Publications | 185 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   200 citations · General CDR
+   207 citations · General CDR
 
 2. **Yield trends, soil carbon fractions and sequestration in a rice-rice system of North-East India: Effect of 32 years of INM practices** (2021)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 3. **C-sequestration and resilience to climate change of globe artichoke cropping systems depend on crop residues management** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
-   13 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Editorial: Agricultural diversification: Benefits and barriers for sustainable soil management** (2022)
    7 citations · Soil Carbon

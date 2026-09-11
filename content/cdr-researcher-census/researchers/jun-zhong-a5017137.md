@@ -1,7 +1,7 @@
 ---
 title: "Jun Zhong"
-description: "Jun Zhong is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 105 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.136866
+description: "Jun Zhong is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 107 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.085639
 url: "/cdr-researcher-census/researchers/jun-zhong-a5017137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 2,867 |
-| Publications | 105 |
-| CDR Focus | 6.7% |
+| h-index | 32 |
+| Citations | 3,012 |
+| Publications | 107 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    45 citations
 
 2. **Escalating Carbon Export from High-Elevation Rivers in a Warming Climate** (2024)
-   38 citations · General CDR
+   41 citations · General CDR
 
 3. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 4. **Carbon sequestration and decreased CO2 emission caused by biological carbon pump effect: Insights from diel hydrochemical variations in subtropical karst reservoirs** (2024)
    17 citations · Soil Carbon
 
-5. **Constraining sulfur cycling in the Eastern Tibetan Plateau: Evidence for cryptic sulfur cycling and implications for the weathering budget** (2025)
-   12 citations · Enhanced Weathering
+5. **A review of dissolved inorganic carbon isotopic fractionations in carbonate-bearing areas: Processes, models and applications** (2025)
+   13 citations
 
-6. **A review of dissolved inorganic carbon isotopic fractionations in carbonate-bearing areas: Processes, models and applications** (2025)
-   11 citations
+6. **Constraining sulfur cycling in the Eastern Tibetan Plateau: Evidence for cryptic sulfur cycling and implications for the weathering budget** (2025)
+   12 citations · Enhanced Weathering
 
 7. **Constraining sulfate sources and its implications on atmospheric pCO2 in Arid Regions: Evidence from the Tarim Basin** (2025)
    3 citations

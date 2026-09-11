@@ -1,7 +1,7 @@
 ---
 title: "Taiwo Oluwasola Abe"
 description: "Taiwo Oluwasola Abe is a Mid-career General CDR researcher at Federal University of Technology in NG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256346
+date: 2026-09-11T02:38:30.228566
 url: "/cdr-researcher-census/researchers/taiwo-oluwasola-abe-a5079076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 130 |
+| Citations | 131 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

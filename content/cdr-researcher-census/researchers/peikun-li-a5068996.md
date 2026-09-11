@@ -1,7 +1,7 @@
 ---
 title: "Peikun Li"
 description: "Peikun Li is a Mid-career Soil Carbon researcher at Henan University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316536
+date: 2026-09-11T02:38:30.257404
 url: "/cdr-researcher-census/researchers/peikun-li-a5068996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 119 |
+| Citations | 126 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil respiration and carbon sequestration response to short-term fertilization in wheat-maize cropping system in the North China Plain** (2025)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

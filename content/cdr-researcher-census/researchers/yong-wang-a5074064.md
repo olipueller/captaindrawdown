@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
-description: "Yong Wang is a Mid-career Soil Carbon researcher at National Laboratory of the Rockies in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.921589
+description: "Yong Wang is a Mid-career Soil Carbon researcher at Inner Mongolia Normal University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.855964
 url: "/cdr-researcher-census/researchers/yong-wang-a5074064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yong-wang-a5074064/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Laboratory of the Rockies"
+    "name": "Inner Mongolia Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7333-7534",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yong Wang**  
-National Laboratory of the Rockies · 🇺🇸 US
+Inner Mongolia Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 218 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 233 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

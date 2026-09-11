@@ -1,7 +1,7 @@
 ---
 title: "Yalin Li"
-description: "Yalin Li is a Senior Soil Carbon researcher at East China University of Science and Technology in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.614485
+description: "Yalin Li is a Senior Soil Carbon researcher at East China University of Science and Technology in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.555735
 url: "/cdr-researcher-census/researchers/yalin-li-a5100727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 395 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 414 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Divergent stabilization characteristics of soil organic carbon between topsoil and subsoil under different land use types** (2025)
-   20 citations
+   22 citations
 
 2. **The Inorganic Carbon Fixation Improved by Long-Term Manure Fertilization in Kastanozems under Rotation System of North China** (2023)
    5 citations · Soil Carbon

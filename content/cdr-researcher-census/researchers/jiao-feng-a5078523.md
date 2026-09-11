@@ -1,7 +1,7 @@
 ---
 title: "Jiao Feng"
-description: "Jiao Feng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 77 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.171493
+description: "Jiao Feng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 79 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.117789
 url: "/cdr-researcher-census/researchers/jiao-feng-a5078523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,058 |
-| Publications | 77 |
-| CDR Focus | 7.8% |
+| h-index | 29 |
+| Citations | 2,159 |
+| Publications | 79 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Local temperature increases reduce soil microbial residues and carbon stocks** (2022)
-   103 citations · Soil Carbon
+   105 citations · Soil Carbon
 
 2. **Trade‐offs in carbon‐degrading enzyme activities limit long‐term soil carbon sequestration with biochar addition** (2023)
-   86 citations · Biochar
+   88 citations · Biochar
 
 3. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Negative Impacts of Global Change Stressors Permeate Into Deep Soils** (2025)
    6 citations · Soil Carbon

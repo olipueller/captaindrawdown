@@ -1,7 +1,7 @@
 ---
 title: "Jintao Cui"
-description: "Jintao Cui is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.255753
+description: "Jintao Cui is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.137487
 url: "/cdr-researcher-census/researchers/jintao-cui-a5060837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 130 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 7 |
+| Citations | 151 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancing acidic gas adsorption of biochar through alkali waste liquid and surfactant modification** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Green sustainable development: Efficient catalytic oxidation decomposition of toluene** (2025)
    0 citations

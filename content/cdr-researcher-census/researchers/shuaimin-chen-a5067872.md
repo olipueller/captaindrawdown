@@ -1,7 +1,7 @@
 ---
 title: "Shuaimin Chen"
-description: "Shuaimin Chen is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.773711
+description: "Shuaimin Chen is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.694953
 url: "/cdr-researcher-census/researchers/shuaimin-chen-a5067872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 286 |
+| h-index | 8 |
+| Citations | 311 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

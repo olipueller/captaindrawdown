@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
-description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 161 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.074567
+description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 175 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.027045
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 45 |
-| Citations | 9,707 |
-| Publications | 161 |
-| CDR Focus | 14.3% |
+| h-index | 47 |
+| Citations | 10,037 |
+| Publications | 175 |
+| CDR Focus | 13.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models** (2022)
-   538 citations · DAC
+   553 citations · DAC
 
 2. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   154 citations · DAC
+   158 citations · DAC
 
 3. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   100 citations · General CDR
+   108 citations · General CDR
 
-4. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
-   52 citations · BECCS
+4. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
+   54 citations · General CDR
 
-5. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
-   48 citations · General CDR
+5. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
+   53 citations · BECCS
 
 6. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 7. **PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models** (2022)
-   36 citations · DAC
+   37 citations · DAC
 
 8. **Integrated assessment of the role of bioenergy within the EU energy transition targets to 2050** (2021)
    33 citations · BECCS

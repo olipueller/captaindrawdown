@@ -1,7 +1,7 @@
 ---
 title: "Umakant K. Behera"
 description: "Umakant K. Behera is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.090290
+date: 2026-09-11T02:38:30.049041
 url: "/cdr-researcher-census/researchers/umakant-k-behera-a5112003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 170 |
+| Citations | 175 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated farming system approaches to achieve food and nutritional security for enhancing profitability, employment, and climate resilience in India** (2022)
-   88 citations · Soil Carbon
+   93 citations · Soil Carbon
 
 ## External Profiles
 

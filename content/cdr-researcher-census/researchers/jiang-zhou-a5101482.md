@@ -1,7 +1,7 @@
 ---
 title: "Jiang Zhou"
-description: "Jiang Zhou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.551548
+description: "Jiang Zhou is a Senior Soil Carbon researcher. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.503569
 url: "/cdr-researcher-census/researchers/jiang-zhou-a5101482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jiang Zhou",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiang-zhou-a5101482/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-3067-8512",
     "https://openalex.org/A5101482947"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jiang Zhou**  
-Chinese Academy of Sciences · 🇨🇳 CN
+**Jiang Zhou**
 
 **Career Stage:** Senior
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 455 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 465 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

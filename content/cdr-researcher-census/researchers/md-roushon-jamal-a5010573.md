@@ -1,7 +1,7 @@
 ---
 title: "Md Roushon Jamal"
 description: "Md Roushon Jamal is a Mid-career Biochar researcher at Bangladesh Ministry of Agriculture in BD. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048458
+date: 2026-09-11T02:38:30.023500
 url: "/cdr-researcher-census/researchers/md-roushon-jamal-a5010573/"
 layout: "researcher"
 hiddenInHomeList: true

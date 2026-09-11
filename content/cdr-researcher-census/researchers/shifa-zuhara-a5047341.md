@@ -1,7 +1,7 @@
 ---
 title: "Shifa Zuhara"
-description: "Shifa Zuhara is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729132
+description: "Shifa Zuhara is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.667534
 url: "/cdr-researcher-census/researchers/shifa-zuhara-a5047341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 310 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| h-index | 11 |
+| Citations | 328 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

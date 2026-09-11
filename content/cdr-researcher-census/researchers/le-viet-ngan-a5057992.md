@@ -1,7 +1,7 @@
 ---
 title: "Le Viet Ngan"
-description: "Le Viet Ngan is a Mid-career Biochar researcher at National Institute of Animal Sciences in VN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.755326
+description: "Le Viet Ngan is a Mid-career Biochar researcher at National Institute of Animal Sciences in VN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.683276
 url: "/cdr-researcher-census/researchers/le-viet-ngan-a5057992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 296 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 318 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

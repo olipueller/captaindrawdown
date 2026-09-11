@@ -1,7 +1,7 @@
 ---
 title: "Wanying Lei"
 description: "Wanying Lei is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.220367
+date: 2026-09-11T02:38:29.170468
 url: "/cdr-researcher-census/researchers/wanying-lei-a5103195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,474 |
+| Citations | 1,493 |
 | Publications | 23 |
 | CDR Focus | 13.0% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw amendment and soil tillage alter soil organic carbon chemical composition and are associated with microbial community structure** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Restoration of Chemical Structure of Soil Organic Matter Under Different Agricultural Practices from a Severely Degraded Mollisol** (2021)
    12 citations · Soil Carbon
 
 3. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

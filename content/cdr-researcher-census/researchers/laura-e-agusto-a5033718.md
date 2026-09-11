@@ -1,7 +1,7 @@
 ---
 title: "Laura E Agusto"
 description: "Laura E Agusto is a Mid-career Soil Carbon researcher at Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375852
+date: 2026-09-11T02:38:30.330095
 url: "/cdr-researcher-census/researchers/laura-e-agusto-a5033718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
+| Citations | 112 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

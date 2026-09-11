@@ -1,7 +1,7 @@
 ---
 title: "Kerstin Varenius"
 description: "Kerstin Varenius is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.791792
+date: 2026-09-11T02:38:29.745594
 url: "/cdr-researcher-census/researchers/kerstin-varenius-a5080839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 277 |
+| Citations | 285 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A group of ectomycorrhizal fungi restricts organic matter accumulation in boreal forest** (2021)
-   175 citations · Soil Carbon
+   177 citations · Soil Carbon
 
 ## External Profiles
 

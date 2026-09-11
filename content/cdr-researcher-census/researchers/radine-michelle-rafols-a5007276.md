@@ -1,7 +1,7 @@
 ---
 title: "Radine Michelle Rafols"
-description: "Radine Michelle Rafols is a Mid-career Enhanced Weathering researcher at Center for Global Development in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.385301
+description: "Radine Michelle Rafols is a Mid-career Enhanced Weathering researcher at Center for Global Development in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.322472
 url: "/cdr-researcher-census/researchers/radine-michelle-rafols-a5007276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 106 |
+| h-index | 4 |
+| Citations | 113 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Scaling up enhanced rock weathering for equitable climate change mitigation** (2026)
-   0 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

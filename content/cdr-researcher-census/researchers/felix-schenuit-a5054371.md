@@ -1,7 +1,7 @@
 ---
 title: "Felix Schenuit"
-description: "Felix Schenuit is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.460880
+description: "Felix Schenuit is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.407375
 url: "/cdr-researcher-census/researchers/felix-schenuit-a5054371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 574 |
-| Publications | 44 |
-| CDR Focus | 29.5% |
+| Citations | 596 |
+| Publications | 43 |
+| CDR Focus | 30.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   150 citations · General CDR
+   151 citations · General CDR
 
 2. **Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero** (2022)
-   45 citations · General CDR
+   46 citations · General CDR
 
 3. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 4. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 5. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
    23 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    12 citations · General CDR
 
 9. **Scaling carbon removal without delaying emission reductions** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 10. **Five principles for robust carbon dioxide removal policy in the G7** (2024)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Tiago Osório Ferreira"
-description: "Tiago Osório Ferreira is an Eminent Soil Carbon researcher at Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz in BR. With 239 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.086972
+description: "Tiago Osório Ferreira is an Eminent Soil Carbon researcher at Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz in BR. With 240 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.038519
 url: "/cdr-researcher-census/researchers/tiago-osorio-ferreira-a5026553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 41 |
-| Citations | 6,386 |
-| Publications | 239 |
-| CDR Focus | 5.4% |
+| h-index | 42 |
+| Citations | 6,533 |
+| Publications | 240 |
+| CDR Focus | 5.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Iron’s role in soil organic carbon (de)stabilization in mangroves under land use change** (2024)
-   70 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Changes in soil iron biogeochemistry in response to mangrove dieback** (2022)
-   21 citations
+   22 citations
 
 3. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
-4. **Changes in organic carbon and microbiology community structure due to long-term irrigated agriculture on Luvisols in the Brazilian semi-arid region** (2022)
+4. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
+   13 citations · Soil Carbon
+
+5. **Changes in organic carbon and microbiology community structure due to long-term irrigated agriculture on Luvisols in the Brazilian semi-arid region** (2022)
    12 citations · Soil Carbon
-
-5. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   11 citations · Soil Carbon
 
 6. **Soil organic matter stabilization during early stages of Technosol development from Ca, Mg and pyrite-rich parent material** (2023)
    11 citations · Soil Carbon
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Drivers of carbon stabilization and sequestration in Brazil’s black soils** (2024)
    4 citations
 
-10. **Irrigation reshapes weathering and pedogenesis in calcareous soils of tropical dryland (NE Brazil)** (2025)
-   3 citations · Enhanced Weathering
+10. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
+   3 citations · Soil Carbon
 
 ## External Profiles
 

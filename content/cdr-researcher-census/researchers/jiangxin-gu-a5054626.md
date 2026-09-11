@@ -1,7 +1,7 @@
 ---
 title: "Jiangxin Gu"
 description: "Jiangxin Gu is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.290814
+date: 2026-09-11T02:38:29.242665
 url: "/cdr-researcher-census/researchers/jiangxin-gu-a5054626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,039 |
+| Citations | 1,048 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "A. O. Shirale"
-description: "A. O. Shirale is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.504303
+description: "A. O. Shirale is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.452221
 url: "/cdr-researcher-census/researchers/a-o-shirale-a5015273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 509 |
-| Publications | 41 |
-| CDR Focus | 7.3% |
+| Citations | 529 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,10 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Assessment of carbon carrying capacities of Alfisols and Vertisols under long-term manuring and fertilization** (2024)
    9 citations · Soil Carbon
 
-2. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
+2. **Digital mapping of soil organic carbon using machine learning: A framework for state-level carbon-smart land management** (2026)
    0 citations · Soil Carbon
 
-3. **Impact of Tillage, Residue and Nutrient on Soil Active Carbon, Nitrogen and Crop Yields in a Soybean-Wheat Rotation in Vertisols of Central India** (2024)
+3. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
+   0 citations · Soil Carbon
+
+4. **Impact of Tillage, Residue and Nutrient on Soil Active Carbon, Nitrogen and Crop Yields in a Soybean-Wheat Rotation in Vertisols of Central India** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

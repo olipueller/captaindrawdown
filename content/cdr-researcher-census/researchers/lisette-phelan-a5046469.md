@@ -1,7 +1,7 @@
 ---
 title: "Lisette Phelan"
 description: "Lisette Phelan is a Mid-career Soil Carbon researcher at Harper Adams University in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.253334
+date: 2026-09-11T02:38:30.163903
 url: "/cdr-researcher-census/researchers/lisette-phelan-a5046469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 131 |
+| Citations | 145 |
 | Publications | 19 |
 | CDR Focus | 15.8% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The emerging global agricultural soil carbon market: the case for reconciling farmers’ expectations with the demands of the market** (2023)
-   24 citations · General CDR
+   25 citations · General CDR
 
 2. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Zhang"
-description: "Jinxin Zhang is a Senior General CDR researcher at Shandong University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.493611
+description: "Jinxin Zhang is a Senior General CDR researcher at Beijing Academy of Artificial Intelligence in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.435193
 url: "/cdr-researcher-census/researchers/jinxin-zhang-a5100741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinxin-zhang-a5100741/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Beijing Academy of Artificial Intelligence"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6200-4192",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jinxin Zhang**  
-Shandong University · 🇨🇳 CN
+Beijing Academy of Artificial Intelligence · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 525 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 555 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   33 citations · General CDR
+1. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
+   37 citations
 
-2. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
-   32 citations
+2. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
+   36 citations · General CDR
 
 3. **Carbon sink of forest ecosystems: Concept, time effect and improvement approaches.** (2024)
    3 citations · General CDR

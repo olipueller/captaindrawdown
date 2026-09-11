@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Rezvani Ghalhari"
-description: "Mohammad Rezvani Ghalhari is a Mid-career Biochar researcher at Tehran University of Medical Sciences in IR. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.382072
+description: "Mohammad Rezvani Ghalhari is a Mid-career Biochar researcher at Baqiyatallah University of Medical Sciences in IR. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.329899
 url: "/cdr-researcher-census/researchers/mohammad-rezvani-ghalhari-a5021263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohammad-rezvani-ghalhari-a5021263/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tehran University of Medical Sciences"
+    "name": "Baqiyatallah University of Medical Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9552-3004",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohammad Rezvani Ghalhari**  
-Tehran University of Medical Sciences ·  IR
+Baqiyatallah University of Medical Sciences ·  IR
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 728 |
-| Publications | 58 |
-| CDR Focus | 6.9% |
+| h-index | 15 |
+| Citations | 756 |
+| Publications | 59 |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of anthracene from water by biochar derived amphiphilic carbon dots decorated with chitosan** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Adsorptive Removal of Anthracene from Water by Biochar Derived Amphiphilic Carbon Dots Decorated with Chitosan** (2023)
    1 citations · Biochar

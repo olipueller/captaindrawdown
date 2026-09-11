@@ -1,7 +1,7 @@
 ---
 title: "Xuanming Wang"
-description: "Xuanming Wang is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662395
+description: "Xuanming Wang is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.575175
 url: "/cdr-researcher-census/researchers/xuanming-wang-a5040792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 357 |
+| h-index | 6 |
+| Citations | 398 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Alternate wet‑dry irrigation coupled with magnesium-biochar fertilizer improves carbon sequestration, NH₃ mitigation, and water‑N use efficiency in rice paddies** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

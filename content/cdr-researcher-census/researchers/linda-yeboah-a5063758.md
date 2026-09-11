@@ -1,7 +1,7 @@
 ---
 title: "Linda Yeboah"
 description: "Linda Yeboah is a Mid-career Biochar researcher at University of Ghana in GH. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.141700
+date: 2026-09-11T02:38:30.104308
 url: "/cdr-researcher-census/researchers/linda-yeboah-a5063758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 156 |
+| Citations | 159 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based composites for remediation of polluted wastewater and soil environments: Challenges and prospects** (2022)
-   142 citations · Biochar
+   144 citations · Biochar
 
 ## External Profiles
 

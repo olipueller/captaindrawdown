@@ -1,7 +1,7 @@
 ---
 title: "Joeri Rogelj"
-description: "Joeri Rogelj is an Eminent General CDR researcher at Imperial College London in GB. With 448 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.060600
+description: "Joeri Rogelj is an Eminent General CDR researcher at Imperial College London in GB. With 449 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.013073
 url: "/cdr-researcher-census/researchers/joeri-rogelj-a5017820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 93 |
-| Citations | 44,406 |
-| Publications | 448 |
-| CDR Focus | 6.2% |
-| Trajectory | Stable |
+| Citations | 45,348 |
+| Publications | 449 |
+| CDR Focus | 6.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   121 citations · General CDR
+   123 citations · General CDR
 
 3. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
-   89 citations · General CDR
+   92 citations · General CDR
 
 4. **Geological Net Zero and the need for disaggregated accounting for carbon sinks** (2024)
-   83 citations · General CDR
+   87 citations · General CDR
 
 5. **A prudent planetary limit for geologic carbon storage** (2025)
-   70 citations · General CDR
+   79 citations · General CDR
 
 6. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 7. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    37 citations · General CDR
 
 9. **Preserving carbon dioxide removal to serve critical needs** (2025)
-   25 citations · General CDR
+   28 citations · General CDR
 
 10. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR

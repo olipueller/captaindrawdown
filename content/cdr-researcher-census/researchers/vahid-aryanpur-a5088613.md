@@ -1,7 +1,7 @@
 ---
 title: "Vahid Aryanpur"
-description: "Vahid Aryanpur is a Mid-career General CDR researcher at University College Cork in IE. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.395489
+description: "Vahid Aryanpur is a Mid-career General CDR researcher at University College Cork in IE. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341061
 url: "/cdr-researcher-census/researchers/vahid-aryanpur-a5088613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 698 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 727 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Negative emissions technologies in energy system models and mitigation scenarios - a systematic review** (2024)
-   6 citations · General CDR
+   8 citations · General CDR
 
 2. **Implications of accelerated and delayed climate action for Ireland’s energy transition under carbon budgets** (2024)
    6 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Ruijsch"
 description: "Jessica Ruijsch is a Mid-career Soil Carbon researcher at Ghent University in BE. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.164297
+date: 2026-09-11T02:38:30.120760
 url: "/cdr-researcher-census/researchers/jessica-ruijsch-a5012807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 150 |
+| Citations | 155 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Khawla Tlili"
 description: "Khawla Tlili is a Senior Biochar researcher at University of Carthage in TN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.782713
+date: 2026-09-11T02:38:29.747162
 url: "/cdr-researcher-census/researchers/khawla-tlili-a5074773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 281 |
+| Citations | 284 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

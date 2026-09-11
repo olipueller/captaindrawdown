@@ -1,7 +1,7 @@
 ---
 title: "M. Pedraza"
-description: "M. Pedraza is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.256914
+description: "M. Pedraza is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.201685
 url: "/cdr-researcher-census/researchers/m-pedraza-a5014114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 1,218 |
-| Publications | 2 |
-| CDR Focus | 50.0% |
+| h-index | 3 |
+| Citations | 1,267 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Microbial Blueprint: Predicting Soil Dominant Bacterial Genera Distribution Across Australia** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

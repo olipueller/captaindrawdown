@@ -1,7 +1,7 @@
 ---
 title: "Camila Ramos"
 description: "Camila Ramos is a Mid-career Soil Carbon researcher at University of Concepción in CL. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.005991
+date: 2026-09-11T02:38:29.958219
 url: "/cdr-researcher-census/researchers/camila-ramos-a5030436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 195 |
+| Citations | 202 |
 | Publications | 11 |
 | CDR Focus | 36.4% |
 | Trajectory | Growing |

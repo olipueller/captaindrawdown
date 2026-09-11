@@ -1,7 +1,7 @@
 ---
 title: "Hilman Ibnu Mahdi"
-description: "Hilman Ibnu Mahdi is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.628288
+description: "Hilman Ibnu Mahdi is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.572412
 url: "/cdr-researcher-census/researchers/hilman-ibnu-mahdi-a5045141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 383 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Stable |
+| Citations | 400 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Development of organic porous material from pineapple waste as a support for enzyme and dye adsorption** (2022)
-   36 citations · Biochar
+   37 citations · Biochar
+
+2. **Physicochemical Characterization of Optimized Pyrolysis-Derived Orange Peel Activated Carbon Modified with a DBU-Based Ionic Liquid** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

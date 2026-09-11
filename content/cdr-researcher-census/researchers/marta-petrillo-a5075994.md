@@ -1,7 +1,7 @@
 ---
 title: "Marta Petrillo"
 description: "Marta Petrillo is a Mid-career Biochar researcher at Free University of Bozen-Bolzano in IT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.867890
+date: 2026-09-11T02:38:29.831782
 url: "/cdr-researcher-census/researchers/marta-petrillo-a5075994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 239 |
+| Citations | 244 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Xueli Ding"
-description: "Xueli Ding is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198635
+description: "Xueli Ding is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 46 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.147354
 url: "/cdr-researcher-census/researchers/xueli-ding-a5031488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,691 |
+| h-index | 23 |
+| Citations | 1,731 |
 | Publications | 46 |
 | CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
-   29 citations · Soil Carbon
+1. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
+   30 citations · Soil Carbon
 
-2. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
+2. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
    29 citations · Soil Carbon
 
 3. **Mangrove wetland recovery enhances soil carbon sequestration capacity of soil aggregates and microbial network stability in southeastern China** (2024)
-   25 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 4. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   17 citations
+   18 citations
 
 5. **Divergent effects of legume cover crops on microbial necromass accumulation at surface versus subsurface soils in subtropical paddy fields** (2025)
    8 citations · Soil Carbon

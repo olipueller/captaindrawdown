@@ -1,7 +1,7 @@
 ---
 title: "Yi-Hong Kou"
 description: "Yi-Hong Kou is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.262257
+date: 2026-09-11T02:38:30.230750
 url: "/cdr-researcher-census/researchers/yi-hong-kou-a5050174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 129 |
+| Citations | 131 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 ## External Profiles
 

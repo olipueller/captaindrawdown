@@ -1,7 +1,7 @@
 ---
 title: "Matthew Gidden"
-description: "Matthew Gidden is a Senior General CDR researcher at Climate Analytics in DE. With 184 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.074413
+description: "Matthew Gidden is a Senior General CDR researcher at Climate Analytics in DE. With 200 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.026897
 url: "/cdr-researcher-census/researchers/matthew-gidden-a5012881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,39 +43,39 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 39 |
-| Citations | 9,799 |
-| Publications | 184 |
-| CDR Focus | 17.4% |
+| Citations | 10,077 |
+| Publications | 200 |
+| CDR Focus | 16.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   121 citations · General CDR
+   123 citations · General CDR
 
 3. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 4. **A prudent planetary limit for geologic carbon storage** (2025)
-   70 citations · General CDR
+   79 citations · General CDR
 
 5. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    47 citations · General CDR
 
 6. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
-7. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   35 citations · DAC
+7. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
+   36 citations · General CDR
 
-8. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+8. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
+   36 citations · DAC
 
 9. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 10. **The contribution of bioenergy to the decarbonization of transport: a multi-model assessment** (2022)
    21 citations · BECCS

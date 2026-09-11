@@ -1,7 +1,7 @@
 ---
 title: "Zheming Liu"
-description: "Zheming Liu is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.762291
+description: "Zheming Liu is a Mid-career Biochar researcher at Southeast University in BD. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.712419
 url: "/cdr-researcher-census/researchers/zheming-liu-a5052400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zheming Liu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zheming-liu-a5052400/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Southeast University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-1767-029X",
     "https://openalex.org/A5052400383"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Zheming Liu**
+**Zheming Liu**  
+Southeast University · 🇧🇩 BD
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 292 |
+| Citations | 302 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Christian P. Traeger"
-description: "Christian P. Traeger is a Senior General CDR researcher. With 80 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.200340
+description: "Christian P. Traeger is a Senior General CDR researcher at Ifo Institute for Economic Research in DE. With 81 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.151188
 url: "/cdr-researcher-census/researchers/christian-p-traeger-a5010554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Christian P. Traeger",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christian-p-traeger-a5010554/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ifo Institute for Economic Research"
+  },
   "sameAs": "https://openalex.org/A5010554237"
 }
 </script>
 
 ## Profile
 
-**Christian P. Traeger**
+**Christian P. Traeger**  
+Ifo Institute for Economic Research · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -35,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,674 |
-| Publications | 80 |
-| CDR Focus | 7.5% |
+| Citations | 1,693 |
+| Publications | 81 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

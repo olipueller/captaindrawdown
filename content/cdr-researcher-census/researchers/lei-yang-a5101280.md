@@ -1,7 +1,7 @@
 ---
 title: "Lei Yang"
-description: "Lei Yang is a Mid-career Biochar researcher at Hunan University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149264
+description: "Lei Yang is a Mid-career Biochar researcher at Ningbo University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.093464
 url: "/cdr-researcher-census/researchers/lei-yang-a5101280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lei-yang-a5101280/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hunan University"
+    "name": "Ningbo University"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-6605-5994",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lei Yang**  
-Hunan University · 🇨🇳 CN
+Ningbo University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 154 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 162 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Higher remediation efficiency of Cd and lower CO2 emissions in phytoremediation systems with biochar application** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Zhao"
-description: "Zhihui Zhao is a Mid-career Biochar researcher at National Center for Nanoscience and Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374728
+description: "Zhihui Zhao is a Mid-career Biochar researcher at National Center for Nanoscience and Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.292391
 url: "/cdr-researcher-census/researchers/zhihui-zhao-a5104217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 108 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 119 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil Organic Carbon and Humus Characteristics: Response and Evolution to Long-Term Direct/Carbonized Straw Return to Field** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

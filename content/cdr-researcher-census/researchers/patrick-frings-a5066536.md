@@ -1,7 +1,7 @@
 ---
 title: "Patrick Frings"
-description: "Patrick Frings is a Senior Enhanced Weathering researcher at Deutsches Geoforschungszentrum Potsdam in DE. With 107 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.179116
+description: "Patrick Frings is a Senior Enhanced Weathering researcher at Deutsches Geoforschungszentrum Potsdam in DE. With 108 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.128324
 url: "/cdr-researcher-census/researchers/patrick-frings-a5066536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 1,940 |
-| Publications | 107 |
-| CDR Focus | 12.1% |
-| Trajectory | Stable |
+| Citations | 1,986 |
+| Publications | 108 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -62,20 +62,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering
 
-5. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
+5. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
+   5 citations · Enhanced Weathering
+
+6. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
+   4 citations · Enhanced Weathering
+
+7. **Weathering without inorganic CDR revealed through cation tracing** (2025)
    3 citations · Enhanced Weathering
 
-6. **Weathering without inorganic CDR revealed through cation tracing** (2025)
+8. **Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering** (2025)
    3 citations · Enhanced Weathering
 
-7. **Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering** (2025)
+9. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2023)
    3 citations · Enhanced Weathering
-
-8. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2023)
-   3 citations · Enhanced Weathering
-
-9. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
-   2 citations · Enhanced Weathering
 
 10. **Climate change mitigation? Interactions between bio-weathering and soil organic carbon dynamics&amp;#160;** (2024)
    1 citations · Enhanced Weathering

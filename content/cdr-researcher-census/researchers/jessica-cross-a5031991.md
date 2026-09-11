@@ -1,7 +1,7 @@
 ---
 title: "Jessica Cross"
-description: "Jessica Cross is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.116803
+description: "Jessica Cross is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 104 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.067747
 url: "/cdr-researcher-census/researchers/jessica-cross-a5031991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 3,665 |
-| Publications | 100 |
-| CDR Focus | 12.0% |
+| Citations | 3,718 |
+| Publications | 104 |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   97 citations · General CDR
+   101 citations · General CDR
 
 2. **The Science We Need to Assess Marine Carbon Dioxide Removal** (2023)
    19 citations · General CDR
@@ -74,8 +74,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – Insights to an environment in transition** (2023)
    1 citations · Ocean CDR
 
-9. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
-   0 citations · General CDR
+9. **Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making** (2026)
+   0 citations · Ocean CDR
 
 10. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR

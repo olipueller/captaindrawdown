@@ -1,7 +1,7 @@
 ---
 title: "Panxin Zhang"
 description: "Panxin Zhang is a Senior Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.138182
+date: 2026-09-11T02:38:30.082348
 url: "/cdr-researcher-census/researchers/panxin-zhang-a5033795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 157 |
+| Citations | 166 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Manure replacing synthetic fertilizer improves crop yield sustainability and reduces carbon footprint under winter wheat–summer maize cropping system** (2024)
-   36 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Manure Replacing Synthetic Fertilizer Improves Crop Yield Sustainability and Reduces the Carbon Footprint Under a Double Cropping System** (2023)
    0 citations

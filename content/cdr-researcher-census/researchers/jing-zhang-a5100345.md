@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
-description: "Jing Zhang is a Mid-career Biochar researcher at Donghua University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.355119
+description: "Jing Zhang is a Mid-career Biochar researcher at Wuhan Polytechnic University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.305410
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jing-zhang-a5100345/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Donghua University"
+    "name": "Wuhan Polytechnic University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7108-688X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jing Zhang**  
-Donghua University · 🇨🇳 CN
+Wuhan Polytechnic University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 799 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 817 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Efficacy of nitrate and biochar@birnessite composite microspheres for simultaneous suppression of As(III) mobilization and greenhouse gas emissions in flooded paddy soils** (2025)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

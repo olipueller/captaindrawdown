@@ -1,7 +1,7 @@
 ---
 title: "Zhifei Dou"
 description: "Zhifei Dou is a Mid-career Biochar researcher at Huawei Technologies (Canada) in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.819840
+date: 2026-09-11T02:38:29.781201
 url: "/cdr-researcher-census/researchers/zhifei-dou-a5042407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 262 |
+| Citations | 267 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of gaseous H2S using microalgae porous carbons synthesized by thermal/microwave KOH activation** (2021)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Removal of gaseous elemental mercury using corn stalk biochars modified by a green oxidation technology** (2022)
    26 citations

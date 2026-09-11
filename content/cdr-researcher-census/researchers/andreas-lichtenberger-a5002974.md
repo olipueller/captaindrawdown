@@ -1,7 +1,7 @@
 ---
 title: "Andreas Lichtenberger"
-description: "Andreas Lichtenberger is a Senior General CDR researcher at Vienna Institute for International Economic Studies in AT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.866559
+description: "Andreas Lichtenberger is a Senior General CDR researcher at Vienna Institute for International Economic Studies in AT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.832714
 url: "/cdr-researcher-census/researchers/andreas-lichtenberger-a5002974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 239 |
+| h-index | 6 |
+| Citations | 243 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon dioxide removal–What’s worth doing? A biophysical and public need perspective** (2023)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiong Chen"
 description: "Qiong Chen is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 101 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.164592
+date: 2026-09-11T02:38:29.114824
 url: "/cdr-researcher-census/researchers/qiong-chen-a5100336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,154 |
+| Citations | 2,214 |
 | Publications | 101 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 3. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 4. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 6. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
    7 citations · Enhanced Weathering

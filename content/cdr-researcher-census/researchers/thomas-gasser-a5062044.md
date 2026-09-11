@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
-description: "Thomas Gasser is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 262 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.067932
+description: "Thomas Gasser is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 267 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.020404
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 48 |
-| Citations | 17,775 |
-| Publications | 262 |
-| CDR Focus | 8.8% |
+| h-index | 49 |
+| Citations | 18,406 |
+| Publications | 267 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   133 citations · BECCS
+   134 citations · BECCS
 
 3. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 4. **Quantifying global carbon dioxide removal deployment** (2023)
    57 citations · DAC
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    38 citations · BECCS
 
 6. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+   36 citations · General CDR
 
 7. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 8. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
    17 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Sreejith Sreekantan"
 description: "Sreejith Sreekantan is a Mid-career DAC researcher at National Chemical Laboratory in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.082107
+date: 2026-09-11T02:38:30.023677
 url: "/cdr-researcher-census/researchers/sreejith-sreekantan-a5041569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 172 |
+| Citations | 182 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "S. Queguiner"
 description: "S. Queguiner is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.461810
+date: 2026-09-11T02:38:29.413185
 url: "/cdr-researcher-census/researchers/s-queguiner-a5056479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 574 |
+| Citations | 589 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combined impact of no-tillage and cover crops on soil carbon stocks and fluxes in maize crops** (2023)
-   26 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Finnley Ross"
 description: "Finnley Ross is a Mid-career Ocean CDR researcher at Deakin University in AU. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.864887
+date: 2026-09-11T02:38:29.815648
 url: "/cdr-researcher-census/researchers/finnley-ross-a5021766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 240 |
+| Citations | 251 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Romualda Bejger"
-description: "Romualda Bejger is a Mid-career Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.609165
+description: "Romualda Bejger is a Mid-career Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.547877
 url: "/cdr-researcher-census/researchers/romualda-bejger-a5002209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 399 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| Citations | 421 |
+| Publications | 47 |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
-   7 citations · Soil Carbon
+1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
+   9 citations · Soil Carbon
 
-2. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   7 citations · Soil Carbon
+2. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
+   8 citations · Soil Carbon
 
 3. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
    1 citations

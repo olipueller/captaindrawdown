@@ -1,7 +1,7 @@
 ---
 title: "Liudmila Tripolskaja"
-description: "Liudmila Tripolskaja is a Senior Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.889578
+description: "Liudmila Tripolskaja is a Senior Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 51 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.856550
 url: "/cdr-researcher-census/researchers/liudmila-tripolskaja-a5068030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 230 |
+| h-index | 10 |
+| Citations | 233 |
 | Publications | 51 |
 | CDR Focus | 9.8% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Biomass of Shoots and Roots of Multicomponent Grasslands and Their Impact on Soil Carbon Accumulation in Arenosol Rich in Stones** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Effect of Long-Term Different Land Uses on Improving Stable Humic Compounds in Arenosol** (2024)
    5 citations · Soil Carbon

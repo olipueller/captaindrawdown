@@ -1,7 +1,7 @@
 ---
 title: "Mukesh Kumar Soothar"
-description: "Mukesh Kumar Soothar is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.767457
+description: "Mukesh Kumar Soothar is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.704411
 url: "/cdr-researcher-census/researchers/mukesh-kumar-soothar-a5024723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 290 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 307 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Application of novel organically derived fulvic acids in soil aggregate size distribution, fraction, organic carbon, and nitrogen content in three distinct soils** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil Inorganic Carbon Losses Counteracted Soil Organic Carbon Increases in Deeper Soil over 30 Years in North China** (2025)
    1 citations · Soil Carbon

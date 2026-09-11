@@ -1,7 +1,7 @@
 ---
 title: "Desta Getachew Gizaw"
-description: "Desta Getachew Gizaw is a Mid-career Biochar researcher at Adama Science and Technology University in ET. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.606728
+description: "Desta Getachew Gizaw is a Mid-career Biochar researcher at Adama Science and Technology University in ET. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.543057
 url: "/cdr-researcher-census/researchers/desta-getachew-gizaw-a5044614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 401 |
+| h-index | 7 |
+| Citations | 425 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as a Sustainable Adsorbent for Heavy Metal Removal From Polluted Waters: A Comprehensive Outlook** (2024)
-   16 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Beatriz Lozano‐García"
 description: "Beatriz Lozano‐García is a Senior Soil Carbon researcher at Universidad de Córdoba in ES. With 101 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.176491
+date: 2026-09-11T02:38:29.125817
 url: "/cdr-researcher-census/researchers/beatriz-lozanogarcia-a5071212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,980 |
+| Citations | 2,021 |
 | Publications | 101 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 4. **What Influence Does Conventional Tillage Have on the Ability of Soils to Sequester Carbon, Stabilise It and Become Saturated in the Medium Term? A Case Study in a Traditional Rainfed Olive Grove** (2022)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Alley cropping associated with conservation tillage can promote short-term soil aggregation and carbon sequestration in European woody crops** (2026)
    1 citations · Soil Carbon

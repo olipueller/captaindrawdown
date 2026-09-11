@@ -1,7 +1,7 @@
 ---
 title: "Tamiru Lemi"
-description: "Tamiru Lemi is a Mid-career Soil Carbon researcher at Ethiopian Environment and Forest Research Institute in ET. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.267484
+description: "Tamiru Lemi is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.220554
 url: "/cdr-researcher-census/researchers/tamiru-lemi-a5000709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tamiru Lemi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tamiru-lemi-a5000709/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Ethiopian Environment and Forest Research Institute"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-3965-424X",
     "https://openalex.org/A5000709407"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Tamiru Lemi**  
-Ethiopian Environment and Forest Research Institute ·  ET
+**Tamiru Lemi**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 128 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 133 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The Role of Forest Ecosystems for Carbon Sequestration and Poverty Alleviation in Ethiopia** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

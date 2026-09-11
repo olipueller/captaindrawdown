@@ -1,7 +1,7 @@
 ---
 title: "Megan Lim"
-description: "Megan Lim is a Mid-career DAC researcher at Adelaide University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.189550
+description: "Megan Lim is a Mid-career DAC researcher at Adelaide University in AU. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.110763
 url: "/cdr-researcher-census/researchers/megan-lim-a5031312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 158 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

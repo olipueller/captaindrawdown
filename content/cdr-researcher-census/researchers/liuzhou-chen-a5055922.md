@@ -1,7 +1,7 @@
 ---
 title: "Liuzhou Chen"
 description: "Liuzhou Chen is a Mid-career Soil Carbon researcher at Peking University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639542
+date: 2026-09-11T02:38:29.571481
 url: "/cdr-researcher-census/researchers/liuzhou-chen-a5055922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 375 |
+| Citations | 401 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Opportunities, challenges and modification methods of coal gangue as a sustainable soil conditioner—a review** (2024)
-   35 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **An innovative modified coal gangue capable of improving sandy soil remediation, wheat growth and drought resistance** (2026)
    1 citations · Soil Carbon

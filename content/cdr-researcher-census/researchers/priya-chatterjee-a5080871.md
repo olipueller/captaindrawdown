@@ -1,7 +1,7 @@
 ---
 title: "Priya Chatterjee"
-description: "Priya Chatterjee is a Mid-career Soil Carbon researcher at Mesa Community College in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849750
+description: "Priya Chatterjee is a Mid-career Soil Carbon researcher at Mesa Community College in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.821285
 url: "/cdr-researcher-census/researchers/priya-chatterjee-a5080871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 247 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 249 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Modelling the role of urban forest in the regulation of carbon balance in an industrial area of India** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

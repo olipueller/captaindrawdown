@@ -1,7 +1,7 @@
 ---
 title: "Kamal I. Wasfy"
 description: "Kamal I. Wasfy is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.525121
+date: 2026-09-11T02:38:29.477540
 url: "/cdr-researcher-census/researchers/kamal-i-wasfy-a5036035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 482 |
+| Citations | 493 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing Water Use Efficiency and Carbon Profitability Through the Long-Term Impact of Sustainable Farming Systems** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Carbon Credits from Organic and Biodynamic Agriculture as a Tool for Shifting the Economic Paradigm** (2026)
    0 citations · Soil Carbon

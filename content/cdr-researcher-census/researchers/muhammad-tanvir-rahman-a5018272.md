@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Tanvir Rahman"
 description: "Muhammad Tanvir Rahman is a Mid-career Soil Carbon researcher at Bangladesh Jute Research Institute in BD. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.214099
+date: 2026-09-11T02:38:30.187820
 url: "/cdr-researcher-census/researchers/muhammad-tanvir-rahman-a5018272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 139 |
+| Citations | 140 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

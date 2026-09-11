@@ -1,7 +1,7 @@
 ---
 title: "Tullia Calogiuri"
-description: "Tullia Calogiuri is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.378667
+description: "Tullia Calogiuri is a Mid-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.332271
 url: "/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Tullia Calogiuri**  
 Wageningen University & Research · 🇳🇱 NL
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 107 |
+| h-index | 5 |
+| Citations | 111 |
 | Publications | 18 |
 | CDR Focus | 66.7% |
 | Trajectory | Growing |
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 4. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 5. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations

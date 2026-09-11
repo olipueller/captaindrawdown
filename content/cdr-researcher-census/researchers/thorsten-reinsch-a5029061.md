@@ -1,7 +1,7 @@
 ---
 title: "Thorsten Reinsch"
-description: "Thorsten Reinsch is a Senior Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.201052
+description: "Thorsten Reinsch is a Senior Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 70 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.147802
 url: "/cdr-researcher-census/researchers/thorsten-reinsch-a5029061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,669 |
-| Publications | 69 |
-| CDR Focus | 7.2% |
+| h-index | 23 |
+| Citations | 1,728 |
+| Publications | 70 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Legumes and livestock in no-till crop rotations: Effects on nitrous oxide emissions, carbon sequestration, yield, and wheat protein content** (2024)
-   15 citations · Soil Carbon
+1. **No saturation of soil carbon under long-term extreme manure additions** (2024)
+   16 citations · Soil Carbon
 
-2. **No saturation of soil carbon under long-term extreme manure additions** (2024)
-   14 citations · Soil Carbon
+2. **Legumes and livestock in no-till crop rotations: Effects on nitrous oxide emissions, carbon sequestration, yield, and wheat protein content** (2024)
+   15 citations · Soil Carbon
 
 3. **Integrating Crop-Livestock System Practices in Forage and Grain-Based Rotations in Northern Germany: Potentials for Soil Carbon Sequestration** (2022)
    11 citations · General CDR
 
 4. **Incorporating leys in arable systems as a mitigation strategy to reduce soil organic carbon losses during land-use change** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Assessing the effects of no-till on SOC dynamics throughout the soil profile after grassland renovation and conversion to silage maize** (2022)
    2 citations · Soil Carbon

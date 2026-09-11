@@ -1,7 +1,7 @@
 ---
 title: "Jianzhong Cheng"
 description: "Jianzhong Cheng is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.327279
+date: 2026-09-11T02:38:29.283395
 url: "/cdr-researcher-census/researchers/jianzhong-cheng-a5103236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 884 |
+| Citations | 889 |
 | Publications | 44 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

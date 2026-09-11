@@ -1,7 +1,7 @@
 ---
 title: "R.M. Oshani Nayanathara"
 description: "R.M. Oshani Nayanathara is a Mid-career Biochar researcher at Mississippi State University in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.854023
+date: 2026-09-11T02:38:29.800313
 url: "/cdr-researcher-census/researchers/rm-oshani-nayanathara-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 244 |
+| Citations | 258 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolytic synthesis of graphene-encapsulated zero-valent iron nanoparticles supported on biochar for heavy metal removal** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

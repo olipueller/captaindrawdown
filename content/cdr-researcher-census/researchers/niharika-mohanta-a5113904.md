@@ -1,7 +1,7 @@
 ---
 title: "Niharika Mohanta"
 description: "Niharika Mohanta is a Senior Biochar researcher at National Institute of Technology Rourkela in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.914294
+date: 2026-09-11T02:38:29.886816
 url: "/cdr-researcher-census/researchers/niharika-mohanta-a5113904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 221 |
+| Citations | 223 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |

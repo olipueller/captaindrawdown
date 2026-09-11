@@ -1,7 +1,7 @@
 ---
 title: "Ahejiang Sailike"
-description: "Ahejiang Sailike is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316758
+description: "Ahejiang Sailike is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.224737
 url: "/cdr-researcher-census/researchers/ahejiang-sailike-a5094212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 119 |
+| h-index | 6 |
+| Citations | 132 |
 | Publications | 11 |
 | CDR Focus | 36.4% |
 | Trajectory | Declining |
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
    12 citations · Soil Carbon
 
 3. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Soil Labile Organic Carbon and Nitrate Nitrogen are the Main Factors Driving Carbon-Fixing Pathways During Vegetation Restoration in the Loess Plateau, China** (2024)
    1 citations · Soil Carbon

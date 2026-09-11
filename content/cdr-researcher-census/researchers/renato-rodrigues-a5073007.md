@@ -1,7 +1,7 @@
 ---
 title: "Renato Rodrigues"
-description: "Renato Rodrigues is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.210062
+description: "Renato Rodrigues is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.153033
 url: "/cdr-researcher-census/researchers/renato-rodrigues-a5073007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 1,569 |
-| Publications | 48 |
-| CDR Focus | 8.3% |
+| h-index | 14 |
+| Citations | 1,673 |
+| Publications | 54 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 2. **Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector** (2021)
-   314 citations
+   316 citations
 
 3. **Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe** (2021)
    93 citations · General CDR
 
 4. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 5. **Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector** (2021)
    0 citations · General CDR

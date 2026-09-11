@@ -1,7 +1,7 @@
 ---
 title: "Graeme Taylor"
 description: "Graeme Taylor is a Senior General CDR researcher at TB Alliance in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.580397
+date: 2026-09-11T02:38:29.536745
 url: "/cdr-researcher-census/researchers/graeme-taylor-a5006458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 427 |
+| Citations | 432 |
 | Publications | 39 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Managing the risks of missing international climate targets** (2021)
-   16 citations · General CDR
+   18 citations · General CDR
 
 2. **Bad science and good intentions prevent effective climate action** (2023)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "A.S.M. Mohiuddin"
-description: "A.S.M. Mohiuddin is a Mid-career Soil Carbon researcher at Sylhet Agricultural University in BD. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.323374
+description: "A.S.M. Mohiuddin is a Mid-career Soil Carbon researcher at University of Dhaka in BD. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.265144
 url: "/cdr-researcher-census/researchers/asm-mohiuddin-a5109843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/asm-mohiuddin-a5109843/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sylhet Agricultural University"
+    "name": "University of Dhaka"
   },
   "sameAs": [
     "https://orcid.org/0009-0008-6994-8242",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **A.S.M. Mohiuddin**  
-Sylhet Agricultural University · 🇧🇩 BD
+University of Dhaka · 🇧🇩 BD
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 118 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 125 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

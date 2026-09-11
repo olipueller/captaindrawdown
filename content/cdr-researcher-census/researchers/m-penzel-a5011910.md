@@ -1,7 +1,7 @@
 ---
 title: "M. Penzel"
 description: "M. Penzel is a Mid-career Soil Carbon researcher at Landesanstalt für Landwirtschaft und Gartenbau in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.404993
+date: 2026-09-11T02:38:30.362517
 url: "/cdr-researcher-census/researchers/m-penzel-a5011910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 103 |
+| Citations | 106 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modeling of Individual Fruit-Bearing Capacity of Trees Is Aimed at Optimizing Fruit Quality of Malus x domestica Borkh. ‘Gala’** (2021)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

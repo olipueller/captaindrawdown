@@ -1,7 +1,7 @@
 ---
 title: "Xinliang Dong"
-description: "Xinliang Dong is a Mid-career Soil Carbon researcher at Griffith University in AU. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.310940
+description: "Xinliang Dong is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.260551
 url: "/cdr-researcher-census/researchers/xinliang-dong-a5043034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Xinliang Dong",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinliang-dong-a5043034/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Griffith University"
-  },
   "sameAs": "https://openalex.org/A5043034633"
 }
 </script>
 
 ## Profile
 
-**Xinliang Dong**  
-Griffith University · 🇦🇺 AU
+**Xinliang Dong**
 
 **Career Stage:** Mid-career
 
@@ -39,10 +34,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 952 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 15 |
+| Citations | 976 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Biochar promoted halophyte growth and enhanced soil carbon stock in a coastal salt-affected soil** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

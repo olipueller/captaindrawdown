@@ -1,7 +1,7 @@
 ---
 title: "Diego Grados"
-description: "Diego Grados is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.756152
+description: "Diego Grados is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.691183
 url: "/cdr-researcher-census/researchers/diego-grados-a5007817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 295 |
+| h-index | 8 |
+| Citations | 313 |
 | Publications | 34 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stock change following perennialization: a meta-analysis** (2023)
-   61 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 3. **Unleashing the sequestration potential of soil organic carbon under climate and land use change scenarios in Danish agroecosystems** (2023)
-   25 citations
+   26 citations
 
 4. **A Meta-Analysis of the Soil Organic Carbon Stock Change Following Perennialization** (2022)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lin Zeng"
-description: "Lin Zeng is a Senior Soil Carbon researcher at Kunming Institute of Zoology in CN. With 60 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.143501
+description: "Lin Zeng is a Senior Soil Carbon researcher at Kunming Institute of Zoology in CN. With 60 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093506
 url: "/cdr-researcher-census/researchers/lin-zeng-a5013482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 2,659 |
+| h-index | 27 |
+| Citations | 2,741 |
 | Publications | 60 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and mineral accretion as drivers of mineral‐associated and particulate organic matter accumulation in tidal wetland soils** (2023)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 3. **Changes in organic carbon fractions and sources in deltaic topsoil and subsoil layers: autochthonous and allochthonous inputs** (2021)
    20 citations · Soil Carbon
 
 4. **An overlooked soil carbon pool in vegetated coastal ecosystems: National-scale assessment of soil organic carbon stocks in coastal shelter forests of China** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

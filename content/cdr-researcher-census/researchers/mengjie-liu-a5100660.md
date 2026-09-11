@@ -1,7 +1,7 @@
 ---
 title: "Mengjie Liu"
 description: "Mengjie Liu is a Mid-career Biochar researcher at Shihezi University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.992452
+date: 2026-09-11T02:38:29.909085
 url: "/cdr-researcher-census/researchers/mengjie-liu-a5100660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 199 |
+| Citations | 214 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Maize straw-based organic amendments and nitrogen fertilizer effects on soil and aggregate-associated carbon and nitrogen** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

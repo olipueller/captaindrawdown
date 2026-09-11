@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Mohamed Gaber"
-description: "Mohamed Mohamed Gaber is a Mid-career Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971756
+description: "Mohamed Mohamed Gaber is a Mid-career Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.895181
 url: "/cdr-researcher-census/researchers/mohamed-mohamed-gaber-a5008390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 206 |
+| h-index | 8 |
+| Citations | 219 |
 | Publications | 14 |
 | CDR Focus | 28.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar** (2024)
    21 citations · Biochar

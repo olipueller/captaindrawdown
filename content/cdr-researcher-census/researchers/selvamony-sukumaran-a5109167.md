@@ -1,7 +1,7 @@
 ---
 title: "Selvamony Sukumaran"
-description: "Selvamony Sukumaran is a Mid-career Soil Carbon researcher at Manonmaniam Sundaranar University in IN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.296184
+description: "Selvamony Sukumaran is a Mid-career Soil Carbon researcher at Institute of Botany of the Slovak Academy of Sciences in SK. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.270524
 url: "/cdr-researcher-census/researchers/selvamony-sukumaran-a5109167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/selvamony-sukumaran-a5109167/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Manonmaniam Sundaranar University"
+    "name": "Institute of Botany of the Slovak Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-1799-9164",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Selvamony Sukumaran**  
-Manonmaniam Sundaranar University · 🇮🇳 IN
+Institute of Botany of the Slovak Academy of Sciences ·  SK
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 123 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 124 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

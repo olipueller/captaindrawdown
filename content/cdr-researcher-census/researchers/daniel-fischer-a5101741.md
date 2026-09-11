@@ -1,7 +1,7 @@
 ---
 title: "Daniel Fischer"
-description: "Daniel Fischer is a Senior Biochar researcher at National Institute of Standards and Technology in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.338339
+description: "Daniel Fischer is a Senior Biochar researcher at National Institute of Standards and Technology in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.292032
 url: "/cdr-researcher-census/researchers/daniel-fischer-a5101741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 851 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 864 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

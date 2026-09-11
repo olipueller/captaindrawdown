@@ -1,7 +1,7 @@
 ---
 title: "Karim Rabea"
 description: "Karim Rabea is a Mid-career BECCS researcher at Tanta University in EG. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.994821
+date: 2026-09-11T02:38:29.905987
 url: "/cdr-researcher-census/researchers/karim-rabea-a5088029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 198 |
+| Citations | 215 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Comprehensive process simulation of a biomass-based hydrogen production system through gasification within the BECCS concept in a commercial two-stage fixed bed gasifier** (2023)
-   34 citations · BECCS
+   38 citations · BECCS
 
 2. **A new hydrogen production route through biomass gasification in a two-stage fixed bed reactor within the BECCS concept: A techno-economic and life cycle assessment study** (2025)
-   28 citations · BECCS
+   30 citations · BECCS
 
 ## External Profiles
 

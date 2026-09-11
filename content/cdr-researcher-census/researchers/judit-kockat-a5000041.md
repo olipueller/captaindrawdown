@@ -1,7 +1,7 @@
 ---
 title: "Judit Kockat"
-description: "Judit Kockat is a Mid-career General CDR researcher at Buildings Performance Institute Europe in BE. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.264488
+description: "Judit Kockat is a Mid-career General CDR researcher at Buildings Performance Institute Europe in BE. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.238918
 url: "/cdr-researcher-census/researchers/judit-kockat-a5000041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 128 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| Citations | 129 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

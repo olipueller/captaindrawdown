@@ -1,7 +1,7 @@
 ---
 title: "Liuzheng Yuan"
 description: "Liuzheng Yuan is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.605867
+date: 2026-09-11T02:38:29.557224
 url: "/cdr-researcher-census/researchers/liuzheng-yuan-a5058036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 402 |
+| Citations | 412 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

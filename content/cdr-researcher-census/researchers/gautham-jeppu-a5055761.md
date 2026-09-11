@@ -1,7 +1,7 @@
 ---
 title: "Gautham Jeppu"
-description: "Gautham Jeppu is a Senior Biochar researcher at Manipal Academy of Higher Education in IN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.237725
+description: "Gautham Jeppu is a Senior Biochar researcher at Manipal Academy of Higher Education in IN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.178223
 url: "/cdr-researcher-census/researchers/gautham-jeppu-a5055761/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 1,341 |
+| h-index | 17 |
+| Citations | 1,437 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and characterization of magnetic Biochar derived from pyrolysis of waste areca nut husk for removal of methylene blue dye from wastewater** (2025)
-   29 citations · Biochar
+   33 citations · Biochar
 
 2. **Advances in the preparation of activated carbon derived from agricultural waste as a sustainable solution for wastewater treatment: A comprehensive review** (2026)
    3 citations · Biochar

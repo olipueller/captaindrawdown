@@ -1,7 +1,7 @@
 ---
 title: "Vandit Vijay"
-description: "Vandit Vijay is a Senior Biochar researcher at Indian Institute of Technology Delhi in IN. With 52 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144952
+description: "Vandit Vijay is a Senior Biochar researcher at Indian Institute of Technology Delhi in IN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.094557
 url: "/cdr-researcher-census/researchers/vandit-vijay-a5002608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 2,615 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| h-index | 22 |
+| Citations | 2,697 |
+| Publications | 53 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   160 citations · Biochar
+   163 citations · Biochar
 
-2. **Negative emissions at negative cost-an opportunity for a scalable niche** (2022)
+2. **Biochar for sustainable applications: Advances in characterization, activation, and life cycle assessment** (2026)
+   4 citations · Biochar
+
+3. **Negative emissions at negative cost-an opportunity for a scalable niche** (2022)
    4 citations · General CDR
-
-3. **Biochar for sustainable applications: Advances in characterization, activation, and life cycle assessment** (2026)
-   2 citations · Biochar
 
 ## External Profiles
 

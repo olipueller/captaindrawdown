@@ -1,7 +1,7 @@
 ---
 title: "Zaira Khalid"
 description: "Zaira Khalid is a Mid-career BECCS researcher at Central University of Jharkhand in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.995020
+date: 2026-09-11T02:38:29.944802
 url: "/cdr-researcher-census/researchers/zaira-khalid-a5040281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 198 |
+| Citations | 207 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

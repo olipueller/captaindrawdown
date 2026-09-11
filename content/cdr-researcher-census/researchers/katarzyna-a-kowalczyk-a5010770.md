@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna A. Kowalczyk"
 description: "Katarzyna A. Kowalczyk is a Senior Ocean CDR researcher at Uniwersytet Jagielloński w Krakowie in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048146
+date: 2026-09-11T02:38:30.007800
 url: "/cdr-researcher-census/researchers/katarzyna-a-kowalczyk-a5010770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 183 |
+| Citations | 188 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   14 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

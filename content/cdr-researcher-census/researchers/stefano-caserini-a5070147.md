@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
-description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.190043
+description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 126 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.138062
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,791 |
-| Publications | 125 |
-| CDR Focus | 11.2% |
+| h-index | 23 |
+| Citations | 1,847 |
+| Publications | 126 |
+| CDR Focus | 11.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The Availability of Limestone and Other Raw Materials for Ocean Alkalinity Enhancement** (2022)
-   126 citations · Enhanced Weathering
+   129 citations · Enhanced Weathering
 
 2. **Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification** (2021)
    80 citations · General CDR
 
 3. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   73 citations
+   76 citations
 
 4. **Use of aircraft in ocean alkalinity enhancement** (2022)
-   30 citations · Ocean CDR
+   32 citations · Ocean CDR
 
 5. **Short-term impact assessment of ocean liming: A copepod exposure test** (2023)
    23 citations · Ocean CDR
 
-6. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
-   12 citations
+6. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
+   14 citations · Enhanced Weathering
 
-7. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   11 citations · Enhanced Weathering
+7. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
+   13 citations
 
 8. **Energy demand and savings opportunities in the supply of limestone and olivine-rich rocks for geochemical carbon dioxide removal** (2024)
-   6 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 9. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR

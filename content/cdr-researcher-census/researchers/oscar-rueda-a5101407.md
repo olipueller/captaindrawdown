@@ -1,7 +1,7 @@
 ---
 title: "Oscar Rueda"
 description: "Oscar Rueda is a Senior General CDR researcher at Leiden University in NL. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.457566
+date: 2026-09-11T02:38:29.407935
 url: "/cdr-researcher-census/researchers/oscar-rueda-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 580 |
+| Citations | 595 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Negative-emissions technology portfolios to meet the 1.5 °C target** (2021)
-   108 citations · General CDR
+   109 citations · General CDR
 
 2. **A protein transition can free up land to tap vast energy and negative emission potentials** (2024)
    8 citations · General CDR

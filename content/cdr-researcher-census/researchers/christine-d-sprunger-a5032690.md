@@ -1,7 +1,7 @@
 ---
 title: "Christine D. Sprunger"
-description: "Christine D. Sprunger is a Senior Soil Carbon researcher at Michigan State University in US. With 63 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.286092
+description: "Christine D. Sprunger is a Senior Soil Carbon researcher at Michigan State University in US. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.232244
 url: "/cdr-researcher-census/researchers/christine-d-sprunger-a5032690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,063 |
-| Publications | 63 |
-| CDR Focus | 6.3% |
+| Citations | 1,098 |
+| Publications | 64 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

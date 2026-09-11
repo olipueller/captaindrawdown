@@ -1,7 +1,7 @@
 ---
 title: "Xiaoming Mou"
-description: "Xiaoming Mou is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.675796
+description: "Xiaoming Mou is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.608081
 url: "/cdr-researcher-census/researchers/xiaoming-mou-a5013871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 347 |
-| Publications | 36 |
-| CDR Focus | 19.4% |
+| h-index | 12 |
+| Citations | 372 |
+| Publications | 42 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Contrasting contributions of microbial and plant-derived C to soil carbon in desertified grassland restoration** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Plant species richness mediates the responses of microbial necromass carbon accumulation to climate aridity in alpine meadows** (2025)
    13 citations · Soil Carbon

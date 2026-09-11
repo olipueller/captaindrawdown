@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
-description: "Steef V. Hanssen is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.163779
+description: "Steef V. Hanssen is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.110043
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 2,179 |
-| Publications | 40 |
-| CDR Focus | 20.0% |
+| Citations | 2,292 |
+| Publications | 45 |
+| CDR Focus | 17.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
-   52 citations · BECCS
+   53 citations · BECCS
 
 2. **Increased but not pristine soil organic carbon stocks in restored ecosystems** (2025)
-   35 citations · General CDR
+   43 citations · General CDR
 
 3. **The global mismatch between equitable carbon dioxide removal liability and capacity** (2023)
-   32 citations · General CDR
+   33 citations · General CDR
 
-4. **Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses** (2025)
+4. **Empirically Based Estimates of Soil Organic Carbon Gains After Ecosystem Restoration and Their Global Climate Benefits** (2026)
+   1 citations · General CDR
+
+5. **Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses** (2025)
    1 citations · BECCS
 
-5. **Comparing GHG Emissions of Residue-Based BECCS to Alternative Biomass Uses** (2025)
+6. **Comparing GHG Emissions of Residue-Based BECCS to Alternative Biomass Uses** (2025)
    0 citations · BECCS
 
-6. **Forest-based climate mitigation: a systems perspective focused on bio-energy and carbon** (2026)
+7. **Forest-based climate mitigation: a systems perspective focused on bio-energy and carbon** (2026)
    0 citations · BECCS
-
-7. **Empirically Based Estimates of Soil Organic Carbon Gains After Ecosystem Restoration and Their Global Climate Benefits** (2026)
-   0 citations · General CDR
 
 8. **Global implications of lignocellulosic crop-based BECCS for terrestrial vertebrate biodiversity** (2022)
    0 citations · BECCS

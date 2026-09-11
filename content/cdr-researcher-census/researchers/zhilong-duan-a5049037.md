@@ -1,7 +1,7 @@
 ---
 title: "Zhilong Duan"
 description: "Zhilong Duan is a Mid-career Soil Carbon researcher at Yanan University Affiliated Hospital in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.232615
+date: 2026-09-11T02:38:30.191612
 url: "/cdr-researcher-census/researchers/zhilong-duan-a5049037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 135 |
+| Citations | 139 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

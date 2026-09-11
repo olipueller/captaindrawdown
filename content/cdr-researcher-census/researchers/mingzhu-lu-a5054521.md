@@ -1,7 +1,7 @@
 ---
 title: "Mingzhu Lu"
-description: "Mingzhu Lu is a Mid-career Soil Carbon researcher at Hubei Academy of Forestry in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.963473
+description: "Mingzhu Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.880482
 url: "/cdr-researcher-census/researchers/mingzhu-lu-a5054521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mingzhu-lu-a5054521/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hubei Academy of Forestry"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1601-6707",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mingzhu Lu**  
-Hubei Academy of Forestry · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 210 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 9 |
+| Citations | 225 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Impacts of microplastics on terrestrial soil carbon dynamics** (2026)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
+
+2. **Long-term urea application reshapes forest soil nitrogen cycling and enhances N2O emissions** (2026)
+   1 citations
 
 ## External Profiles
 

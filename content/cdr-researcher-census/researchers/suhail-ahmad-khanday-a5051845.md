@@ -1,7 +1,7 @@
 ---
 title: "Suhail Ahmad Khanday"
-description: "Suhail Ahmad Khanday is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.017237
+description: "Suhail Ahmad Khanday is a Mid-career Biochar researcher at Government Medical College in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.959749
 url: "/cdr-researcher-census/researchers/suhail-ahmad-khanday-a5051845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/suhail-ahmad-khanday-a5051845/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Institute Of Technology Silchar"
+    "name": "Government Medical College"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5571-3724",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Suhail Ahmad Khanday**  
-National Institute Of Technology Silchar · 🇮🇳 IN
+Government Medical College · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 191 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 201 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

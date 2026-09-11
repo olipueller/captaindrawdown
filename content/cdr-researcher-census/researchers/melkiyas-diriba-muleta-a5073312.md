@@ -1,7 +1,7 @@
 ---
 title: "Melkiyas Diriba Muleta"
 description: "Melkiyas Diriba Muleta is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.346061
+date: 2026-09-11T02:38:30.251347
 url: "/cdr-researcher-census/researchers/melkiyas-diriba-muleta-a5073312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 113 |
+| Citations | 127 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive performances and valorization of green synthesized biochar–based activated carbon from banana peel and corn cob composites for the abatement of Cr(VI) from synthetic solutions: Parameters, isotherms, and remediation studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

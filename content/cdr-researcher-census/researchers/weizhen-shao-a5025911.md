@@ -1,7 +1,7 @@
 ---
 title: "Weizhen Shao"
 description: "Weizhen Shao is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584620
+date: 2026-09-11T02:38:29.509777
 url: "/cdr-researcher-census/researchers/weizhen-shao-a5025911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 423 |
+| Citations | 458 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activation of peroxymonosulfate by biochar-supported Fe3O4 derived from oily sludge to enhance the oxidative degradation of tetracycline hydrochloride** (2023)
-   16 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

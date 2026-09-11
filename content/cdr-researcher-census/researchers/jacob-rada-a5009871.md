@@ -1,7 +1,7 @@
 ---
 title: "Jacob Rada"
 description: "Jacob Rada is a Mid-career DAC researcher at King Abdullah University of Science and Technology in SA. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.589207
+date: 2026-09-11T02:38:29.538528
 url: "/cdr-researcher-census/researchers/jacob-rada-a5009871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 418 |
+| Citations | 431 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liu"
-description: "Xiaojun Liu is a Mid-career Soil Carbon researcher at Jiangsu Changjiang Electronics Technology (China) in CN. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.399898
+description: "Xiaojun Liu is a Mid-career Soil Carbon researcher. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.348525
 url: "/cdr-researcher-census/researchers/xiaojun-liu-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Xiaojun Liu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaojun-liu-a5100412/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Jiangsu Changjiang Electronics Technology (China)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-1813-611X",
     "https://openalex.org/A5100412719"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Xiaojun Liu**  
-Jiangsu Changjiang Electronics Technology (China) · 🇨🇳 CN
+**Xiaojun Liu**
 
 **Career Stage:** Mid-career
 
@@ -43,21 +38,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 690 |
-| Publications | 43 |
-| CDR Focus | 11.6% |
+| Citations | 711 |
+| Publications | 44 |
+| CDR Focus | 11.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Changes in Soil Aggregate Fractions, Stability, and Associated Organic Carbon and Nitrogen in Different Land Use Types in the Loess Plateau, China** (2022)
+1. **The response of soil organic carbon to climate and soil texture in China** (2022)
+   38 citations · Soil Carbon
+
+2. **Changes in Soil Aggregate Fractions, Stability, and Associated Organic Carbon and Nitrogen in Different Land Use Types in the Loess Plateau, China** (2022)
    37 citations · Soil Carbon
 
-2. **The response of soil organic carbon to climate and soil texture in China** (2022)
-   36 citations · Soil Carbon
-
 3. **Aggregate‐associated soil organic carbon fractions in subtropical soil undergoing vegetative restoration** (2023)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Response of carbon acquisition enzyme activity and organic carbon mineralization to soil erosion and deposition** (2024)
    13 citations · Soil Carbon

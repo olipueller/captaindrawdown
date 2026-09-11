@@ -1,7 +1,7 @@
 ---
 title: "Johannes Bednar"
-description: "Johannes Bednar is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.606518
+description: "Johannes Bednar is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.562951
 url: "/cdr-researcher-census/researchers/johannes-bednar-a5005030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 401 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 406 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Operationalizing the net-negative carbon economy** (2021)
-   172 citations · General CDR
+   173 citations · General CDR
 
 2. **Beyond emissions trading to a negative carbon economy: a proposed carbon removal obligation and its implementation** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

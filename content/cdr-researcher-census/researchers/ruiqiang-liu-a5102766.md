@@ -1,7 +1,7 @@
 ---
 title: "Ruiqiang Liu"
-description: "Ruiqiang Liu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 86 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.107139
+description: "Ruiqiang Liu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 87 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.056239
 url: "/cdr-researcher-census/researchers/ruiqiang-liu-a5102766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 4,288 |
-| Publications | 86 |
-| CDR Focus | 8.1% |
+| h-index | 26 |
+| Citations | 4,417 |
+| Publications | 87 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 3. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    0 citations · Soil Carbon

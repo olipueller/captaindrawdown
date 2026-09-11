@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
-description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 102 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.071606
+description: "Jessica Strefler is a Senior General CDR researcher at Leibniz Association in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.024093
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jessica-strefler-a5056511/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Potsdam Institute for Climate Impact Research"
+    "name": "Leibniz Association"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5279-4629",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jessica Strefler**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
+Leibniz Association · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 12,838 |
-| Publications | 102 |
-| CDR Focus | 16.7% |
+| Citations | 13,238 |
+| Publications | 104 |
+| CDR Focus | 16.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 2. **Carbon dioxide removal technologies are not born equal** (2021)
-   125 citations · BECCS
+   126 citations · BECCS
 
 3. **Alternative carbon price trajectories can avoid excessive carbon removal** (2021)
-   111 citations · General CDR
+   113 citations · General CDR
 
 4. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   46 citations · BECCS
+   48 citations · BECCS
 
 5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 6. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
    37 citations · General CDR
@@ -72,10 +72,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    25 citations · General CDR
 
 8. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   14 citations · General CDR
+   16 citations · General CDR
 
 9. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   13 citations · General CDR
+   15 citations · General CDR
 
 10. **Ocean liming can help achieve the Paris climate target** (2025)
    3 citations · General CDR

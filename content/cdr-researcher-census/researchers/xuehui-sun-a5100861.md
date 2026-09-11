@@ -1,7 +1,7 @@
 ---
 title: "Xuehui Sun"
-description: "Xuehui Sun is a Senior Biochar researcher at Shandong University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.202235
+description: "Xuehui Sun is a Senior Biochar researcher at Tobacco Research Institute in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.152397
 url: "/cdr-researcher-census/researchers/xuehui-sun-a5100861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuehui-sun-a5100861/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Tobacco Research Institute"
   },
   "sameAs": "https://openalex.org/A5100861224"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuehui Sun**  
-Shandong University · 🇨🇳 CN
+Tobacco Research Institute · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,650 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 1,677 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Improved mercury removal performance and leaching stability of Fe/Br co-doped biochars synthesized through one-step pyrolysis** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 2. **Distribution characteristics and influencing factors of carbon storage in Populus plantations with different stand ages in the Luxi Yellow River floodplain, China** (2026)
    0 citations · Soil Carbon

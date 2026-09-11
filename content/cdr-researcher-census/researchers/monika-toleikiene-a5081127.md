@@ -1,7 +1,7 @@
 ---
 title: "Monika Toleikienė"
-description: "Monika Toleikienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317244
+description: "Monika Toleikienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.258134
 url: "/cdr-researcher-census/researchers/monika-toleikiene-a5081127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 923 |
-| Publications | 51 |
-| CDR Focus | 5.9% |
+| Citations | 981 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biomass of Shoots and Roots of Multicomponent Grasslands and Their Impact on Soil Carbon Accumulation in Arenosol Rich in Stones** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Processing of Legume Green Manures Slowdowns C Release, Reduces N Losses and Increases N Synchronisation Index for Two Years** (2024)
    4 citations · Soil Carbon

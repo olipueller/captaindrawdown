@@ -1,7 +1,7 @@
 ---
 title: "Xiangwei Zhao"
-description: "Xiangwei Zhao is a Senior Soil Carbon researcher at Tianjin University of Science and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.388399
+description: "Xiangwei Zhao is a Senior Soil Carbon researcher at Shihezi University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.325865
 url: "/cdr-researcher-census/researchers/xiangwei-zhao-a5101740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiangwei-zhao-a5101740/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin University of Science and Technology"
+    "name": "Shihezi University"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-7506-5677",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiangwei Zhao**  
-Tianjin University of Science and Technology · 🇨🇳 CN
+Shihezi University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 106 |
+| Citations | 113 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kane"
 description: "Jennifer Kane is a Senior Soil Carbon researcher at West Virginia University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.580295
+date: 2026-09-11T02:38:29.527455
 url: "/cdr-researcher-census/researchers/jennifer-kane-a5087569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 428 |
+| Citations | 441 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

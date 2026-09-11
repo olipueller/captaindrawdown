@@ -1,7 +1,7 @@
 ---
 title: "Matelele Lehlogonolo Abner"
 description: "Matelele Lehlogonolo Abner is a Senior Soil Carbon researcher at Food & Nutrition in NL. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.258568
+date: 2026-09-11T02:38:30.237357
 url: "/cdr-researcher-census/researchers/matelele-lehlogonolo-abner-a5072097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

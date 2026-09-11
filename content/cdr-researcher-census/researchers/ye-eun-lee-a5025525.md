@@ -1,7 +1,7 @@
 ---
 title: "Ye-Eun Lee"
-description: "Ye-Eun Lee is a Mid-career Biochar researcher. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.475829
+description: "Ye-Eun Lee is a Mid-career Biochar researcher at Korea Institute of Civil Engineering and Building Technology in KR. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.420492
 url: "/cdr-researcher-census/researchers/ye-eun-lee-a5025525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ye-Eun Lee",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ye-eun-lee-a5025525/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Korea Institute of Civil Engineering and Building Technology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-2482-1749",
     "https://openalex.org/A5025525679"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Ye-Eun Lee**
+**Ye-Eun Lee**  
+Korea Institute of Civil Engineering and Building Technology · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 552 |
-| Publications | 54 |
-| CDR Focus | 7.4% |
-| Trajectory | Exiting |
+| Citations | 577 |
+| Publications | 56 |
+| CDR Focus | 8.9% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar Production and Demineralization Characteristics of Food Waste for Fuel Conversion** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Enhancing the potential application of food-waste biochar as a sustainable bio-solid fuel: Analysis of post-treatment and combustion behavior** (2024)
    6 citations · Biochar

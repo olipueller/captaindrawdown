@@ -1,7 +1,7 @@
 ---
 title: "Kechao Huang"
-description: "Kechao Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.506293
+description: "Kechao Huang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.456923
 url: "/cdr-researcher-census/researchers/kechao-huang-a5044153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,38 +34,41 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 505 |
-| Publications | 46 |
-| CDR Focus | 10.9% |
+| Citations | 519 |
+| Publications | 48 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **[Effects of Biochar Application on Soil Organic Carbon Component in <i>Eucalyptus</i> Plantations After Five Years in Northern Guangxi].** (2023)
-   2 citations · Biochar
+1. **Vegetation restoration increases soil aggregate stability and aggregate-associated black carbon content in a karst rocky desertification area in southwestern Guangxi** (2026)
+   2 citations
 
-2. **Vegetation restoration increases soil aggregate stability and aggregate-associated black carbon content in a karst rocky desertification area in southwestern Guangxi** (2026)
-   1 citations
+2. **[Effects of Biochar Application on Soil Organic Carbon Component in <i>Eucalyptus</i> Plantations After Five Years in Northern Guangxi].** (2023)
+   2 citations · Biochar
 
 3. **The conversion of forests to agricultural land reduced the content of soil black carbon fractions in a karst rocky desertification area of Southwest China** (2024)
    1 citations · Soil Carbon
 
-4. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
+4. **Biochar Application Improves Soil Aggregate Stability and Aggregate-Associated Carbon Fractions Through Microbial Community Regulation in Eucalyptus Plantations—A Seven-Year Field Experiment** (2026)
    0 citations · Biochar
 
-5. **[Effects of Biochar Application on Soil Carbon Pool Management Index and Organic Carbon Chemical Structure in <i>Eucalyptus</i> Plantations in Northern Guangxi].** (2025)
+5. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
    0 citations · Biochar
 
-6. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
+6. **[Effects of Biochar Application on Soil Carbon Pool Management Index and Organic Carbon Chemical Structure in <i>Eucalyptus</i> Plantations in Northern Guangxi].** (2025)
+   0 citations · Biochar
+
+7. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
    0 citations · Biochar
 
 ## External Profiles

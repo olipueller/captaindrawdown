@@ -1,7 +1,7 @@
 ---
 title: "Zhi Liang"
 description: "Zhi Liang is a Senior Soil Carbon researcher at Aarhus University in DK. With 99 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.233137
+date: 2026-09-11T02:38:29.181648
 url: "/cdr-researcher-census/researchers/zhi-liang-a5058025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,374 |
+| Citations | 1,408 |
 | Publications | 99 |
 | CDR Focus | 10.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration** (2023)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
    30 citations
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 4. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Stocks and changes in organic carbon in Danish agricultural soils &amp;#8211; role of bulk density and stone fractions** (2021)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Nahar"
-description: "Gaurav Nahar is a Mid-career BECCS researcher at High Energy Materials Research Laboratory in IN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.435320
+description: "Gaurav Nahar is a Mid-career BECCS researcher at Defiance College in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.391234
 url: "/cdr-researcher-census/researchers/gaurav-nahar-a5015531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gaurav-nahar-a5015531/",
   "affiliation": {
     "@type": "Organization",
-    "name": "High Energy Materials Research Laboratory"
+    "name": "Defiance College"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5394-1339",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gaurav Nahar**  
-High Energy Materials Research Laboratory · 🇮🇳 IN
+Defiance College · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 617 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 623 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

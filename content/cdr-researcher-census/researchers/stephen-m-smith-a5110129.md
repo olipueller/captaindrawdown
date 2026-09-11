@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Smith"
-description: "Stephen M. Smith is a Senior General CDR researcher at National Park Service in US. With 116 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.094845
+description: "Stephen M. Smith is a Senior General CDR researcher. With 118 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044536
 url: "/cdr-researcher-census/researchers/stephen-m-smith-a5110129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Stephen M. Smith",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stephen-m-smith-a5110129/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "National Park Service"
-  },
   "sameAs": "https://openalex.org/A5110129533"
 }
 </script>
 
 ## Profile
 
-**Stephen M. Smith**  
-National Park Service · 🇺🇸 US
+**Stephen M. Smith**
 
 **Career Stage:** Senior
 
@@ -40,21 +35,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 5,370 |
-| Publications | 116 |
-| CDR Focus | 13.8% |
-| Trajectory | Declining |
+| Citations | 5,648 |
+| Publications | 118 |
+| CDR Focus | 16.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The meaning of net zero and how to get it right** (2021)
-   940 citations · General CDR
+   955 citations · General CDR
 
 2. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   150 citations · General CDR
+   151 citations · General CDR
 
 3. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 4. **Quantifying global carbon dioxide removal deployment** (2023)
    57 citations · DAC
@@ -63,7 +58,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    47 citations · General CDR
 
 6. **A review of commercialisation mechanisms for carbon dioxide removal** (2023)
-   43 citations · General CDR
+   44 citations · General CDR
 
 7. **Plant conversions and abatement technologies cannot prevent stranding of power plant assets in 2 °C scenarios** (2022)
    41 citations · BECCS
@@ -75,7 +70,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    20 citations · General CDR
 
 10. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

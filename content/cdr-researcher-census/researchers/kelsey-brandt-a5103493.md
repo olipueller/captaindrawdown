@@ -1,7 +1,7 @@
 ---
 title: "Kelsey Brandt"
 description: "Kelsey Brandt is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.968028
+date: 2026-09-11T02:38:29.907840
 url: "/cdr-researcher-census/researchers/kelsey-brandt-a5103493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 208 |
+| Citations | 215 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of conservation agriculture on soil C and N stocks and organic matter fractions: comparing commercial producer fields with a long-term small-plot experiment in Brown Chernozems of Saskatchewan** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "R.R. Ratnayake"
 description: "R.R. Ratnayake is a Mid-career Soil Carbon researcher at National Institute of Fundamental Studies in LK. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.720267
+date: 2026-09-11T02:38:29.675125
 url: "/cdr-researcher-census/researchers/rr-ratnayake-a5019977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 316 |
+| Citations | 323 |
 | Publications | 40 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variation in above and below ground carbon storage in a Eucalyptus grandis plantation established in a grassland with a chronosequence of age** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Soil organic carbon fractions across soil depths vary among key tropical vegetation types** (2025)
    1 citations · Soil Carbon

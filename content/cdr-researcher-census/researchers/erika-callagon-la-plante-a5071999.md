@@ -1,7 +1,7 @@
 ---
 title: "Erika Callagon La Plante"
-description: "Erika Callagon La Plante is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.262111
+description: "Erika Callagon La Plante is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.206377
 url: "/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,183 |
-| Publications | 65 |
-| CDR Focus | 15.4% |
+| h-index | 19 |
+| Citations | 1,242 |
+| Publications | 67 |
+| CDR Focus | 14.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   70 citations · Ocean CDR
+   72 citations · Ocean CDR
 
 2. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
-   64 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 3. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
    17 citations · General CDR
@@ -62,11 +62,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
    9 citations · Enhanced Weathering
 
-5. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
-   2 citations · Ocean CDR
+5. **Comparative assessment of United States coastal hubs for large scale electrochemical marine carbon dioxide removal** (2026)
+   2 citations · General CDR
 
-6. **Comparative assessment of United States coastal hubs for large scale electrochemical marine carbon dioxide removal** (2026)
-   1 citations · General CDR
+6. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
+   2 citations · Ocean CDR
 
 7. **Seawater Enables High-Quality Carbon Removal** (2024)
    1 citations · General CDR

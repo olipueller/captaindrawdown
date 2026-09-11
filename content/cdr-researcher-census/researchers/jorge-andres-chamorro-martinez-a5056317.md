@@ -1,7 +1,7 @@
 ---
 title: "Jorge Andres Chamorro Martinez"
 description: "Jorge Andres Chamorro Martinez is a Mid-career General CDR researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.249520
+date: 2026-09-11T02:38:30.197189
 url: "/cdr-researcher-census/researchers/jorge-andres-chamorro-martinez-a5056317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 131 |
+| Citations | 137 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
-description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 115 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.166475
+description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 119 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.115307
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,122 |
-| Publications | 115 |
-| CDR Focus | 11.3% |
+| Citations | 2,205 |
+| Publications | 119 |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
    2 citations · Soil Carbon
 
-5. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+5. **Good days, bad days: weather patterns driving bryophyte carbon-exchange dynamics in tropical rainforest canopies** (2025)
+   1 citations
+
+6. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-6. **Carbon dioxide removal through biochar and enhanced weathering: towards a scalable process-based modelling approach** (2026)
+7. **Carbon dioxide removal through biochar and enhanced weathering: towards a scalable process-based modelling approach** (2026)
    0 citations · Biochar
-
-7. **Good days, bad days: weather patterns driving bryophyte carbon-exchange dynamics in tropical rainforest canopies** (2025)
-   0 citations
 
 8. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
    0 citations · Biochar

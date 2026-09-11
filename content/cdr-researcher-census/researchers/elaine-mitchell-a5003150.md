@@ -1,7 +1,7 @@
 ---
 title: "Elaine Mitchell"
-description: "Elaine Mitchell is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.741636
+description: "Elaine Mitchell is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.687960
 url: "/cdr-researcher-census/researchers/elaine-mitchell-a5003150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 303 |
-| Publications | 26 |
-| CDR Focus | 23.1% |
+| Citations | 315 |
+| Publications | 27 |
+| CDR Focus | 25.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Important constraints on soil organic carbon formation efficiency in subtropical and tropical grasslands** (2021)
-   52 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Making soil carbon credits work for climate change mitigation** (2024)
    23 citations · General CDR
 
 3. **Environmental and economic trade‐offs of using composted or stockpiled manure as partial substitute for synthetic fertilizer** (2021)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Holistic grazing management as a scalable niche? A systems perspective on transitions to increased sustainability in beef cattle grazing** (2025)
    5 citations · General CDR

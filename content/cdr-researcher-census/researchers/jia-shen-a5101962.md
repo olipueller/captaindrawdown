@@ -1,7 +1,7 @@
 ---
 title: "Jia Shen"
 description: "Jia Shen is a Senior Soil Carbon researcher at Tianjin University in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.574984
+date: 2026-09-11T02:38:29.534035
 url: "/cdr-researcher-census/researchers/jia-shen-a5101962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 432 |
+| Citations | 435 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **In-situ and long-lasting oxidation of SMX by Mg/Al-PDS LDH in soil: Key role of solid-phase activation and CO2 effect** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Hydrochar Utilization for Saline‐Alkali Soil Amelioration and Its Carbon Sequestration Potential Assessment** (2024)
    7 citations · Biochar

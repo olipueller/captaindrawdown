@@ -1,7 +1,7 @@
 ---
 title: "Amitabha Nath"
-description: "Amitabha Nath is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.631108
+description: "Amitabha Nath is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.469780
 url: "/cdr-researcher-census/researchers/amitabha-nath-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 381 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 10 |
+| Citations | 502 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Determinants of phytolith occluded carbon in bamboo stands across forest types in the eastern Indian Himalayas** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nadja Neubert"
 description: "Nadja Neubert is a Senior Ocean CDR researcher at Leibniz University Hannover in DE. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287394
+date: 2026-09-11T02:38:29.237643
 url: "/cdr-researcher-census/researchers/nadja-neubert-a5111636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,054 |
+| Citations | 1,069 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

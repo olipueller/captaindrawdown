@@ -1,7 +1,7 @@
 ---
 title: "Haider Al-Rubaye"
-description: "Haider Al-Rubaye is a Mid-career Biochar researcher at Gulf University for Science & Technology in KW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075877
+description: "Haider Al-Rubaye is a Mid-career Biochar researcher at Gulf University for Science & Technology in KW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.071841
 url: "/cdr-researcher-census/researchers/haider-al-rubaye-a5044602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 174 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 6 |
+| Citations | 169 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

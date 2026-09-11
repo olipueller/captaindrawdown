@@ -1,7 +1,7 @@
 ---
 title: "Alexander Pfeiffer"
 description: "Alexander Pfeiffer is a Mid-career BECCS researcher at Universität für Weiterbildung Krems in AT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.483872
+date: 2026-09-11T02:38:29.441176
 url: "/cdr-researcher-census/researchers/alexander-pfeiffer-a5101759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 538 |
+| Citations | 545 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

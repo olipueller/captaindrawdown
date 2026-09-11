@@ -1,7 +1,7 @@
 ---
 title: "Aram Kalhori"
 description: "Aram Kalhori is a Mid-career General CDR researcher at GFZ Helmholtz Centre for Geosciences in DE. With 70 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.223854
+date: 2026-09-11T02:38:29.170583
 url: "/cdr-researcher-census/researchers/aram-kalhori-a5051369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,437 |
+| Citations | 1,491 |
 | Publications | 70 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   59 citations · General CDR
+   60 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
    39 citations
@@ -65,11 +65,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon
 
-6. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   1 citations
+6. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
 
-7. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   0 citations · General CDR
+7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+   1 citations
 
 8. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    0 citations

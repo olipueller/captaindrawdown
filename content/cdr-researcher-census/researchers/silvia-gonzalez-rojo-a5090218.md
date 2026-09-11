@@ -1,7 +1,7 @@
 ---
 title: "Silvia González-Rojo"
-description: "Silvia González-Rojo is a Mid-career Biochar researcher at Universidad de León in ES. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.373261
+description: "Silvia González-Rojo is a Mid-career Biochar researcher at Universidad de León in ES. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.322849
 url: "/cdr-researcher-census/researchers/silvia-gonzalez-rojo-a5090218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 751 |
+| h-index | 14 |
+| Citations | 778 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

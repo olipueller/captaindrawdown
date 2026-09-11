@@ -1,7 +1,7 @@
 ---
 title: "Elisabete Trindade Pedrosa"
 description: "Elisabete Trindade Pedrosa is a Mid-career Enhanced Weathering researcher at University of Bremen in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.753866
+date: 2026-09-11T02:38:29.713933
 url: "/cdr-researcher-census/researchers/elisabete-trindade-pedrosa-a5000281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 296 |
+| Citations | 301 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering potentials—the role of in situ CO2 and grain size distribution** (2022)
-   59 citations · Enhanced Weathering
+   60 citations · Enhanced Weathering
 
 ## External Profiles
 

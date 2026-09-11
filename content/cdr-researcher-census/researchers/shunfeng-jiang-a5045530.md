@@ -1,7 +1,7 @@
 ---
 title: "Shun‐Feng Jiang"
 description: "Shun‐Feng Jiang is a Mid-career Biochar researcher at Wenzhou University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.188217
+date: 2026-09-11T02:38:29.137004
 url: "/cdr-researcher-census/researchers/shunfeng-jiang-a5045530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,809 |
+| Citations | 1,859 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    18 citations · Biochar
 
 2. **Biotoxicity attenuation and the underlying physicochemical mechanism of biochar aged under simulated natural environmental conditions** (2023)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

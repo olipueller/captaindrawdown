@@ -1,7 +1,7 @@
 ---
 title: "Zhen Liu"
 description: "Zhen Liu is a Senior Soil Carbon researcher at Jiamusi University in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.364859
+date: 2026-09-11T02:38:29.304992
 url: "/cdr-researcher-census/researchers/zhen-liu-a5007282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 773 |
+| Citations | 818 |
 | Publications | 58 |
 | CDR Focus | 5.2% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Efficient removal of norfloxacin in water by sulfidated nanoscale zerovalent iron loaded nitrogen-doped biochar: Dual realization of efficient enrichment and reduction** (2024)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Rotary and subsoiling tillage rotations influence soil carbon and nitrogen sequestration and crop yield** (2022)
    24 citations · Soil Carbon
 
 3. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

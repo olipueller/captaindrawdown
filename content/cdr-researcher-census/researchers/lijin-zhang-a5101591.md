@@ -1,7 +1,7 @@
 ---
 title: "Lijin Zhang"
-description: "Lijin Zhang is a Senior Soil Carbon researcher at Guizhou University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.275198
+description: "Lijin Zhang is a Senior Soil Carbon researcher at Guizhou University in CN. With 46 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.220112
 url: "/cdr-researcher-census/researchers/lijin-zhang-a5101591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,119 |
+| h-index | 18 |
+| Citations | 1,164 |
 | Publications | 46 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conversion of farmland to forest or grassland improves soil carbon, nitrogen, and ecosystem multi-functionality in a subtropical karst region of southwest China** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Entropy-driven carbon-sequestrated MgAl-LDO@FGDG hetero-composites for enhancing phosphate adsorption and sustainable fertilizer** (2025)
    1 citations · Biochar

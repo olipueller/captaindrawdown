@@ -1,7 +1,7 @@
 ---
 title: "Zengming Chen"
 description: "Zengming Chen is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 76 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.141096
+date: 2026-09-11T02:38:29.089882
 url: "/cdr-researcher-census/researchers/zengming-chen-a5089690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 2,733 |
+| Citations | 2,833 |
 | Publications | 76 |
-| CDR Focus | 7.9% |
+| CDR Focus | 9.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Field-aged biochar enhances soil organic carbon by increasing recalcitrant organic carbon fractions and making microbial communities more conducive to carbon sequestration** (2022)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
-   68 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 3. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
    41 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **Soil carbon quality determined the responses of respiration components to nitrogen fertilization and straw return** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Contrasting effects of biochar and N fertilization on soil heterotrophic and autotrophic respiration in a maize cropland** (2026)
    1 citations · Biochar

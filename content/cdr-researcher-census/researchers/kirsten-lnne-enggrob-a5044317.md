@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Lønne Enggrob"
 description: "Kirsten Lønne Enggrob is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.645230
+date: 2026-09-11T02:38:29.593474
 url: "/cdr-researcher-census/researchers/kirsten-lnne-enggrob-a5044317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 370 |
+| Citations | 382 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Symbiosis Type in Nitrogen Fixing Trees Determines Soil Greenhouse Gas Emissions: A Global Meta‐Analysis** (2026)
-   1 citations · Soil Carbon
+1. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
+   2 citations · Soil Carbon
 
-2. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
+2. **Symbiosis Type in Nitrogen Fixing Trees Determines Soil Greenhouse Gas Emissions: A Global Meta‐Analysis** (2026)
    1 citations · Soil Carbon
 
 3. **Carbon input partitioning and persistence in top- and subsoil from contrasting cover crop species and their mixture** (2026)

@@ -1,7 +1,7 @@
 ---
 title: "Timothy Reeves"
 description: "Timothy Reeves is a Senior General CDR researcher at The University of Melbourne in AU. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.322826
+date: 2026-09-11T02:38:29.278638
 url: "/cdr-researcher-census/researchers/timothy-reeves-a5020956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 897 |
+| Citations | 904 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Atta Mohi Ud Din"
-description: "Atta Mohi Ud Din is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.298614
+description: "Atta Mohi Ud Din is a Senior Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.241601
 url: "/cdr-researcher-census/researchers/atta-mohi-ud-din-a5084058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Atta Mohi Ud Din**  
 Islamia University of Bahawalpur · 🇵🇰 PK
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 997 |
+| h-index | 20 |
+| Citations | 1,051 |
 | Publications | 43 |
 | CDR Focus | 7.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture** (2023)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    0 citations · Soil Carbon

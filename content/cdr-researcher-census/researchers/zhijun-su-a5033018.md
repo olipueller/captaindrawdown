@@ -1,7 +1,7 @@
 ---
 title: "Zhijun Su"
 description: "Zhijun Su is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.305877
+date: 2026-09-11T02:38:30.235508
 url: "/cdr-researcher-census/researchers/zhijun-su-a5033018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 121 |
+| Citations | 130 |
 | Publications | 4 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Acid rain reduces plant-photosynthesized carbon sequestration and soil microbial network complexity** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

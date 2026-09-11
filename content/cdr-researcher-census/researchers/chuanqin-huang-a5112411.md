@@ -1,7 +1,7 @@
 ---
 title: "Chuanqin Huang"
-description: "Chuanqin Huang is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284812
+description: "Chuanqin Huang is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.233248
 url: "/cdr-researcher-census/researchers/chuanqin-huang-a5112411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,068 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 15 |
+| Citations | 1,090 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Interlayer organic matter within hydroxy-interlayered clay minerals enhances soil organic carbon stability under long-term organic fertilization** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **‘Super-stable’ interlayer organic carbon in soil clay minerals and its impact on soil carbon sequestration** (2024)
    15 citations · Soil Carbon

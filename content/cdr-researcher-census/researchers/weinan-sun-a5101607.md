@@ -1,7 +1,7 @@
 ---
 title: "Weinan Sun"
-description: "Weinan Sun is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.402641
+description: "Weinan Sun is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.343119
 url: "/cdr-researcher-census/researchers/weinan-sun-a5101607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 685 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| Citations | 722 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shaowen Huang"
-description: "Shaowen Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 64 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.183132
+description: "Shaowen Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.135047
 url: "/cdr-researcher-census/researchers/shaowen-huang-a5059523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,874 |
-| Publications | 64 |
-| CDR Focus | 6.2% |
+| Citations | 1,885 |
+| Publications | 63 |
+| CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

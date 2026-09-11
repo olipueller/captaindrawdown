@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Tang Xu"
 description: "Cheng‐Tang Xu is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.153742
+date: 2026-09-11T02:38:30.119130
 url: "/cdr-researcher-census/researchers/chengtang-xu-a5002270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 153 |
+| Citations | 156 |
 | Publications | 4 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |

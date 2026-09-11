@@ -1,7 +1,7 @@
 ---
 title: "Zhou Shen"
 description: "Zhou Shen is a Mid-career General CDR researcher at Nankai University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.744268
+date: 2026-09-11T02:38:29.704972
 url: "/cdr-researcher-census/researchers/zhou-shen-a5063784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 301 |
+| Citations | 306 |
 | Publications | 14 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A cross-scale study on the relationship between urban expansion and ecosystem services in China** (2022)
-   43 citations · General CDR
+   45 citations · General CDR
 
 2. **From hemp grown on carbon-vulnerable lands to long-lasting bio-based products: Uncovering trade-offs between overall environmental impacts, sequestration in soil, and dynamic influences on global temperature** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 3. **Simultaneous carbon storage in arable land and anthropogenic products (CSAAP): Demonstrating an integrated concept towards well below 2°C** (2022)
    18 citations · General CDR
 
 4. **Converting carbon vulnerable lands to wood plantations for use as building materials: Overall environmental performance and time-dependent assessment of carbon dioxide removals** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 5. **Does high adsorption capacity directly mean more environmental benefits? An experimental and consequential life cycle assessment of step-by-step modified biochar, derived from annual biopump residue** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Huang"
-description: "Jingjing Huang is a Mid-career Soil Carbon researcher at Xuzhou Medical College in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.201399
+description: "Jingjing Huang is a Mid-career Soil Carbon researcher at Xuzhou Medical College in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.148944
 url: "/cdr-researcher-census/researchers/jingjing-huang-a5102698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 142 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 149 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

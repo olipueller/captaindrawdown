@@ -1,7 +1,7 @@
 ---
 title: "Leila Eamen"
 description: "Leila Eamen is a Mid-career Soil Carbon researcher at University of Waterloo in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.035126
+date: 2026-09-11T02:38:29.981265
 url: "/cdr-researcher-census/researchers/leila-eamen-a5004152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 187 |
+| Citations | 196 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "William Bahureksa"
-description: "William Bahureksa is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.577246
+description: "William Bahureksa is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.515204
 url: "/cdr-researcher-census/researchers/william-bahureksa-a5034362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 430 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 453 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil Organic Matter Characterization by Fourier Transform Ion Cyclotron Resonance Mass Spectrometry (FTICR MS): A Critical Review of Sample Preparation, Analysis, and Data Interpretation** (2021)
-   226 citations · Soil Carbon
+   230 citations · Soil Carbon
 
 ## External Profiles
 

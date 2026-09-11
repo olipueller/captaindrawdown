@@ -1,7 +1,7 @@
 ---
 title: "Carla Canals-Batlle"
 description: "Carla Canals-Batlle is a Senior Biochar researcher at Universitat de Girona in ES. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.206194
+date: 2026-09-11T02:38:30.170997
 url: "/cdr-researcher-census/researchers/carla-canals-batlle-a5048794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 141 |
+| Citations | 144 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Upcycling pyrolyzed biowaste into functional alkali-activated biochar for hydrogen sulphide capture** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

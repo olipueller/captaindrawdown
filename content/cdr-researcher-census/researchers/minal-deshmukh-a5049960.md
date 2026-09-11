@@ -1,7 +1,7 @@
 ---
 title: "Minal Deshmukh"
-description: "Minal Deshmukh is a Mid-career Ocean CDR researcher at MIT World Peace University in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.129357
+description: "Minal Deshmukh is a Mid-career Ocean CDR researcher at MIT World Peace University in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.061051
 url: "/cdr-researcher-census/researchers/minal-deshmukh-a5049960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 159 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 172 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Review on Sustainable Microalgae-Based Approaches for CO2 Capture, Bioenergy, and Value-Added Products** (2026)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

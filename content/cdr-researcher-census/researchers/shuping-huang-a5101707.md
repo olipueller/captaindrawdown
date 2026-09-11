@@ -1,7 +1,7 @@
 ---
 title: "Shuping Huang"
 description: "Shuping Huang is a Senior Soil Carbon researcher at The People's Hospital of Guangxi Zhuang Autonomous Region in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.827949
+date: 2026-09-11T02:38:29.791997
 url: "/cdr-researcher-census/researchers/shuping-huang-a5101707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 258 |
+| Citations | 263 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Caragana korshinskii Restoration Enhances SOC Stability but Reduces Sequestration Efficiency over 40 Years in Degraded Loess Soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

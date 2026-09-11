@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Ye"
-description: "Yufeng Ye is a Senior Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.840409
+description: "Yufeng Ye is a Senior Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.801863
 url: "/cdr-researcher-census/researchers/yufeng-ye-a5101713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 252 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 258 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

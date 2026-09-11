@@ -1,7 +1,7 @@
 ---
 title: "Luping Tian"
-description: "Luping Tian is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.851287
+description: "Luping Tian is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.784722
 url: "/cdr-researcher-census/researchers/luping-tian-a5100549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 246 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| h-index | 10 |
+| Citations | 266 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effect of wildfires on soil organic carbon content and carbon flow pathways: The evidence of BPCAs molecular markers and 13C natural abundance** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Short-term biochar amendment enhances the chemical stability of soil organic carbon in the labile pools but may inhibit native SOC transformation into stable pool** (2026)
    0 citations · Biochar

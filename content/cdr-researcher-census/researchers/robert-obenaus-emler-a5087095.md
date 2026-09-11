@@ -1,7 +1,7 @@
 ---
 title: "Robert Obenaus-Emler"
 description: "Robert Obenaus-Emler is a Mid-career Biochar researcher at Montanuniversität Leoben in AT. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.631747
+date: 2026-09-11T02:38:29.579935
 url: "/cdr-researcher-census/researchers/robert-obenaus-emler-a5087095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 380 |
+| Citations | 394 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

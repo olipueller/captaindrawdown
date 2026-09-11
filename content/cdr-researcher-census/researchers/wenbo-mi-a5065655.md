@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Mi"
-description: "Wenbo Mi is a Mid-career Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.890376
+description: "Wenbo Mi is a Mid-career Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.822069
 url: "/cdr-researcher-census/researchers/wenbo-mi-a5065655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 230 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 249 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

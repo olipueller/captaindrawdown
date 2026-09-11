@@ -1,7 +1,7 @@
 ---
 title: "David Scoby"
-description: "David Scoby is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.767300
+description: "David Scoby is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.727428
 url: "/cdr-researcher-census/researchers/david-scoby-a5058923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 290 |
+| h-index | 8 |
+| Citations | 295 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing estimation of cover crop biomass using field-based high-throughput phenotyping and machine learning models** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

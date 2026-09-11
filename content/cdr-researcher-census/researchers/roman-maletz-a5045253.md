@@ -1,7 +1,7 @@
 ---
 title: "Roman Maletz"
-description: "Roman Maletz is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.836344
+description: "Roman Maletz is a Mid-career Biochar researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.826135
 url: "/cdr-researcher-census/researchers/roman-maletz-a5045253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 254 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 247 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

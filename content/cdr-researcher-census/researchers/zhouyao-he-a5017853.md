@@ -1,7 +1,7 @@
 ---
 title: "Zhouyao He"
-description: "Zhouyao He is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.336494
+description: "Zhouyao He is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.274109
 url: "/cdr-researcher-census/researchers/zhouyao-he-a5017853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 115 |
+| h-index | 7 |
+| Citations | 123 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Change in soil organic carbon after slope cropland changed into terrace in southwest China** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Transforming slope cropland into terraced cropland to enhance the retention of labile SOC fractions by aggregates in southwestern China** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

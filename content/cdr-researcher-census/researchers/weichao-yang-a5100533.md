@@ -1,7 +1,7 @@
 ---
 title: "Weichao Yang"
 description: "Weichao Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.289199
+date: 2026-09-11T02:38:30.257817
 url: "/cdr-researcher-census/researchers/weichao-yang-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 124 |
+| Citations | 126 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

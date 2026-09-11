@@ -1,7 +1,7 @@
 ---
 title: "Lenaïg G. Hemery"
-description: "Lenaïg G. Hemery is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory Marine Sciences Laboratory in US. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320389
+description: "Lenaïg G. Hemery is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory Marine Sciences Laboratory in US. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.272896
 url: "/cdr-researcher-census/researchers/lenaig-g-hemery-a5062898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 906 |
-| Publications | 66 |
-| CDR Focus | 7.6% |
+| h-index | 18 |
+| Citations | 921 |
+| Publications | 65 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Methods for Measuring Carbon Dioxide Uptake and Permanence: Review and Implications for Macroalgae Aquaculture** (2023)
-   20 citations · General CDR
+   23 citations · General CDR
 
 2. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   16 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 3. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
-   5 citations · Ocean CDR
+   6 citations · Ocean CDR
 
 4. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
    2 citations · General CDR

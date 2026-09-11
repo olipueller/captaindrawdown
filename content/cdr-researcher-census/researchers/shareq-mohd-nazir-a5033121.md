@@ -1,7 +1,7 @@
 ---
 title: "Shareq Mohd Nazir"
-description: "Shareq Mohd Nazir is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332746
+description: "Shareq Mohd Nazir is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.282293
 url: "/cdr-researcher-census/researchers/shareq-mohd-nazir-a5033121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,18 +34,18 @@ KTH Royal Institute of Technology · 🇸🇪 SE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 864 |
+| h-index | 15 |
+| Citations | 892 |
 | Publications | 45 |
-| CDR Focus | 6.7% |
+| CDR Focus | 8.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,14 +56,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Multiple greenhouse gases mitigation (MGM): Process concepts to co-remove non-CO2 (CH4) greenhouse gases and CO2 from air** (2022)
    3 citations · General CDR
 
-3. **Combining Nuclear Energy, Bioenergy, and Carbon Capture Can Significantly Reduce Thermal Energy Losses** (2026)
+3. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
+   1 citations · General CDR
+
+4. **Combining Nuclear Energy, Bioenergy, and Carbon Capture Can Significantly Reduce Thermal Energy Losses** (2026)
    0 citations · BECCS
 
-4. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
+5. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
    0 citations · BECCS
-
-5. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
-   0 citations · General CDR
 
 6. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
    0 citations

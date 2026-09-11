@@ -1,7 +1,7 @@
 ---
 title: "Mohammed A.A. Elgzoly"
 description: "Mohammed A.A. Elgzoly is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.588732
+date: 2026-09-11T02:38:29.529754
 url: "/cdr-researcher-census/researchers/mohammed-aa-elgzoly-a5024285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 419 |
+| Citations | 439 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-performance biochar from Chlorella pyrenoidosa algal biomass for heavy metals removal in wastewater** (2024)
-   61 citations · Biochar
+   62 citations · Biochar
 
 ## External Profiles
 

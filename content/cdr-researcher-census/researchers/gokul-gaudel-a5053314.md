@@ -1,7 +1,7 @@
 ---
 title: "Gokul Gaudel"
 description: "Gokul Gaudel is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901968
+date: 2026-09-11T02:38:29.836042
 url: "/cdr-researcher-census/researchers/gokul-gaudel-a5053314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 225 |
+| Citations | 242 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cereal-Legume Mixed Residue Addition Increases Yield and Reduces Soil Greenhouse Gas Emissions from Fertilized Winter Wheat in the North China Plain** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

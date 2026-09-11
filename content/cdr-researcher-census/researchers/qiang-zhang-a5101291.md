@@ -1,7 +1,7 @@
 ---
 title: "Qiang Zhang"
-description: "Qiang Zhang is a Senior Soil Carbon researcher at North China Electric Power University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.131513
+description: "Qiang Zhang is a Senior Soil Carbon researcher at North China Electric Power University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.039121
 url: "/cdr-researcher-census/researchers/qiang-zhang-a5101291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 159 |
+| h-index | 7 |
+| Citations | 178 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

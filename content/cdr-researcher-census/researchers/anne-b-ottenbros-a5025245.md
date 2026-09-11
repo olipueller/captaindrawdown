@@ -1,7 +1,7 @@
 ---
 title: "Anne B. Ottenbros"
-description: "Anne B. Ottenbros is a Mid-career DAC researcher at Radboud University Nijmegen in NL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.396781
+description: "Anne B. Ottenbros is a Mid-career DAC researcher at Radboud University Nijmegen in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.296164
 url: "/cdr-researcher-census/researchers/anne-b-ottenbros-a5025245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 118 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Prospective environmental burdens and benefits of fast-swing direct air carbon capture and storage** (2024)
-   20 citations · DAC
+   22 citations · DAC
 
 ## External Profiles
 

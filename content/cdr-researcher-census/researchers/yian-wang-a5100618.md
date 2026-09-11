@@ -1,7 +1,7 @@
 ---
 title: "Yian Wang"
-description: "Yian Wang is a Senior Soil Carbon researcher at Jinggangshan University in CN. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.629937
+description: "Yian Wang is a Senior Soil Carbon researcher at Jinggangshan University in CN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.566455
 url: "/cdr-researcher-census/researchers/yian-wang-a5100618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 382 |
+| h-index | 11 |
+| Citations | 404 |
 | Publications | 50 |
 | CDR Focus | 6.0% |
 | Trajectory | Growing |

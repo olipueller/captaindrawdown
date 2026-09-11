@@ -1,7 +1,7 @@
 ---
 title: "Limei Sun"
-description: "Limei Sun is a Mid-career Biochar researcher at Xuzhou University of Technology in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.156242
+description: "Limei Sun is a Mid-career Biochar researcher at Jiangsu Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.093195
 url: "/cdr-researcher-census/researchers/limei-sun-a5082750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/limei-sun-a5082750/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xuzhou University of Technology"
+    "name": "Jiangsu Normal University"
   },
   "sameAs": "https://openalex.org/A5082750788"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Limei Sun**  
-Xuzhou University of Technology · 🇨🇳 CN
+Jiangsu Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 152 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 6 |
+| Citations | 162 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

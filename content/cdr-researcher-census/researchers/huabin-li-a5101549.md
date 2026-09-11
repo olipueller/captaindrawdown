@@ -1,7 +1,7 @@
 ---
 title: "Huabin Li"
-description: "Huabin Li is a Senior Biochar researcher at National University of Defense Technology in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.831038
+description: "Huabin Li is a Senior Biochar researcher at Xiangtan Electric Manufacturing Group (China) in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.797166
 url: "/cdr-researcher-census/researchers/huabin-li-a5101549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huabin-li-a5101549/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National University of Defense Technology"
+    "name": "Xiangtan Electric Manufacturing Group (China)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9612-9428",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Huabin Li**  
-National University of Defense Technology · 🇨🇳 CN
+Xiangtan Electric Manufacturing Group (China) · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 256 |
+| Citations | 260 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

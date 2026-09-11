@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Shi"
-description: "Zhaoyang Shi is a Mid-career Enhanced Weathering researcher at Anhui University of Science and Technology in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060471
+description: "Zhaoyang Shi is a Mid-career Enhanced Weathering researcher at Southwest Jiaotong University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.006314
 url: "/cdr-researcher-census/researchers/zhaoyang-shi-a5101182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhaoyang-shi-a5101182/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Anhui University of Science and Technology"
+    "name": "Southwest Jiaotong University"
   },
   "sameAs": "https://openalex.org/A5101182725"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhaoyang Shi**  
-Anhui University of Science and Technology · 🇨🇳 CN
+Southwest Jiaotong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 179 |
+| Citations | 188 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Sharma"
-description: "Rashmi Sharma is a Senior Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.339331
+description: "Rashmi Sharma is a Senior Biochar researcher at Devi Ahilya Vishwavidyalaya in IN. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.295374
 url: "/cdr-researcher-census/researchers/rashmi-sharma-a5103020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rashmi-sharma-a5103020/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Govind Ballabh Pant University of Agriculture and Technology"
+    "name": "Devi Ahilya Vishwavidyalaya"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2681-8906",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rashmi Sharma**  
-Govind Ballabh Pant University of Agriculture and Technology · 🇮🇳 IN
+Devi Ahilya Vishwavidyalaya · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 848 |
-| Publications | 66 |
-| CDR Focus | 6.1% |
+| Citations | 852 |
+| Publications | 67 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   57 citations · Biochar
+   59 citations · Biochar
 
 2. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
 
-3. **Biochemical transformation of agricultural residues into biostimulants for climate‑resilient agriculture: Mechanistic insights and circular bioeconomy** (2026)
-   0 citations · Biochar
+3. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
+   1 citations · General CDR
 
-4. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
-   0 citations · General CDR
+4. **Biochemical transformation of agricultural residues into biostimulants for climate‑resilient agriculture: Mechanistic insights and circular bioeconomy** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

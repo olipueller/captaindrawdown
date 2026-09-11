@@ -1,7 +1,7 @@
 ---
 title: "Krzysztof Fijałkowski"
 description: "Krzysztof Fijałkowski is a Senior Soil Carbon researcher at Częstochowa University of Technology in PL. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.183026
+date: 2026-09-11T02:38:29.133124
 url: "/cdr-researcher-census/researchers/krzysztof-fijakowski-a5033031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,875 |
+| Citations | 1,916 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Emerging sewage sludge treatment technologies for land carbon sequestration: a comprehensive review** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 2. **Sewage Sludge as Soil Conditioner and Fertilizer** (2021)
    9 citations · Soil Carbon

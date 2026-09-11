@@ -1,7 +1,7 @@
 ---
 title: "Dongmin Yin"
-description: "Dongmin Yin is a Mid-career Biochar researcher at Changzhou University in CN. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.256809
+description: "Dongmin Yin is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203399
 url: "/cdr-researcher-census/researchers/dongmin-yin-a5100543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dongmin-yin-a5100543/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Changzhou University"
+    "name": "Harbin Institute of Technology"
   },
   "sameAs": "https://openalex.org/A5100543554"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Dongmin Yin**  
-Changzhou University · 🇨🇳 CN
+Harbin Institute of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,218 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 1,258 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

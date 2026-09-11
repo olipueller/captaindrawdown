@@ -1,7 +1,7 @@
 ---
 title: "Azhar Uddin"
-description: "Azhar Uddin is a Senior DAC researcher at Abdul Wali Khan University Mardan in CA. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.757711
+description: "Azhar Uddin is a Senior DAC researcher at Mewar University in CA. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.717358
 url: "/cdr-researcher-census/researchers/azhar-uddin-a5044889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/azhar-uddin-a5044889/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Abdul Wali Khan University Mardan"
+    "name": "Mewar University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2689-261X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Azhar Uddin**  
-Abdul Wali Khan University Mardan · 🇨🇦 CA
+Mewar University · 🇨🇦 CA
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 294 |
+| Citations | 299 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The impact of climate on solvent-based direct air capture systems** (2022)
-   103 citations · DAC
+   104 citations · DAC
 
 2. **Carbon and energy analysis of coupled direct air capture of CO2 with underground energy recovery** (2022)
    4 citations · DAC

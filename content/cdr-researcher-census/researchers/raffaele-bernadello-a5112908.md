@@ -1,7 +1,7 @@
 ---
 title: "Raffaele Bernadello"
-description: "Raffaele Bernadello is an Early-career General CDR researcher at Barcelona Supercomputing Center in ES. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783998
+description: "Raffaele Bernadello is an Early-career General CDR researcher at Barcelona Supercomputing Center in ES. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.748508
 url: "/cdr-researcher-census/researchers/raffaele-bernadello-a5112908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 280 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 283 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

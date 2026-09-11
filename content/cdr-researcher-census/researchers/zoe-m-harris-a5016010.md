@@ -1,7 +1,7 @@
 ---
 title: "Zoe M. Harris"
-description: "Zoe M. Harris is a Senior BECCS researcher at University of Surrey in GB. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.265106
+description: "Zoe M. Harris is a Senior BECCS researcher at University of Surrey in GB. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214814
 url: "/cdr-researcher-census/researchers/zoe-m-harris-a5016010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,171 |
-| Publications | 51 |
-| CDR Focus | 5.9% |
+| h-index | 15 |
+| Citations | 1,198 |
+| Publications | 52 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xing Wang"
-description: "Xing Wang is a Senior Soil Carbon researcher at Ministry of Education in TH. With 121 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.153920
+description: "Xing Wang is a Senior Soil Carbon researcher at Ministry of Education in TH. With 123 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102345
 url: "/cdr-researcher-census/researchers/xing-wang-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 2,375 |
-| Publications | 121 |
-| CDR Focus | 5.8% |
+| h-index | 30 |
+| Citations | 2,464 |
+| Publications | 123 |
+| CDR Focus | 5.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   106 citations · Biochar
+   107 citations · Biochar
 
 2. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 3. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   45 citations · Biochar
+   48 citations · Biochar
 
 4. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 5. **A 40 % paddy surface soil organic carbon increase after 5-year no-tillage is linked with shifts in soil bacterial composition and functions** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 6. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 7. **CAZyme-resolved substrate routing explains limited soil organic carbon gains under no-tillage in paddy soils** (2026)
    0 citations · Soil Carbon

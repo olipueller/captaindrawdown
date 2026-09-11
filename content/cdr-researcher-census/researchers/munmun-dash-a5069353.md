@@ -1,7 +1,7 @@
 ---
 title: "Munmun Dash"
-description: "Munmun Dash is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.924646
+description: "Munmun Dash is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.864656
 url: "/cdr-researcher-census/researchers/munmun-dash-a5069353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 217 |
+| h-index | 6 |
+| Citations | 230 |
 | Publications | 21 |
 | CDR Focus | 19.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Marta Gil‐Martínez"
 description: "Marta Gil‐Martínez is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.701848
+date: 2026-09-11T02:38:29.649595
 url: "/cdr-researcher-census/researchers/marta-gilmartinez-a5037461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 330 |
+| Citations | 342 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

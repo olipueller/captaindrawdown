@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Samy"
-description: "Mahmoud Samy is a Senior Biochar researcher at Mansoura University in EG. With 82 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.167028
+description: "Mahmoud Samy is a Senior Biochar researcher at Mansoura University in EG. With 84 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.115871
 url: "/cdr-researcher-census/researchers/mahmoud-samy-a5019780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 2,111 |
-| Publications | 82 |
-| CDR Focus | 8.5% |
+| h-index | 30 |
+| Citations | 2,195 |
+| Publications | 84 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Novel mint-stalks derived biochar for the adsorption of methylene blue dye: Effect of operating parameters, adsorption mechanism, kinetics, isotherms, and thermodynamics** (2024)
-   76 citations · Biochar
+   78 citations · Biochar
 
 2. **Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 3. **Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar** (2024)
    21 citations · Biochar
 
-4. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
-   8 citations · Biochar
+4. **Vacuum ultraviolet irradiation-assisted persulfate activation by a KOH-modified banana-peels derived biochar for the efficient removal of cefotaxime antibiotic** (2025)
+   9 citations · Biochar
 
 5. **Novel Approach to Photocatalytic Removal of Linezolid by Advanced Nano-Biochar/Bismuth Oxychloride Hybrid** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
-6. **Vacuum ultraviolet irradiation-assisted persulfate activation by a KOH-modified banana-peels derived biochar for the efficient removal of cefotaxime antibiotic** (2025)
-   6 citations · Biochar
+6. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
+   8 citations · Biochar
 
 7. **Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application** (2025)
    3 citations · Biochar

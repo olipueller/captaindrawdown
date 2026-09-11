@@ -1,7 +1,7 @@
 ---
 title: "Hanjing Fu"
-description: "Hanjing Fu is a Mid-career Enhanced Weathering researcher at Beijing Institute of Technology in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.494160
+description: "Hanjing Fu is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.422311
 url: "/cdr-researcher-census/researchers/hanjing-fu-a5007835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanjing-fu-a5007835/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Institute of Technology"
+    "name": "Xiamen University"
   },
   "sameAs": "https://openalex.org/A5007835222"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hanjing Fu**  
-Beijing Institute of Technology · 🇨🇳 CN
+Xiamen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 524 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 575 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    42 citations · Enhanced Weathering
 
 2. **Source-rock, grain-size, weathering, and recycling controls on the feldspar/quartz ratio in silt-sized sediments** (2025)
-   7 citations
+   9 citations
 
 ## External Profiles
 

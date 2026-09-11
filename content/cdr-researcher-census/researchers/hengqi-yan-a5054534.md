@@ -1,7 +1,7 @@
 ---
 title: "Hengqi Yan"
-description: "Hengqi Yan is a Mid-career General CDR researcher at Heilongjiang Earthquake Agency in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.645334
+description: "Hengqi Yan is a Mid-career General CDR researcher at Heilongjiang Earthquake Agency in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.585656
 url: "/cdr-researcher-census/researchers/hengqi-yan-a5054534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 370 |
+| h-index | 9 |
+| Citations | 389 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Identifying spatial similarities and mismatches between supply and demand of ecosystem services for sustainable Northeast China** (2021)
-   118 citations · General CDR
+   121 citations · General CDR
 
 2. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   39 citations
+   41 citations
 
 ## External Profiles
 

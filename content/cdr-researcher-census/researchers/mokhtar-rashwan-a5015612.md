@@ -1,7 +1,7 @@
 ---
 title: "Mokhtar Rashwan"
-description: "Mokhtar Rashwan is a Mid-career General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.202622
+description: "Mokhtar Rashwan is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.162052
 url: "/cdr-researcher-census/researchers/mokhtar-rashwan-a5015612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mokhtar Rashwan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mokhtar-rashwan-a5015612/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Argonne National Laboratory"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-5320-1207",
     "https://openalex.org/A5015612639"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mokhtar Rashwan**
+**Mokhtar Rashwan**  
+Argonne National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 141 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 145 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Francisco C. de la Chesnaye"
-description: "Francisco C. de la Chesnaye is a Senior General CDR researcher at University of Vienna in AT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.421335
+description: "Francisco C. de la Chesnaye is a Senior General CDR researcher at University of Vienna in AT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.428304
 url: "/cdr-researcher-census/researchers/francisco-c-de-la-chesnaye-a5039439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 641 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| h-index | 7 |
+| Citations | 567 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
-   18 citations · DAC
+   20 citations · DAC
 
 2. **Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study** (2025)
    2 citations · BECCS

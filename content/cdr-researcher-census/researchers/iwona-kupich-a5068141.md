@@ -1,7 +1,7 @@
 ---
 title: "Iwona Kupich"
 description: "Iwona Kupich is a Senior Biochar researcher at Częstochowa University of Technology in PL. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.330806
+date: 2026-09-11T02:38:30.262566
 url: "/cdr-researcher-census/researchers/iwona-kupich-a5068141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 116 |
+| Citations | 125 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Comparative Assessment of Organic–Mineral Fertilizer, Biochar, and Vermiremediation for Petroleum‐Contaminated Alkaline Soils** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Comparative assessment of organic--mineral fertilizer, biochar, and vermiremediation for petroleum-contaminated alkaline soils** (2025)
    0 citations · Biochar

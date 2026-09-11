@@ -1,7 +1,7 @@
 ---
 title: "Saba Babar"
-description: "Saba Babar is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.463972
+description: "Saba Babar is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.385329
 url: "/cdr-researcher-census/researchers/saba-babar-a5037380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 569 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| Citations | 632 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Co-application of biochar and potassium fertilizer improves soil potassium availability and microbial utilization of organic carbon: A four-year study** (2024)
-   53 citations · Biochar
+   55 citations · Biochar
 
 2. **Exploration of biochars for enhancing soil health, carbon sequestration, and greenhouse gas emission reductions under citrus cultivation** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **Restoring Acidic Soils for Sustainable Agriculture: A Review of Mechanisms, Microbial Shifts, and Climate Resilience** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

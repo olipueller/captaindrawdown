@@ -1,7 +1,7 @@
 ---
 title: "Huizhou Gao"
-description: "Huizhou Gao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.857301
+description: "Huizhou Gao is a Mid-career Soil Carbon researcher at Luliang University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.754524
 url: "/cdr-researcher-census/researchers/huizhou-gao-a5012299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huizhou-gao-a5012299/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Agricultural Resources and Regional Planning"
+    "name": "Luliang University"
   },
   "sameAs": "https://openalex.org/A5012299647"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Huizhou Gao**  
-Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
+Luliang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 243 |
-| Publications | 14 |
-| CDR Focus | 28.6% |
+| h-index | 8 |
+| Citations | 280 |
+| Publications | 15 |
+| CDR Focus | 26.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
    5 citations · Soil Carbon

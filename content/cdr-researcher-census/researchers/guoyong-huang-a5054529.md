@@ -1,7 +1,7 @@
 ---
 title: "Guoyong Huang"
-description: "Guoyong Huang is a Mid-career Biochar researcher at South China Normal University in CN. With 35 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.252945
+description: "Guoyong Huang is a Senior Biochar researcher at South China Normal University in CN. With 35 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.200667
 url: "/cdr-researcher-census/researchers/guoyong-huang-a5054529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Guoyong Huang**  
 South China Normal University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,238 |
+| h-index | 20 |
+| Citations | 1,273 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar addition promotes soil organic carbon sequestration dominantly contributed by macro-aggregates in agricultural ecosystems of China** (2024)
-   61 citations · Biochar
+   64 citations · Biochar
 
 2. **Engineering bacterial pretreatment of basswood for enhanced hydrophobicity and phenolic contaminant removal selectivity of derived biochar** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

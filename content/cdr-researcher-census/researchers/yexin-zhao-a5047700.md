@@ -1,7 +1,7 @@
 ---
 title: "Yexin Zhao"
 description: "Yexin Zhao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.508406
+date: 2026-09-11T02:38:29.433360
 url: "/cdr-researcher-census/researchers/yexin-zhao-a5047700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 503 |
+| Citations | 558 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Climate warming suppresses soil abundant fungal taxa and reduces soil carbon efflux in a semi-arid grassland** (2023)
    0 citations · Soil Carbon

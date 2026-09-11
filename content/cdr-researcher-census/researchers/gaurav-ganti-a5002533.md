@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Ganti"
-description: "Gaurav Ganti is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.426796
+description: "Gaurav Ganti is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 48 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.364927
 url: "/cdr-researcher-census/researchers/gaurav-ganti-a5002533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 633 |
-| Publications | 47 |
-| CDR Focus | 25.5% |
+| Citations | 673 |
+| Publications | 48 |
+| CDR Focus | 27.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   121 citations · General CDR
+   123 citations · General CDR
 
-3. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   35 citations · DAC
+3. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
+   36 citations · General CDR
 
-4. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+4. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
+   36 citations · DAC
 
 5. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
    10 citations
@@ -68,14 +68,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Overconfidence in climate overshoot** (2023)
    7 citations
 
-7. **Carbon dioxide removal deployment consistent with global climate objectives** (2024)
+7. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   6 citations · BECCS
+
+8. **Carbon dioxide removal deployment consistent with global climate objectives** (2024)
    6 citations · General CDR
 
-8. **Fair carbon removal obligations under climate response uncertainty** (2025)
+9. **Fair carbon removal obligations under climate response uncertainty** (2025)
    5 citations · General CDR
-
-9. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   4 citations · BECCS
 
 10. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
    3 citations

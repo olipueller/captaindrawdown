@@ -1,7 +1,7 @@
 ---
 title: "A. Robinson"
 description: "A. Robinson is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.829455
+date: 2026-09-11T02:38:29.801381
 url: "/cdr-researcher-census/researchers/a-robinson-a5091796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 257 |
+| Citations | 258 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

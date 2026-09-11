@@ -1,7 +1,7 @@
 ---
 title: "Ai‐Tian Ren"
 description: "Ai‐Tian Ren is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510304
+date: 2026-09-11T02:38:29.455786
 url: "/cdr-researcher-census/researchers/aitian-ren-a5001454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 500 |
+| Citations | 521 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seven-year long-term inoculation with Funneliformis mosseae increases maize yield and soil carbon storage evidenced by in situ 13C-labeling in a dryland** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

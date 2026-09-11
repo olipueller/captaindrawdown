@@ -1,7 +1,7 @@
 ---
 title: "Consuelo Spoto"
-description: "Consuelo Spoto is a Mid-career Biochar researcher at Polytechnic University of Turin in IT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.066524
+description: "Consuelo Spoto is a Mid-career Biochar researcher at Politecnico di Torino in IT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.031156
 url: "/cdr-researcher-census/researchers/consuelo-spoto-a5069098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/consuelo-spoto-a5069098/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Polytechnic University of Turin"
+    "name": "Politecnico di Torino"
   },
   "sameAs": "https://openalex.org/A5069098715"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Consuelo Spoto**  
-Polytechnic University of Turin · 🇮🇹 IT
+Politecnico di Torino · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 177 |
+| Citations | 180 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based concrete as biocompatible building material for marine artificial structures** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

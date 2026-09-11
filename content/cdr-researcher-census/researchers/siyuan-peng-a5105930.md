@@ -1,7 +1,7 @@
 ---
 title: "Siyuan Peng"
-description: "Siyuan Peng is a Mid-career Soil Carbon researcher at Hainan University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.990426
+description: "Siyuan Peng is a Mid-career Soil Carbon researcher at Hainan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.937815
 url: "/cdr-researcher-census/researchers/siyuan-peng-a5105930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 200 |
+| h-index | 6 |
+| Citations | 210 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclusion promotes soil organic carbon accumulation in Tibetan grasslands with lower temperatures** (2024)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

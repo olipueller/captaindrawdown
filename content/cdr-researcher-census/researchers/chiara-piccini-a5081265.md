@@ -1,7 +1,7 @@
 ---
 title: "Chiara Piccini"
-description: "Chiara Piccini is a Senior Soil Carbon researcher at CREA-AA in IT. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.399451
+description: "Chiara Piccini is a Senior Soil Carbon researcher at CREA-AA in IT. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.346002
 url: "/cdr-researcher-census/researchers/chiara-piccini-a5081265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 691 |
-| Publications | 69 |
-| CDR Focus | 7.2% |
+| Citations | 717 |
+| Publications | 72 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · General CDR
 
 2. **Review of Soil Threats and Soil‐Related Ecosystem Services European Maps: Can We Use Them to Study Their Relationships?** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Estimated effect of crop diversification on soil organic carbon under present and future climate conditions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Soil Management for Sustainability** (2021)
    2 citations · Soil Carbon

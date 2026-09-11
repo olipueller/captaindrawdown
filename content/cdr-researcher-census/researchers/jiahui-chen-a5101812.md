@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Chen"
-description: "Jiahui Chen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.030497
+description: "Jiahui Chen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.983251
 url: "/cdr-researcher-census/researchers/jiahui-chen-a5101812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 188 |
-| Publications | 24 |
-| CDR Focus | 16.7% |
+| h-index | 9 |
+| Citations | 195 |
+| Publications | 27 |
+| CDR Focus | 14.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Differences in ecosystem organic carbon stocks due to species selection and site elevation of restored mangrove forests** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Differences in organic carbon accumulation in mangrove soils due to foraging by herbivorous crabs** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Long-term yak-grazing alters plant fine-root C:N:P stoichiometry in a Tibetan alpine meadow** (2025)
    0 citations · Soil Carbon

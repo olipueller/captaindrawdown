@@ -1,7 +1,7 @@
 ---
 title: "Zhang Xin"
-description: "Zhang Xin is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130892
+description: "Zhang Xin is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.078699
 url: "/cdr-researcher-census/researchers/zhang-xin-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 159 |
+| h-index | 7 |
+| Citations | 167 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

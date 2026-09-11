@@ -1,7 +1,7 @@
 ---
 title: "Roberta Healey"
-description: "Roberta Healey is a Senior Soil Carbon researcher at Universitat Autònoma de Barcelona in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.797256
+description: "Roberta Healey is a Senior Soil Carbon researcher at University of Cambridge in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.761975
 url: "/cdr-researcher-census/researchers/roberta-healey-a5018753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/roberta-healey-a5018753/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universitat Aut\u00f2noma de Barcelona"
+    "name": "University of Cambridge"
   },
   "sameAs": "https://openalex.org/A5018753727"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Roberta Healey**  
-Universitat Autònoma de Barcelona · 🇪🇸 ES
+University of Cambridge · 🇬🇧 GB
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 274 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 277 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

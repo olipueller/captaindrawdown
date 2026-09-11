@@ -1,7 +1,7 @@
 ---
 title: "Riquan Liao"
-description: "Riquan Liao is a Mid-career Soil Carbon researcher at Beibu Gulf University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.560355
+description: "Riquan Liao is a Mid-career Soil Carbon researcher at Beibu Gulf University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.508945
 url: "/cdr-researcher-census/researchers/riquan-liao-a5038058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 446 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 7 |
+| Citations | 459 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

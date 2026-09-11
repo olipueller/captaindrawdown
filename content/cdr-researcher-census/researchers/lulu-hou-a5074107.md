@@ -1,7 +1,7 @@
 ---
 title: "Lulu Hou"
-description: "Lulu Hou is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.751297
+description: "Lulu Hou is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.690347
 url: "/cdr-researcher-census/researchers/lulu-hou-a5074107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 298 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 314 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Grassland Ecosystem Progress: A Review and Bibliometric Analysis Based on Research Publication over the Last Three Decades** (2023)
-   16 citations · General CDR
+   18 citations · General CDR
 
 ## External Profiles
 

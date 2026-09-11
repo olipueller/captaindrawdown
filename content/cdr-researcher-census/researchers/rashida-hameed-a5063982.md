@@ -1,7 +1,7 @@
 ---
 title: "Rashida Hameed"
-description: "Rashida Hameed is a Mid-career Biochar researcher at Jiangsu University in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342982
+description: "Rashida Hameed is a Mid-career Biochar researcher at Jiangsu University in CN. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.282036
 url: "/cdr-researcher-census/researchers/rashida-hameed-a5063982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 839 |
+| h-index | 16 |
+| Citations | 893 |
 | Publications | 51 |
 | CDR Focus | 9.8% |
 | Trajectory | Stable |
@@ -59,11 +59,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
 
-4. **Adsorption mechanisms of aniline on nitrogen-doped biochar in the presence of dissolved Mn2+: The role of surface functionality** (2026)
-   0 citations · Biochar
+4. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
+   1 citations · General CDR
 
-5. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
-   0 citations · General CDR
+5. **Adsorption mechanisms of aniline on nitrogen-doped biochar in the presence of dissolved Mn2+: The role of surface functionality** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

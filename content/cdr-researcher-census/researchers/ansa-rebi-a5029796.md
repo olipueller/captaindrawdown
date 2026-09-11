@@ -1,7 +1,7 @@
 ---
 title: "Ansa Rebi"
-description: "Ansa Rebi is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.696877
+description: "Ansa Rebi is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.610406
 url: "/cdr-researcher-census/researchers/ansa-rebi-a5029796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 333 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| h-index | 11 |
+| Citations | 370 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

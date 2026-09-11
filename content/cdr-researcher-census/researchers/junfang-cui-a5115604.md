@@ -1,7 +1,7 @@
 ---
 title: "Junfang Cui"
 description: "Junfang Cui is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.774231
+date: 2026-09-11T02:38:29.736338
 url: "/cdr-researcher-census/researchers/junfang-cui-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 286 |
+| Citations | 290 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

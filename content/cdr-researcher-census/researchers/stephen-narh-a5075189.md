@@ -1,7 +1,7 @@
 ---
 title: "Stephen Narh"
-description: "Stephen Narh is a Senior Soil Carbon researcher at University of Ghana in GH. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.224194
+description: "Stephen Narh is a Senior Soil Carbon researcher at University of Ghana in GH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.164843
 url: "/cdr-researcher-census/researchers/stephen-narh-a5075189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 137 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 145 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

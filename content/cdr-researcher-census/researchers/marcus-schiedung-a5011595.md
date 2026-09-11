@@ -1,7 +1,7 @@
 ---
 title: "Marcus Schiedung"
-description: "Marcus Schiedung is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.431203
+description: "Marcus Schiedung is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.364201
 url: "/cdr-researcher-census/researchers/marcus-schiedung-a5011595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 624 |
-| Publications | 69 |
-| CDR Focus | 10.1% |
+| h-index | 14 |
+| Citations | 675 |
+| Publications | 71 |
+| CDR Focus | 9.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil carbon losses due to priming moderated by adaptation and legacy effects** (2023)
-   64 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
    30 citations
 
 3. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   8 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 4. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Biomineralisation of inorganic carbon by agroforestry species in East Africa: The oxalate carbonate pathway of fig trees in Samburu County, Kenya** (2026)
    0 citations · Enhanced Weathering

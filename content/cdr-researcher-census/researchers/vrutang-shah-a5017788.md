@@ -1,7 +1,7 @@
 ---
 title: "Vrutang Shah"
-description: "Vrutang Shah is a Mid-career General CDR researcher at Pandit Deendayal Petroleum University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.320548
+description: "Vrutang Shah is a Mid-career General CDR researcher at Pandit Deendayal Energy University in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.287875
 url: "/cdr-researcher-census/researchers/vrutang-shah-a5017788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vrutang-shah-a5017788/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pandit Deendayal Petroleum University"
+    "name": "Pandit Deendayal Energy University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0457-6720",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Vrutang Shah**  
-Pandit Deendayal Petroleum University · 🇮🇳 IN
+Pandit Deendayal Energy University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 118 |
+| h-index | 6 |
+| Citations | 120 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

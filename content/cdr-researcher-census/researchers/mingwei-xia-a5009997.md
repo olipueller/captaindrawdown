@@ -1,7 +1,7 @@
 ---
 title: "Mingwei Xia"
-description: "Mingwei Xia is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 31 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.129191
+description: "Mingwei Xia is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078914
 url: "/cdr-researcher-census/researchers/mingwei-xia-a5009997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 3,180 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
-| Trajectory | Exiting |
+| Citations | 3,281 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of various potassium agents on product distributions and biochar carbon sequestration of biomass pyrolysis** (2023)
-   31 citations · Biochar
+   37 citations · Biochar
 
 2. **Effect of Various Potassium Agents on Product Distributions and Biochar Carbon Sequestration of Biomass Pyrolysis** (2023)
    3 citations · Biochar
+
+3. **Research on the temporal evolution and characteristics of stages in potassium-assisted biomass pyrolysis** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

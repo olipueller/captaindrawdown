@@ -1,7 +1,7 @@
 ---
 title: "Nick Fitzpatrick"
 description: "Nick Fitzpatrick is an Early-career BECCS researcher at Aarhus University in DK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.840927
+date: 2026-09-11T02:38:29.814041
 url: "/cdr-researcher-census/researchers/nick-fitzpatrick-a5025496/"
 layout: "researcher"
 hiddenInHomeList: true

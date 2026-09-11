@@ -1,7 +1,7 @@
 ---
 title: "Alina Brad"
-description: "Alina Brad is a Mid-career General CDR researcher. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.564364
+description: "Alina Brad is a Mid-career General CDR researcher at University of Vienna in AT. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.497968
 url: "/cdr-researcher-census/researchers/alina-brad-a5048506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Alina Brad",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alina-brad-a5048506/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Vienna"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-5342-1632",
     "https://openalex.org/A5048506940"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Alina Brad**
+**Alina Brad**  
+University of Vienna · 🇦🇹 AT
 
 **Career Stage:** Mid-career
 
@@ -37,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 441 |
-| Publications | 41 |
-| CDR Focus | 12.2% |
+| h-index | 11 |
+| Citations | 470 |
+| Publications | 42 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    46 citations · General CDR
 
 2. **Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries** (2024)
-   18 citations · General CDR
+   19 citations · General CDR
 
 3. **Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation** (2025)
    11 citations · General CDR
 
-4. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
-   8 citations · General CDR
+4. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
+   9 citations · General CDR
 
-5. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
-   6 citations · General CDR
+5. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
+   8 citations · General CDR
 
 6. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
    1 citations

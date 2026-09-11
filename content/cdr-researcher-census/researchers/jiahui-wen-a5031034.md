@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Wen"
-description: "Jiahui Wen is a Mid-career Soil Carbon researcher at Shenyang Medical College in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729849
+description: "Jiahui Wen is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.646335
 url: "/cdr-researcher-census/researchers/jiahui-wen-a5031034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiahui-wen-a5031034/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Medical College"
+    "name": "Fujian Agriculture and Forestry University"
   },
   "sameAs": "https://openalex.org/A5031034214"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiahui Wen**  
-Shenyang Medical College · 🇨🇳 CN
+Fujian Agriculture and Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 310 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 344 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

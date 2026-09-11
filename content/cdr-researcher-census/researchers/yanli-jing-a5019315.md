@@ -1,7 +1,7 @@
 ---
 title: "Yanli Jing"
-description: "Yanli Jing is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729943
+description: "Yanli Jing is a Senior Soil Carbon researcher at Mianyang Normal University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.684476
 url: "/cdr-researcher-census/researchers/yanli-jing-a5019315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanli-jing-a5019315/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Lanzhou University of Technology"
+    "name": "Mianyang Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8946-0895",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yanli Jing**  
-Lanzhou University of Technology · 🇨🇳 CN
+Mianyang Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 310 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| Citations | 317 |
+| Publications | 28 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   17 citations
+   18 citations
 
 2. **Linking soil nematode communities to plant- and microbial-derived carbon in a 15-year field experiment** (2026)
    1 citations · Soil Carbon

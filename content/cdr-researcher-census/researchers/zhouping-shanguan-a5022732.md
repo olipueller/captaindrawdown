@@ -1,7 +1,7 @@
 ---
 title: "Zhouping Shanguan"
 description: "Zhouping Shanguan is an Early-career General CDR researcher at Institute of Soil and Water Conservation in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.913385
+date: 2026-09-11T02:38:29.859218
 url: "/cdr-researcher-census/researchers/zhouping-shanguan-a5022732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 221 |
+| Citations | 232 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   224 citations · General CDR
+   232 citations · General CDR
 
 ## External Profiles
 

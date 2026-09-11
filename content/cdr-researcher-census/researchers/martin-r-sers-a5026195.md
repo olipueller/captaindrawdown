@@ -1,7 +1,7 @@
 ---
 title: "Martin R. Sers"
-description: "Martin R. Sers is a Mid-career General CDR researcher at University of Victoria in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.259980
+description: "Martin R. Sers is a Mid-career General CDR researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.222050
 url: "/cdr-researcher-census/researchers/martin-r-sers-a5026195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Martin R. Sers",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/martin-r-sers-a5026195/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Victoria"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-1535-3215",
     "https://openalex.org/A5026195071"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Martin R. Sers**  
-University of Victoria · 🇨🇦 CA
+**Martin R. Sers**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 129 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 132 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

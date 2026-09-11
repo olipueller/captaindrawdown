@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Alloush"
-description: "Ahmed M. Alloush is a Mid-career General CDR researcher at Khalifa University of Science and Technology in AE. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555312
+description: "Ahmed M. Alloush is a Mid-career General CDR researcher at Khalifa University of Science and Technology in AE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.507760
 url: "/cdr-researcher-census/researchers/ahmed-m-alloush-a5043192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 450 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 460 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

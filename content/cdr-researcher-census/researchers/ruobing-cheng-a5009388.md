@@ -1,7 +1,7 @@
 ---
 title: "Ruobing Cheng"
 description: "Ruobing Cheng is a Mid-career DAC researcher at Jiaxing University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.234266
+date: 2026-09-11T02:38:30.193947
 url: "/cdr-researcher-census/researchers/ruobing-cheng-a5009388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 134 |
+| Citations | 138 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Optimizing CO<sub>2</sub> Adsorption/Desorption via the Coupling of Imidazole and Carbon Nanotubes Paper for Spontaneous CO<sub>2</sub> Uptake from Ambient Air and Solar‐Driven Release** (2024)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

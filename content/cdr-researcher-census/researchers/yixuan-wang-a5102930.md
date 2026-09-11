@@ -1,7 +1,7 @@
 ---
 title: "Yixuan Wang"
-description: "Yixuan Wang is a Mid-career Biochar researcher at China Agricultural University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.594623
+description: "Yixuan Wang is a Mid-career Biochar researcher at Louisiana State University in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.546594
 url: "/cdr-researcher-census/researchers/yixuan-wang-a5102930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yixuan-wang-a5102930/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Agricultural University"
+    "name": "Louisiana State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0670-4781",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yixuan Wang**  
-China Agricultural University · 🇨🇳 CN
+Louisiana State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 413 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 422 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Pingan Zhang"
-description: "Pingan Zhang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.072651
+description: "Pingan Zhang is a Senior Soil Carbon researcher at Xianyang Normal University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.016281
 url: "/cdr-researcher-census/researchers/pingan-zhang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pingan-zhang-a5101811/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Agricultural University"
+    "name": "Xianyang Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0524-4322",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pingan Zhang**  
-Northeast Agricultural University · 🇨🇳 CN
+Xianyang Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 175 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| Citations | 185 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Biochar
 
 2. **Cobalt oxide particles embedded in carbon nitride nanosheets for enhanced photocatalytic performance** (2025)
-   4 citations
+   5 citations
 
 3. **Optimizing soybean production and emission reduction through biogas slurry substitution and straw incorporation: A five-year field study in northeast China's black soil region** (2025)
    1 citations · Soil Carbon

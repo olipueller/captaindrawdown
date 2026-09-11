@@ -1,7 +1,7 @@
 ---
 title: "Jakub Bekier"
 description: "Jakub Bekier is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554022
+date: 2026-09-11T02:38:29.508577
 url: "/cdr-researcher-census/researchers/jakub-bekier-a5002638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 452 |
+| Citations | 459 |
 | Publications | 42 |
 | CDR Focus | 11.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Quantitative Carbon Changes of Selected Organic Fractions during the Aerobic Biological Recycling of Biodegradable Municipal Solid Waste (MSW) as a Potential Soil Environment Improving Amendment—A Case Study** (2022)
    6 citations · Soil Carbon

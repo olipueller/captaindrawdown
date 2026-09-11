@@ -1,7 +1,7 @@
 ---
 title: "Shaohu Ouyang"
-description: "Shaohu Ouyang is a Senior Soil Carbon researcher at Nankai University in CN. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198847
+description: "Shaohu Ouyang is a Senior Soil Carbon researcher at Nankai University in CN. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.143693
 url: "/cdr-researcher-census/researchers/shaohu-ouyang-a5071701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,687 |
-| Publications | 55 |
-| CDR Focus | 5.5% |
+| Citations | 1,772 |
+| Publications | 60 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis, characterization, safety design, and application of NPs@BC for contaminated soil remediation and sustainable agriculture** (2023)
-   55 citations · Biochar
+   57 citations · Biochar
 
 2. **[Research Progress in Reducing Pollution and Sequestration of Carbon by Carbon Neutral Plants].** (2024)
    2 citations · General CDR

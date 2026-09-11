@@ -1,7 +1,7 @@
 ---
 title: "P Ashoka"
-description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.667811
+description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.585283
 url: "/cdr-researcher-census/researchers/p-ashoka-a5070588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 353 |
+| h-index | 12 |
+| Citations | 389 |
 | Publications | 89 |
 | CDR Focus | 11.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Agroforestry: Multifunctional Benefits and Implementation Strategies** (2024)
-   9 citations · General CDR
+   13 citations · General CDR
 
 3. **Application and Impacts of Mulch Installation Techniques on Indian Horticulture: An In-depth Review** (2023)
    6 citations · Soil Carbon
@@ -65,17 +65,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **The Role of Biofertilizers in Soil Health Improvement and Sustainable Farming: A Comprehensive Review** (2025)
    2 citations · Soil Carbon
 
-7. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
+7. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+   1 citations · Biochar
+
+8. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
    0 citations · Biochar
 
-8. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+9. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
    0 citations
 
-9. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
+10. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
    0 citations · General CDR
-
-10. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
-   0 citations · Biochar
 
 ## External Profiles
 

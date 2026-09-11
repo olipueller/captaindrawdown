@@ -1,7 +1,7 @@
 ---
 title: "Tihamér Tibor Sebestyén"
-description: "Tihamér Tibor Sebestyén is a Mid-career Biochar researcher at Sapientia Hungarian University of Transylvania in RO. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.731915
+description: "Tihamér Tibor Sebestyén is a Mid-career Biochar researcher at Sapientia Hungarian University of Transylvania in RO. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.661766
 url: "/cdr-researcher-census/researchers/tihamer-tibor-sebestyen-a5020831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 309 |
+| h-index | 5 |
+| Citations | 333 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic Biochar–Wood Vinegar Amendments Boost Soil Microbial Function, Carbon Sequestration, and Crop Productivity Across European Agroecosystems** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

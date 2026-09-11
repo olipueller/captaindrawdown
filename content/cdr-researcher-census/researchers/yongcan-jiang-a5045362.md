@@ -1,7 +1,7 @@
 ---
 title: "Yongcan Jiang"
-description: "Yongcan Jiang is a Mid-career Biochar researcher at PowerChina (China) in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.812279
+description: "Yongcan Jiang is a Mid-career Biochar researcher at PowerChina (China) in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.759272
 url: "/cdr-researcher-census/researchers/yongcan-jiang-a5045362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 266 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 278 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

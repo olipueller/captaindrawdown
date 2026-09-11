@@ -1,7 +1,7 @@
 ---
 title: "Eli Mitchell-Larson"
-description: "Eli Mitchell-Larson is a Mid-career General CDR researcher at University of Oxford in GB. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.245437
+description: "Eli Mitchell-Larson is a Mid-career General CDR researcher at University of Oxford in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.193078
 url: "/cdr-researcher-census/researchers/eli-mitchell-larson-a5043051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 1,294 |
-| Publications | 12 |
-| CDR Focus | 41.7% |
+| Citations | 1,331 |
+| Publications | 11 |
+| CDR Focus | 45.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The meaning of net zero and how to get it right** (2021)
-   940 citations · General CDR
+   955 citations · General CDR
 
 2. **Net Zero: Science, Origins, and Implications** (2022)
-   216 citations · General CDR
+   220 citations · General CDR
 
 3. **Upstream decarbonization through a carbon takeback obligation: An affordable backstop climate policy** (2021)
-   58 citations · General CDR
+   59 citations · General CDR
 
 4. **Understanding carbon dioxyde removal** (2022)
    0 citations · General CDR

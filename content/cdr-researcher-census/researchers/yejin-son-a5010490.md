@@ -1,7 +1,7 @@
 ---
 title: "Ye‐Jin Son"
 description: "Ye‐Jin Son is a Mid-career Soil Carbon researcher at Chungbuk National University in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.246077
+date: 2026-09-11T02:38:30.094041
 url: "/cdr-researcher-census/researchers/yejin-son-a5010490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 132 |
+| Citations | 162 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Three important roles and chemical properties of glomalin-related soil protein** (2024)
-   54 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

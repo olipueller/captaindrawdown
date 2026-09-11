@@ -1,7 +1,7 @@
 ---
 title: "Lillian Lower"
 description: "Lillian Lower is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.784080
+date: 2026-09-11T02:38:29.687077
 url: "/cdr-researcher-census/researchers/lillian-lower-a5085504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 280 |
+| Citations | 315 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling Circularity With Carbon Negativity in Food and Agriculture Systems** (2022)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Farhan Qadir"
-description: "Muhammad Farhan Qadir is a Senior Biochar researcher at University of Agriculture Faisalabad in PK. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.112183
+description: "Muhammad Farhan Qadir is a Senior Biochar researcher at North West Agriculture and Forestry University in CN. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.061832
 url: "/cdr-researcher-census/researchers/muhammad-farhan-qadir-a5103193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-farhan-qadir-a5103193/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Agriculture Faisalabad"
+    "name": "North West Agriculture and Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1139-1070",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhammad Farhan Qadir**  
-University of Agriculture Faisalabad · 🇵🇰 PK
+North West Agriculture and Forestry University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 3,980 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 4,078 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Engineered biochar nanocomposites: integrating nanotechnology with carbon-based materials to enhance plant resilience against biotic and abiotic stresses** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

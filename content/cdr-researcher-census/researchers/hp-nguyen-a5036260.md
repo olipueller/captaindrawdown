@@ -1,7 +1,7 @@
 ---
 title: "H.P. Nguyen"
 description: "H.P. Nguyen is a Mid-career Biochar researcher at The University of Queensland in AU. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.438884
+date: 2026-09-11T02:38:29.374787
 url: "/cdr-researcher-census/researchers/hp-nguyen-a5036260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 612 |
+| Citations | 654 |
 | Publications | 43 |
 | CDR Focus | 9.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive removal of phosphate from aqueous solutions using low-cost modified biochar-packed column: Effect of operational parameters and kinetic study** (2022)
-   26 citations · Biochar
+   30 citations · Biochar
 
 2. **Anaerobic pyrolysis of textile garment waste for the production of multifunctional biochar: fuel performance and Pb( <scp>ii</scp> ) and Cr( <scp>vi</scp> ) adsorption with machine learning prediction** (2026)
    5 citations · Biochar

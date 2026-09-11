@@ -1,7 +1,7 @@
 ---
 title: "Fengyin Shi"
 description: "Fengyin Shi is a Mid-career Biochar researcher at Qingdao Agricultural University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.706077
+date: 2026-09-11T02:38:29.648595
 url: "/cdr-researcher-census/researchers/fengyin-shi-a5026579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 326 |
+| Citations | 342 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

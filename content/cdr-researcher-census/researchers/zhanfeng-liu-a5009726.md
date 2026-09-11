@@ -1,7 +1,7 @@
 ---
 title: "Zhanfeng Liu"
-description: "Zhanfeng Liu is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 254 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.098367
+description: "Zhanfeng Liu is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 261 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.048946
 url: "/cdr-researcher-census/researchers/zhanfeng-liu-a5009726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Zhanfeng Liu**  
 South China Botanical Garden · 🇨🇳 CN
 
-**Career Stage:** Eminent
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 40 |
-| Citations | 4,949 |
-| Publications | 254 |
-| CDR Focus | 8.7% |
+| h-index | 39 |
+| Citations | 5,057 |
+| Publications | 261 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
    97 citations · Soil Carbon
 
 3. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   81 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 4. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
@@ -69,13 +69,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 7. **Absorptive roots drive a larger microbial carbon pump efficacy than transport roots in alpine coniferous forests** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 8. **Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China** (2021)
    20 citations · Soil Carbon
 
 9. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 10. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
    12 citations · Soil Carbon

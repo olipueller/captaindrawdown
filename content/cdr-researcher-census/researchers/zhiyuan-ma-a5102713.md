@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Ma"
-description: "Zhiyuan Ma is a Senior Soil Carbon researcher at Chengdu Fifth People's Hospital in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.768634
+description: "Zhiyuan Ma is a Senior Soil Carbon researcher at Sichuan University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.701458
 url: "/cdr-researcher-census/researchers/zhiyuan-ma-a5102713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhiyuan-ma-a5102713/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chengdu Fifth People's Hospital"
+    "name": "Sichuan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2216-2978",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhiyuan Ma**  
-Chengdu Fifth People's Hospital · 🇨🇳 CN
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 289 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 308 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jianan Li"
-description: "Jianan Li is a Mid-career Soil Carbon researcher at Huaiyin Institute of Technology in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.261809
+description: "Jianan Li is a Mid-career Soil Carbon researcher at Huai'an University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.220040
 url: "/cdr-researcher-census/researchers/jianan-li-a5091619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianan-li-a5091619/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Huaiyin Institute of Technology"
+    "name": "Huai'an University"
   },
   "sameAs": "https://openalex.org/A5091619908"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianan Li**  
-Huaiyin Institute of Technology · 🇨🇳 CN
+Huai'an University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 129 |
+| Citations | 133 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return increases crop production by improving soil organic carbon sequestration and soil aggregation in a long-term wheat–cotton cropping system** (2023)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

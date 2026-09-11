@@ -1,7 +1,7 @@
 ---
 title: "Nikita J. Ambegaonkar"
 description: "Nikita J. Ambegaonkar is a Mid-career Biochar researcher at Gujarat University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.367856
+date: 2026-09-11T02:38:30.341201
 url: "/cdr-researcher-census/researchers/nikita-j-ambegaonkar-a5051018/"
 layout: "researcher"
 hiddenInHomeList: true

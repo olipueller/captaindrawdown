@@ -1,7 +1,7 @@
 ---
 title: "Dong Liu"
-description: "Dong Liu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 86 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.157300
+description: "Dong Liu is a Senior Soil Carbon researcher at Kunming Institute of Botany in CN. With 87 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.109066
 url: "/cdr-researcher-census/researchers/dong-liu-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dong-liu-a5100407/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Agricultural University"
+    "name": "Kunming Institute of Botany"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4271-0591",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dong Liu**  
-South China Agricultural University · 🇨🇳 CN
+Kunming Institute of Botany · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,303 |
-| Publications | 86 |
-| CDR Focus | 7.0% |
+| Citations | 2,312 |
+| Publications | 87 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Decades of reforestation significantly change microbial necromass, glomalin, and their contributions to soil organic carbon** (2023)
-   71 citations · Soil Carbon
+   75 citations · Soil Carbon
 
 2. **Crop–Mushroom Rotation: A Comprehensive Review of Its Multifaceted Impacts on Soil Quality, Agricultural Sustainability, and Ecosystem Health** (2025)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
    14 citations · Enhanced Weathering

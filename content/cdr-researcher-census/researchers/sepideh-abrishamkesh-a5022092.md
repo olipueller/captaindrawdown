@@ -1,7 +1,7 @@
 ---
 title: "Sepideh Abrishamkesh"
 description: "Sepideh Abrishamkesh is a Mid-career Biochar researcher at University of Guilan in IR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.438679
+date: 2026-09-11T02:38:29.386512
 url: "/cdr-researcher-census/researchers/sepideh-abrishamkesh-a5022092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 612 |
+| Citations | 631 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of Rice Husk Biochar for Achieving Sustainable Agriculture and Environment** (2021)
-   182 citations · Biochar
+   187 citations · Biochar
 
 ## External Profiles
 

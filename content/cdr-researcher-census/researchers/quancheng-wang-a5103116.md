@@ -1,7 +1,7 @@
 ---
 title: "Quancheng Wang"
 description: "Quancheng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424506
+date: 2026-09-11T02:38:29.369763
 url: "/cdr-researcher-census/researchers/quancheng-wang-a5103116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 637 |
+| Citations | 665 |
 | Publications | 42 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The accumulation of microbial residues and plant lignin phenols are more influenced by fertilization in young than mature subtropical forests** (2022)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Elevating water table reduces net ecosystem carbon losses from global drained wetlands** (2024)
    21 citations
 
 3. **Soil Bacterial β‐Diversity as a Key Determinant of Belowground Productivity in Warming Alpine Ecosystems** (2025)
-   13 citations
+   14 citations
 
 4. **Restoration recovers plant diversity but changes species composition and biomass allocation in an alpine peatland** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Converting paddy to upland alters soil neutral sugars by influencing microbial community and life history strategy** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **The Accumulation of Microbial Necromass and Plant Lignin are Higher But Less Influenced by Fertilisation in Relatively Mature than Young Subtropical Forests** (2021)
    0 citations · Soil Carbon

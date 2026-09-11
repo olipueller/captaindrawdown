@@ -1,7 +1,7 @@
 ---
 title: "Jianbo Wu"
 description: "Jianbo Wu is a Senior Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.494409
+date: 2026-09-11T02:38:29.452922
 url: "/cdr-researcher-census/researchers/jianbo-wu-a5085843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 524 |
+| Citations | 528 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |

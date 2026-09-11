@@ -1,7 +1,7 @@
 ---
 title: "Ram Prakash"
-description: "Ram Prakash is a Senior Soil Carbon researcher at Uttarakhand Technical University in IN. With 71 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.465231
+description: "Ram Prakash is a Senior Soil Carbon researcher at Uttarakhand Technical University in IN. With 73 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.421777
 url: "/cdr-researcher-census/researchers/ram-prakash-a5016963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 568 |
-| Publications | 71 |
-| CDR Focus | 9.9% |
+| Citations | 576 |
+| Publications | 73 |
+| CDR Focus | 9.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   32 citations
+   34 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar

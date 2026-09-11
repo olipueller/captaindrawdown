@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxu Fu"
 description: "Xiaoxu Fu is a Mid-career DAC researcher at Argonne National Laboratory in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.415293
+date: 2026-09-11T02:38:30.390283
 url: "/cdr-researcher-census/researchers/xiaoxu-fu-a5102355/"
 layout: "researcher"
 hiddenInHomeList: true

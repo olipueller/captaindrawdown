@@ -1,7 +1,7 @@
 ---
 title: "Seongwhan Kang"
 description: "Seongwhan Kang is a Mid-career BECCS researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.345098
+date: 2026-09-11T02:38:30.307669
 url: "/cdr-researcher-census/researchers/seongwhan-kang-a5086369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 113 |
+| Citations | 116 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

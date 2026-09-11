@@ -1,7 +1,7 @@
 ---
 title: "Hongli Diao"
 description: "Hongli Diao is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222908
+date: 2026-09-11T02:38:30.118614
 url: "/cdr-researcher-census/researchers/hongli-diao-a5084676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 137 |
+| Citations | 156 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |

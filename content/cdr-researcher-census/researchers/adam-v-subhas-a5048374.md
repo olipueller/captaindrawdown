@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
-description: "Adam V. Subhas is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 89 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.232808
+description: "Adam V. Subhas is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 92 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.177883
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,377 |
-| Publications | 89 |
-| CDR Focus | 16.9% |
+| Citations | 1,440 |
+| Publications | 92 |
+| CDR Focus | 17.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial ecosystem responses to alkalinity enhancement in the North Atlantic Subtropical Gyre** (2022)
-   65 citations · General CDR
+   69 citations · General CDR
 
 2. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
-3. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   7 citations · General CDR
+3. **Ocean Carbon Dioxide Removal and Storage** (2026)
+   9 citations · General CDR
 
-4. **Ocean Carbon Dioxide Removal and Storage** (2026)
-   6 citations · General CDR
+4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
+   8 citations · General CDR
 
 5. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 6. **Natural Analogs to Ocean Alkalinity Enhancement** (2023)
    6 citations
@@ -74,10 +74,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
    4 citations · General CDR
 
-9. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   2 citations · General CDR
+9. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
+   3 citations
 
-10. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
+10. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
    2 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Magdeline Laba"
-description: "Magdeline Laba is a Senior Soil Carbon researcher at Cornell University in US. With 24 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239221
+description: "Magdeline Laba is a Senior Soil Carbon researcher at Cornell University in US. With 25 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.186614
 url: "/cdr-researcher-census/researchers/magdeline-laba-a5062062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,333 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| h-index | 18 |
+| Citations | 1,384 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration for climate change mitigation: Mineralization kinetics of organic inputs as an overlooked limitation** (2022)
-   71 citations · General CDR
+   72 citations · General CDR
 
 2. **Response to ‘A well‐established fact: Rapid mineralization of organic inputs is an important factor for soil carbon sequestration’ by Angers et al.** (2022)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Asmat Ullah Khan"
-description: "Asmat Ullah Khan is a Mid-career General CDR researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537650
+description: "Asmat Ullah Khan is a Mid-career General CDR researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.474364
 url: "/cdr-researcher-census/researchers/asmat-ullah-khan-a5103076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 468 |
+| h-index | 12 |
+| Citations | 496 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

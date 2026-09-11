@@ -1,7 +1,7 @@
 ---
 title: "Fernando Villavicencio"
-description: "Fernando Villavicencio is a Senior Ocean CDR researcher at Central University of Ecuador in EC. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.246157
+description: "Fernando Villavicencio is a Senior Ocean CDR researcher at Central University of Ecuador in EC. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.197051
 url: "/cdr-researcher-census/researchers/fernando-villavicencio-a5020219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,286 |
+| h-index | 15 |
+| Citations | 1,298 |
 | Publications | 55 |
 | CDR Focus | 7.3% |
 | Trajectory | Growing |

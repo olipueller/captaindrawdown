@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Liang"
-description: "Xiaolong Liang is a Senior Soil Carbon researcher at Washington University in Saint Louis in US. With 78 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.244591
+description: "Xiaolong Liang is a Senior Soil Carbon researcher at Washington University in Saint Louis in US. With 79 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.183924
 url: "/cdr-researcher-census/researchers/xiaolong-liang-a5061895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,297 |
-| Publications | 78 |
-| CDR Focus | 6.4% |
+| h-index | 23 |
+| Citations | 1,396 |
+| Publications | 79 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Unveiling the top-down control of soil viruses over microbial communities and soil organic carbon cycling: A review** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-2. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
-   7 citations · Soil Carbon
+2. **Exogenous carbon-to-nitrogen imbalance drives soil viral roles in microbial carbon mineralization and necromass accrual** (2025)
+   10 citations · Soil Carbon
 
-3. **Exogenous carbon-to-nitrogen imbalance drives soil viral roles in microbial carbon mineralization and necromass accrual** (2025)
-   6 citations · Soil Carbon
+3. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
+   8 citations · Soil Carbon
 
 4. **Soil viruses reduce greenhouse gas emissions and promote microbial necromass accrual** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Viral abundance and lysogenic fraction respond dynamically to cover-crop burn down and vary with conservation soil management practices** (2024)
    0 citations · Soil Carbon

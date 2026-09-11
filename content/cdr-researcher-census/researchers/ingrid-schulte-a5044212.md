@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Schulte"
 description: "Ingrid Schulte is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.974060
+date: 2026-09-11T02:38:29.869715
 url: "/cdr-researcher-census/researchers/ingrid-schulte-a5044212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 205 |
+| Citations | 228 |
 | Publications | 13 |
 | CDR Focus | 46.2% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 2. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR

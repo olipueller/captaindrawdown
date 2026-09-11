@@ -1,7 +1,7 @@
 ---
 title: "Silvan Urs Goldenberg"
-description: "Silvan Urs Goldenberg is a Mid-career Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.286944
+description: "Silvan Urs Goldenberg is a Mid-career Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.231355
 url: "/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,056 |
-| Publications | 47 |
-| CDR Focus | 23.4% |
+| Citations | 1,101 |
+| Publications | 48 |
+| CDR Focus | 20.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 2. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 3. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   17 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 4. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 5. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2025)
    8 citations · General CDR

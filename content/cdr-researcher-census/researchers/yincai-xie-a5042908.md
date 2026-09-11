@@ -1,7 +1,7 @@
 ---
 title: "Yincai Xie"
 description: "Yincai Xie is an Early-career Enhanced Weathering researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.410391
+date: 2026-09-11T02:38:30.337580
 url: "/cdr-researcher-census/researchers/yincai-xie-a5042908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 102 |
+| Citations | 110 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Reduced Organic Carbon Content during the Evolvement of Calcareous Soils in Karst Region** (2021)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
    8 citations · Enhanced Weathering

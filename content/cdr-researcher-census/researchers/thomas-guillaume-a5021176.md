@@ -1,7 +1,7 @@
 ---
 title: "Thomas Guillaume"
-description: "Thomas Guillaume is a Senior Soil Carbon researcher at Agroscope Standort Changins in CH. With 95 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142037
+description: "Thomas Guillaume is a Senior Soil Carbon researcher at Agroscope Standort Changins in CH. With 97 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.091898
 url: "/cdr-researcher-census/researchers/thomas-guillaume-a5021176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 2,696 |
-| Publications | 95 |
-| CDR Focus | 11.6% |
+| h-index | 27 |
+| Citations | 2,768 |
+| Publications | 97 |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    90 citations · Soil Carbon
 
 2. **Role of fertilization regime on soil carbon sequestration and crop yield in a maize-cowpea intercropping system on low fertility soils** (2022)
-   72 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 3. **Frequent carbon input primes decomposition of decadal soil organic matter** (2022)
-   62 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 4. **Carbon storage in agricultural topsoils and subsoils is promoted by including temporary grasslands into the crop rotation** (2022)
    46 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 6. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 7. **Influence of elaeicultural agroecosystem types on carbon storage in a monomodal rainforest agroecological zone** (2025)
    0 citations · Soil Carbon

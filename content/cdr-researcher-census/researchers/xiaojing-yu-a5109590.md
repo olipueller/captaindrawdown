@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Yu"
-description: "Xiaojing Yu is a Mid-career Biochar researcher at Shandong University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693813
+description: "Xiaojing Yu is a Mid-career Biochar researcher at Shandong University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.625424
 url: "/cdr-researcher-census/researchers/xiaojing-yu-a5109590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 335 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 358 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

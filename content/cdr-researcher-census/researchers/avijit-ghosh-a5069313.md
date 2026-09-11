@@ -1,7 +1,7 @@
 ---
 title: "Avijit Ghosh"
-description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 158 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.135603
+description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 161 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.084414
 url: "/cdr-researcher-census/researchers/avijit-ghosh-a5069313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,942 |
-| Publications | 158 |
-| CDR Focus | 13.3% |
+| h-index | 29 |
+| Citations | 3,068 |
+| Publications | 161 |
+| CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Organic farming: A prospect for food, environment and livelihood security in Indian agriculture** (2021)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Eco-restoration of degraded lands through trees and grasses improves soil carbon sequestration and biological activity in tropical climates** (2021)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Long‐term manure application for crop yield stability and carbon sequestration in subtropical region** (2021)
    26 citations · Soil Carbon
 
 4. **Silvopasture systems for restoration of degraded lands in a semiarid region of India** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
-5. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
+5. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
+   17 citations · Soil Carbon
+
+6. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    16 citations · Soil Carbon
 
-6. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
-   14 citations · Soil Carbon
-
 7. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 8. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 9. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 10. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
    7 citations · General CDR

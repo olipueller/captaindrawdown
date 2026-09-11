@@ -1,7 +1,7 @@
 ---
 title: "Hanghai Liang"
-description: "Hanghai Liang is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.877534
+description: "Hanghai Liang is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.833911
 url: "/cdr-researcher-census/researchers/hanghai-liang-a5049675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 235 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 243 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

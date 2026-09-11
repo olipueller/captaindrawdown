@@ -1,7 +1,7 @@
 ---
 title: "Zhengang Wang"
-description: "Zhengang Wang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 98 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144004
+description: "Zhengang Wang is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 99 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093138
 url: "/cdr-researcher-census/researchers/zhengang-wang-a5005405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhengang-wang-a5005405/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sun Yat-sen University"
+    "name": "Guangdong University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5381-6247",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhengang Wang**  
-Sun Yat-sen University · 🇨🇳 CN
+Guangdong University of Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,649 |
-| Publications | 98 |
-| CDR Focus | 5.1% |
+| Citations | 2,744 |
+| Publications | 99 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
    9 citations · Soil Carbon
@@ -63,6 +63,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
+   2 citations · Soil Carbon
+
+6. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Abdulla"
 description: "Ahmed Abdulla is a Senior General CDR researcher at Carleton University in CA. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302307
+date: 2026-09-11T02:38:29.248927
 url: "/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 980 |
+| Citations | 1,016 |
 | Publications | 57 |
 | CDR Focus | 8.8% |
 | Trajectory | Exiting |
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Emergency deployment of direct air capture as a response to the climate crisis** (2021)
-   247 citations · DAC
+   249 citations · DAC
 
 2. **Liquid solvent direct air capture’s cost and carbon dioxide removal vary with ambient environmental conditions** (2024)
    22 citations · DAC
 
 3. **Integrating climate and physical constraints into assessments of net capture from direct air capture facilities** (2024)
-   2 citations · DAC
+   3 citations · DAC
 
-4. **An open-source dynamic model for direct air capture of carbon dioxide using solid sorbents** (2025)
+4. **Laying the foundations for negative emissions technologies: insights from a workshop** (2024)
+   1 citations · General CDR
+
+5. **An open-source dynamic model for direct air capture of carbon dioxide using solid sorbents** (2025)
    0 citations
-
-5. **Laying the foundations for negative emissions technologies: insights from a workshop** (2024)
-   0 citations · General CDR
 
 6. **Emergency responses to the climate crisis: The case of direct air capture of CO2** (2021)
    0 citations · DAC

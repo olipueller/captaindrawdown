@@ -1,7 +1,7 @@
 ---
 title: "Haidar Hosamo"
-description: "Haidar Hosamo is a Mid-career General CDR researcher at Prince Sultan University in SA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.069487
+description: "Haidar Hosamo is a Mid-career General CDR researcher at OsloMet – Oslo Metropolitan University in NO. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.945341
 url: "/cdr-researcher-census/researchers/haidar-hosamo-a5095775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haidar-hosamo-a5095775/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Prince Sultan University"
+    "name": "OsloMet \u2013 Oslo Metropolitan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7670-443X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haidar Hosamo**  
-Prince Sultan University · 🇸🇦 SA
+OsloMet – Oslo Metropolitan University · 🇳🇴 NO
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 176 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 207 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qian Hao"
-description: "Qian Hao is a Senior Soil Carbon researcher at Tianjin University of Technology in CN. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258376
+description: "Qian Hao is a Senior Soil Carbon researcher at Tianjin University of Technology in CN. With 71 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.207979
 url: "/cdr-researcher-census/researchers/qian-hao-a5101795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,208 |
-| Publications | 68 |
-| CDR Focus | 5.9% |
-| Trajectory | Stable |
+| Citations | 1,234 |
+| Publications | 71 |
+| CDR Focus | 7.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
    55 citations · Soil Carbon
 
 3. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Ecological stoichiometry of carbon, nitrogen, phosphorus, and silicon in coastal salt marsh plants and its implications for carbon sink management** (2025)
    2 citations · Soil Carbon
+
+5. **Distribution pattern and influencing factors of soil stable carbon isotopes in global coastal wetlands** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

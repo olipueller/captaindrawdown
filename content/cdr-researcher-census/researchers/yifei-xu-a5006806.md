@@ -1,7 +1,7 @@
 ---
 title: "Yifei Xu"
-description: "Yifei Xu is a Mid-career General CDR researcher at Yunnan University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.851184
+description: "Yifei Xu is a Mid-career General CDR researcher at Yunnan University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.753250
 url: "/cdr-researcher-census/researchers/yifei-xu-a5006806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 246 |
+| h-index | 9 |
+| Citations | 281 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   89 citations
+   93 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   45 citations · General CDR
+   48 citations · General CDR
 
 3. **Quantifying the supply-demand relationship of ecosystem services to identify ecological management zoning: A case study in mountainous areas of northwest Yunnan, China** (2024)
-   8 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

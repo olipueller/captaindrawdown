@@ -1,7 +1,7 @@
 ---
 title: "Guoqi Chen"
 description: "Guoqi Chen is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.410461
+date: 2026-09-11T02:38:29.361058
 url: "/cdr-researcher-census/researchers/guoqi-chen-a5101636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 667 |
+| Citations | 685 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

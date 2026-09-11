@@ -1,7 +1,7 @@
 ---
 title: "Rongkang Wang"
 description: "Rongkang Wang is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.251548
+date: 2026-09-11T02:38:30.208440
 url: "/cdr-researcher-census/researchers/rongkang-wang-a5026453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 131 |
+| Citations | 135 |
 | Publications | 9 |
 | CDR Focus | 44.4% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Enhances Soil Organic Carbon by Stabilizing Microbial Necromass Carbon in Saline–Alkaline Topsoil** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Biochar and Juncao Cultivation Synergistically Improve Coastal Saline-alkali Soil and Modulate Greenhouse Gas Emissions** (2026)
    0 citations · Biochar

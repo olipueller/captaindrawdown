@@ -1,7 +1,7 @@
 ---
 title: "Kehan Wang"
-description: "Kehan Wang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.003156
+description: "Kehan Wang is a Senior Soil Carbon researcher at Liaoning Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.945832
 url: "/cdr-researcher-census/researchers/kehan-wang-a5072572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kehan-wang-a5072572/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kunming University of Science and Technology"
+    "name": "Liaoning Academy of Agricultural Sciences"
   },
   "sameAs": "https://openalex.org/A5072572764"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Kehan Wang**  
-Kunming University of Science and Technology · 🇨🇳 CN
+Liaoning Academy of Agricultural Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 196 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 207 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

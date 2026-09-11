@@ -1,7 +1,7 @@
 ---
 title: "Daniele De Rosa"
-description: "Daniele De Rosa is a Senior Soil Carbon researcher at University of Basilicata in IT. With 63 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239708
+description: "Daniele De Rosa is a Senior Soil Carbon researcher at University of Basilicata in IT. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.182181
 url: "/cdr-researcher-census/researchers/daniele-de-rosa-a5075640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,332 |
-| Publications | 63 |
-| CDR Focus | 6.3% |
+| h-index | 21 |
+| Citations | 1,405 |
+| Publications | 65 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 3. **Environmental and economic trade‐offs of using composted or stockpiled manure as partial substitute for synthetic fertilizer** (2021)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **The potential for enhancing soil carbon levels through the use of organic soil amendments in Queensland, Australia** (2021)
    10 citations · Soil Carbon

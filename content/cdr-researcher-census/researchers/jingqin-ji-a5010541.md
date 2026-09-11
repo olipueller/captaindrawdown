@@ -1,7 +1,7 @@
 ---
 title: "Jingqin Ji"
 description: "Jingqin Ji is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855805
+date: 2026-09-11T02:38:29.832634
 url: "/cdr-researcher-census/researchers/jingqin-ji-a5010541/"
 layout: "researcher"
 hiddenInHomeList: true

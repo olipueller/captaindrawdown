@@ -1,7 +1,7 @@
 ---
 title: "Kimitoshi Sakaguchi"
-description: "Kimitoshi Sakaguchi is a Senior Soil Carbon researcher at Miyoshi Kasei (Japan) in JP. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.358186
+description: "Kimitoshi Sakaguchi is a Senior Soil Carbon researcher at Miyoshi Kasei (Japan) in JP. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.329485
 url: "/cdr-researcher-census/researchers/kimitoshi-sakaguchi-a5057911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 111 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| Citations | 112 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Five-year assessment of multiple inter-tillage weeding on greenhouse gas emissions, rice yield, and carbon balance in organic rice farming in Hokkaido, Japan** (2025)
-   6 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Assessment of Multiple Inter-Tillage Weeding Over Five Years on Greenhouse Gas Emissions, Rice Yield, and Carbon Balance in Rice Paddy Field in Case of Hokkaido, Japan** (2025)
    1 citations · General CDR

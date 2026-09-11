@@ -1,7 +1,7 @@
 ---
 title: "Diāna Stamberga"
-description: "Diāna Stamberga is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.759958
+description: "Diāna Stamberga is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.702859
 url: "/cdr-researcher-census/researchers/diana-stamberga-a5070443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 293 |
+| h-index | 10 |
+| Citations | 307 |
 | Publications | 27 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Photochemically‐Driven CO<sub>2</sub> Release Using a Metastable‐State Photoacid for Energy Efficient Direct Air Capture** (2023)
-   42 citations
+   43 citations
 
 2. **Ultra-fast microwave regeneration of CO2 solid sorbents for energy-efficient direct air capture** (2022)
    41 citations
 
 3. **An effective air–liquid contactor for CO2 direct air capture using aqueous solvents** (2023)
-   35 citations
+   38 citations
 
 4. **Determination of the regeneration energy of direct air capture solvents/sorbents using calorimetric methods** (2023)
    28 citations

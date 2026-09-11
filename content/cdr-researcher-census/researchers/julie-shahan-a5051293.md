@@ -1,7 +1,7 @@
 ---
 title: "Julie Shahan"
-description: "Julie Shahan is a Mid-career Ocean CDR researcher at Stanford University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130350
+description: "Julie Shahan is a Mid-career Ocean CDR researcher at Stanford University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.042089
 url: "/cdr-researcher-census/researchers/julie-shahan-a5051293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 159 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 7 |
+| Citations | 177 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Tidal and Nontidal Marsh Restoration: A Trade‐Off Between Carbon Sequestration, Methane Emissions, and Soil Accretion** (2021)
-   56 citations · Ocean CDR
+   57 citations · Ocean CDR
 
 ## External Profiles
 

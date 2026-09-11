@@ -1,7 +1,7 @@
 ---
 title: "Huiting Zeng"
 description: "Huiting Zeng is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.512088
+date: 2026-09-11T02:38:29.461425
 url: "/cdr-researcher-census/researchers/huiting-zeng-a5077469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 497 |
+| Citations | 512 |
 | Publications | 6 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    144 citations · Biochar
 
 2. **Efficient performance of magnesium oxide loaded biochar for the significant removal of Pb2+ and Cd2+ from aqueous solution** (2021)
-   126 citations · Biochar
+   128 citations · Biochar
 
 ## External Profiles
 

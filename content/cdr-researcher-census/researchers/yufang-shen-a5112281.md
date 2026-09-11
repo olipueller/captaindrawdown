@@ -1,7 +1,7 @@
 ---
 title: "Yufang Shen"
-description: "Yufang Shen is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 56 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.169636
+description: "Yufang Shen is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 58 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.119029
 url: "/cdr-researcher-census/researchers/yufang-shen-a5112281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yufang-shen-a5112281/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Institute of Soil and Water Conservation"
   },
   "sameAs": "https://openalex.org/A5112281498"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yufang Shen**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Institute of Soil and Water Conservation · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,087 |
-| Publications | 56 |
-| CDR Focus | 7.1% |
+| Citations | 2,134 |
+| Publications | 58 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · Soil Carbon
 
 2. **Carbon footprint, yield and economic performance assessment of different mulching strategies in a semi-arid spring maize system** (2022)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Legume straw incorporation with optimal nitrogen fertilizer improves soil quality and reduces the carbon footprint of farmland ecosystems in semiarid areas** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Rhizosphere microbial community and function activation in rain-fed agricultural areas confer growth advantages to spring maize** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jun Bo Zhang"
-description: "Jun Bo Zhang is a Mid-career Biochar researcher at Tongji University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.835242
+description: "Jun Bo Zhang is a Mid-career Biochar researcher at Tongji University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.810257
 url: "/cdr-researcher-census/researchers/jun-bo-zhang-a5073423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 254 |
-| Publications | 13 |
-| CDR Focus | 23.1% |
+| h-index | 8 |
+| Citations | 253 |
+| Publications | 12 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Characterization of highly stable biochar and its application for removal of phenol** (2022)
-   35 citations · Biochar
+   38 citations · Biochar
 
 2. **Effects of cellulase treatment on properties of lignocellulose-based biochar** (2024)
    19 citations · Biochar

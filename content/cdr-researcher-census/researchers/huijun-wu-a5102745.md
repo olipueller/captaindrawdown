@@ -1,7 +1,7 @@
 ---
 title: "Huijun Wu"
-description: "Huijun Wu is a Senior Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.217543
+description: "Huijun Wu is a Senior Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 51 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.167167
 url: "/cdr-researcher-census/researchers/huijun-wu-a5102745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,498 |
-| Publications | 50 |
-| CDR Focus | 8.0% |
+| h-index | 22 |
+| Citations | 1,531 |
+| Publications | 51 |
+| CDR Focus | 7.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Altered microbial resource limitation regulates soil organic carbon sequestration based on ecoenzyme stoichiometry under long‐term tillage systems** (2022)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **The need to update and refine concepts relating to mineral-associated organic matter saturation in soil** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Synergistic Promotion of Particulate and Mineral-Associated Organic Carbon Within Soil Aggregates After 10 Years of Organic Fertilization in Wheat-Maize Systems** (2024)
    2 citations · Soil Carbon

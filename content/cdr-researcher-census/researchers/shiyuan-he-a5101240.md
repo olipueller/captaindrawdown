@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan He"
-description: "Shiyuan He is a Mid-career Biochar researcher at Guangxi University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.156164
+description: "Shiyuan He is a Mid-career Biochar researcher at Guangxi University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.061413
 url: "/cdr-researcher-census/researchers/shiyuan-he-a5101240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 152 |
+| h-index | 8 |
+| Citations | 172 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave catalytic co-pyrolysis of Chlorella vulgaris and polystyrene: Characteristics, pyrolysis oil component and mechanism analysis** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Steffen Fahr"
-description: "Steffen Fahr is a Mid-career DAC researcher at Technical University of Munich in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911360
+description: "Steffen Fahr is a Mid-career DAC researcher at Technical University of Munich in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.819796
 url: "/cdr-researcher-census/researchers/steffen-fahr-a5064503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 221 |
+| h-index | 8 |
+| Citations | 249 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources** (2021)
-   21 citations · DAC
+   22 citations · DAC
 
 ## External Profiles
 

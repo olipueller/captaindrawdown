@@ -1,7 +1,7 @@
 ---
 title: "Annette Cowie"
-description: "Annette Cowie is an Eminent General CDR researcher at New South Wales Department of Primary Industries in AU. With 287 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.064319
+description: "Annette Cowie is an Eminent General CDR researcher at New South Wales Department of Primary Industries in AU. With 285 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.017041
 url: "/cdr-researcher-census/researchers/annette-cowie-a5018651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 69 |
-| Citations | 23,044 |
-| Publications | 287 |
+| Citations | 23,571 |
+| Publications | 285 |
 | CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   895 citations · Biochar
+   923 citations · Biochar
 
 2. **Bioenergy for climate change mitigation: Scale and sustainability** (2021)
-   139 citations · BECCS
+   143 citations · BECCS
 
 3. **Modelling and mapping soil organic carbon stocks under future climate change in south-eastern Australia** (2021)
-   101 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 4. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   72 citations · Biochar
+   73 citations · Biochar
 
 5. **Identifying effective agricultural management practices for climate change adaptation and mitigation: A win-win strategy in South-Eastern Australia** (2022)
    41 citations · General CDR
@@ -69,10 +69,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    40 citations · General CDR
 
 7. **Biochar as a fast track to net zero** (2023)
-   29 citations · Biochar
+   30 citations · Biochar
 
 8. **Estimates vary but credible evidence points to gigaton-scale climate change mitigation potential of biochar** (2025)
-   24 citations · Biochar
+   26 citations · Biochar
 
 9. **Digital mapping of soil carbon sequestration potential with enhanced vegetation cover over New South Wales, Australia** (2021)
    24 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Injy Johnstone"
-description: "Injy Johnstone is a Mid-career General CDR researcher at Smith College in US. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.302966
+description: "Injy Johnstone is a Mid-career General CDR researcher at Smith College in US. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.184153
 url: "/cdr-researcher-census/researchers/injy-johnstone-a5035898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,43 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 121 |
-| Publications | 29 |
-| CDR Focus | 27.6% |
+| h-index | 7 |
+| Citations | 140 |
+| Publications | 32 |
+| CDR Focus | 34.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Policy support for BECCS and DACCS in Europe: the view of market participants** (2024)
-   14 citations · BECCS
+   15 citations · BECCS
 
 2. **The Carbon Removal Budget: theory and practice** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
-3. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
+3. **Carbon markets for carbon dioxide removal** (2025)
+   7 citations · General CDR
+
+4. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
    5 citations · General CDR
 
-4. **Carbon markets for carbon dioxide removal** (2025)
-   4 citations · General CDR
-
 5. **Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   1 citations · General CDR
+
+6. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
    0 citations · General CDR
 
-6. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+7. **Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
    0 citations · General CDR
 
-7. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
+8. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+9. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+   0 citations · General CDR
+
+10. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
    0 citations · Enhanced Weathering
-
-8. **Market Mechanisms for Carbon Dioxide Removals: An Overview** (2025)
-   0 citations · General CDR
 
 ## External Profiles
 

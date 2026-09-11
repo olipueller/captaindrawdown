@@ -1,7 +1,7 @@
 ---
 title: "Mansour Issaoui"
 description: "Mansour Issaoui is an Early-career Biochar researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.191288
+date: 2026-09-11T02:38:30.153896
 url: "/cdr-researcher-census/researchers/mansour-issaoui-a5063612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 144 |
+| Citations | 147 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Unknown |

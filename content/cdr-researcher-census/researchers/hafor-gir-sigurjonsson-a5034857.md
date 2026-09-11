@@ -1,7 +1,7 @@
 ---
 title: "Hafþór Ægir Sigurjónsson"
 description: "Hafþór Ægir Sigurjónsson is a Mid-career Soil Carbon researcher at Administration of Occupational Safety and Health in IS. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.245992
+date: 2026-09-11T02:38:30.199674
 url: "/cdr-researcher-census/researchers/hafor-gir-sigurjonsson-a5034857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 132 |
+| Citations | 137 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

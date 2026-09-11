@@ -1,7 +1,7 @@
 ---
 title: "Yanling Guo"
 description: "Yanling Guo is a Senior Biochar researcher at China Agricultural University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.835577
+date: 2026-09-11T02:38:29.781623
 url: "/cdr-researcher-census/researchers/yanling-guo-a5104229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 254 |
+| Citations | 267 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Global integrative meta-analysis of the responses in soil organic carbon stock to biochar amendment** (2023)
-   51 citations · Biochar
+   56 citations · Biochar
 
 ## External Profiles
 

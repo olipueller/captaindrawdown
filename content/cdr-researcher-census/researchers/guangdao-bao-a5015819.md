@@ -1,7 +1,7 @@
 ---
 title: "Guangdao Bao"
 description: "Guangdao Bao is a Mid-career Soil Carbon researcher at Jilin Provincial Academy of Forestry Science in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.665400
+date: 2026-09-11T02:38:29.596722
 url: "/cdr-researcher-census/researchers/guangdao-bao-a5015819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 355 |
+| Citations | 380 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

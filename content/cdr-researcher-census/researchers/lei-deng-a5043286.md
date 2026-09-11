@@ -1,7 +1,7 @@
 ---
 title: "Lei Deng"
-description: "Lei Deng is an Eminent Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 233 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.072334
+description: "Lei Deng is an Eminent Soil Carbon researcher at Qinghai Normal University in CN. With 236 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.024845
 url: "/cdr-researcher-census/researchers/lei-deng-a5043286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lei-deng-a5043286/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Soil and Water Conservation"
+    "name": "Qinghai Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5898-5100",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lei Deng**  
-Institute of Soil and Water Conservation · 🇨🇳 CN
+Qinghai Normal University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 61 |
-| Citations | 11,693 |
-| Publications | 233 |
-| CDR Focus | 8.6% |
+| h-index | 62 |
+| Citations | 12,045 |
+| Publications | 236 |
+| CDR Focus | 9.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   224 citations · General CDR
+   232 citations · General CDR
 
 2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   102 citations
+   105 citations
 
 3. **Thinning increases forest ecosystem carbon stocks** (2024)
-   94 citations · Soil Carbon
+   96 citations · Soil Carbon
 
-4. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   77 citations · Soil Carbon
+4. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   83 citations · Soil Carbon
 
-5. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   76 citations · Soil Carbon
+5. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   81 citations · Soil Carbon
 
 6. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 7. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   67 citations
+   68 citations
 
 8. **Mixed plantations have more soil carbon sequestration benefits than pure plantations in China** (2022)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 9. **Effects of land use changes on soil organic carbon, nitrogen and their losses in a typical watershed of the Loess Plateau, China** (2021)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 10. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 ## External Profiles
 

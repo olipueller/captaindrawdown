@@ -1,7 +1,7 @@
 ---
 title: "Wenxia Dai"
-description: "Wenxia Dai is a Mid-career Soil Carbon researcher at China University of Geosciences in CN. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.226262
+description: "Wenxia Dai is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.172106
 url: "/cdr-researcher-census/researchers/wenxia-dai-a5113960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Wenxia Dai",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenxia-dai-a5113960/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "China University of Geosciences"
-  },
   "sameAs": "https://openalex.org/A5113960734"
 }
 </script>
 
 ## Profile
 
-**Wenxia Dai**  
-China University of Geosciences · 🇨🇳 CN
+**Wenxia Dai**
 
 **Career Stage:** Mid-career
 
@@ -39,16 +34,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,423 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 17 |
+| Citations | 1,479 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
    5 citations · Biochar

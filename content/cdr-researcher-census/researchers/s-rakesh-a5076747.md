@@ -1,7 +1,7 @@
 ---
 title: "S. Rakesh"
 description: "S. Rakesh is a Mid-career Soil Carbon researcher at North Bengal Agricultural University in IN. With 63 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.489655
+date: 2026-09-11T02:38:29.428689
 url: "/cdr-researcher-census/researchers/s-rakesh-a5076747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 531 |
+| Citations | 567 |
 | Publications | 63 |
 | CDR Focus | 17.5% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Addition of biofertilizers with crop residue in conservation agriculture improves soil carbon sequestration: a long-term field study** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 2. **Ecosystem carbon budgeting under Swietenia macrophylla King plantation in sub humid foothills of Eastern Himalayans of India** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Technologies, Programs, and Policies for Enhancing Soil Organic Carbon in Rainfed Dryland Ecosystems of India** (2022)
-   4 citations · General CDR
+   5 citations · General CDR
 
 4. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
    3 citations · Soil Carbon

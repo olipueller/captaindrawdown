@@ -1,7 +1,7 @@
 ---
 title: "Alireza Lotfollahzade Moghaddam"
 description: "Alireza Lotfollahzade Moghaddam is a Mid-career DAC researcher at Phoenix Technologies (Canada) in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.832844
+date: 2026-09-11T02:38:29.733729
 url: "/cdr-researcher-census/researchers/alireza-lotfollahzade-moghaddam-a5082556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 255 |
+| Citations | 291 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Methanol dehydration to dimethyl ether over KFI zeolites. Effect of template concentration and crystallization time on catalyst properties and activity** (2024)
-   12 citations · DAC
+   13 citations · DAC
 
 ## External Profiles
 

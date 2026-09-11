@@ -1,7 +1,7 @@
 ---
 title: "João A. G. Moreira"
-description: "João A. G. Moreira is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.717296
+description: "João A. G. Moreira is a Mid-career Soil Carbon researcher at Ministry of Health in TT. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.681963
 url: "/cdr-researcher-census/researchers/joao-a-g-moreira-a5067764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jo\u00e3o A. G. Moreira",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joao-a-g-moreira-a5067764/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Ministry of Health"
+  },
   "sameAs": [
     "https://orcid.org/0009-0001-1235-6958",
     "https://openalex.org/A5067764231"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**João A. G. Moreira**
+**João A. G. Moreira**  
+Ministry of Health ·  TT
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 318 |
+| Citations | 319 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

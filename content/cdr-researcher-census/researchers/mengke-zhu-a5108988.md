@@ -1,7 +1,7 @@
 ---
 title: "Mengke Zhu"
-description: "Mengke Zhu is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.262229
+description: "Mengke Zhu is a Mid-career Soil Carbon researcher at Henan Academy of Sciences in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.210063
 url: "/cdr-researcher-census/researchers/mengke-zhu-a5108988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mengke-zhu-a5108988/",
   "affiliation": {
     "@type": "Organization",
-    "name": "First Affiliated Hospital of Xi'an Jiaotong University"
+    "name": "Henan Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5108988217"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mengke Zhu**  
-First Affiliated Hospital of Xi'an Jiaotong University · 🇨🇳 CN
+Henan Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,183 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| Citations | 1,222 |
+| Publications | 53 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

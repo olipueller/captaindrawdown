@@ -1,7 +1,7 @@
 ---
 title: "Yuhong Tian"
-description: "Yuhong Tian is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.807561
+description: "Yuhong Tian is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.771767
 url: "/cdr-researcher-census/researchers/yuhong-tian-a5102360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 269 |
+| h-index | 6 |
+| Citations | 273 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Short lifespan and ‘prime period’ of carbon sequestration call for multi-ages in dryland tree plantations** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

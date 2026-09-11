@@ -1,7 +1,7 @@
 ---
 title: "Jingbiao Fan"
-description: "Jingbiao Fan is a Mid-career Soil Carbon researcher at North University of China in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.929683
+description: "Jingbiao Fan is a Mid-career Soil Carbon researcher at North University of China in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.843572
 url: "/cdr-researcher-census/researchers/jingbiao-fan-a5005609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 215 |
+| h-index | 7 |
+| Citations | 239 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **The Accumulation of Plant- and Microbial-Derived Carbon and its Contribution to Soil Organic Carbon in Saline-Sodic Farmland** (2024)
    0 citations · Soil Carbon

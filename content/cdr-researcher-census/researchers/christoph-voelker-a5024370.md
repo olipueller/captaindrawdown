@@ -1,7 +1,7 @@
 ---
 title: "Christoph Voelker"
-description: "Christoph Voelker is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 42 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399541
+description: "Christoph Voelker is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 43 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.263235
 url: "/cdr-researcher-census/researchers/christoph-voelker-a5024370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 104 |
-| Publications | 42 |
-| CDR Focus | 16.7% |
+| Citations | 125 |
+| Publications | 43 |
+| CDR Focus | 16.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Climate change driven effects on transport, fate and biogeochemistry of trace element contaminants in coastal marine ecosystems** (2024)
-   100 citations
+   109 citations
 
 2. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
    17 citations · General CDR
 
 3. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
-   15 citations · General CDR
+   16 citations · General CDR
 
 4. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 5. **Global sensitivity analysis of a one-dimensional ocean biogeochemical model** (2023)
    3 citations · General CDR

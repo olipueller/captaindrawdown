@@ -1,7 +1,7 @@
 ---
 title: "Jirong Qiao"
-description: "Jirong Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.338266
+description: "Jirong Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.253182
 url: "/cdr-researcher-census/researchers/jirong-qiao-a5003294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 115 |
+| h-index | 8 |
+| Citations | 127 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Host plant and soil nutrient filters mediate long‐term grazing on arbuscular mycorrhizal fungi in desert grasslands** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

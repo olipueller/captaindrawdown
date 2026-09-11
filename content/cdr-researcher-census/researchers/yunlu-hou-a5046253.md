@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
-description: "Yunlu Hou is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.779841
+description: "Yunlu Hou is a Mid-career Biochar researcher at Institute of Rock and Soil Mechanics in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.694194
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yunlu-hou-a5046253/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Centre National de la Recherche Scientifique"
+    "name": "Institute of Rock and Soil Mechanics"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1796-5143",
@@ -28,33 +28,33 @@ robots: "index, follow"
 ## Profile
 
 **Yunlu Hou**  
-Centre National de la Recherche Scientifique · 🇫🇷 FR
+Institute of Rock and Soil Mechanics · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Biochar**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 282 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 311 |
+| Publications | 22 |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **In-situ mineral carbonation of ultramafic tailings for carbon dioxide removal: A critical review** (2025)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 2. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 3. **Impacts of biochar and slag on carbon sequestration potential and sustainability assessment of MgO-stabilized marine soils: insights from MIP analysis** (2024)
    5 citations · Biochar

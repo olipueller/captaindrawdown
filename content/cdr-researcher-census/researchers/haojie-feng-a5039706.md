@@ -1,7 +1,7 @@
 ---
 title: "Haojie Feng"
-description: "Haojie Feng is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258260
+description: "Haojie Feng is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203517
 url: "/cdr-researcher-census/researchers/haojie-feng-a5039706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,208 |
-| Publications | 50 |
-| CDR Focus | 10.0% |
+| Citations | 1,258 |
+| Publications | 52 |
+| CDR Focus | 9.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   62 citations · Soil Carbon
+1. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
+   63 citations · Soil Carbon
 
-2. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   61 citations · Soil Carbon
+2. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
+   63 citations · Soil Carbon
 
 3. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   28 citations
+   30 citations
 
 4. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    13 citations · Soil Carbon

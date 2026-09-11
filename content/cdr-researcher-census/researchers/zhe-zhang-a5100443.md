@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhang"
 description: "Zhe Zhang is a Senior Soil Carbon researcher at NSF National Center for Atmospheric Research in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.544872
+date: 2026-09-11T02:38:29.492158
 url: "/cdr-researcher-census/researchers/zhe-zhang-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 462 |
+| Citations | 477 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

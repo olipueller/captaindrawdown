@@ -1,7 +1,7 @@
 ---
 title: "Zhenmin Hu"
-description: "Zhenmin Hu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311694
+description: "Zhenmin Hu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.242774
 url: "/cdr-researcher-census/researchers/zhenmin-hu-a5066452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 120 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 129 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated Application of Inorganic and Organic Fertilizer Enhances Soil Organo-Mineral Associations and Nutrients in Tea Garden Soil** (2022)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

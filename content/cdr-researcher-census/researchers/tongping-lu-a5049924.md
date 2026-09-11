@@ -1,7 +1,7 @@
 ---
 title: "Tongping Lu"
-description: "Tongping Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.789303
+description: "Tongping Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.739878
 url: "/cdr-researcher-census/researchers/tongping-lu-a5049924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 278 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| Citations | 288 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

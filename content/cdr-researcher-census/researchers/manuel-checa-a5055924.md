@@ -1,7 +1,7 @@
 ---
 title: "Manuel Checa"
 description: "Manuel Checa is a Mid-career Biochar researcher at University of Hohenheim in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.535536
+date: 2026-09-11T02:38:29.489003
 url: "/cdr-researcher-census/researchers/manuel-checa-a5055924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 471 |
+| Citations | 481 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of sheep wool waste into K2CO3-activated carbons for efficient MB and Cu(II) removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

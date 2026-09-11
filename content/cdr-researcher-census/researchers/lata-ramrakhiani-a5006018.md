@@ -1,7 +1,7 @@
 ---
 title: "Lata Ramrakhiani"
 description: "Lata Ramrakhiani is a Mid-career Biochar researcher at Central Glass and Ceramic Research Institute in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332950
+date: 2026-09-11T02:38:29.286865
 url: "/cdr-researcher-census/researchers/lata-ramrakhiani-a5006018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 864 |
+| Citations | 876 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

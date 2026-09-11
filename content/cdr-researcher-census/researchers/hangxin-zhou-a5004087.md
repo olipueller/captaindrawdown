@@ -1,7 +1,7 @@
 ---
 title: "Hangxin Zhou"
-description: "Hangxin Zhou is an Early-career Soil Carbon researcher at Zhejiang University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.047252
+description: "Hangxin Zhou is an Early-career Soil Carbon researcher at Kementerian Pendidikan Malaysia in MY. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.959007
 url: "/cdr-researcher-census/researchers/hangxin-zhou-a5004087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hangxin-zhou-a5004087/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "Kementerian Pendidikan Malaysia"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2072-882X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hangxin Zhou**  
-Zhejiang University · 🇨🇳 CN
+Kementerian Pendidikan Malaysia · 🇲🇾 MY
 
 **Career Stage:** Early-career
 
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 183 |
-| Publications | 5 |
-| CDR Focus | 40.0% |
-| Trajectory | Stable |
+| Citations | 202 |
+| Publications | 7 |
+| CDR Focus | 42.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

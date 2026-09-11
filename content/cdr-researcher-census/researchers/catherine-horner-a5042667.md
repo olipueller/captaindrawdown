@@ -1,7 +1,7 @@
 ---
 title: "Catherine Horner"
 description: "Catherine Horner is a Senior Soil Carbon researcher at University of Vermont in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.223860
+date: 2026-09-11T02:38:30.148406
 url: "/cdr-researcher-census/researchers/catherine-horner-a5042667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 137 |
+| Citations | 149 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Resilient Soils for Resilient Farms: An Integrative Approach to Assess, Promote, and Value Soil Health for Small- and Medium-Size Farms** (2022)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

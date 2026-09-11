@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
-description: "Min Zhang is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639635
+description: "Min Zhang is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.560595
 url: "/cdr-researcher-census/researchers/min-zhang-a5113976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 375 |
+| h-index | 9 |
+| Citations | 409 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   53 citations
+   56 citations
 
 3. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Qiulian Lin"
 description: "Qiulian Lin is a Mid-career General CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.263183
+date: 2026-09-11T02:38:30.196264
 url: "/cdr-researcher-census/researchers/qiulian-lin-a5024895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 129 |
+| Citations | 138 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Enhancing Carbon Storage in Mangrove Ecosystems of China through Sustainable Restoration and Aquaculture Actions** (2021)
    8 citations · General CDR

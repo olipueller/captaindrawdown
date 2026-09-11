@@ -1,7 +1,7 @@
 ---
 title: "V. Dharini"
 description: "V. Dharini is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852098
+date: 2026-09-11T02:38:29.812686
 url: "/cdr-researcher-census/researchers/v-dharini-a5077608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 245 |
+| Citations | 252 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Materials from Agricultural Wastes** (2021)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

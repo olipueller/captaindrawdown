@@ -1,7 +1,7 @@
 ---
 title: "Keyan Chen"
-description: "Keyan Chen is a Senior Biochar researcher at Jinan University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.319932
+description: "Keyan Chen is a Senior Biochar researcher at Nanyang Normal University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.255764
 url: "/cdr-researcher-census/researchers/keyan-chen-a5101518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/keyan-chen-a5101518/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jinan University"
+    "name": "Nanyang Normal University"
   },
   "sameAs": [
     "https://orcid.org/0009-0000-3361-8294",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Keyan Chen**  
-Jinan University · 🇨🇳 CN
+Nanyang Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 118 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 126 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

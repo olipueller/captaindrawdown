@@ -1,7 +1,7 @@
 ---
 title: "Erin L. McParland"
 description: "Erin L. McParland is a Mid-career Ocean CDR researcher at Oregon State University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.608141
+date: 2026-09-11T02:38:29.561208
 url: "/cdr-researcher-census/researchers/erin-l-mcparland-a5045558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 400 |
+| Citations | 408 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

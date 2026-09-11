@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Cisse"
 description: "Ibrahim Cisse is a Mid-career Biochar researcher at Rochester Institute of Technology in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.833362
+date: 2026-09-11T02:38:29.786376
 url: "/cdr-researcher-census/researchers/ibrahim-cisse-a5037502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 255 |
+| Citations | 265 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

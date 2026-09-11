@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Das"
-description: "Biswajit Das is a Senior Soil Carbon researcher at National Institute of Technology Patna in IN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.452659
+description: "Biswajit Das is a Senior Soil Carbon researcher at National Institute of Technology Patna in IN. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.409245
 url: "/cdr-researcher-census/researchers/biswajit-das-a5062357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 588 |
-| Publications | 61 |
-| CDR Focus | 6.6% |
+| Citations | 594 |
+| Publications | 58 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Above ground biomass carbon assessment using field, satellite data and model based integrated approach to predict the carbon sequestration potential of major land use sector of Arunachal Himalaya, India** (2021)
-   28 citations · General CDR
+   29 citations · General CDR
 
 2. **Biomass, carbon stock and soil physicochemical properties in plantation of East Siang district, Arunachal Pradesh, India** (2021)
    21 citations · Soil Carbon
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Carbon stock and pool assessment in tropical and subtropical bamboo brakes of Arunachal Pradesh, India** (2022)
    7 citations · General CDR
+
+5. **Branching the Future: Agroforestry as a Nexus for Climate-Resilient Livelihoods** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaotian Shen"
-description: "Xiaotian Shen is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369875
+description: "Xiaotian Shen is a Mid-career Enhanced Weathering researcher at Xiamen University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.262939
 url: "/cdr-researcher-census/researchers/xiaotian-shen-a5010373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 109 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 125 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

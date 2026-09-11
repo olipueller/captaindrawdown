@@ -1,7 +1,7 @@
 ---
 title: "Jingwen Huang"
-description: "Jingwen Huang is a Senior Biochar researcher at Suzhou University of Science and Technology in TW. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456573
+description: "Jingwen Huang is a Senior Biochar researcher at Institute of Statistical Science, Academia Sinica in TW. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.404974
 url: "/cdr-researcher-census/researchers/jingwen-huang-a5101473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingwen-huang-a5101473/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Suzhou University of Science and Technology"
+    "name": "Institute of Statistical Science, Academia Sinica"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0525-8807",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jingwen Huang**  
-Suzhou University of Science and Technology · 🇹🇼 TW
+Institute of Statistical Science, Academia Sinica · 🇹🇼 TW
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 582 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 600 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

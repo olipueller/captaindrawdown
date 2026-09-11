@@ -1,7 +1,7 @@
 ---
 title: "Congmou Zhu"
 description: "Congmou Zhu is a Mid-career Soil Carbon researcher at Zhejiang Gongshang University in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.311191
+date: 2026-09-11T02:38:29.252296
 url: "/cdr-researcher-census/researchers/congmou-zhu-a5107934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 952 |
+| Citations | 1,000 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 3. **Optimizing cultivated land under non-grain expansion in rural China: unveiling the spatial dynamics of trade-offs and synergies among ecosystem services** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

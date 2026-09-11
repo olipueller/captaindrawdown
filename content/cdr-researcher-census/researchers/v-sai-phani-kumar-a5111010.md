@@ -1,7 +1,7 @@
 ---
 title: "V. Sai Phani Kumar"
 description: "V. Sai Phani Kumar is a Mid-career General CDR researcher at Northwestern University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.631847
+date: 2026-09-11T02:38:29.583351
 url: "/cdr-researcher-census/researchers/v-sai-phani-kumar-a5111010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 380 |
+| Citations | 391 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biomimetic Catalysis of CO<sub>2</sub> Hydration: A Materials Perspective** (2021)
-   40 citations · General CDR
+   41 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Reza Audina Putri"
 description: "Reza Audina Putri is a Mid-career Biochar researcher at National Research and Innovation Agency in ID. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.308109
+date: 2026-09-11T02:38:30.265513
 url: "/cdr-researcher-census/researchers/reza-audina-putri-a5005342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 121 |
+| Citations | 125 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |

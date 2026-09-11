@@ -1,7 +1,7 @@
 ---
 title: "Xiaonuan Wang"
-description: "Xiaonuan Wang is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.576951
+description: "Xiaonuan Wang is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.509400
 url: "/cdr-researcher-census/researchers/xiaonuan-wang-a5064835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 430 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 13 |
+| Citations | 458 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 2. **Low dose peroxymonosulfate decontaminates organics via non-radical carbon capture: Electron transfer process stimulated by interface of zero-valent iron loaded sludge-derived biochar** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mahpara Qamar"
 description: "Mahpara Qamar is a Mid-career Biochar researcher at University of Agriculture Faisalabad in PK. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.488025
+date: 2026-09-11T02:38:29.440706
 url: "/cdr-researcher-census/researchers/mahpara-qamar-a5063030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 534 |
+| Citations | 546 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable remediation of hazardous environmental pollutants using biochar-based nanohybrid materials** (2021)
-   93 citations · Biochar
+   95 citations · Biochar
 
 ## External Profiles
 

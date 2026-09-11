@@ -1,7 +1,7 @@
 ---
 title: "Jiaojiao Liao"
 description: "Jiaojiao Liao is a Mid-career Soil Carbon researcher at Peking University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693074
+date: 2026-09-11T02:38:29.620021
 url: "/cdr-researcher-census/researchers/jiaojiao-liao-a5089313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 336 |
+| Citations | 362 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
-   75 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Importance of soil labile organic carbon fractions in shaping microbial community after vegetation restoration** (2022)
-   50 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Louise Olde"
 description: "Louise Olde is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777823
+date: 2026-09-11T02:38:29.731211
 url: "/cdr-researcher-census/researchers/louise-olde-a5069034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 284 |
+| Citations | 293 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **CO2 fluxes from three different temperate grazed pastures using Eddy covariance measurements** (2022)
-   13 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

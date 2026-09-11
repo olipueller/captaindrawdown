@@ -1,7 +1,7 @@
 ---
 title: "David T. Ho"
-description: "David T. Ho is an Eminent General CDR researcher at University of Hawaiʻi at Mānoa in US. With 186 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.093049
+description: "David T. Ho is an Eminent General CDR researcher at University of Hawaiʻi at Mānoa in US. With 190 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044117
 url: "/cdr-researcher-census/researchers/david-t-ho-a5080281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,36 +43,36 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 41 |
-| Citations | 5,612 |
-| Publications | 186 |
-| CDR Focus | 16.1% |
+| Citations | 5,696 |
+| Publications | 190 |
+| CDR Focus | 15.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal** (2023)
-   79 citations · General CDR
+   82 citations · General CDR
 
 2. **Carbon dioxide removal is not a current climate solution — we need to change the narrative** (2023)
    60 citations · General CDR
 
-3. **Monitoring, reporting, and verification for ocean alkalinity enhancement** (2023)
-   56 citations · General CDR
+3. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
+   57 citations · Ocean CDR
 
-4. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   51 citations · Ocean CDR
+4. **Monitoring, reporting, and verification for ocean alkalinity enhancement** (2023)
+   57 citations · General CDR
 
 5. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
-   50 citations · General CDR
+   52 citations · General CDR
 
 6. **Ocean dynamics and biological feedbacks limit the potential of macroalgae carbon dioxide removal** (2023)
    35 citations · Ocean CDR
 
-7. **Monitoring, Reporting, and Verification for Ocean Alkalinity Enhancement** (2023)
-   29 citations
+7. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
+   29 citations · General CDR
 
-8. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   28 citations · General CDR
+8. **Monitoring, Reporting, and Verification for Ocean Alkalinity Enhancement** (2023)
+   29 citations
 
 9. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
    17 citations · General CDR

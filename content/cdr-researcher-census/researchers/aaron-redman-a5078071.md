@@ -1,7 +1,7 @@
 ---
 title: "Aaron Redman"
-description: "Aaron Redman is a Mid-career General CDR researcher at Arizona State University in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.267977
+description: "Aaron Redman is a Mid-career General CDR researcher at Arizona State University in US. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.206665
 url: "/cdr-researcher-census/researchers/aaron-redman-a5078071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 1,156 |
+| h-index | 13 |
+| Citations | 1,241 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

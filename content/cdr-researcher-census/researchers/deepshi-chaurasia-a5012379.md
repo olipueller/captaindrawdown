@@ -1,7 +1,7 @@
 ---
 title: "Deepshi Chaurasia"
 description: "Deepshi Chaurasia is a Mid-career Biochar researcher at Indian Institute of Toxicology Research in IN. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306811
+date: 2026-09-11T02:38:29.254040
 url: "/cdr-researcher-census/researchers/deepshi-chaurasia-a5012379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 965 |
+| Citations | 995 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Exiting |

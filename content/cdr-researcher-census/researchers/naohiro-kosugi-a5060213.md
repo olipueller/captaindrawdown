@@ -1,7 +1,7 @@
 ---
 title: "Naohiro Kosugi"
-description: "Naohiro Kosugi is a Senior Ocean CDR researcher at Meteorological Research Institute in JP. With 91 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.252837
+description: "Naohiro Kosugi is a Senior Ocean CDR researcher at Meteorological Research Institute in JP. With 94 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203203
 url: "/cdr-researcher-census/researchers/naohiro-kosugi-a5060213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,238 |
-| Publications | 91 |
-| CDR Focus | 5.5% |
+| Citations | 1,258 |
+| Publications | 94 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

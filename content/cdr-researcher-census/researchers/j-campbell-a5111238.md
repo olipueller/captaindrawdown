@@ -1,7 +1,7 @@
 ---
 title: "J. Campbell"
 description: "J. Campbell is a Senior General CDR researcher at Heriot-Watt University in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.275375
+date: 2026-09-11T02:38:30.254766
 url: "/cdr-researcher-census/researchers/j-campbell-a5111238/"
 layout: "researcher"
 hiddenInHomeList: true

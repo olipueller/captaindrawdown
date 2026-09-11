@@ -1,7 +1,7 @@
 ---
 title: "Abby Lunstrum"
-description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.501038
+description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.500740
 url: "/cdr-researcher-census/researchers/abby-lunstrum-a5042359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,30 +42,39 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 512 |
-| Publications | 19 |
-| CDR Focus | 26.3% |
+| h-index | 9 |
+| Citations | 467 |
+| Publications | 20 |
+| CDR Focus | 30.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **CaCO3 dissolution in carbonate-poor shelf sands increases with ocean acidification and porewater residence time** (2022)
-   29 citations · Enhanced Weathering
+   31 citations · Enhanced Weathering
 
 3. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
-4. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
+4. **Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+5. **Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+6. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+7. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
 
-5. **Sediment consumption of added alkalinity reduces the efficacy of ocean alkalinity enhancement** (2024)
+8. **Sediment consumption of added alkalinity reduces the efficacy of ocean alkalinity enhancement** (2024)
    0 citations · Ocean CDR
 
-6. **Microbial siderophores increase olivine dissolution rates by shunting Fe and Mg into biomass** (2022)
+9. **Microbial siderophores increase olivine dissolution rates by shunting Fe and Mg into biomass** (2022)
    0 citations · Enhanced Weathering
 
 ## External Profiles

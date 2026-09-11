@@ -1,7 +1,7 @@
 ---
 title: "Ieva Jaunslaviete"
-description: "Ieva Jaunslaviete is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.371485
+description: "Ieva Jaunslaviete is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.311115
 url: "/cdr-researcher-census/researchers/ieva-jaunslaviete-a5085693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 109 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| h-index | 7 |
+| Citations | 116 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

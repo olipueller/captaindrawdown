@@ -1,7 +1,7 @@
 ---
 title: "Vibha Singhal"
-description: "Vibha Singhal is a Senior Soil Carbon researcher at UCLA Health in US. With 139 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.126339
+description: "Vibha Singhal is a Senior Soil Carbon researcher at UCLA Health in US. With 137 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.076824
 url: "/cdr-researcher-census/researchers/vibha-singhal-a5015845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 3,283 |
-| Publications | 139 |
-| CDR Focus | 5.0% |
+| Citations | 3,347 |
+| Publications | 137 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Agroforestry for controlling soil erosion and enhancing system productivity in ravine lands of Western India under climate change scenario** (2022)
-   94 citations · Soil Carbon
+   95 citations · Soil Carbon
 
 3. **Enhancing productivity and sustainability of ravine lands through horti-silviculture and soil moisture conservation: A pathway to land degradation neutrality** (2024)
    28 citations · Soil Carbon
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 5. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 6. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 7. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 8. **Effect of incubation time, litter diversity and species richness on decomposition dynamics of tree species from western Himalayas** (2021)
    8 citations

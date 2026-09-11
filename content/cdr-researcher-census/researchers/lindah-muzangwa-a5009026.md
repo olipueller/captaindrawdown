@@ -1,7 +1,7 @@
 ---
 title: "Lindah Muzangwa"
 description: "Lindah Muzangwa is a Mid-career Soil Carbon researcher at Royal Agricultural University in GB. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062665
+date: 2026-09-11T02:38:30.023591
 url: "/cdr-researcher-census/researchers/lindah-muzangwa-a5009026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 178 |
+| Citations | 182 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Katie Murenbeeld"
 description: "Katie Murenbeeld is an Early-career Enhanced Weathering researcher at Boise State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.986269
+date: 2026-09-11T02:38:29.913597
 url: "/cdr-researcher-census/researchers/katie-murenbeeld-a5050426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 201 |
+| Citations | 212 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **From Soils to Streams: Connecting Terrestrial Carbon Transformation, Chemical Weathering, and Solute Export Across Hydrological Regimes** (2022)
-   66 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 ## External Profiles
 

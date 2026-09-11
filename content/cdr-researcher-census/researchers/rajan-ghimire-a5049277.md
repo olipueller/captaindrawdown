@@ -1,7 +1,7 @@
 ---
 title: "Rajan Ghimire"
-description: "Rajan Ghimire is a Senior Soil Carbon researcher at New Mexico State University in US. With 149 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.114943
+description: "Rajan Ghimire is a Senior Soil Carbon researcher at New Mexico State University in US. With 155 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.062902
 url: "/cdr-researcher-census/researchers/rajan-ghimire-a5049277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 3,798 |
-| Publications | 149 |
-| CDR Focus | 17.4% |
+| h-index | 35 |
+| Citations | 3,965 |
+| Publications | 155 |
+| CDR Focus | 16.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration potential of conservation agriculture in arid and semi-arid regions: A review** (2023)
-   73 citations · General CDR
+   79 citations · General CDR
 
 2. **Response of soil organic matter to cover cropping in water-limited environments** (2021)
-   58 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 3. **Cover crop-mediated soil carbon storage and soil health in semi-arid irrigated cropping systems** (2023)
-   43 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 4. **Cover crop residue quality regulates litter decomposition dynamics and soil carbon mineralization kinetics in semi-arid cropping systems** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 5. **Greenhouse gas mitigation and soil carbon stabilization potential of forest biochar varied with biochar type and characteristics** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 6. **Limited impacts of occasional tillage on dry aggregate size distribution and soil carbon and nitrogen fractions in semi-arid drylands** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
-7. **Cover cropping enhanced soil aggregation and associated carbon and nitrogen storage in semi-arid silage cropping systems** (2024)
-   23 citations · Soil Carbon
+7. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
+   27 citations
 
-8. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
-   23 citations
+8. **Cover cropping enhanced soil aggregation and associated carbon and nitrogen storage in semi-arid silage cropping systems** (2024)
+   24 citations · Soil Carbon
 
 9. **Carbon storage and sequestration rates in Leucaena leucocephala-based silvopasture in Southern Mexico** (2023)
    23 citations · General CDR

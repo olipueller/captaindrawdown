@@ -1,7 +1,7 @@
 ---
 title: "Shuling Pan"
 description: "Shuling Pan is a Senior Soil Carbon researcher at China Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.327645
+date: 2026-09-11T02:38:30.293654
 url: "/cdr-researcher-census/researchers/shuling-pan-a5060250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
+| Citations | 119 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon pool distribution and stability with grazing and topography in a Mongolian grassland** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

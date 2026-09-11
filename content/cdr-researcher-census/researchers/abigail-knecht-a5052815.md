@@ -1,7 +1,7 @@
 ---
 title: "Abigail Knecht"
-description: "Abigail Knecht is a Senior Enhanced Weathering researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510997
+description: "Abigail Knecht is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.463853
 url: "/cdr-researcher-census/researchers/abigail-knecht-a5052815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Abigail Knecht",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abigail-knecht-a5052815/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Alameda Hospital"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-1084-1623",
     "https://openalex.org/A5052815708"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Abigail Knecht**
+**Abigail Knecht**  
+Alameda Hospital · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 499 |
+| Citations | 509 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

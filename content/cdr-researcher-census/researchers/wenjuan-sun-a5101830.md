@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Sun"
-description: "Wenjuan Sun is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.094297
+description: "Wenjuan Sun is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 130 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.045009
 url: "/cdr-researcher-census/researchers/wenjuan-sun-a5101830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 5,417 |
-| Publications | 131 |
-| CDR Focus | 5.3% |
+| Citations | 5,540 |
+| Publications | 130 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   140 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 2. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   24 citations · General CDR
+   27 citations · General CDR
 
 4. **Distinct environmental controls on above- and below-ground net primary productivity in Northern China’s grasslands** (2024)
-   20 citations
+   23 citations
 
 5. **Animal waste use and implications to agricultural greenhouse gas emissions in the United States** (2021)
    12 citations · Soil Carbon
 
-6. **Potential for soil carbon sequestration under conservation agriculture in a warming climate** (2024)
-   5 citations · Soil Carbon
+6. **Response of crop photosynthetic product allocation under different water supply conditions: A global synthetic analysis** (2025)
+   5 citations
 
-7. **Response of crop photosynthetic product allocation under different water supply conditions: A global synthetic analysis** (2025)
-   3 citations
+7. **Potential for soil carbon sequestration under conservation agriculture in a warming climate** (2024)
+   5 citations · Soil Carbon
 
 8. **Differential diversity and structure of autotrophs in agricultural soils of Qinghai Province** (2025)
    2 citations · Soil Carbon

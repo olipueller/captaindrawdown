@@ -1,7 +1,7 @@
 ---
 title: "Sibylle Duval-Dachary"
 description: "Sibylle Duval-Dachary is a Mid-career BECCS researcher at IFP Énergies nouvelles in FR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.220450
+date: 2026-09-11T02:38:30.124359
 url: "/cdr-researcher-census/researchers/sibylle-duval-dachary-a5028269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 137 |
+| Citations | 154 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage systems: Critical review of life cycle inventories** (2023)
-   54 citations · BECCS
+   55 citations · BECCS
 
 2. **Life cycle assessment of BECCS systems: critical review of life cycle inventories** (2022)
    2 citations · BECCS

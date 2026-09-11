@@ -1,7 +1,7 @@
 ---
 title: "Pallabi Borah"
 description: "Pallabi Borah is a Mid-career BECCS researcher at Global University in LB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.829929
+date: 2026-09-11T02:38:29.791753
 url: "/cdr-researcher-census/researchers/pallabi-borah-a5109387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 257 |
+| Citations | 263 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A review on environmental and socioeconomic perspectives of three promising biofuel plants Jatropha curcas, Pongamia pinnata and Mesua ferrea** (2021)
-   54 citations · BECCS
+   55 citations · BECCS
 
 ## External Profiles
 

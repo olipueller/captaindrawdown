@@ -1,7 +1,7 @@
 ---
 title: "Qiu Yang"
-description: "Qiu Yang is a Senior Soil Carbon researcher at China Academy of Engineering Physics in CN. With 79 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.151645
+description: "Qiu Yang is a Senior Soil Carbon researcher at China Academy of Engineering Physics in CN. With 78 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102447
 url: "/cdr-researcher-census/researchers/qiu-yang-a5113749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 2,430 |
-| Publications | 79 |
-| CDR Focus | 6.3% |
+| Citations | 2,461 |
+| Publications | 78 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Short-term nutrient addition increases soil organic carbon accumulation in tropical forest** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Rubber plant root-derived organic carbon influences aggregate stability through soil internal forces in tropical region** (2025)
    2 citations · Soil Carbon

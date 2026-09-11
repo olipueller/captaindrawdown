@@ -1,7 +1,7 @@
 ---
 title: "Felipe M. Pinheiro"
 description: "Felipe M. Pinheiro is a Mid-career Soil Carbon researcher at University of Florida in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.882624
+date: 2026-09-11T02:38:29.838632
 url: "/cdr-researcher-census/researchers/felipe-m-pinheiro-a5006948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 233 |
+| Citations | 241 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stock and stability under Eucalyptus-based silvopasture and other land-use systems in the Cerrado biodiversity hotspot** (2021)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 ## External Profiles
 

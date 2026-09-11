@@ -1,7 +1,7 @@
 ---
 title: "Xiaona Liang"
-description: "Xiaona Liang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.374495
+description: "Xiaona Liang is a Mid-career Soil Carbon researcher at Huaiyin Normal University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.327751
 url: "/cdr-researcher-census/researchers/xiaona-liang-a5102025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaona-liang-a5102025/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Huaiyin Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9339-7742",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaona Liang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Huaiyin Normal University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 749 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| Citations | 762 |
+| Publications | 40 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Complementation between Microbial Necromass and Plant Debris Governs Long-Term Build-Up of Soil Organic Carbon Pool in a Conservation Agriculture** (2022)
    1 citations · Soil Carbon

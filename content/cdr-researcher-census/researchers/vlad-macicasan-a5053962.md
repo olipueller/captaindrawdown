@@ -1,7 +1,7 @@
 ---
 title: "Vlad Măcicășan"
-description: "Vlad Măcicășan is a Mid-career Soil Carbon researcher at Babeș-Bolyai University in RO. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.675159
+description: "Vlad Măcicășan is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.622507
 url: "/cdr-researcher-census/researchers/vlad-macicasan-a5053962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Vlad M\u0103cic\u0103\u0219an",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vlad-macicasan-a5053962/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Babe\u0219-Bolyai University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-0830-9347",
     "https://openalex.org/A5053962953"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Vlad Măcicășan**  
-Babeș-Bolyai University ·  RO
+**Vlad Măcicășan**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 347 |
+| Citations | 360 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How Can Land Use Management in Traditional Cultural Landscapes Become a Policy Instrument for Soil Organic Carbon Sequestration and Climate Change Mitigation? A Transylvanian Case Study** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yanxing Song"
 description: "Yanxing Song is a Senior Biochar researcher at Beijing Wuzi University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728252
+date: 2026-09-11T02:38:29.683732
 url: "/cdr-researcher-census/researchers/yanxing-song-a5100560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 311 |
+| Citations | 317 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cr(VI) adsorption on activated carbon, sludge derived biochar, and peanut shells derived biochar: Performance, mechanisms during the reuse process and site energy distribution analysis** (2023)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

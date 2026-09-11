@@ -1,7 +1,7 @@
 ---
 title: "Yericho Berhanu"
 description: "Yericho Berhanu is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.322970
+date: 2026-09-11T02:38:30.264689
 url: "/cdr-researcher-census/researchers/yericho-berhanu-a5026221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 118 |
+| Citations | 125 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |

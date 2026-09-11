@@ -1,7 +1,7 @@
 ---
 title: "Zijun Yi"
 description: "Zijun Yi is a Mid-career Biochar researcher at University of Jinan in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.035869
+date: 2026-09-11T02:38:29.992506
 url: "/cdr-researcher-census/researchers/zijun-yi-a5050511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 186 |
+| Citations | 192 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

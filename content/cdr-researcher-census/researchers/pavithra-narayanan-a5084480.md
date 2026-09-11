@@ -1,7 +1,7 @@
 ---
 title: "Pavithra Narayanan"
-description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.025058
+description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.944378
 url: "/cdr-researcher-census/researchers/pavithra-narayanan-a5084480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 189 |
+| h-index | 9 |
+| Citations | 207 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Distribution and Transport of CO<sub>2</sub> in Hyperbranched Poly(ethylenimine)-Loaded MCM-41: A Molecular Dynamics Simulation Approach** (2023)
-   16 citations
+   20 citations
 
 2. **Self-Supported Branched Poly(ethylenimine) Monoliths from Inverse Template 3D Printing for Direct Air Capture** (2025)
    15 citations
 
-3. **Sequential polymer infusion into solid substrates (SPISS): Impact of processing on sorbent CO2 adsorption properties** (2022)
-   10 citations
+3. **Alumina Incorporation in Self-Supported Poly(ethylenimine) Sorbents for Direct Air Capture** (2024)
+   12 citations
 
-4. **Alumina Incorporation in Self-Supported Poly(ethylenimine) Sorbents for Direct Air Capture** (2024)
-   9 citations
+4. **Sequential polymer infusion into solid substrates (SPISS): Impact of processing on sorbent CO2 adsorption properties** (2022)
+   10 citations
 
 5. **Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage** (2023)
    3 citations · BECCS

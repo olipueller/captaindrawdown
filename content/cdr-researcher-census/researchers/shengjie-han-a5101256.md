@@ -1,7 +1,7 @@
 ---
 title: "Shengjie Han"
-description: "Shengjie Han is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.715009
+description: "Shengjie Han is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.633163
 url: "/cdr-researcher-census/researchers/shengjie-han-a5101256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shengjie-han-a5101256/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "Hebei University of Technology"
   },
   "sameAs": "https://openalex.org/A5101256232"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shengjie Han**  
-Nanjing Forestry University · 🇨🇳 CN
+Hebei University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 319 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| h-index | 9 |
+| Citations | 353 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

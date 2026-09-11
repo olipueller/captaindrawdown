@@ -1,7 +1,7 @@
 ---
 title: "Daheng Wen"
-description: "Daheng Wen is a Mid-career General CDR researcher at Shanghai Research Institute of Chemical Industry in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.665605
+description: "Daheng Wen is a Mid-career General CDR researcher at Shanghai Research Institute of Chemical Industry in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.611694
 url: "/cdr-researcher-census/researchers/daheng-wen-a5006023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 354 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 369 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Directly Knitted Ruthenium Pincer Complexes with Enhanced Activity as Recyclable Single-Site Catalysts for Hydrogenation of CO <sub>2</sub> to Methanol** (2022)
-   23 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

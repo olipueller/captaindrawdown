@@ -1,7 +1,7 @@
 ---
 title: "Zhenbang Hao"
-description: "Zhenbang Hao is a Mid-career Soil Carbon researcher at Zhangzhou Vocational and Technical College in CN. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.349644
+description: "Zhenbang Hao is a Mid-career Soil Carbon researcher at Zhangzhou Vocational and Technical College in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.297100
 url: "/cdr-researcher-census/researchers/zhenbang-hao-a5070039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 815 |
+| h-index | 15 |
+| Citations | 845 |
 | Publications | 55 |
 | CDR Focus | 10.9% |
 | Trajectory | Exiting |

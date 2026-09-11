@@ -1,7 +1,7 @@
 ---
 title: "Ketija Bumbiere"
 description: "Ketija Bumbiere is a Mid-career Soil Carbon researcher at Riga Technical University in LV. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.382241
+date: 2026-09-11T02:38:30.351555
 url: "/cdr-researcher-census/researchers/ketija-bumbiere-a5038600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 107 |
+| Citations | 108 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

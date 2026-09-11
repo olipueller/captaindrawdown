@@ -1,7 +1,7 @@
 ---
 title: "Kazumasa Okamura"
 description: "Kazumasa Okamura is a Senior DAC researcher at Toyota Motor Corporation (Japan) in JP. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.653465
+date: 2026-09-11T02:38:29.617312
 url: "/cdr-researcher-census/researchers/kazumasa-okamura-a5051981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 363 |
+| Citations | 364 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Continuous CO synthesis from ambient air by integrating direct air capture and direct carbonate reduction using an alkaline CO2-absorbing electrolyte operating at room temperature** (2024)
-   2 citations
+   3 citations
 
 2. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
    0 citations · DAC

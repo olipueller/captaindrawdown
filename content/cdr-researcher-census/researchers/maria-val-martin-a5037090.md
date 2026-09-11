@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
-description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 166 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.081349
+description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 173 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.032964
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 7,454 |
-| Publications | 166 |
-| CDR Focus | 7.2% |
-| Trajectory | Declining |
+| Citations | 7,619 |
+| Publications | 173 |
+| CDR Focus | 7.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   162 citations · Enhanced Weathering
+   164 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   134 citations
+   146 citations
 
 3. **Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits** (2024)
-   104 citations · General CDR
+   108 citations · General CDR
 
 4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   55 citations · Enhanced Weathering
+   59 citations · Enhanced Weathering
 
-5. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
+5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    16 citations · Enhanced Weathering
 
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   15 citations · Enhanced Weathering
+6. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
+   16 citations · Enhanced Weathering
 
 7. **Global and regional hydrological impacts of global forest expansion** (2024)
-   12 citations · General CDR
+   15 citations · General CDR
 
 8. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
    5 citations

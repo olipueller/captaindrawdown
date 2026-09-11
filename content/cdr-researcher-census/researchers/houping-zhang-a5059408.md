@@ -1,7 +1,7 @@
 ---
 title: "Houping Zhang"
 description: "Houping Zhang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783188
+date: 2026-09-11T02:38:29.723151
 url: "/cdr-researcher-census/researchers/houping-zhang-a5059408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 281 |
+| Citations | 297 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

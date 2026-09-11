@@ -1,7 +1,7 @@
 ---
 title: "Shiwen Hu"
 description: "Shiwen Hu is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.990068
+date: 2026-09-11T02:38:29.907388
 url: "/cdr-researcher-census/researchers/shiwen-hu-a5102862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 200 |
+| Citations | 215 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sequestration of Labile Organic Matter by Secondary Fe Minerals from Chemodenitrification: Insight into Mineral Protection Mechanisms** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Quantifying contributions of iron (oxyhydr)oxides and organic matter to chromium dynamics in paddy soils** (2025)
    2 citations · Soil Carbon

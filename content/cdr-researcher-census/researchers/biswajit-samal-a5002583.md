@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Samal"
-description: "Biswajit Samal is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.196522
+description: "Biswajit Samal is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.144587
 url: "/cdr-researcher-census/researchers/biswajit-samal-a5002583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,712 |
+| h-index | 15 |
+| Citations | 1,762 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of Rice Straw-derived Biochar-Bentonite Composite and its Application for in situ Sequestration of Ammonium and Phosphate Ions in the Degraded Mine Soil** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Biochar for sustainable agriculture: Prospects and implications** (2021)
    7 citations · Biochar

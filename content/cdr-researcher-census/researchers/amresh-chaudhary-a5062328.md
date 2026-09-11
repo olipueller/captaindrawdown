@@ -1,7 +1,7 @@
 ---
 title: "Amresh Chaudhary"
 description: "Amresh Chaudhary is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.073478
+date: 2026-09-11T02:38:30.020401
 url: "/cdr-researcher-census/researchers/amresh-chaudhary-a5062328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 175 |
+| Citations | 184 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil organic carbon pools after 15 years of Conservation Agriculture in rice (Oryza sativa)-wheat (Triticum aestivum) cropping system of eastern Indo-Gangetic plains** (2023)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Emerging Perspectives in Cropping System–based Nutrient Management: A Scientometric Analysis** (2025)
    0 citations

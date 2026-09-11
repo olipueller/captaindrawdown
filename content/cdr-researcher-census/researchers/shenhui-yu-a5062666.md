@@ -1,7 +1,7 @@
 ---
 title: "Shenhui Yu"
-description: "Shenhui Yu is a Senior Soil Carbon researcher at State Key Laboratory of Chemical Engineering in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.897376
+description: "Shenhui Yu is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.851020
 url: "/cdr-researcher-census/researchers/shenhui-yu-a5062666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shenhui-yu-a5062666/",
   "affiliation": {
     "@type": "Organization",
-    "name": "State Key Laboratory of Chemical Engineering"
+    "name": "Guizhou Normal University"
   },
   "sameAs": "https://openalex.org/A5062666415"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shenhui Yu**  
-State Key Laboratory of Chemical Engineering · 🇨🇳 CN
+Guizhou Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 227 |
+| Citations | 236 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

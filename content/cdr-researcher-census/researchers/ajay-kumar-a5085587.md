@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar"
-description: "Ajay Kumar is an Early-career Soil Carbon researcher at National Bureau of Plant Genetic Resources in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.929218
+description: "Ajay Kumar is an Early-career Soil Carbon researcher at ICAR-National Bureau Of Plant Genetic Resources in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.867664
 url: "/cdr-researcher-census/researchers/ajay-kumar-a5085587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ajay-kumar-a5085587/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Bureau of Plant Genetic Resources"
+    "name": "ICAR-National Bureau Of Plant Genetic Resources"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6805-8696",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ajay Kumar**  
-National Bureau of Plant Genetic Resources · 🇮🇳 IN
+ICAR-National Bureau Of Plant Genetic Resources · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 215 |
+| Citations | 229 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Microbiome: Diversity, Benefits and Interactions with Plants** (2023)
-   187 citations · Soil Carbon
+   195 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Changduo Sun"
 description: "Changduo Sun is a Mid-career Biochar researcher at Lanzhou University in CN. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.751965
+date: 2026-09-11T02:38:29.707204
 url: "/cdr-researcher-census/researchers/changduo-sun-a5046175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 297 |
+| Citations | 305 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

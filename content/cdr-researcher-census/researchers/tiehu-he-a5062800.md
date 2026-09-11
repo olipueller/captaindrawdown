@@ -1,7 +1,7 @@
 ---
 title: "Tiehu He"
-description: "Tiehu He is a Mid-career Soil Carbon researcher at Institute of soil science, Chinese academy of Sciences in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.224143
+description: "Tiehu He is a Mid-career Soil Carbon researcher at Institute of soil science, Chinese academy of Sciences in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.171387
 url: "/cdr-researcher-census/researchers/tiehu-he-a5062800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,437 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 18 |
+| Citations | 1,485 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

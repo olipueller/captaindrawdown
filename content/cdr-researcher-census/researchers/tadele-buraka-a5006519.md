@@ -1,7 +1,7 @@
 ---
 title: "Tadele Buraka"
 description: "Tadele Buraka is a Mid-career Soil Carbon researcher at Addis Ababa University in ET. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.208630
+date: 2026-09-11T02:38:30.160210
 url: "/cdr-researcher-census/researchers/tadele-buraka-a5006519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 140 |
+| Citations | 146 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon and its' stock potential in different land-use types along slope position in Coka watershed, Southern Ethiopia** (2022)
-   46 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 ## External Profiles
 

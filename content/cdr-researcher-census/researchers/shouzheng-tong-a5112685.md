@@ -1,7 +1,7 @@
 ---
 title: "Shouzheng Tong"
-description: "Shouzheng Tong is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 106 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.188110
+description: "Shouzheng Tong is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 108 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.134564
 url: "/cdr-researcher-census/researchers/shouzheng-tong-a5112685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 1,811 |
-| Publications | 106 |
-| CDR Focus | 5.7% |
+| Citations | 1,893 |
+| Publications | 108 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,22 +50,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Evolution of Potential Spatial Distribution Patterns of Carex Tussock Wetlands Under Climate Change Scenarios, Northeast China** (2022)
    16 citations
 
-2. **Investigating the compensatory effect of legume reseeding on soil organic carbon loss under tillage management in a saline-alkali grassland in the semi-arid region** (2024)
+2. **Wetland restoration enhances soil carbon sequestration in lake ecosystems: Integrating multi-source remote sensing and optimized ensemble machine learning to map soil organic carbon density** (2025)
    8 citations · Soil Carbon
 
-3. **Wetland restoration enhances soil carbon sequestration in lake ecosystems: Integrating multi-source remote sensing and optimized ensemble machine learning to map soil organic carbon density** (2025)
-   7 citations · Soil Carbon
+3. **Investigating the compensatory effect of legume reseeding on soil organic carbon loss under tillage management in a saline-alkali grassland in the semi-arid region** (2024)
+   8 citations · Soil Carbon
 
-4. **Integrated controls of soil and vegetation dynamics on soil organic and inorganic carbon covariation in grazed alpine wetlands** (2025)
+4. **Quadratic increase of root carbon sequestration in grazing exclusion grasslands in semi-arid regions: Integrative roles of dominant species root traits and soil properties** (2026)
    1 citations · Soil Carbon
 
-5. **Plant community root traits outweigh target species in mediating soil carbon and nitrogen storage across grazing-exclusion chronosequences in semi-arid grasslands** (2025)
+5. **Integrated controls of soil and vegetation dynamics on soil organic and inorganic carbon covariation in grazed alpine wetlands** (2025)
    1 citations · Soil Carbon
 
-6. **Independent pathways of soil and vegetation govern soil organic carbon under grazing in alpine wetlands: Implications for restoration of a critical carbon sink** (2026)
-   0 citations · Soil Carbon
+6. **Plant community root traits outweigh target species in mediating soil carbon and nitrogen storage across grazing-exclusion chronosequences in semi-arid grasslands** (2025)
+   1 citations · Soil Carbon
 
-7. **Quadratic increase of root carbon sequestration in grazing exclusion grasslands in semi-arid regions: Integrative roles of dominant species root traits and soil properties** (2026)
+7. **Independent pathways of soil and vegetation govern soil organic carbon under grazing in alpine wetlands: Implications for restoration of a critical carbon sink** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

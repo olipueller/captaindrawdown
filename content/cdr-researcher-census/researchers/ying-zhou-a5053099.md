@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhou"
-description: "Ying Zhou is a Mid-career Enhanced Weathering researcher at Johannes Gutenberg University Mainz in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.392711
+description: "Ying Zhou is a Mid-career Enhanced Weathering researcher at University College London in GB. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.338590
 url: "/cdr-researcher-census/researchers/ying-zhou-a5053099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ying-zhou-a5053099/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Johannes Gutenberg University Mainz"
+    "name": "University College London"
   },
   "sameAs": "https://openalex.org/A5053099046"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ying Zhou**  
-Johannes Gutenberg University Mainz · 🇩🇪 DE
+University College London · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 705 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 734 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

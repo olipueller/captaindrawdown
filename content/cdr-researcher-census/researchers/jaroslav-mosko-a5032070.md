@@ -1,7 +1,7 @@
 ---
 title: "Jaroslav Moško"
-description: "Jaroslav Moško is a Mid-career Biochar researcher at University of Chemistry and Technology, Prague in CZ. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.400850
+description: "Jaroslav Moško is a Mid-career Biochar researcher at University of Chemistry and Technology, Prague in CZ. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.343628
 url: "/cdr-researcher-census/researchers/jaroslav-mosko-a5032070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 689 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 721 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Co-pyrolysis of municipal sewage sludge with oak bark and hemp hurd to tailor biochar stability, carbon sequestration and heavy metal immobilization** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Improved Biogas Production Versus Increased Ash Content During Anaerobic Digestion with Digested Sludge-Derived Biochar Dosing** (2026)
    0 citations · Biochar

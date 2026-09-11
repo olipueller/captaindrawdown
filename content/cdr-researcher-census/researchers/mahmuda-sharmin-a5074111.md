@@ -1,7 +1,7 @@
 ---
 title: "Mahmuda Sharmin"
-description: "Mahmuda Sharmin is a Mid-career General CDR researcher at Shahjalal University of Science and Technology in BD. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060663
+description: "Mahmuda Sharmin is a Mid-career General CDR researcher at Shahjalal University of Science and Technology in BD. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.955269
 url: "/cdr-researcher-census/researchers/mahmuda-sharmin-a5074111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 179 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 203 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

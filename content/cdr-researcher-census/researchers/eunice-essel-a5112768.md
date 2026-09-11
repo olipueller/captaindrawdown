@@ -1,7 +1,7 @@
 ---
 title: "Eunice Essel"
-description: "Eunice Essel is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.840574
+description: "Eunice Essel is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.805440
 url: "/cdr-researcher-census/researchers/eunice-essel-a5112768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Eunice Essel",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eunice-essel-a5112768/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Gansu Agricultural University"
+  },
   "sameAs": "https://openalex.org/A5112768867"
 }
 </script>
 
 ## Profile
 
-**Eunice Essel**
+**Eunice Essel**  
+Gansu Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 252 |
+| Citations | 256 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

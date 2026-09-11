@@ -1,7 +1,7 @@
 ---
 title: "Antoine Couëdel"
-description: "Antoine Couëdel is a Mid-career Soil Carbon researcher at CIRAD in FR. With 72 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.334860
+description: "Antoine Couëdel is a Mid-career Soil Carbon researcher at CIRAD in FR. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.280131
 url: "/cdr-researcher-census/researchers/antoine-couedel-a5055074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 859 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| h-index | 16 |
+| Citations | 901 |
+| Publications | 75 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The overlooked effects of environmental impacts on root:shoot ratio in experiments and soil-crop models** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Assessing the performance of DayCent and STICS in simulating soil carbon and maize yield responses to contrasting organic resources in sub-Saharan Africa** (2026)
    0 citations · Soil Carbon

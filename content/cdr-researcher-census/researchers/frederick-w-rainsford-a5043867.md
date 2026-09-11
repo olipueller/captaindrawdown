@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
 description: "Frederick W. Rainsford is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.753687
+date: 2026-09-11T02:38:29.708181
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 297 |
+| Citations | 305 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Farm‐scale Natural Capital Accounting: Unlocking the potential of natural capital to support sustainable agriculture** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 2. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
    0 citations

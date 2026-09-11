@@ -1,7 +1,7 @@
 ---
 title: "Mahran Sadiq"
 description: "Mahran Sadiq is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.782626
+date: 2026-09-11T02:38:29.719809
 url: "/cdr-researcher-census/researchers/mahran-sadiq-a5013929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 281 |
+| Citations | 298 |
 | Publications | 16 |
 | CDR Focus | 25.0% |
 | Trajectory | Declining |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil nitrogen and carbon storages and carbon pool management index under sustainable conservation tillage strategy** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Exploring the Potential of Straw and Biochar Application on Soil Quality Indicators and Crop Yield in Semi-arid Regions** (2024)
    26 citations · Biochar
 
 3. **Soil Bulk Density, Aggregates, Carbon Stabilization, Nutrients and Vegetation Traits as Affected by Manure Gradients Regimes Under Alpine Meadows of Qinghai–Tibetan Plateau Ecosystem** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Effects of land use patterns on soil properties and nitrous oxide flux on a semi-arid environmental conditions of Loess Plateau China** (2024)
    8 citations · Soil Carbon

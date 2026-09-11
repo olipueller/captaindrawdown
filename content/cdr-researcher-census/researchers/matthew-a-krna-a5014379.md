@@ -1,7 +1,7 @@
 ---
 title: "Matthew A. Krna"
 description: "Matthew A. Krna is a Senior Soil Carbon researcher at Christchurch Clinical Studies Trust in NZ. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.054761
+date: 2026-09-11T02:38:30.025673
 url: "/cdr-researcher-census/researchers/matthew-a-krna-a5014379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 181 |
+| Citations | 182 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

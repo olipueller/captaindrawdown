@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Aguilar‐Trigueros"
-description: "Carlos A. Aguilar‐Trigueros is a Senior Soil Carbon researcher at University of Jyväskylä in FI. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.112307
+description: "Carlos A. Aguilar‐Trigueros is a Senior Soil Carbon researcher at University of Jyväskylä in FI. With 74 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.060699
 url: "/cdr-researcher-census/researchers/carlos-a-aguilartrigueros-a5072627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 3,973 |
-| Publications | 71 |
-| CDR Focus | 5.6% |
-| Trajectory | Declining |
+| h-index | 27 |
+| Citations | 4,115 |
+| Publications | 74 |
+| CDR Focus | 6.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Progressing beyond colonization strategies to understand arbuscular mycorrhizal fungal life history** (2024)
-   27 citations · General CDR
+   29 citations · General CDR
 
 2. **Herbivory‐driven shifts in arbuscular mycorrhizal fungal community assembly: increased fungal competition and plant phosphorus benefits** (2023)
-   17 citations
+   19 citations
 
 3. **Integrating soil microbial communities into fundamental ecology, conservation, and restoration: examples from Australia** (2023)
    6 citations · Soil Carbon

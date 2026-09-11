@@ -1,7 +1,7 @@
 ---
 title: "Rizki Maulana Ishaq"
-description: "Rizki Maulana Ishaq is a Mid-career Soil Carbon researcher at University of Brawijaya in ID. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.201134
+description: "Rizki Maulana Ishaq is a Mid-career Soil Carbon researcher at University of Brawijaya in ID. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.156155
 url: "/cdr-researcher-census/researchers/rizki-maulana-ishaq-a5065326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 142 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 147 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

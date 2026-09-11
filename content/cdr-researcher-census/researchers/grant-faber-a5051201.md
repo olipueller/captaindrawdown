@@ -1,7 +1,7 @@
 ---
 title: "Grant Faber"
-description: "Grant Faber is a Mid-career General CDR researcher at University of Michigan–Ann Arbor in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.860715
+description: "Grant Faber is a Mid-career General CDR researcher at University of Michigan in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.814252
 url: "/cdr-researcher-census/researchers/grant-faber-a5051201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/grant-faber-a5051201/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Michigan\u2013Ann Arbor"
+    "name": "University of Michigan"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2546-2872",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Grant Faber**  
-University of Michigan–Ann Arbor · 🇺🇸 US
+University of Michigan · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 241 |
+| Citations | 251 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life Cycle and Techno-Economic Assessment Templates for Emerging Carbon Management Technologies** (2021)
-   23 citations · DAC
+   25 citations · DAC
 
 2. **AssessCCUS: An Integrated Approach for Aggregating Resources to Enable Techno-Economic and Life Cycle Assessment of Carbon Management Technologies** (2022)
    5 citations · General CDR

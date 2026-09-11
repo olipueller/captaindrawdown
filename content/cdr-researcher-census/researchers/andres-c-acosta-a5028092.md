@@ -1,7 +1,7 @@
 ---
 title: "Andrés C. Acosta"
-description: "Andrés C. Acosta is a Senior Biochar researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.160284
+description: "Andrés C. Acosta is a Senior Biochar researcher. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.112136
 url: "/cdr-researcher-census/researchers/andres-c-acosta-a5028092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 151 |
-| Publications | 15 |
-| CDR Focus | 26.7% |
+| Citations | 157 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Application Potential of Wastewater Fertigated Short Rotation Coppice Systems in a Selected Region (Aligarh, UP, India)** (2023)
    3 citations · Soil Carbon

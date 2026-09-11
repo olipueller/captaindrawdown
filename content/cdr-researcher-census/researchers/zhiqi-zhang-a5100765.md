@@ -1,7 +1,7 @@
 ---
 title: "Zhiqi Zhang"
 description: "Zhiqi Zhang is a Mid-career Soil Carbon researcher at Tongji University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.408096
+date: 2026-09-11T02:38:29.360708
 url: "/cdr-researcher-census/researchers/zhiqi-zhang-a5100765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 672 |
+| Citations | 685 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

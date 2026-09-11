@@ -1,7 +1,7 @@
 ---
 title: "Peter Gibba"
 description: "Peter Gibba is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.172109
+date: 2026-09-11T02:38:29.118216
 url: "/cdr-researcher-census/researchers/peter-gibba-a5080296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 2,046 |
+| Citations | 2,147 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

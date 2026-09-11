@@ -1,7 +1,7 @@
 ---
 title: "Weibo Qiao"
-description: "Weibo Qiao is a Mid-career General CDR researcher at Beijing Research Institute of Mechanical and Electrical Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.727217
+description: "Weibo Qiao is a Mid-career General CDR researcher at Beijing Research Institute of Mechanical and Electrical Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.681875
 url: "/cdr-researcher-census/researchers/weibo-qiao-a5040584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 312 |
+| h-index | 10 |
+| Citations | 319 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

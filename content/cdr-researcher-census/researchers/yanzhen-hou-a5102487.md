@@ -1,7 +1,7 @@
 ---
 title: "Yanzhen Hou"
 description: "Yanzhen Hou is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.884960
+date: 2026-09-11T02:38:29.827908
 url: "/cdr-researcher-census/researchers/yanzhen-hou-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 232 |
+| Citations | 246 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Alpine meadow and alpine steppe plant-soil network in Qinghai-Tibet Plateau, China** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Geoffrey O’Brien"
 description: "Geoffrey O’Brien is a Mid-career DAC researcher at CO2CRC in AU. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.345196
+date: 2026-09-11T02:38:30.322563
 url: "/cdr-researcher-census/researchers/geoffrey-obrien-a5112202/"
 layout: "researcher"
 hiddenInHomeList: true

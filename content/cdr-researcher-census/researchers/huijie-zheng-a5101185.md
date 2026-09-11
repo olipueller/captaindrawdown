@@ -1,7 +1,7 @@
 ---
 title: "Huijie Zheng"
-description: "Huijie Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.700641
+description: "Huijie Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.636499
 url: "/cdr-researcher-census/researchers/huijie-zheng-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 330 |
+| h-index | 7 |
+| Citations | 350 |
 | Publications | 10 |
 | CDR Focus | 30.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Field-aged biochar enhances soil organic carbon by increasing recalcitrant organic carbon fractions and making microbial communities more conducive to carbon sequestration** (2022)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
    41 citations · Soil Carbon

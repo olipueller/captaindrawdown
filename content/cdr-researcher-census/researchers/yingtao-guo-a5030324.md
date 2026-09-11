@@ -1,7 +1,7 @@
 ---
 title: "Yingtao Guo"
 description: "Yingtao Guo is a Mid-career Biochar researcher at Guangxi University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.709556
+date: 2026-09-11T02:38:29.666999
 url: "/cdr-researcher-census/researchers/yingtao-guo-a5030324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 324 |
+| Citations | 329 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of highly functionalised biochar from hydrochloric acid activated bagasse for the efficient removal of metal ions** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

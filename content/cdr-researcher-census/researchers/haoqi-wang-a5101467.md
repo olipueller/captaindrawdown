@@ -1,7 +1,7 @@
 ---
 title: "Haoqi Wang"
-description: "Haoqi Wang is a Mid-career BECCS researcher at The University of British Columbia in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.594444
+description: "Haoqi Wang is a Mid-career BECCS researcher at The University of British Columbia in CA. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.521969
 url: "/cdr-researcher-census/researchers/haoqi-wang-a5101467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 413 |
+| h-index | 14 |
+| Citations | 446 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

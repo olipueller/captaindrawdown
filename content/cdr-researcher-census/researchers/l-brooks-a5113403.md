@@ -1,7 +1,7 @@
 ---
 title: "L Brooks"
 description: "L Brooks is a Senior Enhanced Weathering researcher at Brookhaven National Laboratory in US. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.435405
+date: 2026-09-11T02:38:29.395080
 url: "/cdr-researcher-census/researchers/l-brooks-a5113403/"
 layout: "researcher"
 hiddenInHomeList: true

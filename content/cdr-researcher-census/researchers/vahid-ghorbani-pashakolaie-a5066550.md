@@ -1,7 +1,7 @@
 ---
 title: "Vahid Ghorbani Pashakolaie"
-description: "Vahid Ghorbani Pashakolaie is a Mid-career BECCS researcher at Teesside University in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.340186
+description: "Vahid Ghorbani Pashakolaie is a Mid-career BECCS researcher at Teesside University in GB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.250989
 url: "/cdr-researcher-census/researchers/vahid-ghorbani-pashakolaie-a5066550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 114 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 127 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unlocking BECCS viability through monetizing societal benefits by techno-socio-economic assessment** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Joanna Sitarz"
-description: "Joanna Sitarz is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256449
+description: "Joanna Sitarz is a Mid-career BECCS researcher at Technische Universität Berlin in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.171954
 url: "/cdr-researcher-census/researchers/joanna-sitarz-a5044178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joanna-sitarz-a5044178/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Potsdam Institute for Climate Impact Research"
+    "name": "Technische Universit\u00e4t Berlin"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8060-1097",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Joanna Sitarz**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
+Technische Universität Berlin · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
+| Citations | 143 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

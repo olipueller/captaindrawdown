@@ -1,7 +1,7 @@
 ---
 title: "Andrew D. Giunta"
-description: "Andrew D. Giunta is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.984240
+description: "Andrew D. Giunta is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.959188
 url: "/cdr-researcher-census/researchers/andrew-d-giunta-a5053238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 5 |
 | Citations | 202 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

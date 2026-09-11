@@ -1,7 +1,7 @@
 ---
 title: "Jie Shen"
-description: "Jie Shen is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.474589
+description: "Jie Shen is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.427763
 url: "/cdr-researcher-census/researchers/jie-shen-a5004762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 554 |
+| h-index | 12 |
+| Citations | 568 |
 | Publications | 49 |
 | CDR Focus | 12.2% |
 | Trajectory | Growing |
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Soil Carbon
 
 2. **Nutrient limitations drive microbial carbon use efficiency and soil carbon sequestration in grassland restoration** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Impact of suburban cropland intensification and afforestation on microbial biodiversity and C sequestration in paddy soils** (2023)
    6 citations · Soil Carbon
 
-4. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
-   2 citations · Soil Carbon
+4. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
+   3 citations
 
-5. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
-   2 citations
+5. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
+   2 citations · Soil Carbon
 
 6. **Deciphering moisture-driven divergence in soil carbon limitation via microbial necromass dynamics across arid versus humid alpine grassland restoration chronosequences** (2025)
    2 citations · Soil Carbon

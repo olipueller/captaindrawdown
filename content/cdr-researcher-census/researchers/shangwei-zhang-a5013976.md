@@ -1,7 +1,7 @@
 ---
 title: "Shangwei Zhang"
-description: "Shangwei Zhang is a Senior Biochar researcher at Beijing Normal University in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.340250
+description: "Shangwei Zhang is a Senior Biochar researcher at Beijing Normal University in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.288391
 url: "/cdr-researcher-census/researchers/shangwei-zhang-a5013976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 846 |
-| Publications | 40 |
-| CDR Focus | 5.0% |
+| Citations | 873 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Synergies of hydrated electron, carbon dioxide anions radicals and hydroxyl radicals for enhancing the decomposition and defluorination of perfluorohexanesulfonate** (2025)
-   4 citations
+   6 citations
 
 2. **Photo-Catalysis of Biochar Anchored Fe2sio4/Zn2sio4 Composite Nanoparticles for Degradation of Neonicotinoid** (2025)
    0 citations · Biochar

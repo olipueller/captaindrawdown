@@ -1,7 +1,7 @@
 ---
 title: "Qianglin Li"
-description: "Qianglin Li is a Mid-career Biochar researcher at Chengdu Technological University. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.234820
+description: "Qianglin Li is a Mid-career Biochar researcher at Chengdu Technological University. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.181585
 url: "/cdr-researcher-census/researchers/qianglin-li-a5016762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 134 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 141 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Activating peroxymonosulfate by high nitrogen-doped biochar from lotus pollen for efficient degradation of organic pollutants from water: Performance, kinetics and mechanism investigation** (2024)
-   41 citations · Biochar
+   44 citations · Biochar
 
 ## External Profiles
 

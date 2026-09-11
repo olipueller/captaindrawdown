@@ -1,7 +1,7 @@
 ---
 title: "Van Minh Dinh"
 description: "Van Minh Dinh is a Mid-career Biochar researcher at Centre for Biomedical Engineering and Physics in SE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.655562
+date: 2026-09-11T02:38:29.604726
 url: "/cdr-researcher-census/researchers/van-minh-dinh-a5044864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 362 |
+| Citations | 374 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media** (2022)
-   180 citations · Biochar
+   182 citations · Biochar
 
 2. **Hardwood spent mushroom substrate–based activated biochar as a sustainable bioresource for removal of emerging pollutants from wastewater** (2022)
-   64 citations · Biochar
+   65 citations · Biochar
 
 ## External Profiles
 

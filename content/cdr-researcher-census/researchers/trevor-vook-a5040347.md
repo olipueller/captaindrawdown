@@ -1,7 +1,7 @@
 ---
 title: "Trevor Vook"
 description: "Trevor Vook is an Early-career Biochar researcher at North Carolina State University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374095
+date: 2026-09-11T02:38:30.291609
 url: "/cdr-researcher-census/researchers/trevor-vook-a5040347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
+| Citations | 119 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

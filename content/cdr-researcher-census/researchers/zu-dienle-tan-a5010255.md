@@ -1,7 +1,7 @@
 ---
 title: "Zu Dienle Tan"
-description: "Zu Dienle Tan is a Mid-career Soil Carbon researcher at Earth Observatory of Singapore in SG. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.080679
+description: "Zu Dienle Tan is a Mid-career Soil Carbon researcher at Nanyang Technological University in SG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.013761
 url: "/cdr-researcher-census/researchers/zu-dienle-tan-a5010255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zu-dienle-tan-a5010255/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Earth Observatory of Singapore"
+    "name": "Nanyang Technological University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5854-6987",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zu Dienle Tan**  
-Earth Observatory of Singapore · 🇸🇬 SG
+Nanyang Technological University · 🇸🇬 SG
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 173 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 186 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Rafalska"
-description: "Adrianna Rafalska is an Early-career Soil Carbon researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417883
+description: "Adrianna Rafalska is an Early-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.334434
 url: "/cdr-researcher-census/researchers/adrianna-rafalska-a5008789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Adrianna Rafalska",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adrianna-rafalska-a5008789/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Agrophysics, Polish Academy of Sciences"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-5396-7691",
     "https://openalex.org/A5008789149"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Adrianna Rafalska**
+**Adrianna Rafalska**  
+Institute of Agrophysics, Polish Academy of Sciences ·  PL
 
 **Career Stage:** Early-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 101 |
+| Citations | 111 |
 | Publications | 5 |
 | CDR Focus | 60.0% |
 | Trajectory | Stable |
@@ -49,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **How Can Litter Modify the Fluxes of CO2 and CH4 from Forest Soils? A Mini-Review** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **Temperature sensitivity of respiration in biochar-amended soils with different textures, moisture levels and fertilizer treatments** (2026)
    0 citations · Biochar

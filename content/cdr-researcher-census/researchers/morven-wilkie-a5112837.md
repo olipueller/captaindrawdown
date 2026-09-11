@@ -1,7 +1,7 @@
 ---
 title: "Morven Wilkie"
 description: "Morven Wilkie is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.363344
+date: 2026-09-11T02:38:29.320090
 url: "/cdr-researcher-census/researchers/morven-wilkie-a5112837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 778 |
+| Citations | 783 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Growing |

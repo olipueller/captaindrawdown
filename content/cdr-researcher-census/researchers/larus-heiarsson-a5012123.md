@@ -1,7 +1,7 @@
 ---
 title: "Lárus Heiðarsson"
-description: "Lárus Heiðarsson is an Early-career Soil Carbon researcher. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.395698
+description: "Lárus Heiðarsson is an Early-career Soil Carbon researcher at Reykjavík University in IS. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.340701
 url: "/cdr-researcher-census/researchers/larus-heiarsson-a5012123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "L\u00e1rus Hei\u00f0arsson",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/larus-heiarsson-a5012123/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Reykjav\u00edk University"
+  },
   "sameAs": "https://openalex.org/A5012123941"
 }
 </script>
 
 ## Profile
 
-**Lárus Heiðarsson**
+**Lárus Heiðarsson**  
+Reykjavík University ·  IS
 
 **Career Stage:** Early-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 105 |
+| Citations | 110 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

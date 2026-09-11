@@ -1,7 +1,7 @@
 ---
 title: "Ana Castro"
-description: "Ana Castro is a Mid-career Biochar researcher at Instituto Politecnico de Setubal in PT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.101460
+description: "Ana Castro is a Mid-career Biochar researcher at Universidade Politécnica de Setúbal in PT. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.069151
 url: "/cdr-researcher-census/researchers/ana-castro-a5110867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ana-castro-a5110867/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituto Politecnico de Setubal"
+    "name": "Universidade Polit\u00e9cnica de Set\u00fabal"
   },
   "sameAs": "https://openalex.org/A5110867348"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ana Castro**  
-Instituto Politecnico de Setubal · 🇵🇹 PT
+Universidade Politécnica de Setúbal · 🇵🇹 PT
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 167 |
-| Publications | 7 |
-| CDR Focus | 28.6% |
+| Citations | 170 |
+| Publications | 6 |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

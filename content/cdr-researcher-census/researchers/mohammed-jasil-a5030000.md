@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Jasil"
-description: "Mohammed Jasil is an Early-career General CDR researcher at New York University Abu Dhabi in AE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369968
+description: "Mohammed Jasil is an Early-career General CDR researcher at New York University Abu Dhabi in AE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.314690
 url: "/cdr-researcher-census/researchers/mohammed-jasil-a5030000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 109 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 115 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Solid State NMR for Mechanistic Exploration of CO<sub>2</sub> Adsorption on Amine-Based Silica Adsorbents** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

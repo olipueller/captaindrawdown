@@ -1,7 +1,7 @@
 ---
 title: "Emily C. Cooledge"
-description: "Emily C. Cooledge is a Mid-career Soil Carbon researcher at Bangor University in GB. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.530853
+description: "Emily C. Cooledge is a Mid-career Soil Carbon researcher at Bangor University in GB. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.467286
 url: "/cdr-researcher-census/researchers/emily-c-cooledge-a5082461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 476 |
-| Publications | 29 |
-| CDR Focus | 13.8% |
+| Citations | 505 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations
 
 3. **Agricultural management strategies to actively promote subsoil carbon storage** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Zinc-containing PVC microplastics reduce soil microbial activity and alter community structure in the plastisphere following UV-induced weathering** (2026)
    1 citations

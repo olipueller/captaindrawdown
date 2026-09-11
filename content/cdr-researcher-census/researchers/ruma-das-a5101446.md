@@ -1,7 +1,7 @@
 ---
 title: "Ruma Das"
 description: "Ruma Das is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning RC Kolkata in IN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337085
+date: 2026-09-11T02:38:29.285617
 url: "/cdr-researcher-census/researchers/ruma-das-a5101446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 855 |
+| Citations | 880 |
 | Publications | 50 |
 | CDR Focus | 14.0% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Development of unique soil organic carbon stability index under influence of integrated nutrient management in four major soil orders of India** (2024)
    8 citations · Soil Carbon

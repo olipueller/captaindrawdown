@@ -1,7 +1,7 @@
 ---
 title: "Paula Mirazo"
 description: "Paula Mirazo is a Mid-career General CDR researcher at Arizona State University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.329509
+date: 2026-09-11T02:38:30.202124
 url: "/cdr-researcher-census/researchers/paula-mirazo-a5092732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 116 |
+| Citations | 136 |
 | Publications | 9 |
 | CDR Focus | 44.4% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025** (2026)
    0 citations · General CDR

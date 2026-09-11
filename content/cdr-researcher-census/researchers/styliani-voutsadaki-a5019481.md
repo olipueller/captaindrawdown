@@ -1,7 +1,7 @@
 ---
 title: "Styliani Voutsadaki"
 description: "Styliani Voutsadaki is a Senior Biochar researcher at Technical University of Crete in GR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.988727
+date: 2026-09-11T02:38:29.957834
 url: "/cdr-researcher-census/researchers/styliani-voutsadaki-a5019481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 200 |
+| Citations | 202 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Impact of Sewage-Sludge- and Olive-Mill-Waste-Derived Biochar Amendments to Tomato Cultivation** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ming Cheng"
-description: "Ming Cheng is a Mid-career Soil Carbon researcher at Dalian University of Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.749641
+description: "Ming Cheng is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.669669
 url: "/cdr-researcher-census/researchers/ming-cheng-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ming-cheng-a5005142/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dalian University of Technology"
+    "name": "China Geological Survey"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7927-6338",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ming Cheng**  
-Dalian University of Technology · 🇨🇳 CN
+China Geological Survey · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 299 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 327 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

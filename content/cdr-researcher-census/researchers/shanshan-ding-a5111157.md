@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Ding"
-description: "Shanshan Ding is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852851
+description: "Shanshan Ding is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.805019
 url: "/cdr-researcher-census/researchers/shanshan-ding-a5111157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 245 |
+| h-index | 8 |
+| Citations | 256 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

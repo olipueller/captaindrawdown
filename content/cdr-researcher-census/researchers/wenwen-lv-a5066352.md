@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Lv"
-description: "Wenwen Lv is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.134540
+description: "Wenwen Lv is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.076003
 url: "/cdr-researcher-census/researchers/wenwen-lv-a5066352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 158 |
-| Publications | 12 |
-| CDR Focus | 25.0% |
+| Citations | 168 |
+| Publications | 14 |
+| CDR Focus | 28.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Impacts of Afforestation on Soil Organic Carbon Dynamics Along the Aridity Gradient in China** (2026)
    1 citations · Soil Carbon

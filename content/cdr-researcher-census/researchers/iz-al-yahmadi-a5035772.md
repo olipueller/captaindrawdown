@@ -1,7 +1,7 @@
 ---
 title: "I.Z. Al-Yahmadi"
-description: "I.Z. Al-Yahmadi is a Mid-career Biochar researcher at Sultan Qaboos University in OM. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.207683
+description: "I.Z. Al-Yahmadi is a Mid-career Biochar researcher at Sultan Qaboos University in OM. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.117408
 url: "/cdr-researcher-census/researchers/iz-al-yahmadi-a5035772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 140 |
+| h-index | 7 |
+| Citations | 156 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorising mesquite biochar as a sustainable adsorbent for wastewater treatment: a critical review** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

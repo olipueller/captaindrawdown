@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
-description: "Fan Yang is a Senior BECCS researcher at Center for Environmental Health in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.473490
+description: "Fan Yang is a Senior BECCS researcher at Southwest Petroleum University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.412563
 url: "/cdr-researcher-census/researchers/fan-yang-a5114833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fan-yang-a5114833/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Center for Environmental Health"
+    "name": "Southwest Petroleum University"
   },
   "sameAs": "https://openalex.org/A5114833559"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Fan Yang**  
-Center for Environmental Health · 🇺🇸 US
+Southwest Petroleum University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 555 |
-| Publications | 24 |
-| CDR Focus | 16.7% |
+| Citations | 589 |
+| Publications | 25 |
+| CDR Focus | 16.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel pathways: Emissions, costs and uncertainty** (2025)
-   64 citations · BECCS
+   75 citations · BECCS
 
 2. **Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions** (2021)
    28 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Abdelaziz Touzani"
 description: "Abdelaziz Touzani is a Mid-career Biochar researcher at Abdelmalek Essaâdi University in MA. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.335473
+date: 2026-09-11T02:38:30.255859
 url: "/cdr-researcher-census/researchers/abdelaziz-touzani-a5093992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 115 |
+| Citations | 126 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

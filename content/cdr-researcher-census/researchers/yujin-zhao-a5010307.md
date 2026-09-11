@@ -1,7 +1,7 @@
 ---
 title: "Yujin Zhao"
-description: "Yujin Zhao is a Senior Soil Carbon researcher at Institute of Botany in CN. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.282321
+description: "Yujin Zhao is a Senior Soil Carbon researcher at Institute of Botany in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.226609
 url: "/cdr-researcher-census/researchers/yujin-zhao-a5010307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,080 |
-| Publications | 57 |
-| CDR Focus | 5.3% |
+| h-index | 18 |
+| Citations | 1,125 |
+| Publications | 58 |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Plant compensatory growth and optimal grazing intensity of grasslands in northern China: A meta-analysis of grazing experiments** (2022)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **Collaborative restoration between vegetation and soil attributes in degraded grassland of different grassland types** (2024)
    7 citations · General CDR

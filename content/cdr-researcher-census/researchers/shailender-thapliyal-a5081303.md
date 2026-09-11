@@ -1,7 +1,7 @@
 ---
 title: "Shailender Thapliyal"
 description: "Shailender Thapliyal is a Mid-career Soil Carbon researcher at Uttaranchal University in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.182640
+date: 2026-09-11T02:38:30.094231
 url: "/cdr-researcher-census/researchers/shailender-thapliyal-a5081303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 146 |
+| Citations | 162 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Climate-smart Agriculture Solutions** (2024)
    0 citations · General CDR

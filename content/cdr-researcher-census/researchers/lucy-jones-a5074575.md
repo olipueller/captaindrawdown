@@ -1,7 +1,7 @@
 ---
 title: "Lucy Jones"
-description: "Lucy Jones is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.268895
+description: "Lucy Jones is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.179451
 url: "/cdr-researcher-census/researchers/lucy-jones-a5074575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 128 |
+| h-index | 7 |
+| Citations | 142 |
 | Publications | 25 |
-| CDR Focus | 24.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

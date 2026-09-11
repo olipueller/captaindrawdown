@@ -1,7 +1,7 @@
 ---
 title: "Junxia Wang"
-description: "Junxia Wang is a Senior Soil Carbon researcher at Tianjin University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.573401
+description: "Junxia Wang is a Senior Soil Carbon researcher at Hebei Medical University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.520988
 url: "/cdr-researcher-census/researchers/junxia-wang-a5060995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/junxia-wang-a5060995/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin University"
+    "name": "Hebei Medical University"
   },
   "sameAs": "https://openalex.org/A5060995487"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Junxia Wang**  
-Tianjin University · 🇨🇳 CN
+Hebei Medical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 434 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 448 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A study on ecological risk identification based on ecosystem service supply and demand in Xinjiang** (2025)
-   4 citations
+   5 citations
 
 2. **Ecological Risk Identification Based on the Supply and Demand Relationship of Ecosystem Services: A Case Study of the Xinjiang Uygur Autonomous Region** (2025)
    0 citations · General CDR

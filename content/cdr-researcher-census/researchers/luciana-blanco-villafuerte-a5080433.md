@@ -1,7 +1,7 @@
 ---
 title: "Luciana Blanco-Villafuerte"
-description: "Luciana Blanco-Villafuerte is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.324397
+description: "Luciana Blanco-Villafuerte is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.249023
 url: "/cdr-researcher-census/researchers/luciana-blanco-villafuerte-a5080433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 893 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 1,015 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   93 citations · General CDR
+   96 citations · General CDR
 
 ## External Profiles
 

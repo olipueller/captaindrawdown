@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
-description: "Christina Larkin is a Mid-career Enhanced Weathering researcher. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.436076
+description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at Universidade de Brasília in BR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.385015
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Christina Larkin",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christina-larkin-a5074798/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade de Bras\u00edlia"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-6420-0461",
     "https://openalex.org/A5074798724"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Christina Larkin**
+**Christina Larkin**  
+Universidade de Brasília · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 616 |
+| Citations | 632 |
 | Publications | 29 |
 | CDR Focus | 41.4% |
 | Trajectory | Stable |
@@ -46,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   71 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 2. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   53 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 3. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations

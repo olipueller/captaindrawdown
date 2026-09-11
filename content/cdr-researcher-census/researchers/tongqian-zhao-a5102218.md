@@ -1,7 +1,7 @@
 ---
 title: "Tongqian Zhao"
-description: "Tongqian Zhao is a Senior General CDR researcher at Henan Polytechnic University in CN. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188777
+description: "Tongqian Zhao is a Senior General CDR researcher at Henan Polytechnic University in CN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.152235
 url: "/cdr-researcher-census/researchers/tongqian-zhao-a5102218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 145 |
+| h-index | 7 |
+| Citations | 148 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **How to optimize ecological compensation to alleviate the ecosystem services supply and demand mismatch in the Luo River Basin?** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Drivers and dominant pathways for ecosystem service trade-offs in the Luo River Basin at the local optimal scale** (2026)
-   2 citations
+   3 citations
 
 3. **How to Optimize Ecological Compensation to Alleviate the Ecosystem Service Supply and Demand Mismatch in the Luo River Basin?** (2025)
    0 citations · General CDR

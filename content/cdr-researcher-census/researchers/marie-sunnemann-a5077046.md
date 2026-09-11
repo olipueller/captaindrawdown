@@ -1,7 +1,7 @@
 ---
 title: "Marie Sünnemann"
-description: "Marie Sünnemann is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.353691
+description: "Marie Sünnemann is a Mid-career Soil Carbon researcher. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.286476
 url: "/cdr-researcher-census/researchers/marie-sunnemann-a5077046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Marie S\u00fcnnemann",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marie-sunnemann-a5077046/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "German Centre for Integrative Biodiversity Research"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-5385-258X",
     "https://openalex.org/A5077046480"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Marie Sünnemann**  
-German Centre for Integrative Biodiversity Research · 🇩🇪 DE
+**Marie Sünnemann**
 
 **Career Stage:** Mid-career
 
@@ -42,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 802 |
+| h-index | 16 |
+| Citations | 878 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -54,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

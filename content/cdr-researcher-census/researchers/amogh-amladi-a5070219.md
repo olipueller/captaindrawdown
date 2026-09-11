@@ -1,7 +1,7 @@
 ---
 title: "Amogh Amladi"
-description: "Amogh Amladi is a Mid-career BECCS researcher at University of Groningen in NL. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.314671
+description: "Amogh Amladi is a Mid-career BECCS researcher at University of Groningen in NL. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.239826
 url: "/cdr-researcher-census/researchers/amogh-amladi-a5070219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 119 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 129 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

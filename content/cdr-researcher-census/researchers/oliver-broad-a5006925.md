@@ -1,7 +1,7 @@
 ---
 title: "Oliver Broad"
 description: "Oliver Broad is a Mid-career General CDR researcher at University College London in GB. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.219649
+date: 2026-09-11T02:38:29.170027
 url: "/cdr-researcher-census/researchers/oliver-broad-a5006925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,477 |
+| Citations | 1,503 |
 | Publications | 52 |
 | CDR Focus | 5.8% |
 | Trajectory | Growing |
@@ -51,12 +51,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy demand reduction options for meeting national zero-emission targets in the United Kingdom** (2022)
-   188 citations · General CDR
+   190 citations · General CDR
 
 2. **Energy demand reduction options for meeting national zero emission targets** (2022)
    2 citations · General CDR
 
-3. **Geological Net Zero as policy to address the non-inequivalence of carbon emissions and removals in meeting national zero-emission targets in the United Kingdom ** (2026)
+3. **Accounting for non-equivalence of carbon emissions and removals in meeting national net zero emissions targets in the United Kingdom** (2026)
+   0 citations
+
+4. **Geological Net Zero as policy to address the non-inequivalence of carbon emissions and removals in meeting national zero-emission targets in the United Kingdom ** (2026)
    0 citations · General CDR
 
 ## External Profiles

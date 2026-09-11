@@ -1,7 +1,7 @@
 ---
 title: "Wiepie Haagsma"
 description: "Wiepie Haagsma is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.571142
+date: 2026-09-11T02:38:29.512390
 url: "/cdr-researcher-census/researchers/wiepie-haagsma-a5053310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 435 |
+| Citations | 455 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   130 citations · Soil Carbon
+   133 citations · Soil Carbon
 
 2. **Effects of reduced tillage on (cash) crop yields, soil quality and other ecosystem services : results from 2009 till 2022 of the long term experiment BASIS, the Netherlands** (2023)
    2 citations · Soil Carbon

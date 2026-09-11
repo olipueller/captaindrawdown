@@ -1,7 +1,7 @@
 ---
 title: "Jinzhong Xu"
 description: "Jinzhong Xu is a Mid-career Soil Carbon researcher at Heilongjiang Provincial Institute of Hydraulic Research in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.879645
+date: 2026-09-11T02:38:29.816061
 url: "/cdr-researcher-census/researchers/jinzhong-xu-a5001123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 234 |
+| Citations | 251 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

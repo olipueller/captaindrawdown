@@ -1,7 +1,7 @@
 ---
 title: "Wazir Aitizaz Ahsan"
-description: "Wazir Aitizaz Ahsan is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.894693
+description: "Wazir Aitizaz Ahsan is a Mid-career Soil Carbon researcher at University of Science and Technology in YE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.815956
 url: "/cdr-researcher-census/researchers/wazir-aitizaz-ahsan-a5046510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Wazir Aitizaz Ahsan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wazir-aitizaz-ahsan-a5046510/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Science and Technology"
+  },
   "sameAs": "https://openalex.org/A5046510952"
 }
 </script>
 
 ## Profile
 
-**Wazir Aitizaz Ahsan**
+**Wazir Aitizaz Ahsan**  
+University of Science and Technology ·  YE
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 228 |
+| Citations | 251 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -43,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the impact of land use and land cover changes on soil properties and carbon sequestration in the upper Himalayan Region of Gilgit, Pakistan** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

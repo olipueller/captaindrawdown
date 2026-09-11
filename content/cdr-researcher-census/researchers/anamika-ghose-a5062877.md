@@ -1,7 +1,7 @@
 ---
 title: "Anamika Ghose"
 description: "Anamika Ghose is a Mid-career BECCS researcher at Agricultural Research Organization in IL. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.105052
+date: 2026-09-11T02:38:30.065907
 url: "/cdr-researcher-census/researchers/anamika-ghose-a5062877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 166 |
+| Citations | 171 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A review on environmental and socioeconomic perspectives of three promising biofuel plants Jatropha curcas, Pongamia pinnata and Mesua ferrea** (2021)
-   54 citations · BECCS
+   55 citations · BECCS
 
 ## External Profiles
 

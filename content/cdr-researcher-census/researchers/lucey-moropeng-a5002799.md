@@ -1,7 +1,7 @@
 ---
 title: "Lucey Moropeng"
 description: "Lucey Moropeng is a Mid-career General CDR researcher at Tshwane University of Technology in ZA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.472452
+date: 2026-09-11T02:38:29.426242
 url: "/cdr-researcher-census/researchers/lucey-moropeng-a5002799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 556 |
+| Citations | 570 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Review on Polymer Nanocomposites and Their Effective Applications in Membranes and Adsorbents for Water Treatment and Gas Separation** (2021)
-   209 citations · General CDR
+   212 citations · General CDR
 
 ## External Profiles
 

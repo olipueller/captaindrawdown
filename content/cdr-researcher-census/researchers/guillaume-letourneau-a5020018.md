@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Létourneau"
 description: "Guillaume Létourneau is a Senior Soil Carbon researcher at Université Laval in CA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.727050
+date: 2026-09-11T02:38:29.682764
 url: "/cdr-researcher-census/researchers/guillaume-letourneau-a5020018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 312 |
+| Citations | 318 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

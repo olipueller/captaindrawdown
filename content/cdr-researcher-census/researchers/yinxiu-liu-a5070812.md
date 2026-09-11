@@ -1,7 +1,7 @@
 ---
 title: "Yinxiu Liu"
-description: "Yinxiu Liu is an Early-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.418972
+description: "Yinxiu Liu is an Early-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.326552
 url: "/cdr-researcher-census/researchers/yinxiu-liu-a5070812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yinxiu-liu-a5070812/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Agricultural University"
+    "name": "Soil and Fertilizer Institute of Hunan Province"
   },
   "sameAs": "https://openalex.org/A5070812470"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yinxiu Liu**  
-Nanjing Agricultural University · 🇨🇳 CN
+Soil and Fertilizer Institute of Hunan Province · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 101 |
+| Citations | 113 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Zhu"
-description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.279192
+description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.218571
 url: "/cdr-researcher-census/researchers/xuefeng-zhu-a5101958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,094 |
-| Publications | 18 |
-| CDR Focus | 33.3% |
+| Citations | 1,176 |
+| Publications | 17 |
+| CDR Focus | 35.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The soil Microbial Carbon Pump as a new concept for terrestrial carbon sequestration** (2021)
-   175 citations · Soil Carbon
+   179 citations · Soil Carbon
 
 2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Quantifying asynchrony between microbial necromass and soil organic carbon for sustainable soil carbon management** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   9 citations
+   11 citations
 
 5. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Manouchehr Gorji Anari"
 description: "Manouchehr Gorji Anari is a Mid-career Soil Carbon researcher at University of Tehran in IR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.270155
+date: 2026-09-11T02:38:30.228260
 url: "/cdr-researcher-census/researchers/manouchehr-gorji-anari-a5081975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 127 |
+| Citations | 131 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

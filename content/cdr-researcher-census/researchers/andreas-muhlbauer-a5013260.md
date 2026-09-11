@@ -1,7 +1,7 @@
 ---
 title: "Andreas Mühlbauer"
-description: "Andreas Mühlbauer is a Senior General CDR researcher at Stanford University in US. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287616
+description: "Andreas Mühlbauer is a Senior General CDR researcher at Stanford University in US. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.234487
 url: "/cdr-researcher-census/researchers/andreas-muhlbauer-a5013260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,053 |
-| Publications | 59 |
-| CDR Focus | 11.9% |
+| Citations | 1,082 |
+| Publications | 60 |
+| CDR Focus | 11.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Proposing a 1.0°C climate target for a safer future** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
-2. **Energy, Health, and Climate Costs of Carbon-Capture and Direct-Air-Capture versus 100%-Wind-Water-Solar Climate Policies in 149 Countries** (2025)
-   28 citations · General CDR
+2. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
+   31 citations · DAC
 
-3. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
-   26 citations · DAC
+3. **Energy, Health, and Climate Costs of Carbon-Capture and Direct-Air-Capture versus 100%-Wind-Water-Solar Climate Policies in 149 Countries** (2025)
+   30 citations · General CDR
 
 4. **Analysis of production routes for silicon carbide using air as carbon source empowering negative emissions** (2024)
    26 citations · DAC
 
 5. **Techno-economic insights and deployment prospects of permanent carbon dioxide sequestration in solid carbonates** (2024)
-   22 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 6. **Costs and benefits of afforestation with renewable electricity-based desalination: Case study for Egypt** (2025)
    5 citations · General CDR

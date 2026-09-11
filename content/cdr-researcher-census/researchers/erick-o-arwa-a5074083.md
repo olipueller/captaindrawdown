@@ -1,7 +1,7 @@
 ---
 title: "Erick O. Arwa"
-description: "Erick O. Arwa is a Mid-career DAC researcher at Carleton University in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.065758
+description: "Erick O. Arwa is a Mid-career DAC researcher at Carleton University in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.018139
 url: "/cdr-researcher-census/researchers/erick-o-arwa-a5074083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 177 |
-| Publications | 6 |
-| CDR Focus | 33.3% |
+| Citations | 184 |
+| Publications | 5 |
+| CDR Focus | 40.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    18 citations · DAC
 
 2. **Impact of direct air capture process flexibility and response to ambient conditions in net-zero transition of the power grid** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **Modeling the Maximization of Waste Heat Use in a Liquid Solvent Direct Air Capture Plant Through Hydrogen Production** (2024)
    0 citations

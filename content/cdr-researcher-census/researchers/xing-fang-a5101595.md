@@ -1,7 +1,7 @@
 ---
 title: "Xing Fang"
 description: "Xing Fang is a Senior General CDR researcher at Tianjin University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.642386
+date: 2026-09-11T02:38:29.584270
 url: "/cdr-researcher-census/researchers/xing-fang-a5101595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 372 |
+| Citations | 390 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

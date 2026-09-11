@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Zhang"
 description: "Wenbo Zhang is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.610335
+date: 2026-09-11T02:38:29.560673
 url: "/cdr-researcher-census/researchers/wenbo-zhang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 398 |
+| Citations | 409 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recovery through proper grazing exclusion promotes the carbon cycle and increases carbon sequestration in semiarid steppe** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

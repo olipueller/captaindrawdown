@@ -1,7 +1,7 @@
 ---
 title: "Tadeo Sáez‐Sandino"
-description: "Tadeo Sáez‐Sandino is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.328289
+description: "Tadeo Sáez‐Sandino is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.253711
 url: "/cdr-researcher-census/researchers/tadeo-saezsandino-a5088688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 881 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| h-index | 15 |
+| Citations | 996 |
+| Publications | 50 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Water availability creates global thresholds in multidimensional soil biodiversity and functions** (2023)
-   112 citations
+   119 citations
 
 2. **The global contribution of soil mosses to ecosystem services** (2023)
-   100 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 3. **Coexistence of vascular plants and biocrusts under changing climates and their influence on ecosystem carbon fluxes** (2024)
    7 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 5. **Substrate Origin Controls Phosphorus Availability in Globally Distributed Long-Term Chronosequences** (2025)
-   1 citations
+   2 citations
 
 6. **Land-use intensification decouples biodiversity and ecosystem function in urban greenspaces across the Iberian Peninsula** (2025)
    0 citations · Soil Carbon

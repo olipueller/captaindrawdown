@@ -1,7 +1,7 @@
 ---
 title: "Payal Chirania"
 description: "Payal Chirania is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423030
+date: 2026-09-11T02:38:29.366534
 url: "/cdr-researcher-census/researchers/payal-chirania-a5090504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 638 |
+| Citations | 671 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Addendum: Carbon-negative production of acetone and isopropanol by gas fermentation at industrial pilot scale** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

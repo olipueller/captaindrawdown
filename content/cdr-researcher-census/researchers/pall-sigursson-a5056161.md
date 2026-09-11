@@ -1,7 +1,7 @@
 ---
 title: "Páll Sigurðsson"
-description: "Páll Sigurðsson is a Mid-career Soil Carbon researcher at Agricultural University of Iceland in IS. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602045
+description: "Páll Sigurðsson is a Mid-career Soil Carbon researcher at Agricultural University of Iceland in IS. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.549975
 url: "/cdr-researcher-census/researchers/pall-sigursson-a5056161/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 405 |
-| Publications | 34 |
-| CDR Focus | 8.8% |
+| h-index | 11 |
+| Citations | 419 |
+| Publications | 35 |
+| CDR Focus | 8.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Individual and interactive effects of warming and nitrogen supply on CO<sub>2</sub> fluxes and carbon allocation in subarctic grassland** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Individual and interactive effects of warming and nitrogen supply on CO2 fluxes and carbon allocation in subarctic grassland** (2024)
    1 citations · Soil Carbon

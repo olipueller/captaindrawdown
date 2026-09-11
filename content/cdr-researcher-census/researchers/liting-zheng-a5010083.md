@@ -1,7 +1,7 @@
 ---
 title: "Liting Zheng"
-description: "Liting Zheng is an Early-career Biochar researcher at Leipzig University of Applied Sciences in DE. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398813
+description: "Liting Zheng is an Early-career Biochar researcher at German Centre for Integrative Biodiversity Research in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.303150
 url: "/cdr-researcher-census/researchers/liting-zheng-a5010083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liting-zheng-a5010083/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leipzig University of Applied Sciences"
+    "name": "German Centre for Integrative Biodiversity Research"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-6497-0793",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Liting Zheng**  
-Leipzig University of Applied Sciences · 🇩🇪 DE
+German Centre for Integrative Biodiversity Research · 🇩🇪 DE
 
 **Career Stage:** Early-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 104 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| h-index | 4 |
+| Citations | 117 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

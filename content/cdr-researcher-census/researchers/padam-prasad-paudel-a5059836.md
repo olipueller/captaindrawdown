@@ -1,7 +1,7 @@
 ---
 title: "Padam Prasad Paudel"
-description: "Padam Prasad Paudel is a Mid-career Biochar researcher at Kangwon National University in KR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.325914
+description: "Padam Prasad Paudel is a Mid-career Biochar researcher at Kangwon National University in KR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.154534
 url: "/cdr-researcher-census/researchers/padam-prasad-paudel-a5059836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 117 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 6 |
+| Citations | 147 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Artificial neural network modeling for prediction and optimization of biochar yield and properties** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

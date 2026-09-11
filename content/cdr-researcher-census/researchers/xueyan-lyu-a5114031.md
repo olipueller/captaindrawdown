@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Lyu"
 description: "Xueyan Lyu is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.386432
+date: 2026-09-11T02:38:29.328070
 url: "/cdr-researcher-census/researchers/xueyan-lyu-a5114031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 718 |
+| Citations | 761 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A one-year study of biochar in immobilizing PFOA in soil-plant rainfall leaching systems: Residue fraction and metabolomics perspectives** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

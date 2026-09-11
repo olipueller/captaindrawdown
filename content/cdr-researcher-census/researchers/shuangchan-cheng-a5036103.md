@@ -1,7 +1,7 @@
 ---
 title: "Shuangchan Cheng"
 description: "Shuangchan Cheng is a Mid-career Biochar researcher at Xiangtan Electric Manufacturing Group (China) in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.905624
+date: 2026-09-11T02:38:29.839273
 url: "/cdr-researcher-census/researchers/shuangchan-cheng-a5036103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 224 |
+| Citations | 241 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of Sb(III) and Pb(II) in wastewater by magnetic γ-Fe2O3-loaded sludge biochar: Performance and mechanisms** (2023)
-   66 citations · Biochar
+   68 citations · Biochar
 
 ## External Profiles
 

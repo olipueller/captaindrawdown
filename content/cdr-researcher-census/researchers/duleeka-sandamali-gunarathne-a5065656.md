@@ -1,7 +1,7 @@
 ---
 title: "Duleeka Sandamali Gunarathne"
 description: "Duleeka Sandamali Gunarathne is a Mid-career Biochar researcher at University of Moratuwa in LK. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.543174
+date: 2026-09-11T02:38:29.490179
 url: "/cdr-researcher-census/researchers/duleeka-sandamali-gunarathne-a5065656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 463 |
+| Citations | 479 |
 | Publications | 30 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Rui Qian"
 description: "Rui Qian is a Mid-career Soil Carbon researcher at Liaoning University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.656844
+date: 2026-09-11T02:38:29.594214
 url: "/cdr-researcher-census/researchers/rui-qian-a5089117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 361 |
+| Citations | 381 |
 | Publications | 22 |
 | CDR Focus | 22.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactive Effects of Maize Straw-Derived Biochar and N Fertilization on Soil Bulk Density and Porosity, Maize Productivity and Nitrogen Use Efficiency in Arid Areas** (2022)
-   45 citations · Biochar
+   47 citations · Biochar
 
 2. **Integrated straw-derived biochar utilization to increase net ecosystem carbon budget and economic benefit and reduce the environmental footprint** (2024)
    37 citations · Biochar

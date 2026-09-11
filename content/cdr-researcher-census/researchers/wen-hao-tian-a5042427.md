@@ -1,7 +1,7 @@
 ---
 title: "Wen Hao Tian"
 description: "Wen Hao Tian is a Mid-career Soil Carbon researcher at China National Rice Research Institute in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248125
+date: 2026-09-11T02:38:30.170790
 url: "/cdr-researcher-census/researchers/wen-hao-tian-a5042427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
+| Citations | 144 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Slow-release fertilizers applied in conjunction with manure enhanced soil quality and rice grain yield by regulating labile nutrient pools, soil enzyme activities, and soil structure** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

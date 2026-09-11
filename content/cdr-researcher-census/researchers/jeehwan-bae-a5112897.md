@@ -1,7 +1,7 @@
 ---
 title: "Jeehwan Bae"
 description: "Jeehwan Bae is a Mid-career Soil Carbon researcher at Kyung Hee University in KR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.787874
+date: 2026-09-11T02:38:29.749369
 url: "/cdr-researcher-census/researchers/jeehwan-bae-a5112897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 279 |
+| Citations | 283 |
 | Publications | 16 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

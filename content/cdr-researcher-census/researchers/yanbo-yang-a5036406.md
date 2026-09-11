@@ -1,7 +1,7 @@
 ---
 title: "Yanbo Yang"
-description: "Yanbo Yang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.884408
+description: "Yanbo Yang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.829938
 url: "/cdr-researcher-census/researchers/yanbo-yang-a5036406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 232 |
-| Publications | 25 |
-| CDR Focus | 20.0% |
+| Citations | 245 |
+| Publications | 26 |
+| CDR Focus | 23.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
-3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
+3. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
+   4 citations · Soil Carbon
+
+4. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon
-
-4. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
-   2 citations · Soil Carbon
 
 5. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
    2 citations · Soil Carbon
 
 6. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
-   0 citations
+   1 citations
 
-7. **Impact of extreme weather events on high variable renewable penetrated power systems in China: quantification and adaptation pathways** (2025)
+7. **Human preference and vegetation features enhance soil carbon sequestration in urban green spaces: implications from soil oxidizable carbon fractionation** (2026)
+   0 citations · Soil Carbon
+
+8. **Impact of extreme weather events on high variable renewable penetrated power systems in China: quantification and adaptation pathways** (2025)
    0 citations
 
 ## External Profiles

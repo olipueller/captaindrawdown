@@ -1,7 +1,7 @@
 ---
 title: "Joe Verfaillie"
 description: "Joe Verfaillie is a Senior Soil Carbon researcher at University of California, Berkeley in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.413521
+date: 2026-09-11T02:38:29.365498
 url: "/cdr-researcher-census/researchers/joe-verfaillie-a5110678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 658 |
+| Citations | 673 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

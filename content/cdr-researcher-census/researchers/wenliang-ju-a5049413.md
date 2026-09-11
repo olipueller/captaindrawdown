@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Ju"
-description: "Wenliang Ju is a Senior Soil Carbon researcher at Peking University in CN. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146288
+description: "Wenliang Ju is a Senior Soil Carbon researcher at Peking University in CN. With 38 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.095587
 url: "/cdr-researcher-census/researchers/wenliang-ju-a5049413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,581 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 2,668 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   96 citations
+   100 citations
 
 2. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Effects of inorganic and organic fertilizers on CO2 and CH4 fluxes from tea plantation soil** (2021)
    34 citations

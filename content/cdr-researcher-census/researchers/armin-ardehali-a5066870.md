@@ -1,7 +1,7 @@
 ---
 title: "Armin Ardehali"
-description: "Armin Ardehali is a Mid-career DAC researcher at University of Southern Denmark in DK. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.766027
+description: "Armin Ardehali is a Mid-career DAC researcher at University of Southern Denmark in DK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.710305
 url: "/cdr-researcher-census/researchers/armin-ardehali-a5066870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 291 |
+| h-index | 6 |
+| Citations | 304 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

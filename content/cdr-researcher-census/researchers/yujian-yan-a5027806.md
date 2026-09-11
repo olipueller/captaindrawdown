@@ -1,7 +1,7 @@
 ---
 title: "Yujian Yan"
-description: "Yujian Yan is an Early-career Ocean CDR researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.260775
+description: "Yujian Yan is a Mid-career Ocean CDR researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.153798
 url: "/cdr-researcher-census/researchers/yujian-yan-a5027806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Yujian Yan**  
 Sun Yat-sen University · 🇨🇳 CN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 129 |
+| h-index | 5 |
+| Citations | 147 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Coupling Microalgae-based Biochar with MBGS Enhances Microbial Synergy and Multi-Pollutant Removal from Saline Aquaculture Wastewater** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

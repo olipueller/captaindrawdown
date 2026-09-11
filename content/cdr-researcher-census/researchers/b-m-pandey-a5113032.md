@@ -1,7 +1,7 @@
 ---
 title: "B. M. Pandey"
-description: "B. M. Pandey is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.927877
+description: "B. M. Pandey is a Senior Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.892026
 url: "/cdr-researcher-census/researchers/b-m-pandey-a5113032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,7 +22,7 @@ robots: "index, follow"
 
 **B. M. Pandey**
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 216 |
+| Citations | 221 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing soil organic carbon in agroforestry systems in different altitudes of Tehri District, Uttarakhand, India** (2023)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

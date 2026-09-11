@@ -1,7 +1,7 @@
 ---
 title: "Soon‐Jae Lee"
-description: "Soon‐Jae Lee is a Mid-career Soil Carbon researcher at University of Lausanne in CH. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.556137
+description: "Soon‐Jae Lee is a Mid-career Soil Carbon researcher at University of Lausanne in CH. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.485463
 url: "/cdr-researcher-census/researchers/soonjae-lee-a5048336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 450 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 485 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

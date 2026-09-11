@@ -1,7 +1,7 @@
 ---
 title: "Lena Müller"
 description: "Lena Müller is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.570303
+date: 2026-09-11T02:38:29.516192
 url: "/cdr-researcher-census/researchers/lena-muller-a5053768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 436 |
+| Citations | 452 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Individual and interactive effects of warming and nitrogen supply on CO<sub>2</sub> fluxes and carbon allocation in subarctic grassland** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Individual and interactive effects of warming and nitrogen supply on CO2 fluxes and carbon allocation in subarctic grassland** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Khanh Nguyen"
-description: "Khanh Nguyen is a Senior Biochar researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.570874
+description: "Khanh Nguyen is a Senior Biochar researcher at University of Da Nang in VN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.530186
 url: "/cdr-researcher-census/researchers/khanh-nguyen-a5030023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Khanh Nguyen",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/khanh-nguyen-a5030023/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Da Nang"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-5444-4668",
     "https://openalex.org/A5030023404"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Khanh Nguyen**
+**Khanh Nguyen**  
+University of Da Nang · 🇻🇳 VN
 
 **Career Stage:** Senior
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 435 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 438 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

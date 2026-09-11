@@ -1,7 +1,7 @@
 ---
 title: "Tobias Heimann"
 description: "Tobias Heimann is a Mid-career BECCS researcher at Kiel Institute for the World Economy in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.597267
+date: 2026-09-11T02:38:29.540393
 url: "/cdr-researcher-census/researchers/tobias-heimann-a5017443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 410 |
+| Citations | 428 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |

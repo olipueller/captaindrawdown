@@ -1,7 +1,7 @@
 ---
 title: "Haotong Cai"
-description: "Haotong Cai is a Mid-career BECCS researcher at Chinese University of Hong Kong, Shenzhen in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.313174
+description: "Haotong Cai is a Mid-career BECCS researcher at Chinese University of Hong Kong, Shenzhen in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.227234
 url: "/cdr-researcher-census/researchers/haotong-cai-a5065687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 120 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 132 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

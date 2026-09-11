@@ -1,7 +1,7 @@
 ---
 title: "Michael Petroni"
 description: "Michael Petroni is a Mid-career General CDR researcher at Purchase College in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.021165
+date: 2026-09-11T02:38:29.975996
 url: "/cdr-researcher-census/researchers/michael-petroni-a5005554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 190 |
+| Citations | 197 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

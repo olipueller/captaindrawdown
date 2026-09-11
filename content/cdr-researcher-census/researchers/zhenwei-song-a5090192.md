@@ -1,7 +1,7 @@
 ---
 title: "Zhenwei Song"
-description: "Zhenwei Song is a Senior Soil Carbon researcher at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences in CN. With 108 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125378
+description: "Zhenwei Song is a Senior Soil Carbon researcher at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences in CN. With 107 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.074232
 url: "/cdr-researcher-census/researchers/zhenwei-song-a5090192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 3,325 |
-| Publications | 108 |
+| Citations | 3,433 |
+| Publications | 107 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
 
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Challenges and strategies in estimating soil organic carbon for multi-cropping systems: a review** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 4. **Impacts of inorganic and organic fertilization on soil organic carbon and crop production: a meta-analysis** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Sustainability of Maize–Soybean Rotation for Future Climate Change Scenarios in Northeast China** (2025)
    2 citations · Soil Carbon

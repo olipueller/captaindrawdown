@@ -1,7 +1,7 @@
 ---
 title: "Kangying Wu"
-description: "Kangying Wu is a Senior Soil Carbon researcher at Nankai University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.273644
+description: "Kangying Wu is a Senior Soil Carbon researcher at Nankai University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.160846
 url: "/cdr-researcher-census/researchers/kangying-wu-a5015804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 127 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 6 |
+| Citations | 146 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

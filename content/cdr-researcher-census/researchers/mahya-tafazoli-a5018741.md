@@ -1,7 +1,7 @@
 ---
 title: "Mahya Tafazoli"
-description: "Mahya Tafazoli is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.342216
+description: "Mahya Tafazoli is a Mid-career Soil Carbon researcher. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.273940
 url: "/cdr-researcher-census/researchers/mahya-tafazoli-a5018741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 114 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 123 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

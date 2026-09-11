@@ -1,7 +1,7 @@
 ---
 title: "Siyu Wang"
-description: "Siyu Wang is a Mid-career Soil Carbon researcher at Shanghai Medical College of Fudan University in CN. With 74 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.308883
+description: "Siyu Wang is a Mid-career Soil Carbon researcher at Shanghai Medical College of Fudan University in CN. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.251868
 url: "/cdr-researcher-census/researchers/siyu-wang-a5100358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 959 |
-| Publications | 74 |
-| CDR Focus | 6.8% |
+| Citations | 1,003 |
+| Publications | 76 |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Dynamic Response of the cbbL Carbon Sequestration Microbial Community to Wetland Type in Qinghai Lake** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **The Response Mechanism of the cbbM Carbon Sequestration Microbial Community in the Alpine Wetlands of Qinghai Lake to Changes in Precipitation** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Warming Induces High Environmental Pressure in the Lakeshore Wetland, Promoting Interactions Among Carbon-Fixing Microorganisms** (2025)
    1 citations · Soil Carbon

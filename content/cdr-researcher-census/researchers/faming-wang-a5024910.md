@@ -1,7 +1,7 @@
 ---
 title: "Faming Wang"
-description: "Faming Wang is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 189 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.086155
+description: "Faming Wang is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 202 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.037451
 url: "/cdr-researcher-census/researchers/faming-wang-a5024910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 40 |
-| Citations | 6,505 |
-| Publications | 189 |
-| CDR Focus | 12.7% |
+| h-index | 41 |
+| Citations | 6,771 |
+| Publications | 202 |
+| CDR Focus | 11.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   91 citations · General CDR
+   97 citations · General CDR
 
 3. **Accumulation of glomalin‐related soil protein benefits soil carbon sequestration: Tropical coastal forest restoration experiences** (2022)
    45 citations · Soil Carbon
 
-4. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   39 citations
+4. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
+   43 citations · Soil Carbon
 
-5. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+5. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
+   41 citations
 
 6. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 7. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
    33 citations · Soil Carbon
@@ -75,10 +75,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 9. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 10. **Blue carbon sink function, formation mechanism and sequestration potential of coastal salt marshes** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

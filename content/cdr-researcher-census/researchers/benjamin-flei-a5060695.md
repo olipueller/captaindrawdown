@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Fleiß"
 description: "Benjamin Fleiß is a Mid-career BECCS researcher at BOKU University in AT. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.373817
+date: 2026-09-11T02:38:30.332616
 url: "/cdr-researcher-census/researchers/benjamin-flei-a5060695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
+| Citations | 111 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Yang"
 description: "Xiaomin Yang is a Senior Soil Carbon researcher at Guizhou University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.224361
+date: 2026-09-11T02:38:29.174194
 url: "/cdr-researcher-census/researchers/xiaomin-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,436 |
+| Citations | 1,465 |
 | Publications | 56 |
 | CDR Focus | 10.7% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Silicon in paddy fields: Benefits for rice production and the potential of rice phytoliths for biogeochemical carbon sequestration** (2024)
    31 citations · General CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 4. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
    9 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yuefeng Xu"
 description: "Yuefeng Xu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.824862
+date: 2026-09-11T02:38:29.792101
 url: "/cdr-researcher-census/researchers/yuefeng-xu-a5026163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 260 |
+| Citations | 263 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vertical Patterns and Influencing Factors of Soil Stoichiometry on Near-Naturally Restored Lands: A Case Study from the Loess Plateau, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

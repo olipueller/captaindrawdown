@@ -1,7 +1,7 @@
 ---
 title: "N. Siddique"
 description: "N. Siddique is a Senior Soil Carbon researcher at University of New England in AU. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.657559
+date: 2026-09-11T02:38:29.614098
 url: "/cdr-researcher-census/researchers/n-siddique-a5061705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 361 |
+| Citations | 367 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Determining the role of land resource, cropping and management practices in soil organic carbon status of rice-based cropping systems** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Based on soil carbon saturation capacity what is the potential for soil carbon improvement in rice-based cropping systems of northwest region of Bangladesh?** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

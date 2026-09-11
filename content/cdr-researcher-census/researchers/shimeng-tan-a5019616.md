@@ -1,7 +1,7 @@
 ---
 title: "Shimeng Tan"
-description: "Shimeng Tan is a Mid-career Biochar researcher at Institute of Plant Protection in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.079257
+description: "Shimeng Tan is a Mid-career Biochar researcher at Central South University of Forestry and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.021321
 url: "/cdr-researcher-census/researchers/shimeng-tan-a5019616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shimeng-tan-a5019616/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Plant Protection"
+    "name": "Central South University of Forestry and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8410-9841",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shimeng Tan**  
-Institute of Plant Protection · 🇨🇳 CN
+Central South University of Forestry and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 173 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| h-index | 5 |
+| Citations | 183 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A perspective on the interaction between biochar and soil microbes: A way to regain soil eminence** (2022)
-   70 citations · Biochar
+   71 citations · Biochar
 
 ## External Profiles
 

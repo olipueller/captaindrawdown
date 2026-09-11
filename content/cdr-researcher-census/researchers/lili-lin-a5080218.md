@@ -1,7 +1,7 @@
 ---
 title: "Lili Lin"
-description: "Lili Lin is a Mid-career Soil Carbon researcher at Intelligent Health (United Kingdom) in GB. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.389732
+description: "Lili Lin is a Mid-career Soil Carbon researcher at Seoul National University in KR. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.336352
 url: "/cdr-researcher-census/researchers/lili-lin-a5080218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lili-lin-a5080218/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Intelligent Health (United Kingdom)"
+    "name": "Seoul National University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5098-8182",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lili Lin**  
-Intelligent Health (United Kingdom) · 🇬🇧 GB
+Seoul National University · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 712 |
-| Publications | 47 |
-| CDR Focus | 12.8% |
+| h-index | 14 |
+| Citations | 740 |
+| Publications | 48 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

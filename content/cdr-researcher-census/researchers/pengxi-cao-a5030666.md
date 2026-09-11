@@ -1,7 +1,7 @@
 ---
 title: "Pengxi Cao"
-description: "Pengxi Cao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639732
+description: "Pengxi Cao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.587572
 url: "/cdr-researcher-census/researchers/pengxi-cao-a5030666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 375 |
+| h-index | 8 |
+| Citations | 387 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Defining Important Areas for Ecosystem Conservation in Qinghai Province under the Policy of Ecological Red Line** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

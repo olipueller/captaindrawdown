@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Ji"
-description: "Wenjun Ji is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 112 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.102875
+description: "Wenjun Ji is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 112 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.052725
 url: "/cdr-researcher-census/researchers/wenjun-ji-a5010230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 4,608 |
+| h-index | 33 |
+| Citations | 4,740 |
 | Publications | 112 |
 | CDR Focus | 6.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Spatial variability and potential controls of soil organic matter in the Eastern Dongting Lake Plain in southern China** (2021)
    26 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 4. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 5. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
    14 citations · Soil Carbon

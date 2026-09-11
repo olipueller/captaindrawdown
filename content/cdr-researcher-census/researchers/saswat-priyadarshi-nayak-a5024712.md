@@ -1,7 +1,7 @@
 ---
 title: "Saswat Priyadarshi Nayak"
-description: "Saswat Priyadarshi Nayak is an Early-career DAC researcher at University of California, Riverside in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.646486
+description: "Saswat Priyadarshi Nayak is an Early-career DAC researcher at University of California, Riverside in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.584833
 url: "/cdr-researcher-census/researchers/saswat-priyadarshi-nayak-a5024712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 368 |
+| h-index | 4 |
+| Citations | 389 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Current status and pillars of direct air capture technologies** (2022)
-   345 citations · DAC
+   353 citations · DAC
 
 ## External Profiles
 

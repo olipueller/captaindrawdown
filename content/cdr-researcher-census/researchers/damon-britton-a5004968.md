@@ -1,7 +1,7 @@
 ---
 title: "Damon Britton"
-description: "Damon Britton is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.390485
+description: "Damon Britton is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.327976
 url: "/cdr-researcher-census/researchers/damon-britton-a5004968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 711 |
+| h-index | 13 |
+| Citations | 761 |
 | Publications | 27 |
-| CDR Focus | 7.4% |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forensic carbon accounting: Assessing the role of seaweeds for carbon sequestration** (2022)
-   170 citations · General CDR
+   180 citations · General CDR
 
 2. **Moderate ocean alkalinity enhancement likely to have minimal effects on a habitat‐forming kelp across multiple life stages** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 3. **Strategic research priorities for marine climate interventions in Australia** (2026)
    0 citations · General CDR

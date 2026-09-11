@@ -1,7 +1,7 @@
 ---
 title: "Maria Apergi"
 description: "Maria Apergi is a Senior General CDR researcher at Research Institute for Sustainability at GFZ in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.553474
+date: 2026-09-11T02:38:29.503901
 url: "/cdr-researcher-census/researchers/maria-apergi-a5021921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 452 |
+| Citations | 464 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

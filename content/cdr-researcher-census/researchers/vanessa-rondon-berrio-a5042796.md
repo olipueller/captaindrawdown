@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Rondón Berrio"
-description: "Vanessa Rondón Berrio is a Mid-career BECCS researcher at North Carolina State University in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.308797
+description: "Vanessa Rondón Berrio is a Mid-career BECCS researcher at North Carolina State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.245202
 url: "/cdr-researcher-census/researchers/vanessa-rondon-berrio-a5042796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 120 |
+| h-index | 6 |
+| Citations | 128 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Wanjie Lv"
 description: "Wanjie Lv is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398621
+date: 2026-09-11T02:38:30.368274
 url: "/cdr-researcher-census/researchers/wanjie-lv-a5076619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 104 |
+| Citations | 105 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of forest management on the formation and stability of phytolith and PhytOC in forest ecosystem** (2021)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

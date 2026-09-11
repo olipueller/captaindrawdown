@@ -1,7 +1,7 @@
 ---
 title: "Miaoqian Wang"
-description: "Miaoqian Wang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.284137
+description: "Miaoqian Wang is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.258036
 url: "/cdr-researcher-census/researchers/miaoqian-wang-a5080010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/miaoqian-wang-a5080010/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Northwest A&F University"
   },
   "sameAs": "https://openalex.org/A5080010371"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Miaoqian Wang**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| Citations | 126 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

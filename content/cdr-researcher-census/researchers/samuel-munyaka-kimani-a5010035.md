@@ -1,7 +1,7 @@
 ---
 title: "Samuel Munyaka Kimani"
-description: "Samuel Munyaka Kimani is a Senior Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.566142
+description: "Samuel Munyaka Kimani is a Senior Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.519989
 url: "/cdr-researcher-census/researchers/samuel-munyaka-kimani-a5010035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 440 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 449 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Five-year vegetation conversion from pasture to C3 and C4 plants affects dynamics of SOC and TN and their natural stable C and N isotopes via mediating C input and N leaching** (2023)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **The effects of elevated CO2 and temperature on soil organic carbon and total nitrogen contents and mineralization in the 0 to 50 cm paddy soil layer were masked by different land use history** (2024)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Fengling Ren"
-description: "Fengling Ren is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.520901
+description: "Fengling Ren is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.468745
 url: "/cdr-researcher-census/researchers/fengling-ren-a5009331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fengling-ren-a5009331/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Agricultural Resources and Regional Planning"
+    "name": "Ministry of Ecology and Environment"
   },
   "sameAs": "https://openalex.org/A5009331895"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Fengling Ren**  
-Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
+Ministry of Ecology and Environment · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 487 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 503 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Patterns and driving factors of soil organic carbon sequestration efficiency under various manure regimes across Chinese croplands** (2023)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Manure application decreases soil organic carbon priming by increasing mineral protection and nitrogen availability** (2023)
    16 citations

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama Younas"
-description: "Muhammad Usama Younas is a Mid-career Biochar researcher at Yangzhou University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.492597
+description: "Muhammad Usama Younas is a Mid-career Biochar researcher at Yangzhou University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.414992
 url: "/cdr-researcher-census/researchers/muhammad-usama-younas-a5084412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 526 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| h-index | 12 |
+| Citations | 586 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploration of biochars for enhancing soil health, carbon sequestration, and greenhouse gas emission reductions under citrus cultivation** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
-2. **Leveraging Biochar Amendments to Enhance Food Security and Plant Resilience Under Climate Change** (2025)
+2. **Restoring Acidic Soils for Sustainable Agriculture: A Review of Mechanisms, Microbial Shifts, and Climate Resilience** (2026)
    1 citations · Biochar
 
-3. **Restoring Acidic Soils for Sustainable Agriculture: A Review of Mechanisms, Microbial Shifts, and Climate Resilience** (2026)
-   0 citations · Biochar
+3. **Leveraging Biochar Amendments to Enhance Food Security and Plant Resilience Under Climate Change** (2025)
+   1 citations · Biochar
 
 ## External Profiles
 

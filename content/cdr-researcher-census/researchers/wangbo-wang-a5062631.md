@@ -1,7 +1,7 @@
 ---
 title: "Wangbo Wang"
-description: "Wangbo Wang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.819924
+description: "Wangbo Wang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.717731
 url: "/cdr-researcher-census/researchers/wangbo-wang-a5062631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 262 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 7 |
+| Citations | 299 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Fe/S co-doped biochar catalysts for enhanced peroxymonosulfate activation: Synergistic effects of catalysis and anti-deactivation on antibiotic degradation** (2025)
-   24 citations · Biochar
+   27 citations · Biochar
+
+2. **Nonradical pathway in peroxymonosulfate-based Fenton-like reactions triggered by the active Fe-Cu dual sites encapsulated in endogenous N-rich biochar** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

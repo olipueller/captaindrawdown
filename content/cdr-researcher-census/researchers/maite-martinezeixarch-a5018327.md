@@ -1,7 +1,7 @@
 ---
 title: "Maite Martínez‐Eixarch"
 description: "Maite Martínez‐Eixarch is a Mid-career Soil Carbon researcher at IRTA in ES. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.271608
+date: 2026-09-11T02:38:29.210741
 url: "/cdr-researcher-census/researchers/maite-martinezeixarch-a5018327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,139 |
+| Citations | 1,219 |
 | Publications | 44 |
 | CDR Focus | 11.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of post-harvest practices on greenhouse gas emissions in rice paddies: flooding regime and straw management** (2022)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Assessing methane emissions and soil carbon stocks in the Camargue coastal wetlands: Management implications for climate change regulation** (2024)
    11 citations · General CDR

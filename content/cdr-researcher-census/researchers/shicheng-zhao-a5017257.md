@@ -1,7 +1,7 @@
 ---
 title: "Shicheng Zhao"
-description: "Shicheng Zhao is a Senior Soil Carbon researcher at Shandong University in CN. With 63 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150742
+description: "Shicheng Zhao is a Senior Soil Carbon researcher at Shanghai Business School in CN. With 63 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.100578
 url: "/cdr-researcher-census/researchers/shicheng-zhao-a5017257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shicheng-zhao-a5017257/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Shanghai Business School"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9689-9756",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shicheng Zhao**  
-Shandong University · 🇨🇳 CN
+Shanghai Business School · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 2,446 |
+| h-index | 30 |
+| Citations | 2,495 |
 | Publications | 63 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   169 citations · Soil Carbon
+   172 citations · Soil Carbon
 
 2. **Responses of soil aggregation and aggregate-associated carbon and nitrogen in black soil to different long-term fertilization regimes** (2021)
    45 citations · Soil Carbon

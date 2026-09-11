@@ -1,7 +1,7 @@
 ---
 title: "Batande Sinovuyo Ndzelu"
-description: "Batande Sinovuyo Ndzelu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.586288
+description: "Batande Sinovuyo Ndzelu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.528982
 url: "/cdr-researcher-census/researchers/batande-sinovuyo-ndzelu-a5090574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 421 |
+| h-index | 11 |
+| Citations | 439 |
 | Publications | 27 |
 | CDR Focus | 25.9% |
 | Trajectory | Stable |
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Tillage effects on humus composition and humic acid structural characteristics in soil aggregate-size fractions** (2021)
    77 citations · Soil Carbon
 
-2. **Accumulation of straw-derived carbon and changes in soil humic acid structural characteristics during corn straw decomposition** (2021)
-   14 citations · Soil Carbon
+2. **Contrasting effects of straw and straw-derived biochar application on soil organic matter and corn yield in a Chinese Mollisol** (2023)
+   14 citations · Biochar
 
-3. **Contrasting effects of straw and straw-derived biochar application on soil organic matter and corn yield in a Chinese Mollisol** (2023)
-   13 citations · Biochar
+3. **Accumulation of straw-derived carbon and changes in soil humic acid structural characteristics during corn straw decomposition** (2021)
+   14 citations · Soil Carbon
 
 4. **The Different Roles of Mineralogy in Soil Organic Carbon Accumulation in Northern and Southern China** (2023)
    3 citations · Soil Carbon

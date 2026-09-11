@@ -1,7 +1,7 @@
 ---
 title: "Sarada Prasannan Subudhi"
 description: "Sarada Prasannan Subudhi is an Early-career Biochar researcher at Central Pollution Control Board in IN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.190122
+date: 2026-09-11T02:38:30.146250
 url: "/cdr-researcher-census/researchers/sarada-prasannan-subudhi-a5073851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 144 |
+| Citations | 149 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |

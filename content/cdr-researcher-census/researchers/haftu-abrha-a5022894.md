@@ -1,7 +1,7 @@
 ---
 title: "Haftu Abrha"
 description: "Haftu Abrha is a Mid-career Soil Carbon researcher at International Centre of Insect Physiology and Ecology in KE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.577345
+date: 2026-09-11T02:38:29.523788
 url: "/cdr-researcher-census/researchers/haftu-abrha-a5022894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 430 |
+| Citations | 444 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclosures increase soil organic carbon stock at a rate greater than “4 per 1000” per year across agricultural landscapes in Northern Ethiopia** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Environmental determinants of tree productivity and biomass carbon stock in semi-arid Ethiopia** (2026)
    0 citations · General CDR

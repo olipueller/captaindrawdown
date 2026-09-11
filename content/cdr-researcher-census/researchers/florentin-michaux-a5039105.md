@@ -1,7 +1,7 @@
 ---
 title: "Florentin Michaux"
 description: "Florentin Michaux is a Senior Biochar researcher at Laboratoire des Biomolécules in FR. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.328896
+date: 2026-09-11T02:38:29.280985
 url: "/cdr-researcher-census/researchers/florentin-michaux-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 878 |
+| Citations | 896 |
 | Publications | 44 |
 | CDR Focus | 6.8% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar

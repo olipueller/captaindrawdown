@@ -1,7 +1,7 @@
 ---
 title: "Xinqian Zheng"
-description: "Xinqian Zheng is a Mid-career Soil Carbon researcher at Xinjiang Astronomical Observatory in CN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.847635
+description: "Xinqian Zheng is a Mid-career Soil Carbon researcher at Xinjiang Astronomical Observatory in CN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.787092
 url: "/cdr-researcher-census/researchers/xinqian-zheng-a5101004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 248 |
-| Publications | 34 |
-| CDR Focus | 8.8% |
+| Citations | 265 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Desert Abiotic Carbon Sequestration Weakening by Precipitation** (2023)
-   23 citations
+   27 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
    23 citations · Soil Carbon
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Precipitation Controls on Carbon Sinks in an Artificial Green Space in the Taklimakan Desert** (2024)
    7 citations · Soil Carbon
 
-4. **Carbon sequestration in the desert** (2025)
+4. **Dataset Construction of CO2 Flux over Shifting Sand in the Taklimakan Desert and Assessment of Carbon Sequestration Capacity** (2026)
+   0 citations
+
+5. **Carbon sequestration in the desert** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "José Ramón Copa Rey"
 description: "José Ramón Copa Rey is a Mid-career BECCS researcher at Polytechnic Institute of Portalegre in PT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.621010
+date: 2026-09-11T02:38:29.546039
 url: "/cdr-researcher-census/researchers/jose-ramon-copa-rey-a5089239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 390 |
+| Citations | 422 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Assessing a bio-energy system with carbon capture and storage (BECCS) through dynamic life cycle assessment and land-water-energy nexus** (2022)
-   46 citations · BECCS
+   47 citations · BECCS
 
 ## External Profiles
 

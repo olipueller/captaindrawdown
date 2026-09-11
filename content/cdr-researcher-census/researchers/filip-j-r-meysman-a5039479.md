@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
-description: "Filip J. R. Meysman is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 343 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.070414
+description: "Filip J. R. Meysman is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 346 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.023237
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 61 |
-| Citations | 13,742 |
-| Publications | 343 |
+| Citations | 14,028 |
+| Publications | 346 |
 | CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   43 citations · Enhanced Weathering
+   44 citations · Enhanced Weathering
 
 2. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through marine enhanced rock weathering using olivine** (2025)
-   34 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 3. **Mesocosm experiments in ocean alkalinity enhancement research** (2023)
    8 citations
 
-4. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
+4. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2026)
+   2 citations · Ocean CDR
+
+5. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
    2 citations
 
-5. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
+6. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
    2 citations · Enhanced Weathering
-
-6. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2026)
-   1 citations · Ocean CDR
 
 7. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2025)
    1 citations

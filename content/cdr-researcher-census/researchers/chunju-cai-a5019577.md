@@ -1,7 +1,7 @@
 ---
 title: "Chunju Cai"
-description: "Chunju Cai is a Senior Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.422472
+description: "Chunju Cai is a Senior Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.369664
 url: "/cdr-researcher-census/researchers/chunju-cai-a5019577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 639 |
-| Publications | 70 |
-| CDR Focus | 5.7% |
+| h-index | 15 |
+| Citations | 665 |
+| Publications | 71 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

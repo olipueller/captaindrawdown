@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
 description: "Baolin Wang is a Senior Enhanced Weathering researcher at Qilu University of Technology in CN. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.547246
+date: 2026-09-11T02:38:29.502744
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 459 |
+| Citations | 465 |
 | Publications | 45 |
 | CDR Focus | 17.8% |
 | Trajectory | Exiting |
@@ -59,11 +59,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
 
-4. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   29 citations · DAC
+4. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
+   29 citations · Enhanced Weathering
 
-5. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   28 citations · Enhanced Weathering
+5. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
+   29 citations · DAC
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering

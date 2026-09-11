@@ -1,7 +1,7 @@
 ---
 title: "William Cracroft‐Eley"
-description: "William Cracroft‐Eley is a Mid-career BECCS researcher at Nebraska Department of Education in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.874172
+description: "William Cracroft‐Eley is a Mid-career BECCS researcher at Nebraska Department of Education in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.828784
 url: "/cdr-researcher-census/researchers/william-cracrofteley-a5008650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 236 |
-| Publications | 3 |
-| CDR Focus | 33.3% |
+| Citations | 245 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   53 citations · BECCS
+   55 citations · BECCS
 
 ## External Profiles
 

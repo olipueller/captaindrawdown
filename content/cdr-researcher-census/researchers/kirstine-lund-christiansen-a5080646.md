@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Lund Christiansen"
-description: "Kirstine Lund Christiansen is a Mid-career General CDR researcher at University of Copenhagen in DK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.185046
+description: "Kirstine Lund Christiansen is a Mid-career General CDR researcher at University of Copenhagen in DK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.033037
 url: "/cdr-researcher-census/researchers/kirstine-lund-christiansen-a5080646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 145 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
-| Trajectory | Exiting |
+| h-index | 6 |
+| Citations | 179 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
-   44 citations · General CDR
+1. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
+   46 citations · General CDR
 
-2. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
-   39 citations · General CDR
+2. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
+   44 citations · General CDR
 
 3. **Author Correction: Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2025)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Toluwalase Ojeyemi"
 description: "Toluwalase Ojeyemi is a Mid-career Biochar researcher at Texas Tech University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.696564
+date: 2026-09-11T02:38:29.634443
 url: "/cdr-researcher-census/researchers/toluwalase-ojeyemi-a5092188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 333 |
+| Citations | 352 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

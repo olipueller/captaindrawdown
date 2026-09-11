@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
-description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.304245
+description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.242370
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 971 |
-| Publications | 44 |
-| CDR Focus | 27.3% |
+| Citations | 1,048 |
+| Publications | 51 |
+| CDR Focus | 23.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 2. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   46 citations · BECCS
+   48 citations · BECCS
 
 3. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 4. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   13 citations · General CDR
+   15 citations · General CDR
 
 5. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "Navid Saeidi"
-description: "Navid Saeidi is a Mid-career Biochar researcher at Helmholtz Centre for Environmental Research in DE. With 19 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.382267
+description: "Navid Saeidi is a Mid-career Biochar researcher at Helmholtz Centre for Environmental Research in DE. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.320807
 url: "/cdr-researcher-census/researchers/navid-saeidi-a5101669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 728 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 781 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A FAIR comparison of activated carbon, biochar, cyclodextrins, polymers, resins, and metal organic frameworks for the adsorption of per- and polyfluorinated substances** (2024)
-   27 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

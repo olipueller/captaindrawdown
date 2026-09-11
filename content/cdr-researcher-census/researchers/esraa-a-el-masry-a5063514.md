@@ -1,7 +1,7 @@
 ---
 title: "Esraa A. El-Masry"
 description: "Esraa A. El-Masry is a Mid-career Soil Carbon researcher at Alexandria University in EG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.280114
+date: 2026-09-11T02:38:30.201633
 url: "/cdr-researcher-census/researchers/esraa-a-el-masry-a5063514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 126 |
+| Citations | 137 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Non-destructive Rapid Assessment of Blue Carbon Sequestration Potential in Mangrove Forests of the Red Sea Region** (2024)
-   1 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

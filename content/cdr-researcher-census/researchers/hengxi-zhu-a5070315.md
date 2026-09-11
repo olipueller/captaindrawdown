@@ -1,7 +1,7 @@
 ---
 title: "Hengxi Zhu"
-description: "Hengxi Zhu is a Mid-career Biochar researcher at Zhejiang Sci-Tech University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.525471
+description: "Hengxi Zhu is a Mid-career Biochar researcher at Xidian University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.465964
 url: "/cdr-researcher-census/researchers/hengxi-zhu-a5070315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hengxi-zhu-a5070315/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang Sci-Tech University"
+    "name": "Xidian University"
   },
   "sameAs": "https://openalex.org/A5070315272"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hengxi Zhu**  
-Zhejiang Sci-Tech University · 🇨🇳 CN
+Xidian University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 481 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 506 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

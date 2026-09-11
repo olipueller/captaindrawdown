@@ -1,7 +1,7 @@
 ---
 title: "Hanting Cheng"
-description: "Hanting Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.789582
+description: "Hanting Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.720268
 url: "/cdr-researcher-census/researchers/hanting-cheng-a5009271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 278 |
-| Publications | 12 |
-| CDR Focus | 33.3% |
+| h-index | 7 |
+| Citations | 298 |
+| Publications | 13 |
+| CDR Focus | 30.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Natural vegetation regeneration facilitated soil organic carbon sequestration and microbial community stability in the degraded karst ecosystem** (2022)
-   54 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Priming of soil organic carbon mineralization and its temperature sensitivity in response to vegetation restoration in a karst area of Southwest China** (2022)
    40 citations · Soil Carbon

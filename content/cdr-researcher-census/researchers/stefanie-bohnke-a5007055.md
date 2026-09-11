@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Böhnke"
 description: "Stefanie Böhnke is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707531
+date: 2026-09-11T02:38:29.657562
 url: "/cdr-researcher-census/researchers/stefanie-bohnke-a5007055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 325 |
+| Citations | 336 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 ## External Profiles
 

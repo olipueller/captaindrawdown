@@ -1,7 +1,7 @@
 ---
 title: "Xinping Dong"
 description: "Xinping Dong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311173
+date: 2026-09-11T02:38:30.159942
 url: "/cdr-researcher-census/researchers/xinping-dong-a5101242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 120 |
+| Citations | 146 |
 | Publications | 26 |
 | CDR Focus | 23.1% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
    1 citations · Soil Carbon

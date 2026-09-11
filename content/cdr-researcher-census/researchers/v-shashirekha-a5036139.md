@@ -1,7 +1,7 @@
 ---
 title: "V. Shashirekha"
 description: "V. Shashirekha is a Senior Ocean CDR researcher at SRM Institute of Science and Technology in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.646322
+date: 2026-09-11T02:38:29.604530
 url: "/cdr-researcher-census/researchers/v-shashirekha-a5036139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 368 |
+| Citations | 374 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Integrated Approach for Carbon Sequestration and Wastewater Treatment Using Algal–Bacterial Consortia: Opportunities and Challenges** (2022)
-   81 citations · General CDR
+   83 citations · General CDR
 
 ## External Profiles
 

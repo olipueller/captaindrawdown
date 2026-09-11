@@ -1,7 +1,7 @@
 ---
 title: "Cathy Wimart-Rousseau"
-description: "Cathy Wimart-Rousseau is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.209819
+description: "Cathy Wimart-Rousseau is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.153904
 url: "/cdr-researcher-census/researchers/cathy-wimart-rousseau-a5056433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 1,572 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| h-index | 8 |
+| Citations | 1,663 |
+| Publications | 42 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
    8 citations · General CDR
 
 3. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR
+
+4. **Coastal Marine Carbon and Air‐Sea Fluxes Quantified From pH Sensors on an Extended AUV Deployment** (2026)
+   0 citations
 
 ## External Profiles
 

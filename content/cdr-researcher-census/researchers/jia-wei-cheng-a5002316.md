@@ -1,7 +1,7 @@
 ---
 title: "Jia-Wei Cheng"
-description: "Jia-Wei Cheng is a Mid-career Biochar researcher at National Kaohsiung University of Science and Technology. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.909034
+description: "Jia-Wei Cheng is a Mid-career Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.874006
 url: "/cdr-researcher-census/researchers/jia-wei-cheng-a5002316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jia-Wei Cheng**  
-National Kaohsiung University of Science and Technology
+National Kaohsiung University of Science and Technology · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 222 |
+| h-index | 7 |
+| Citations | 227 |
 | Publications | 9 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

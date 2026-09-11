@@ -1,7 +1,7 @@
 ---
 title: "Tom Terlouw"
-description: "Tom Terlouw is a Mid-career General CDR researcher at PSI in CH. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.158421
+description: "Tom Terlouw is a Mid-career General CDR researcher at PSI in CH. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.100928
 url: "/cdr-researcher-census/researchers/tom-terlouw-a5036170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 2,290 |
-| Publications | 36 |
-| CDR Focus | 13.9% |
+| Citations | 2,480 |
+| Publications | 40 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models** (2022)
-   538 citations · DAC
+   553 citations · DAC
 
 2. **Life cycle assessment of carbon dioxide removal technologies: a critical review** (2021)
-   352 citations · General CDR
+   356 citations · General CDR
 
 3. **Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources** (2021)
-   294 citations · DAC
+   298 citations · DAC
 
 4. **Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe** (2024)
-   59 citations · DAC
+   66 citations · DAC
 
 5. **PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models** (2022)
-   36 citations · DAC
+   37 citations · DAC
 
 6. **Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources** (2021)
    5 citations

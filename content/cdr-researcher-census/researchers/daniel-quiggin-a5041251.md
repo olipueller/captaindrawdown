@@ -1,7 +1,7 @@
 ---
 title: "Daniel Quiggin"
-description: "Daniel Quiggin is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.004778
+description: "Daniel Quiggin is a Mid-career General CDR researcher at Centre for Science and Environment in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.976451
 url: "/cdr-researcher-census/researchers/daniel-quiggin-a5041251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Daniel Quiggin",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-quiggin-a5041251/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Centre for Science and Environment"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-4404-8466",
     "https://openalex.org/A5041251191"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Daniel Quiggin**
+**Daniel Quiggin**  
+Centre for Science and Environment · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 195 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 197 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Wang"
-description: "Jingjing Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.358587
+description: "Jingjing Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.310828
 url: "/cdr-researcher-census/researchers/jingjing-wang-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 791 |
+| h-index | 14 |
+| Citations | 804 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Enzyme Activities Affect SOC and TN in Aggregate Fractions in Sodic-Alkali Soils, Northeast of China** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **The Development and Utilization of Saline–Alkali Land in Western Jilin Province Promoted the Sequestration of Organic Carbon Fractions in Soil Aggregates** (2021)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

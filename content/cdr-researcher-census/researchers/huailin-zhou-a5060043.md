@@ -1,7 +1,7 @@
 ---
 title: "Huailin Zhou"
-description: "Huailin Zhou is a Mid-career Soil Carbon researcher at Zhengzhou University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.522426
+description: "Huailin Zhou is a Mid-career Soil Carbon researcher at Zhengzhou University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.469055
 url: "/cdr-researcher-census/researchers/huailin-zhou-a5060043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 485 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 503 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Variation in and Regulation of Carbon Use Efficiency of Grassland Ecosystem in Northern China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

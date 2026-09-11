@@ -1,7 +1,7 @@
 ---
 title: "Wenli Shao"
 description: "Wenli Shao is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.397781
+date: 2026-09-11T02:38:30.349370
 url: "/cdr-researcher-census/researchers/wenli-shao-a5012717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 104 |
+| Citations | 108 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nitrogen-doped biochar from dealkalized lignin with hierarchical porous structure for the efficient degradation of sulfamethoxazole via peroxymonosulfate activation** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

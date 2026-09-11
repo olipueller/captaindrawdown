@@ -1,7 +1,7 @@
 ---
 title: "Sinuo Lin"
 description: "Sinuo Lin is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.171351
+date: 2026-09-11T02:38:30.076188
 url: "/cdr-researcher-census/researchers/sinuo-lin-a5082888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 149 |
+| Citations | 168 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Elevational patterns of microbial carbon use efficiency in a subtropical mountain forest** (2023)
-   23 citations
+   24 citations
 
 2. **Distribution, characteristics, and importance of particulate and mineral-associated organic carbon in China forest: a meta-analysis** (2025)
    9 citations · Soil Carbon

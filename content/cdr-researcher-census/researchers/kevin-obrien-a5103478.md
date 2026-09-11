@@ -1,7 +1,7 @@
 ---
 title: "Kevin O’Brien"
-description: "Kevin O’Brien is a Senior DAC researcher at Intel (United Kingdom) in GB. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.378527
+description: "Kevin O’Brien is a Senior DAC researcher at Intel (United Kingdom) in GB. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.334162
 url: "/cdr-researcher-census/researchers/kevin-obrien-a5103478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 736 |
-| Publications | 51 |
-| CDR Focus | 5.9% |
+| Citations | 747 |
+| Publications | 50 |
+| CDR Focus | 6.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shunyao Zhuang"
-description: "Shunyao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.254710
+description: "Shunyao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 79 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.199740
 url: "/cdr-researcher-census/researchers/shunyao-zhuang-a5007069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,231 |
-| Publications | 78 |
-| CDR Focus | 6.4% |
+| h-index | 18 |
+| Citations | 1,281 |
+| Publications | 79 |
+| CDR Focus | 6.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

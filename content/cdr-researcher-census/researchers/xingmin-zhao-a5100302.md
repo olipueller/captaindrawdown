@@ -1,7 +1,7 @@
 ---
 title: "Xingmin Zhao"
-description: "Xingmin Zhao is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331280
+description: "Xingmin Zhao is a Senior Soil Carbon researcher at Nanjing University in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.282942
 url: "/cdr-researcher-census/researchers/xingmin-zhao-a5100302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xingmin-zhao-a5100302/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture and Rural Affairs"
+    "name": "Nanjing University"
   },
   "sameAs": "https://openalex.org/A5100302128"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xingmin Zhao**  
-Ministry of Agriculture and Rural Affairs · 🇨🇳 CN
+Nanjing University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 870 |
+| Citations | 890 |
 | Publications | 41 |
 | CDR Focus | 7.3% |
 | Trajectory | Growing |

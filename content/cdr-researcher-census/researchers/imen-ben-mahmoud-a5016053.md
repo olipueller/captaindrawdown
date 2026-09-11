@@ -1,7 +1,7 @@
 ---
 title: "Imen Ben Mahmoud"
 description: "Imen Ben Mahmoud is a Senior Soil Carbon researcher at University of Sfax in TN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.925287
+date: 2026-09-11T02:38:29.886376
 url: "/cdr-researcher-census/researchers/imen-ben-mahmoud-a5016053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 217 |
+| Citations | 223 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Xuedan Cui"
-description: "Xuedan Cui is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.670241
+description: "Xuedan Cui is a Mid-career Biochar researcher at Research Center for Eco-Environmental Sciences in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.581860
 url: "/cdr-researcher-census/researchers/xuedan-cui-a5047180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuedan-cui-a5047180/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing University of Chemical Technology"
+    "name": "Research Center for Eco-Environmental Sciences"
   },
   "sameAs": "https://openalex.org/A5047180991"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuedan Cui**  
-Beijing University of Chemical Technology · 🇨🇳 CN
+Research Center for Eco-Environmental Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,19 +39,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 351 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| h-index | 11 |
+| Citations | 392 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Degradation of trichloroethylene by biochar supported nano zero-valent iron (BC-nZVI): The role of specific surface area and electrochemical properties** (2023)
-   62 citations · Biochar
+   64 citations · Biochar
 
 2. **High-efficiency control of pesticide and heavy metal combined pollution in paddy soil using biochar/g-C3N4 photoresponsive soil remediation agent** (2022)
-   60 citations · Biochar
+   61 citations · Biochar
 
 3. **Degradation of Trichloroethylene by Biochar Supported Nano Zero-Valent Iron (Bc-Nzvi): The Role of Specific Surface Area and Electrochemical Properties** (2023)
    8 citations · Biochar

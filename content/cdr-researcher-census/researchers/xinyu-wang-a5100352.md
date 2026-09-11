@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Wang"
-description: "Xinyu Wang is a Mid-career Biochar researcher at North China Electric Power University in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.746538
+description: "Xinyu Wang is a Mid-career Biochar researcher at Inner Mongolia Agricultural University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.689267
 url: "/cdr-researcher-census/researchers/xinyu-wang-a5100352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinyu-wang-a5100352/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North China Electric Power University"
+    "name": "Inner Mongolia Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7084-7157",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xinyu Wang**  
-North China Electric Power University · 🇨🇳 CN
+Inner Mongolia Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 300 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 314 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Purification mechanism of city tail water by constructed wetland substrate with NaOH-modified corn straw biochar** (2022)
-   62 citations · Biochar
+   65 citations · Biochar
 
 2. **Study on city tail water treatment in constructed wetland with straw biochar substrate modified by freeze–thaw cycles** (2022)
    11 citations · Biochar

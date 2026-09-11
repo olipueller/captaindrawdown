@@ -1,7 +1,7 @@
 ---
 title: "Haidong Gu"
-description: "Haidong Gu is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.132954
+description: "Haidong Gu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 69 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.082538
 url: "/cdr-researcher-census/researchers/haidong-gu-a5101648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haidong-gu-a5101648/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinjiang Institute of Ecology and Geography"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7873-8919",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haidong Gu**  
-Xinjiang Institute of Ecology and Geography · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 3,028 |
-| Publications | 68 |
-| CDR Focus | 5.9% |
+| h-index | 26 |
+| Citations | 3,124 |
+| Publications | 69 |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Conservation tillage regulates the assembly, network structure and ecological function of the soil bacterial community in black soils** (2022)
-   54 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Enhancing microbial carbon use efficiency in organic rice farming through improved soil nutrient availability and microbial resource acquisition strategies** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Conservation tillage regulates soil bacterial community assemblies, network structures and ecological functions in black soils** (2021)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Organic amendments alter aggregate-scale microbial communities linked to carbon sequestration in Mollisols** (2026)
    0 citations

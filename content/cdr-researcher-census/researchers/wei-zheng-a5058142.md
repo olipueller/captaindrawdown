@@ -1,7 +1,7 @@
 ---
 title: "Wei Zheng"
-description: "Wei Zheng is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.956339
+description: "Wei Zheng is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.852552
 url: "/cdr-researcher-census/researchers/wei-zheng-a5058142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 212 |
+| h-index | 8 |
+| Citations | 235 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration enhancing soil carbon sequestration in karst rocky desertification ecosystems: A meta-analysis** (2024)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

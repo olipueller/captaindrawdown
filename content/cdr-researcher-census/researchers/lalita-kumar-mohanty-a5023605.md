@@ -1,7 +1,7 @@
 ---
 title: "Lalita Kumar Mohanty"
 description: "Lalita Kumar Mohanty is an Early-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.393287
+date: 2026-09-11T02:38:30.292601
 url: "/cdr-researcher-census/researchers/lalita-kumar-mohanty-a5023605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 105 |
+| Citations | 119 |
 | Publications | 30 |
 | CDR Focus | 23.3% |
 | Trajectory | Growing |
@@ -53,25 +53,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
    1 citations · General CDR
 
-3. **Impact of Organic Farming Practices on Crop Productivity and Soil Health: A Review** (2026)
+3. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+   1 citations · Biochar
+
+4. **Impact of Organic Farming Practices on Crop Productivity and Soil Health: A Review** (2026)
    0 citations
 
-4. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
+5. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
    0 citations · Biochar
 
-5. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+6. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
    0 citations
 
-6. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
+7. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
    0 citations · General CDR
 
-7. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
+8. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
    0 citations · General CDR
 
-8. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
-   0 citations · Biochar
-
-9. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+9. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
    0 citations · Biochar
 
 ## External Profiles

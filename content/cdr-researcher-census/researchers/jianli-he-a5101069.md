@@ -1,7 +1,7 @@
 ---
 title: "Jianli He"
-description: "Jianli He is a Senior Soil Carbon researcher at Mongolian University of Science and Technology in MN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.623700
+description: "Jianli He is a Senior Soil Carbon researcher at Mongolian University of Science and Technology in MN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.572680
 url: "/cdr-researcher-census/researchers/jianli-he-a5101069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 387 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 400 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The effects of continuous straw returning strategies on SOC balance upon fresh straw incorporation** (2023)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Long-Term Straw Returning Strategies Alter Soil Organic Carbon Sequestration During the Incorporation of Fresh Straw** (2022)
    0 citations · Soil Carbon

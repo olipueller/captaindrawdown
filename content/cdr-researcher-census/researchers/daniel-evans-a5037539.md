@@ -1,7 +1,7 @@
 ---
 title: "Daniel Evans"
-description: "Daniel Evans is a Senior Soil Carbon researcher at Cranfield University in GB. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.234548
+description: "Daniel Evans is a Senior Soil Carbon researcher at Cranfield University in GB. With 65 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.180319
 url: "/cdr-researcher-census/researchers/daniel-evans-a5037539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,368 |
-| Publications | 60 |
-| CDR Focus | 11.7% |
+| Citations | 1,420 |
+| Publications | 65 |
+| CDR Focus | 10.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Known Unknowns of Petrogenic Organic Carbon in Soils** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **The role of post UK-LGM erosion processes in the long-term storage of buried organic C across Great Britain – A ‘first order' assessment** (2022)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Organic carbon stocks in weathered bedrock—Establishing the soil parent material as a new horizon in soil carbon research** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Going Platinum: The <scp> <i>European Journal of Soil Science</i> </scp> at 75** (2024)
    1 citations · General CDR

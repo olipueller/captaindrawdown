@@ -1,7 +1,7 @@
 ---
 title: "Xinrui He"
-description: "Xinrui He is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.374398
+description: "Xinrui He is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.314824
 url: "/cdr-researcher-census/researchers/xinrui-he-a5028641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 749 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| Citations | 794 |
+| Publications | 39 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Functional Diversity Explains Ecosystem Carbon Storage in Subtropical Forests** (2025)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Decoding soil carbon and nitrogen dynamics: The integrated role of biotic and abiotic drivers in subtropical forests** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Soil microbial nutrient limitation and carbon use efficiency in relation to altitude and slope aspect in arid and semi-arid mountainous ecosystems** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

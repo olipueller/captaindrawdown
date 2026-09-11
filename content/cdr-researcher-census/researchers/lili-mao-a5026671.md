@@ -1,7 +1,7 @@
 ---
 title: "Lili Mao"
-description: "Lili Mao is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 67 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.175530
+description: "Lili Mao is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 67 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.127462
 url: "/cdr-researcher-census/researchers/lili-mao-a5026671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,991 |
+| h-index | 23 |
+| Citations | 2,001 |
 | Publications | 67 |
 | CDR Focus | 9.0% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Long-term cotton stubble return and subsoiling improve soil organic carbon by changing the stability and organic carbon of soil aggregates in coastal saline fields** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Long-term conservation tillage increase cotton rhizosphere sequestration of soil organic carbon by changing specific microbial CO2 fixation pathways in coastal saline soil** (2024)
    13 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Nakum Divyangkumar"
-description: "Nakum Divyangkumar is a Mid-career Biochar researcher at Junagadh Agricultural University in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.203946
+description: "Nakum Divyangkumar is a Mid-career Biochar researcher at Junagadh Agricultural University in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.097342
 url: "/cdr-researcher-census/researchers/nakum-divyangkumar-a5007863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 141 |
+| h-index | 8 |
+| Citations | 161 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cradle-to-gate analyses of biochar produced from agricultural crop residues by vacuum pyrolysis** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

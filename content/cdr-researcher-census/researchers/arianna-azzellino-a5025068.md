@@ -1,7 +1,7 @@
 ---
 title: "Arianna Azzellino"
-description: "Arianna Azzellino is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 185 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.133698
+description: "Arianna Azzellino is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 190 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.084251
 url: "/cdr-researcher-census/researchers/arianna-azzellino-a5025068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,994 |
-| Publications | 185 |
-| CDR Focus | 5.9% |
+| Citations | 3,069 |
+| Publications | 190 |
+| CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    23 citations · Ocean CDR
 
 2. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 3. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR
@@ -65,20 +65,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
-6. **Effects of pH-equilibrated ocean alkalinization on benthic calcifiers: a mesocosm study from the port of La Spezia (Italy)** (2026)
-   0 citations · Ocean CDR
-
-7. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
-   0 citations · Ocean CDR
-
-8. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
-   0 citations · Ocean CDR
-
-9. **CO2 Dissolution as Bicarbonate in Seawater: Potential Co-benefits for Net Primary Production** (2025)
-   0 citations · Ocean CDR
-
-10. **The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia** (2025)
+6. **Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)** (2026)
    0 citations · General CDR
+
+7. **Effects of pH-equilibrated ocean alkalinization on benthic calcifiers: a mesocosm study from the port of La Spezia (Italy)** (2026)
+   0 citations · Ocean CDR
+
+8. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
+   0 citations · Ocean CDR
+
+9. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+   0 citations · Ocean CDR
+
+10. **CO2 Dissolution as Bicarbonate in Seawater: Potential Co-benefits for Net Primary Production** (2025)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

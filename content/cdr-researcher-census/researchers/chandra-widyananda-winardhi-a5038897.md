@@ -1,7 +1,7 @@
 ---
 title: "Chandra Widyananda Winardhi"
 description: "Chandra Widyananda Winardhi is a Mid-career Enhanced Weathering researcher at Ghent University in BE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.329696
+date: 2026-09-11T02:38:30.245412
 url: "/cdr-researcher-census/researchers/chandra-widyananda-winardhi-a5038897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 116 |
+| Citations | 128 |
 | Publications | 26 |
 | CDR Focus | 19.2% |
 | Trajectory | Stable |

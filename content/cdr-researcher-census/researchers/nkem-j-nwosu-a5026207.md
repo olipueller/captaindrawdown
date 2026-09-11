@@ -1,7 +1,7 @@
 ---
 title: "Nkem J. Nwosu"
-description: "Nkem J. Nwosu is a Mid-career Soil Carbon researcher at University of Florida in US. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.026147
+description: "Nkem J. Nwosu is a Mid-career Soil Carbon researcher at Florida Department of Education in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.942533
 url: "/cdr-researcher-census/researchers/nkem-j-nwosu-a5026207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nkem-j-nwosu-a5026207/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Florida"
+    "name": "Florida Department of Education"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9360-6356",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nkem J. Nwosu**  
-University of Florida · 🇺🇸 US
+Florida Department of Education · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 189 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| Citations | 208 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Agricultural sustainability under unpredicted atmospheric changes—strategies to enhance crop resilience and system efficiency: a narrative review** (2025)
-   3 citations
+   5 citations
 
-2. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2024)
+2. **Biochar As a Sustainable Strategy for Improving Nutrient Use Efficiency and Crop Performance** (2026)
+   3 citations · Biochar
+
+3. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2024)
    2 citations · General CDR
-
-3. **Biochar As a Sustainable Strategy for Improving Nutrient Use Efficiency and Crop Performance** (2026)
-   1 citations · Biochar
 
 4. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2025)
    0 citations · Soil Carbon

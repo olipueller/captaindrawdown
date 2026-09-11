@@ -1,7 +1,7 @@
 ---
 title: "Laura Trozzo"
-description: "Laura Trozzo is a Mid-career Biochar researcher at Marche Polytechnic University in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.680190
+description: "Laura Trozzo is a Mid-career Biochar researcher at Marche Polytechnic University in IT. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.621993
 url: "/cdr-researcher-census/researchers/laura-trozzo-a5018448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 344 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 360 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Management of a Mediterranean Forage/Cereal-Based Cropping System: An Ecosystem Service Multisectoral Analysis in the Perspective of Climate Change** (2022)
-   8 citations · General CDR
+1. **Wood gasification biochar enhances soil carbon sequestration without affecting greenhouse gas fluxes or wheat yield in sub-alkaline soil** (2025)
+   8 citations · Biochar
 
-2. **Wood gasification biochar enhances soil carbon sequestration without affecting greenhouse gas fluxes or wheat yield in sub-alkaline soil** (2025)
-   7 citations · Biochar
+2. **Management of a Mediterranean Forage/Cereal-Based Cropping System: An Ecosystem Service Multisectoral Analysis in the Perspective of Climate Change** (2022)
+   8 citations · General CDR
 
 ## External Profiles
 

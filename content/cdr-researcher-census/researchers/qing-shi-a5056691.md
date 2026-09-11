@@ -1,7 +1,7 @@
 ---
 title: "Qing Shi"
 description: "Qing Shi is a Mid-career Enhanced Weathering researcher at Hebei Food Inspection and Research Institute in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.319331
+date: 2026-09-11T02:38:30.276671
 url: "/cdr-researcher-census/researchers/qing-shi-a5056691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 118 |
+| Citations | 122 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced simultaneous CO2 mineralization and cadmium immobilization in a wide pH range by using ball-milled serpentine** (2023)
-   26 citations · Enhanced Weathering
+   27 citations · Enhanced Weathering
 
 ## External Profiles
 

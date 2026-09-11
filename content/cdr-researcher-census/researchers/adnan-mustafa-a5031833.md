@@ -1,7 +1,7 @@
 ---
 title: "Adnan Mustafa"
 description: "Adnan Mustafa is an Eminent Soil Carbon researcher at Brno University of Technology in CZ. With 191 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.080083
+date: 2026-09-11T02:38:29.031588
 url: "/cdr-researcher-census/researchers/adnan-mustafa-a5031833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 47 |
-| Citations | 7,700 |
+| Citations | 7,998 |
 | Publications | 191 |
 | CDR Focus | 8.9% |
 | Trajectory | Stable |
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    76 citations · Soil Carbon
 
 3. **Co-utilization of green manure with straw return enhances the stability of soil organic carbon by regulating iron-mediated stabilization of aggregate-associated organic carbon in paddy soil** (2025)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 4. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 5. **Carbon-enriched organic amendments differently affect the soil chemical, biological properties and plant biomass in a cultivation time-dependent manner** (2022)
-   23 citations · General CDR
+   24 citations · General CDR
 
 6. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
    22 citations · Biochar
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations
 
 10. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

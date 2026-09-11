@@ -1,7 +1,7 @@
 ---
 title: "Assefa Abegaz"
-description: "Assefa Abegaz is a Senior Soil Carbon researcher at Addis Ababa University in ET. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.241310
+description: "Assefa Abegaz is a Senior Soil Carbon researcher at Addis Ababa University in ET. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.189815
 url: "/cdr-researcher-census/researchers/assefa-abegaz-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,323 |
-| Publications | 69 |
-| CDR Focus | 8.7% |
+| Citations | 1,361 |
+| Publications | 71 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Estimating spatially distributed SOC sequestration potentials of sustainable land management practices in Ethiopia** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Modeling long-term attainable soil organic carbon sequestration across the highlands of Ethiopia** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
-3. **Impacts of watershed management and topographic positions on soil organic carbon and total nitrogen stocks in Northeast highlands of Ethiopia** (2024)
+3. **Modelling SOC dynamics on cropland under different regenerative agriculture practices and climate change scenario using RothC model in the Abbay basin of Ethiopia** (2025)
    2 citations · Soil Carbon
 
-4. **Modelling SOC dynamics on cropland under different regenerative agriculture practices and climate change scenario using RothC model in the Abbay basin of Ethiopia** (2025)
-   1 citations · Soil Carbon
+4. **Impacts of watershed management and topographic positions on soil organic carbon and total nitrogen stocks in Northeast highlands of Ethiopia** (2024)
+   2 citations · Soil Carbon
 
 5. **Interactive Web Tool for Mapping Soil Organic Carbon Dynamics** (2025)
    0 citations · General CDR

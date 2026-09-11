@@ -1,7 +1,7 @@
 ---
 title: "Obianuju Patience Ilo"
 description: "Obianuju Patience Ilo is a Mid-career Biochar researcher at University of South Africa in ZA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.065013
+date: 2026-09-11T02:38:29.971062
 url: "/cdr-researcher-census/researchers/obianuju-patience-ilo-a5043691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 178 |
+| Citations | 199 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A critical review of low-cost biosorbents derived from animal dung for effective adsorption of dye pollutants** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Minzhong Zou"
-description: "Minzhong Zou is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.768737
+description: "Minzhong Zou is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.705832
 url: "/cdr-researcher-census/researchers/minzhong-zou-a5069347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Minzhong Zou",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/minzhong-zou-a5069347/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Huawei Technologies (China)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-4838-2821",
     "https://openalex.org/A5069347218"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Minzhong Zou**  
-Huawei Technologies (China) · 🇨🇳 CN
+**Minzhong Zou**
 
 **Career Stage:** Mid-career
 
@@ -42,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 289 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| h-index | 10 |
+| Citations | 306 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

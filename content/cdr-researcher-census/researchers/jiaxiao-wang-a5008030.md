@@ -1,7 +1,7 @@
 ---
 title: "Jiaxiao Wang"
-description: "Jiaxiao Wang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.574610
+description: "Jiaxiao Wang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.500143
 url: "/cdr-researcher-census/researchers/jiaxiao-wang-a5008030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 432 |
+| h-index | 8 |
+| Citations | 468 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities** (2023)
-   294 citations · Biochar
+   306 citations · Biochar
 
 2. **Co-hydrothermal carbonization of waste biomass and phosphate rock: promoted carbon sequestration and enhanced phosphorus bioavailability** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

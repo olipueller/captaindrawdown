@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Wang"
 description: "Xiaoyu Wang is a Senior Soil Carbon researcher at Wenzhou University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.590421
+date: 2026-09-11T02:38:29.542780
 url: "/cdr-researcher-census/researchers/xiaoyu-wang-a5100357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 418 |
+| Citations | 426 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Allometric Growth and Carbon Sequestration of Young Kandelia obovata Plantations in a Constructed Urban Costal Wetland in Haicang Bay, Southeast China** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

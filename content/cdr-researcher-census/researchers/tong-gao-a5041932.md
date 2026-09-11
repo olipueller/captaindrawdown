@@ -1,7 +1,7 @@
 ---
 title: "Tong Gao"
-description: "Tong Gao is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.401172
+description: "Tong Gao is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.349118
 url: "/cdr-researcher-census/researchers/tong-gao-a5041932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 688 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| Citations | 710 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · General CDR
 
 3. **Effect of thinning intensity on the carbon sequestration of natural mixed coniferous and broadleaf forests in Xiaoxing’an Mountains, China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Effects of seasonal changes on the carbon dynamics in mixed coniferous forests** (2022)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Haichao Li"
-description: "Haichao Li is a Senior Soil Carbon researcher at University of Bonn in DE. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.172431
+description: "Haichao Li is a Senior Soil Carbon researcher at University of Bonn in DE. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.121027
 url: "/cdr-researcher-census/researchers/haichao-li-a5100329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,040 |
-| Publications | 63 |
-| CDR Focus | 6.3% |
+| Citations | 2,103 |
+| Publications | 65 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   86 citations · Biochar
+   89 citations · Biochar
 
 2. **Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    9 citations · Soil Carbon

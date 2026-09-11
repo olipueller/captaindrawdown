@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Belcaid"
-description: "Ayoub Belcaid is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.180405
+description: "Ayoub Belcaid is a Mid-career Biochar researcher at Université Mohammed VI Polytechnique in MA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.115980
 url: "/cdr-researcher-census/researchers/ayoub-belcaid-a5038852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ayoub-belcaid-a5038852/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Hassan 1er"
+    "name": "Universit\u00e9 Mohammed VI Polytechnique"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1479-7594",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ayoub Belcaid**  
-Université Hassan 1er ·  MA
+Université Mohammed VI Polytechnique ·  MA
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 146 |
-| Publications | 6 |
-| CDR Focus | 33.3% |
+| Citations | 156 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Insight into adsorptive removal of methylene blue, malachite green, and rhodamine B dyes by cassava peel biochar (Manihot esculenta Crantz) in single, binary, and ternary systems: competitive adsorption study and theoretical calculations** (2022)
-   51 citations · Biochar
+   53 citations · Biochar
 
 2. **Biosorption of cobalt and chromium from wastewater using manganese dioxide and iron oxide nanoparticles loaded on cellulose-based biochar: Modeling and optimization with machine learning (artificial neural network)** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

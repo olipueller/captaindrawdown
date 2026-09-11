@@ -1,7 +1,7 @@
 ---
 title: "Ksenia Velmozhina"
 description: "Ksenia Velmozhina is a Mid-career BECCS researcher at Peter the Great St. Petersburg Polytechnic University in RU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.297543
+date: 2026-09-11T02:38:30.212348
 url: "/cdr-researcher-census/researchers/ksenia-velmozhina-a5070005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 122 |
+| Citations | 134 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

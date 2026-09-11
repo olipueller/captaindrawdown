@@ -1,7 +1,7 @@
 ---
 title: "Zhe Weng"
-description: "Zhe Weng is a Senior Biochar researcher at University of Adelaide in AU. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.135934
+description: "Zhe Weng is a Senior Biochar researcher at University of Adelaide in AU. With 58 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.084129
 url: "/cdr-researcher-census/researchers/zhe-weng-a5005076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,929 |
-| Publications | 57 |
-| CDR Focus | 7.0% |
+| Citations | 3,070 |
+| Publications | 58 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Probing the nature of soil organic matter** (2021)
-   111 citations · General CDR
+   112 citations · General CDR
 
 2. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   72 citations · Biochar
+   73 citations · Biochar
 
 3. **Estimates vary but credible evidence points to gigaton-scale climate change mitigation potential of biochar** (2025)
-   24 citations · Biochar
+   26 citations · Biochar
 
 4. **Biochar, greenhouse gas accounting, and climate change mitigation** (2024)
    10 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Oksana Maliarenko"
 description: "Oksana Maliarenko is a Mid-career Soil Carbon researcher at National Academy of Agrarian Sciences of Ukraine in UA. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.781626
+date: 2026-09-11T02:38:29.740639
 url: "/cdr-researcher-census/researchers/oksana-maliarenko-a5057751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 282 |
+| Citations | 288 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

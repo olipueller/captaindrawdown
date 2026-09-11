@@ -1,7 +1,7 @@
 ---
 title: "Yunxing Bai"
-description: "Yunxing Bai is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.491561
+description: "Yunxing Bai is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.426468
 url: "/cdr-researcher-census/researchers/yunxing-bai-a5101577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 528 |
-| Publications | 38 |
-| CDR Focus | 10.5% |
+| h-index | 12 |
+| Citations | 570 |
+| Publications | 39 |
+| CDR Focus | 10.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mixing of pine and arbuscular mycorrhizal tree species changed soil organic carbon storage by affecting soil microbial characteristics** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Tree species influence microbiome-mediated nutrient sequestration in soil aggregates of subtropical plantations in China** (2025)
    9 citations
 
 3. **Soil phosphorus compared to nitrogen limitation increases the uncertainty of subsoil organic carbon sequestration in Pinus massoniana mixed forests** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Grazing Intensity Alters Vertical Nutrient Stratification Through Plant–Soil Cascading Effects in Karst Grasslands of Southern Guizhou, China** (2025)
    2 citations · Soil Carbon
 
 5. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
+
+6. **Litter mixing ratios alter humification in subtropical conifer–broadleaf plantations** (2026)
+   0 citations
 
 ## External Profiles
 

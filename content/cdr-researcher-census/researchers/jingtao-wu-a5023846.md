@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Wu"
-description: "Jingtao Wu is a Senior Soil Carbon researcher at Dongguan University of Technology in CN. With 77 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.184866
+description: "Jingtao Wu is a Senior Soil Carbon researcher at Dongguan University of Technology in CN. With 75 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.143134
 url: "/cdr-researcher-census/researchers/jingtao-wu-a5023846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,850 |
-| Publications | 77 |
-| CDR Focus | 9.1% |
+| h-index | 24 |
+| Citations | 1,779 |
+| Publications | 75 |
+| CDR Focus | 9.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   91 citations · General CDR
+   97 citations · General CDR
 
 2. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 4. **Intensified rainfall in the wet season alters the microbial contribution to soil carbon storage** (2022)
    31 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 7. **Soil Organic Carbon Research and Hotspot Analysis Based on Web of Science: A Bibliometric Analysis in CiteSpace** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 8. **The Hare and the Tortoise: Different Responses of Tropical Forest Soil Microorganisms to Changes in Precipitation Patterns** (2021)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Agnihorti"
-description: "Rajesh Agnihorti is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.158274
+description: "Rajesh Agnihorti is a Mid-career Soil Carbon researcher at Birbal Sahni Institute of Palaeosciences in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.127777
 url: "/cdr-researcher-census/researchers/rajesh-agnihorti-a5063588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rajesh Agnihorti",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rajesh-agnihorti-a5063588/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Birbal Sahni Institute of Palaeosciences"
+  },
   "sameAs": "https://openalex.org/A5063588275"
 }
 </script>
 
 ## Profile
 
-**Rajesh Agnihorti**
+**Rajesh Agnihorti**  
+Birbal Sahni Institute of Palaeosciences · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 152 |
+| Citations | 154 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -43,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

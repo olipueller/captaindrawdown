@@ -1,7 +1,7 @@
 ---
 title: "Britt Fossum"
 description: "Britt Fossum is an Early-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.304850
+date: 2026-09-11T02:38:30.176584
 url: "/cdr-researcher-census/researchers/britt-fossum-a5068490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 121 |
+| Citations | 142 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of pyrolysis temperature and feedstock type on biochar characteristics pertinent to soil carbon and soil health: A meta‐analysis** (2022)
-   125 citations · Biochar
+   131 citations · Biochar
 
 2. **Soil organic carbon fractionation in sandy soils in the semiarid grasslands and forested areas of Nebraska Sandhills** (2025)
    2 citations · Soil Carbon

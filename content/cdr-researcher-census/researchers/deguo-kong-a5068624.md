@@ -1,7 +1,7 @@
 ---
 title: "Deguo Kong"
 description: "Deguo Kong is a Mid-career Biochar researcher at Xinjiang Production and Construction Corps in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.725984
+date: 2026-09-11T02:38:29.688994
 url: "/cdr-researcher-census/researchers/deguo-kong-a5068624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 313 |
+| Citations | 315 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

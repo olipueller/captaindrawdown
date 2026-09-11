@@ -1,7 +1,7 @@
 ---
 title: "Jinlin Tan"
-description: "Jinlin Tan is a Mid-career Soil Carbon researcher at Monash University in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.990644
+description: "Jinlin Tan is a Mid-career Soil Carbon researcher at Australian Regenerative Medicine Institute in AU. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.956264
 url: "/cdr-researcher-census/researchers/jinlin-tan-a5059066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinlin-tan-a5059066/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Monash University"
+    "name": "Australian Regenerative Medicine Institute"
   },
   "sameAs": [
     "https://orcid.org/0009-0008-0421-0191",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jinlin Tan**  
-Monash University · 🇦🇺 AU
+Australian Regenerative Medicine Institute · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 200 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 203 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Review of <scp>Fe–S–C</scp> Dynamics in Blue Carbon Environments: Potential Influence of Coastal Acid Sulfate Soils** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jhud Mikhail Aberilla"
 description: "Jhud Mikhail Aberilla is a Mid-career General CDR researcher at University of the Philippines Diliman in PH. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.581267
+date: 2026-09-11T02:38:29.520147
 url: "/cdr-researcher-census/researchers/jhud-mikhail-aberilla-a5056973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 426 |
+| Citations | 448 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Techno-economic and life cycle assessment of membrane separation in post-combustion carbon capture: A review** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 2. **Techno-Economic and Environmental Sustainability Assessment of Rice Straw-Based Bioenergy with Carbon Capture and Utilization** (2024)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Sophie Hebden"
-description: "Sophie Hebden is a Senior General CDR researcher at European Space Agency in FR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.720868
+description: "Sophie Hebden is a Senior General CDR researcher at European Space Agency in FR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.637663
 url: "/cdr-researcher-census/researchers/sophie-hebden-a5031114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 315 |
+| h-index | 7 |
+| Citations | 349 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

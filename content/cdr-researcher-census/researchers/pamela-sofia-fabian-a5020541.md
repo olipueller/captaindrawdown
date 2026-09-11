@@ -1,7 +1,7 @@
 ---
 title: "Pamela Sofia Fabian"
-description: "Pamela Sofia Fabian is an Early-career Biochar researcher at University of Seoul in KR. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.199304
+description: "Pamela Sofia Fabian is an Early-career Biochar researcher at University of Seoul in KR. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.159169
 url: "/cdr-researcher-census/researchers/pamela-sofia-fabian-a5020541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 142 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 146 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

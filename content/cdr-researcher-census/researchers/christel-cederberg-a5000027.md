@@ -1,7 +1,7 @@
 ---
 title: "Christel Cederberg"
-description: "Christel Cederberg is a Senior General CDR researcher at Chalmers tekniska hogskola in SE. With 118 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.077873
+description: "Christel Cederberg is a Senior General CDR researcher at Chalmers tekniska hogskola in SE. With 119 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.030625
 url: "/cdr-researcher-census/researchers/christel-cederberg-a5000027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 37 |
-| Citations | 8,373 |
-| Publications | 118 |
-| CDR Focus | 5.1% |
+| Citations | 8,427 |
+| Publications | 119 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Risk to rely on soil carbon sequestration to offset global ruminant emissions** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy** (2022)
    19 citations · BECCS

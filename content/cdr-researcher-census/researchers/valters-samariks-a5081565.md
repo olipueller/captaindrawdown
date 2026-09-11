@@ -1,7 +1,7 @@
 ---
 title: "Valters Samariks"
-description: "Valters Samariks is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.303422
+description: "Valters Samariks is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.266377
 url: "/cdr-researcher-census/researchers/valters-samariks-a5081565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 121 |
-| Publications | 29 |
-| CDR Focus | 17.2% |
+| Citations | 124 |
+| Publications | 32 |
+| CDR Focus | 15.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Impact of Former Peat Extraction Field Afforestation on Soil Greenhouse Gas Emissions in Hemiboreal Region** (2023)
-   9 citations
+   10 citations
 
 2. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
    5 citations · Soil Carbon

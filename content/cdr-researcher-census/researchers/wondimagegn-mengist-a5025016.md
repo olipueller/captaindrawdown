@@ -1,7 +1,7 @@
 ---
 title: "Wondimagegn Mengist"
 description: "Wondimagegn Mengist is a Mid-career Soil Carbon researcher at Debre Berhan University in ET. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.173960
+date: 2026-09-11T02:38:29.123308
 url: "/cdr-researcher-census/researchers/wondimagegn-mengist-a5025016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 2,015 |
+| Citations | 2,070 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of carbon sequestration service for landscape dynamics in the Kaffa biosphere reserve, southwest Ethiopia** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **The role of sustainable land management practices on enhancing ecosystem services in the highlands of Ethiopia** (2025)
    2 citations · Soil Carbon

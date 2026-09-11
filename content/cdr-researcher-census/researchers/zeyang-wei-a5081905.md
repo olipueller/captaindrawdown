@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Wei"
-description: "Zeyang Wei is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.135214
+description: "Zeyang Wei is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.047186
 url: "/cdr-researcher-census/researchers/zeyang-wei-a5081905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 158 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 176 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatiotemporal dynamics of soil organic carbon at 30 m-resolution in Europe: responses to land cover stability and conversion** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

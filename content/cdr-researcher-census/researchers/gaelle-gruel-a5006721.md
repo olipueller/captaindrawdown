@@ -1,7 +1,7 @@
 ---
 title: "Gaëlle Gruel"
-description: "Gaëlle Gruel is a Mid-career Biochar researcher at Université des Antilles in GP. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.016907
+description: "Gaëlle Gruel is a Mid-career Biochar researcher at Ecologie des Forêts de Guyane in GF. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.975455
 url: "/cdr-researcher-census/researchers/gaelle-gruel-a5006721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gaelle-gruel-a5006721/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 des Antilles"
+    "name": "Ecologie des For\u00eats de Guyane"
   },
   "sameAs": "https://openalex.org/A5006721080"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Gaëlle Gruel**  
-Université des Antilles ·  GP
+Ecologie des Forêts de Guyane ·  GF
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 192 |
+| Citations | 198 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

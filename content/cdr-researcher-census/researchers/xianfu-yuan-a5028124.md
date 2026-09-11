@@ -1,7 +1,7 @@
 ---
 title: "Xianfu Yuan"
 description: "Xianfu Yuan is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.617989
+date: 2026-09-11T02:38:29.563910
 url: "/cdr-researcher-census/researchers/xianfu-yuan-a5028124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 392 |
+| Citations | 406 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

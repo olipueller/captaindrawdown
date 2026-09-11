@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhang"
-description: "Jian Zhang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.400423
+description: "Jian Zhang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.349634
 url: "/cdr-researcher-census/researchers/jian-zhang-a5100410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 689 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 709 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Trade-offs and driving factors of multiple ecosystem services and bundles under spatiotemporal changes in the Danjiangkou Basin, China** (2022)
-   28 citations · General CDR
+   29 citations · General CDR
 
 2. **Performance and mechanisms of reactive substrates in constructed wetlands: Emerging contaminant removal and greenhouse gas mitigation—A comprehensive review** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

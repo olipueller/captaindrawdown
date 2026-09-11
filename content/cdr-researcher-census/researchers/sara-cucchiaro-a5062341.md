@@ -1,7 +1,7 @@
 ---
 title: "Sara Cucchiaro"
-description: "Sara Cucchiaro is a Mid-career Soil Carbon researcher at University of Udine in IT. With 98 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.293056
+description: "Sara Cucchiaro is a Mid-career Soil Carbon researcher at University of Udine in IT. With 104 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.243752
 url: "/cdr-researcher-census/researchers/sara-cucchiaro-a5062341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,024 |
-| Publications | 98 |
-| CDR Focus | 6.1% |
+| h-index | 19 |
+| Citations | 1,044 |
+| Publications | 104 |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

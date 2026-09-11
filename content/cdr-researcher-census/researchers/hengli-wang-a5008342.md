@@ -1,7 +1,7 @@
 ---
 title: "Hengli Wang"
-description: "Hengli Wang is a Mid-career Soil Carbon researcher at Zhongnan University of Economics and Law in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.131332
+description: "Hengli Wang is a Mid-career Soil Carbon researcher at Zhongnan University of Economics and Law in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.072402
 url: "/cdr-researcher-census/researchers/hengli-wang-a5008342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 159 |
+| h-index | 7 |
+| Citations | 169 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon fractions in the arid valley of the upper reaches of the yangtze river, china** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

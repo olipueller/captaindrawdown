@@ -1,7 +1,7 @@
 ---
 title: "Junli Du"
 description: "Junli Du is a Mid-career Soil Carbon researcher at Anhui University of Science and Technology in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.347898
+date: 2026-09-11T02:38:29.297798
 url: "/cdr-researcher-census/researchers/junli-du-a5014143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 822 |
+| Citations | 843 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Biodegradable Plastic Film Residues Impede Soil Organic Carbon Sequestration and Macroaggregate-Associated Carbon Storage in Agricultural Soil** (2025)
    2 citations · Soil Carbon

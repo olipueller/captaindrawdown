@@ -1,7 +1,7 @@
 ---
 title: "Haihou Wang"
-description: "Haihou Wang is a Senior Biochar researcher at Suzhou Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.570112
+description: "Haihou Wang is a Senior Biochar researcher at Suzhou Academy of Agricultural Sciences in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.514568
 url: "/cdr-researcher-census/researchers/haihou-wang-a5018140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 436 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 453 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessment of livestock manure-derived hydrochar as cleaner products: Insights into basic properties, nutrient composition, and heavy metal content** (2021)
-   80 citations · Biochar
+   81 citations · Biochar
 
 2. **Straw type and returning amount affects SOC fractions and Fe/Al oxides in a rice-wheat rotation system** (2022)
    37 citations · Soil Carbon

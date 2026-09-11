@@ -1,7 +1,7 @@
 ---
 title: "Senthil Kumar Muniasamy"
-description: "Senthil Kumar Muniasamy is a Mid-career Ocean CDR researcher at Karpagam Academy of Higher Education in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.449735
+description: "Senthil Kumar Muniasamy is a Mid-career Ocean CDR researcher at Karpagam Academy of Higher Education in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.393463
 url: "/cdr-researcher-census/researchers/senthil-kumar-muniasamy-a5100751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 593 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 620 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

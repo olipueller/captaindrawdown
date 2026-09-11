@@ -1,7 +1,7 @@
 ---
 title: "Guanhong Zhu"
 description: "Guanhong Zhu is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.756324
+date: 2026-09-11T02:38:29.682296
 url: "/cdr-researcher-census/researchers/guanhong-zhu-a5053185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 295 |
+| Citations | 318 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Fractionation Mechanism and Flux Estimation of Strontium Isotopes During Basalt Weathering** (2024)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 2. **pH controlling boron isotope fractionation during chemical weathering of basalt** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

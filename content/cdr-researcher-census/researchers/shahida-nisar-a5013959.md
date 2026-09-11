@@ -1,7 +1,7 @@
 ---
 title: "Shahida Nisar"
 description: "Shahida Nisar is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.661067
+date: 2026-09-11T02:38:29.605049
 url: "/cdr-researcher-census/researchers/shahida-nisar-a5013959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 358 |
+| Citations | 374 |
 | Publications | 15 |
 | CDR Focus | 26.7% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Structural Stability and Organic Matter Stabilization in Soils: Differential Impacts of Soil Salinity and Sodicity** (2023)
-   46 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Tillage and mulching effects on carbon stabilization in physical and chemical pools of soil organic matter in a coarse textured soil** (2024)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Owais Ahmad Bhat"
-description: "Owais Ahmad Bhat is a Mid-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.271549
+description: "Owais Ahmad Bhat is a Mid-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.186003
 url: "/cdr-researcher-census/researchers/owais-ahmad-bhat-a5004118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 127 |
+| h-index | 4 |
+| Citations | 140 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of Biochar for Improving Physical, Chemical, and Hydrological Soil Properties: A Systematic Review** (2022)
-   106 citations · Biochar
+   112 citations · Biochar
 
 ## External Profiles
 

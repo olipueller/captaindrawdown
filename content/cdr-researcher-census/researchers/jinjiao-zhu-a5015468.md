@@ -1,7 +1,7 @@
 ---
 title: "Jinjiao Zhu"
-description: "Jinjiao Zhu is a Mid-career Biochar researcher at Yancheng Institute of Technology in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.329390
+description: "Jinjiao Zhu is a Mid-career Biochar researcher at Yancheng Institute of Technology in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.269988
 url: "/cdr-researcher-census/researchers/jinjiao-zhu-a5015468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 876 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 935 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect mechanism of phosphorous-containing additives on carbon structure evolution and biochar stability enhancement** (2024)
-   66 citations · Biochar
+   72 citations · Biochar
 
 2. **Temperature-dependent evolution of N-doped biochar: structure, stability, and catalytic performance** (2025)
    5 citations · Biochar

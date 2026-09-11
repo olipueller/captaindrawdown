@@ -1,7 +1,7 @@
 ---
 title: "Hengfeng Miao"
-description: "Hengfeng Miao is a Mid-career Biochar researcher at Jiangnan University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.190908
+description: "Hengfeng Miao is an Early-career Biochar researcher at Jiangnan University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.367256
 url: "/cdr-researcher-census/researchers/hengfeng-miao-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Hengfeng Miao**  
 Jiangnan University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 144 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 4 |
+| Citations | 105 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Iron/nitrogen co-doped biochar derived from salvaged cyanobacterial for efficient peroxymonosulfate activation and ofloxacin degradation: Synergistic effect of Fe/N in non-radical path** (2023)
-   49 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dimitris Triantakonstantis"
 description: "Dimitris Triantakonstantis is a Senior Soil Carbon researcher at University of Patras in GR. With 52 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.463346
+date: 2026-09-11T02:38:29.433155
 url: "/cdr-researcher-census/researchers/dimitris-triantakonstantis-a5051525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 570 |
+| Citations | 558 |
 | Publications | 52 |
 | CDR Focus | 9.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Greek National Map of Soil Organic Carbon** (2021)
-   2 citations · General CDR
+1. **Soil organic carbon sequestration potential dynamics in saline and sodic soils in Greece** (2023)
+   2 citations · Soil Carbon
 
-2. **Soil organic carbon sequestration potential dynamics in saline and sodic soils in Greece** (2023)
-   1 citations · Soil Carbon
+2. **Greek National Map of Soil Organic Carbon** (2021)
+   2 citations · General CDR
 
 3. **Mapping the soil organic carbon sequestration potential of Greek agricultural soils** (2024)
    0 citations · Soil Carbon

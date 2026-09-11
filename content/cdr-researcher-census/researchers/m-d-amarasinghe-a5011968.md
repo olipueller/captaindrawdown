@@ -1,7 +1,7 @@
 ---
 title: "M. D. Amarasinghe"
 description: "M. D. Amarasinghe is a Senior Biochar researcher at University of Kelaniya in LK. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.213142
+date: 2026-09-11T02:38:29.161730
 url: "/cdr-researcher-census/researchers/m-d-amarasinghe-a5011968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,541 |
+| Citations | 1,584 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Propensity and appraisal of biochar performance in removal of oil spills: A comprehensive review** (2021)
-   81 citations · Biochar
+   84 citations · Biochar
 
 2. **Carbon sequestration potential of 25-year-old planted mangroves: effects of monoculture cultivation, natural species colonization, and multi-species transition** (2025)
    2 citations · Soil Carbon

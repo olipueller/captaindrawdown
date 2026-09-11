@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Wu"
 description: "Jingjing Wu is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.679031
+date: 2026-09-11T02:38:29.635805
 url: "/cdr-researcher-census/researchers/jingjing-wu-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 345 |
+| Citations | 351 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

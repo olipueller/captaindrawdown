@@ -1,7 +1,7 @@
 ---
 title: "Dipal Patel"
-description: "Dipal Patel is a Mid-career General CDR researcher at Teesside University in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.384968
+description: "Dipal Patel is a Mid-career General CDR researcher at Teesside University in GB. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.306990
 url: "/cdr-researcher-census/researchers/dipal-patel-a5066837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 106 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 116 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Recent developments on carbon neutrality through carbon dioxide capture and utilization with clean hydrogen for production of alternative fuels for smart cities** (2024)
-   89 citations · General CDR
+   92 citations · General CDR
 
 ## External Profiles
 

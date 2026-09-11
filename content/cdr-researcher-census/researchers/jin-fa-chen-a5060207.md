@@ -1,7 +1,7 @@
 ---
 title: "Jin-Fa Chen"
-description: "Jin-Fa Chen is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225968
+description: "Jin-Fa Chen is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 59 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.172986
 url: "/cdr-researcher-census/researchers/jin-fa-chen-a5060207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,428 |
-| Publications | 55 |
-| CDR Focus | 5.5% |
+| Citations | 1,473 |
+| Publications | 59 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **[Effect of Straw Return on Soil Aggregate Composition and Carbon Fractions in Typical Farmland of the Loess Plateau].** (2025)
    0 citations · Soil Carbon

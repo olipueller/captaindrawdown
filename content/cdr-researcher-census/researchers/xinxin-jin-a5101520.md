@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
-description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 98 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.139469
+description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 101 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.088224
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 27 |
-| Citations | 2,784 |
-| Publications | 98 |
-| CDR Focus | 11.2% |
+| h-index | 28 |
+| Citations | 2,863 |
+| Publications | 101 |
+| CDR Focus | 11.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Review on Carbon Source and Sink in Arable Land Ecosystems** (2022)
-   56 citations · General CDR
+   57 citations · General CDR
 
 2. **Anthropogenic controls over soil organic carbon distribution from the cultivated lands in Northeast China** (2021)
    30 citations · Soil Carbon
 
 3. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
-   9 citations · Biochar
+   10 citations · Biochar
 
 5. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon
 
 6. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 7. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
    1 citations · Biochar
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Quantifying Soil Organic Carbon Sequestration Potentials in Cultivated Land Ecosystems in Northeast China** (2022)
    1 citations · Soil Carbon
 
-10. **Assessing soil organic carbon sequestration capacity and its multi-ecosystem driving mechanisms in Northeast China** (2026)
-   0 citations · Soil Carbon
+10. **Biochar facilitates the accumulation of organic matter within macroaggregates in paddy soil** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

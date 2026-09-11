@@ -1,7 +1,7 @@
 ---
 title: "Khandakar Rafiq Islam"
-description: "Khandakar Rafiq Islam is a Senior Soil Carbon researcher at The Ohio State University in US. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.382682
+description: "Khandakar Rafiq Islam is a Senior Soil Carbon researcher at The Ohio State University in US. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.333797
 url: "/cdr-researcher-census/researchers/khandakar-rafiq-islam-a5089251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 727 |
-| Publications | 51 |
-| CDR Focus | 11.8% |
+| h-index | 15 |
+| Citations | 748 |
+| Publications | 52 |
+| CDR Focus | 11.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar amendment impacts on microbial community structures and biological and enzyme activities in a weathered tropical sandy loam** (2021)
-   82 citations · Biochar
+   84 citations · Biochar
 
 2. **Deforestation impacts soil organic carbon and nitrogen pools and carbon lability under Mediterranean climates** (2022)
    15 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Long-term continuous no-till corn-soybean systems: Examining soil carbon sequestration and nitrogen accumulation across various pools** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Shrub-Willow Living Snow Fences Impact on Soil Carbon and Nitrogen Pools and their Lability** (2024)
    0 citations · General CDR

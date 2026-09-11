@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
-description: "Tobias Bromm is a Mid-career Biochar researcher at Luther University in KR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.418983
+description: "Tobias Bromm is a Mid-career Biochar researcher at Luther University in KR. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.362530
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,29 +43,35 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 646 |
-| Publications | 38 |
-| CDR Focus | 15.8% |
-| Trajectory | Stable |
+| Citations | 680 |
+| Publications | 42 |
+| CDR Focus | 19.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis** (2021)
-   201 citations · Biochar
+   207 citations · Biochar
 
 2. **Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany** (2024)
-   92 citations · Biochar
+   95 citations · Biochar
 
 3. **Microwave-assisted combustion to produce benzene polycarboxylic acids as molecular markers for biochar identification and quantification** (2021)
-   20 citations · Biochar
+   21 citations · Biochar
 
 4. **Relevance of biochar metabolization—evidence from a long-term biochar field experiment** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
-5. **Vertical biochar transport in soil in a long-term field experiment in Germany** (2025)
+5. **The hydrogen puzzle in rock-enhanced biochar : pyrogenic coating, mineral redox and pore accessibility** (2026)
    0 citations · Biochar
 
-6. **Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany** (2024)
+6. **The hydrogen puzzle in rock-enhanced biochar: Pyrogenic coating, mineral redox and pore accessibility** (2026)
+   0 citations · Biochar
+
+7. **Vertical biochar transport in soil in a long-term field experiment in Germany** (2025)
+   0 citations · Biochar
+
+8. **Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany** (2024)
    0 citations · Biochar
 
 ## External Profiles

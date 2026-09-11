@@ -1,7 +1,7 @@
 ---
 title: "Lixia Wang"
 description: "Lixia Wang is a Senior Soil Carbon researcher at University of British Columbia in CN. With 131 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.130665
+date: 2026-09-11T02:38:29.080030
 url: "/cdr-researcher-census/researchers/lixia-wang-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 3,129 |
+| Citations | 3,218 |
 | Publications | 131 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -54,25 +54,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Environmental conditions and litter nutrients are key determinants of soluble C, N, and P release during litter mixture decomposition** (2021)
-   45 citations
+   46 citations
 
 3. **Dissolved organic carbon, a critical factor to increase the bioavailability of phosphorus during biochar-amended aerobic composting** (2021)
-   42 citations · Biochar
+   43 citations · Biochar
 
 4. **Fertilization effects on soil organic matter chemistry** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
    14 citations · Soil Carbon
 
-6. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
-   11 citations · Soil Carbon
+6. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
+   13 citations · Soil Carbon
 
-7. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
-   11 citations · Soil Carbon
+7. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
+   12 citations · Soil Carbon
 
 8. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 9. **Acidification and Nutrient Imbalances Drive Fusarium Wilt Severity in Banana (Musa spp.) Grown on Tropical Latosols** (2025)
    4 citations

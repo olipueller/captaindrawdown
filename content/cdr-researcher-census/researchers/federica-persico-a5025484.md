@@ -1,7 +1,7 @@
 ---
 title: "Federica Persico"
-description: "Federica Persico is a Mid-career Biochar researcher at University of Genoa in IT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.643607
+description: "Federica Persico is a Mid-career Biochar researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.597580
 url: "/cdr-researcher-census/researchers/federica-persico-a5025484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Federica Persico",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/federica-persico-a5025484/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Genoa"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-5293-2350",
     "https://openalex.org/A5025484273"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Federica Persico**  
-University of Genoa · 🇮🇹 IT
+**Federica Persico**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 371 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 379 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

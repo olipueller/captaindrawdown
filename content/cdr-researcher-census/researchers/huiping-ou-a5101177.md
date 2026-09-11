@@ -1,7 +1,7 @@
 ---
 title: "Huiping Ou"
 description: "Huiping Ou is a Mid-career Soil Carbon researcher at Shenzhen Polytechnic University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.044181
+date: 2026-09-11T02:38:29.961673
 url: "/cdr-researcher-census/researchers/huiping-ou-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 184 |
+| Citations | 201 |
 | Publications | 32 |
 | CDR Focus | 9.4% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bamboo charcoal application altered the mineralization process of soil organic carbon in different succession stages of karst forest land** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Spatiotemporal Variation Characteristics of the Soil Organic Carbon Stock in the Huaihe River Eco‐Economic Belt From the 1980s to 2020s** (2025)
    1 citations · Soil Carbon

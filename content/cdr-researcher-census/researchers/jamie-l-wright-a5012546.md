@@ -1,7 +1,7 @@
 ---
 title: "Jamie L. Wright"
-description: "Jamie L. Wright is a Senior Soil Carbon researcher at University of Oregon in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.808987
+description: "Jamie L. Wright is a Senior Soil Carbon researcher at Oak Ridge Associated Universities in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.769073
 url: "/cdr-researcher-census/researchers/jamie-l-wright-a5012546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jamie-l-wright-a5012546/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Oregon"
+    "name": "Oak Ridge Associated Universities"
   },
   "sameAs": "https://openalex.org/A5012546752"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jamie L. Wright**  
-University of Oregon · 🇺🇸 US
+Oak Ridge Associated Universities · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 268 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 274 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil carbon in tropical savannas mostly derived from grasses** (2023)
-   55 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 ## External Profiles
 

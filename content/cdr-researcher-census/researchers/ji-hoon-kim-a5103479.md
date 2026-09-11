@@ -1,7 +1,7 @@
 ---
 title: "Ji Hoon Kim"
-description: "Ji Hoon Kim is a Senior Biochar researcher at Hallym University in KR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.295044
+description: "Ji Hoon Kim is a Senior Biochar researcher at Chungnam National University in KR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240064
 url: "/cdr-researcher-census/researchers/ji-hoon-kim-a5103479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ji-hoon-kim-a5103479/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hallym University"
+    "name": "Chungnam National University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1185-6288",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ji Hoon Kim**  
-Hallym University · 🇰🇷 KR
+Chungnam National University · 🇰🇷 KR
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 1,015 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 1,058 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

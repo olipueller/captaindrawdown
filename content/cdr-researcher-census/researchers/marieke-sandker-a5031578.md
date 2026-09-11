@@ -1,7 +1,7 @@
 ---
 title: "Marieke Sandker"
-description: "Marieke Sandker is a Senior General CDR researcher. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.359080
+description: "Marieke Sandker is a Senior General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.313303
 url: "/cdr-researcher-census/researchers/marieke-sandker-a5031578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Marieke Sandker",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marieke-sandker-a5031578/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Food and Agriculture Organization of the United Nations"
+  },
   "sameAs": "https://openalex.org/A5031578093"
 }
 </script>
 
 ## Profile
 
-**Marieke Sandker**
+**Marieke Sandker**  
+Food and Agriculture Organization of the United Nations · 🇮🇹 IT
 
 **Career Stage:** Senior
 
@@ -35,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 789 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 798 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

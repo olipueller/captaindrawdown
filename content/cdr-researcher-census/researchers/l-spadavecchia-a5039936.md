@@ -1,7 +1,7 @@
 ---
 title: "L. Spadavecchia"
 description: "L. Spadavecchia is a Senior Soil Carbon researcher at Department for Environment Food and Rural Affairs in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853520
+date: 2026-09-11T02:38:29.825974
 url: "/cdr-researcher-census/researchers/l-spadavecchia-a5039936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 245 |
+| Citations | 247 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

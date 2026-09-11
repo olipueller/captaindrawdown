@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Mustapha Mohamad Pazi"
 description: "Ahmad Mustapha Mohamad Pazi is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.178870
+date: 2026-09-11T02:38:30.132173
 url: "/cdr-researcher-census/researchers/ahmad-mustapha-mohamad-pazi-a5060475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 147 |
+| Citations | 153 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

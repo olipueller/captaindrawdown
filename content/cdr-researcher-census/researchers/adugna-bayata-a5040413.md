@@ -1,7 +1,7 @@
 ---
 title: "Adugna Bayata"
-description: "Adugna Bayata is a Mid-career Soil Carbon researcher at Jimma University in ET. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.113260
+description: "Adugna Bayata is a Mid-career Soil Carbon researcher at Jimma University in ET. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.054051
 url: "/cdr-researcher-census/researchers/adugna-bayata-a5040413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 164 |
+| h-index | 5 |
+| Citations | 174 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Farming, Climate Smart Agriculture Practice and Current Climate Change Mitigation Strategy- In the Case of Ethiopia** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 2. **Evaluation of selected grass species for soil and water conservation, and carbon sequestration under farmland at Jimma zone, southwestern Ethiopia** (2026)
    0 citations · Soil Carbon

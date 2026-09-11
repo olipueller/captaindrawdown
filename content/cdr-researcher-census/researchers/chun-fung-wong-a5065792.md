@@ -1,7 +1,7 @@
 ---
 title: "Chun Fung Wong"
-description: "Chun Fung Wong is a Mid-career Biochar researcher at Education University of Hong Kong in HK. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.961066
+description: "Chun Fung Wong is a Mid-career Biochar researcher at Education University of Hong Kong in HK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.884198
 url: "/cdr-researcher-census/researchers/chun-fung-wong-a5065792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 211 |
+| h-index | 6 |
+| Citations | 224 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Applications of charcoal, activated charcoal, and biochar in aquaculture – A review** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

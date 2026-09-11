@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Amelse"
 description: "Jeffrey Amelse is a Senior General CDR researcher at University of Aveiro in PT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.383651
+date: 2026-09-11T02:38:29.340112
 url: "/cdr-researcher-census/researchers/jeffrey-amelse-a5013349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 725 |
+| Citations | 729 |
 | Publications | 36 |
-| CDR Focus | 22.2% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

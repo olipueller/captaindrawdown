@@ -1,7 +1,7 @@
 ---
 title: "Nano Alemu Daba"
-description: "Nano Alemu Daba is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 44 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.476655
+description: "Nano Alemu Daba is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.409016
 url: "/cdr-researcher-census/researchers/nano-alemu-daba-a5046130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 551 |
-| Publications | 44 |
-| CDR Focus | 13.6% |
+| Citations | 594 |
+| Publications | 45 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,15 +57,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 3. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 4. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
+5. **Long-term optimized tillage with straw return enhances soil health, ecosystem multifunctionality, and rice yield in paddy soils** (2026)
+   0 citations
+
+6. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
    0 citations · Soil Carbon
 
-6. **Soil Carbon Sequestration and Its Role in Agriculture** (2025)
+7. **Soil Carbon Sequestration and Its Role in Agriculture** (2025)
    0 citations · General CDR
 
 ## External Profiles

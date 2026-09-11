@@ -1,7 +1,7 @@
 ---
 title: "David Yang Shu"
-description: "David Yang Shu is a Mid-career General CDR researcher at ETH Zurich in CH. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.403308
+description: "David Yang Shu is a Mid-career General CDR researcher at ETH Zurich in CH. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.337314
 url: "/cdr-researcher-census/researchers/david-yang-shu-a5009979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 682 |
-| Publications | 38 |
-| CDR Focus | 13.2% |
+| h-index | 12 |
+| Citations | 737 |
+| Publications | 41 |
+| CDR Focus | 12.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 2. **Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 3. **Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement** (2026)
    0 citations · DAC

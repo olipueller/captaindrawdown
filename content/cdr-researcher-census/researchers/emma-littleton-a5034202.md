@@ -1,7 +1,7 @@
 ---
 title: "Emma Littleton"
-description: "Emma Littleton is a Mid-career General CDR researcher at University of Exeter in GB. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.164241
+description: "Emma Littleton is a Mid-career General CDR researcher at University of Exeter in GB. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.115167
 url: "/cdr-researcher-census/researchers/emma-littleton-a5034202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 2,176 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| Citations | 2,207 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    27 citations · General CDR
 
 2. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   4 citations · BECCS
+   6 citations · BECCS
 
 3. **Essential Forest Mitigation Indicators to support management decisions for climate-resilient forest ecosystems** (2026)
    0 citations

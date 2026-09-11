@@ -1,7 +1,7 @@
 ---
 title: "P.V. Bhaskar"
-description: "P.V. Bhaskar is a Senior Soil Carbon researcher at National Centre for Polar and Ocean Research, Ministry of Earth Sciences in IN. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.257111
+description: "P.V. Bhaskar is a Senior Soil Carbon researcher at National Centre for Polar and Ocean Research, Ministry of Earth Sciences in IN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.209444
 url: "/cdr-researcher-census/researchers/pv-bhaskar-a5013140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,216 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| Citations | 1,225 |
+| Publications | 50 |
+| CDR Focus | 6.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conversion of locally available materials to biochar and activated carbon for drinking water treatment** (2024)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Can adoption of climate resilient management practices achieve carbon neutrality in traditional green revolution states of Punjab and Haryana?** (2023)
    9 citations · Soil Carbon

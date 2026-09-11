@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Tang"
-description: "Xiaolu Tang is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 168 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.160037
+description: "Xiaolu Tang is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 172 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.108008
 url: "/cdr-researcher-census/researchers/xiaolu-tang-a5066481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 2,254 |
-| Publications | 168 |
-| CDR Focus | 6.5% |
+| h-index | 25 |
+| Citations | 2,331 |
+| Publications | 172 |
+| CDR Focus | 6.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Prediction of soil organic carbon stock combining Sentinel-1 and Sentinel-2 images in the Zoige Plateau, the northeastern Qinghai-Tibet Plateau** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
-2. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
+2. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
    10 citations · Soil Carbon
 
-3. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
-   9 citations · Soil Carbon
+3. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
+   10 citations · Soil Carbon
 
 4. **Accumulation of soil microbial necromass carbon and its contribution to soil organic carbon after vegetation restoration in the Tibetan Plateau** (2024)
    2 citations · Soil Carbon
@@ -65,20 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
    2 citations
 
-6. **Metabolic growth mechanisms and theoretical growth potential of global woody plant communities** (2024)
+6. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
    1 citations
 
-7. **Nucleotide depletion signals early-stage soil stable carbon collapse in anthropogenically disturbed alpine ecosystems** (2026)
+7. **Metabolic growth mechanisms and theoretical growth potential of global woody plant communities** (2024)
+   1 citations
+
+8. **Vegetation Restoration Affects SOC Stability in Topsoil and Subsoil in Zoige Grassland, Eastern Qinghai‐Tibet Plateau** (2026)
    0 citations
 
-8. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
+9. **Nucleotide depletion signals early-stage soil stable carbon collapse in anthropogenically disturbed alpine ecosystems** (2026)
    0 citations
 
-9. **Earthquakes act as a capacitor for terrestrial organic carbon** (2026)
+10. **Earthquakes act as a capacitor for terrestrial organic carbon** (2026)
    0 citations · Soil Carbon
-
-10. **Divergence in global plant carbon use efficiency across data-driven estimates, satellite product, and process-oriented models** (2025)
-   0 citations
 
 ## External Profiles
 

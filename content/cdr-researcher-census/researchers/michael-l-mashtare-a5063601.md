@@ -1,7 +1,7 @@
 ---
 title: "Michael L. Mashtare"
 description: "Michael L. Mashtare is a Senior Biochar researcher at Pennsylvania State University in US. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.528741
+date: 2026-09-11T02:38:29.479685
 url: "/cdr-researcher-census/researchers/michael-l-mashtare-a5063601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 478 |
+| Citations | 490 |
 | Publications | 26 |
 | CDR Focus | 11.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fixed bed column experiments using cotton gin waste and walnut shells-derived biochar as low-cost solutions to removing pharmaceuticals from aqueous solutions** (2023)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Cotton Gin Waste and Walnut Shells-Derived Biochar as Low-Cost Solutions to Removing Pharmaceuticals from Aqueous Solutions** (2023)
    1 citations · Biochar

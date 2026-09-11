@@ -1,7 +1,7 @@
 ---
 title: "Susanne Ulrich"
 description: "Susanne Ulrich is an Early-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.353840
+date: 2026-09-11T02:38:30.225145
 url: "/cdr-researcher-census/researchers/susanne-ulrich-a5054757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 112 |
+| Citations | 132 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation of mineral‐associated organic matter in temperate soils is primarily controlled by mineral type and modified by land use and management intensity** (2023)
-   70 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 ## External Profiles
 

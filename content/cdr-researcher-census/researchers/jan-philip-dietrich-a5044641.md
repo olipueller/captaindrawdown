@@ -1,7 +1,7 @@
 ---
 title: "Jan Philip Dietrich"
 description: "Jan Philip Dietrich is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.982001
+date: 2026-09-11T02:38:29.954034
 url: "/cdr-researcher-census/researchers/jan-philip-dietrich-a5044641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 202 |
+| Citations | 203 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |

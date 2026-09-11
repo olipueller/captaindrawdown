@@ -1,7 +1,7 @@
 ---
 title: "Lichu Yin"
 description: "Lichu Yin is a Senior Soil Carbon researcher at Hunan Agricultural University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584333
+date: 2026-09-11T02:38:29.523089
 url: "/cdr-researcher-census/researchers/lichu-yin-a5064977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 423 |
+| Citations | 445 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

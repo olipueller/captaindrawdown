@@ -1,7 +1,7 @@
 ---
 title: "Rayda Chaker"
 description: "Rayda Chaker is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.285587
+date: 2026-09-11T02:38:30.243801
 url: "/cdr-researcher-census/researchers/rayda-chaker-a5091164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 125 |
+| Citations | 129 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

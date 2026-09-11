@@ -1,7 +1,7 @@
 ---
 title: "Shih-Chieh Chien"
 description: "Shih-Chieh Chien is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.094090
+date: 2026-09-11T02:38:30.058629
 url: "/cdr-researcher-census/researchers/shih-chieh-chien-a5087019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 169 |
+| Citations | 173 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Human population density and blue carbon stocks in mangroves soils** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

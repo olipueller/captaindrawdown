@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Geng"
-description: "Wenliang Geng is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.286611
+description: "Wenliang Geng is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.237117
 url: "/cdr-researcher-census/researchers/wenliang-geng-a5020073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,058 |
-| Publications | 33 |
-| CDR Focus | 9.1% |
+| Citations | 1,073 |
+| Publications | 34 |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

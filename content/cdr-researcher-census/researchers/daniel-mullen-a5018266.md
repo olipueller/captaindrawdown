@@ -1,7 +1,7 @@
 ---
 title: "Daniel Mullen"
 description: "Daniel Mullen is a Mid-career General CDR researcher at Thornbury Hospital in GB. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.152183
+date: 2026-09-11T02:38:30.087289
 url: "/cdr-researcher-census/researchers/daniel-mullen-a5018266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 153 |
+| Citations | 164 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the cost of zero carbon hydrogen: A techno-economic analysis of steam methane reforming with carbon capture and storage** (2023)
-   54 citations · DAC
+   56 citations · DAC
 
 2. **On the Cost of Zero Carbon Hydrogen: A Techno-Economic Analysis of Steam Methane Reforming with Carbon Capture and Storage** (2022)
    5 citations · General CDR

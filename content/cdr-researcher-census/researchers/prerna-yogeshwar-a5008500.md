@@ -1,7 +1,7 @@
 ---
 title: "Prerna Yogeshwar"
 description: "Prerna Yogeshwar is an Early-career Enhanced Weathering researcher at Indian Institute of Technology Madras in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.390776
+date: 2026-09-11T02:38:30.365664
 url: "/cdr-researcher-census/researchers/prerna-yogeshwar-a5008500/"
 layout: "researcher"
 hiddenInHomeList: true

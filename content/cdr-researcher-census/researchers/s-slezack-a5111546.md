@@ -1,7 +1,7 @@
 ---
 title: "S Slezack"
-description: "S Slezack is a Senior Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.758371
+description: "S Slezack is a Senior Biochar researcher at Université de Lorraine in FR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.726630
 url: "/cdr-researcher-census/researchers/s-slezack-a5111546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/s-slezack-a5111546/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+    "name": "Universit\u00e9 de Lorraine"
   },
   "sameAs": "https://openalex.org/A5111546099"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **S Slezack**  
-Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement · 🇫🇷 FR
+Université de Lorraine · 🇫🇷 FR
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 294 |
+| Citations | 295 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

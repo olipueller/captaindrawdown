@@ -1,7 +1,7 @@
 ---
 title: "Yuquan Zhao"
-description: "Yuquan Zhao is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.411996
+description: "Yuquan Zhao is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.344815
 url: "/cdr-researcher-census/researchers/yuquan-zhao-a5113074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 109 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Urbanization-induced soil organic carbon loss and microbial-enzymatic drivers: insights from aggregate size classes in Nanchang city, China** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

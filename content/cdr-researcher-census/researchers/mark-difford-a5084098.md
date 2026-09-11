@@ -1,7 +1,7 @@
 ---
 title: "Mark Difford"
-description: "Mark Difford is a Senior Soil Carbon researcher at Nelson Mandela University in ZA. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.457301
+description: "Mark Difford is a Senior Soil Carbon researcher at Nelson Mandela University in ZA. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.414521
 url: "/cdr-researcher-census/researchers/mark-difford-a5084098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 581 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 587 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

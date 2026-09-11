@@ -1,7 +1,7 @@
 ---
 title: "Sakshi Balyan"
 description: "Sakshi Balyan is an Early-career Soil Carbon researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.350126
+date: 2026-09-11T02:38:30.237867
 url: "/cdr-researcher-census/researchers/sakshi-balyan-a5093659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 113 |
+| Citations | 130 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Adame"
-description: "María Fernanda Adame is an Eminent Soil Carbon researcher at Griffith University in AU. With 160 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.084052
+description: "María Fernanda Adame is an Eminent Soil Carbon researcher at Griffith University in AU. With 170 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.035121
 url: "/cdr-researcher-census/researchers/maria-fernanda-adame-a5028923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 46 |
-| Citations | 6,875 |
-| Publications | 160 |
-| CDR Focus | 6.9% |
+| h-index | 47 |
+| Citations | 7,145 |
+| Publications | 170 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   244 citations · General CDR
+   254 citations · General CDR
 
 2. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   151 citations · General CDR
+   155 citations · General CDR
 
 3. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 4. **Climate change mitigation and improvement of water quality from the restoration of a subtropical coastal wetland** (2022)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 5. **Ecosystem type drives tea litter decomposition and associated prokaryotic microbiome communities in freshwater and coastal wetlands at a continental scale** (2021)
    33 citations

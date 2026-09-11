@@ -1,7 +1,7 @@
 ---
 title: "Sumie NONAKA"
 description: "Sumie NONAKA is a Senior Soil Carbon researcher at Institute of Livestock and Grassland Science in JP. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.037983
+date: 2026-09-11T02:38:30.014278
 url: "/cdr-researcher-census/researchers/sumie-nonaka-a5049410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Species asynchrony, species stability, and compositional stability jointly stabilize, while bryophyte cover destabilizes plant communities across Japanese moorlands** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

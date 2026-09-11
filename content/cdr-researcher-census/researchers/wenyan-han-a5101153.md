@@ -1,7 +1,7 @@
 ---
 title: "Wenyan Han"
 description: "Wenyan Han is a Mid-career Enhanced Weathering researcher at Chinese Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.732078
+date: 2026-09-11T02:38:29.700402
 url: "/cdr-researcher-census/researchers/wenyan-han-a5101153/"
 layout: "researcher"
 hiddenInHomeList: true

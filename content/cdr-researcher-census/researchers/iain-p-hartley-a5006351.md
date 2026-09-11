@@ -1,7 +1,7 @@
 ---
 title: "Iain P. Hartley"
-description: "Iain P. Hartley is an Eminent Soil Carbon researcher at University of Exeter in GB. With 193 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.080633
+description: "Iain P. Hartley is an Eminent Soil Carbon researcher at University of Exeter in GB. With 213 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.032314
 url: "/cdr-researcher-census/researchers/iain-p-hartley-a5006351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 41 |
-| Citations | 7,601 |
-| Publications | 193 |
-| CDR Focus | 9.3% |
+| Citations | 7,809 |
+| Publications | 213 |
+| CDR Focus | 8.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   238 citations
+   240 citations
 
 2. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 3. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
    137 citations · Soil Carbon
@@ -75,9 +75,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 9. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
-10. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
+10. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
    12 citations · Soil Carbon
 
 ## External Profiles

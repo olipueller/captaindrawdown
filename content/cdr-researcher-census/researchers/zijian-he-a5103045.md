@@ -1,7 +1,7 @@
 ---
 title: "Zijian He"
-description: "Zijian He is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480845
+description: "Zijian He is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.427853
 url: "/cdr-researcher-census/researchers/zijian-he-a5103045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 544 |
+| h-index | 11 |
+| Citations | 568 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 ## External Profiles
 

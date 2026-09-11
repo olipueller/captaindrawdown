@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
-description: "Nader Marzban is a Mid-career Biochar researcher at Leibniz Institute for Agricultural Engineering and Bioeconomy in DE. With 55 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284335
+description: "Nader Marzban is a Mid-career Biochar researcher at Linköping University in DE. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.222581
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nader-marzban-a5071788/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leibniz Institute for Agricultural Engineering and Bioeconomy"
+    "name": "Link\u00f6ping University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7787-7706",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nader Marzban**  
-Leibniz Institute for Agricultural Engineering and Bioeconomy · 🇩🇪 DE
+Linköping University · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -42,25 +42,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,068 |
-| Publications | 55 |
-| CDR Focus | 10.9% |
+| h-index | 19 |
+| Citations | 1,145 |
+| Publications | 59 |
+| CDR Focus | 10.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Advances and challenges in humic acid production technologies from natural carbonaceous material wastes** (2024)
-   72 citations
+   75 citations
 
 2. **Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production** (2025)
-   53 citations · Biochar
+   59 citations · Biochar
 
 3. **Transitioning from hydrothermal carbonization to humification for producing artificial humic substances** (2025)
-   21 citations · Biochar
+   23 citations · Biochar
 
 4. **Integrating machine learning with experimental investigation for optimizing photocatalytic degradation of Rhodamine B using neodymium-doped titanium dioxide: a comprehensive approach with toxicity assessment** (2024)
-   12 citations
+   14 citations
 
 5. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
    4 citations · Biochar

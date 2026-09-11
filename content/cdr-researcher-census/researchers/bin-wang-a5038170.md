@@ -1,7 +1,7 @@
 ---
 title: "Bin Wang"
-description: "Bin Wang is a Senior Ocean CDR researcher at Second Institute of Oceanography in CN. With 83 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332863
+description: "Bin Wang is a Senior Ocean CDR researcher at Second Institute of Oceanography in CN. With 84 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.283807
 url: "/cdr-researcher-census/researchers/bin-wang-a5038170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 864 |
-| Publications | 83 |
-| CDR Focus | 6.0% |
-| Trajectory | Stable |
+| Citations | 888 |
+| Publications | 84 |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   10 citations · General CDR
+   12 citations · General CDR
 
 2. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
    4 citations · General CDR
 
-3. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
-   2 citations · General CDR
+3. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+   3 citations
 
-4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
-   2 citations
+4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+   2 citations · General CDR
 
 5. **Numerical dye tracer experiments in Bedford Basin in support of Ocean Alkalinity Enhancement research** (2024)
    1 citations · General CDR
@@ -68,13 +68,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR
 
-7. **Model output from ocean alkalinity simulations in Halifax Harbour: Point-source additions versus slow release from the sediment** (2025)
-   0 citations
+7. **Lethal by Design? Resolving Differences Between Experimental and Real‐World Alkalinity Perturbations in Ocean Alkalinity Enhancement** (2026)
+   0 citations · Ocean CDR
 
 8. **Model output from ocean alkalinity simulations in Halifax Harbour: Point-source additions versus slow release from the sediment** (2025)
+   0 citations
+
+9. **Model output from ocean alkalinity simulations in Halifax Harbour: Point-source additions versus slow release from the sediment** (2025)
    0 citations · General CDR
 
-9. **Maximizing the detectability of Ocean Alkalinity Enhancement (OAE) while minimizing its exposure risks: Insights from a numerical study** (2024)
+10. **Maximizing the detectability of Ocean Alkalinity Enhancement (OAE) while minimizing its exposure risks: Insights from a numerical study** (2024)
    0 citations
 
 ## External Profiles

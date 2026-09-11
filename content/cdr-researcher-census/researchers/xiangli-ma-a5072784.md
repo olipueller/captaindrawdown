@@ -1,7 +1,7 @@
 ---
 title: "Xiangli Ma"
 description: "Xiangli Ma is an Early-career Soil Carbon researcher at Qinghai Tibetan Hospital in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.551623
+date: 2026-09-11T02:38:29.467592
 url: "/cdr-researcher-census/researchers/xiangli-ma-a5072784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 455 |
+| Citations | 505 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen and phosphorus supply controls stability of soil organic carbon in alpine meadow of the Qinghai-Tibetan Plateau** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yong Peng"
-description: "Yong Peng is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.570389
+description: "Yong Peng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.516497
 url: "/cdr-researcher-census/researchers/yong-peng-a5101954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yong-peng-a5101954/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Botanical Garden"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4379-9740",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yong Peng**  
-Beijing Botanical Garden · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 436 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 452 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Influences of plant functional traits on soil organic carbon stocks: The roles of carbon input quality and diversity** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

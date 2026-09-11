@@ -1,7 +1,7 @@
 ---
 title: "Xiangbin Ran"
-description: "Xiangbin Ran is a Senior Soil Carbon researcher at First Institute of Oceanography Ministry of Natural Resources in CN. With 103 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150876
+description: "Xiangbin Ran is a Senior Soil Carbon researcher at First Institute of Oceanography Ministry of Natural Resources in CN. With 104 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.098852
 url: "/cdr-researcher-census/researchers/xiangbin-ran-a5101470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,445 |
-| Publications | 103 |
-| CDR Focus | 6.8% |
+| Citations | 2,558 |
+| Publications | 104 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 4. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
    9 citations · Soil Carbon

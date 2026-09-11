@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Laveneziana"
-description: "Lorenzo Laveneziana is an Early-career BECCS researcher at Politecnico di Torino in IT. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.287980
+description: "Lorenzo Laveneziana is a Mid-career BECCS researcher at Politecnico di Torino in IT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.230004
 url: "/cdr-researcher-census/researchers/lorenzo-laveneziana-a5014294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Lorenzo Laveneziana**  
 Politecnico di Torino · 🇮🇹 IT
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 124 |
+| h-index | 5 |
+| Citations | 131 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

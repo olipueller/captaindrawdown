@@ -1,7 +1,7 @@
 ---
 title: "Ningwei Yang"
-description: "Ningwei Yang is a Mid-career Biochar researcher at Huaqiao University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.350664
+description: "Ningwei Yang is a Mid-career Biochar researcher at Huaqiao University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.312082
 url: "/cdr-researcher-census/researchers/ningwei-yang-a5041962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 113 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 116 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced adsorption performance of phosphoric acid activated biochar from in-situ pre-carbonized bamboo shoot shells** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

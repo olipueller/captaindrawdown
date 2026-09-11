@@ -1,7 +1,7 @@
 ---
 title: "José Romão Franca"
-description: "José Romão Franca is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226755
+description: "José Romão Franca is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.135096
 url: "/cdr-researcher-census/researchers/jose-romao-franca-a5085711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 136 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 6 |
+| Citations | 152 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbonaceous Materials for Nanoremediation of Polluted and Nutrient-Depleted Soils** (2022)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

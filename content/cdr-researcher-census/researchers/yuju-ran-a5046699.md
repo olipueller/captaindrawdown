@@ -1,7 +1,7 @@
 ---
 title: "Yuju Ran"
-description: "Yuju Ran is a Mid-career General CDR researcher at Yunnan University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.736730
+description: "Yuju Ran is a Mid-career General CDR researcher at Yunnan University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.655537
 url: "/cdr-researcher-census/researchers/yuju-ran-a5046699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 306 |
+| h-index | 8 |
+| Citations | 338 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   89 citations
+   93 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   45 citations · General CDR
+   48 citations · General CDR
 
 3. **Quantifying the supply-demand relationship of ecosystem services to identify ecological management zoning: A case study in mountainous areas of northwest Yunnan, China** (2024)
-   8 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

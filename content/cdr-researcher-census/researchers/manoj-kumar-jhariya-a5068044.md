@@ -1,7 +1,7 @@
 ---
 title: "Manoj Kumar Jhariya"
-description: "Manoj Kumar Jhariya is an Eminent Soil Carbon researcher at Sarguja University in IN. With 210 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.093935
+description: "Manoj Kumar Jhariya is a Senior Soil Carbon researcher at Sarguja University in IN. With 216 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.046129
 url: "/cdr-researcher-census/researchers/manoj-kumar-jhariya-a5068044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Manoj Kumar Jhariya**  
 Sarguja University · 🇮🇳 IN
 
-**Career Stage:** Eminent
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 40 |
-| Citations | 5,448 |
-| Publications | 210 |
-| CDR Focus | 8.1% |
+| h-index | 38 |
+| Citations | 5,392 |
+| Publications | 216 |
+| CDR Focus | 7.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   120 citations · General CDR
+   131 citations · General CDR
 
 2. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
-   94 citations · General CDR
+   102 citations · General CDR
 
 3. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
-   94 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 4. **Carbon storage, flux and mitigation potential of tropical Sal mixed deciduous forest ecosystem in Chhattisgarh, India** (2021)
-   70 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 5. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
    61 citations · General CDR
 
 6. **Agroforestry a model for ecological sustainability** (2022)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 7. **Soil Organic Carbon Restoration in India** (2021)
    21 citations · General CDR
 
 8. **CO2 Capture, Storage, and Environmental Sustainability: Plan, Policy, and Challenges** (2022)
-   17 citations · General CDR
+   18 citations · General CDR
 
 9. **The Importance of Forest for Soil, Food, and Climate Security in Asia** (2022)
    17 citations · General CDR
 
 10. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

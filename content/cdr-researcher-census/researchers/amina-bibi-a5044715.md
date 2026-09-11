@@ -1,7 +1,7 @@
 ---
 title: "Amina Bibi"
-description: "Amina Bibi is a Mid-career Biochar researcher at University of Sargodha in PK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.372249
+description: "Amina Bibi is a Mid-career Biochar researcher at Chiang Mai University in TH. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.316830
 url: "/cdr-researcher-census/researchers/amina-bibi-a5044715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amina-bibi-a5044715/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sargodha"
+    "name": "Chiang Mai University"
   },
   "sameAs": "https://openalex.org/A5044715178"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Amina Bibi**  
-University of Sargodha · 🇵🇰 PK
+Chiang Mai University · 🇹🇭 TH
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 109 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 115 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Sustainable wastewater purification with crab shell-derived biochar: Advanced machine learning modeling &amp; experimental analysis** (2023)
-   31 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

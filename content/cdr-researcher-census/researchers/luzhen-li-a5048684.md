@@ -1,7 +1,7 @@
 ---
 title: "Luzhen Li"
 description: "Luzhen Li is a Mid-career Soil Carbon researcher at Qilu University of Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850150
+date: 2026-09-11T02:38:29.803547
 url: "/cdr-researcher-census/researchers/luzhen-li-a5048684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 247 |
+| Citations | 257 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

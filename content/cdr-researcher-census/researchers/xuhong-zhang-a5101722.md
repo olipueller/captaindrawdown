@@ -1,7 +1,7 @@
 ---
 title: "Xuhong Zhang"
 description: "Xuhong Zhang is a Senior Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.314554
+date: 2026-09-11T02:38:29.267094
 url: "/cdr-researcher-census/researchers/xuhong-zhang-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 932 |
+| Citations | 948 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "M. H. Chesti"
 description: "M. H. Chesti is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.358092
+date: 2026-09-11T02:38:30.302940
 url: "/cdr-researcher-census/researchers/m-h-chesti-a5053297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 111 |
+| Citations | 117 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Thermodynamic analysis of cold energy recovery from LNG regasification** (2023)
-   39 citations
+   40 citations
 
 2. **Biostimulants towards Soil Health Improvement: A Review** (2022)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Impact of vermicompost derived from different substrates on soil carbon pools in Rhizosphere of common bean (Phaseolus vulgaris L.)** (2023)
    0 citations · Soil Carbon

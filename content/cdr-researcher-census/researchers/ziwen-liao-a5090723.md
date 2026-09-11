@@ -1,7 +1,7 @@
 ---
 title: "Ziwen Liao"
 description: "Ziwen Liao is a Mid-career Biochar researcher at East China Jiaotong University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.132864
+date: 2026-09-11T02:38:30.071753
 url: "/cdr-researcher-census/researchers/ziwen-liao-a5090723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 158 |
+| Citations | 169 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Lanthanum‑iron doped bimetallic biochar for enhanced sulfamethoxazole adsorption** (2026)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

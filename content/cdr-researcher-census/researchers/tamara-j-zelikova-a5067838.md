@@ -1,7 +1,7 @@
 ---
 title: "Tamara J. Zelikova"
-description: "Tamara J. Zelikova is a Senior Soil Carbon researcher at University of Colorado Boulder in US. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.195499
+description: "Tamara J. Zelikova is a Senior Soil Carbon researcher at University of Colorado Boulder in US. With 59 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.144388
 url: "/cdr-researcher-census/researchers/tamara-j-zelikova-a5067838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,721 |
-| Publications | 60 |
-| CDR Focus | 6.7% |
+| h-index | 22 |
+| Citations | 1,764 |
+| Publications | 59 |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

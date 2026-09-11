@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Alastrué de Asenjo"
 description: "Eduardo Alastrué de Asenjo is an Early-career General CDR researcher at Universität Hamburg in DE. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176277
+date: 2026-09-11T02:38:30.137388
 url: "/cdr-researcher-census/researchers/eduardo-alastrue-de-asenjo-a5006960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 147 |
+| Citations | 151 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

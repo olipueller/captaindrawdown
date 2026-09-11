@@ -1,7 +1,7 @@
 ---
 title: "R Manasa"
-description: "R Manasa is a Mid-career Ocean CDR researcher at Dr. Hari Singh Gour University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.257072
+description: "R Manasa is a Mid-career Ocean CDR researcher at Dayananda Sagar College of Engineering in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.219481
 url: "/cdr-researcher-census/researchers/r-manasa-a5082550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/r-manasa-a5082550/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dr. Hari Singh Gour University"
+    "name": "Dayananda Sagar College of Engineering"
   },
   "sameAs": "https://openalex.org/A5082550921"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **R Manasa**  
-Dr. Hari Singh Gour University · 🇮🇳 IN
+Dayananda Sagar College of Engineering · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
+| Citations | 133 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

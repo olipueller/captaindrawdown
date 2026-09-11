@@ -1,7 +1,7 @@
 ---
 title: "Harun Niron"
-description: "Harun Niron is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.757399
+description: "Harun Niron is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 49 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.696339
 url: "/cdr-researcher-census/researchers/harun-niron-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 294 |
-| Publications | 37 |
-| CDR Focus | 67.6% |
+| Citations | 310 |
+| Publications | 49 |
+| CDR Focus | 55.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -69,16 +69,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 7. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
+   6 citations · Enhanced Weathering
+
+8. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
    5 citations · Enhanced Weathering
 
-8. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
-   3 citations · Enhanced Weathering
+9. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
+   4 citations · Enhanced Weathering
 
-9. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
+10. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
-
-10. **Weathering without inorganic CDR revealed through cation tracing** (2025)
-   3 citations · Enhanced Weathering
 
 ## External Profiles
 

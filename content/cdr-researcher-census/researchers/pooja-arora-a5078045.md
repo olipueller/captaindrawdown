@@ -1,7 +1,7 @@
 ---
 title: "Pooja Arora"
-description: "Pooja Arora is a Mid-career Biochar researcher at Kurukshetra University in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.985599
+description: "Pooja Arora is a Mid-career Biochar researcher at Kurukshetra University in IN. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.895284
 url: "/cdr-researcher-census/researchers/pooja-arora-a5078045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 201 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 219 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jinlan Wang"
 description: "Jinlan Wang is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.640427
+date: 2026-09-11T02:38:29.593671
 url: "/cdr-researcher-census/researchers/jinlan-wang-a5077865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 374 |
+| Citations | 382 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of different intensities of long-term grazing on plant diversity, biomass and carbon stock in alpine shrubland on the Qinghai-Tibetan Plateau** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Enhanced ecosystem carbon sink in shrub-grassland ecotone under grazing exclusion on Tibetan plateau** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

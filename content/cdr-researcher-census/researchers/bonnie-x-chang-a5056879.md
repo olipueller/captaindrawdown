@@ -1,7 +1,7 @@
 ---
 title: "Bonnie X. Chang"
-description: "Bonnie X. Chang is a Senior Ocean CDR researcher at Climate Central in US. With 45 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150980
+description: "Bonnie X. Chang is a Senior Ocean CDR researcher at Climate Central in US. With 45 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.101379
 url: "/cdr-researcher-census/researchers/bonnie-x-chang-a5056879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 2,444 |
+| h-index | 23 |
+| Citations | 2,478 |
 | Publications | 45 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

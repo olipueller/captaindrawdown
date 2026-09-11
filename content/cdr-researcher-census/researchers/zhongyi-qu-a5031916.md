@@ -1,7 +1,7 @@
 ---
 title: "Zhongyi Qu"
-description: "Zhongyi Qu is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 79 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155946
+description: "Zhongyi Qu is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 78 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.105150
 url: "/cdr-researcher-census/researchers/zhongyi-qu-a5031916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,334 |
-| Publications | 79 |
-| CDR Focus | 8.9% |
+| h-index | 26 |
+| Citations | 2,388 |
+| Publications | 78 |
+| CDR Focus | 9.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contrasting effects of different straw return modes on net ecosystem carbon budget and carbon footprint in saline-alkali arid farmland** (2024)
-   50 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Soil Respiration and Organic Carbon Response to Biochar and Their Influencing Factors** (2022)
    33 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Biochar
 
 4. **Co-application of microalgae and biochar increases yield and mitigates greenhouse gas emissions in saline-alkali soil** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 5. **Evaluating annual soil carbon emissions under biochar-added farmland subjecting from freeze-thaw cycle** (2024)
    12 citations · Biochar

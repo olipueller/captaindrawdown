@@ -1,7 +1,7 @@
 ---
 title: "Songlin Wu"
-description: "Songlin Wu is a Senior Soil Carbon researcher at Research Center for Eco-Environmental Sciences in CN. With 123 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.149924
+description: "Songlin Wu is a Senior Soil Carbon researcher at Research Center for Eco-Environmental Sciences in CN. With 127 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.099712
 url: "/cdr-researcher-census/researchers/songlin-wu-a5085518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,479 |
-| Publications | 123 |
-| CDR Focus | 6.5% |
+| Citations | 2,536 |
+| Publications | 127 |
+| CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **“Reactive Mineral Sink” drives soil organic matter dynamics and stabilization** (2023)
-   81 citations · Enhanced Weathering
+   82 citations · Enhanced Weathering
 
 2. **Chemodiversity of Dissolved Organic Matter and Its Molecular Changes Driven by Rhizosphere Activities in Fe Ore Tailings Undergoing Eco-Engineered Pedogenesis** (2021)
-   72 citations
+   73 citations
 
 3. **Arbuscular mycorrhizal symbiosis enhances water stable aggregate formation and organic matter stabilization in Fe ore tailings** (2021)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 4. **Biochar mediated uranium immobilization in magnetite rich Cu tailings subject to organic matter amendment and native plant colonization** (2021)
    18 citations · Biochar

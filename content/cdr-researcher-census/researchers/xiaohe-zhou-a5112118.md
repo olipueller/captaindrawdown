@@ -1,7 +1,7 @@
 ---
 title: "Xiaohe Zhou"
 description: "Xiaohe Zhou is a Senior Soil Carbon researcher at Chongqing Normal University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562507
+date: 2026-09-11T02:38:29.509496
 url: "/cdr-researcher-census/researchers/xiaohe-zhou-a5112118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 444 |
+| Citations | 458 |
 | Publications | 15 |
 | CDR Focus | 26.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic matter enhances aboveground biomass in alpine grassland under drought** (2023)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
    26 citations · Soil Carbon

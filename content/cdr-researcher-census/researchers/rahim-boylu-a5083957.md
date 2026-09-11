@@ -1,7 +1,7 @@
 ---
 title: "Rahim Boylu"
 description: "Rahim Boylu is a Mid-career DAC researcher at University of Alabama in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728010
+date: 2026-09-11T02:38:29.650136
 url: "/cdr-researcher-census/researchers/rahim-boylu-a5083957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 311 |
+| Citations | 341 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024)
-   49 citations · DAC
+   52 citations · DAC
 
 2. **Investigation of microwave-based CO2 regeneration in a packed bed reactor for Direct Air Capture** (2024)
    16 citations

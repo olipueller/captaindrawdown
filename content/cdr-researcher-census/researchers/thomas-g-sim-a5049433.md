@@ -1,7 +1,7 @@
 ---
 title: "Thomas G. Sim"
-description: "Thomas G. Sim is a Mid-career Soil Carbon researcher at Forest Research in GB. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.441188
+description: "Thomas G. Sim is a Mid-career Soil Carbon researcher at Forest Research in GB. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.389429
 url: "/cdr-researcher-census/researchers/thomas-g-sim-a5049433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 609 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 627 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Divergent responses of permafrost peatlands to recent climate change** (2021)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Divergent responses of permafrost peatlands to recent climate change** (2021)
    5 citations

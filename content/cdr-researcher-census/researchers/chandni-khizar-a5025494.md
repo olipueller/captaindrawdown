@@ -1,7 +1,7 @@
 ---
 title: "Chandni Khizar"
 description: "Chandni Khizar is an Early-career Soil Carbon researcher at University of Lahore in PK. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.517241
+date: 2026-09-11T02:38:29.449931
 url: "/cdr-researcher-census/researchers/chandni-khizar-a5025494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 492 |
+| Citations | 532 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Arbuscular Mycorrhizal Fungi in Regulating Growth, Enhancing Productivity, and Potentially Influencing Ecosystems under Abiotic and Biotic Stresses** (2023)
-   501 citations · Soil Carbon
+   523 citations · Soil Carbon
 
 ## External Profiles
 

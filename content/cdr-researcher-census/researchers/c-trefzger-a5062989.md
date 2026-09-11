@@ -1,7 +1,7 @@
 ---
 title: "C. Trefzger"
 description: "C. Trefzger is a Senior DAC researcher at Corning (United States) in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343673
+date: 2026-09-11T02:38:29.297623
 url: "/cdr-researcher-census/researchers/c-trefzger-a5062989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 836 |
+| Citations | 844 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

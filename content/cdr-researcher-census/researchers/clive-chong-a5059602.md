@@ -1,7 +1,7 @@
 ---
 title: "Clive Chong"
-description: "Clive Chong is an Early-career DAC researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.096047
+description: "Clive Chong is an Early-career DAC researcher at College of Tourism in BG. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.044271
 url: "/cdr-researcher-census/researchers/clive-chong-a5059602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Clive Chong",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/clive-chong-a5059602/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "College of Tourism"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-5444-6639",
     "https://openalex.org/A5059602075"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Clive Chong**
+**Clive Chong**  
+College of Tourism ·  BG
 
 **Career Stage:** Early-career
 
@@ -37,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 168 |
+| h-index | 3 |
+| Citations | 176 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Unknown |

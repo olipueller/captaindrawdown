@@ -1,7 +1,7 @@
 ---
 title: "Géraldine Fiers"
-description: "Géraldine Fiers is a Mid-career Enhanced Weathering researcher at HOGENT University of Applied Sciences and Arts in BE. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.175899
+description: "Géraldine Fiers is a Mid-career Enhanced Weathering researcher at Ghent University in BE. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.133167
 url: "/cdr-researcher-census/researchers/geraldine-fiers-a5023795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/geraldine-fiers-a5023795/",
   "affiliation": {
     "@type": "Organization",
-    "name": "HOGENT University of Applied Sciences and Arts"
+    "name": "Ghent University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7865-443X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Géraldine Fiers**  
-HOGENT University of Applied Sciences and Arts · 🇧🇪 BE
+Ghent University · 🇧🇪 BE
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 147 |
-| Publications | 32 |
-| CDR Focus | 15.6% |
+| Citations | 152 |
+| Publications | 33 |
+| CDR Focus | 15.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   43 citations · Enhanced Weathering
+   44 citations · Enhanced Weathering
 
 2. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
    2 citations · Enhanced Weathering

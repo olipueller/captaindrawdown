@@ -1,7 +1,7 @@
 ---
 title: "Chaker Mbadra"
 description: "Chaker Mbadra is a Mid-career Soil Carbon researcher at University of Sfax in TN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.099200
+date: 2026-09-11T02:38:30.070547
 url: "/cdr-researcher-census/researchers/chaker-mbadra-a5002932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 168 |
+| Citations | 170 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

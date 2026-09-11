@@ -1,7 +1,7 @@
 ---
 title: "Prince Sharma"
 description: "Prince Sharma is a Senior Soil Carbon researcher at Chandigarh University in IN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.609823
+date: 2026-09-11T02:38:29.560330
 url: "/cdr-researcher-census/researchers/prince-sharma-a5101997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 398 |
+| Citations | 409 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

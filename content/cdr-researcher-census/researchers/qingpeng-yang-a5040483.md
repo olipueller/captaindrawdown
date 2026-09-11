@@ -1,7 +1,7 @@
 ---
 title: "Qingpeng Yang"
-description: "Qingpeng Yang is a Mid-career Soil Carbon researcher at Guiyang Medical University in CN. With 64 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.291318
+description: "Qingpeng Yang is a Mid-career Soil Carbon researcher at Guiyang Medical University in CN. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.238889
 url: "/cdr-researcher-census/researchers/qingpeng-yang-a5040483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,035 |
-| Publications | 64 |
-| CDR Focus | 6.2% |
+| Citations | 1,064 |
+| Publications | 63 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
 2. **Liming shift above- and belowground functional traits of Chinese fir from conservative to acquisitive** (2024)
    6 citations

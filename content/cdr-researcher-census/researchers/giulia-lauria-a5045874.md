@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lauria"
-description: "Giulia Lauria is a Mid-career Biochar researcher at University of Pisa in IT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852190
+description: "Giulia Lauria is a Mid-career Biochar researcher at University of Pisa in IT. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.793158
 url: "/cdr-researcher-census/researchers/giulia-lauria-a5045874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 245 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 10 |
+| Citations | 262 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

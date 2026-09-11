@@ -1,7 +1,7 @@
 ---
 title: "George P. Lithoxoos"
-description: "George P. Lithoxoos is a Senior DAC researcher at Innovation Research Center in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.389845
+description: "George P. Lithoxoos is a Senior DAC researcher at Innovation Research Center in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341173
 url: "/cdr-researcher-census/researchers/george-p-lithoxoos-a5057115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 712 |
+| h-index | 8 |
+| Citations | 727 |
 | Publications | 29 |
-| CDR Focus | 6.9% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,16 +56,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 3. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
    1 citations
 
-4. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
-   0 citations
+4. **Structure-dependent ion spatial distribution enables energy-efficient direct air capture using electrochemically modified carbon** (2026)
+   0 citations · DAC
 
 5. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
    0 citations
 
-6. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
+6. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
    0 citations
 
-7. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
+7. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
+   0 citations
+
+8. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
    0 citations
 
 ## External Profiles

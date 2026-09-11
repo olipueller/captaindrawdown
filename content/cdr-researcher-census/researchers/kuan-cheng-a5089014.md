@@ -1,7 +1,7 @@
 ---
 title: "Kuan Cheng"
 description: "Kuan Cheng is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404510
+date: 2026-09-11T02:38:29.344050
 url: "/cdr-researcher-census/researchers/kuan-cheng-a5089014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 679 |
+| Citations | 720 |
 | Publications | 35 |
 | CDR Focus | 11.4% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a better understanding of the role of Fe cycling in soil for carbon stabilization and degradation** (2022)
-   202 citations · Soil Carbon
+   205 citations · Soil Carbon
 
 2. **Organic Carbon Sequestration by Secondary Fe–Mn Complex Minerals via the Anoxic Redox Reaction of Fe(II) and Birnessite** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Sequestration of Labile Organic Matter by Secondary Fe Minerals from Chemodenitrification: Insight into Mineral Protection Mechanisms** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Biochar and iron minerals facilitate the reduction of pollution and sequestration of carbon in chloramphenicol-contaminated soil under dry conditions** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Víctor Vázquez"
-description: "Víctor Vázquez is a Mid-career Ocean CDR researcher at Universidad de Málaga in ES. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484175
+description: "Víctor Vázquez is a Mid-career Ocean CDR researcher at Universidad de Málaga in ES. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.431115
 url: "/cdr-researcher-census/researchers/victor-vazquez-a5090331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 538 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 561 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

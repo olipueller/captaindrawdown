@@ -1,7 +1,7 @@
 ---
 title: "Frantseska-Maria Pellera"
 description: "Frantseska-Maria Pellera is a Mid-career Biochar researcher at Technical University of Crete in GR. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306045
+date: 2026-09-11T02:38:29.259599
 url: "/cdr-researcher-census/researchers/frantseska-maria-pellera-a5041589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 966 |
+| Citations | 978 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

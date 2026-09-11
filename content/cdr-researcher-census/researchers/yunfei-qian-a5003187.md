@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Qian"
 description: "Yunfei Qian is a Senior Biochar researcher. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.906624
+date: 2026-09-11T02:38:29.878964
 url: "/cdr-researcher-census/researchers/yunfei-qian-a5003187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 223 |
+| Citations | 225 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

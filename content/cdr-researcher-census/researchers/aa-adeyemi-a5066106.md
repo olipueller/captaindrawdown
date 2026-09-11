@@ -1,7 +1,7 @@
 ---
 title: "A.A. Adeyemi"
 description: "A.A. Adeyemi is a Senior Soil Carbon researcher at Ministry of Agriculture and Forestry in LA. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853236
+date: 2026-09-11T02:38:29.824267
 url: "/cdr-researcher-census/researchers/aa-adeyemi-a5066106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 245 |
+| Citations | 248 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   69 citations · General CDR
+   72 citations · General CDR
 
 2. **Assessment of Carbon Sequestration in Borgu Sector of Kainji Lake National Park, North-Central Nigeria** (2024)
    4 citations · Soil Carbon

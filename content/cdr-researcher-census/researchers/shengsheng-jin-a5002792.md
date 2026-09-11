@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Sheng Jin"
 description: "Sheng‐Sheng Jin is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.598202
+date: 2026-09-11T02:38:29.544660
 url: "/cdr-researcher-census/researchers/shengsheng-jin-a5002792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 409 |
+| Citations | 424 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The accumulation of microbial residues and plant lignin phenols are more influenced by fertilization in young than mature subtropical forests** (2022)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **The Accumulation of Microbial Necromass and Plant Lignin are Higher But Less Influenced by Fertilisation in Relatively Mature than Young Subtropical Forests** (2021)
    0 citations · Soil Carbon

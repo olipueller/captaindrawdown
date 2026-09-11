@@ -1,7 +1,7 @@
 ---
 title: "Jianxiang Yin"
 description: "Jianxiang Yin is a Senior Biochar researcher at Hunan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555588
+date: 2026-09-11T02:38:29.506788
 url: "/cdr-researcher-census/researchers/jianxiang-yin-a5052778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 450 |
+| Citations | 461 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   135 citations · Biochar
+   137 citations · Biochar
 
 2. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   93 citations · Biochar
+   95 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dariia Atamanchuk"
-description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.414551
+description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.367982
 url: "/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 655 |
-| Publications | 70 |
-| CDR Focus | 15.7% |
+| Citations | 668 |
+| Publications | 72 |
+| CDR Focus | 15.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **An Automated Microfluidic Analyzer for <i>In Situ</i> Monitoring of Total Alkalinity** (2023)
-   52 citations · General CDR
+   53 citations · General CDR
 
 2. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   10 citations · General CDR
+   12 citations · General CDR
 
-3. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+3. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+   3 citations
+
+4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
    2 citations · General CDR
-
-4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
-   2 citations
 
 5. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR

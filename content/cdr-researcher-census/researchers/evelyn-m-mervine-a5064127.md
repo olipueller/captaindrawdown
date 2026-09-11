@@ -1,7 +1,7 @@
 ---
 title: "Evelyn M. Mervine"
 description: "Evelyn M. Mervine is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562405
+date: 2026-09-11T02:38:29.510337
 url: "/cdr-researcher-census/researchers/evelyn-m-mervine-a5064127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 444 |
+| Citations | 457 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

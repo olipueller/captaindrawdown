@@ -1,7 +1,7 @@
 ---
 title: "Domenico Rosa"
-description: "Domenico Rosa is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.958766
+description: "Domenico Rosa is a Mid-career Biochar researcher at Sapienza University of Rome in IT. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.851880
 url: "/cdr-researcher-census/researchers/domenico-rosa-a5032702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 211 |
+| h-index | 9 |
+| Citations | 235 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar supported Fe–TiO2 composite for wastewater treatment: Solid-state synthesis and mechanistic insights** (2025)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Designing biochar through controlled synthesis: Correlating processing conditions with functional performance** (2026)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Xu"
-description: "Tianshu Xu is a Mid-career General CDR researcher at Target (United States) in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.297439
+description: "Tianshu Xu is a Mid-career General CDR researcher at Heidelberg University in DE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.212138
 url: "/cdr-researcher-census/researchers/tianshu-xu-a5113068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianshu-xu-a5113068/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Target (United States)"
+    "name": "Heidelberg University"
   },
   "sameAs": "https://openalex.org/A5113068717"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianshu Xu**  
-Target (United States) · 🇺🇸 US
+Heidelberg University · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 122 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| h-index | 7 |
+| Citations | 134 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

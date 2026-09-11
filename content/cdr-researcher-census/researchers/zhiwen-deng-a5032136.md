@@ -1,7 +1,7 @@
 ---
 title: "Zhiwen Deng"
-description: "Zhiwen Deng is a Senior Biochar researcher at Chongqing University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239022
+description: "Zhiwen Deng is a Senior Biochar researcher at Fujian Agriculture and Forestry University in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.185105
 url: "/cdr-researcher-census/researchers/zhiwen-deng-a5032136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhiwen-deng-a5032136/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chongqing University"
+    "name": "Fujian Agriculture and Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8597-4247",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhiwen Deng**  
-Chongqing University · 🇨🇳 CN
+Fujian Agriculture and Forestry University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,333 |
-| Publications | 49 |
-| CDR Focus | 8.2% |
+| Citations | 1,391 |
+| Publications | 51 |
+| CDR Focus | 7.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Study on the mechanism of biochar loaded typical microalgae Chlorella removal of cadmium** (2021)
-   40 citations · Biochar
+   41 citations · Biochar
 
 2. **Efficient removal of chromium by a novel biochar-microalga complex: Mechanism and performance** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 3. **Contrasting effects of a novel biochar-microalgae complex on arsenic and mercury removal** (2023)
-   13 citations · Biochar
+   15 citations · Biochar
 
 4. **Study on the Influencing Factors and Mechanism of Biochar Loaded Typical Microalgae Chlorella Removal of Cadmium** (2021)
    1 citations · Biochar

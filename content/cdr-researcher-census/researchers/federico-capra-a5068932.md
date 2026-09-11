@@ -1,7 +1,7 @@
 ---
 title: "Federico Capra"
-description: "Federico Capra is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.705109
+description: "Federico Capra is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.649213
 url: "/cdr-researcher-census/researchers/federico-capra-a5068932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 327 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| Citations | 342 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term C and N sequestration under no-till is governed by biomass production of cover crops rather than differences in grass vs. legume biomass quality** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Potential of conservation tillage, cover crops, and digestate application as integrated C farming practices for processing tomato** (2024)
    8 citations · Soil Carbon

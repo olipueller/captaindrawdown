@@ -1,7 +1,7 @@
 ---
 title: "Nina Stobbe"
-description: "Nina Stobbe is a Senior Soil Carbon researcher. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.452738
+description: "Nina Stobbe is a Senior Soil Carbon researcher at University of Freiburg in DE. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.408575
 url: "/cdr-researcher-census/researchers/nina-stobbe-a5009958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nina Stobbe",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nina-stobbe-a5009958/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Freiburg"
+  },
   "sameAs": "https://openalex.org/A5009958226"
 }
 </script>
 
 ## Profile
 
-**Nina Stobbe**
+**Nina Stobbe**  
+University of Freiburg · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 588 |
+| Citations | 595 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -43,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **ECOSENSE - Multi-scale quantification and modelling of spatio-temporal dynamics of ecosystem processes by smart autonomous sensor networks** (2024)
-   33 citations · General CDR
+   36 citations · General CDR
 
 ## External Profiles
 

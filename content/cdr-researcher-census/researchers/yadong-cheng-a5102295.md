@@ -1,7 +1,7 @@
 ---
 title: "Yadong Cheng"
-description: "Yadong Cheng is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.731399
+description: "Yadong Cheng is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.677910
 url: "/cdr-researcher-census/researchers/yadong-cheng-a5102295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 309 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 321 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Biochar
 
 2. **Variation in microbial communities and network ecological clusters driven by soil organic carbon in an inshore saline soil amended with hydrochar in Yellow River Delta, China** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

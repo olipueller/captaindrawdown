@@ -1,7 +1,7 @@
 ---
 title: "Qingyue Tan"
 description: "Qingyue Tan is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.550935
+date: 2026-09-11T02:38:29.495736
 url: "/cdr-researcher-census/researchers/qingyue-tan-a5034524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 456 |
+| Citations | 473 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of species mixture on soil nitrogen stocks in the Loess Plateau of China** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Mixed plantations promote carbon accumulation in plants and soil in arid and semi-arid regions: Evidence from the Loess Plateau of China** (2025)
    5 citations · Soil Carbon

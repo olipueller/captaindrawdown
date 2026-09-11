@@ -1,7 +1,7 @@
 ---
 title: "Xiaojie Wang"
 description: "Xiaojie Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 56 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.196745
+date: 2026-09-11T02:38:29.157123
 url: "/cdr-researcher-census/researchers/xiaojie-wang-a5100351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,712 |
+| Citations | 1,635 |
 | Publications | 56 |
-| CDR Focus | 14.3% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Thresholds of Wetland Carbon Sink Regulation by Water Level** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zezhou Guo"
 description: "Zezhou Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.283230
+date: 2026-09-11T02:38:30.234911
 url: "/cdr-researcher-census/researchers/zezhou-guo-a5108773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 125 |
+| Citations | 130 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

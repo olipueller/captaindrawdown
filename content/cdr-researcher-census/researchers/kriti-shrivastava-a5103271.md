@@ -1,7 +1,7 @@
 ---
 title: "Kriti Shrivastava"
-description: "Kriti Shrivastava is a Mid-career Biochar researcher at Gyan Vihar University in IN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.800388
+description: "Kriti Shrivastava is a Mid-career Biochar researcher at Gyan Vihar University in IN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.728342
 url: "/cdr-researcher-census/researchers/kriti-shrivastava-a5103271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 272 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 9 |
+| Citations | 294 |
+| Publications | 30 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Biochar based dye removal from industrial effluents: A review** (2025)
+1. **Modified biochar and its nanocomposites for efficient removal of aqueous Hg species from contaminated water** (2026)
    0 citations · Biochar
 
-2. **Utilization of Modified Biochar for Wastewater Recycling and Management** (2022)
+2. **Biochar based dye removal from industrial effluents: A review** (2025)
+   0 citations · Biochar
+
+3. **Utilization of Modified Biochar for Wastewater Recycling and Management** (2022)
    0 citations · Biochar
 
 ## External Profiles

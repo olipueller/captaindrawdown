@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Shen"
-description: "Zhihui Shen is a Senior Soil Carbon researcher at Guizhou University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.748528
+description: "Zhihui Shen is a Senior Soil Carbon researcher at Shanghai University of Engineering Science in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.697365
 url: "/cdr-researcher-census/researchers/zhihui-shen-a5103840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhihui-shen-a5103840/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guizhou University"
+    "name": "Shanghai University of Engineering Science"
   },
   "sameAs": [
     "https://orcid.org/0009-0006-3879-4151",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhihui Shen**  
-Guizhou University · 🇨🇳 CN
+Shanghai University of Engineering Science · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 299 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 310 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

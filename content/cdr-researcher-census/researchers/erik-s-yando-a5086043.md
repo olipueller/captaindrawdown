@@ -1,7 +1,7 @@
 ---
 title: "Erik S. Yando"
 description: "Erik S. Yando is a Mid-career Soil Carbon researcher at Old Dominion University in US. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.267292
+date: 2026-09-11T02:38:29.213319
 url: "/cdr-researcher-census/researchers/erik-s-yando-a5086043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,160 |
+| Citations | 1,207 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Edge effects impact blue carbon dynamics across coastal ecotones in a tropical seascape** (2024)
    6 citations · General CDR

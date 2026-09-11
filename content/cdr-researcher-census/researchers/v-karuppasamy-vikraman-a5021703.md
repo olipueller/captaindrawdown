@@ -1,7 +1,7 @@
 ---
 title: "V. Karuppasamy Vikraman"
-description: "V. Karuppasamy Vikraman is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075549
+description: "V. Karuppasamy Vikraman is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.005957
 url: "/cdr-researcher-census/researchers/v-karuppasamy-vikraman-a5021703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 174 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| Citations | 188 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Pyrolysis of post-consumption food waste with insights into kinetics, energy demand and products analysis** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 2. **Targeted design of biochar for energy, carbon sequestration and agronomic applications through multi-objective optimisation of food waste pyrolysis** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 3. **Chemical pretreatment of cashew nut shell presscakes for enhanced pyrolysis behaviour and tailored biochar properties** (2026)
    0 citations · Biochar

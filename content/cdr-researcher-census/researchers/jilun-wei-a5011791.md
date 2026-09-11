@@ -1,7 +1,7 @@
 ---
 title: "Jilun Wei"
 description: "Jilun Wei is a Mid-career Biochar researcher. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.687566
+date: 2026-09-11T02:38:29.639082
 url: "/cdr-researcher-census/researchers/jilun-wei-a5011791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 339 |
+| Citations | 348 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activation of peroxydisulfate by black fungus-derived N-doped biochar for tetracycline degradation via non-radical dominated oxidation pathway** (2022)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

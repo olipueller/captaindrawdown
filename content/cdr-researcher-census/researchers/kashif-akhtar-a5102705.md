@@ -1,7 +1,7 @@
 ---
 title: "Kashif Akhtar"
 description: "Kashif Akhtar is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.607306
+date: 2026-09-11T02:38:29.547680
 url: "/cdr-researcher-census/researchers/kashif-akhtar-a5102705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 401 |
+| Citations | 421 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wattle fencing improved soil aggregate stability, organic carbon stocks and biochemical quality by restoring highly eroded mountain region soil** (2021)
-   43 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 ## External Profiles
 

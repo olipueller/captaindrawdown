@@ -1,7 +1,7 @@
 ---
 title: "Ssu-Ching Chen"
-description: "Ssu-Ching Chen is a Mid-career Biochar researcher at National Central University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.930847
+description: "Ssu-Ching Chen is a Mid-career Biochar researcher at National Central University in TW. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.882355
 url: "/cdr-researcher-census/researchers/ssu-ching-chen-a5058589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 214 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 224 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Development of modified MgO/biochar composite for chemical adsorption enhancement to cleanup fluoride-contaminated groundwater** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

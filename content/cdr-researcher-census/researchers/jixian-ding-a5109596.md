@@ -1,7 +1,7 @@
 ---
 title: "Jixian Ding"
-description: "Jixian Ding is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.377313
+description: "Jixian Ding is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.307990
 url: "/cdr-researcher-census/researchers/jixian-ding-a5109596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jixian-ding-a5109596/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Soil Science"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5109596496"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jixian Ding**  
-Institute of Soil Science · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 740 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 812 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Cristina Caparelli de Oliveira"
-description: "Fernanda Cristina Caparelli de Oliveira is a Senior Soil Carbon researcher at Universidade Federal de Mato Grosso do Sul in BR. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.868192
+description: "Fernanda Cristina Caparelli de Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Mato Grosso do Sul in BR. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.825422
 url: "/cdr-researcher-census/researchers/fernanda-cristina-caparelli-de-oliveira-a5051459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Fernanda Cristina Caparelli de Oliveira**  
 Universidade Federal de Mato Grosso do Sul · 🇧🇷 BR
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 239 |
+| Citations | 247 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

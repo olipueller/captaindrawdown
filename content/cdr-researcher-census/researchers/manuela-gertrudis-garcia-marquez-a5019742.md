@@ -1,7 +1,7 @@
 ---
 title: "Manuela Gertrudis García-Márquez"
-description: "Manuela Gertrudis García-Márquez is a Mid-career Ocean CDR researcher at Universitat de les Illes Balears in ES. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.387333
+description: "Manuela Gertrudis García-Márquez is a Mid-career Ocean CDR researcher at Universitat de les Illes Balears in ES. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.329579
 url: "/cdr-researcher-census/researchers/manuela-gertrudis-garcia-marquez-a5019742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 106 |
+| h-index | 7 |
+| Citations | 112 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Effects of sunscreen exposure on Posidonia oceanica (L.) Delile under a perspective of increased seawater temperature scenario** (2024)
-   6 citations
+   7 citations
 
 2. **Response of <i>Posidonia oceanica</i> (L.) Delile and its associated N <sub>2</sub> fixers to different combinations of temperature and light levels** (2021)
    2 citations · Ocean CDR

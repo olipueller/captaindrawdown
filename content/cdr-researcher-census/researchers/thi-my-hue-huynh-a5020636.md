@@ -1,7 +1,7 @@
 ---
 title: "Thi My Hue Huynh"
 description: "Thi My Hue Huynh is a Mid-career Biochar researcher at National Central University in TW. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.513491
+date: 2026-09-11T02:38:29.439774
 url: "/cdr-researcher-census/researchers/thi-my-hue-huynh-a5020636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 496 |
+| Citations | 548 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Phenolic-rich biomass-derived biochar as a low-cost alternative to activated carbon for cadmium stabilization in paddy soils** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

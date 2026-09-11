@@ -1,7 +1,7 @@
 ---
 title: "Deping Zhou"
-description: "Deping Zhou is a Mid-career Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.749398
+description: "Deping Zhou is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.706451
 url: "/cdr-researcher-census/researchers/deping-zhou-a5078119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/deping-zhou-a5078119/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanghai Academy of Agricultural Sciences"
+    "name": "Ministry of Agriculture"
   },
   "sameAs": "https://openalex.org/A5078119932"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Deping Zhou**  
-Shanghai Academy of Agricultural Sciences · 🇨🇳 CN
+Ministry of Agriculture ·  BW
 
 **Career Stage:** Mid-career
 
@@ -39,11 +39,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 299 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| h-index | 7 |
+| Citations | 306 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

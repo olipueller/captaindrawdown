@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Zhao"
-description: "Mingliang Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.573296
+description: "Mingliang Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.511843
 url: "/cdr-researcher-census/researchers/mingliang-zhao-a5002051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 434 |
-| Publications | 32 |
-| CDR Focus | 25.0% |
+| h-index | 11 |
+| Citations | 456 |
+| Publications | 33 |
+| CDR Focus | 24.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
    9 citations · Soil Carbon
@@ -59,19 +59,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
    8 citations · Soil Carbon
 
-4. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
+4. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
+   5 citations · Soil Carbon
+
+5. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
    3 citations · Soil Carbon
 
-5. **Seasonal Drought Reduces Carbon Sequestration in Coastal Wetlands** (2026)
+6. **Seasonal Drought Reduces Carbon Sequestration in Coastal Wetlands** (2026)
    0 citations · Soil Carbon
 
-6. **Spatial variability and drivers of soil organic carbon burial in the tidal flats of the Yellow River Delta** (2026)
+7. **Spatial variability and drivers of soil organic carbon burial in the tidal flats of the Yellow River Delta** (2026)
    0 citations · Soil Carbon
 
-7. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
+8. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
    0 citations · Soil Carbon
 
-8. **Restoration Age Enhances Soil Organic Carbon Sequestration Primarily Through Plant-derived Carbon in a Coastal Wetland** (2025)
+9. **Restoration Age Enhances Soil Organic Carbon Sequestration Primarily Through Plant-derived Carbon in a Coastal Wetland** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

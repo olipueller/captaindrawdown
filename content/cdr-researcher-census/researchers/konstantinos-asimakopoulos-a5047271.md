@@ -1,7 +1,7 @@
 ---
 title: "Konstantinos Asimakopoulos"
 description: "Konstantinos Asimakopoulos is a Mid-career BECCS researcher at Danmarks Tekniske Universitet in DK. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.466923
+date: 2026-09-11T02:38:29.415256
 url: "/cdr-researcher-census/researchers/konstantinos-asimakopoulos-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 565 |
+| Citations | 585 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |

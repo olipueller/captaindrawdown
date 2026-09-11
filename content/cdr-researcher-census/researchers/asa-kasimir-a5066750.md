@@ -1,7 +1,7 @@
 ---
 title: "Åsa Kasimir"
-description: "Åsa Kasimir is a Mid-career Soil Carbon researcher at University of Gothenburg in SE. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287218
+description: "Åsa Kasimir is a Mid-career Soil Carbon researcher at University of Gothenburg in SE. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.236570
 url: "/cdr-researcher-census/researchers/asa-kasimir-a5066750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,055 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 1,073 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

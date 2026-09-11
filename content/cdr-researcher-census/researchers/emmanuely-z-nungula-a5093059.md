@@ -1,7 +1,7 @@
 ---
 title: "Emmanuely Z. Nungula"
-description: "Emmanuely Z. Nungula is a Mid-career Soil Carbon researcher at Mzumbe University in TZ. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060567
+description: "Emmanuely Z. Nungula is a Mid-career Soil Carbon researcher at Mzumbe University in TZ. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.977788
 url: "/cdr-researcher-census/researchers/emmanuely-z-nungula-a5093059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 179 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 197 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Response of Soil Microbial Communities to Climate Change** (2025)
    0 citations · Soil Carbon

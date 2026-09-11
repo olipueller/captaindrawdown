@@ -1,7 +1,7 @@
 ---
 title: "Yaying Feng"
 description: "Yaying Feng is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.399660
+date: 2026-09-11T02:38:29.353022
 url: "/cdr-researcher-census/researchers/yaying-feng-a5102291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 691 |
+| Citations | 704 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon accumulation in response to vegetation restoration across global mining areas: A meta-analysis** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

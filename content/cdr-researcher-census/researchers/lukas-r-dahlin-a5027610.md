@@ -1,7 +1,7 @@
 ---
 title: "Lukas R. Dahlin"
-description: "Lukas R. Dahlin is a Mid-career Ocean CDR researcher at Renewable Energy Laboratory in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.711240
+description: "Lukas R. Dahlin is a Mid-career Ocean CDR researcher at Renewable Energy Laboratory in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.664159
 url: "/cdr-researcher-census/researchers/lukas-r-dahlin-a5027610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 323 |
+| h-index | 9 |
+| Citations | 331 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Cyanobacteria newly isolated from marine volcanic seeps display rapid sinking and robust, high-density growth** (2024)
-   10 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

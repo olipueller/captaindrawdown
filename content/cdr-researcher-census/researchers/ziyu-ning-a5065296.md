@@ -1,7 +1,7 @@
 ---
 title: "Ziyu Ning"
-description: "Ziyu Ning is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.390936
+description: "Ziyu Ning is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.338151
 url: "/cdr-researcher-census/researchers/ziyu-ning-a5065296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 709 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 735 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Imran Haider"
-description: "Imran Haider is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.341149
+description: "Imran Haider is a Mid-career Soil Carbon researcher at Azerbaijan State Oil and Industry University in AZ. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.283582
 url: "/cdr-researcher-census/researchers/imran-haider-a5036484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/imran-haider-a5036484/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Islamia University of Bahawalpur"
+    "name": "Azerbaijan State Oil and Industry University"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-1967-4099",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Imran Haider**  
-Islamia University of Bahawalpur · 🇵🇰 PK
+Azerbaijan State Oil and Industry University ·  AZ
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 844 |
-| Publications | 36 |
-| CDR Focus | 11.1% |
+| h-index | 12 |
+| Citations | 889 |
+| Publications | 39 |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Impacts of Conservation Tillage on Agricultural Land Development: A Review** (2024)
-   30 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Wheat-Berseem intercropping system enhances soil fertility, carbon sequestration and crop productivity under nutrient-deficient conditions** (2025)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Peter Nai Yuh Yek"
-description: "Peter Nai Yuh Yek is a Senior Biochar researcher at University College of Technology Sarawak in MY. With 80 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.096278
+description: "Peter Nai Yuh Yek is a Senior Biochar researcher at University College of Technology Sarawak in MY. With 83 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.047235
 url: "/cdr-researcher-census/researchers/peter-nai-yuh-yek-a5088667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 5,142 |
-| Publications | 80 |
-| CDR Focus | 5.0% |
+| Citations | 5,236 |
+| Publications | 83 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microwave processing of oil palm wastes for bioenergy production and circular economy: Recent advancements, challenges, and future prospects** (2022)
-   48 citations
+   49 citations
 
 2. **Single-mode microwave pyrolysis of engineered biochar from shrimp shell waste for landfill wastewater treatment** (2025)
    9 citations · Biochar
@@ -59,10 +59,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Microwave physicochemical activation: an advanced approach to produce activated biochar for palm oil mill effluent treatment** (2022)
    8 citations · Biochar
 
-4. **Biochar Production Techniques and Innovations** (2025)
+4. **Microwave co-pyrolysis of seaweed and lignocellulosic biomass for advanced nano-biochar production** (2026)
+   1 citations · Biochar
+
+5. **Biochar Production Techniques and Innovations** (2025)
    0 citations · Biochar
 
-5. **Innovative Microwave Pyrolysis Approaches and Activation to Produce Biochar from Crab Shell Waste for Palm Oil Mill Wastewater Treatment** (2023)
+6. **Innovative Microwave Pyrolysis Approaches and Activation to Produce Biochar from Crab Shell Waste for Palm Oil Mill Wastewater Treatment** (2023)
    0 citations · Biochar
 
 ## External Profiles

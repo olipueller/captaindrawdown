@@ -1,7 +1,7 @@
 ---
 title: "Katsutoshi Mizuta"
-description: "Katsutoshi Mizuta is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.033715
+description: "Katsutoshi Mizuta is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996480
 url: "/cdr-researcher-census/researchers/katsutoshi-mizuta-a5012264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 187 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 191 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

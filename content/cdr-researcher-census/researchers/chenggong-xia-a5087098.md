@@ -1,7 +1,7 @@
 ---
 title: "Chenggong Xia"
 description: "Chenggong Xia is a Mid-career Biochar researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408941
+date: 2026-09-11T02:38:30.379200
 url: "/cdr-researcher-census/researchers/chenggong-xia-a5087098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 102 |
+| Citations | 103 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Passivation of multiple heavy metals in lead–zinc tailings facilitated by straw biochar-loaded N-doped carbon aerogel nanoparticles: Mechanisms and microbial community evolution** (2021)
-   55 citations · Biochar
+   56 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Prince Ngobeni"
 description: "Prince Ngobeni is a Senior Biochar researcher at University of the Free State in ZA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.202057
+date: 2026-09-11T02:38:30.149462
 url: "/cdr-researcher-census/researchers/prince-ngobeni-a5108394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 142 |
+| Citations | 149 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The nexuses of micro(nano)plastics at environmental interfaces: Challenges in wastewater treatment and sustainable water management** (2025)
-   10 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

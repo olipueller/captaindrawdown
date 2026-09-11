@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
-description: "Jennifer Morris is a Senior General CDR researcher at Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change in US. With 140 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.121556
+description: "Jennifer Morris is a Senior General CDR researcher at Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change in US. With 142 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.071555
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,36 +43,36 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,453 |
-| Publications | 140 |
-| CDR Focus | 7.9% |
+| Citations | 3,539 |
+| Publications | 142 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world** (2021)
-   134 citations · BECCS
+   135 citations · BECCS
 
 2. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   38 citations · General CDR
+   42 citations · General CDR
 
 3. **Deploying direct air capture at scale: How close to reality?** (2023)
-   28 citations · DAC
+   29 citations · DAC
 
-4. **NET ZERO EMISSIONS OF GREENHOUSE GASES BY 2050: ACHIEVABLE AND AT WHAT COST?** (2023)
+4. **Integrated assessment of carbon dioxide removal portfolios: land, energy, and economic trade-offs for climate policy** (2025)
    18 citations · BECCS
 
-5. **Integrated assessment of carbon dioxide removal portfolios: land, energy, and economic trade-offs for climate policy** (2025)
-   17 citations · BECCS
+5. **NET ZERO EMISSIONS OF GREENHOUSE GASES BY 2050: ACHIEVABLE AND AT WHAT COST?** (2023)
+   18 citations · BECCS
 
 6. **Getting real about capturing carbon from the air** (2024)
    17 citations · General CDR
 
 7. **Mutual reinforcement of land-based carbon dioxide removal and international emissions trading in deep decarbonization scenarios** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 8. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 9. **Review of Bioenergy with Carbon Capture and Storage (BECCS): Progress, Challenges, and Future Outlook** (2026)
    0 citations · BECCS

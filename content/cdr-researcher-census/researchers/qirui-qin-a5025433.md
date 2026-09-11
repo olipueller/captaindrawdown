@@ -1,7 +1,7 @@
 ---
 title: "Qirui Qin"
 description: "Qirui Qin is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.017741
+date: 2026-09-11T02:38:29.968295
 url: "/cdr-researcher-census/researchers/qirui-qin-a5025433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 191 |
+| Citations | 199 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

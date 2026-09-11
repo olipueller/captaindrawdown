@@ -1,7 +1,7 @@
 ---
 title: "Minggang Xu"
 description: "Minggang Xu is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.613672
+date: 2026-09-11T02:38:29.558692
 url: "/cdr-researcher-census/researchers/minggang-xu-a5101588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 396 |
+| Citations | 411 |
 | Publications | 15 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of biochar application on crop productivity, soil carbon sequestration, and global warming potential controlled by biochar C:N ratio and soil pH: A global meta-analysis** (2021)
-   231 citations · Biochar
+   238 citations · Biochar
 
 2. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   103 citations
+   104 citations
 
 3. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
-   30 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Impacts of climate change on crop production and soil carbon stock in a continuous wheat cropping system in southeast England** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 6. **Assessing the impacts of climate change on crop yields, soil organic carbon sequestration and N2O emissions in wheat–maize rotation systems** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 7. **Manure amendment acts as a recommended fertilization for improving carbon sequestration efficiency in soils of typical drylands of China** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
-8. **SOC sequestration affected by fertilization in rice-based cropping systems over the last four decades** (2023)
+8. **Fertilization decreases microbial CUE via enhancing soil properties and microbial respiration in coal mine reclamation area** (2025)
+   8 citations · Soil Carbon
+
+9. **SOC sequestration affected by fertilization in rice-based cropping systems over the last four decades** (2023)
    8 citations · General CDR
-
-9. **Fertilization decreases microbial CUE via enhancing soil properties and microbial respiration in coal mine reclamation area** (2025)
-   7 citations · Soil Carbon
 
 10. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)
    6 citations · Soil Carbon

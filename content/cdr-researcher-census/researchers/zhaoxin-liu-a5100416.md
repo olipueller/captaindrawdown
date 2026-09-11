@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxin Liu"
 description: "Zhaoxin Liu is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.713062
+date: 2026-09-11T02:38:29.661246
 url: "/cdr-researcher-census/researchers/zhaoxin-liu-a5100416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 321 |
+| Citations | 333 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

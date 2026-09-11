@@ -1,7 +1,7 @@
 ---
 title: "Avery E. Baumann"
-description: "Avery E. Baumann is a Senior DAC researcher at National Institute of Standards and Technology in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.201178
+description: "Avery E. Baumann is a Senior DAC researcher at National Institute of Standards and Technology in US. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.148303
 url: "/cdr-researcher-census/researchers/avery-e-baumann-a5023092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,664 |
-| Publications | 25 |
-| CDR Focus | 16.0% |
+| Citations | 1,721 |
+| Publications | 26 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Thickness dependent CO2 adsorption of poly(ethyleneimine) thin films for direct air capture** (2024)
-   49 citations
+   55 citations
 
 2. **The role of humidity in enhancing CO2 capture efficiency in poly(ethyleneimine) thin films** (2025)
-   17 citations
+   18 citations
 
 3. **Measuring the Influence of CO<sub>2</sub> and Water Vapor on the Dynamics in Polyethylenimine To Understand the Direct Air Capture of CO<sub>2</sub> from the Environment** (2024)
-   10 citations
+   11 citations
 
 4. **Progress in development of characterization capabilities to evaluate candidate materials for direct air capture applications** (2024)
-   3 citations · DAC
+   5 citations · DAC
 
 5. **Reproducible sorbent materials foundry for carbon capture at scale** (2022)
-   3 citations
+   4 citations
 
 6. **Investigatingthe Influence of Alkali Chloride Saltsand Hydration on the Direct Air Capture Capacity of PolyethylenimineFilms with Quartz Crystal Microbalance and Infrared Spectroscopy** (2026)
    0 citations · DAC

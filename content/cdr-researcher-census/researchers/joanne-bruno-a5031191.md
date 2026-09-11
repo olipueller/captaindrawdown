@@ -1,7 +1,7 @@
 ---
 title: "JoAnne Bruno"
 description: "JoAnne Bruno is a Senior Ocean CDR researcher at Sierra Wireless (Canada) in CA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.410126
+date: 2026-09-11T02:38:29.368390
 url: "/cdr-researcher-census/researchers/joanne-bruno-a5031191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 667 |
+| Citations | 668 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

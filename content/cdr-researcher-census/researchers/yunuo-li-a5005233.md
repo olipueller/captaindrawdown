@@ -1,7 +1,7 @@
 ---
 title: "Yunuo Li"
-description: "Yunuo Li is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.626960
+description: "Yunuo Li is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.551383
 url: "/cdr-researcher-census/researchers/yunuo-li-a5005233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 384 |
-| Publications | 20 |
-| CDR Focus | 40.0% |
+| Citations | 418 |
+| Publications | 22 |
+| CDR Focus | 36.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Effects of the combined application of livestock manure and plant residues on soil organic carbon sequestration in the southern Loess Plateau of China** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Long‐term effects of straw mulching coupled with N application on soil organic carbon sequestration and soil aggregation in a winter wheat monoculture system** (2021)
    18 citations · Soil Carbon

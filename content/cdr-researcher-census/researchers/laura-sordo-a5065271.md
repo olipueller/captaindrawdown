@@ -1,7 +1,7 @@
 ---
 title: "Laura Sordo"
-description: "Laura Sordo is a Senior Ocean CDR researcher at University of Algarve in PT. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.799665
+description: "Laura Sordo is a Senior Ocean CDR researcher at University of Algarve in PT. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.751988
 url: "/cdr-researcher-census/researchers/laura-sordo-a5065271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 273 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 282 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

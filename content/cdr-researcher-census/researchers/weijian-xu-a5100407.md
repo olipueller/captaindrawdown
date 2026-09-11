@@ -1,7 +1,7 @@
 ---
 title: "Weijian Xu"
-description: "Weijian Xu is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in HK. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.910861
+description: "Weijian Xu is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in HK. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.812302
 url: "/cdr-researcher-census/researchers/weijian-xu-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 221 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| h-index | 8 |
+| Citations | 252 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

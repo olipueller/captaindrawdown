@@ -1,7 +1,7 @@
 ---
 title: "Rahas Bihari Panda"
 description: "Rahas Bihari Panda is a Mid-career Biochar researcher at Veer Surendra Sai University of Technology in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.203524
+date: 2026-09-11T02:38:30.176146
 url: "/cdr-researcher-census/researchers/rahas-bihari-panda-a5102302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 141 |
+| Citations | 142 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

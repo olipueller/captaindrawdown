@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Lu"
-description: "Yanyan Lu is a Senior Biochar researcher at Jiangsu University in CN. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.186668
+description: "Yanyan Lu is a Senior Biochar researcher at Jiangsu University in CN. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.133363
 url: "/cdr-researcher-census/researchers/yanyan-lu-a5040574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,821 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| Citations | 1,901 |
+| Publications | 75 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    8 citations · Biochar
 
 2. **Biochar amendments enhanced organic carbon pool stability in soil aggregates by regulating soil carbon functional microbes** (2026)
-   4 citations · Biochar
+   7 citations · Biochar
 
 3. **Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway** (2023)
    3 citations · Biochar

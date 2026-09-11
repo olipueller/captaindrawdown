@@ -1,7 +1,7 @@
 ---
 title: "Yu-Yen Yang"
-description: "Yu-Yen Yang is a Senior Soil Carbon researcher at Aesthetic Surgery Center in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.139508
+description: "Yu-Yen Yang is a Senior Soil Carbon researcher at Aesthetic Surgery Center in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.115319
 url: "/cdr-researcher-census/researchers/yu-yen-yang-a5100801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 4 |
 | Citations | 157 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

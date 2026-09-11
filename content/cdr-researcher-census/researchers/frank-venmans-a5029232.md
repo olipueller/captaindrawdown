@@ -1,7 +1,7 @@
 ---
 title: "Frank Venmans"
-description: "Frank Venmans is a Mid-career General CDR researcher at London School of Economics and Political Science in GB. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.182032
+description: "Frank Venmans is a Mid-career General CDR researcher at London School of Economics and Political Science in GB. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.129827
 url: "/cdr-researcher-census/researchers/frank-venmans-a5029232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,900 |
-| Publications | 75 |
+| Citations | 1,965 |
+| Publications | 76 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Towards a co‐crediting system for carbon and biodiversity** (2023)
-   21 citations · General CDR
+   23 citations · General CDR
 
 2. **Temporary carbon dioxide removals to offset methane emissions** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **Co-crediting system for carbon and biodiversity** (2022)
    1 citations · General CDR

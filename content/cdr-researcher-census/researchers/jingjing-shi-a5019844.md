@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Shi"
 description: "Jingjing Shi is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.819218
+date: 2026-09-11T02:38:29.753429
 url: "/cdr-researcher-census/researchers/jingjing-shi-a5019844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 263 |
+| Citations | 281 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bibliometric analysis of research trends in agricultural soil organic carbon components from 2000 to 2023** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

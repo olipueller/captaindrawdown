@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
-description: "Braden Crowe is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.381176
+description: "Braden Crowe is a Senior Ocean CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.335581
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 
 **Braden Crowe**
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -38,7 +38,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 730 |
+| Citations | 741 |
 | Publications | 16 |
 | CDR Focus | 18.8% |
 | Trajectory | Stable |
@@ -46,16 +46,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
-   21 citations
+   22 citations
 
-2. **Microalgae Commodities Production with a Direct Air Capture Process (Final Technical Report)** (2026)
+2. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
+   1 citations · Ocean CDR
+
+3. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
+   1 citations · Ocean CDR
+
+4. **Microalgae Commodities Production with a Direct Air Capture Process (Final Technical Report)** (2026)
    0 citations · DAC
-
-3. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
-   0 citations · Ocean CDR
-
-4. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
-   0 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Velma Beri Kimbi Yaah"
-description: "Velma Beri Kimbi Yaah is a Mid-career Biochar researcher at University of Oulu in FI. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.995869
+description: "Velma Beri Kimbi Yaah is a Mid-career Biochar researcher at University of Oulu in FI. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.895471
 url: "/cdr-researcher-census/researchers/velma-beri-kimbi-yaah-a5058368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 198 |
+| h-index | 9 |
+| Citations | 219 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Hydrochar from Organic Side-Streams Induce Species-Specific Responses in Plants** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

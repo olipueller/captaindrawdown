@@ -1,7 +1,7 @@
 ---
 title: "Yung‐Yen Shih"
 description: "Yung‐Yen Shih is a Senior Ocean CDR researcher at Republic of China Naval Academy in TW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.583134
+date: 2026-09-11T02:38:29.524957
 url: "/cdr-researcher-census/researchers/yungyen-shih-a5049387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 424 |
+| Citations | 442 |
 | Publications | 29 |
 | CDR Focus | 13.8% |
 | Trajectory | Stable |

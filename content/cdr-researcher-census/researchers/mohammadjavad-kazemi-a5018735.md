@@ -1,7 +1,7 @@
 ---
 title: "Mohammadjavad Kazemi"
-description: "Mohammadjavad Kazemi is a Mid-career Biochar researcher at Arizona State University in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.421915
+description: "Mohammadjavad Kazemi is a Mid-career Biochar researcher at Arizona State University in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.360626
 url: "/cdr-researcher-census/researchers/mohammadjavad-kazemi-a5018735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 640 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 686 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Perspective on Sustainable Solutions for Mitigating Off-Gassing of Volatile Organic Compounds in Asphalt Composites** (2025)
-   10 citations · Biochar
+   12 citations · Biochar
 
 2. **Plastic waste for frost mitigation: A bio-inspired approach to enhance soil resilience and carbon sequestration** (2025)
    1 citations · Soil Carbon

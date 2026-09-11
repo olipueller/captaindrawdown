@@ -1,7 +1,7 @@
 ---
 title: "Curtis Monger"
-description: "Curtis Monger is a Senior Soil Carbon researcher at New Mexico State University in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.262583
+description: "Curtis Monger is a Senior Soil Carbon researcher at New Mexico State University in US. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.208589
 url: "/cdr-researcher-census/researchers/curtis-monger-a5022307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,182 |
-| Publications | 40 |
-| CDR Focus | 7.5% |
+| Citations | 1,229 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The role of soil in regulation of climate** (2021)
-   276 citations · General CDR
+   289 citations · General CDR
 
 2. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 3. **Uranium-series and strontium isotope systematics in soil carbonates from dryland Critical Zones: Implications for soil inorganic carbon storage and transformation** (2024)
    0 citations · Soil Carbon

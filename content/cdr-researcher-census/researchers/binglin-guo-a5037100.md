@@ -1,7 +1,7 @@
 ---
 title: "Binglin Guo"
-description: "Binglin Guo is a Senior Biochar researcher at Kyushu University in JP. With 116 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.128992
+description: "Binglin Guo is a Senior Biochar researcher at Kyushu University in JP. With 121 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.077101
 url: "/cdr-researcher-census/researchers/binglin-guo-a5037100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 3,186 |
-| Publications | 116 |
-| CDR Focus | 7.8% |
+| h-index | 32 |
+| Citations | 3,339 |
+| Publications | 121 |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   61 citations · Biochar
+   66 citations · Biochar
 
 2. **Investigation of the properties and sustainability of modified biochar-doped cement-based composite** (2024)
-   52 citations · Biochar
+   56 citations · Biochar
 
 3. **Utilization of biochar to enhance the sustainability of accelerated carbonation-cured cement-based materials: Effect of biochar dual-particle-size gradation on mechanical properties and carbon sequestration** (2025)
    16 citations · Biochar
 
 4. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 5. **Investigation of the CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior of alkali-modified biochar components in cement composites** (2025)
    5 citations · Biochar

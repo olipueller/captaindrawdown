@@ -1,7 +1,7 @@
 ---
 title: "Ruotong Jin"
 description: "Ruotong Jin is a Mid-career Biochar researcher at Henan University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901072
+date: 2026-09-11T02:38:29.837531
 url: "/cdr-researcher-census/researchers/ruotong-jin-a5041078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 225 |
+| Citations | 241 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

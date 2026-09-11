@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rausis"
-description: "Kwon Rausis is a Mid-career Enhanced Weathering researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.647902
+description: "Kwon Rausis is a Mid-career General CDR researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.574262
 url: "/cdr-researcher-census/researchers/kwon-rausis-a5026373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,33 +34,33 @@ Trent University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 367 |
+| Citations | 398 |
 | Publications | 25 |
-| CDR Focus | 40.0% |
-| Trajectory | Growing |
+| CDR Focus | 36.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
-   45 citations
+   46 citations
 
 2. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
-   39 citations · Enhanced Weathering
+   40 citations · Enhanced Weathering
 
 3. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
-   32 citations
+   37 citations
 
 4. **Are enhanced rock weathering rates overestimated? A few geochemical and mineralogical pitfalls** (2025)
-   24 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 5. **Carbon dioxide supply and scaling constraints on direct air capture using calcium oxide powder** (2025)
    5 citations
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    3 citations · Enhanced Weathering
 
 7. **Organic-inorganic carbon cycling: Implications for CO2 mineralization of brucite-bearing mine tailings** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 8. **Quantifying the contribution of biogenic iron sulfides to magnesite formation in the Basque Lakes, British Columbia, Canada** (2025)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Maithili Khapre"
 description: "Maithili Khapre is a Mid-career Biochar researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.740993
+date: 2026-09-11T02:38:29.697056
 url: "/cdr-researcher-census/researchers/maithili-khapre-a5006020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 303 |
+| Citations | 310 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbonization of golden shower pods to high surface area biochar for decontamination of cationic dyes and regeneration study by gamma radiations** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

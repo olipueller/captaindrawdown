@@ -1,7 +1,7 @@
 ---
 title: "Susan C. Cook‐Patton"
-description: "Susan C. Cook‐Patton is a Senior General CDR researcher at The Nature Conservancy in US. With 117 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.078449
+description: "Susan C. Cook‐Patton is a Senior General CDR researcher at The Nature Conservancy in US. With 117 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.029759
 url: "/cdr-researcher-census/researchers/susan-c-cookpatton-a5084273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 37 |
-| Citations | 8,242 |
+| h-index | 39 |
+| Citations | 8,568 |
 | Publications | 117 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The global potential for increased storage of carbon on land** (2022)
-   235 citations · General CDR
+   241 citations · General CDR
 
 2. **Protect young secondary forests for optimum carbon removal** (2025)
-   31 citations · General CDR
+   41 citations · General CDR
 
 3. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   24 citations · General CDR
+   27 citations · General CDR
 
 4. **Time-dependent efficacy of carbon dioxide removal via forest restoration** (2026)
    0 citations · General CDR

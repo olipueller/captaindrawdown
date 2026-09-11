@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
-description: "Jackson Nkoh Nkoh is a Senior Biochar researcher at Shenzhen University in CN. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.189297
+description: "Jackson Nkoh Nkoh is a Senior Biochar researcher at Shenzhen University in CN. With 81 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.134200
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,799 |
-| Publications | 78 |
-| CDR Focus | 9.0% |
+| h-index | 25 |
+| Citations | 1,894 |
+| Publications | 81 |
+| CDR Focus | 8.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochemical and multi-omics analyses of response mechanisms of rhizobacteria to long-term copper and salt stress: Effect on soil physicochemical properties and growth of Avicennia marina** (2024)
-   19 citations
+   21 citations
 
 2. **The Synergistic Effects of Rice Straw-Pyrolyzed Biochar and Compost on Acidity Mitigation and Carbon Sequestration in Acidic Soils: A Comparative Study** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Direct Biochar–Root Interactions May Alter Cadmium Sequestration at the Interface: A Hydroponic Study** (2025)
    2 citations · Biochar

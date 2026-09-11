@@ -1,7 +1,7 @@
 ---
 title: "Marco Diers"
-description: "Marco Diers is an Early-career Soil Carbon researcher at Landesbetrieb Landwirtschaft Hessen in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.359567
+description: "Marco Diers is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.319904
 url: "/cdr-researcher-census/researchers/marco-diers-a5088481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Marco Diers",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marco-diers-a5088481/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Landesbetrieb Landwirtschaft Hessen"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-7103-3561",
     "https://openalex.org/A5088481788"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Marco Diers**  
-Landesbetrieb Landwirtschaft Hessen · 🇩🇪 DE
+**Marco Diers**
 
 **Career Stage:** Early-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 111 |
-| Publications | 6 |
-| CDR Focus | 33.3% |
+| Citations | 114 |
+| Publications | 7 |
+| CDR Focus | 28.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

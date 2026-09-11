@@ -1,7 +1,7 @@
 ---
 title: "Zhenting Zhao"
-description: "Zhenting Zhao is an Early-career Soil Carbon researcher at Xinyang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.913750
+description: "Zhenting Zhao is an Early-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.868444
 url: "/cdr-researcher-census/researchers/zhenting-zhao-a5114212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhenting-zhao-a5114212/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinyang Normal University"
+    "name": "First Affiliated Hospital of Xi'an Jiaotong University"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-8014-0504",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhenting Zhao**  
-Xinyang Normal University · 🇨🇳 CN
+First Affiliated Hospital of Xi'an Jiaotong University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 221 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 229 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

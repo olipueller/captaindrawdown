@@ -1,7 +1,7 @@
 ---
 title: "Jiannan Xiao"
-description: "Jiannan Xiao is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.257013
+description: "Jiannan Xiao is a Senior Soil Carbon researcher at Chinese University of Hong Kong in HK. With 47 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.204066
 url: "/cdr-researcher-census/researchers/jiannan-xiao-a5100620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiannan-xiao-a5100620/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Normal University"
+    "name": "Chinese University of Hong Kong"
   },
   "sameAs": "https://openalex.org/A5100620180"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiannan Xiao**  
-Beijing Normal University · 🇨🇳 CN
+Chinese University of Hong Kong · 🇭🇰 HK
 
 **Career Stage:** Senior
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,216 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| h-index | 21 |
+| Citations | 1,253 |
+| Publications | 47 |
+| CDR Focus | 8.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

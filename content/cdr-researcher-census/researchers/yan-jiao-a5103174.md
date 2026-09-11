@@ -1,7 +1,7 @@
 ---
 title: "Yan Jiao"
 description: "Yan Jiao is a Senior Soil Carbon researcher at Shandong University of Technology in CN. With 57 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.206030
+date: 2026-09-11T02:38:29.152605
 url: "/cdr-researcher-census/researchers/yan-jiao-a5103174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,606 |
+| Citations | 1,677 |
 | Publications | 57 |
 | CDR Focus | 7.0% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hydrogeochemical characterization of a possible carbon sink from shallow saline–alkaline groundwater in the eastern Hetao Basin of Inner Mongolia in China** (2021)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 2. **Performance regulation and adsorption behavior of carbon-based adsorbent prepared through co-pyrolysis of straw and agricultural film** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Research Progress and Trend Analysis of Soil Inorganic Carbon Sink Based on Citespace** (2023)
    1 citations · Soil Carbon

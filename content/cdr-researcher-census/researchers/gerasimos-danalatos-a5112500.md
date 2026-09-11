@@ -1,7 +1,7 @@
 ---
 title: "Gerasimos Danalatos"
-description: "Gerasimos Danalatos is a Mid-career Soil Carbon researcher at Iowa State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.742330
+description: "Gerasimos Danalatos is a Mid-career Soil Carbon researcher at Iowa State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.688607
 url: "/cdr-researcher-census/researchers/gerasimos-danalatos-a5112500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 303 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 315 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Historical increases in plant density increased vegetative maize biomass while breeding increased reproductive biomass and allocation to ear over stem** (2024)
-   27 citations
+   29 citations
 
 2. **Large increases in maize residue carbon inputs in the US Corn Belt from 1980 to 2020** (2025)
    0 citations · Soil Carbon

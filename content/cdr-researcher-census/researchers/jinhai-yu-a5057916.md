@@ -1,7 +1,7 @@
 ---
 title: "Jinhai Yu"
-description: "Jinhai Yu is a Mid-career Soil Carbon researcher at Henan University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.128137
+description: "Jinhai Yu is a Mid-career Soil Carbon researcher at Henan University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.054852
 url: "/cdr-researcher-census/researchers/jinhai-yu-a5057916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 160 |
+| h-index | 8 |
+| Citations | 174 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unpaved road-altered confluence networks exacerbate soil organic carbon loss in mountainous forested catchments** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuyang He"
-description: "Yuyang He is a Senior Soil Carbon researcher at Yunnan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.054854
+description: "Yuyang He is a Senior Soil Carbon researcher at Chengdu Organic Chemicals (China) in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.001313
 url: "/cdr-researcher-census/researchers/yuyang-he-a5062353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuyang-he-a5062353/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yunnan University"
+    "name": "Chengdu Organic Chemicals (China)"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-3814-6800",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuyang He**  
-Yunnan University · 🇨🇳 CN
+Chengdu Organic Chemicals (China) · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 181 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 190 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cropping systems and environment shape SOC-SIC dynamics in global agroecosystems: A meta-analysis of carbon trade-offs** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

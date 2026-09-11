@@ -1,7 +1,7 @@
 ---
 title: "Dominic Woolf"
-description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.091347
+description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 54 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.042528
 url: "/cdr-researcher-census/researchers/dominic-woolf-a5010625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 5,784 |
-| Publications | 53 |
-| CDR Focus | 22.6% |
+| h-index | 24 |
+| Citations | 5,983 |
+| Publications | 54 |
+| CDR Focus | 22.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   895 citations · Biochar
+   923 citations · Biochar
 
 2. **Global crop production increase by soil organic carbon** (2023)
-   289 citations · General CDR
+   294 citations · General CDR
 
 3. **Greenhouse Gas Inventory Model for Biochar Additions to Soil** (2021)
-   215 citations · Biochar
+   222 citations · Biochar
 
 4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   53 citations · Biochar
+   54 citations · Biochar
 
 5. **Perceptions of naturalness predict US public support for Soil Carbon Storage as a climate solution** (2021)
    37 citations · General CDR
 
 6. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
    24 citations · General CDR

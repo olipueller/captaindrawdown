@@ -1,7 +1,7 @@
 ---
 title: "Toshimi Nakajima"
 description: "Toshimi Nakajima is a Mid-career Ocean CDR researcher at Sphere Institute in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.097861
+date: 2026-09-11T02:38:30.062293
 url: "/cdr-researcher-census/researchers/toshimi-nakajima-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 168 |
+| Citations | 172 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
-| Trajectory | Growing |
+| CDR Focus | 10.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fresh and saline submarine groundwater discharge as sources of carbon and nutrients to the Japan Sea** (2023)
-   38 citations · Ocean CDR
+   39 citations · Ocean CDR
 
 2. **Insights Into the Comprehensive Carbon Cycle in a Mangrove Ecosystem: A Case Study for Understanding Carbon Burial, Outgassing, and Outwelling in a Subtropical Island** (2025)
    0 citations · General CDR

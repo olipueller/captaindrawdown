@@ -1,7 +1,7 @@
 ---
 title: "Karima Ennaciri"
-description: "Karima Ennaciri is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.891083
+description: "Karima Ennaciri is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.822568
 url: "/cdr-researcher-census/researchers/karima-ennaciri-a5003039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 229 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 248 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Synthesis and application of biochar and KOH-Activated carbon from olive mill solid waste for polyphenol removal** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

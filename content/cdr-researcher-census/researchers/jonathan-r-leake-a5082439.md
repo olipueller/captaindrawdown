@@ -1,7 +1,7 @@
 ---
 title: "Jonathan R. Leake"
-description: "Jonathan R. Leake is an Eminent Soil Carbon researcher at University of Sheffield in GB. With 202 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.068819
+description: "Jonathan R. Leake is an Eminent Soil Carbon researcher at University of Sheffield in GB. With 200 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.021722
 url: "/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 75 |
-| Citations | 16,188 |
-| Publications | 202 |
-| CDR Focus | 5.4% |
+| Citations | 16,367 |
+| Publications | 200 |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   156 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 2. **Legume–microbiome interactions unlock mineral nutrients in regrowing tropical forests** (2021)
    78 citations · Enhanced Weathering
@@ -60,19 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · Soil Carbon
 
 4. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 5. **Consistent soil organic carbon accumulation under hedges driven by increase in light particulate organic matter** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Enhanced Rock Weathering in Grassland: Benefits and Risks of Basalt Rock Dust to Soils, Forage Production, and Floristic Diversity in a Slightly Acidic Hay Meadow** (2024)
    4 citations · Enhanced Weathering
 
-7. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
-   0 citations
+7. **Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity** (2026)
+   1 citations · Enhanced Weathering
 
-8. **Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity** (2026)
-   0 citations · Enhanced Weathering
+8. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
+   0 citations
 
 9. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
    0 citations · Soil Carbon

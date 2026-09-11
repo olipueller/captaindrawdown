@@ -1,7 +1,7 @@
 ---
 title: "Tracy Halward"
 description: "Tracy Halward is a Senior Soil Carbon researcher at Institute of Arctic and Alpine Research in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287882
+date: 2026-09-11T02:38:29.241055
 url: "/cdr-researcher-census/researchers/tracy-halward-a5052808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,053 |
+| Citations | 1,055 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon and plant richness relationships differ among grassland types, disturbance history and plant functional groups** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

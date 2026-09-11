@@ -1,7 +1,7 @@
 ---
 title: "Yingting Gong"
 description: "Yingting Gong is a Mid-career Soil Carbon researcher at Guangzhou Experimental Station in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693916
+date: 2026-09-11T02:38:29.632896
 url: "/cdr-researcher-census/researchers/yingting-gong-a5002724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 335 |
+| Citations | 353 |
 | Publications | 18 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations
 
 2. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Long‐term no‐tillage and rye cover crops affect soil biological indicators on Andosols in a humid, subtropical climate** (2022)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-4. **The Effects of Tillage Systems and Cover Crops on Soil Quality and Soybean Yield** (2024)
+4. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
+   7 citations · Biochar
+
+5. **The Effects of Tillage Systems and Cover Crops on Soil Quality and Soybean Yield** (2024)
    5 citations · Soil Carbon
-
-5. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
-   5 citations · Biochar
 
 ## External Profiles
 

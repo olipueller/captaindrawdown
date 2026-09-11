@@ -1,7 +1,7 @@
 ---
 title: "Majid Ramezani Mehrian"
-description: "Majid Ramezani Mehrian is a Mid-career Soil Carbon researcher at Institute for Research in Fundamental Sciences in IR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.099733
+description: "Majid Ramezani Mehrian is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.064064
 url: "/cdr-researcher-census/researchers/majid-ramezani-mehrian-a5000513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Majid Ramezani Mehrian",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/majid-ramezani-mehrian-a5000513/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Institute for Research in Fundamental Sciences"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0216-299X",
     "https://openalex.org/A5000513455"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Majid Ramezani Mehrian**  
-Institute for Research in Fundamental Sciences ·  IR
+**Majid Ramezani Mehrian**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 168 |
+| Citations | 172 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

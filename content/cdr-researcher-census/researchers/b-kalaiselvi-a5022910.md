@@ -1,7 +1,7 @@
 ---
 title: "B. Kalaiselvi"
-description: "B. Kalaiselvi is a Mid-career Soil Carbon researcher at ACS Medical College and Hospital in IN. With 82 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480029
+description: "B. Kalaiselvi is a Mid-career Soil Carbon researcher at ACS Medical College and Hospital in IN. With 80 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.429095
 url: "/cdr-researcher-census/researchers/b-kalaiselvi-a5022910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 545 |
-| Publications | 82 |
-| CDR Focus | 6.1% |
+| Citations | 567 |
+| Publications | 80 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

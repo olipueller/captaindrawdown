@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Zhang"
-description: "Jiabao Zhang is a Mid-career Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348000
+description: "Jiabao Zhang is a Mid-career Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.261958
 url: "/cdr-researcher-census/researchers/jiabao-zhang-a5030822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 822 |
-| Publications | 53 |
-| CDR Focus | 7.5% |
+| h-index | 14 |
+| Citations | 970 |
+| Publications | 58 |
+| CDR Focus | 8.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations
 
 2. **Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Impacts of multitrophic biological loop on soil carbon sequestration** (2026)
    0 citations · Soil Carbon

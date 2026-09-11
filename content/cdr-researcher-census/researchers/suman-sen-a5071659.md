@@ -1,7 +1,7 @@
 ---
 title: "Suman Sen"
-description: "Suman Sen is a Senior Soil Carbon researcher at Indian Veterinary Research Institute in IN. With 72 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337298
+description: "Suman Sen is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.279446
 url: "/cdr-researcher-census/researchers/suman-sen-a5071659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/suman-sen-a5071659/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Veterinary Research Institute"
+    "name": "Indian Agricultural Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2784-708X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Suman Sen**  
-Indian Veterinary Research Institute · 🇮🇳 IN
+Indian Agricultural Research Institute · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 855 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| h-index | 16 |
+| Citations | 903 |
+| Publications | 73 |
+| CDR Focus | 5.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Biochar enhances carbon stability and regulates greenhouse gas flux under crop production systems** (2024)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Surachet Aramrak"
-description: "Surachet Aramrak is a Mid-career Soil Carbon researcher at Kasetsart University in TH. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424275
+description: "Surachet Aramrak is a Mid-career Soil Carbon researcher at Kasetsart University in TH. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.372611
 url: "/cdr-researcher-census/researchers/surachet-aramrak-a5000074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 637 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 658 |
+| Publications | 49 |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

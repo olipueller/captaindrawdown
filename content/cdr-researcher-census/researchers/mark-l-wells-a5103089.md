@@ -1,7 +1,7 @@
 ---
 title: "Mark L. Wells"
-description: "Mark L. Wells is an Eminent Ocean CDR researcher at Xiamen University in CN. With 134 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.079006
+description: "Mark L. Wells is an Eminent Ocean CDR researcher at University of Maine in US. With 133 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.031304
 url: "/cdr-researcher-census/researchers/mark-l-wells-a5103089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-l-wells-a5103089/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xiamen University"
+    "name": "University of Maine"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2028-9553",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mark L. Wells**  
-Xiamen University · 🇨🇳 CN
+University of Maine · 🇺🇸 US
 
 **Career Stage:** Eminent
 
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 44 |
-| Citations | 7,965 |
-| Publications | 134 |
-| CDR Focus | 5.2% |
+| Citations | 8,084 |
+| Publications | 133 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Complexities of regulating climate by promoting marine primary production with ocean iron fertilization** (2024)
-   33 citations · General CDR
+   35 citations · General CDR
 
 2. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 3. **Outwelling of total alkalinity and dissolved inorganic carbon from the Hooghly River to the adjacent coastal Bay of Bengal** (2021)
    12 citations · Ocean CDR
 
 4. **The case for ocean iron fertilization field trials** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 5. **Dusting the rust off ocean iron fertilization research studies for mCDR** (2026)
    0 citations · General CDR

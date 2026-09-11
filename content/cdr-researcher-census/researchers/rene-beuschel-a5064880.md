@@ -1,7 +1,7 @@
 ---
 title: "René Beuschel"
-description: "René Beuschel is a Mid-career Soil Carbon researcher at University of Kassel in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.882396
+description: "René Beuschel is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.823708
 url: "/cdr-researcher-census/researchers/rene-beuschel-a5064880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ren\u00e9 Beuschel",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rene-beuschel-a5064880/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Kassel"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-6146-8796",
     "https://openalex.org/A5064880553"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**René Beuschel**  
-University of Kassel · 🇩🇪 DE
+**René Beuschel**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 233 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 248 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   78 citations · General CDR
+   84 citations · General CDR
 
 ## External Profiles
 

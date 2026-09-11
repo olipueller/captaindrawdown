@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Xu"
-description: "Huanhuan Xu is a Senior Biochar researcher at Innovation Team (China) in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.356502
+description: "Huanhuan Xu is a Senior Biochar researcher at China National Administration of Coal Geology in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.307230
 url: "/cdr-researcher-census/researchers/huanhuan-xu-a5101906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huanhuan-xu-a5101906/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Innovation Team (China)"
+    "name": "China National Administration of Coal Geology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1247-6287",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Huanhuan Xu**  
-Innovation Team (China) · 🇨🇳 CN
+China National Administration of Coal Geology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 795 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 814 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Soil Carbon
 
 2. **Unveiling mechanisms of nZVI-biochar enhanced nitrogen removal in constructed wetlands: Microbial community assembly** (2025)
-   3 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

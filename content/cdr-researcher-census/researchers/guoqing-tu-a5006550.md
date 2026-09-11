@@ -1,7 +1,7 @@
 ---
 title: "Guoqing Tu"
 description: "Guoqing Tu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.162331
+date: 2026-09-11T02:38:30.131908
 url: "/cdr-researcher-census/researchers/guoqing-tu-a5006550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 151 |
+| Citations | 153 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |

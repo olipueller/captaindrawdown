@@ -1,7 +1,7 @@
 ---
 title: "Yanli Xiao"
-description: "Yanli Xiao is a Mid-career General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.335090
+description: "Yanli Xiao is a Mid-career General CDR researcher at Electric Power Research Institute in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.286653
 url: "/cdr-researcher-census/researchers/yanli-xiao-a5039961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yanli Xiao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanli-xiao-a5039961/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Electric Power Research Institute"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-9193-8541",
     "https://openalex.org/A5039961778"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Yanli Xiao**
+**Yanli Xiao**  
+Electric Power Research Institute · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 115 |
+| Citations | 120 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

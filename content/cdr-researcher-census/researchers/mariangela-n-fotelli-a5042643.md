@@ -1,7 +1,7 @@
 ---
 title: "Mariangela N. Fotelli"
 description: "Mariangela N. Fotelli is a Senior Soil Carbon researcher at Hellenic Agricultural Organization - DIMITRA in GR. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.158740
+date: 2026-09-11T02:38:29.108473
 url: "/cdr-researcher-census/researchers/mariangela-n-fotelli-a5042643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,278 |
+| Citations | 2,323 |
 | Publications | 64 |
 | CDR Focus | 7.8% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Kuankuan Liu"
 description: "Kuankuan Liu is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302473
+date: 2026-09-11T02:38:29.272205
 url: "/cdr-researcher-census/researchers/kuankuan-liu-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 979 |
+| Citations | 925 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Based Remediation of Heavy Metal-Contaminated Soils: Mechanisms, Synergies, and Sustainable Prospects** (2025)
-   29 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lars Ruepke"
-description: "Lars Ruepke is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 39 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.739011
+description: "Lars Ruepke is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 42 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.698361
 url: "/cdr-researcher-census/researchers/lars-ruepke-a5068680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 304 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| Citations | 309 |
+| Publications | 42 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

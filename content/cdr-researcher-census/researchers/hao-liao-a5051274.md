@@ -1,7 +1,7 @@
 ---
 title: "Hao Liao"
 description: "Hao Liao is a Mid-career Soil Carbon researcher at Wuhan Botanical Garden, Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.272884
+date: 2026-09-11T02:38:29.215503
 url: "/cdr-researcher-census/researchers/hao-liao-a5051274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,130 |
+| Citations | 1,194 |
 | Publications | 28 |
 | CDR Focus | 10.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Protists regulate microbially mediated organic carbon turnover in soil aggregates** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Repeated labile carbon inputs trigger soil microbial necromass decomposition through increasing microbial diversity and hierarchical interactions** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Alleviation of microbial metabolic limitation promoting SOC stocks in agricultural soil aggregates** (2025)
    0 citations · Soil Carbon

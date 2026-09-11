@@ -1,7 +1,7 @@
 ---
 title: "Rajasekaran Murugan"
-description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at Chennai Mathematical Institute in IN. With 62 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.292820
+description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at BOKU University in AT. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.243534
 url: "/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chennai Mathematical Institute"
+    "name": "BOKU University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6931-2756",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rajasekaran Murugan**  
-Chennai Mathematical Institute · 🇮🇳 IN
+BOKU University · 🇦🇹 AT
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,024 |
-| Publications | 62 |
-| CDR Focus | 9.7% |
+| Citations | 1,044 |
+| Publications | 63 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 2. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
    1 citations

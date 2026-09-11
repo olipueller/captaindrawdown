@@ -1,7 +1,7 @@
 ---
 title: "Yolanda Matamala"
 description: "Yolanda Matamala is a Mid-career General CDR researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.194405
+date: 2026-09-11T02:38:30.129902
 url: "/cdr-researcher-census/researchers/yolanda-matamala-a5086638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 143 |
+| Citations | 153 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Jiawei Tao"
 description: "Jiawei Tao is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.454596
+date: 2026-09-11T02:38:29.396023
 url: "/cdr-researcher-census/researchers/jiawei-tao-a5041698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 585 |
+| Citations | 615 |
 | Publications | 32 |
-| CDR Focus | 6.2% |
+| CDR Focus | 9.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Influences of vegetation distribution on soil organic carbon accumulation and stability in a coastal wetland, Southeast China** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Impact of Coastal Beach Reclamation on Seasonal Greenhouse Gas Emissions: A Study of Diversified Saline–Alkaline Land Use Patterns** (2025)
    2 citations

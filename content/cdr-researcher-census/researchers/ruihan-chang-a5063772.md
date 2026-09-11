@@ -1,7 +1,7 @@
 ---
 title: "Ruihan Chang"
 description: "Ruihan Chang is an Early-career General CDR researcher at Wuhan University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.371351
+date: 2026-09-11T02:38:30.345152
 url: "/cdr-researcher-census/researchers/ruihan-chang-a5063772/"
 layout: "researcher"
 hiddenInHomeList: true

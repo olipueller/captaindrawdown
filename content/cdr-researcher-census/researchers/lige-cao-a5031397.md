@@ -1,7 +1,7 @@
 ---
 title: "Lige Cao"
 description: "Lige Cao is a Senior Soil Carbon researcher at Anhui University of Science and Technology in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.473069
+date: 2026-09-11T02:38:29.431293
 url: "/cdr-researcher-census/researchers/lige-cao-a5031397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 556 |
+| Citations | 561 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

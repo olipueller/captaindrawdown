@@ -1,7 +1,7 @@
 ---
 title: "Оlga Nesterova"
-description: "Оlga Nesterova is a Mid-career Soil Carbon researcher at Far Eastern Federal University in RU. With 59 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.346481
+description: "Оlga Nesterova is a Senior Soil Carbon researcher at Far Eastern Federal University in RU. With 60 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.323169
 url: "/cdr-researcher-census/researchers/lga-nesterova-a5043611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Оlga Nesterova**  
 Far Eastern Federal University · 🇷🇺 RU
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -44,8 +44,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 6 |
 | Citations | 113 |
-| Publications | 59 |
-| CDR Focus | 6.8% |
+| Publications | 60 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

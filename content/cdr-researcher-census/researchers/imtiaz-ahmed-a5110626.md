@@ -1,7 +1,7 @@
 ---
 title: "Imtiaz Ahmed"
 description: "Imtiaz Ahmed is a Senior Soil Carbon researcher at Rajshahi University of Engineering and Technology in BD. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.299994
+date: 2026-09-11T02:38:30.242086
 url: "/cdr-researcher-census/researchers/imtiaz-ahmed-a5110626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 122 |
+| Citations | 129 |
 | Publications | 24 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR

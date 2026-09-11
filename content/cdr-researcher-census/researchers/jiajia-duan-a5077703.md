@@ -1,7 +1,7 @@
 ---
 title: "Jiajia Duan"
-description: "Jiajia Duan is a Mid-career General CDR researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183521
+description: "Jiajia Duan is a Mid-career General CDR researcher at Northwest A&F University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.122976
 url: "/cdr-researcher-census/researchers/jiajia-duan-a5077703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiajia-duan-a5077703/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Northwest A&F University"
   },
   "sameAs": "https://openalex.org/A5077703944"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiajia Duan**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 146 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 155 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

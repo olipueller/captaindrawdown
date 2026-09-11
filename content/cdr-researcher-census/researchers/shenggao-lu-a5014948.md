@@ -1,7 +1,7 @@
 ---
 title: "Shenggao Lu"
 description: "Shenggao Lu is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 122 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.097950
+date: 2026-09-11T02:38:29.048250
 url: "/cdr-researcher-census/researchers/shenggao-lu-a5014948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 4,993 |
+| Citations | 5,110 |
 | Publications | 122 |
-| CDR Focus | 7.4% |
-| Trajectory | Declining |
+| CDR Focus | 6.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Amorphous iron oxides protect aggregate-associated organic carbon from microbial utilization and decomposition evidenced from the natural abundance of 13C** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Amendment of different biochars changed pore characteristics and permeability of Ultisol macroaggregates identified by X-ray computed tomography (CT)** (2023)
-   36 citations · Biochar
+   38 citations · Biochar
 
 3. **Differences in the physical protection mechanisms of soil organic carbon with 13C-labeled straw and biochar** (2025)
-   25 citations · Biochar
+   27 citations · Biochar
 
 4. **Pore structure analysis via X-ray μCT: Enhancing soil macroaggregate models for water permeability and carbon sequestration** (2024)
    9 citations · Soil Carbon

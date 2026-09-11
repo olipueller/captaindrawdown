@@ -1,7 +1,7 @@
 ---
 title: "Saptaparnee Dey"
-description: "Saptaparnee Dey is a Mid-career Biochar researcher at Indian Council of Agricultural Research in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.195450
+description: "Saptaparnee Dey is a Mid-career Biochar researcher at Indian Council of Agricultural Research in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.142820
 url: "/cdr-researcher-census/researchers/saptaparnee-dey-a5023570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 143 |
-| Publications | 15 |
-| CDR Focus | 26.7% |
+| Citations | 150 |
+| Publications | 16 |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar aided priming of carbon and nutrient availability in three soil orders of India** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Development of unique soil organic carbon stability index under influence of integrated nutrient management in four major soil orders of India** (2024)
    8 citations · Soil Carbon

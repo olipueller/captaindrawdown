@@ -1,7 +1,7 @@
 ---
 title: "Wenqi Gu"
-description: "Wenqi Gu is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.534576
+description: "Wenqi Gu is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.466176
 url: "/cdr-researcher-census/researchers/wenqi-gu-a5102501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 472 |
+| h-index | 11 |
+| Citations | 506 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term fertilization regimes modulate dissolved organic matter molecular chemodiversity and greenhouse gas emissions in paddy soil** (2025)
-   17 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

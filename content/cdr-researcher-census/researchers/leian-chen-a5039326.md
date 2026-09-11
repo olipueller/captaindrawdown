@@ -1,7 +1,7 @@
 ---
 title: "Leian Chen"
-description: "Leian Chen is a Mid-career General CDR researcher at University of Regina in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584996
+description: "Leian Chen is a Mid-career General CDR researcher at University of Regina in CA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.535534
 url: "/cdr-researcher-census/researchers/leian-chen-a5039326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 422 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 10 |
+| Citations | 433 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring the role of negative emission technologies in regional power system planning toward carbon net zero -- A case study for the province of Saskatchewan, Canada** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

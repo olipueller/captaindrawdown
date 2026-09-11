@@ -1,7 +1,7 @@
 ---
 title: "Suping Ji"
-description: "Suping Ji is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.432249
+description: "Suping Ji is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.374671
 url: "/cdr-researcher-census/researchers/suping-ji-a5074090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 623 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 654 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil** (2026)
    0 citations · Biochar

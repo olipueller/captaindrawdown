@@ -1,7 +1,7 @@
 ---
 title: "Christopher Bataille"
-description: "Christopher Bataille is a Mid-career General CDR researcher at Institut du Développement Durable et des Relations Internationales in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342548
+description: "Christopher Bataille is a Mid-career DAC researcher at Institut du Développement Durable et des Relations Internationales in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.282723
 url: "/cdr-researcher-census/researchers/christopher-bataille-a5112601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,26 +31,29 @@ Institut du Développement Durable et des Relations Internationales · 🇫🇷 
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 840 |
+| Citations | 890 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
-   6 citations · General CDR
+1. **Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Chapter 11** (2022)
+   89 citations · DAC
 
-2. **Built to remove carbon** (2025)
+2. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
+   8 citations · General CDR
+
+3. **Built to remove carbon** (2025)
    2 citations · General CDR
 
 ## External Profiles

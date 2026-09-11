@@ -1,7 +1,7 @@
 ---
 title: "Jian Luo"
-description: "Jian Luo is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.288503
+description: "Jian Luo is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.224119
 url: "/cdr-researcher-census/researchers/jian-luo-a5054708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,050 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 1,136 |
+| Publications | 38 |
+| CDR Focus | 7.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate change is threatening mountain grasslands and their cultural ecosystem services** (2024)
-   58 citations · General CDR
+   60 citations · General CDR
 
 2. **Soil Conservation Measures Enhanced Soil Organic Carbon Storage Across China** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Satellite-based remote sensing and multitemporal modeling approach for mapping soil erosion hotspots in global mountain grasslands under climate change** (2024)
    0 citations · Soil Carbon

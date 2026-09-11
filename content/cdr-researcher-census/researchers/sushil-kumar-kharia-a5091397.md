@@ -1,7 +1,7 @@
 ---
 title: "Sushil Kumar Kharia"
-description: "Sushil Kumar Kharia is a Mid-career Soil Carbon researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.263280
+description: "Sushil Kumar Kharia is a Senior Soil Carbon researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.220724
 url: "/cdr-researcher-census/researchers/sushil-kumar-kharia-a5091397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Sushil Kumar Kharia**  
 Swami Keshwanand Rajasthan Agricultural University · 🇮🇳 IN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 129 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 133 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

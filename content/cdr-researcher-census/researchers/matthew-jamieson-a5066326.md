@@ -1,7 +1,7 @@
 ---
 title: "Matthew Jamieson"
-description: "Matthew Jamieson is a Senior General CDR researcher at National Energy Technology Laboratory in US. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.538177
+description: "Matthew Jamieson is a Senior General CDR researcher at National Energy Technology Laboratory in US. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.659616
 url: "/cdr-researcher-census/researchers/matthew-jamieson-a5066326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 467 |
-| Publications | 64 |
-| CDR Focus | 12.5% |
+| h-index | 8 |
+| Citations | 334 |
+| Publications | 46 |
+| CDR Focus | 17.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

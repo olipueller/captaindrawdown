@@ -1,7 +1,7 @@
 ---
 title: "Pukhrambam Helena Chanu"
-description: "Pukhrambam Helena Chanu is a Mid-career Soil Carbon researcher at Banaras Hindu University in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.376919
+description: "Pukhrambam Helena Chanu is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.334848
 url: "/cdr-researcher-census/researchers/pukhrambam-helena-chanu-a5005127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Pukhrambam Helena Chanu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pukhrambam-helena-chanu-a5005127/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Banaras Hindu University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-7440-322X",
     "https://openalex.org/A5005127291"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Pukhrambam Helena Chanu**  
-Banaras Hindu University · 🇮🇳 IN
+**Pukhrambam Helena Chanu**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 111 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jie Zheng"
 description: "Jie Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.046334
+date: 2026-09-11T02:38:29.999522
 url: "/cdr-researcher-census/researchers/jie-zheng-a5102271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 183 |
+| Citations | 190 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interaction between nematodes and bacteria enhances soil carbon sequestration under organic material amendments** (2023)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kenton Heidel"
 description: "Kenton Heidel is a Senior Ocean CDR researcher at Pathfinder International in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.165006
+date: 2026-09-11T02:38:29.114396
 url: "/cdr-researcher-census/researchers/kenton-heidel-a5005642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 2,149 |
+| Citations | 2,216 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

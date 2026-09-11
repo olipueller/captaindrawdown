@@ -1,7 +1,7 @@
 ---
 title: "Derek Stuart Bell"
 description: "Derek Stuart Bell is a Senior Enhanced Weathering researcher at Zero Emissions Resource Organisation in NO. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.140569
+date: 2026-09-11T02:38:30.116082
 url: "/cdr-researcher-census/researchers/derek-stuart-bell-a5101547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    4 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 3. **Using Self-Integrating Accumulators (SIAs) to Monitor Enhanced Rock Weathering (ERW) in German Agricultural Fields** (2026)
    0 citations · Enhanced Weathering

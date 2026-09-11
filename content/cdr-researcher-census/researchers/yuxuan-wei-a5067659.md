@@ -1,7 +1,7 @@
 ---
 title: "Yuxuan Wei"
-description: "Yuxuan Wei is a Mid-career Biochar researcher at Xiamen University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369796
+description: "Yuxuan Wei is a Mid-career Biochar researcher at Zhengzhou University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.314140
 url: "/cdr-researcher-census/researchers/yuxuan-wei-a5067659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuxuan-wei-a5067659/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xiamen University"
+    "name": "Zhengzhou University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3336-951X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuxuan Wei**  
-Xiamen University · 🇨🇳 CN
+Zhengzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 109 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 115 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

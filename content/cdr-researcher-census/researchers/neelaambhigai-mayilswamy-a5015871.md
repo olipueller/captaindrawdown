@@ -1,7 +1,7 @@
 ---
 title: "Neelaambhigai Mayilswamy"
-description: "Neelaambhigai Mayilswamy is a Mid-career Biochar researcher at COEP Technological University in IN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.413244
+description: "Neelaambhigai Mayilswamy is a Mid-career Biochar researcher at COEP Technological University in IN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.355079
 url: "/cdr-researcher-census/researchers/neelaambhigai-mayilswamy-a5015871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 658 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 699 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar-derived adsorbents for removal of Rhodamine B from wastewater** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Next generation biochar–hydrogel composite for contaminant sequestration** (2025)
    7 citations · Biochar

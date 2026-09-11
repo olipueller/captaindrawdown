@@ -1,7 +1,7 @@
 ---
 title: "Raju Shankarayan"
 description: "Raju Shankarayan is a Mid-career Ocean CDR researcher at Shri Mata Vaishno Devi University in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.265622
+date: 2026-09-11T02:38:30.239930
 url: "/cdr-researcher-census/researchers/raju-shankarayan-a5051673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 128 |
+| Citations | 129 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Hanlun Jiang"
-description: "Hanlun Jiang is a Senior DAC researcher at University of Washington in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.514803
+description: "Hanlun Jiang is a Senior DAC researcher at University of Washington in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.444865
 url: "/cdr-researcher-census/researchers/hanlun-jiang-a5091879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 494 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 537 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

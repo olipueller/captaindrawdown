@@ -1,7 +1,7 @@
 ---
 title: "Fawei Zhang"
-description: "Fawei Zhang is a Senior Soil Carbon researcher at Northwest Institute of Plateau Biology, Chinese Academy of Sciences in CN. With 166 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.128315
+description: "Fawei Zhang is a Senior Soil Carbon researcher at Northwest Institute of Plateau Biology, Chinese Academy of Sciences in CN. With 167 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078375
 url: "/cdr-researcher-census/researchers/fawei-zhang-a5049979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 3,201 |
-| Publications | 166 |
+| Citations | 3,307 |
+| Publications | 167 |
 | CDR Focus | 5.4% |
 | Trajectory | Declining |
 
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Differential responses of CO2 and latent heat fluxes to climatic anomalies on two alpine grasslands on the northeastern Qinghai–Tibetan Plateau** (2023)
    18 citations
 
-3. **Effects of long-term grazing exclusion on vegetation structure, soil water holding capacity, carbon and nitrogen sequestration capacity in an alpine meadow on the Tibetan Plateau** (2023)
-   13 citations · Soil Carbon
+3. **Extreme Wetness Reduces Soil Microbial Residue Carbon More Substantially Than Extreme Drought Across Grassland Ecosystems** (2025)
+   14 citations · Soil Carbon
 
-4. **Extreme Wetness Reduces Soil Microbial Residue Carbon More Substantially Than Extreme Drought Across Grassland Ecosystems** (2025)
-   12 citations · Soil Carbon
+4. **Effects of long-term grazing exclusion on vegetation structure, soil water holding capacity, carbon and nitrogen sequestration capacity in an alpine meadow on the Tibetan Plateau** (2023)
+   13 citations · Soil Carbon
 
 5. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
    12 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Pierre Carrère"
 description: "Pierre Carrère is a Mid-career Soil Carbon researcher at Université Clermont Auvergne in FR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.254086
+date: 2026-09-11T02:38:30.210820
 url: "/cdr-researcher-census/researchers/pierre-carrere-a5034634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 131 |
+| Citations | 135 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating Winter Cover Crop Biomass in France Using Optical Sentinel-2 Dense Image Time Series and Machine Learning** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

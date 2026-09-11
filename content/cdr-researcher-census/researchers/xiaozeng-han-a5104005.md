@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.126591
+date: 2026-09-11T02:38:29.076332
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 3,282 |
+| Citations | 3,364 |
 | Publications | 94 |
 | CDR Focus | 11.7% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   53 citations
+   56 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
    32 citations · Soil Carbon
 
 3. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
    18 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 6. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 7. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
    5 citations · Soil Carbon

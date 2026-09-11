@@ -1,7 +1,7 @@
 ---
 title: "Hanieh Bamdad"
 description: "Hanieh Bamdad is a Mid-career Biochar researcher at Western University in CA. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.326458
+date: 2026-09-11T02:38:29.277089
 url: "/cdr-researcher-census/researchers/hanieh-bamdad-a5045065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 886 |
+| Citations | 909 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil amendments for sustainable agriculture: Microbial organic fertilizers** (2021)
-   139 citations · Biochar
+   147 citations · Biochar
 
 2. **Self-Energized Pyrolysis Process for Sustainable Biochar Production** (2024)
    4 citations · Biochar

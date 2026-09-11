@@ -1,7 +1,7 @@
 ---
 title: "Efraín Duarte"
-description: "Efraín Duarte is a Mid-career Soil Carbon researcher at University of Concepción in CL. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.310956
+description: "Efraín Duarte is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.169109
 url: "/cdr-researcher-census/researchers/efrain-duarte-a5013835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/efrain-duarte-a5013835/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Concepci\u00f3n"
+    "name": "Agricultural Research Service"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3977-1024",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Efraín Duarte**  
-University of Concepción ·  CL
+Agricultural Research Service · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 120 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 144 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

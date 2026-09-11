@@ -1,7 +1,7 @@
 ---
 title: "Bruna Fatiche Pavani"
-description: "Bruna Fatiche Pavani is a Mid-career General CDR researcher at Instituto Tecnológico de Aeronáutica in BR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.394964
+description: "Bruna Fatiche Pavani is a Mid-career General CDR researcher at Instituto Tecnológico de Aeronáutica in BR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.326382
 url: "/cdr-researcher-census/researchers/bruna-fatiche-pavani-a5001928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 105 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 113 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

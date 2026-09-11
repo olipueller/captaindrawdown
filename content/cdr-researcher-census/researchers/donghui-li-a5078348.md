@@ -1,7 +1,7 @@
 ---
 title: "Donghui Li"
 description: "Donghui Li is a Mid-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.100217
+date: 2026-09-11T02:38:30.071102
 url: "/cdr-researcher-census/researchers/donghui-li-a5078348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 168 |
+| Citations | 170 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of wheat straw biochar with different proportions on phytoremediation efficiency and microbial communities of PAH-contaminated soils** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

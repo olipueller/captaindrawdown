@@ -1,7 +1,7 @@
 ---
 title: "Peter van Os"
-description: "Peter van Os is a Senior General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.561734
+description: "Peter van Os is a Senior General CDR researcher at Netherlands Organisation for Applied Scientific Research in NL. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.511158
 url: "/cdr-researcher-census/researchers/peter-van-os-a5111982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 444 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 13 |
+| Citations | 456 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

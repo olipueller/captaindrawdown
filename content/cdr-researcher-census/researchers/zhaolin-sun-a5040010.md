@@ -1,7 +1,7 @@
 ---
 title: "Zhaolin Sun"
 description: "Zhaolin Sun is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.436565
+date: 2026-09-11T02:38:29.378430
 url: "/cdr-researcher-census/researchers/zhaolin-sun-a5040010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 616 |
+| Citations | 645 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mycorrhiza‐dependent drivers of the positive rhizosphere effects on the temperature sensitivity of soil microbial respiration in subtropical forests** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Net Carbon Balance between Priming and Replenishment of Soil Organic Carbon with Biochar Addition Regulated by N Addition Differing in Contrasting Forest Ecosystems** (2022)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jufeng Zheng"
-description: "Jufeng Zheng is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 142 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.079429
+description: "Jufeng Zheng is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 142 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.031734
 url: "/cdr-researcher-census/researchers/jufeng-zheng-a5100736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 46 |
-| Citations | 7,847 |
+| h-index | 47 |
+| Citations | 7,997 |
 | Publications | 142 |
 | CDR Focus | 14.1% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China** (2022)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Long-term elevated CO2 and warming enhance microbial necromass carbon accumulation in a paddy soil** (2021)
-   54 citations
+   56 citations
 
 4. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
    47 citations · Soil Carbon
 
 5. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
-   34 citations · Biochar
+   37 citations · Biochar
 
 6. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
    26 citations · Biochar
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Biochar
 
 8. **Long-term organic-inorganic fertilization promoted the microbial necromass carbon accumulation in particulate and mineral-associated organic matter fractions in paddy soil** (2025)
-   16 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 9. **Biochar improves soil organic carbon sequestration potential in the topsoil and subsoil of a paddy field** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 10. **Crop Residue Biochar Rather Than Manure and Straw Return Provided Short Term Synergism Among Grain Production, Carbon Sequestration, and Greenhouse Gas Emission Reduction in a Paddy Under Rice‐Wheat Rotation** (2024)
    10 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "CA Carlson"
 description: "CA Carlson is a Senior Ocean CDR researcher at Bermuda Institute of Ocean Sciences in BM. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.202449
+date: 2026-09-11T02:38:29.155238
 url: "/cdr-researcher-census/researchers/ca-carlson-a5085246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,647 |
+| Citations | 1,648 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

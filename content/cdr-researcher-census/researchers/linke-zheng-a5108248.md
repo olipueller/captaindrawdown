@@ -1,7 +1,7 @@
 ---
 title: "Linke Zheng"
 description: "Linke Zheng is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.358423
+date: 2026-09-11T02:38:29.305747
 url: "/cdr-researcher-census/researchers/linke-zheng-a5108248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 792 |
+| Citations | 817 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Salinity and inundation drivers shift microbial necromass carbon distribution patterns in estuarine mangrove wetlands** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

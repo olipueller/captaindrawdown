@@ -1,7 +1,7 @@
 ---
 title: "Michał Czerep"
 description: "Michał Czerep is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584225
+date: 2026-09-11T02:38:29.538608
 url: "/cdr-researcher-census/researchers/micha-czerep-a5009786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 423 |
+| Citations | 431 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    7 citations · BECCS
 
 2. **Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption** (2026)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

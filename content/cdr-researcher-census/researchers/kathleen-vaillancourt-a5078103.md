@@ -1,7 +1,7 @@
 ---
 title: "Kathleen Vaillancourt"
-description: "Kathleen Vaillancourt is a Senior General CDR researcher at Inro Consultants (Canada) in CA. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.240225
+description: "Kathleen Vaillancourt is a Senior General CDR researcher at Inro Consultants (Canada) in CA. With 62 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.190826
 url: "/cdr-researcher-census/researchers/kathleen-vaillancourt-a5078103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,326 |
-| Publications | 60 |
-| CDR Focus | 8.3% |
+| Citations | 1,354 |
+| Publications | 62 |
+| CDR Focus | 8.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The role of hydrogen in a net-zero emission economy under alternative policy scenarios** (2023)
-   99 citations · General CDR
+   102 citations · General CDR
 
 2. **Impact of Biogenic Carbon Neutrality Assumption for Achieving a Net-Zero Emission Target: Insights from a Techno-Economic Analysis** (2023)
    28 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Fang"
 description: "Wenjing Fang is a Senior Soil Carbon researcher at Yunnan University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.594254
+date: 2026-09-11T02:38:29.542310
 url: "/cdr-researcher-census/researchers/wenjing-fang-a5047511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 414 |
+| Citations | 427 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

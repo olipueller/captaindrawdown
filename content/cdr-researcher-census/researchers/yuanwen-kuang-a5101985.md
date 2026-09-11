@@ -1,7 +1,7 @@
 ---
 title: "Yuanwen Kuang"
-description: "Yuanwen Kuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.114389
+description: "Yuanwen Kuang is a Senior Soil Carbon researcher at Beijing Botanical Garden in CN. With 104 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.063536
 url: "/cdr-researcher-census/researchers/yuanwen-kuang-a5101985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuanwen-kuang-a5101985/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Beijing Botanical Garden"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0627-9519",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuanwen Kuang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Beijing Botanical Garden · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 3,817 |
-| Publications | 103 |
+| Citations | 3,926 |
+| Publications | 104 |
 | CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   224 citations · Soil Carbon
+   226 citations · Soil Carbon
 
 2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
    97 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 6. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta-analysis** (2021)
    0 citations

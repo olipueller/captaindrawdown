@@ -1,7 +1,7 @@
 ---
 title: "Saroj Koirala"
-description: "Saroj Koirala is a Mid-career Soil Carbon researcher at University of Jyväskylä in FI. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.832035
+description: "Saroj Koirala is a Mid-career Soil Carbon researcher at Nepal Academy of Science and Technology in NP. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.787853
 url: "/cdr-researcher-census/researchers/saroj-koirala-a5011851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/saroj-koirala-a5011851/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Jyv\u00e4skyl\u00e4"
+    "name": "Nepal Academy of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3863-2882",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Saroj Koirala**  
-University of Jyväskylä ·  FI
+Nepal Academy of Science and Technology ·  NP
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 256 |
+| Citations | 265 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Olawale Oladeji"
 description: "Olawale Oladeji is a Senior Soil Carbon researcher at United States Bureau of Reclamation in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.647146
+date: 2026-09-11T02:38:29.609489
 url: "/cdr-researcher-census/researchers/olawale-oladeji-a5073141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 368 |
+| Citations | 371 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Intracellular carbon storage of microorganisms and resulting C sequestration in biosolids-amended agricultural soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

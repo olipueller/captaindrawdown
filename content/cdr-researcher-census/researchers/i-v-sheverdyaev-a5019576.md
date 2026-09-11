@@ -1,7 +1,7 @@
 ---
 title: "I. V. Sheverdyaev"
-description: "I. V. Sheverdyaev is a Mid-career Soil Carbon researcher at Southern Scientific Center in RU. With 33 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.423978
+description: "I. V. Sheverdyaev is a Mid-career Soil Carbon researcher at Southern Scientific Center in RU. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.394609
 url: "/cdr-researcher-census/researchers/i-v-sheverdyaev-a5019576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 100 |
+| h-index | 5 |
+| Citations | 101 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |

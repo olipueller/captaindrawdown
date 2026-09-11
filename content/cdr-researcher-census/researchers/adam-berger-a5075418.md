@@ -1,7 +1,7 @@
 ---
 title: "Adam Berger"
 description: "Adam Berger is a Senior DAC researcher at Electric Power Research Institute in US. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.255775
+date: 2026-09-11T02:38:29.204611
 url: "/cdr-researcher-census/researchers/adam-berger-a5075418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,224 |
+| Citations | 1,250 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

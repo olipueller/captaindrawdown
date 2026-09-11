@@ -1,7 +1,7 @@
 ---
 title: "Smriti Tripathi"
-description: "Smriti Tripathi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.167224
+description: "Smriti Tripathi is a Mid-career Soil Carbon researcher at Bundelkhand University in IN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.144713
 url: "/cdr-researcher-census/researchers/smriti-tripathi-a5062496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Smriti Tripathi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/smriti-tripathi-a5062496/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Bundelkhand University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-9930-5397",
     "https://openalex.org/A5062496108"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Smriti Tripathi**
+**Smriti Tripathi**  
+Bundelkhand University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 

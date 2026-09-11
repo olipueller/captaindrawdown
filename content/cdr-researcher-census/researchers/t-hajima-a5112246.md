@@ -1,7 +1,7 @@
 ---
 title: "T. Hajima"
 description: "T. Hajima is a Mid-career Ocean CDR researcher at Japan Agency for Marine-Earth Science and Technology in JP. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320477
+date: 2026-09-11T02:38:29.274136
 url: "/cdr-researcher-census/researchers/t-hajima-a5112246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 906 |
+| Citations | 918 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Kouassi Kouadio Dobi-Brice"
-description: "Kouassi Kouadio Dobi-Brice is a Mid-career Biochar researcher at Université Nangui Abrogoua in CI. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.216070
+description: "Kouassi Kouadio Dobi-Brice is a Mid-career Biochar researcher at Université Nangui Abrogoua in CI. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.188988
 url: "/cdr-researcher-census/researchers/kouassi-kouadio-dobi-brice-a5038912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 139 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 140 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

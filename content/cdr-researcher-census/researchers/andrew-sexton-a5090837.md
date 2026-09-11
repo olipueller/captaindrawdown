@@ -1,7 +1,7 @@
 ---
 title: "Andrew Sexton"
-description: "Andrew Sexton is a Senior General CDR researcher at Trimeric (United States) in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.483209
+description: "Andrew Sexton is a Senior General CDR researcher at Trimeric (United States) in US. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.440238
 url: "/cdr-researcher-census/researchers/andrew-sexton-a5090837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 540 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| h-index | 10 |
+| Citations | 547 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Cost details from front-end engineering design of piperazine with the advanced stripper** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 2. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
    6 citations · General CDR
 
-3. **Membrane Adsorbents Comprising Self-Assembled Inorganic Nanocages (SINCs) for Super-fast Direct Air Capture Enabled by Passive Cooling** (2023)
-   1 citations · DAC
+3. **“Hybridizing heat-integrated 3D printed modules with mass manufacturable, low pressure drop fiber sorbents” (Final Report)** (2024)
+   1 citations
 
-4. **“Hybridizing heat-integrated 3D printed modules with mass manufacturable, low pressure drop fiber sorbents” (Final Report)** (2024)
-   0 citations
+4. **Membrane Adsorbents Comprising Self-Assembled Inorganic Nanocages (SINCs) for Super-fast Direct Air Capture Enabled by Passive Cooling** (2023)
+   1 citations · DAC
 
 ## External Profiles
 

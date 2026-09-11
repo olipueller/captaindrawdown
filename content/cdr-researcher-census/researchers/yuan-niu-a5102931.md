@@ -1,7 +1,7 @@
 ---
 title: "Yuan Niu"
-description: "Yuan Niu is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.501234
+description: "Yuan Niu is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.432854
 url: "/cdr-researcher-census/researchers/yuan-niu-a5102931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 512 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| h-index | 13 |
+| Citations | 558 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

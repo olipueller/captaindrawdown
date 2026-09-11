@@ -1,7 +1,7 @@
 ---
 title: "Aparajita Datta"
 description: "Aparajita Datta is a Senior DAC researcher at University of Houston in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.065654
+date: 2026-09-11T02:38:30.015410
 url: "/cdr-researcher-census/researchers/aparajita-datta-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 177 |
+| Citations | 185 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Analysis of Direct Air Capture Integrated with Wind Energy and Enhanced Oil Recovery** (2023)
-   35 citations · DAC
+   36 citations · DAC
 
 ## External Profiles
 

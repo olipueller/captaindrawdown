@@ -1,7 +1,7 @@
 ---
 title: "Lingrui Qu"
-description: "Lingrui Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.318568
+description: "Lingrui Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.257062
 url: "/cdr-researcher-census/researchers/lingrui-qu-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 917 |
+| h-index | 9 |
+| Citations | 986 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   217 citations
+   222 citations
 
 2. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
-   141 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 3. **Soil microbial carbon use efficiency differs between mycorrhizal trees: insights from substrate stoichiometry and microbial networks** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   2 citations
+   4 citations
 
 ## External Profiles
 

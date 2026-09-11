@@ -1,7 +1,7 @@
 ---
 title: "Jianxin Wang"
 description: "Jianxin Wang is a Mid-career Biochar researcher at Zhejiang Ocean University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.152972
+date: 2026-09-11T02:38:30.112969
 url: "/cdr-researcher-census/researchers/jianxin-wang-a5078284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 153 |
+| Citations | 157 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,7 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An essential strategy to enhance carbon accumulation within coastal wetlands: Introducing Spartina alterniflora-biochar facilitating microbial carbon sequestration in subtidal zone** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
+
+2. **A potentially overlooked benefit of Spartina alterniflora invasion: tidal transport of root-exuded active sugars enhancing soil carbon accumulation via microbial-mediated processes in adjacent mudflats** (2026)
+   2 citations · Soil Carbon
+
+3. **Drying and rewetting cycles promote microbial-derived carbon accumulation in mudflats, but salinity stress inhibits the process** (2026)
+   0 citations
 
 ## External Profiles
 

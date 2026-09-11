@@ -1,7 +1,7 @@
 ---
 title: "Tianfu Han"
-description: "Tianfu Han is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 59 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.255664
+description: "Tianfu Han is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.199527
 url: "/cdr-researcher-census/researchers/tianfu-han-a5102974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,225 |
-| Publications | 59 |
-| CDR Focus | 10.2% |
+| Citations | 1,283 |
+| Publications | 60 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 4. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 5. **Inorganic amendments increase soil carbon sequestration across global acidic agroecosystems: A meta-analysis** (2025)
    1 citations · Soil Carbon

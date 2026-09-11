@@ -1,7 +1,7 @@
 ---
 title: "Linus Blomqvist"
 description: "Linus Blomqvist is a Mid-career Soil Carbon researcher at University of California, Santa Barbara in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.381890
+date: 2026-09-11T02:38:29.335956
 url: "/cdr-researcher-census/researchers/linus-blomqvist-a5019993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 729 |
+| Citations | 741 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

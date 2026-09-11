@@ -1,7 +1,7 @@
 ---
 title: "Yiming Tang"
-description: "Yiming Tang is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.730688
+description: "Yiming Tang is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.535819
 url: "/cdr-researcher-census/researchers/yiming-tang-a5060511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 309 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 433 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Degradation of trichloroethylene by biochar supported nano zero-valent iron (BC-nZVI): The role of specific surface area and electrochemical properties** (2023)
-   62 citations · Biochar
+   64 citations · Biochar
 
 2. **Degradation of Trichloroethylene by Biochar Supported Nano Zero-Valent Iron (Bc-Nzvi): The Role of Specific Surface Area and Electrochemical Properties** (2023)
    8 citations · Biochar

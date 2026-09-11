@@ -1,7 +1,7 @@
 ---
 title: "Rama Sinha"
 description: "Rama Sinha is a Mid-career Biochar researcher at Nalanda University in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.233235
+date: 2026-09-11T02:38:29.178556
 url: "/cdr-researcher-census/researchers/rama-sinha-a5046987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 1,373 |
+| Citations | 1,435 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of hexavalent chromium via biochar-based adsorbents: State-of-the-art, challenges, and future perspectives** (2022)
-   154 citations · Biochar
+   156 citations · Biochar
 
 ## External Profiles
 

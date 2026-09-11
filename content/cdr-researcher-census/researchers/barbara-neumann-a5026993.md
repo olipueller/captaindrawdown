@@ -1,7 +1,7 @@
 ---
 title: "Barbara Neumann"
-description: "Barbara Neumann is a Senior Ocean CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.101834
+description: "Barbara Neumann is a Senior Ocean CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.052031
 url: "/cdr-researcher-census/researchers/barbara-neumann-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 4,663 |
-| Publications | 58 |
-| CDR Focus | 12.1% |
+| Citations | 4,785 |
+| Publications | 59 |
+| CDR Focus | 11.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

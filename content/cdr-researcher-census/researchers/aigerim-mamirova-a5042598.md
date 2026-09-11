@@ -1,7 +1,7 @@
 ---
 title: "Aigerim Mamirova"
-description: "Aigerim Mamirova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.545399
+description: "Aigerim Mamirova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.473021
 url: "/cdr-researcher-census/researchers/aigerim-mamirova-a5042598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 461 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| h-index | 16 |
+| Citations | 498 |
+| Publications | 55 |
+| CDR Focus | 5.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Comprehensive study of biochars from different vegetative feedstocks: influence on soil properties and development of Zea mays L.** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar

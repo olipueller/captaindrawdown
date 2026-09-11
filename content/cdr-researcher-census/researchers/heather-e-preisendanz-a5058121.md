@@ -1,7 +1,7 @@
 ---
 title: "Heather E. Preisendanz"
-description: "Heather E. Preisendanz is a Mid-career Biochar researcher at Pennsylvania State University in US. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.464934
+description: "Heather E. Preisendanz is a Mid-career Biochar researcher at Pennsylvania State University in US. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.408773
 url: "/cdr-researcher-census/researchers/heather-e-preisendanz-a5058121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 568 |
-| Publications | 45 |
-| CDR Focus | 6.7% |
+| Citations | 594 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Fixed bed column experiments using cotton gin waste and walnut shells-derived biochar as low-cost solutions to removing pharmaceuticals from aqueous solutions** (2023)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Cotton Gin Waste and Walnut Shells-Derived Biochar as Low-Cost Solutions to Removing Pharmaceuticals from Aqueous Solutions** (2023)
    1 citations · Biochar

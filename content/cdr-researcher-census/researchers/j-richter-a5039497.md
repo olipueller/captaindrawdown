@@ -1,7 +1,7 @@
 ---
 title: "J. Richter"
-description: "J. Richter is a Mid-career Enhanced Weathering researcher at Pennsylvania State University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.731999
+description: "J. Richter is a Senior Enhanced Weathering researcher at Pennsylvania State University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.693727
 url: "/cdr-researcher-census/researchers/j-richter-a5039497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **J. Richter**  
 Pennsylvania State University · 🇺🇸 US
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 309 |
+| Citations | 312 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

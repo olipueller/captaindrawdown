@@ -1,7 +1,7 @@
 ---
 title: "Karin Ullrich"
-description: "Karin Ullrich is a Senior Soil Carbon researcher. With 21 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.391144
+description: "Karin Ullrich is a Senior Soil Carbon researcher at Federal Agency for Nature Conservation in DE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.366405
 url: "/cdr-researcher-census/researchers/karin-ullrich-a5050705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Karin Ullrich",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/karin-ullrich-a5050705/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Federal Agency for Nature Conservation"
+  },
   "sameAs": "https://openalex.org/A5050705780"
 }
 </script>
 
 ## Profile
 
-**Karin Ullrich**
+**Karin Ullrich**  
+Federal Agency for Nature Conservation · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -36,8 +41,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 3 |
 | Citations | 105 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

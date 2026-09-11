@@ -1,7 +1,7 @@
 ---
 title: "Fangji Wu"
 description: "Fangji Wu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.186569
+date: 2026-09-11T02:38:29.136594
 url: "/cdr-researcher-census/researchers/fangji-wu-a5100835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 1,823 |
+| Citations | 1,865 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon accumulation with increasing temperature under both managed and natural vegetation restoration in calcareous soils** (2021)
-   74 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 ## External Profiles
 

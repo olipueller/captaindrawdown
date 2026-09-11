@@ -1,7 +1,7 @@
 ---
 title: "Zhaolei Meng"
-description: "Zhaolei Meng is a Senior Biochar researcher at Jilin Electric Power Research Institute (China) in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.282575
+description: "Zhaolei Meng is a Senior Biochar researcher at Jilin Electric Power Research Institute (China) in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.027550
 url: "/cdr-researcher-census/researchers/zhaolei-meng-a5101265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 125 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| Citations | 181 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

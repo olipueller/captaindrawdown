@@ -1,7 +1,7 @@
 ---
 title: "Zechang Gou"
-description: "Zechang Gou is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.424154
+description: "Zechang Gou is an Early-career Soil Carbon researcher at Jilin University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.346818
 url: "/cdr-researcher-census/researchers/zechang-gou-a5019530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zechang Gou",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zechang-gou-a5019530/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Jilin University"
+  },
   "sameAs": "https://openalex.org/A5019530193"
 }
 </script>
 
 ## Profile
 
-**Zechang Gou**
+**Zechang Gou**  
+Jilin University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 100 |
+| Citations | 109 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

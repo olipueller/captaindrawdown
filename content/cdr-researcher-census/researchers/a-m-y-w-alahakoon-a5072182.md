@@ -1,7 +1,7 @@
 ---
 title: "A. M. Y. W. Alahakoon"
-description: "A. M. Y. W. Alahakoon is a Mid-career Biochar researcher at Hirosaki University in JP. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.309897
+description: "A. M. Y. W. Alahakoon is a Mid-career Biochar researcher at Hirosaki University in JP. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.240306
 url: "/cdr-researcher-census/researchers/a-m-y-w-alahakoon-a5072182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 120 |
+| h-index | 7 |
+| Citations | 129 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-assisted gasification of raw biomass: a review on the reactivity and synergistic effect on tar reforming** (2025)
-   11 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

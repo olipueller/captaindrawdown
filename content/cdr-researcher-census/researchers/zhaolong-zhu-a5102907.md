@@ -1,7 +1,7 @@
 ---
 title: "Zhaolong Zhu"
-description: "Zhaolong Zhu is a Senior Soil Carbon researcher at State Key Laboratory of Soil and Water Conservation and Desertification Control in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.371780
+description: "Zhaolong Zhu is a Senior Soil Carbon researcher at State Key Laboratory of Soil and Water Conservation and Desertification Control in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.316270
 url: "/cdr-researcher-census/researchers/zhaolong-zhu-a5102907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 755 |
-| Publications | 39 |
-| CDR Focus | 15.4% |
+| h-index | 14 |
+| Citations | 790 |
+| Publications | 40 |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Arbuscular mycorrhizal fungi hyphal density rather than diversity stimulates microbial necromass accumulation after long-term Robinia pseudoacacia plantations** (2025)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Microplastics from conventional and biodegradable mulch films alter microbial necromass accumulation and organic carbon sequestration in farmland soils** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Glomalin-related soil proteins in particulate and mineral-associated organic carbon pools in alpine grasslands with different degradation degrees** (2025)
    7 citations · Soil Carbon

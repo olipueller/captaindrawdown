@@ -1,7 +1,7 @@
 ---
 title: "Rachna Mishra"
 description: "Rachna Mishra is a Senior Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.067096
+date: 2026-09-11T02:38:30.031692
 url: "/cdr-researcher-census/researchers/rachna-mishra-a5038024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 177 |
+| Citations | 180 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

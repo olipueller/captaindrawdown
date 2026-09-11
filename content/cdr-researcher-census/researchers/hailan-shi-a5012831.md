@@ -1,7 +1,7 @@
 ---
 title: "Hailan Shi"
-description: "Hailan Shi is a Mid-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.529968
+description: "Hailan Shi is a Mid-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.461702
 url: "/cdr-researcher-census/researchers/hailan-shi-a5012831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 477 |
+| h-index | 14 |
+| Citations | 512 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Exiting |

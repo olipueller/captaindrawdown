@@ -1,7 +1,7 @@
 ---
 title: "Carol Huang"
 description: "Carol Huang is an Early-career Biochar researcher at University of British Columbia in CA. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.958478
+date: 2026-09-11T02:38:29.892853
 url: "/cdr-researcher-census/researchers/carol-huang-a5028642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 211 |
+| Citations | 220 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative life-cycle assessment of pyrolysis processes for producing bio-oil, biochar, and activated carbon from sewage sludge** (2022)
-   156 citations · Biochar
+   159 citations · Biochar
 
 ## External Profiles
 

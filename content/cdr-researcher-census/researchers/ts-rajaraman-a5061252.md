@@ -1,7 +1,7 @@
 ---
 title: "T.S. Rajaraman"
 description: "T.S. Rajaraman is a Mid-career Biochar researcher at Gujarat University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.561432
+date: 2026-09-11T02:38:29.523358
 url: "/cdr-researcher-census/researchers/ts-rajaraman-a5061252/"
 layout: "researcher"
 hiddenInHomeList: true

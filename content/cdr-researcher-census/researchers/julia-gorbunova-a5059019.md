@@ -1,7 +1,7 @@
 ---
 title: "Julia Gorbunova"
 description: "Julia Gorbunova is a Mid-career Ocean CDR researcher at Institute of Oceanology. PP Shirshov Russian Academy of Sciences in RU. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374190
+date: 2026-09-11T02:38:30.323065
 url: "/cdr-researcher-census/researchers/julia-gorbunova-a5059019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 108 |
+| Citations | 113 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

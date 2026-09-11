@@ -1,7 +1,7 @@
 ---
 title: "Kennedy Were"
-description: "Kennedy Were is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.289032
+description: "Kennedy Were is a Mid-career Soil Carbon researcher at Kenya Agricultural and Livestock Research Organization in KE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240758
 url: "/cdr-researcher-census/researchers/kennedy-were-a5086240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Kennedy Were",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kennedy-were-a5086240/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Kenya Agricultural and Livestock Research Organization"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-8012-6812",
     "https://openalex.org/A5086240110"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Kennedy Were**
+**Kennedy Were**  
+Kenya Agricultural and Livestock Research Organization ·  KE
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,047 |
+| Citations | 1,056 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

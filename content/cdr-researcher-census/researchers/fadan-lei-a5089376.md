@@ -1,7 +1,7 @@
 ---
 title: "Fadan Lei"
 description: "Fadan Lei is an Early-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.857848
+date: 2026-09-11T02:38:29.817087
 url: "/cdr-researcher-census/researchers/fadan-lei-a5089376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 243 |
+| Citations | 251 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |

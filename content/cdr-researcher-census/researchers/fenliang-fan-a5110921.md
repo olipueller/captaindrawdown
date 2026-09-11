@@ -1,7 +1,7 @@
 ---
 title: "Fenliang Fan"
-description: "Fenliang Fan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 78 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.098477
+description: "Fenliang Fan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 78 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.049257
 url: "/cdr-researcher-census/researchers/fenliang-fan-a5110921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 4,902 |
+| h-index | 37 |
+| Citations | 4,986 |
 | Publications | 78 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 3. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Linking microbial taxa and the effect of mineral nitrogen forms on residue decomposition at the early stage in arable soil by DNA-qSIP** (2021)
    22 citations · Soil Carbon

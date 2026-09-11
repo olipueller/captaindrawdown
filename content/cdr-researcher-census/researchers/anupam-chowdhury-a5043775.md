@@ -1,7 +1,7 @@
 ---
 title: "Anupam Chowdhury"
-description: "Anupam Chowdhury is a Mid-career Enhanced Weathering researcher at Jadavpur University in IN. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.638487
+description: "Anupam Chowdhury is a Mid-career Enhanced Weathering researcher at Jadavpur University in IN. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.579548
 url: "/cdr-researcher-census/researchers/anupam-chowdhury-a5043775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 375 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 394 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
    2 citations · Enhanced Weathering

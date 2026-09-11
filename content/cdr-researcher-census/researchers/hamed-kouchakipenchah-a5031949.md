@@ -1,7 +1,7 @@
 ---
 title: "Hamed Kouchaki‐Penchah"
 description: "Hamed Kouchaki‐Penchah is a Mid-career General CDR researcher at École de Technologie Supérieure in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.380991
+date: 2026-09-11T02:38:29.334516
 url: "/cdr-researcher-census/researchers/hamed-kouchakipenchah-a5031949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 730 |
+| Citations | 745 |
 | Publications | 18 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The role of hydrogen in a net-zero emission economy under alternative policy scenarios** (2023)
-   99 citations · General CDR
+   102 citations · General CDR
 
 2. **Impact of Biogenic Carbon Neutrality Assumption for Achieving a Net-Zero Emission Target: Insights from a Techno-Economic Analysis** (2023)
    28 citations · General CDR

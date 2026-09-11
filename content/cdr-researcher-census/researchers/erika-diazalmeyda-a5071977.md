@@ -1,7 +1,7 @@
 ---
 title: "Erika Díaz‐Almeyda"
 description: "Erika Díaz‐Almeyda is a Senior Soil Carbon researcher at California State University, San Marcos in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.576213
+date: 2026-09-11T02:38:29.529251
 url: "/cdr-researcher-census/researchers/erika-diazalmeyda-a5071977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 431 |
+| Citations | 439 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

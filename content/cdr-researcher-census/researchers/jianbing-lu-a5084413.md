@@ -1,7 +1,7 @@
 ---
 title: "Jianbing Lu"
-description: "Jianbing Lu is a Senior Biochar researcher at National University of Defense Technology in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.081403
+description: "Jianbing Lu is a Senior Biochar researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.036164
 url: "/cdr-researcher-census/researchers/jianbing-lu-a5084413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jianbing Lu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianbing-lu-a5084413/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "National University of Defense Technology"
-  },
   "sameAs": "https://openalex.org/A5084413359"
 }
 </script>
 
 ## Profile
 
-**Jianbing Lu**  
-National University of Defense Technology · 🇨🇳 CN
+**Jianbing Lu**
 
 **Career Stage:** Senior
 
@@ -40,9 +35,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 173 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 179 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

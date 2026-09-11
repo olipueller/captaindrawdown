@@ -1,7 +1,7 @@
 ---
 title: "Heather Goring‐Harford"
-description: "Heather Goring‐Harford is a Mid-career Enhanced Weathering researcher at University of Southampton in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795915
+description: "Heather Goring‐Harford is a Mid-career Enhanced Weathering researcher at National Oceanography Centre in GB. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.748285
 url: "/cdr-researcher-census/researchers/heather-goringharford-a5070458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/heather-goringharford-a5070458/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Southampton"
+    "name": "National Oceanography Centre"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6104-5937",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Heather Goring‐Harford**  
-University of Southampton · 🇬🇧 GB
+National Oceanography Centre · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 274 |
-| Publications | 17 |
-| CDR Focus | 29.4% |
+| Citations | 283 |
+| Publications | 18 |
+| CDR Focus | 27.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   71 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 2. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
    0 citations

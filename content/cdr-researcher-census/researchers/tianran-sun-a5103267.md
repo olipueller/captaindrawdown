@@ -1,7 +1,7 @@
 ---
 title: "Tianran Sun"
-description: "Tianran Sun is a Senior Soil Carbon researcher at Cornell University in US. With 38 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.152879
+description: "Tianran Sun is a Senior Soil Carbon researcher at Cornell University in US. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.101750
 url: "/cdr-researcher-census/researchers/tianran-sun-a5103267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,396 |
-| Publications | 38 |
-| CDR Focus | 10.5% |
+| Citations | 2,474 |
+| Publications | 39 |
+| CDR Focus | 10.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities** (2023)
-   294 citations · Biochar
+   306 citations · Biochar
 
 2. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   32 citations · General CDR
+   35 citations · General CDR
 
 3. **Nitrogen addition decouples the microbial necro-mass from soil organic carbon formation in a temperate grassland** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **[Sequestration of Inorganic Carbon in Soil： A Promising Measure to Address Climate Change].** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Youfa Luo"
 description: "Youfa Luo is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484076
+date: 2026-09-11T02:38:29.436263
 url: "/cdr-researcher-census/researchers/youfa-luo-a5101716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 538 |
+| Citations | 553 |
 | Publications | 37 |
 | CDR Focus | 8.1% |
 | Trajectory | Growing |

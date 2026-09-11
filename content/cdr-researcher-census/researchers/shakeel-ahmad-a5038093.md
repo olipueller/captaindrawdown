@@ -1,7 +1,7 @@
 ---
 title: "Shakeel Ahmad"
 description: "Shakeel Ahmad is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 79 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146772
+date: 2026-09-11T02:38:29.094999
 url: "/cdr-researcher-census/researchers/shakeel-ahmad-a5038093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,559 |
+| Citations | 2,684 |
 | Publications | 79 |
 | CDR Focus | 6.3% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silicon (Si) modification of biochars from different Si-bearing precursors improves cadmium remediation** (2022)
-   87 citations · Biochar
+   88 citations · Biochar
 
 2. **Enhanced nitrobenzene removal in soil by biochar supported sulfidated nano zerovalent iron: Solubilization effect and mechanism** (2022)
-   46 citations · Biochar
+   47 citations · Biochar
 
 3. **Mechanistic details of the removal of 2,4,6-trichlorophenol from aqueous solution by iron and nitrogen co-doped biochar: Characterization, performance, and mechanism studies** (2023)
    25 citations · Biochar
 
 4. **Inhibited vertical mobility of biochar-derived dissolved organic matter under low-intensity rainfall: role of mineral retention** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 5. **Recent advances in machine/deep learning frameworks for biochar application in soil amendment and remediation** (2026)
    2 citations · Biochar

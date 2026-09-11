@@ -1,7 +1,7 @@
 ---
 title: "Paolo Isoni"
-description: "Paolo Isoni is an Early-career General CDR researcher at ATS Sardegna (Italy) in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048863
+description: "Paolo Isoni is a Mid-career General CDR researcher at ATS Sardegna (Italy) in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.004638
 url: "/cdr-researcher-census/researchers/paolo-isoni-a5061629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Paolo Isoni**  
 ATS Sardegna (Italy) · 🇮🇹 IT
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 182 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| h-index | 5 |
+| Citations | 188 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

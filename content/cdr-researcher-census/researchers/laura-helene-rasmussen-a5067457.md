@@ -1,7 +1,7 @@
 ---
 title: "Laura Helene Rasmussen"
-description: "Laura Helene Rasmussen is a Mid-career Soil Carbon researcher at Department of Mathematical Sciences in RU. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.105524
+description: "Laura Helene Rasmussen is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.022773
 url: "/cdr-researcher-census/researchers/laura-helene-rasmussen-a5067457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/laura-helene-rasmussen-a5067457/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Department of Mathematical Sciences"
+    "name": "University of Copenhagen"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6453-9780",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Laura Helene Rasmussen**  
-Department of Mathematical Sciences · 🇷🇺 RU
+University of Copenhagen · 🇩🇰 DK
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 166 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 7 |
+| Citations | 183 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen transport in a tundra landscape: the effects of early and late growing season lateral N inputs on arctic soil and plant N pools and N2O fluxes** (2021)
-   23 citations
+   25 citations
 
 2. **Modelling impacts of lateral N flows and seasonal warming on an arctic footslope ecosystem N budget and N2O emissions based on species-level responses** (2022)
-   9 citations
+   10 citations
 
 3. **Modelling Impacts of Lateral N Flows And Seasonal Warming on an Arctic Footslope Ecosystem N Budget and N2O Emissions Based on Species-Level Responses** (2021)
    2 citations · Soil Carbon

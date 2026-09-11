@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
-description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.626481
+description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.577264
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Iordanis Magiopoulos",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Hellenic Centre for Marine Research"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-6475-7326",
     "https://openalex.org/A5069820303"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Iordanis Magiopoulos**  
-Hellenic Centre for Marine Research · 🇬🇷 GR
+**Iordanis Magiopoulos**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 384 |
-| Publications | 39 |
-| CDR Focus | 20.5% |
+| Citations | 396 |
+| Publications | 41 |
+| CDR Focus | 19.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR

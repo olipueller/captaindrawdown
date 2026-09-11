@@ -1,7 +1,7 @@
 ---
 title: "Lijie Pu"
 description: "Lijie Pu is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 105 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.241567
+date: 2026-09-11T02:38:29.190288
 url: "/cdr-researcher-census/researchers/lijie-pu-a5100725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,320 |
+| Citations | 1,358 |
 | Publications | 105 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Quantifying ecosystem service mismatches for land use planning: spatial-temporal characteristics and novel approach—a case study in Jiangsu Province, China** (2021)
    18 citations · General CDR
 
-2. **MgO-modified biochar for the removal of dissolved humus from water and its potential application as a fertilizer** (2024)
-   3 citations · Biochar
+2. **Influences of vegetation distribution on soil organic carbon accumulation and stability in a coastal wetland, Southeast China** (2026)
+   4 citations · Soil Carbon
 
-3. **Influences of vegetation distribution on soil organic carbon accumulation and stability in a coastal wetland, Southeast China** (2026)
-   2 citations · Soil Carbon
+3. **MgO-modified biochar for the removal of dissolved humus from water and its potential application as a fertilizer** (2024)
+   3 citations · Biochar
 
 4. **Impact of Coastal Beach Reclamation on Seasonal Greenhouse Gas Emissions: A Study of Diversified Saline–Alkaline Land Use Patterns** (2025)
    2 citations

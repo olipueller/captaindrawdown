@@ -1,7 +1,7 @@
 ---
 title: "Patimah Mega Syah Bahar Nur Siregar"
-description: "Patimah Mega Syah Bahar Nur Siregar is a Mid-career Biochar researcher at Sriwijaya University in ID. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.621106
+description: "Patimah Mega Syah Bahar Nur Siregar is a Mid-career Biochar researcher at Sriwijaya University in ID. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.573572
 url: "/cdr-researcher-census/researchers/patimah-mega-syah-bahar-nur-siregar-a5074641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 390 |
+| h-index | 11 |
+| Citations | 399 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

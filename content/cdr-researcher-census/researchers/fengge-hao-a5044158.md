@@ -1,7 +1,7 @@
 ---
 title: "Fengge Hao"
 description: "Fengge Hao is a Senior Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.842177
+date: 2026-09-11T02:38:29.809371
 url: "/cdr-researcher-census/researchers/fengge-hao-a5044158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 251 |
+| Citations | 254 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

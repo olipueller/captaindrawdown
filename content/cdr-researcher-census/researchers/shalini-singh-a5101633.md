@@ -1,7 +1,7 @@
 ---
 title: "Shalini Singh"
-description: "Shalini Singh is a Senior Soil Carbon researcher at National Environmental Engineering Research Institute in IN. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.553821
+description: "Shalini Singh is a Senior Soil Carbon researcher at Gujarat University in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.496596
 url: "/cdr-researcher-census/researchers/shalini-singh-a5101633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shalini-singh-a5101633/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Environmental Engineering Research Institute"
+    "name": "Gujarat University"
   },
   "sameAs": "https://openalex.org/A5101633972"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shalini Singh**  
-National Environmental Engineering Research Institute · 🇮🇳 IN
+Gujarat University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 452 |
+| h-index | 13 |
+| Citations | 471 |
 | Publications | 49 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Carbon sequestration in agricultural soils: Strategies for climate change mitigation-A Review** (2024)
    2 citations · Biochar

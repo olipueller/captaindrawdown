@@ -1,7 +1,7 @@
 ---
 title: "Guofang Miao"
-description: "Guofang Miao is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 75 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.152017
+description: "Guofang Miao is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 75 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.101637
 url: "/cdr-researcher-census/researchers/guofang-miao-a5017657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 2,422 |
+| h-index | 25 |
+| Citations | 2,476 |
 | Publications | 75 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Heterotrophic Respiration and the Divergence of Productivity and Carbon Sequestration** (2021)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Deciphering seasonal carbon and nitrogen release dynamics in biogeomorphic successions of the arid Lake Ebinur, Northwest China** (2025)
    2 citations · Soil Carbon

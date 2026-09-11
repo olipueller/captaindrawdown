@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Zhao"
-description: "Qingqing Zhao is a Mid-career Biochar researcher at Chinese Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.231321
+description: "Qingqing Zhao is a Mid-career Biochar researcher at Chinese Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.175662
 url: "/cdr-researcher-census/researchers/qingqing-zhao-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,383 |
+| h-index | 17 |
+| Citations | 1,453 |
 | Publications | 37 |
 | CDR Focus | 10.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil microbial communities regulate the threshold effect of salinity stress on SOM decomposition in coastal salt marshes** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Habitat‐specific responses of soil organic matter decomposition to <scp><i>Spartina alterniflora</i></scp> invasion along China's coast** (2022)
    7 citations · Soil Carbon

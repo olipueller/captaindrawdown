@@ -1,7 +1,7 @@
 ---
 title: "Marjangul Nuramkhaan"
-description: "Marjangul Nuramkhaan is a Mid-career Biochar researcher at Mongolian Academy of Sciences in MN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.925979
+description: "Marjangul Nuramkhaan is a Mid-career Biochar researcher at Mongolian Academy of Sciences in MN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.869309
 url: "/cdr-researcher-census/researchers/marjangul-nuramkhaan-a5002539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 217 |
+| h-index | 6 |
+| Citations | 229 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cr(VI) adsorption on activated carbon, sludge derived biochar, and peanut shells derived biochar: Performance, mechanisms during the reuse process and site energy distribution analysis** (2023)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

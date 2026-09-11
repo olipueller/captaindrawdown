@@ -1,7 +1,7 @@
 ---
 title: "Tharindu D. Nuwarapaksha"
-description: "Tharindu D. Nuwarapaksha is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.493952
+description: "Tharindu D. Nuwarapaksha is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.392336
 url: "/cdr-researcher-census/researchers/tharindu-d-nuwarapaksha-a5013856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 524 |
-| Publications | 54 |
-| CDR Focus | 14.8% |
+| h-index | 16 |
+| Citations | 622 |
+| Publications | 60 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Agroforestry—a key tool in the climate-smart agriculture context: a review on coconut cultivation in Sri Lanka** (2023)
-   67 citations · General CDR
+   73 citations · General CDR
 
 2. **Sustainable Utilization of King Coconut Husk as a Feedstock in Biochar Production with the Highest Conversion Efficiency and Desirable Properties** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
-3. **Agroforestry System: A Game Changer for Sustainable Land Use Practices** (2025)
+3. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
+   6 citations
+
+4. **Agroforestry System: A Game Changer for Sustainable Land Use Practices** (2025)
    4 citations · General CDR
 
-4. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
-   4 citations
+5. **Evaluation of the nutritional composition of king coconut husk waste biochar and ash soil conditioners: a comprehensive analysis** (2025)
+   4 citations · Biochar
 
-5. **Regenerative Agricultural Practices for Sustainable Soil Health and Food Production** (2025)
+6. **Estimation of the total carbon sequestration potential of coconut-gliricidia mixed cropping systems in Sri Lanka** (2025)
+   4 citations · Soil Carbon
+
+7. **Regenerative Agricultural Practices for Sustainable Soil Health and Food Production** (2025)
    3 citations · Soil Carbon
 
-6. **Evaluation of the nutritional composition of king coconut husk waste biochar and ash soil conditioners: a comprehensive analysis** (2025)
-   3 citations · Biochar
+8. **Agroforestry for Restoring Degraded Land** (2025)
+   3 citations · General CDR
 
-7. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
+9. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
    3 citations
 
-8. **Agroforestry for Restoring Degraded Land** (2025)
+10. **Agroforestry and Climate-Smart Agriculture** (2025)
    2 citations · General CDR
-
-9. **Agroforestry and Climate-Smart Agriculture** (2025)
-   2 citations · General CDR
-
-10. **Estimation of the total carbon sequestration potential of coconut-gliricidia mixed cropping systems in Sri Lanka** (2025)
-   1 citations · Soil Carbon
 
 ## External Profiles
 

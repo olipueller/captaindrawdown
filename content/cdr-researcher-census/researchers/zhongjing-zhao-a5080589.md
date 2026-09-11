@@ -1,7 +1,7 @@
 ---
 title: "Zhongjing Zhao"
-description: "Zhongjing Zhao is a Mid-career Soil Carbon researcher at Capital University in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272989
+description: "Zhongjing Zhao is a Mid-career Soil Carbon researcher at Capital Medical University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.210064
 url: "/cdr-researcher-census/researchers/zhongjing-zhao-a5080589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhongjing-zhao-a5080589/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Capital University"
+    "name": "Capital Medical University"
   },
   "sameAs": "https://openalex.org/A5080589009"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhongjing Zhao**  
-Capital University · 🇺🇸 US
+Capital Medical University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 127 |
+| Citations | 135 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

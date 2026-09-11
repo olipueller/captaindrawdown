@@ -1,7 +1,7 @@
 ---
 title: "Zoushuang Li"
 description: "Zoushuang Li is a Mid-career DAC researcher at Argonne National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.197887
+date: 2026-09-11T02:38:30.175020
 url: "/cdr-researcher-census/researchers/zoushuang-li-a5036451/"
 layout: "researcher"
 hiddenInHomeList: true

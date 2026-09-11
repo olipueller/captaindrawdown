@@ -1,7 +1,7 @@
 ---
 title: "Tianjiao Feng"
-description: "Tianjiao Feng is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.314468
+description: "Tianjiao Feng is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.261757
 url: "/cdr-researcher-census/researchers/tianjiao-feng-a5100323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianjiao-feng-a5100323/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Education of the People's Republic of China"
+    "name": "Beijing Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5291-5278",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianjiao Feng**  
-Ministry of Education of the People's Republic of China · 🇨🇳 CN
+Beijing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 933 |
-| Publications | 22 |
-| CDR Focus | 18.2% |
+| Citations | 972 |
+| Publications | 30 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

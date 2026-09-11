@@ -1,7 +1,7 @@
 ---
 title: "Michele Louise Francis"
-description: "Michele Louise Francis is a Senior Soil Carbon researcher at Stellenbosch University in ZA. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.722516
+description: "Michele Louise Francis is a Senior Soil Carbon researcher at Stellenbosch University in ZA. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.668376
 url: "/cdr-researcher-census/researchers/michele-louise-francis-a5031300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 315 |
+| h-index | 11 |
+| Citations | 328 |
 | Publications | 26 |
 | CDR Focus | 19.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Oxalate and oxalotrophy: an environmental perspective** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Calcareous termite mounds in South Africa are ancient carbon reservoirs** (2024)
    17 citations · Enhanced Weathering

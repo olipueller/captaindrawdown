@@ -1,7 +1,7 @@
 ---
 title: "Ana Carla Medeiros Morato de Aquino"
-description: "Ana Carla Medeiros Morato de Aquino is a Senior Soil Carbon researcher at Fundação Carlos Chagas in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.422680
+description: "Ana Carla Medeiros Morato de Aquino is a Senior Soil Carbon researcher at Forest Science and Research Institute in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.445509
 url: "/cdr-researcher-census/researchers/ana-carla-medeiros-morato-de-aquino-a5070546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ana-carla-medeiros-morato-de-aquino-a5070546/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Funda\u00e7\u00e3o Carlos Chagas"
+    "name": "Forest Science and Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2661-5217",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ana Carla Medeiros Morato de Aquino**  
-Fundação Carlos Chagas · 🇧🇷 BR
+Forest Science and Research Institute · 🇧🇷 BR
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 639 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 537 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

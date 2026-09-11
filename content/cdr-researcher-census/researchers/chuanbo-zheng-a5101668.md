@@ -1,0 +1,59 @@
+---
+title: "Chuanbo Zheng"
+description: "Chuanbo Zheng is a Senior Biochar researcher at Hainan University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.396704
+url: "/cdr-researcher-census/researchers/chuanbo-zheng-a5101668/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chuanbo Zheng",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chuanbo-zheng-a5101668/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hainan University"
+  },
+  "sameAs": "https://openalex.org/A5101668357"
+}
+</script>
+
+## Profile
+
+**Chuanbo Zheng**  
+Hainan University · 🇨🇳 CN
+
+**Career Stage:** Senior
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 100 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal** (2025)
+   3 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5101668357)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

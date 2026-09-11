@@ -1,7 +1,7 @@
 ---
 title: "Laiying Zhu"
-description: "Laiying Zhu is a Senior Biochar researcher at Xiangtan University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537207
+description: "Laiying Zhu is a Senior Biochar researcher at Xiangtan University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.495315
 url: "/cdr-researcher-census/researchers/laiying-zhu-a5056154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 469 |
+| h-index | 7 |
+| Citations | 474 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step template-free pyrolysis for biochar: Biomass organs control porosity and high-performance for methylene blue removal from water** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

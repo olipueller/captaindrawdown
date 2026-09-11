@@ -1,7 +1,7 @@
 ---
 title: "Leijie Zhang"
 description: "Leijie Zhang is a Senior Biochar researcher at Tianjin Medical University in CN. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.315731
+date: 2026-09-11T02:38:29.261472
 url: "/cdr-researcher-census/researchers/leijie-zhang-a5003673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 927 |
+| Citations | 973 |
 | Publications | 55 |
 | CDR Focus | 5.5% |
 | Trajectory | Growing |

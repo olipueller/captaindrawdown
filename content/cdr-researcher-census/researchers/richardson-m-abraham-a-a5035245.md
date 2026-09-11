@@ -1,7 +1,7 @@
 ---
 title: "Richardson M. Abraham-A"
-description: "Richardson M. Abraham-A is a Mid-career BECCS researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.001542
+description: "Richardson M. Abraham-A is a Mid-career BECCS researcher at Greenhouse Gas Industries (United States) in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.944697
 url: "/cdr-researcher-census/researchers/richardson-m-abraham-a-a5035245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Richardson M. Abraham-A",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/richardson-m-abraham-a-a5035245/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Greenhouse Gas Industries (United States)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-9664-4147",
     "https://openalex.org/A5035245229"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Richardson M. Abraham-A**
+**Richardson M. Abraham-A**  
+Greenhouse Gas Industries (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 196 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 207 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrocarbon indication in Rio Bonito Formation sandstone: Implication for CO2 storage in São Paulo, Brazil** (2023)
-   9 citations · BECCS
+   10 citations · BECCS
 
 ## External Profiles
 

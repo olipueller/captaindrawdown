@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Kasuya"
 description: "Masahiro Kasuya is a Senior Soil Carbon researcher. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.687950
+date: 2026-09-11T02:38:29.639372
 url: "/cdr-researcher-census/researchers/masahiro-kasuya-a5033280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,21 +35,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 339 |
+| Citations | 348 |
 | Publications | 49 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   5 citations · Soil Carbon
+1. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+   6 citations · Soil Carbon
 
-2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+2. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
 
 3. **Plant Use of Nonexchangeable Potassium in Coarse and Fine Fractions of Granitic Soils in a Temperate Region** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

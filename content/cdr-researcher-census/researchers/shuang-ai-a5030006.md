@@ -1,7 +1,7 @@
 ---
 title: "Shuang Ai"
-description: "Shuang Ai is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.739428
+description: "Shuang Ai is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.660704
 url: "/cdr-researcher-census/researchers/shuang-ai-a5030006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Shuang Ai",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shuang-ai-a5030006/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Northeast Agricultural University"
+  },
   "sameAs": "https://openalex.org/A5030006183"
 }
 </script>
 
 ## Profile
 
-**Shuang Ai**
+**Shuang Ai**  
+Northeast Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -34,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 304 |
-| Publications | 37 |
-| CDR Focus | 13.5% |
+| h-index | 9 |
+| Citations | 333 |
+| Publications | 38 |
+| CDR Focus | 13.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Artificial humic acid regulates the impact of fungal community on soil macroaggregates formation** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Microbial community assemblage altered by coprecipitation of artificial humic substances and ferrihydrite: Implications for carbon fixation pathway transformation** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Artificial carbon materials’ impact on soil fertility and greenhouse gas emission** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 4. **Engineered biochar with MgO impregnation: A phosphorus vector bridging aquatic systems and agricultural soils via targeted adsorption and controlled release** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 5. **Soils sustainable management: How artificial humic acid reprogram bacterial consortia for enhanced humus synthesis** (2026)
    0 citations · General CDR

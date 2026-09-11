@@ -1,7 +1,7 @@
 ---
 title: "Marcos Fontela"
-description: "Marcos Fontela is a Mid-career Ocean CDR researcher at Instituto de Investigacións Mariñas in ES. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.669559
+description: "Marcos Fontela is a Mid-career Ocean CDR researcher at Instituto de Investigacións Mariñas in ES. With 64 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.623402
 url: "/cdr-researcher-census/researchers/marcos-fontela-a5060204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 351 |
-| Publications | 57 |
-| CDR Focus | 5.3% |
+| Citations | 359 |
+| Publications | 64 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
    4 citations · General CDR
 
-3. **Cold-water corals in the Subpolar North Atlantic Ocean exposed to aragonite undersaturation if Paris 2 &amp;#186;C is not met** (2021)
+3. **Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem** (2026)
+   0 citations · Ocean CDR
+
+4. **Cold-water corals in the Subpolar North Atlantic Ocean exposed to aragonite undersaturation if Paris 2 &amp;#186;C is not met** (2021)
    0 citations · Ocean CDR
 
 ## External Profiles

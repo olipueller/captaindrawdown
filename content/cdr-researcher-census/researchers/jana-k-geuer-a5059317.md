@@ -1,7 +1,7 @@
 ---
 title: "Jana K. Geuer"
-description: "Jana K. Geuer is a Mid-career Ocean CDR researcher at Max Planck Institute for Marine Microbiology in DE. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555212
+description: "Jana K. Geuer is a Mid-career Ocean CDR researcher at Örebro University in SE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.506500
 url: "/cdr-researcher-census/researchers/jana-k-geuer-a5059317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jana-k-geuer-a5059317/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Max Planck Institute for Marine Microbiology"
+    "name": "\u00d6rebro University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9663-5072",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jana K. Geuer**  
-Max Planck Institute for Marine Microbiology · 🇩🇪 DE
+Örebro University · 🇸🇪 SE
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 450 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 461 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Sharon Showalter"
 description: "Sharon Showalter is a Senior General CDR researcher at University of Vienna in AT. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.808200
+date: 2026-09-11T02:38:29.767769
 url: "/cdr-researcher-census/researchers/sharon-showalter-a5033312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 268 |
+| Citations | 274 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
-   18 citations · DAC
+   20 citations · DAC
 
 2. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
    8 citations · DAC

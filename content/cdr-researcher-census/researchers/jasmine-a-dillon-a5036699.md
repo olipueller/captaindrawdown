@@ -1,7 +1,7 @@
 ---
 title: "Jasmine A Dillon"
 description: "Jasmine A Dillon is a Senior Soil Carbon researcher. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.700083
+date: 2026-09-11T02:38:29.653113
 url: "/cdr-researcher-census/researchers/jasmine-a-dillon-a5036699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 331 |
+| Citations | 340 |
 | Publications | 23 |
-| CDR Focus | 8.7% |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

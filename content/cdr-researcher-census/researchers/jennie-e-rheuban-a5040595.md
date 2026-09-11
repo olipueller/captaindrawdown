@@ -1,7 +1,7 @@
 ---
 title: "Jennie E. Rheuban"
-description: "Jennie E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.301586
+description: "Jennie E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.250232
 url: "/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 983 |
-| Publications | 42 |
-| CDR Focus | 14.3% |
+| Citations | 1,012 |
+| Publications | 45 |
+| CDR Focus | 15.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
 2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
@@ -69,7 +69,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations
 
 7. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 8. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR

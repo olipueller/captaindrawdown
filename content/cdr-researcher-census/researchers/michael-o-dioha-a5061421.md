@@ -1,7 +1,7 @@
 ---
 title: "Michael O. Dioha"
 description: "Michael O. Dioha is a Senior General CDR researcher at Clean Air Task Force in US. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.244475
+date: 2026-09-11T02:38:29.192051
 url: "/cdr-researcher-census/researchers/michael-o-dioha-a5061421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,297 |
+| Citations | 1,339 |
 | Publications | 69 |
 | CDR Focus | 5.8% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 2. **Exploring net-zero emissions pathways for Africa across different timelines: an integrated assessment modeling** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Neeraj Rani"
-description: "Neeraj Rani is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.794185
+description: "Neeraj Rani is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.734623
 url: "/cdr-researcher-census/researchers/neeraj-rani-a5079228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 276 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 9 |
+| Citations | 291 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **From Soil Health to Economic Benefits: The Role of Organic and Natural Farming in Sustainable Agriculture** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Long-Term Crop Diversification Enhances Soil Carbon Fractions and Sequestrations in Northwestern India** (2026)
    0 citations · Soil Carbon

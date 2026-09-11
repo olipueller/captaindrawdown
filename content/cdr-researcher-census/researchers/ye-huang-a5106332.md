@@ -1,7 +1,7 @@
 ---
 title: "Ye Huang"
-description: "Ye Huang is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.080987
+description: "Ye Huang is a Mid-career Soil Carbon researcher at Université Paris-Saclay in FR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.050081
 url: "/cdr-researcher-census/researchers/ye-huang-a5106332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ye Huang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ye-huang-a5106332/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universit\u00e9 Paris-Saclay"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-3714-1283",
     "https://openalex.org/A5106332091"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Ye Huang**
+**Ye Huang**  
+Université Paris-Saclay · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 173 |
+| Citations | 175 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

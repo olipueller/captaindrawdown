@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adil"
-description: "Muhammad Adil is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.098274
+description: "Muhammad Adil is a Mid-career Biochar researcher at Yangzhou University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.013145
 url: "/cdr-researcher-census/researchers/muhammad-adil-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,19 +31,19 @@ Yangzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 168 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Citations | 186 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

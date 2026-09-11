@@ -1,7 +1,7 @@
 ---
 title: "David E. Comings"
-description: "David E. Comings is a Senior General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.384716
+description: "David E. Comings is a Senior General CDR researcher at City Of Hope National Medical Center in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.343439
 url: "/cdr-researcher-census/researchers/david-e-comings-a5104087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "David E. Comings",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-e-comings-a5104087/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "City Of Hope National Medical Center"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-3608-988X",
     "https://openalex.org/A5104087566"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**David E. Comings**
+**David E. Comings**  
+City Of Hope National Medical Center · 🇺🇸 US
 
 **Career Stage:** Senior
 

@@ -1,7 +1,7 @@
 ---
 title: "Michala Bryndová"
 description: "Michala Bryndová is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901620
+date: 2026-09-11T02:38:29.871567
 url: "/cdr-researcher-census/researchers/michala-bryndova-a5108538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 225 |
+| Citations | 228 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

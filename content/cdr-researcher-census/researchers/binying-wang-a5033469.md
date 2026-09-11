@@ -1,7 +1,7 @@
 ---
 title: "Binying Wang"
 description: "Binying Wang is a Mid-career Biochar researcher at Northwest A&F University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.083131
+date: 2026-09-11T02:38:30.041634
 url: "/cdr-researcher-census/researchers/binying-wang-a5033469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 172 |
+| Citations | 177 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of different aging treatments on the transport of nano-biochar in saturated porous media** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

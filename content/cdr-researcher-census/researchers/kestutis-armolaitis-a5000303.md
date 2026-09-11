@@ -1,7 +1,7 @@
 ---
 title: "Kęstutis Armolaitis"
-description: "Kęstutis Armolaitis is a Senior Soil Carbon researcher at Vytautas Magnus University in LT. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.179503
+description: "Kęstutis Armolaitis is a Senior Soil Carbon researcher at Vytautas Magnus University in LT. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.129936
 url: "/cdr-researcher-census/researchers/kestutis-armolaitis-a5000303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,930 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| Citations | 1,964 |
+| Publications | 75 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evaluation of Soil Organic Carbon Stability in Different Land Uses in Lithuania** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
    5 citations · Soil Carbon

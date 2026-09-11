@@ -1,7 +1,7 @@
 ---
 title: "Xinquan Xiong"
-description: "Xinquan Xiong is an Early-career Biochar researcher at Zhejiang University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611655
+description: "Xinquan Xiong is an Early-career Biochar researcher at La Trobe University in AU. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.543144
 url: "/cdr-researcher-census/researchers/xinquan-xiong-a5049831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xinquan-xiong-a5049831/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "La Trobe University"
   },
   "sameAs": "https://openalex.org/A5049831953"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xinquan Xiong**  
-Zhejiang University · 🇨🇳 CN
+La Trobe University · 🇦🇺 AU
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 397 |
+| Citations | 425 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   356 citations · Biochar
+   369 citations · Biochar
 
 ## External Profiles
 

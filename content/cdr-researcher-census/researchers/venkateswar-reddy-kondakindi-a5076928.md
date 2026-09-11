@@ -1,7 +1,7 @@
 ---
 title: "Venkateswar Reddy Kondakindi"
 description: "Venkateswar Reddy Kondakindi is an Early-career Soil Carbon researcher at Jawaharlal Nehru Technological University, Hyderabad in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.338095
+date: 2026-09-11T02:38:30.270074
 url: "/cdr-researcher-census/researchers/venkateswar-reddy-kondakindi-a5076928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 115 |
+| Citations | 124 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environmental Conservation for Sustainable Agriculture** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

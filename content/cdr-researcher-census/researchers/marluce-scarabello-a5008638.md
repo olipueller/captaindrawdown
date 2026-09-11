@@ -1,7 +1,7 @@
 ---
 title: "Marluce Scarabello"
-description: "Marluce Scarabello is a Mid-career General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.710000
+description: "Marluce Scarabello is a Mid-career General CDR researcher at Universidade de São Paulo in BR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.663221
 url: "/cdr-researcher-census/researchers/marluce-scarabello-a5008638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Marluce Scarabello",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marluce-scarabello-a5008638/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade de S\u00e3o Paulo"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-8544-5628",
     "https://openalex.org/A5008638508"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Marluce Scarabello**
+**Marluce Scarabello**  
+Universidade de São Paulo · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 323 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 331 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

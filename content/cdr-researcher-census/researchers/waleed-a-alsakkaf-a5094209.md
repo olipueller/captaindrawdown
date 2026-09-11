@@ -1,7 +1,7 @@
 ---
 title: "Waleed A. Alsakkaf"
 description: "Waleed A. Alsakkaf is an Early-career Soil Carbon researcher at King Saud University in SA. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.312733
+date: 2026-09-11T02:38:30.260266
 url: "/cdr-researcher-census/researchers/waleed-a-alsakkaf-a5094209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 120 |
+| Citations | 126 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Shaorong Hao"
-description: "Shaorong Hao is a Mid-career Soil Carbon researcher at Hebei University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.268254
+description: "Shaorong Hao is a Mid-career Soil Carbon researcher at Hebei University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.140456
 url: "/cdr-researcher-census/researchers/shaorong-hao-a5081761/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 128 |
+| h-index | 8 |
+| Citations | 151 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Dry-season length affects the annual ecosystem carbon balance of a temperate semi-arid shrubland** (2024)
-   13 citations · General CDR
+1. **Vegetation factors and atmospheric dryness regulate the dynamics of ecosystem water use efficiency in a temperate semiarid shrubland** (2024)
+   14 citations
 
-2. **Vegetation factors and atmospheric dryness regulate the dynamics of ecosystem water use efficiency in a temperate semiarid shrubland** (2024)
-   12 citations
+2. **Dry-season length affects the annual ecosystem carbon balance of a temperate semi-arid shrubland** (2024)
+   13 citations · General CDR
 
 ## External Profiles
 

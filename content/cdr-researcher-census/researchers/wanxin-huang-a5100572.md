@@ -1,7 +1,7 @@
 ---
 title: "Wanxin Huang"
 description: "Wanxin Huang is a Mid-career Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188597
+date: 2026-09-11T02:38:30.099194
 url: "/cdr-researcher-census/researchers/wanxin-huang-a5100572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 145 |
+| Citations | 161 |
 | Publications | 24 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

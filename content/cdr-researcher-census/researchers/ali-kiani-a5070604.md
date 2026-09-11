@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
-description: "Ali Kiani is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.435230
+description: "Ali Kiani is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.377845
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 617 |
+| h-index | 9 |
+| Citations | 645 |
 | Publications | 21 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -51,34 +51,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Liquefied synthetic methane from ambient CO2 and renewable H2 - A technoeconomic study** (2021)
-   70 citations · DAC
+   73 citations · DAC
 
 2. **Green pathways for urea synthesis: A review from Australia's perspective** (2022)
-   60 citations · General CDR
+   61 citations · General CDR
 
 3. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 4. **A mass transfer study of CO2 absorption in aqueous solutions of isomeric forms of sodium alaninate for direct air capture application** (2024)
-   22 citations
+   23 citations
 
 5. **A study on degradation and CO<sub>2</sub> capture performance of aqueous amino acid salts for direct air capture applications** (2024)
-   16 citations
+   17 citations
 
 6. **The effects of counter ion on CO2 capture performance of amino acid salt solutions for direct air capture applications** (2024)
-   10 citations
+   11 citations
 
 7. **Direct Air Capture of CO2 using Amine-based Capture Technology** (2022)
    4 citations · DAC
 
-8. **Techno-economic assessment of green urea production integrated with direct air capture** (2025)
+8. **Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes** (2026)
    3 citations · DAC
 
-9. **Large eddy simulation of CO2 direct air capture units in different atmospheric boundary layer wind profiles** (2025)
-   2 citations
+9. **Techno-economic assessment of green urea production integrated with direct air capture** (2025)
+   3 citations · DAC
 
-10. **Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes** (2026)
-   1 citations · DAC
+10. **Large eddy simulation of CO2 direct air capture units in different atmospheric boundary layer wind profiles** (2025)
+   3 citations
 
 ## External Profiles
 

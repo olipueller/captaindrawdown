@@ -1,7 +1,7 @@
 ---
 title: "Guoping Wei"
-description: "Guoping Wei is a Mid-career Biochar researcher at Zhejiang Institute of Modern Textile Industry in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056265
+description: "Guoping Wei is a Mid-career Biochar researcher at Technology Holding (United States) in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.015926
 url: "/cdr-researcher-census/researchers/guoping-wei-a5009504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guoping-wei-a5009504/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang Institute of Modern Textile Industry"
+    "name": "Technology Holding (United States)"
   },
   "sameAs": "https://openalex.org/A5009504351"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Guoping Wei**  
-Zhejiang Institute of Modern Textile Industry · 🇨🇳 CN
+Technology Holding (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 180 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 185 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

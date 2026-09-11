@@ -1,7 +1,7 @@
 ---
 title: "Erik S. Button"
 description: "Erik S. Button is a Mid-career Soil Carbon researcher at Bangor University in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.672592
+date: 2026-09-11T02:38:29.604939
 url: "/cdr-researcher-census/researchers/erik-s-button-a5016544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 349 |
+| Citations | 374 |
 | Publications | 6 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils** (2022)
-   314 citations · Biochar
+   327 citations · Biochar
 
 2. **Addition of iron to agricultural topsoil and subsoil is not an effective C sequestration strategy** (2021)
    12 citations · Soil Carbon

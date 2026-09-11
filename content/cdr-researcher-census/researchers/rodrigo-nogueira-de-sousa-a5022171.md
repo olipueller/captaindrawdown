@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Nogueira de Sousa"
-description: "Rodrigo Nogueira de Sousa is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.649012
+description: "Rodrigo Nogueira de Sousa is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.579340
 url: "/cdr-researcher-census/researchers/rodrigo-nogueira-de-sousa-a5022171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 367 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| h-index | 13 |
+| Citations | 395 |
+| Publications | 47 |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lück"
-description: "Sarah Lück is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.471040
+description: "Sarah Lück is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.419510
 url: "/cdr-researcher-census/researchers/sarah-luck-a5041797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 558 |
-| Publications | 29 |
-| CDR Focus | 37.9% |
+| Citations | 578 |
+| Publications | 28 |
+| CDR Focus | 42.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessing global urban CO2 removal** (2024)
-   56 citations · General CDR
+   61 citations · General CDR
 
 2. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 3. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
 
 4. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 5. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR

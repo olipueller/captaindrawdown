@@ -1,7 +1,7 @@
 ---
 title: "Hong Deng"
-description: "Hong Deng is a Senior Biochar researcher at Ministry of Natural Resources in RW. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.544007
+description: "Hong Deng is a Senior Biochar researcher at Ministry of Natural Resources in RW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.580200
 url: "/cdr-researcher-census/researchers/hong-deng-a5107791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 463 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 394 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

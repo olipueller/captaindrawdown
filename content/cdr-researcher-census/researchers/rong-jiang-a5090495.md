@@ -1,7 +1,7 @@
 ---
 title: "Rong Jiang"
-description: "Rong Jiang is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.304466
+description: "Rong Jiang is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.243423
 url: "/cdr-researcher-census/researchers/rong-jiang-a5090495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 971 |
-| Publications | 62 |
-| CDR Focus | 6.5% |
+| Citations | 1,045 |
+| Publications | 63 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Measuring and modeling soil carbon sequestration under diverse cropping systems in the semiarid prairies of western Canada** (2021)
-   34 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Integrating straw return and tillage practices to enhance soil organic carbon sequestration in wheat–maize rotation systems in the North China Plain** (2025)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Impacts of land use conversions on soil organic carbon in a warming-induced agricultural frontier in Northern Ontario, Canada under historical and future climate** (2023)
    19 citations · Soil Carbon

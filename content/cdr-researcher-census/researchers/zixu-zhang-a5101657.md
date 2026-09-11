@@ -1,7 +1,7 @@
 ---
 title: "Zixu Zhang"
-description: "Zixu Zhang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777649
+description: "Zixu Zhang is a Mid-career Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.697697
 url: "/cdr-researcher-census/researchers/zixu-zhang-a5101657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zixu-zhang-a5101657/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Normal University"
+    "name": "State Forestry and Grassland Administration"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-2650-1769",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zixu Zhang**  
-Nanjing Normal University · 🇨🇳 CN
+State Forestry and Grassland Administration · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 284 |
-| Publications | 23 |
-| CDR Focus | 30.4% |
+| Citations | 310 |
+| Publications | 24 |
+| CDR Focus | 29.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,20 +53,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon isotopic measurements from coastal zone protected forests in northern China: Soil carbon decomposition assessment and its influencing factors** (2021)
    10 citations · Soil Carbon
 
-2. **Thinning shelter forest reduced the soil priming effect and soil microbial respiration by altering the contribution of soil organic carbon from different sources** (2024)
+2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
    7 citations · Soil Carbon
 
-3. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
+3. **Thinning shelter forest reduced the soil priming effect and soil microbial respiration by altering the contribution of soil organic carbon from different sources** (2024)
+   7 citations · Soil Carbon
+
+4. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
    6 citations · Soil Carbon
 
-4. **Influence of soil organic carbon fractions on the soil priming effect under different vegetation restoration modes** (2024)
+5. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
    5 citations · Soil Carbon
 
-5. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   4 citations · Soil Carbon
-
-6. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
-   4 citations · Soil Carbon
+6. **Influence of soil organic carbon fractions on the soil priming effect under different vegetation restoration modes** (2024)
+   5 citations · Soil Carbon
 
 7. **Thinning increased the contribution of microbial necromass to the soil organic carbon in shelter forests** (2025)
    1 citations · Soil Carbon

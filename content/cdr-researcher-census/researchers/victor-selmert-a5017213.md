@@ -1,7 +1,7 @@
 ---
 title: "Victor Selmert"
-description: "Victor Selmert is a Mid-career DAC researcher at Sphere Institute in US. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.796111
+description: "Victor Selmert is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.689172
 url: "/cdr-researcher-census/researchers/victor-selmert-a5017213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/victor-selmert-a5017213/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sphere Institute"
+    "name": "Forschungszentrum J\u00fclich"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1196-2542",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Victor Selmert**  
-Sphere Institute · 🇺🇸 US
+Forschungszentrum Jülich · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 274 |
-| Publications | 23 |
-| CDR Focus | 17.4% |
+| Citations | 314 |
+| Publications | 24 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 2. **CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products** (2025)
    0 citations · DAC

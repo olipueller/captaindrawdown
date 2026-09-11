@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
-description: "Michael Wögerer is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.155063
+description: "Michael Wögerer is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.071297
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,24 +42,30 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 152 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 5 |
+| Citations | 169 |
+| Publications | 35 |
+| CDR Focus | 11.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   4 citations · BECCS
+   6 citations · BECCS
 
-2. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal (Nature Climate Change, (2026), 16, 2, (155-163), 10.1038/s41558-026-02557-5)** (2026)
+2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-3. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+3. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-4. **Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios** (2025)
+4. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal (Nature Climate Change, (2026), 16, 2, (155-163), 10.1038/s41558-026-02557-5)** (2026)
+   0 citations · BECCS
+
+5. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   0 citations · BECCS
+
+6. **Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios** (2025)
    0 citations · BECCS
 
 ## External Profiles

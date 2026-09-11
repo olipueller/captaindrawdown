@@ -1,7 +1,7 @@
 ---
 title: "Tianchen He"
-description: "Tianchen He is a Senior Enhanced Weathering researcher at Hohai University in GB. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.176961
+description: "Tianchen He is a Senior Enhanced Weathering researcher at Taiyuan Normal University in GB. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122934
 url: "/cdr-researcher-census/researchers/tianchen-he-a5066873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianchen-he-a5066873/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hohai University"
+    "name": "Taiyuan Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8975-8667",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianchen He**  
-Hohai University · 🇬🇧 GB
+Taiyuan Normal University · 🇬🇧 GB
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,974 |
+| h-index | 21 |
+| Citations | 2,072 |
 | Publications | 68 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Was climatic cooling during the earliest Carboniferous driven by expansion of seed plants?** (2021)
-   57 citations
+   61 citations
 
 2. **A chemical weathering control on the delivery of particulate iron to the continental shelf** (2021)
-   34 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 3. **First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes** (2021)
    27 citations · Enhanced Weathering
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    5 citations · General CDR
 
 7. **Barium Isotopes Indicate Spatiotemporal Heterogeneity of Marine Primary Productivity During the Toarcian Oceanic Anoxic Event** (2026)
-   0 citations
+   1 citations
 
 8. **Multiproxy Geochemical Records of the Carnian Pluvial Episode in Laurasia** (2026)
    0 citations

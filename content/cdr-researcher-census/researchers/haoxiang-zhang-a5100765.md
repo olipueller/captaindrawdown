@@ -1,7 +1,7 @@
 ---
 title: "Haoxiang Zhang"
 description: "Haoxiang Zhang is a Mid-career Soil Carbon researcher at University of Hong Kong in HK. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.127869
+date: 2026-09-11T02:38:30.063750
 url: "/cdr-researcher-census/researchers/haoxiang-zhang-a5100765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 160 |
+| Citations | 172 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

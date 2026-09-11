@@ -1,7 +1,7 @@
 ---
 title: "Erwei Dong"
-description: "Erwei Dong is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.173568
+description: "Erwei Dong is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.108938
 url: "/cdr-researcher-census/researchers/erwei-dong-a5101117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 148 |
+| h-index | 5 |
+| Citations | 158 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Stable |
@@ -48,15 +48,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term organic fertilization combined with deep ploughing enhances carbon sequestration in a rainfed sorghum-maize rotation system** (2024)
-   14 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcaric Cambisol** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
-3. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcareous Cinnamon Soil** (2024)
-   0 citations
+3. **Long-term biochar application enhances carbon sequestration but not crop yield in a Calcaric Cambisol of the Loess Plateau** (2026)
+   0 citations · Biochar
 
 4. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcareous Cinnamon Soil** (2024)
+   0 citations
+
+5. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcareous Cinnamon Soil** (2024)
    0 citations · Biochar
 
 ## External Profiles

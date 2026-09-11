@@ -1,7 +1,7 @@
 ---
 title: "Bartosz Adamczyk"
-description: "Bartosz Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 130 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144362
+description: "Bartosz Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 133 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093277
 url: "/cdr-researcher-census/researchers/bartosz-adamczyk-a5081249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,644 |
-| Publications | 130 |
-| CDR Focus | 5.4% |
+| h-index | 29 |
+| Citations | 2,743 |
+| Publications | 133 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
-   154 citations
+   156 citations
 
 2. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Microbial community attributes supersede plant and soil parameters in predicting fungal necromass decomposition rates in a 12-tree species common garden experiment** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 4. **Trophic interactions and microbial-derived carbon in porosphere of arable fields** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Long-term nitrogen fertilization alters microbial respiration sensitivity to temperature and moisture, potentially enhancing soil carbon retention in a boreal Scots pine forest** (2025)
    2 citations · Soil Carbon

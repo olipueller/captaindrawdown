@@ -1,7 +1,7 @@
 ---
 title: "Xiai Zhu"
-description: "Xiai Zhu is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.187348
+description: "Xiai Zhu is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.134834
 url: "/cdr-researcher-census/researchers/xiai-zhu-a5038940/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,11 +42,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,816 |
-| Publications | 60 |
-| CDR Focus | 5.0% |
-| Trajectory | Exiting |
+| h-index | 23 |
+| Citations | 1,887 |
+| Publications | 61 |
+| CDR Focus | 6.6% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -54,10 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Divergent responses of soil aggregate-associated organic carbon fractions and carbon flow pathways to land-use changes in karst ecosystems: Insights from δ13C signature** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **High levels of soil calcium and clay facilitate the recovery and stability of organic carbon: Insights from different land uses in the karst of China** (2024)
    6 citations · Soil Carbon
+
+4. **Trait-mediated microbial responses to carbon–phosphorus co-limitation drive necromass accrual and soil carbon sequestration during tropical forest restoration** (2026)
+   0 citations · Soil Carbon
+
+5. **Conversion of tropical rainforest to rubber plantations reshapes soil organic carbon sequestration through divergent accrual of plant lignin and microbial residues** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
-description: "Sonja Geilert is a Senior Ocean CDR researcher at Utrecht University in NL. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225302
+description: "Sonja Geilert is a Senior Ocean CDR researcher at Utrecht University in NL. With 83 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.171886
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,431 |
-| Publications | 76 |
-| CDR Focus | 19.7% |
+| h-index | 21 |
+| Citations | 1,480 |
+| Publications | 83 |
+| CDR Focus | 18.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Kinetics of Olivine Weathering in Seawater: An Experimental Study** (2022)
-   160 citations · Enhanced Weathering
+   164 citations · Enhanced Weathering
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   106 citations · General CDR
+   113 citations · General CDR
 
 3. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR
 
 4. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 5. **Alkaline mineral addition to anoxic to hypoxic Baltic Sea sediments as a potentially efficient CO2-removal technique** (2024)
-   19 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 6. **Seafloor alkalinity enhancement as a carbon dioxide removal strategy in the Baltic Sea** (2024)
    16 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Meenal Gupta"
-description: "Meenal Gupta is a Mid-career Biochar researcher at University of Salento in IT. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.520713
+description: "Meenal Gupta is a Mid-career Biochar researcher at Institute of Molecular Science and Technologies in IT. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.461334
 url: "/cdr-researcher-census/researchers/meenal-gupta-a5012444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/meenal-gupta-a5012444/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Salento"
+    "name": "Institute of Molecular Science and Technologies"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1712-5777",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Meenal Gupta**  
-University of Salento · 🇮🇹 IT
+Institute of Molecular Science and Technologies · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 487 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 512 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Use of biomass-derived biochar in wastewater treatment and power production: A promising solution for a sustainable environment** (2022)
-   190 citations · Biochar
+   192 citations · Biochar
 
 2. **Functional biochar derived from Desmostachya bipinnata for the application in energy storage/conversion devices** (2023)
    14 citations · Biochar

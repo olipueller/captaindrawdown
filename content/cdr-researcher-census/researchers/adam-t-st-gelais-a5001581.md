@@ -1,7 +1,7 @@
 ---
 title: "Adam T. St. Gelais"
 description: "Adam T. St. Gelais is a Mid-career Ocean CDR researcher at University of Maine in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.821179
+date: 2026-09-11T02:38:29.765258
 url: "/cdr-researcher-census/researchers/adam-t-st-gelais-a5001581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 261 |
+| Citations | 275 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Quantifying baseline costs and cataloging potential optimization strategies for kelp aquaculture carbon dioxide removal** (2022)
-   49 citations · General CDR
+   51 citations · General CDR
 
 2. **Identifying Scaling Pathways and Research Priorities for Kelp Aquaculture Nurseries Using a Techno-Economic Modeling Approach** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 3. **Quantifying baseline costs and cataloging potential optimization strategies for kelp aquaculture carbon dioxide removal** (2022)
    5 citations

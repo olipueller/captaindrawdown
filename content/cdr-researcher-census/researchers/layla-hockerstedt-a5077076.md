@@ -1,7 +1,7 @@
 ---
 title: "Layla Höckerstedt"
 description: "Layla Höckerstedt is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399961
+date: 2026-09-11T02:38:30.363372
 url: "/cdr-researcher-census/researchers/layla-hockerstedt-a5077076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 106 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |

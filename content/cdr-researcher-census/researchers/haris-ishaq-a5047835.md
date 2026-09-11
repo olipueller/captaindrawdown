@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 86 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.106371
+description: "Haris Ishaq is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 87 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.055909
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 4,359 |
-| Publications | 86 |
-| CDR Focus | 12.8% |
+| Citations | 4,439 |
+| Publications | 87 |
+| CDR Focus | 13.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets** (2024)
-   242 citations · General CDR
+   249 citations · General CDR
 
 2. **Offshore wind energy prospects for power-to-direct air capture and power-to-gas** (2023)
-   22 citations · DAC
+   23 citations · DAC
 
 3. **Potential of offshore wind energy for direct air capture** (2022)
    18 citations · DAC
 
 4. **Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture** (2022)
-   13 citations · DAC
+   14 citations · DAC
 
 5. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
    8 citations

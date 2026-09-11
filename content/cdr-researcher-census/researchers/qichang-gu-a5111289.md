@@ -1,7 +1,7 @@
 ---
 title: "Qichang Gu"
 description: "Qichang Gu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.807369
+date: 2026-09-11T02:38:29.764520
 url: "/cdr-researcher-census/researchers/qichang-gu-a5111289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 269 |
+| Citations | 276 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

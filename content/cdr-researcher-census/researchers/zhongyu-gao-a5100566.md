@@ -1,7 +1,7 @@
 ---
 title: "Zhongyu Gao"
 description: "Zhongyu Gao is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.886392
+date: 2026-09-11T02:38:29.847059
 url: "/cdr-researcher-census/researchers/zhongyu-gao-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 231 |
+| Citations | 237 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancement of Biochar Carbon Sequestration Through Mineral Regulation: Effects and Mechanisms** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

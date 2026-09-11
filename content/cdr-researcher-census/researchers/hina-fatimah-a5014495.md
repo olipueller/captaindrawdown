@@ -1,7 +1,7 @@
 ---
 title: "Hina Fatimah"
-description: "Hina Fatimah is a Senior Soil Carbon researcher at Allama Iqbal Open University in PK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.956903
+description: "Hina Fatimah is a Senior Soil Carbon researcher at Allama Iqbal Open University in PK. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.894130
 url: "/cdr-researcher-census/researchers/hina-fatimah-a5014495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 212 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 220 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

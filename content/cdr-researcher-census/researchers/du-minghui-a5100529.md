@@ -1,7 +1,7 @@
 ---
 title: "DU Minghui"
 description: "DU Minghui is a Mid-career Ocean CDR researcher at East China Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.365981
+date: 2026-09-11T02:38:30.330334
 url: "/cdr-researcher-census/researchers/du-minghui-a5100529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 110 |
+| Citations | 112 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

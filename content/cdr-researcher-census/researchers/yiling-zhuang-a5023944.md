@@ -1,7 +1,7 @@
 ---
 title: "Yiling Zhuang"
-description: "Yiling Zhuang is a Mid-career Biochar researcher at Fujian Medical University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.996346
+description: "Yiling Zhuang is a Mid-career Biochar researcher at Fujian Medical University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.906474
 url: "/cdr-researcher-census/researchers/yiling-zhuang-a5023944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 198 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 215 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 2. **Persulfate activation by biochar for trace organic contaminant removal from urban stormwater** (2025)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

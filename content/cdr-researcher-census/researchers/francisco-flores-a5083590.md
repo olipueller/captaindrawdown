@@ -1,7 +1,7 @@
 ---
 title: "Francisco Flores"
-description: "Francisco Flores is a Mid-career General CDR researcher at Pontificia Universidad Católica de Valparaíso in CL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.211734
+description: "Francisco Flores is a Mid-career General CDR researcher at University of Zagreb in HR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.146673
 url: "/cdr-researcher-census/researchers/francisco-flores-a5083590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/francisco-flores-a5083590/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+    "name": "University of Zagreb"
   },
   "sameAs": "https://openalex.org/A5083590086"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Francisco Flores**  
-Pontificia Universidad Católica de Valparaíso ·  CL
+University of Zagreb ·  HR
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 139 |
+| Citations | 149 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

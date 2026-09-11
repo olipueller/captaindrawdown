@@ -1,7 +1,7 @@
 ---
 title: "Kumar Balachandar"
 description: "Kumar Balachandar is a Mid-career Ocean CDR researcher at Annamalai University in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.072858
+date: 2026-09-11T02:38:30.031789
 url: "/cdr-researcher-census/researchers/kumar-balachandar-a5112873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 175 |
+| Citations | 180 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

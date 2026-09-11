@@ -1,7 +1,7 @@
 ---
 title: "Gerd Dercon"
-description: "Gerd Dercon is a Senior Soil Carbon researcher. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.173867
+description: "Gerd Dercon is a Senior Soil Carbon researcher at International Atomic Energy Agency in AT. With 110 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.124951
 url: "/cdr-researcher-census/researchers/gerd-dercon-a5076282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Gerd Dercon",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gerd-dercon-a5076282/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "International Atomic Energy Agency"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-9561-7219",
     "https://openalex.org/A5076282670"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Gerd Dercon**
+**Gerd Dercon**  
+International Atomic Energy Agency · 🇦🇹 AT
 
 **Career Stage:** Senior
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,015 |
-| Publications | 108 |
-| CDR Focus | 6.5% |
+| Citations | 2,035 |
+| Publications | 110 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

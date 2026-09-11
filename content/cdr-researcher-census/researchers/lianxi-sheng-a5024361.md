@@ -1,7 +1,7 @@
 ---
 title: "Lianxi Sheng"
-description: "Lianxi Sheng is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 105 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.111139
+description: "Lianxi Sheng is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 107 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.061092
 url: "/cdr-researcher-census/researchers/lianxi-sheng-a5024361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 4,032 |
-| Publications | 105 |
-| CDR Focus | 7.6% |
+| Citations | 4,104 |
+| Publications | 107 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Purification mechanism of city tail water by constructed wetland substrate with NaOH-modified corn straw biochar** (2022)
-   62 citations · Biochar
+   65 citations · Biochar
 
 2. **Study on treatment of city tail water by constructed wetland with corn straw biochar substrate** (2022)
    42 citations · Biochar
 
 3. **Forest swamp succession alters organic carbon composition and survival strategies of soil microbial communities** (2023)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 4. **Study on city tail water treatment in constructed wetland with straw biochar substrate modified by freeze–thaw cycles** (2022)
    11 citations · Biochar
 
 5. **Soil Microbial Carbon Use Efficiency in Natural Terrestrial Ecosystems** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 6. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 7. **Snow removal promotes microbial-mediated organic carbon stabilization within soil aggregates in a peatland of Northeast China** (2024)
    2 citations · Soil Carbon

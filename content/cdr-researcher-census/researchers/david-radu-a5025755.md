@@ -1,7 +1,7 @@
 ---
 title: "David Radu"
-description: "David Radu is a Mid-career DAC researcher at University of Liège in BE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.017459
+description: "David Radu is a Mid-career DAC researcher at University of Liège in BE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.992196
 url: "/cdr-researcher-census/researchers/david-radu-a5025755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 191 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 192 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

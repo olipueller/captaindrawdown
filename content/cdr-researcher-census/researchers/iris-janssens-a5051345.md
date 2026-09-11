@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
-description: "Iris Janssens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.883622
+description: "Iris Janssens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.826572
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 232 |
-| Publications | 30 |
-| CDR Focus | 20.0% |
+| Citations | 246 |
+| Publications | 31 |
+| CDR Focus | 22.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

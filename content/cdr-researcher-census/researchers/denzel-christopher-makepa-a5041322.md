@@ -1,7 +1,7 @@
 ---
 title: "Denzel Christopher Makepa"
-description: "Denzel Christopher Makepa is a Mid-career BECCS researcher at Chinhoyi University of Technology in ZW. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.482017
+description: "Denzel Christopher Makepa is a Mid-career BECCS researcher at Chinhoyi University of Technology in ZW. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.410083
 url: "/cdr-researcher-census/researchers/denzel-christopher-makepa-a5041322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 541 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 592 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainable pathways for biomass production and utilization in carbon capture and storage—a review** (2024)
-   83 citations · BECCS
+   89 citations · BECCS
 
 2. **Integration of biomass and carbon capture for negative emission processes** (2025)
    0 citations · BECCS

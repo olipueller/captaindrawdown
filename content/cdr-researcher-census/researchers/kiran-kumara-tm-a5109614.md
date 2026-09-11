@@ -1,7 +1,7 @@
 ---
 title: "Kiran Kumara T.M."
-description: "Kiran Kumara T.M. is a Mid-career Soil Carbon researcher at Institute of Agricultural Economics in BG. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.310397
+description: "Kiran Kumara T.M. is a Mid-career Soil Carbon researcher at Institute of Agricultural Economics in BG. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.234710
 url: "/cdr-researcher-census/researchers/kiran-kumara-tm-a5109614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 120 |
-| Publications | 10 |
-| CDR Focus | 30.0% |
+| Citations | 130 |
+| Publications | 11 |
+| CDR Focus | 27.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of sustainable agricultural practices to mitigate climate change in Indian agriculture: A meta-analysis** (2022)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Carbon sequestration potential of agroforestry systems in Indian agricultural landscape: A Meta-Analysis** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 3. **Trade-offs and synergies in agroecosystem services with organic and integrated nutrient management in South Asian agri-food systems: Evidence from a meta-analysis** (2026)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Biostimulants for sustainable transformation of agri-food production system: evidence from field experiments** (2026)
    1 citations

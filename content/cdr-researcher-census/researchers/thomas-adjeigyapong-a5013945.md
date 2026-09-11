@@ -1,7 +1,7 @@
 ---
 title: "Thomas Adjei‐Gyapong"
 description: "Thomas Adjei‐Gyapong is a Senior Soil Carbon researcher at Kwame Nkrumah University of Science and Technology in GH. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.993044
+date: 2026-09-11T02:38:29.955644
 url: "/cdr-researcher-census/researchers/thomas-adjeigyapong-a5013945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 199 |
+| Citations | 203 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

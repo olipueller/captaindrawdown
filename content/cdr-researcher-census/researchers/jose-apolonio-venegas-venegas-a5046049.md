@@ -1,7 +1,7 @@
 ---
 title: "José Apolonio Venegas Venegas"
-description: "José Apolonio Venegas Venegas is a Mid-career Soil Carbon researcher. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.161936
+description: "José Apolonio Venegas Venegas is a Mid-career Soil Carbon researcher at Universidad Autónoma de Chiapas in MX. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.109735
 url: "/cdr-researcher-census/researchers/jose-apolonio-venegas-venegas-a5046049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jos\u00e9 Apolonio Venegas Venegas",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jose-apolonio-venegas-venegas-a5046049/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidad Aut\u00f3noma de Chiapas"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-3855-8355",
     "https://openalex.org/A5046049388"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**José Apolonio Venegas Venegas**
+**José Apolonio Venegas Venegas**  
+Universidad Autónoma de Chiapas · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 151 |
+| Citations | 158 |
 | Publications | 38 |
 | CDR Focus | 10.5% |
 | Trajectory | Growing |
@@ -49,12 +54,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-3. **Effect of tree inclination and the distance from tree row on fine root biomass and soil organic carbon in the milpa intercropped with fruit trees agroforestry system** (2025)
-   0 citations · Soil Carbon
+3. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
+   1 citations · Soil Carbon
 
-4. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
+4. **Effect of tree inclination and the distance from tree row on fine root biomass and soil organic carbon in the milpa intercropped with fruit trees agroforestry system** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

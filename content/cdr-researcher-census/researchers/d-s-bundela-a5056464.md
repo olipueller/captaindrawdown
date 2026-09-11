@@ -1,7 +1,7 @@
 ---
 title: "D. S. Bundela"
-description: "D. S. Bundela is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.500126
+description: "D. S. Bundela is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.449726
 url: "/cdr-researcher-census/researchers/d-s-bundela-a5056464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 514 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 532 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

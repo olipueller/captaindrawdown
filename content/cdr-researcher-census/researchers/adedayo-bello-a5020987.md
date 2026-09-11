@@ -1,7 +1,7 @@
 ---
 title: "Adedayo Bello"
-description: "Adedayo Bello is a Mid-career Biochar researcher at Federal University of Agriculture in NG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.879284
+description: "Adedayo Bello is a Mid-career Biochar researcher at Federal University of Agriculture, Abeokuta in NG. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.842658
 url: "/cdr-researcher-census/researchers/adedayo-bello-a5020987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adedayo-bello-a5020987/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Federal University of Agriculture"
+    "name": "Federal University of Agriculture, Abeokuta"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1758-4084",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Adedayo Bello**  
-Federal University of Agriculture ·  NG
+Federal University of Agriculture, Abeokuta ·  NG
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 234 |
+| h-index | 8 |
+| Citations | 239 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pilot-scale adsorption of pharmaceuticals from municipal wastewater effluent using low-cost magnetite-pine bark: Regeneration/enumeration of viable bacteria with a study on their biotoxicity** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Adsorption of Pharmaceuticals from Municipal Wastewater Effluent by Low-Cost Magnetite-Pine Bark in Comparison to Activated Carbon in Small-Scale Columns and a Pilot-Scale Column with Biotoxicity Study and Enumeration of Viable Bacteria** (2024)
    0 citations

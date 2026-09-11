@@ -1,7 +1,7 @@
 ---
 title: "Shalaka Kiran Patil"
 description: "Shalaka Kiran Patil is an Early-career General CDR researcher at University of Bergen in NO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.400314
+date: 2026-09-11T02:38:30.351461
 url: "/cdr-researcher-census/researchers/shalaka-kiran-patil-a5026531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 104 |
+| Citations | 108 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Innovating carbon-capture biotechnologies through ecosystem-inspired solutions** (2021)
-   33 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

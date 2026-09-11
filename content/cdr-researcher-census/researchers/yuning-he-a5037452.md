@@ -1,7 +1,7 @@
 ---
 title: "Yuning He"
-description: "Yuning He is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.034753
+description: "Yuning He is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.007611
 url: "/cdr-researcher-census/researchers/yuning-he-a5037452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yuning He",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuning-he-a5037452/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Northeast Agricultural University"
-  },
   "sameAs": "https://openalex.org/A5037452539"
 }
 </script>
 
 ## Profile
 
-**Yuning He**  
-Northeast Agricultural University · 🇨🇳 CN
+**Yuning He**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 187 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 188 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

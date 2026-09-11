@@ -1,7 +1,7 @@
 ---
 title: "Veronica Nonhlanhla Gundu-Jakarasi"
-description: "Veronica Nonhlanhla Gundu-Jakarasi is an Early-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288340
+description: "Veronica Nonhlanhla Gundu-Jakarasi is a Mid-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.241436
 url: "/cdr-researcher-census/researchers/veronica-nonhlanhla-gundu-jakarasi-a5045375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,7 +22,7 @@ robots: "index, follow"
 
 **Veronica Nonhlanhla Gundu-Jakarasi**
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 124 |
+| Citations | 129 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Interrogating Climate Adaptation Financing in Zimbabwe: Proposed Direction** (2021)
-   21 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

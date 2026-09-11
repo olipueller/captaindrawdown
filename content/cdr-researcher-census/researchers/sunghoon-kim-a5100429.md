@@ -1,7 +1,7 @@
 ---
 title: "Sunghoon Kim"
 description: "Sunghoon Kim is a Senior Ocean CDR researcher at Biocon (Switzerland) in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.817500
+date: 2026-09-11T02:38:29.785653
 url: "/cdr-researcher-census/researchers/sunghoon-kim-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 263 |
+| Citations | 265 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

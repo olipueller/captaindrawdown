@@ -1,7 +1,7 @@
 ---
 title: "Ramy Mohamed"
-description: "Ramy Mohamed is a Mid-career Soil Carbon researcher at National Research Centre in EG. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.412468
+description: "Ramy Mohamed is a Mid-career Soil Carbon researcher at National Research Centre in EG. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.357289
 url: "/cdr-researcher-census/researchers/ramy-mohamed-a5081757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 102 |
+| h-index | 7 |
+| Citations | 107 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing Water Use Efficiency and Carbon Profitability Through the Long-Term Impact of Sustainable Farming Systems** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Carbon Credits from Organic and Biodynamic Agriculture as a Tool for Shifting the Economic Paradigm** (2026)
    0 citations · Soil Carbon

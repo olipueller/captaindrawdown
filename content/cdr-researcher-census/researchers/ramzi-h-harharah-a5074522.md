@@ -1,7 +1,7 @@
 ---
 title: "Ramzi H. Harharah"
-description: "Ramzi H. Harharah is a Mid-career General CDR researcher at National University of Malaysia in MY. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.121898
+description: "Ramzi H. Harharah is a Mid-career General CDR researcher at National University of Malaysia in MY. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.036904
 url: "/cdr-researcher-census/researchers/ramzi-h-harharah-a5074522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 161 |
+| h-index | 7 |
+| Citations | 178 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

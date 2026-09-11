@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
 description: "Nils Markusson is a Senior General CDR researcher at Lancaster University in GB. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.145183
+date: 2026-09-11T02:38:29.095988
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,612 |
+| Citations | 2,659 |
 | Publications | 78 |
 | CDR Focus | 11.5% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Why residual emissions matter right now** (2023)
-   183 citations · General CDR
+   189 citations · General CDR
 
 2. **Is carbon removal delaying emission reductions?** (2023)
-   122 citations · General CDR
+   124 citations · General CDR
 
 3. **Net zero and the unexplored politics of residual emissions** (2023)
-   68 citations · General CDR
+   71 citations · General CDR
 
 4. **Political obstacles to carbon capture and storage for carbon removal** (2024)
    15 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 8. **Beyond ‘doing both’—framing carbon removal carefully** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 9. **Beyond 'doing both'-framing carbon removal carefully** (2026)
    0 citations

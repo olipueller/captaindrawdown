@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
-description: "Ken Oshiro is a Senior General CDR researcher at Hokkaido University in JP. With 135 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.128182
+description: "Ken Oshiro is a Senior General CDR researcher at Hokkaido University in JP. With 144 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.079064
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 3,204 |
-| Publications | 135 |
-| CDR Focus | 11.9% |
+| h-index | 30 |
+| Citations | 3,280 |
+| Publications | 144 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Role of hydrogen-based energy carriers as an alternative option to reduce residual emissions associated with mid-century decarbonization goals** (2022)
-   161 citations · DAC
+   163 citations · DAC
 
 2. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
 
 3. **Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies** (2023)
-   30 citations · DAC
+   31 citations · DAC
 
 4. **Mid-century net-zero emissions pathways for Japan: Potential roles of global mitigation scenarios in informing national decarbonization strategies** (2024)
-   16 citations · General CDR
+   19 citations · General CDR
 
 5. **Residual emissions and carbon removal towards Japan’s net-zero goal: a multi-model analysis** (2024)
-   13 citations · General CDR
+   17 citations · General CDR
 
 6. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
    7 citations · General CDR

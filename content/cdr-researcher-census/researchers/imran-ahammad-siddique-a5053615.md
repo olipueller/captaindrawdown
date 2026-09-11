@@ -1,7 +1,7 @@
 ---
 title: "Imran Ahammad Siddique"
-description: "Imran Ahammad Siddique is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.283679
+description: "Imran Ahammad Siddique is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.187251
 url: "/cdr-researcher-census/researchers/imran-ahammad-siddique-a5053615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 125 |
-| Publications | 12 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| h-index | 6 |
+| Citations | 140 |
+| Publications | 14 |
+| CDR Focus | 28.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon stock change following perennialization: a meta-analysis** (2023)
-   61 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **A Meta-Analysis of the Soil Organic Carbon Stock Change Following Perennialization** (2022)
    2 citations · Soil Carbon
+
+4. **Perennial crops enhance the association between microbial biomass and soil organic carbon sequestration** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

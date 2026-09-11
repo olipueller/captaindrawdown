@@ -1,7 +1,7 @@
 ---
 title: "J. I. Bautista Quispe"
 description: "J. I. Bautista Quispe is a Mid-career Biochar researcher at Garden Organic in GB. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.319742
+date: 2026-09-11T02:38:30.262052
 url: "/cdr-researcher-census/researchers/j-i-bautista-quispe-a5084012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 118 |
+| Citations | 125 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of anionic surfactant from aqueous solutions by adsorption onto biochars: characterisation, kinetics, and mechanism** (2024)
-   18 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

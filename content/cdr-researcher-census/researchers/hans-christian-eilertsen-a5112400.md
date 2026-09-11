@@ -1,7 +1,7 @@
 ---
 title: "Hans Christian Eilertsen"
 description: "Hans Christian Eilertsen is a Senior Ocean CDR researcher at UiT The Arctic University of Norway in NO. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.559416
+date: 2026-09-11T02:38:29.517037
 url: "/cdr-researcher-census/researchers/hans-christian-eilertsen-a5112400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 446 |
+| Citations | 451 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

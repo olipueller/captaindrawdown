@@ -1,7 +1,7 @@
 ---
 title: "David Baah"
 description: "David Baah is a Senior Biochar researcher at Tuskegee University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.500490
+date: 2026-09-11T02:38:29.459162
 url: "/cdr-researcher-census/researchers/david-baah-a5084521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 513 |
+| Citations | 515 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations
 
 3. **Biochar from Biomass: A Comprehensive Approach to CO2 Sequestration and Utilization, Soil Amendment, Power Generation, PFAS Removal, Healthcare, and Sustainable Food Solutions** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Biochar from Biomass: A Comprehensive Approach to CO2 Sequestration and Utilization, Soil Amendment, Power Generation, PFAS Removal, Healthcare, and Sustainable Food Solutions** (2024)
    0 citations

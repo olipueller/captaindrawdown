@@ -1,7 +1,7 @@
 ---
 title: "Zhenke Zhu"
-description: "Zhenke Zhu is an Eminent Soil Carbon researcher at Ningbo University in CN. With 121 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.093780
+description: "Zhenke Zhu is an Eminent Soil Carbon researcher at Ningbo University in CN. With 122 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.043950
 url: "/cdr-researcher-census/researchers/zhenke-zhu-a5089120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 42 |
-| Citations | 5,530 |
-| Publications | 121 |
-| CDR Focus | 14.9% |
+| h-index | 44 |
+| Citations | 5,753 |
+| Publications | 122 |
+| CDR Focus | 14.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Stoichiometric regulation of priming effects and soil carbon balance by microbial life strategies** (2022)
-   216 citations · Soil Carbon
+   222 citations · Soil Carbon
 
-2. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
+2. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
    125 citations · Soil Carbon
 
-3. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   122 citations · Soil Carbon
+3. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
+   125 citations · Soil Carbon
 
 4. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   108 citations · Soil Carbon
+   112 citations · Soil Carbon
 
 5. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   84 citations · Soil Carbon
+   86 citations · Soil Carbon
 
-6. **Carbon stabilization by iron plaque on rice roots: The role of oxygen loss** (2025)
-   22 citations · Soil Carbon
+6. **Microbial strategies regulate organic carbon accumulation in saline paddy soils: A millennium chronosequence** (2025)
+   25 citations · Soil Carbon
 
-7. **Microbial strategies regulate organic carbon accumulation in saline paddy soils: A millennium chronosequence** (2025)
-   22 citations · Soil Carbon
+7. **Carbon stabilization by iron plaque on rice roots: The role of oxygen loss** (2025)
+   23 citations · Soil Carbon
 
 8. **Residence time of carbon in paddy soils** (2023)
    18 citations · Soil Carbon
 
 9. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 10. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

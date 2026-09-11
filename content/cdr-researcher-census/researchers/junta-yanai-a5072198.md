@@ -1,7 +1,7 @@
 ---
 title: "Junta Yanai"
-description: "Junta Yanai is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 133 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.122353
+description: "Junta Yanai is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 135 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.073438
 url: "/cdr-researcher-census/researchers/junta-yanai-a5072198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 3,436 |
-| Publications | 133 |
-| CDR Focus | 5.3% |
+| Citations | 3,488 |
+| Publications | 135 |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   5 citations · Soil Carbon
+1. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+   6 citations · Soil Carbon
 
-2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+2. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
 
 3. **Plant Use of Nonexchangeable Potassium in Coarse and Fine Fractions of Granitic Soils in a Temperate Region** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 4. **Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction** (2026)
    0 citations · Enhanced Weathering

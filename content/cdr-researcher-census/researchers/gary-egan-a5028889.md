@@ -1,7 +1,7 @@
 ---
 title: "Gary Egan"
-description: "Gary Egan is a Mid-career Soil Carbon researcher in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.976653
+description: "Gary Egan is a Mid-career Soil Carbon researcher in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.949069
 url: "/cdr-researcher-census/researchers/gary-egan-a5028889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,9 +39,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 205 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 206 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xia Yuan"
 description: "Xia Yuan is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.428990
+date: 2026-09-11T02:38:29.371422
 url: "/cdr-researcher-census/researchers/xia-yuan-a5021271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 631 |
+| Citations | 661 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

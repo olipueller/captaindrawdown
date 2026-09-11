@@ -1,7 +1,7 @@
 ---
 title: "Shibire Bekele Eshetu"
-description: "Shibire Bekele Eshetu is a Mid-career General CDR researcher at Humboldt-Universität zu Berlin in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.401919
+description: "Shibire Bekele Eshetu is a Mid-career General CDR researcher at International Development Research Centre in CA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.289722
 url: "/cdr-researcher-census/researchers/shibire-bekele-eshetu-a5079158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shibire-bekele-eshetu-a5079158/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Humboldt-Universit\u00e4t zu Berlin"
+    "name": "International Development Research Centre"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3843-4579",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shibire Bekele Eshetu**  
-Humboldt-Universität zu Berlin · 🇩🇪 DE
+International Development Research Centre · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 104 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 7 |
+| Citations | 120 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Guiding sustainable land use planning in Ethiopia: A decision support framework using analytic hierarchy process** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

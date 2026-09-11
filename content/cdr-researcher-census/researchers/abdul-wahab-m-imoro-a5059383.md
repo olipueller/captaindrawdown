@@ -1,7 +1,7 @@
 ---
 title: "Abdul-Wahab M. Imoro"
-description: "Abdul-Wahab M. Imoro is an Early-career Soil Carbon researcher at University for Development Studies in GH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.383667
+description: "Abdul-Wahab M. Imoro is an Early-career Soil Carbon researcher at Navrongo Health Research Centre in GH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.340286
 url: "/cdr-researcher-census/researchers/abdul-wahab-m-imoro-a5059383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abdul-wahab-m-imoro-a5059383/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University for Development Studies"
+    "name": "Navrongo Health Research Centre"
   },
   "sameAs": "https://openalex.org/A5059383673"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Abdul-Wahab M. Imoro**  
-University for Development Studies ·  GH
+Navrongo Health Research Centre ·  GH
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 107 |
+| Citations | 110 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

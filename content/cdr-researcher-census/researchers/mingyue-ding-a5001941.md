@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Ding"
-description: "Mingyue Ding is a Mid-career Enhanced Weathering researcher at Huazhong Agricultural University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.871845
+description: "Mingyue Ding is a Mid-career Enhanced Weathering researcher at Huazhong Agricultural University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.796417
 url: "/cdr-researcher-census/researchers/mingyue-ding-a5001941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 237 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 260 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

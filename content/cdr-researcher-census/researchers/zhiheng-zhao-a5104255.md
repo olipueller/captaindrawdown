@@ -1,7 +1,7 @@
 ---
 title: "Zhiheng Zhao"
 description: "Zhiheng Zhao is a Mid-career Soil Carbon researcher at Beijing Anzhen Hospital in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.872630
+date: 2026-09-11T02:38:29.799231
 url: "/cdr-researcher-census/researchers/zhiheng-zhao-a5104255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 237 |
+| Citations | 259 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   14 citations
+   15 citations
 
 ## External Profiles
 

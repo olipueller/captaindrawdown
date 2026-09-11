@@ -1,7 +1,7 @@
 ---
 title: "Seong Heon Kim"
-description: "Seong Heon Kim is a Senior Soil Carbon researcher at Rural Development Administration in KR. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.652204
+description: "Seong Heon Kim is a Senior Soil Carbon researcher at Rural Development Administration in KR. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.578933
 url: "/cdr-researcher-census/researchers/seong-heon-kim-a5101621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 364 |
-| Publications | 33 |
-| CDR Focus | 9.1% |
+| h-index | 10 |
+| Citations | 395 |
+| Publications | 39 |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Determination of optimal mixing ratio of organic fertilizer and biochar derived from agricultural waste to increase crop growth and soil carbon sequestration** (2025)
    4 citations · Biochar
 
-3. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
+3. **Effect of Different Type of Organic Matter Application on Rice Yield and Soil Organic Carbon Stock in Paddy Soil** (2024)
+   3 citations · Soil Carbon
+
+4. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Jong Hyun Oh"
 description: "Jong Hyun Oh is a Senior Enhanced Weathering researcher at Korea Institute of Geoscience and Mineral Resources in KR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.518502
+date: 2026-09-11T02:38:29.479468
 url: "/cdr-researcher-census/researchers/jong-hyun-oh-a5110454/"
 layout: "researcher"
 hiddenInHomeList: true

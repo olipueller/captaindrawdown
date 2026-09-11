@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Geng"
-description: "Yuhui Geng is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.632395
+description: "Yuhui Geng is a Senior Soil Carbon researcher at Ningxia Medical University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.581238
 url: "/cdr-researcher-census/researchers/yuhui-geng-a5007632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuhui-geng-a5007632/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jilin Agricultural University"
+    "name": "Ningxia Medical University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5187-3245",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuhui Geng**  
-Jilin Agricultural University · 🇨🇳 CN
+Ningxia Medical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 380 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 393 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
-description: "Samer Fawzy is a Mid-career General CDR researcher at Queen's University Belfast in GB. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.087492
+description: "Samer Fawzy is a Mid-career General CDR researcher at Queen's University Belfast in GB. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.037862
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 6,282 |
-| Publications | 29 |
-| CDR Focus | 20.7% |
+| Citations | 6,629 |
+| Publications | 28 |
+| CDR Focus | 21.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Circular economy strategies for combating climate change and other environmental issues** (2022)
-   776 citations · General CDR
+   806 citations · General CDR
 
 2. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   487 citations · Biochar
+   504 citations · Biochar
 
-3. **Industrial biochar systems for atmospheric carbon removal: a review** (2021)
-   201 citations · Biochar
+3. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
+   206 citations · Biochar
 
-4. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
-   197 citations · Biochar
+4. **Industrial biochar systems for atmospheric carbon removal: a review** (2021)
+   203 citations · Biochar
 
 5. **Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study** (2022)
-   185 citations · Biochar
+   189 citations · Biochar
 
 6. **Biomass residue to carbon dioxide removal: quantifying the global impact of biochar** (2023)
-   101 citations · Biochar
+   103 citations · Biochar
 
 ## External Profiles
 

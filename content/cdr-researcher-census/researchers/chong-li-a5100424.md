@@ -1,7 +1,7 @@
 ---
 title: "Chong Li"
-description: "Chong Li is a Senior Soil Carbon researcher at University of Alberta in CA. With 135 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.182808
+description: "Chong Li is a Senior Soil Carbon researcher at University of Alberta in CA. With 139 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.126282
 url: "/cdr-researcher-census/researchers/chong-li-a5100424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,884 |
-| Publications | 135 |
-| CDR Focus | 5.2% |
+| h-index | 25 |
+| Citations | 2,016 |
+| Publications | 139 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+1. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+   26 citations · Soil Carbon
+
+2. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
    25 citations · Soil Carbon
 
-2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+3. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
    24 citations · Soil Carbon
 
-3. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
-   23 citations · Soil Carbon
-
 4. **The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Effects of Different Management Measures on Carbon Stocks and Soil Carbon Stocks in Moso Bamboo Forests: Meta-Analysis and Control Experiment** (2024)
    9 citations · Soil Carbon

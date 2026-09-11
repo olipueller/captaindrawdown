@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Bazan‐Wozniak"
 description: "Aleksandra Bazan‐Wozniak is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.360324
+date: 2026-09-11T02:38:29.301662
 url: "/cdr-researcher-census/researchers/aleksandra-bazanwozniak-a5061373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 785 |
+| Citations | 828 |
 | Publications | 63 |
 | CDR Focus | 6.3% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Methyl Red from Aqueous Solution Using Biochar Derived from Fennel Seeds** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Activated Bio-Carbons Prepared from the Residue of Supercritical Extraction of Raw Plants and Their Application for Removal of Nitrogen Dioxide and Hydrogen Sulfide from the Gas Phase** (2021)
    15 citations · Biochar
 
 3. **Fennel Seed Biochar: A Sustainable Approach for Methylene Blue Removal from Aqueous Solutions** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 4. **Kinetic and Thermodynamic Studies of Methylene Blue Adsorption on Biomass-Derived Biocarbon Materials** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 5. **Microwave-Assisted Fabrication of Fugus-Based Biocarbons for Malachite Green and NO2 Removal** (2023)
    2 citations

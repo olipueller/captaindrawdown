@@ -1,7 +1,7 @@
 ---
 title: "Qaiser Hussain"
-description: "Qaiser Hussain is an Eminent Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 152 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.083100
+description: "Qaiser Hussain is an Eminent Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 151 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.034981
 url: "/cdr-researcher-census/researchers/qaiser-hussain-a5042485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 43 |
-| Citations | 7,047 |
-| Publications | 152 |
-| CDR Focus | 10.5% |
+| h-index | 44 |
+| Citations | 7,196 |
+| Publications | 151 |
+| CDR Focus | 10.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    71 citations · Biochar
 
 3. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
-   28 citations · General CDR
+   29 citations · General CDR
 
 4. **Carbon and nitrogen footprints of apple orchards in China's Loess Plateau under different fertilization regimes** (2023)
    25 citations · Soil Carbon
 
 5. **Managing trade-offs among yield, carbon, and nitrogen footprints of wheat-maize cropping system under straw mulching and N fertilizer application in China's Loess Plateau** (2025)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 6. **Utilisation of Climate‐Smart Conservation Agriculture Practices for Improved Soil Carbon Sequestration, Greenhouse Gas Mitigation and Sustainable Crop Productivity** (2025)
-   14 citations · General CDR
+   16 citations · General CDR
 
 7. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
    14 citations · Biochar
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Biochar
 
 9. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 10. **Soil carbon and legumes** (2022)
    5 citations · Soil Carbon

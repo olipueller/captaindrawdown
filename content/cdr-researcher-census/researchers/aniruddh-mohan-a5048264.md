@@ -1,7 +1,7 @@
 ---
 title: "Aniruddh Mohan"
-description: "Aniruddh Mohan is a Mid-career General CDR researcher at Princeton University in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.627878
+description: "Aniruddh Mohan is a Mid-career General CDR researcher at Princeton University in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.576243
 url: "/cdr-researcher-census/researchers/aniruddh-mohan-a5048264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 383 |
+| h-index | 12 |
+| Citations | 397 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct air capture integration with low-carbon heat: Process engineering and power system analysis** (2024)
-   16 citations
+   18 citations
 
 2. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
    15 citations · General CDR
 
 3. **Direct air capture with thermal energy storage: process design and electricity system impacts** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 4. **Author response for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
    0 citations · DAC

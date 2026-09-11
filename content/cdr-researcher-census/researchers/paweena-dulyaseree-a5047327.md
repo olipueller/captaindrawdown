@@ -1,7 +1,7 @@
 ---
 title: "Paweena Dulyaseree"
-description: "Paweena Dulyaseree is a Mid-career Biochar researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.898954
+description: "Paweena Dulyaseree is a Mid-career Biochar researcher at Yala Rajabhat University in TH. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.861703
 url: "/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Paweena Dulyaseree",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Yala Rajabhat University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-0398-6146",
     "https://openalex.org/A5047327257"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Paweena Dulyaseree**
+**Paweena Dulyaseree**  
+Yala Rajabhat University · 🇹🇭 TH
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 226 |
+| Citations | 231 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Hamid Zentou"
-description: "Hamid Zentou is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.492495
+description: "Hamid Zentou is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.426348
 url: "/cdr-researcher-census/researchers/hamid-zentou-a5032234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 526 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| h-index | 13 |
+| Citations | 570 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

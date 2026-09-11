@@ -1,7 +1,7 @@
 ---
 title: "Jine Wei"
 description: "Jine Wei is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.401577
+date: 2026-09-11T02:38:30.330926
 url: "/cdr-researcher-census/researchers/jine-wei-a5007573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 112 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

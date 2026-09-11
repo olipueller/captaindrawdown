@@ -1,7 +1,7 @@
 ---
 title: "Jae-Hyeong Choi"
 description: "Jae-Hyeong Choi is a Mid-career Soil Carbon researcher at Korea Institute of Ocean Science and Technology in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.040274
+date: 2026-09-11T02:38:29.989599
 url: "/cdr-researcher-census/researchers/jae-hyeong-choi-a5028350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 185 |
+| Citations | 193 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

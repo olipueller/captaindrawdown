@@ -1,7 +1,7 @@
 ---
 title: "Xingfa Li"
-description: "Xingfa Li is a Senior Biochar researcher at Shanxi University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.541814
+description: "Xingfa Li is a Senior Biochar researcher at Shanxi University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.488317
 url: "/cdr-researcher-census/researchers/xingfa-li-a5045311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 464 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 481 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Selective production of singlet oxygen by hercynite-doped biochar activated persulfate: Selective organic contaminants removal and catalytic mechanism** (2025)
-   13 citations · Biochar
+   15 citations · Biochar
 
 2. **Enhancement of Radioactive Iodine Capture by Urea-Assisted Agricultural Waste Biochar: N Consumption Rather than N Doping** (2024)
    0 citations · Biochar

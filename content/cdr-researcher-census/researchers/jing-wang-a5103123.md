@@ -1,7 +1,7 @@
 ---
 title: "Jing Wang"
 description: "Jing Wang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.575275
+date: 2026-09-11T02:38:29.518722
 url: "/cdr-researcher-census/researchers/jing-wang-a5103123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 432 |
+| Citations | 450 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced tillage boosts carbon-nitrogen synergy in black soil: Evidence from stable isotope dynamics** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Interaction Regulation Mechanism of Soil Organic Carbon Fraction and Greenhouse Gases by Organic and Inorganic Fertilization** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

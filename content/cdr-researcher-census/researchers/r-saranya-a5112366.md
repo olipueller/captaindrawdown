@@ -1,7 +1,7 @@
 ---
 title: "R. Saranya"
-description: "R. Saranya is a Mid-career Biochar researcher at Bharathiar University in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.993554
+description: "R. Saranya is a Mid-career Biochar researcher at Bharathiar University in IN. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.994094
 url: "/cdr-researcher-census/researchers/r-saranya-a5112366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 199 |
-| Publications | 38 |
-| CDR Focus | 7.9% |
+| h-index | 6 |
+| Citations | 192 |
+| Publications | 35 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

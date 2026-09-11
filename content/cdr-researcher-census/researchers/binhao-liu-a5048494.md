@@ -1,7 +1,7 @@
 ---
 title: "Binhao Liu"
 description: "Binhao Liu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.809548
+date: 2026-09-11T02:38:29.767144
 url: "/cdr-researcher-census/researchers/binhao-liu-a5048494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 268 |
+| Citations | 275 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

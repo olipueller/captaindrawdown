@@ -1,7 +1,7 @@
 ---
 title: "Mozart A. H. Karim"
 description: "Mozart A. H. Karim is a Mid-career Biochar researcher at University of Sulaimani in IQ. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.703446
+date: 2026-09-11T02:38:29.667091
 url: "/cdr-researcher-census/researchers/mozart-a-h-karim-a5004927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Green synthesized Fe-modified biochar for peroxydisulfate activation and organic pollutant degradation via synergistic radical and non-radical pathways** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Rizzi"
-description: "Małgorzata Rizzi is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.924103
+description: "Małgorzata Rizzi is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.890962
 url: "/cdr-researcher-census/researchers/magorzata-rizzi-a5030212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 217 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 221 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

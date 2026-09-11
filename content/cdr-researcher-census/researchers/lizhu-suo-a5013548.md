@@ -1,7 +1,7 @@
 ---
 title: "Lizhu Suo"
-description: "Lizhu Suo is a Mid-career Soil Carbon researcher at Ludong University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745047
+description: "Lizhu Suo is a Mid-career Soil Carbon researcher at Ludong University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.670519
 url: "/cdr-researcher-census/researchers/lizhu-suo-a5013548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 301 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 326 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
-   13 citations
+   14 citations
 
 2. **Soil spatial heterogeneity created by river–sea interaction influences <scp><i>Tamarix chinensis</i></scp> root features in the Yellow River Delta** (2024)
    0 citations · Soil Carbon

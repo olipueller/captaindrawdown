@@ -1,7 +1,7 @@
 ---
 title: "Mark Kelley"
-description: "Mark Kelley is an Early-career General CDR researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.001363
+description: "Mark Kelley is an Early-career General CDR researcher at Battelle in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.866331
 url: "/cdr-researcher-census/researchers/mark-kelley-a5103098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mark Kelley",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-kelley-a5103098/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Battelle"
+  },
   "sameAs": [
     "https://orcid.org/0009-0003-9436-5595",
     "https://openalex.org/A5103098745"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mark Kelley**
+**Mark Kelley**  
+Battelle · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -38,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 196 |
+| Citations | 229 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

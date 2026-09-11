@@ -1,7 +1,7 @@
 ---
 title: "Angela Maffia"
-description: "Angela Maffia is a Mid-career Soil Carbon researcher at Centro di Terapia Metacognitiva Interpersonale in IT. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.616071
+description: "Angela Maffia is a Mid-career Soil Carbon researcher at Centro di Terapia Metacognitiva Interpersonale in IT. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.531412
 url: "/cdr-researcher-census/researchers/angela-maffia-a5050621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 393 |
+| h-index | 12 |
+| Citations | 437 |
 | Publications | 49 |
 | CDR Focus | 10.2% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Humic Substances: Bridging Ecology and Agriculture for a Greener Future** (2025)
-   84 citations · Soil Carbon
+   92 citations · Soil Carbon
 
 2. **Sustainable fertilizers from wastes: a strategy to enhance soil carbon, improve soil quality, and mitigate emissions** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Agro-Industrial Residue Amendments as Circular Tools for Soil Stewardship and Greenhouse Gas Mitigation** (2026)
    0 citations · Soil Carbon

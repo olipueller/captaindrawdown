@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Su"
-description: "Guangcan Su is a Mid-career BECCS researcher at Northwestern University in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.341373
+description: "Guangcan Su is a Mid-career BECCS researcher at Northwestern University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.286281
 url: "/cdr-researcher-census/researchers/guangcan-su-a5068328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 843 |
-| Publications | 25 |
-| CDR Focus | 16.0% |
+| Citations | 878 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    19 citations
 
 3. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   4 citations · General CDR
+   6 citations · General CDR
 
 4. **Electrified release of pure CO <sub>2</sub> from postcapture liquid: A two-stage system lowers the total energy cost** (2026)
    3 citations · DAC

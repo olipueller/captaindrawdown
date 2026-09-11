@@ -1,7 +1,7 @@
 ---
 title: "Brian Nester"
 description: "Brian Nester is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.246447
+date: 2026-09-11T02:38:30.187906
 url: "/cdr-researcher-census/researchers/brian-nester-a5059870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 132 |
+| Citations | 140 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial grain Kernza<sup>®</sup> fields have higher particulate organic carbon at depth than annual grain fields** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

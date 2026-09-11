@@ -1,7 +1,7 @@
 ---
 title: "Jonathon Becker"
-description: "Jonathon Becker is a Senior DAC researcher at Environmental Protection Agency in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729049
+description: "Jonathon Becker is a Senior DAC researcher at Environmental Protection Agency in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.939083
 url: "/cdr-researcher-census/researchers/jonathon-becker-a5040923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 310 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 209 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **US economy-wide decarbonization: Sectoral and distributional impacts** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

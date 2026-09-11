@@ -1,7 +1,7 @@
 ---
 title: "Júlia Pedó Gutkoski"
 description: "Júlia Pedó Gutkoski is a Mid-career Biochar researcher at Delft University of Technology in NL. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.696015
+date: 2026-09-11T02:38:29.660319
 url: "/cdr-researcher-census/researchers/julia-pedo-gutkoski-a5086028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Brewery-waste biochar for antibiotic removal: Modeling, BAC column enhancement, and microbial analysis** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

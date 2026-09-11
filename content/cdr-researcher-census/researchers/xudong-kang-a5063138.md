@@ -1,7 +1,7 @@
 ---
 title: "Xudong Kang"
 description: "Xudong Kang is a Mid-career Biochar researcher at Hohai University in CN. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499860
+date: 2026-09-11T02:38:29.441647
 url: "/cdr-researcher-census/researchers/xudong-kang-a5063138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 514 |
+| Citations | 544 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The interface mechanism of sludge biochar activating persulfate to remove tetracycline: The role of the C-O-Fe bridge at the carbon surface** (2022)
-   80 citations · Biochar
+   81 citations · Biochar
 
 2. **Enhancing degradation of atrazine by Fe-phenol modified biochar/ferrate(VI) under alkaline conditions: Analysis of the mechanism and intermediate products** (2021)
    50 citations · Biochar
 
 3. **Performance and mechanism of tea waste biochar in enhancing the removal of tetracycline by peroxodisulfate** (2022)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

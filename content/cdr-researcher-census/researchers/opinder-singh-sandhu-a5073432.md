@@ -1,7 +1,7 @@
 ---
 title: "Opinder Singh Sandhu"
 description: "Opinder Singh Sandhu is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060281
+date: 2026-09-11T02:38:30.019277
 url: "/cdr-researcher-census/researchers/opinder-singh-sandhu-a5073432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 179 |
+| Citations | 184 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |

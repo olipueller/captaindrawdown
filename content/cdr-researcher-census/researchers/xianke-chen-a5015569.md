@@ -1,7 +1,7 @@
 ---
 title: "Xianke Chen"
-description: "Xianke Chen is a Mid-career Soil Carbon researcher at Shandong University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.775289
+description: "Xianke Chen is a Mid-career Soil Carbon researcher at Shandong University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.701782
 url: "/cdr-researcher-census/researchers/xianke-chen-a5015569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 285 |
+| h-index | 10 |
+| Citations | 308 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate Warming-Driven Changes in the Molecular Composition of Soil Dissolved Organic Matter Across Depth: A Case Study on the Tibetan Plateau** (2023)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Tibetan Plateau grasslands might increase sequestration of microbial necromass carbon under future warming** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

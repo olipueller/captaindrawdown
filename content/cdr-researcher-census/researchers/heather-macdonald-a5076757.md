@@ -1,7 +1,7 @@
 ---
 title: "Heather MacDonald"
 description: "Heather MacDonald is a Mid-career BECCS researcher. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.813674
+date: 2026-09-11T02:38:29.752583
 url: "/cdr-researcher-census/researchers/heather-macdonald-a5076757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 265 |
+| Citations | 281 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

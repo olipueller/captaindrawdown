@@ -1,7 +1,7 @@
 ---
 title: "Musfica Sultana"
 description: "Musfica Sultana is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.264070
+date: 2026-09-11T02:38:30.201729
 url: "/cdr-researcher-census/researchers/musfica-sultana-a5058206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 129 |
+| Citations | 137 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Band gap engineering of Ag/CeO2/Co3O4@biochar composite with superior light harvesting for photocatalytic removal of Diclofenac and Naphthalene from effluents** (2024)
-   8 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

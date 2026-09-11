@@ -1,7 +1,7 @@
 ---
 title: "Mateusz Kowal"
 description: "Mateusz Kowal is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.368768
+date: 2026-09-11T02:38:30.336509
 url: "/cdr-researcher-census/researchers/mateusz-kowal-a5057281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 109 |
+| Citations | 110 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    7 citations · BECCS
 
 2. **Comparative techno-economic analysis of novel bioenergy with carbon capture and storage plant versus combined cycle gas turbine with solvent-based CO2 absorption** (2026)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

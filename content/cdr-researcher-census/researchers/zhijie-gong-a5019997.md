@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Gong"
-description: "Zhijie Gong is a Mid-career BECCS researcher at Xihua University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.244514
+description: "Zhijie Gong is a Mid-career BECCS researcher at Xihua University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.176313
 url: "/cdr-researcher-census/researchers/zhijie-gong-a5019997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 132 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 142 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

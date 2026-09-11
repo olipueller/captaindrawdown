@@ -1,7 +1,7 @@
 ---
 title: "Gaojia Meng"
-description: "Gaojia Meng is a Mid-career Soil Carbon researcher at Northwest Normal University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342362
+description: "Gaojia Meng is a Mid-career Soil Carbon researcher at Northwest Normal University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.286773
 url: "/cdr-researcher-census/researchers/gaojia-meng-a5063856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 841 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 877 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

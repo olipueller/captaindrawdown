@@ -1,7 +1,7 @@
 ---
 title: "Degui Gao"
-description: "Degui Gao is a Mid-career Biochar researcher at Tsinghua University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.858114
+description: "Degui Gao is a Mid-career Biochar researcher at Tsinghua University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.771943
 url: "/cdr-researcher-census/researchers/degui-gao-a5083305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 243 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 9 |
+| Citations | 273 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enhancing electricity generation and pollutant degradation in microbial fuel cells using cyanobacteria-derived biochar electrodes** (2024)
-   24 citations · Biochar
+   28 citations · Biochar
 
 ## External Profiles
 

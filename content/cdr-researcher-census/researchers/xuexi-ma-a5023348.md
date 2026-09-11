@@ -1,7 +1,7 @@
 ---
 title: "Xuexi Ma"
-description: "Xuexi Ma is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.960360
+description: "Xuexi Ma is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.880269
 url: "/cdr-researcher-census/researchers/xuexi-ma-a5023348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuexi-ma-a5023348/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinjiang Normal University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0147-7575",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuexi Ma**  
-Xinjiang Normal University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 211 |
-| Publications | 29 |
-| CDR Focus | 24.1% |
+| h-index | 10 |
+| Citations | 225 |
+| Publications | 32 |
+| CDR Focus | 21.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Grazing Decreases Soil Aggregation and Has Different Effects on Soil Organic Carbon Storage across Different Grassland Types in Northern Xinjiang, China** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **The response of soil organic carbon content of grasslands in Northern Xinjiang to future climate change** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Multiscale drivers and tipping points regulating particulate and mineral-associated organic carbon across Central Asian grasslands** (2025)
    4 citations · Soil Carbon
 
 5. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Grazing Decreases Soil Aggregation and Has Different Effect on Organic Carbon Storage Across Different Grassland Types in the Northern Xinjiang, China** (2023)
    2 citations · Soil Carbon

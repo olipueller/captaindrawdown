@@ -1,7 +1,7 @@
 ---
 title: "Guodong Yuan"
-description: "Guodong Yuan is a Senior Soil Carbon researcher at Zhaoqing University in CN. With 94 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.107024
+description: "Guodong Yuan is a Senior Soil Carbon researcher at Zhaoqing University in CN. With 95 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.057517
 url: "/cdr-researcher-census/researchers/guodong-yuan-a5082790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 4,293 |
-| Publications | 94 |
+| h-index | 32 |
+| Citations | 4,337 |
+| Publications | 95 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **The beneficial applications of humic substances in agriculture and soil environments** (2021)
-   12 citations · Soil Carbon
+1. **Unveiling carbon dynamics in year-round waterlogged pond fields: insights into soil organic carbon accumulation and sustainable management** (2025)
+   13 citations · Soil Carbon
 
-2. **Unveiling carbon dynamics in year-round waterlogged pond fields: insights into soil organic carbon accumulation and sustainable management** (2025)
-   10 citations · Soil Carbon
+2. **The beneficial applications of humic substances in agriculture and soil environments** (2021)
+   12 citations · Soil Carbon
 
 3. **Mineral Coating Enhances the Carbon Sequestration Capacity of Biochar Derived from Paulownia Biowaste** (2023)
    9 citations · Biochar

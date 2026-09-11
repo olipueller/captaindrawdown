@@ -1,7 +1,7 @@
 ---
 title: "Ulla K. Heede"
-description: "Ulla K. Heede is a Mid-career Ocean CDR researcher at Worthing Hospital in GB. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.512744
+description: "Ulla K. Heede is a Mid-career Ocean CDR researcher. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.466881
 url: "/cdr-researcher-census/researchers/ulla-k-heede-a5028145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ulla K. Heede",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ulla-k-heede-a5028145/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Worthing Hospital"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-3241-0552",
     "https://openalex.org/A5028145845"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Ulla K. Heede**  
-Worthing Hospital · 🇬🇧 GB
+**Ulla K. Heede**
 
 **Career Stage:** Mid-career
 
@@ -43,26 +38,29 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 496 |
+| Citations | 505 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Supplementary material to "Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry"** (2026)
-   0 citations
+1. **Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry** (2026)
+   1 citations · General CDR
 
-2. **Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry** (2026)
+2. **ROMS-Tools: Reproducible Preprocessing and Analysis for Regional Ocean Modeling with ROMS** (2026)
    0 citations · General CDR
 
-3. **CWorthy-ocean/C-Star-in-Hvalfjordur: Manuscript_submission_0** (2026)
+3. **Supplementary material to "Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry"** (2026)
    0 citations
 
 4. **CWorthy-ocean/C-Star-in-Hvalfjordur: Manuscript_submission_0** (2026)
    0 citations
 
-5. **Limits on marine carbon dioxide removal potential set by coastal air-sea gas exchange rates** (2026)
+5. **CWorthy-ocean/C-Star-in-Hvalfjordur: Manuscript_submission_0** (2026)
+   0 citations
+
+6. **Limits on marine carbon dioxide removal potential set by coastal air-sea gas exchange rates** (2026)
    0 citations · General CDR
 
 ## External Profiles

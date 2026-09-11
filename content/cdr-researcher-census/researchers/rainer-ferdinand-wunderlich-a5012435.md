@@ -1,7 +1,7 @@
 ---
 title: "Rainer Ferdinand Wunderlich"
-description: "Rainer Ferdinand Wunderlich is a Mid-career Soil Carbon researcher at CEA CESTA in FR. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.573062
+description: "Rainer Ferdinand Wunderlich is a Mid-career Soil Carbon researcher at Institut National de la Recherche Agronomique in MA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.525726
 url: "/cdr-researcher-census/researchers/rainer-ferdinand-wunderlich-a5012435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rainer-ferdinand-wunderlich-a5012435/",
   "affiliation": {
     "@type": "Organization",
-    "name": "CEA CESTA"
+    "name": "Institut National de la Recherche Agronomique"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0758-2985",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rainer Ferdinand Wunderlich**  
-CEA CESTA · 🇫🇷 FR
+Institut National de la Recherche Agronomique ·  MA
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 434 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 442 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

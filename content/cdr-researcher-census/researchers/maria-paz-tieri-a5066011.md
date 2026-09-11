@@ -1,7 +1,7 @@
 ---
 title: "María Paz Tieri"
-description: "María Paz Tieri is a Mid-career General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662725
+description: "María Paz Tieri is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.598087
 url: "/cdr-researcher-census/researchers/maria-paz-tieri-a5066011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,16 +34,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 357 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 8 |
+| Citations | 379 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   69 citations · General CDR
+   72 citations · General CDR
 
 2. **How do public policies and private initiatives influence carbon stocks in agricultural and livestock production: a systematic review protocol.** (2026)
    0 citations

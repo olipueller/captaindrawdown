@@ -1,7 +1,7 @@
 ---
 title: "Stan Cox"
-description: "Stan Cox is a Mid-career Soil Carbon researcher at The Land Institute in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.979104
+description: "Stan Cox is a Mid-career Soil Carbon researcher at The Land Institute in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.889268
 url: "/cdr-researcher-census/researchers/stan-cox-a5007455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 204 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 222 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

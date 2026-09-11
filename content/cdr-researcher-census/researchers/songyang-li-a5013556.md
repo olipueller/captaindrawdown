@@ -1,7 +1,7 @@
 ---
 title: "Songyang Li"
-description: "Songyang Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222821
+description: "Songyang Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.177533
 url: "/cdr-researcher-census/researchers/songyang-li-a5013556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 137 |
+| h-index | 5 |
+| Citations | 142 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing salt-alkali-tolerant carbon-fixing bacteria to enhance carbon sequestration in saline-alkaline soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

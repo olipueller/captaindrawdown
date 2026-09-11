@@ -1,7 +1,7 @@
 ---
 title: "Zhenyao Xia"
-description: "Zhenyao Xia is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.040849
+description: "Zhenyao Xia is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996942
 url: "/cdr-researcher-census/researchers/zhenyao-xia-a5109440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 185 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 191 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Dynamics of iron-bound organic carbon sequestration in soil-cement aggregates during the ecological restoration process** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

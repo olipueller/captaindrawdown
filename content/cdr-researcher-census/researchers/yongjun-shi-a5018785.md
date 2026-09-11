@@ -1,7 +1,7 @@
 ---
 title: "Yongjun Shi"
-description: "Yongjun Shi is a Senior Soil Carbon researcher at Guiyang University in CN. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.172012
+description: "Yongjun Shi is a Senior Soil Carbon researcher at Guiyang University in CN. With 106 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.120641
 url: "/cdr-researcher-census/researchers/yongjun-shi-a5018785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,053 |
+| h-index | 26 |
+| Citations | 2,107 |
 | Publications | 106 |
 | CDR Focus | 17.0% |
 | Trajectory | Stable |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degradation reduces greenhouse gas emissions while weakening ecosystem carbon sequestration of Moso bamboo forests** (2023)
-   45 citations · Soil Carbon
+   47 citations · Soil Carbon
 
-2. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+   26 citations · Soil Carbon
+
+3. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
    25 citations · Soil Carbon
 
-3. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
-   24 citations · Soil Carbon
-
-4. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+4. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
    24 citations · Soil Carbon
 
 5. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 6. **The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 7. **Degradation-driven vegetation-soil-microbe interactions alter microbial carbon use efficiency in Moso bamboo forests** (2024)
    9 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations
 
 10. **Biofertilizer outcompete chemical fertilizer in enhancing carbon sequestration in Moso bamboo (Phyllostachys edulis (Carriere) J. Houzeau) forests** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

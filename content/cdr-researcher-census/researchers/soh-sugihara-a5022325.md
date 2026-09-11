@@ -1,7 +1,7 @@
 ---
 title: "Soh Sugihara"
-description: "Soh Sugihara is a Senior Soil Carbon researcher at Tokyo University of Agriculture and Technology in JP. With 98 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.297757
+description: "Soh Sugihara is a Senior Soil Carbon researcher at Tokyo University of Agriculture and Technology in JP. With 101 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.245988
 url: "/cdr-researcher-census/researchers/soh-sugihara-a5022325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,002 |
-| Publications | 98 |
-| CDR Focus | 7.1% |
+| h-index | 20 |
+| Citations | 1,031 |
+| Publications | 101 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,21 +54,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **No Tillage Increases SOM in Labile Fraction but Not Stable Fraction of Andosols from a Long-Term Experiment in Japan** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Controls on soil organic carbon across soil depths in tropical and temperate non-volcanic regions** (2025)
    6 citations · Soil Carbon
 
 4. **Long-term NPK fertilization enhances microbial carbon use efficiency in Andosols by alleviating P limitation and shifting microbial strategies** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Quantifying the dynamics of <i>Miscanthus</i> × <i>giganteus</i> belowground biomass and soil carbon and nitrogen stocks for three years of cultivation on Andosols, Iwate, Japan** (2025)
    2 citations
 
-6. **Effects of phosphorus fertilization on microbial carbon use efficiency and soil organic matter decomposition in non-allophanic Andosols** (2026)
-   0 citations
+6. **No‐Tillage History and Residue Application Methods Regulate Net Carbon Balance via Contrasting Priming Responses in Andosols** (2026)
+   1 citations
 
-7. **No‐Tillage History and Residue Application Methods Regulate Net Carbon Balance via Contrasting Priming Responses in Andosols** (2026)
+7. **Effects of phosphorus fertilization on microbial carbon use efficiency and soil organic matter decomposition in non-allophanic Andosols** (2026)
    0 citations
 
 8. **Low‐Quality Residues Drive Long‐Term Carbon Stabilisation in Humid Temperate Upland Soils** (2026)

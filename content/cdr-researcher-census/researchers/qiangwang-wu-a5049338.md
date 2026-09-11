@@ -1,7 +1,7 @@
 ---
 title: "Qiangwang Wu"
-description: "Qiangwang Wu is a Mid-career Enhanced Weathering researcher at Sinopec (China) in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.410706
+description: "Qiangwang Wu is a Mid-career Enhanced Weathering researcher at Sinopec (China) in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.337743
 url: "/cdr-researcher-census/researchers/qiangwang-wu-a5049338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 102 |
+| h-index | 6 |
+| Citations | 110 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evolution of volcanic activity and its impact on continental weathering, paleoproductivity, and runoff during the early Aptian in southern Tibet (eastern Tethys): Implications for regional to global environmental perturbations** (2024)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 2. **Paleoenvironment fluctuations and conodont size variations in the Baoshan block of eastern Tethys: implications for the late Norian warming event (Late Triassic)** (2025)
    2 citations

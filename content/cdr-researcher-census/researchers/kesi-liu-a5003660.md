@@ -1,7 +1,7 @@
 ---
 title: "Kesi Liu"
-description: "Kesi Liu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.197284
+description: "Kesi Liu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.145265
 url: "/cdr-researcher-census/researchers/kesi-liu-a5003660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,706 |
-| Publications | 70 |
-| CDR Focus | 10.0% |
+| h-index | 26 |
+| Citations | 1,755 |
+| Publications | 71 |
+| CDR Focus | 9.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   46 citations · Biochar
+   49 citations · Biochar
 
 2. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
    14 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 4. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Grazing regimes modulate organic carbon distribution in soil aggregates over varying soil depths in steppe grasslands** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Nattawut Khuenkaeo"
-description: "Nattawut Khuenkaeo is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.778278
+description: "Nattawut Khuenkaeo is a Mid-career Biochar researcher at Payap University in TH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.721543
 url: "/cdr-researcher-census/researchers/nattawut-khuenkaeo-a5037071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nattawut Khuenkaeo",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nattawut-khuenkaeo-a5037071/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Payap University"
+  },
   "sameAs": "https://openalex.org/A5037071212"
 }
 </script>
 
 ## Profile
 
-**Nattawut Khuenkaeo**
+**Nattawut Khuenkaeo**  
+Payap University · 🇹🇭 TH
 
 **Career Stage:** Mid-career
 
@@ -34,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 284 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| h-index | 7 |
+| Citations | 298 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

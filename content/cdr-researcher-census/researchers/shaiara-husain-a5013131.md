@@ -1,7 +1,7 @@
 ---
 title: "Shaiara Husain"
 description: "Shaiara Husain is a Mid-career General CDR researcher at Curtin University in AU. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.369801
+date: 2026-09-11T02:38:29.318916
 url: "/cdr-researcher-census/researchers/shaiara-husain-a5013131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 759 |
+| Citations | 784 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

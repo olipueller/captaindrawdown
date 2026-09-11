@@ -1,7 +1,7 @@
 ---
 title: "Silvia Madeddu"
 description: "Silvia Madeddu is a Mid-career General CDR researcher at Leibniz Association in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.283667
+date: 2026-09-11T02:38:29.223053
 url: "/cdr-researcher-census/researchers/silvia-madeddu-a5005561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 1,073 |
+| Citations | 1,142 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 ## External Profiles
 

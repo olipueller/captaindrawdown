@@ -1,7 +1,7 @@
 ---
 title: "Wencheng Wu"
-description: "Wencheng Wu is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.344435
+description: "Wencheng Wu is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.292379
 url: "/cdr-researcher-census/researchers/wencheng-wu-a5026345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wencheng-wu-a5026345/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Ecology and Environment"
+    "name": "Sun Yat-sen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9787-7172",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wencheng Wu**  
-Ministry of Ecology and Environment · 🇨🇳 CN
+Sun Yat-sen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 833 |
+| Citations | 863 |
 | Publications | 40 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of Cd(II) and As(V) by ferrihydrite-biochar composite: Enhanced effects of As(V) on Cd(II) adsorption** (2023)
-   42 citations · Biochar
+   43 citations · Biochar
 
 2. **Profile and nano-scale distribution of soil organic carbon for upland and paddy soils from an alluvial plain in South China** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Simultaneous Removal of Cd(Ii) and As(V) by Ferrihydrite-Biochar Composite: Enhanced Effects of As(V) on Cd(Ii) Adsorption** (2022)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Arezoo Taghizadeh‐Toosi"
-description: "Arezoo Taghizadeh‐Toosi is a Senior Soil Carbon researcher at Danish Technological Institute in DK. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.178457
+description: "Arezoo Taghizadeh‐Toosi is a Senior Soil Carbon researcher at Danish Technological Institute in DK. With 78 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.127882
 url: "/cdr-researcher-census/researchers/arezoo-taghizadehtoosi-a5021523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,950 |
-| Publications | 77 |
-| CDR Focus | 5.2% |
+| Citations | 1,997 |
+| Publications | 78 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Systematic Review of Dairy Processing Sludge and Secondary STRUBIAS Products Used in Agriculture** (2021)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Filling gaps in models simulating carbon storage in agricultural soils: the role of cereal stubbles** (2021)
    11 citations
@@ -59,10 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Assessing CO2 storage in Danish biochars using inertinite benchmarking** (2026)
    2 citations · Biochar
 
-4. **Potential of crop residues management for soil organic carbon sequestration in European countries until 2050: a simplified modelling approach** (2025)
-   0 citations · General CDR
+4. **Cost-effective Carbon Sequestration in Agricultural Soils in the EU From 2020 to 2050** (2026)
+   1 citations · General CDR
 
 5. **The role of transaction costs for the optimal supply of carbon sequestration from cover crops in Denmark** (2025)
+   1 citations · General CDR
+
+6. **Towards climate-smart sustainable management of agricultural soils : Deliverable D2.6 Set of reports on State of knowledge in agricultural soil management** (2021)
+   1 citations · Soil Carbon
+
+7. **Potential of crop residues management for soil organic carbon sequestration in European countries until 2050: a simplified modelling approach** (2025)
    0 citations · General CDR
 
 ## External Profiles

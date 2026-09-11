@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhu"
 description: "Hang Zhu is a Mid-career Biochar researcher at Ministry of Agriculture in PS. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.498177
+date: 2026-09-11T02:38:29.439604
 url: "/cdr-researcher-census/researchers/hang-zhu-a5101598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 518 |
+| Citations | 548 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   356 citations · Biochar
+   369 citations · Biochar
 
 ## External Profiles
 

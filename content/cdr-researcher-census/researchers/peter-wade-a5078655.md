@@ -1,7 +1,7 @@
 ---
 title: "Peter Wade"
 description: "Peter Wade is a Mid-career Enhanced Weathering researcher at Mersen (France) in FR. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.196873
+date: 2026-09-11T02:38:29.142821
 url: "/cdr-researcher-census/researchers/peter-wade-a5078655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 1,709 |
+| Citations | 1,787 |
 | Publications | 11 |
 | CDR Focus | 36.4% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   156 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 2. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   123 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 3. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   47 citations
+   50 citations
 
 4. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
    1 citations

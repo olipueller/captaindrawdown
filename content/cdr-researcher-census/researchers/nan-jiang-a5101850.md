@@ -1,7 +1,7 @@
 ---
 title: "Nan Jiang"
-description: "Nan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 119 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.180183
+description: "Nan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 118 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.127768
 url: "/cdr-researcher-census/researchers/nan-jiang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,926 |
-| Publications | 119 |
-| CDR Focus | 5.0% |
+| Citations | 1,999 |
+| Publications | 118 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Effects of straw and biochar amendment on hydrological fluxes of dissolved organic carbon in a subtropical montane agricultural landscape** (2021)
    16 citations · Biochar
@@ -60,16 +60,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 4. **Elevated hydrolase activity rather than oxidase activity enhances the accumulation of organic matter in black soil under maize stover retention** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **More labile carbon inputs lessen the positive effects of nitrogen enrichment on soil carbon storage in a temperate grassland** (2023)
    3 citations · Soil Carbon
 
-6. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
-   0 citations · Biochar
+6. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
+   1 citations
 
-7. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
-   0 citations
+7. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

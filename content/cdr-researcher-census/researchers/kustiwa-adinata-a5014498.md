@@ -1,7 +1,7 @@
 ---
 title: "Kustiwa Adinata"
-description: "Kustiwa Adinata is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.933513
+description: "Kustiwa Adinata is a Mid-career Soil Carbon researcher at Jambi University in ID. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.903807
 url: "/cdr-researcher-census/researchers/kustiwa-adinata-a5014498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Kustiwa Adinata",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kustiwa-adinata-a5014498/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Jambi University"
+  },
   "sameAs": "https://openalex.org/A5014498814"
 }
 </script>
 
 ## Profile
 
-**Kustiwa Adinata**
+**Kustiwa Adinata**  
+Jambi University · 🇮🇩 ID
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 213 |
+| Citations | 216 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Growing |
@@ -43,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Implementation of Regenerative Technologies for Sustainable and Net-Zero Rice Farming in Adapting to Climate Change in Indonesian Coastal Areas** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Implementation of Regenerative Technologies for Sustainable and Net-Zero Rice Farming in Adapting to Climate Change in Indonesian Coastal Areas** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Shaohua Feng"
-description: "Shaohua Feng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.338015
+description: "Shaohua Feng is a Mid-career Soil Carbon researcher at China Energy Engineering Corporation (China) in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.248445
 url: "/cdr-researcher-census/researchers/shaohua-feng-a5088193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shaohua-feng-a5088193/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "China Energy Engineering Corporation (China)"
   },
   "sameAs": "https://openalex.org/A5088193573"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shaohua Feng**  
-Chinese Academy of Sciences · 🇨🇳 CN
+China Energy Engineering Corporation (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 115 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 128 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

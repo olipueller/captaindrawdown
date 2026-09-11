@@ -1,7 +1,7 @@
 ---
 title: "Upeksha Caldera"
-description: "Upeksha Caldera is a Senior General CDR researcher at LUT School of Energy Systems in FI. With 37 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.126453
+description: "Upeksha Caldera is a Senior General CDR researcher at LUT School of Energy Systems in FI. With 37 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.075554
 url: "/cdr-researcher-census/researchers/upeksha-caldera-a5084866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 3,282 |
+| h-index | 27 |
+| Citations | 3,383 |
 | Publications | 37 |
 | CDR Focus | 10.8% |
 | Trajectory | Stable |
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    58 citations · Soil Carbon
 
 2. **Analysing the techno-economic impact of e-fuels and e-chemicals production for exports and carbon dioxide removal on the energy system of sunbelt countries – Case of Egypt** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
-   26 citations · DAC
+   31 citations · DAC
 
 4. **Costs and benefits of afforestation with renewable electricity-based desalination: Case study for Egypt** (2025)
    5 citations · General CDR

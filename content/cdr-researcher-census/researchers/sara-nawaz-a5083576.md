@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
-description: "Sara Nawaz is a Mid-career General CDR researcher at University of British Columbia in CA. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.641896
+description: "Sara Nawaz is a Mid-career General CDR researcher at Physicians Committee for Responsible Medicine in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.567090
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sara-nawaz-a5083576/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of British Columbia"
+    "name": "Physicians Committee for Responsible Medicine"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4337-1453",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sara Nawaz**  
-University of British Columbia · 🇨🇦 CA
+Physicians Committee for Responsible Medicine · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,40 +42,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 372 |
-| Publications | 34 |
-| CDR Focus | 52.9% |
-| Trajectory | Declining |
+| h-index | 13 |
+| Citations | 403 |
+| Publications | 36 |
+| CDR Focus | 55.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   57 citations · General CDR
+   58 citations · General CDR
 
 2. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   54 citations · General CDR
+   55 citations · General CDR
 
 3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   35 citations · General CDR
+   38 citations · General CDR
 
 4. **Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal** (2024)
+   20 citations · General CDR
+
+5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
    19 citations · General CDR
 
-5. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
+6. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
    19 citations · DAC
-
-6. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
-   18 citations · General CDR
 
 7. **Carbon removal for a just transition** (2024)
    17 citations · General CDR
 
 8. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 9. **Upscaling DAC Hubs with Wind Energy and CO<sub>2</sub> Mineral Storage: Considerations for Large-Scale Carbon Removal from the Atmosphere** (2023)
-   15 citations · DAC
+   16 citations · DAC
 
 10. **Community perspectives on marine carbon dioxide removal and ocean alkalinity enhancement: A future scenario approach** (2025)
    9 citations · General CDR

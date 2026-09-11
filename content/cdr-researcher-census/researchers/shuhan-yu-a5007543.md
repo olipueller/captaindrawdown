@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Yu"
 description: "Shuhan Yu is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.956243
+date: 2026-09-11T02:38:29.897100
 url: "/cdr-researcher-census/researchers/shuhan-yu-a5007543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 212 |
+| Citations | 218 |
 | Publications | 12 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The composition, energy, and carbon stability characteristics of biochars derived from thermo-conversion of biomass in air-limitation, CO2, and N2 at different temperatures** (2022)
-   39 citations · Biochar
+   40 citations · Biochar
 
-2. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
+2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
+   7 citations · Soil Carbon
+
+3. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
    6 citations · Soil Carbon
 
-3. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   4 citations · Soil Carbon
-
 4. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

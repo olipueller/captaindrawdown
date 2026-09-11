@@ -1,7 +1,7 @@
 ---
 title: "Yiannis Moustakis"
-description: "Yiannis Moustakis is a Mid-career General CDR researcher at NIHR Imperial Biomedical Research Centre in GB. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704433
+description: "Yiannis Moustakis is a Mid-career General CDR researcher at NIHR Imperial Biomedical Research Centre in GB. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.653560
 url: "/cdr-researcher-census/researchers/yiannis-moustakis-a5054754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 327 |
-| Publications | 32 |
-| CDR Focus | 37.5% |
+| Citations | 339 |
+| Publications | 33 |
+| CDR Focus | 36.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

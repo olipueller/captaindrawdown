@@ -1,7 +1,7 @@
 ---
 title: "Rian Visser"
-description: "Rian Visser is a Senior Biochar researcher at Nuclear Research and Consultancy Group in NL. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.091730
+description: "Rian Visser is a Senior Biochar researcher at Nuclear Research and Consultancy Group in NL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.055408
 url: "/cdr-researcher-census/researchers/rian-visser-a5009016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 170 |
+| h-index | 6 |
+| Citations | 174 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

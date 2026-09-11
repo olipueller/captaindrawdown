@@ -1,7 +1,7 @@
 ---
 title: "Marco Marchese"
 description: "Marco Marchese is a Mid-career DAC researcher at Politecnico di Torino in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.726372
+date: 2026-09-11T02:38:29.679278
 url: "/cdr-researcher-census/researchers/marco-marchese-a5020512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 312 |
+| Citations | 320 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **CO2 from direct air capture as carbon feedstock for Fischer-Tropsch chemicals and fuels: Energy and economic analysis** (2021)
-   120 citations · DAC
+   121 citations · DAC
 
 ## External Profiles
 

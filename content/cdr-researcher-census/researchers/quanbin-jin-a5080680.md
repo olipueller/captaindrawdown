@@ -1,7 +1,7 @@
 ---
 title: "Quanbin Jin"
 description: "Quanbin Jin is a Mid-career Biochar researcher at Southeast University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399151
+date: 2026-09-11T02:38:30.343451
 url: "/cdr-researcher-census/researchers/quanbin-jin-a5080680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 104 |
+| Citations | 109 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

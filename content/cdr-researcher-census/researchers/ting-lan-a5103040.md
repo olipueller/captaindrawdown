@@ -1,7 +1,7 @@
 ---
 title: "Ting Lan"
-description: "Ting Lan is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.324583
+description: "Ting Lan is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 44 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.273711
 url: "/cdr-researcher-census/researchers/ting-lan-a5103040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 893 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| Citations | 919 |
+| Publications | 44 |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil labile organic carbon impacts C:N:P stoichiometry in urban park green spaces depending on vegetation types and time after planting** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Soil carbon sequestration, climate change mitigation, nitrogen pollution and agro-food supply: navigating trade-offs in future cropland management strategies** (2025)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Elisa Bruni"
-description: "Elisa Bruni is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 55 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.357989
+description: "Elisa Bruni is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.301047
 url: "/cdr-researcher-census/researchers/elisa-bruni-a5090196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 793 |
-| Publications | 55 |
-| CDR Focus | 7.3% |
+| h-index | 10 |
+| Citations | 831 |
+| Publications | 57 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,25 +59,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Reduced microbial respiration sensitivity to soil moisture following long-term N fertilization enhances soil C retention in a boreal Scots pine forest** (2024)
    2 citations · Soil Carbon
 
-4. **Simulation of decadal variations in soil organic carbon stocks in French forests** (2026)
-   0 citations · Soil Carbon
-
-5. **Adoption of carbon farming schemes: risk matters** (2026)
+4. **Soil organism body size as an integrative trait to understand soil functioning and resilience** (2026)
    0 citations
+
+5. **Simulation of decadal variations in soil organic carbon stocks in French forests** (2026)
+   0 citations · Soil Carbon
 
 6. **Adoption of carbon farming schemes: risk matters** (2026)
    0 citations
 
 7. **Adoption of carbon farming schemes: risk matters** (2026)
+   0 citations
+
+8. **Adoption of carbon farming schemes: risk matters** (2026)
    0 citations · General CDR
 
-8. **Reply on RC4** (2021)
+9. **Reply on RC4** (2021)
    0 citations · General CDR
 
-9. **Reply on RC2** (2021)
-   0 citations · General CDR
-
-10. **Comment on bg-2020-489** (2021)
+10. **Reply on RC2** (2021)
    0 citations · General CDR
 
 ## External Profiles

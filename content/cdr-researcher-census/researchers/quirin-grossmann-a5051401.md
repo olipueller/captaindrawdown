@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann is a Mid-career DAC researcher at ETH Zurich in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.914921
+date: 2026-09-11T02:38:29.835213
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 220 |
+| Citations | 242 |
 | Publications | 11 |
 | CDR Focus | 36.4% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **On Comparing Packed Beds and Monoliths for CO<sub>2</sub> Capture from Air Through Experiments, Theory, and Modeling** (2024)
-   56 citations
+   62 citations
 
 2. **Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths** (2023)
-   56 citations · DAC
+   58 citations · DAC
 
 3. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   22 citations
+   26 citations
 
 4. **Mass Transfer of CO<sub>2</sub> in Amine-Functionalized Structured Contactors in Ultra-Dilute Conditions** (2025)
-   21 citations
+   22 citations
 
 5. **Molecular to Process Scale: A Review of Holistic Direct Air Capture Contactor Design** (2021)
    1 citations

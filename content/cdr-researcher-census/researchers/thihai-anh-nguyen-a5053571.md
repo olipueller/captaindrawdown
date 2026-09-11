@@ -1,7 +1,7 @@
 ---
 title: "Thi‐Hai Anh Nguyen"
 description: "Thi‐Hai Anh Nguyen is a Mid-career Biochar researcher at University of Ulsan in KR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.281841
+date: 2026-09-11T02:38:30.251180
 url: "/cdr-researcher-census/researchers/thihai-anh-nguyen-a5053571/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 125 |
+| Citations | 127 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ozonation of phenol in the presence of biochar and carbonaceous materials: The effect of surface functional groups and graphitic structure on the formation of reactive oxygen species** (2022)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

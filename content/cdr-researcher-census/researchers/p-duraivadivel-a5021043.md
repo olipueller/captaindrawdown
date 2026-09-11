@@ -1,7 +1,7 @@
 ---
 title: "P. Duraivadivel"
 description: "P. Duraivadivel is a Mid-career Soil Carbon researcher at Noida International University in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.757025
+date: 2026-09-11T02:38:29.716966
 url: "/cdr-researcher-census/researchers/p-duraivadivel-a5021043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 295 |
+| Citations | 300 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

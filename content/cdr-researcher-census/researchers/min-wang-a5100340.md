@@ -1,7 +1,7 @@
 ---
 title: "Min Wang"
-description: "Min Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.845594
+description: "Min Wang is a Mid-career Soil Carbon researcher at Institute of Subtropical Agriculture in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.766284
 url: "/cdr-researcher-census/researchers/min-wang-a5100340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/min-wang-a5100340/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Subtropical Agriculture"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3645-7315",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Min Wang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Subtropical Agriculture · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 249 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 7 |
+| Citations | 275 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

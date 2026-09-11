@@ -1,7 +1,7 @@
 ---
 title: "Kylie Maguire"
-description: "Kylie Maguire is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.904148
+description: "Kylie Maguire is a Mid-career Ocean CDR researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.854008
 url: "/cdr-researcher-census/researchers/kylie-maguire-a5038378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Kylie Maguire",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kylie-maguire-a5038378/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "CSIRO Oceans and Atmosphere"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-5373-0531",
     "https://openalex.org/A5038378922"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Kylie Maguire**  
-CSIRO Oceans and Atmosphere · 🇦🇺 AU
+**Kylie Maguire**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 224 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 234 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Harshil Thakkar"
-description: "Harshil Thakkar is an Early-career Biochar researcher at Maharaja Sayajirao University of Baroda in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.416531
+description: "Harshil Thakkar is an Early-career Biochar researcher at Maharaja Sayajirao University of Baroda in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.354151
 url: "/cdr-researcher-census/researchers/harshil-thakkar-a5022261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 101 |
+| h-index | 4 |
+| Citations | 107 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Repurposing the domestic organic waste into green emissive carbon dots and carbonized adsorbent: A sustainable zero waste process for metal sensing and dye sequestration** (2021)
-   70 citations · Biochar
+   72 citations · Biochar
 
 ## External Profiles
 

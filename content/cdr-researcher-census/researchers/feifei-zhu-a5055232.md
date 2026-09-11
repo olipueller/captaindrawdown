@@ -1,7 +1,7 @@
 ---
 title: "Feifei Zhu"
-description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Rice Research Institute in CN. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.212903
+description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Rice Research Institute in CN. With 57 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.160220
 url: "/cdr-researcher-census/researchers/feifei-zhu-a5055232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,545 |
-| Publications | 59 |
-| CDR Focus | 11.9% |
+| Citations | 1,600 |
+| Publications | 57 |
+| CDR Focus | 12.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   73 citations
+   77 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
    14 citations · Enhanced Weathering
@@ -65,13 +65,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering
 
-6. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
+6. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
+   1 citations · Enhanced Weathering
+
+7. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
    1 citations · Soil Carbon
 
-7. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
+8. **Effects of wollastonite application doses on rice yield and soil carbon sequestration** (2026)
    0 citations · Enhanced Weathering
 
-8. **[Effect of enhanced silicate minerals weathering on carbon sequestration by plant-soil systems in rice fields].** (2024)
+9. **[Effect of enhanced silicate minerals weathering on carbon sequestration by plant-soil systems in rice fields].** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

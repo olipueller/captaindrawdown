@@ -1,7 +1,7 @@
 ---
 title: "Jianzhao Wu"
-description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 69 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.094582
+description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 71 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.045221
 url: "/cdr-researcher-census/researchers/jianzhao-wu-a5046217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 5,384 |
-| Publications | 69 |
-| CDR Focus | 14.5% |
+| Citations | 5,520 |
+| Publications | 71 |
+| CDR Focus | 15.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   224 citations · General CDR
+   232 citations · General CDR
 
-2. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   77 citations · Soil Carbon
+2. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   83 citations · Soil Carbon
 
-3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   76 citations · Soil Carbon
+3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   81 citations · Soil Carbon
 
 4. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 5. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   67 citations
+   68 citations
 
 6. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 7. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 8. **Patterns and controlling factors of soil microbial necromass carbon in global ecosystems** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 9. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
-   5 citations
+   6 citations
 
 10. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

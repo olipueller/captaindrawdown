@@ -1,7 +1,7 @@
 ---
 title: "Charu Kalra"
 description: "Charu Kalra is a Mid-career General CDR researcher at University of Delhi in IN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.886648
+date: 2026-09-11T02:38:29.845214
 url: "/cdr-researcher-census/researchers/charu-kalra-a5086493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 231 |
+| Citations | 238 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Enhancements to soil - health, soil carbon sequestration, and climate change mitigation are possible through agroforestry** (2025)
-   0 citations · General CDR
+1. **Analyzing Strategies for Climate Resilience: An ISM MICMAC Approach with a Focus on Sustainable Development** (2024)
+   1 citations · General CDR
 
-2. **Analyzing Strategies for Climate Resilience: An ISM MICMAC Approach with a Focus on Sustainable Development** (2024)
+2. **Enhancements to soil - health, soil carbon sequestration, and climate change mitigation are possible through agroforestry** (2025)
    0 citations · General CDR
 
 ## External Profiles

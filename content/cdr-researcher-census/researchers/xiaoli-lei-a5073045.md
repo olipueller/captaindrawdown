@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Lei"
 description: "Xiaoli Lei is a Senior Biochar researcher at Changchun Observatory in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.837221
+date: 2026-09-11T02:38:29.798931
 url: "/cdr-researcher-census/researchers/xiaoli-lei-a5073045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 253 |
+| Citations | 259 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

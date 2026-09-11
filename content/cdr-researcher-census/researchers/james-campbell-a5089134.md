@@ -1,7 +1,7 @@
 ---
 title: "James Campbell"
 description: "James Campbell is a Senior General CDR researcher. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.425415
+date: 2026-09-11T02:38:29.369337
 url: "/cdr-researcher-census/researchers/james-campbell-a5089134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,24 +38,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 635 |
+| Citations | 665 |
 | Publications | 59 |
-| CDR Focus | 23.7% |
+| CDR Focus | 28.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   106 citations · General CDR
+   113 citations · General CDR
 
 2. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
-   95 citations · Enhanced Weathering
+   100 citations · Enhanced Weathering
 
 3. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   66 citations · DAC
+   69 citations · DAC
 
 4. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   53 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 5. **The role of soils in the regulation of ocean acidification** (2021)
    35 citations · Enhanced Weathering
@@ -72,8 +72,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Enhanced Weathering of Olivine in Rivers for Carbon Dioxide Removal** (2023)
    1 citations · Enhanced Weathering
 
-10. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+10. **Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Luciana Ruggiero Bachega"
 description: "Luciana Ruggiero Bachega is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.716963
+date: 2026-09-11T02:38:29.661431
 url: "/cdr-researcher-census/researchers/luciana-ruggiero-bachega-a5048764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 318 |
+| Citations | 333 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Litter quality, mycorrhizal association, and soil properties regulate effects of tree species on the soil fauna community** (2021)
-   75 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 ## External Profiles
 

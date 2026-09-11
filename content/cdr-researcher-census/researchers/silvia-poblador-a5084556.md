@@ -1,7 +1,7 @@
 ---
 title: "Sílvia Poblador"
-description: "Sílvia Poblador is a Mid-career Enhanced Weathering researcher at Global Ecology Unit CREAF-CSIC-UAB in ES. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.368668
+description: "Sílvia Poblador is a Mid-career Enhanced Weathering researcher at Global Ecology Unit CREAF-CSIC-UAB in ES. With 74 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.320534
 url: "/cdr-researcher-census/researchers/silvia-poblador-a5084556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 762 |
-| Publications | 64 |
-| CDR Focus | 15.6% |
+| Citations | 781 |
+| Publications | 74 |
+| CDR Focus | 10.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 2. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   123 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 3. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
    24 citations · Enhanced Weathering

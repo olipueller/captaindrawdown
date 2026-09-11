@@ -1,7 +1,7 @@
 ---
 title: "Antonio M. Cachinero-Vivar"
 description: "Antonio M. Cachinero-Vivar is a Mid-career Soil Carbon researcher at Instituto Andaluz de Ciencias de la Tierra in ES. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.332284
+date: 2026-09-11T02:38:30.242896
 url: "/cdr-researcher-census/researchers/antonio-m-cachinero-vivar-a5029663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 116 |
+| Citations | 129 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Carbon Sequestration in Pine Forests under Different Silvicultural and Climatic Regimes in Spain** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Carbon Sequestration in Carob (Ceratonia siliqua L.) Plantations under the EU Afforestation Program in Southern Spain Using Low-Density Aerial Laser Scanning (ALS) Data** (2022)
-   13 citations
+   14 citations
 
 3. **Thinning Effect of C Sequestration along an Elevation Gradient of Mediterranean Pinus spp. Plantations** (2021)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

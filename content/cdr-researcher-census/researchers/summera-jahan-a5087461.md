@@ -1,7 +1,7 @@
 ---
 title: "Summera Jahan"
-description: "Summera Jahan is a Mid-career Biochar researcher at University of the Punjab in PK. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.089425
+description: "Summera Jahan is a Mid-career Biochar researcher at University of the Punjab in PK. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.969141
 url: "/cdr-researcher-census/researchers/summera-jahan-a5087461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 170 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 9 |
+| Citations | 199 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimizing soil health through activated acacia biochar under varying irrigation regimes and cultivars for sustainable wheat cultivation** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Interactive effects of acacia biochar, maize hybrids, and irrigation levels on soil health and crop productivity** (2025)
    2 citations · Biochar

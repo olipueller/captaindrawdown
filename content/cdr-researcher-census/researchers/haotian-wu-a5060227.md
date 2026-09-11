@@ -1,7 +1,7 @@
 ---
 title: "Haotian Wu"
-description: "Haotian Wu is a Mid-career Biochar researcher at Shanghai Ocean University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.605261
+description: "Haotian Wu is a Mid-career Biochar researcher at Shanghai Ocean University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.537049
 url: "/cdr-researcher-census/researchers/haotian-wu-a5060227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 402 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 11 |
+| Citations | 432 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Activating soil nitrification by co-application of peanut straw biochar and organic fertilizer in a rare earth mining soil** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

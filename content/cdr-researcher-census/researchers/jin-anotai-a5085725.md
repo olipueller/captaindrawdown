@@ -1,7 +1,7 @@
 ---
 title: "Jin Anotai"
 description: "Jin Anotai is a Mid-career Biochar researcher at National Chung Hsing University in TW. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.074952
+date: 2026-09-11T02:38:30.048307
 url: "/cdr-researcher-census/researchers/jin-anotai-a5085725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 174 |
+| Citations | 175 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Systematic optimization of biochars derived from corn wastes, pineapple leaf, and sugarcane bagasse for Cu(II) adsorption through response surface methodology** (2023)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Systematic Optimization of Agricultural Wastes Derived Biochars for Cu(Ii) Adsorption Through Response Surface Methodology** (2023)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "J. Beula Isabel"
-description: "J. Beula Isabel is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.468052
+description: "J. Beula Isabel is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.406326
 url: "/cdr-researcher-census/researchers/j-beula-isabel-a5112265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 564 |
+| h-index | 7 |
+| Citations | 598 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Role of biochar as a greener catalyst in biofuel production: Production, activation, and potential utilization – A review** (2024)
-   53 citations · Biochar
+   54 citations · Biochar
 
 ## External Profiles
 

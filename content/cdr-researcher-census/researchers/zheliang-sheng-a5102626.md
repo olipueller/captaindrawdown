@@ -1,7 +1,7 @@
 ---
 title: "Zheliang Sheng"
 description: "Zheliang Sheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.815019
+date: 2026-09-11T02:38:29.766943
 url: "/cdr-researcher-census/researchers/zheliang-sheng-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 265 |
+| Citations | 275 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial assemblies with distinct trophic strategies drive changes in soil microbial carbon use efficiency along vegetation primary succession in a glacier retreat area of the southeastern Tibetan Plateau** (2023)
-   69 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Increased microbial carbon use efficiency and turnover rate drive soil organic carbon storage in old-aged forest on the southeastern Tibetan Plateau** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Microbial assemblies with distinct trophic strategies drive changes in soil microbial carbon use efficiency along vegetation primary succession in a glacier retreat area of the southeastern Tibetan Plateau** (2024)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Xie"
 description: "Jiayi Xie is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.158384
+date: 2026-09-11T02:38:30.029083
 url: "/cdr-researcher-census/researchers/jiayi-xie-a5108145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 152 |
+| Citations | 181 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influences of vegetation distribution on soil organic carbon accumulation and stability in a coastal wetland, Southeast China** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Impact of Coastal Beach Reclamation on Seasonal Greenhouse Gas Emissions: A Study of Diversified Saline–Alkaline Land Use Patterns** (2025)
    2 citations

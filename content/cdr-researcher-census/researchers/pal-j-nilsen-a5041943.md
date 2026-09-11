@@ -1,7 +1,7 @@
 ---
 title: "Pål J. Nilsen"
-description: "Pål J. Nilsen is a Senior Biochar researcher. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.455126
+description: "Pål J. Nilsen is a Senior Biochar researcher. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.411708
 url: "/cdr-researcher-census/researchers/pal-j-nilsen-a5041943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 583 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 590 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

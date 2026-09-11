@@ -1,7 +1,7 @@
 ---
 title: "Yifan He"
-description: "Yifan He is a Mid-career Biochar researcher at University of International Business and Economics in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.121228
+description: "Yifan He is a Mid-career Biochar researcher at Tongji University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.008077
 url: "/cdr-researcher-census/researchers/yifan-he-a5085038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yifan-he-a5085038/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of International Business and Economics"
+    "name": "Tongji University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3781-3588",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yifan He**  
-University of International Business and Economics · 🇨🇳 CN
+Tongji University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 162 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 7 |
+| Citations | 188 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

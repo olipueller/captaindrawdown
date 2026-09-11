@@ -1,7 +1,7 @@
 ---
 title: "Zhaoliang Song"
-description: "Zhaoliang Song is an Eminent Soil Carbon researcher at Tianjin University in CN. With 223 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.075160
+description: "Zhaoliang Song is an Eminent Soil Carbon researcher at Tianjin University in CN. With 225 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.027525
 url: "/cdr-researcher-census/researchers/zhaoliang-song-a5087826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,39 +43,39 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 53 |
-| Citations | 9,423 |
-| Publications | 223 |
-| CDR Focus | 14.3% |
+| Citations | 9,657 |
+| Publications | 225 |
+| CDR Focus | 14.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
    137 citations · Soil Carbon
 
 3. **Silicon (Si) modification of biochars from different Si-bearing precursors improves cadmium remediation** (2022)
-   87 citations · Biochar
+   88 citations · Biochar
 
 4. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 5. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   57 citations · Ocean CDR
+   58 citations · Ocean CDR
 
-6. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+6. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
    57 citations · Soil Carbon
 
-7. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+7. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+   57 citations · Soil Carbon
 
 8. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
    55 citations · Soil Carbon
 
 9. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 10. **Silicon in paddy fields: Benefits for rice production and the potential of rice phytoliths for biogeochemical carbon sequestration** (2024)
    31 citations · General CDR

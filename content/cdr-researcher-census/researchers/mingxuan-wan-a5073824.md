@@ -1,7 +1,7 @@
 ---
 title: "Mingxuan Wan"
-description: "Mingxuan Wan is a Mid-career General CDR researcher at Pennsylvania State University in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.191777
+description: "Mingxuan Wan is a Mid-career General CDR researcher at Pennsylvania State University in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.155082
 url: "/cdr-researcher-census/researchers/mingxuan-wan-a5073824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 144 |
+| h-index | 3 |
+| Citations | 147 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

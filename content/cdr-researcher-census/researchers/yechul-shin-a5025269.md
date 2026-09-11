@@ -1,7 +1,7 @@
 ---
 title: "Yechul Shin"
-description: "Yechul Shin is a Mid-career General CDR researcher at Seoul National University in KR. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.489329
+description: "Yechul Shin is a Mid-career General CDR researcher at Seoul National University in KR. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.436600
 url: "/cdr-researcher-census/researchers/yechul-shin-a5025269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 531 |
-| Publications | 55 |
-| CDR Focus | 5.5% |
+| Citations | 552 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -56,16 +56,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
    1 citations · General CDR
 
-3. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
+3. **Enhanced carbon loss in the Southern Ocean under mitigation scenarios** (2026)
    0 citations
 
-4. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+4. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
    0 citations
 
 5. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+   0 citations
+
+6. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
    0 citations · General CDR
 
-6. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
+7. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

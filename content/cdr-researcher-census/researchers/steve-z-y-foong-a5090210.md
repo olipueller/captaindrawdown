@@ -1,7 +1,7 @@
 ---
 title: "Steve Z. Y. Foong"
 description: "Steve Z. Y. Foong is a Mid-career BECCS researcher at University of Nottingham Malaysia Campus in MY. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.828858
+date: 2026-09-11T02:38:29.796595
 url: "/cdr-researcher-census/researchers/steve-z-y-foong-a5090210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 257 |
+| Citations | 260 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

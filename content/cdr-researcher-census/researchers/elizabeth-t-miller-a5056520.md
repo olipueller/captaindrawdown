@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth T. Miller"
-description: "Elizabeth T. Miller is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.236062
+description: "Elizabeth T. Miller is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.188103
 url: "/cdr-researcher-census/researchers/elizabeth-t-miller-a5056520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,359 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 1,370 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

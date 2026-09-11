@@ -1,7 +1,7 @@
 ---
 title: "Ginjo Gitima"
-description: "Ginjo Gitima is a Mid-career Soil Carbon researcher at Institute of Geography in KZ. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188954
+description: "Ginjo Gitima is a Mid-career Soil Carbon researcher at Bond University in AU. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.132451
 url: "/cdr-researcher-census/researchers/ginjo-gitima-a5020198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ginjo-gitima-a5020198/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Geography"
+    "name": "Bond University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9438-3625",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ginjo Gitima**  
-Institute of Geography · 🇰🇿 KZ
+Bond University · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| Citations | 153 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

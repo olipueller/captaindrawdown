@@ -1,7 +1,7 @@
 ---
 title: "Shoulong Liu"
-description: "Shoulong Liu is a Senior Soil Carbon researcher at Ludong University in CN. With 70 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.111905
+description: "Shoulong Liu is a Senior Soil Carbon researcher at Ludong University in CN. With 72 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.061606
 url: "/cdr-researcher-census/researchers/shoulong-liu-a5007119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 34 |
-| Citations | 3,988 |
-| Publications | 70 |
-| CDR Focus | 5.7% |
+| h-index | 35 |
+| Citations | 4,087 |
+| Publications | 72 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Stoichiometric regulation of priming effects and soil carbon balance by microbial life strategies** (2022)
-   216 citations · Soil Carbon
+   222 citations · Soil Carbon
 
 2. **Granulated organic amendment enhances recalcitrant carbon accumulation through soil aggregation in a barren paddy field** (2025)
    1 citations · Soil Carbon

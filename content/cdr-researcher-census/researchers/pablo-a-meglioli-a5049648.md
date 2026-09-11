@@ -1,7 +1,7 @@
 ---
 title: "Pablo A. Meglioli"
-description: "Pablo A. Meglioli is a Mid-career Soil Carbon researcher at Universidad Nacional de Cuyo in AR. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.069959
+description: "Pablo A. Meglioli is a Mid-career Soil Carbon researcher at Universidad Nacional de Cuyo in AR. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.993518
 url: "/cdr-researcher-census/researchers/pablo-a-meglioli-a5049648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 176 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 192 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

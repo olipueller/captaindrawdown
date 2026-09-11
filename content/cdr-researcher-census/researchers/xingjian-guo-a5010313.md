@@ -1,7 +1,7 @@
 ---
 title: "Xingjian Guo"
-description: "Xingjian Guo is a Mid-career Soil Carbon researcher at Northwest University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.965893
+description: "Xingjian Guo is a Mid-career Soil Carbon researcher at Northwest University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.904881
 url: "/cdr-researcher-census/researchers/xingjian-guo-a5010313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 209 |
+| h-index | 9 |
+| Citations | 216 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

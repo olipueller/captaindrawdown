@@ -1,7 +1,7 @@
 ---
 title: "Hafedh Rigane"
 description: "Hafedh Rigane is a Senior Soil Carbon researcher at University of Sfax in TN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.676214
+date: 2026-09-11T02:38:29.628978
 url: "/cdr-researcher-census/researchers/hafedh-rigane-a5074096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 347 |
+| Citations | 356 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

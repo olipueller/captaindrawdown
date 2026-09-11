@@ -1,7 +1,7 @@
 ---
 title: "Salome Yakubu"
 description: "Salome Yakubu is a Mid-career Biochar researcher at Henan University of Technology in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.310850
+date: 2026-09-11T02:38:29.262449
 url: "/cdr-researcher-census/researchers/salome-yakubu-a5003683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 952 |
+| Citations | 968 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based composites for remediation of polluted wastewater and soil environments: Challenges and prospects** (2022)
-   142 citations · Biochar
+   144 citations · Biochar
 
 ## External Profiles
 

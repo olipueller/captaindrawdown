@@ -1,7 +1,7 @@
 ---
 title: "Mouna Mrad"
 description: "Mouna Mrad is a Senior Ocean CDR researcher at Centre de Recherches et des Technologies des Eaux in TN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.918902
+date: 2026-09-11T02:38:29.879506
 url: "/cdr-researcher-census/researchers/mouna-mrad-a5032535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 219 |
+| Citations | 225 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **MXenes–TiO₂ hybrid via electrochemical synthesis: A photoelectrocatalyst for hydrocarbon degradation in marine environments** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

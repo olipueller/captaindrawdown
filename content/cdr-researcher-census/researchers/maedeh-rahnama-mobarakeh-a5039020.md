@@ -1,7 +1,7 @@
 ---
 title: "Maedeh Rahnama Mobarakeh"
 description: "Maedeh Rahnama Mobarakeh is an Early-career General CDR researcher at Montanuniversität Leoben in AT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.362746
+date: 2026-09-11T02:38:30.317812
 url: "/cdr-researcher-census/researchers/maedeh-rahnama-mobarakeh-a5039020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 110 |
+| Citations | 114 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

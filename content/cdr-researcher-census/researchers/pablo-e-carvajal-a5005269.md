@@ -1,7 +1,7 @@
 ---
 title: "Pablo E. Carvajal"
 description: "Pablo E. Carvajal is a Mid-career General CDR researcher at East Carolina University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.503818
+date: 2026-09-11T02:38:29.459782
 url: "/cdr-researcher-census/researchers/pablo-e-carvajal-a5005269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 509 |
+| Citations | 514 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

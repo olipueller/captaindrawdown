@@ -1,7 +1,7 @@
 ---
 title: "Anna Ebeling"
 description: "Anna Ebeling is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399652
+date: 2026-09-11T02:38:30.344168
 url: "/cdr-researcher-census/researchers/anna-ebeling-a5087401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 109 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

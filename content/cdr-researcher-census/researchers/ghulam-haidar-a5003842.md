@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Haidar"
 description: "Ghulam Haidar is an Early-career Biochar researcher at University of Haripur in PK. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.277112
+date: 2026-09-11T02:38:30.208238
 url: "/cdr-researcher-census/researchers/ghulam-haidar-a5003842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
+| Citations | 135 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The impact of biochar on the activities of soil nutrients acquisition enzymes is potentially controlled by the pyrolysis temperature: A meta-analysis** (2022)
-   99 citations · Biochar
+   106 citations · Biochar
 
 ## External Profiles
 

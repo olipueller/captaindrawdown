@@ -1,7 +1,7 @@
 ---
 title: "Junnan Jian"
 description: "Junnan Jian is an Early-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.290605
+date: 2026-09-11T02:38:30.248905
 url: "/cdr-researcher-census/researchers/junnan-jian-a5042286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 124 |
+| Citations | 128 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

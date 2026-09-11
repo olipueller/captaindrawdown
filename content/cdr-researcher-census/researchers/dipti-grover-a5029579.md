@@ -1,7 +1,7 @@
 ---
 title: "Dipti Grover"
-description: "Dipti Grover is a Mid-career Soil Carbon researcher at Kurukshetra University in IN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.196118
+description: "Dipti Grover is a Mid-career Soil Carbon researcher at Kurukshetra University in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.139442
 url: "/cdr-researcher-census/researchers/dipti-grover-a5029579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 143 |
-| Publications | 19 |
-| CDR Focus | 21.1% |
+| Citations | 151 |
+| Publications | 21 |
+| CDR Focus | 19.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · General CDR
 
 2. **Carbon Sequestration Potential in Agricultural Systems** (2022)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **SOIL HEALTH FOR SUSTAINABLE AGRICULTURE** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 4. **Soil Microbial Dynamics across Conventional, Organic, and Natural Farming Systems in a Rice-Wheat Agroecosystem of the Indo-Gangetic Plains** (2026)
    0 citations

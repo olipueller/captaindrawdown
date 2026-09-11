@@ -1,7 +1,7 @@
 ---
 title: "Niels Suitner"
-description: "Niels Suitner is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.866901
+description: "Niels Suitner is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 32 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.802568
 url: "/cdr-researcher-census/researchers/niels-suitner-a5035414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 239 |
-| Publications | 27 |
-| CDR Focus | 48.1% |
-| Trajectory | Stable |
+| Citations | 257 |
+| Publications | 32 |
+| CDR Focus | 37.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   150 citations · General CDR
+   154 citations · General CDR
 
 2. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   31 citations · General CDR
+   36 citations · General CDR
 
 3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
 4. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 5. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
    8 citations · General CDR
@@ -78,7 +78,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · Enhanced Weathering
 
 10. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
-   2 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 ## External Profiles
 

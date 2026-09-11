@@ -1,7 +1,7 @@
 ---
 title: "Despina Magiri-Skouloudi"
 description: "Despina Magiri-Skouloudi is a Mid-career BECCS researcher at National Technical University of Athens in GR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.122298
+date: 2026-09-11T02:38:30.084081
 url: "/cdr-researcher-census/researchers/despina-magiri-skouloudi-a5005670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 161 |
+| Citations | 165 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

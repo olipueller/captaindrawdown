@@ -1,7 +1,7 @@
 ---
 title: "Muhammad M. Habib"
-description: "Muhammad M. Habib is a Mid-career Soil Carbon researcher at University of Abou Bekr Belkaïd in DZ. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.247590
+description: "Muhammad M. Habib is a Mid-career Soil Carbon researcher at University of Abou Bekr Belkaïd in DZ. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.196352
 url: "/cdr-researcher-census/researchers/muhammad-m-habib-a5086419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 138 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xianguo Ji"
-description: "Xianguo Ji is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.746889
+description: "Xianguo Ji is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.679704
 url: "/cdr-researcher-census/researchers/xianguo-ji-a5045240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 300 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 9 |
+| Citations | 320 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Activation of peroxymonosulfate by magnesium−modified biochar for the degradation of imidacloprid: Effectiveness and mechanisms** (2025)
-   7 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

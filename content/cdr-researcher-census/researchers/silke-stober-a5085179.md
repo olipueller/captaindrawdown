@@ -1,7 +1,7 @@
 ---
 title: "Silke Stöber"
-description: "Silke Stöber is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.497492
+description: "Silke Stöber is a Mid-career Soil Carbon researcher at Humboldt-Universität zu Berlin in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.446994
 url: "/cdr-researcher-census/researchers/silke-stober-a5085179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Silke St\u00f6ber",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/silke-stober-a5085179/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Humboldt-Universit\u00e4t zu Berlin"
+  },
   "sameAs": "https://openalex.org/A5085179282"
 }
 </script>
 
 ## Profile
 
-**Silke Stöber**
+**Silke Stöber**  
+Humboldt-Universität zu Berlin · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -35,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 519 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 535 |
+| Publications | 34 |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Implementation of Regenerative Technologies for Sustainable and Net-Zero Rice Farming in Adapting to Climate Change in Indonesian Coastal Areas** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Assessing compost-biochar synergy for boosting carbon sequestration and local katokkon chili agronomic performance for promoting low-emission, climate-adapted farming systems** (2026)
    0 citations · Biochar

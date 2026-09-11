@@ -1,7 +1,7 @@
 ---
 title: "Zhengxin Xie"
 description: "Zhengxin Xie is a Senior Biochar researcher at Anhui Agricultural University in CN. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.208557
+date: 2026-09-11T02:38:29.158322
 url: "/cdr-researcher-census/researchers/zhengxin-xie-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,582 |
+| Citations | 1,619 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous carbonization, activation, and magnetization for producing tea waste biochar and its application in tetracycline removal from the aquatic environment** (2021)
-   85 citations · Biochar
+   89 citations · Biochar
 
 2. **Enhanced adsorption performance of tetracycline in aqueous solutions by KOH-modified peanut shell-derived biochar** (2021)
    50 citations · Biochar

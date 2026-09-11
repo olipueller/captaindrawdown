@@ -1,7 +1,7 @@
 ---
 title: "Bianca J Maibauer"
 description: "Bianca J Maibauer is a Mid-career Soil Carbon researcher at University of Utah in US. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.779076
+date: 2026-09-11T02:38:29.738358
 url: "/cdr-researcher-census/researchers/bianca-j-maibauer-a5043022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 283 |
+| Citations | 289 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decreased soil carbon in a warming world: Degraded pyrogenic carbon during the Paleocene-Eocene Thermal Maximum, Bighorn Basin, Wyoming** (2021)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

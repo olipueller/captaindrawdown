@@ -1,7 +1,7 @@
 ---
 title: "Jialong Wu"
 description: "Jialong Wu is a Senior Biochar researcher at Shandong University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.585919
+date: 2026-09-11T02:38:29.516578
 url: "/cdr-researcher-census/researchers/jialong-wu-a5100560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 422 |
+| Citations | 452 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |

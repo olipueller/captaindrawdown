@@ -1,7 +1,7 @@
 ---
 title: "Michele Anatone"
 description: "Michele Anatone is a Senior BECCS researcher at University of L'Aquila in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.787497
+date: 2026-09-11T02:38:29.743102
 url: "/cdr-researcher-census/researchers/michele-anatone-a5008234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 279 |
+| Citations | 286 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Chemical Looping Combustion and Gasification: A Review and a Focus on European Research Projects** (2022)
-   81 citations · BECCS
+   82 citations · BECCS
 
 ## External Profiles
 

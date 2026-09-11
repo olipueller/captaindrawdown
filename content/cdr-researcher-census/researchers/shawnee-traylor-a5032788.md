@@ -1,7 +1,7 @@
 ---
 title: "Shawnee Traylor"
 description: "Shawnee Traylor is a Mid-career Ocean CDR researcher at Monterey Bay Aquarium Research Institute in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.159583
+date: 2026-09-11T02:38:30.129345
 url: "/cdr-researcher-census/researchers/shawnee-traylor-a5032788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 151 |
+| Citations | 153 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 13.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

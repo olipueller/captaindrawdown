@@ -1,7 +1,7 @@
 ---
 title: "Shouyi Ma"
-description: "Shouyi Ma is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.431666
+description: "Shouyi Ma is a Mid-career Biochar researcher at Heilongjiang Academy of Land Reclamation Sciences in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.433455
 url: "/cdr-researcher-census/researchers/shouyi-ma-a5004997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shouyi-ma-a5004997/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Agricultural University"
+    "name": "Heilongjiang Academy of Land Reclamation Sciences"
   },
   "sameAs": "https://openalex.org/A5004997322"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shouyi Ma**  
-Northeast Agricultural University · 🇨🇳 CN
+Heilongjiang Academy of Land Reclamation Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 624 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 8 |
+| Citations | 558 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **One-step self-assembly of Fe-biochar composite for enhanced persulfate activation to phenol degradation: Different active sites-induced radical/non-radical mechanism** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

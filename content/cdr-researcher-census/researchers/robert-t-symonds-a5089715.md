@@ -1,7 +1,7 @@
 ---
 title: "Robert T. Symonds"
 description: "Robert T. Symonds is a Senior General CDR researcher at CanmetEnergy Ottawa Research Centre in CA. With 45 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.307800
+date: 2026-09-11T02:38:29.261022
 url: "/cdr-researcher-census/researchers/robert-t-symonds-a5089715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 962 |
+| Citations | 975 |
 | Publications | 45 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

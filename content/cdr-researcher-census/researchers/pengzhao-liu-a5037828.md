@@ -1,7 +1,7 @@
 ---
 title: "Pengzhao Liu"
-description: "Pengzhao Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.538773
+description: "Pengzhao Liu is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.472254
 url: "/cdr-researcher-census/researchers/pengzhao-liu-a5037828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Pengzhao Liu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pengzhao-liu-a5037828/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Chinese Academy of Agricultural Sciences"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-3123-6556",
     "https://openalex.org/A5037828413"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Pengzhao Liu**  
-Chinese Academy of Agricultural Sciences · 🇨🇳 CN
+**Pengzhao Liu**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 467 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 499 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Manure substitution with appropriate N rate enhanced the soil quality, crop productivity and net ecosystem economic benefit: A sustainable rainfed wheat practice** (2023)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Change of tillage system affects the soil carbon pools characters, reduces carbon emissions and improves maize yield in the Loess Plateau** (2022)
    14 citations · Soil Carbon

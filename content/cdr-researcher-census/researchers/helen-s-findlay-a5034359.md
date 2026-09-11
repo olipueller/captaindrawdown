@@ -1,7 +1,7 @@
 ---
 title: "Helen S. Findlay"
 description: "Helen S. Findlay is a Senior Ocean CDR researcher at Plymouth Marine Laboratory in GB. With 124 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089560
+date: 2026-09-11T02:38:29.041105
 url: "/cdr-researcher-census/researchers/helen-s-findlay-a5034359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 34 |
-| Citations | 5,976 |
+| Citations | 6,071 |
 | Publications | 124 |
-| CDR Focus | 5.6% |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,14 +53,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 1. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    8 citations · General CDR
 
-2. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
+2. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
    5 citations · General CDR
 
-3. **Removal of dissolved inorganic carbon from seawater for climate mitigation: potential marine ecosystem impacts** (2025)
+3. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR
 
-4. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
-   4 citations · General CDR
+4. **Removal of dissolved inorganic carbon from seawater for climate mitigation: potential marine ecosystem impacts** (2025)
+   5 citations · General CDR
 
 5. **Three challenges to marine carbon dioxide removal** (2026)
    1 citations · General CDR

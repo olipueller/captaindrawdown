@@ -1,7 +1,7 @@
 ---
 title: "Nan Chen"
-description: "Nan Chen is a Mid-career Biochar researcher at University of Alabama in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975470
+description: "Nan Chen is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.911436
 url: "/cdr-researcher-census/researchers/nan-chen-a5107519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nan-chen-a5107519/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Alabama"
+    "name": "Anhui University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-6583-4239",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nan Chen**  
-University of Alabama · 🇺🇸 US
+Anhui University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 205 |
+| Citations | 213 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

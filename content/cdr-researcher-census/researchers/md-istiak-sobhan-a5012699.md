@@ -1,7 +1,7 @@
 ---
 title: "Md. Istiak Sobhan"
 description: "Md. Istiak Sobhan is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.197627
+date: 2026-09-11T02:38:30.149247
 url: "/cdr-researcher-census/researchers/md-istiak-sobhan-a5012699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 143 |
+| Citations | 149 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

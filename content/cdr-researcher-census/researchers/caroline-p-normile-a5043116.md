@@ -1,7 +1,7 @@
 ---
 title: "Caroline P. Normile"
 description: "Caroline P. Normile is a Senior General CDR researcher at Bipartisan Policy Center in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.698873
+date: 2026-09-11T02:38:29.660601
 url: "/cdr-researcher-census/researchers/caroline-p-normile-a5043116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 331 |
+| Citations | 333 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Informing Nature‐based Climate Solutions for the United States with the best‐available science** (2022)
-   100 citations · General CDR
+   101 citations · General CDR
 
 2. **Uncertainty drives carbon ambition, even as deployment potential still at some remove** (2021)
    2 citations · General CDR

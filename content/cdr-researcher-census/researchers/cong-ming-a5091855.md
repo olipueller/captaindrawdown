@@ -1,7 +1,7 @@
 ---
 title: "Cong Ming"
 description: "Cong Ming is a Mid-career Biochar researcher at University of Jinan in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.234918
+date: 2026-09-11T02:38:30.176070
 url: "/cdr-researcher-census/researchers/cong-ming-a5091855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 134 |
+| Citations | 142 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

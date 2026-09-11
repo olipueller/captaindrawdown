@@ -1,7 +1,7 @@
 ---
 title: "Uche Igwe"
 description: "Uche Igwe is a Mid-career General CDR researcher at University of Wyoming in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.395790
+date: 2026-09-11T02:38:30.326867
 url: "/cdr-researcher-census/researchers/uche-igwe-a5055889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
+| Citations | 113 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

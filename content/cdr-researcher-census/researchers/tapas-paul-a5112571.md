@@ -1,7 +1,7 @@
 ---
 title: "Tapas Paul"
 description: "Tapas Paul is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.285674
+date: 2026-09-11T02:38:30.227060
 url: "/cdr-researcher-census/researchers/tapas-paul-a5112571/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
+| Citations | 132 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Shanganyane Percy Hlangothi"
-description: "Shanganyane Percy Hlangothi is a Senior Biochar researcher at Nelson Mandela University in ZA. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.219346
+description: "Shanganyane Percy Hlangothi is a Senior Biochar researcher at Nelson Mandela University in ZA. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.163379
 url: "/cdr-researcher-census/researchers/shanganyane-percy-hlangothi-a5031209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,478 |
-| Publications | 71 |
-| CDR Focus | 5.6% |
+| Citations | 1,571 |
+| Publications | 70 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **The nexuses of micro(nano)plastics at environmental interfaces: Challenges in wastewater treatment and sustainable water management** (2025)
-   10 citations · Biochar
+   13 citations · Biochar
 
 3. **Biochar-reinforced biodegradable mulching films: Toward climate-resilient and sustainable agriculture** (2026)
    3 citations · Biochar

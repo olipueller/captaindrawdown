@@ -1,7 +1,7 @@
 ---
 title: "Brian Baer"
 description: "Brian Baer is a Senior Soil Carbon researcher at Michigan State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.383095
+date: 2026-09-11T02:38:30.345664
 url: "/cdr-researcher-census/researchers/brian-baer-a5063517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 107 |
+| Citations | 109 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A multi model ensemble reveals net climate benefits from regenerative practices in US Midwest croplands** (2025)
-   15 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rémi Rateau"
-description: "Rémi Rateau is a Mid-career Enhanced Weathering researcher at Trinity College Dublin in IE. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.810010
+description: "Rémi Rateau is a Mid-career Enhanced Weathering researcher at Trinity College Dublin in IE. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.767572
 url: "/cdr-researcher-census/researchers/remi-rateau-a5022372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 268 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 275 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

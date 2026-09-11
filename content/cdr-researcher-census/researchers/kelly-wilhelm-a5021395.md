@@ -1,7 +1,7 @@
 ---
 title: "Kelly Wilhelm"
 description: "Kelly Wilhelm is a Mid-career Soil Carbon researcher at University of Wisconsin–River Falls in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.781462
+date: 2026-09-11T02:38:29.747914
 url: "/cdr-researcher-census/researchers/kelly-wilhelm-a5021395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 282 |
+| Citations | 284 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

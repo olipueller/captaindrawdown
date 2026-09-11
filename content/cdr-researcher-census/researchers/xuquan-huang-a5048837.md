@@ -1,7 +1,7 @@
 ---
 title: "Xuquan Huang"
 description: "Xuquan Huang is a Mid-career Biochar researcher at China Three Gorges University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.016824
+date: 2026-09-11T02:38:29.975254
 url: "/cdr-researcher-census/researchers/xuquan-huang-a5048837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 192 |
+| Citations | 198 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

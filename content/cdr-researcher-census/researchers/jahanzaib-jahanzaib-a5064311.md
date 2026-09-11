@@ -1,7 +1,7 @@
 ---
 title: "Jahanzaib Jahanzaib"
 description: "Jahanzaib Jahanzaib is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.571717
+date: 2026-09-11T02:38:29.523180
 url: "/cdr-researcher-census/researchers/jahanzaib-jahanzaib-a5064311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 435 |
+| Citations | 445 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sang-Ho Jeon"
 description: "Sang-Ho Jeon is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 72 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.542255
+date: 2026-09-11T02:38:29.488619
 url: "/cdr-researcher-census/researchers/sang-ho-jeon-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 464 |
+| Citations | 481 |
 | Publications | 72 |
-| CDR Focus | 11.1% |
+| CDR Focus | 13.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 2. **Impact of silicate and lime application on soil fertility and temporal changes in soil properties and carbon stocks in a temperate ecosystem** (2023)
    30 citations · Enhanced Weathering
 
 3. **Mapping peat thickness and carbon stock of a degraded peatland in West Sumatra, Indonesia** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Soil management priorities in Korea** (2022)
    11 citations · Soil Carbon
@@ -68,13 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Determination of optimal mixing ratio of organic fertilizer and biochar derived from agricultural waste to increase crop growth and soil carbon sequestration** (2025)
    4 citations · Biochar
 
-7. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
+7. **Effect of Different Type of Organic Matter Application on Rice Yield and Soil Organic Carbon Stock in Paddy Soil** (2024)
+   3 citations · Soil Carbon
+
+8. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
    1 citations · Soil Carbon
 
-8. **Optimizing biochar use under different soil pH conditions for sustainable crop production and soil carbon sequestration** (2026)
+9. **Optimizing biochar use under different soil pH conditions for sustainable crop production and soil carbon sequestration** (2026)
    0 citations · Biochar
 
-9. **Effects of Food Waste-Mixed Pellet Compost on Soil Carbon Form and Growth of Kimchi Cabbage (Brassica rapa L.) in Upland Field** (2025)
+10. **Effects of Food Waste-Mixed Pellet Compost on Soil Carbon Form and Growth of Kimchi Cabbage (Brassica rapa L.) in Upland Field** (2025)
    0 citations · Biochar
 
 ## External Profiles

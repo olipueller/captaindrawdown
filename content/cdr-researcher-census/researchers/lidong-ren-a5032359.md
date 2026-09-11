@@ -1,7 +1,7 @@
 ---
 title: "Lidong Ren"
-description: "Lidong Ren is a Mid-career Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.632966
+description: "Lidong Ren is a Mid-career Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.576658
 url: "/cdr-researcher-census/researchers/lidong-ren-a5032359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 379 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| h-index | 12 |
+| Citations | 397 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

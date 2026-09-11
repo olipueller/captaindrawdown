@@ -1,7 +1,7 @@
 ---
 title: "Md Manik Mian"
 description: "Md Manik Mian is a Senior Biochar researcher at University of New Brunswick in CA. With 40 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.134351
+date: 2026-09-11T02:38:29.084522
 url: "/cdr-researcher-census/researchers/md-manik-mian-a5047942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,971 |
+| Citations | 3,062 |
 | Publications | 40 |
 | CDR Focus | 15.0% |
 | Trajectory | Exiting |
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sludge-based biochar adsorbent: pore tuning mechanisms, challenges, and role in carbon sequestration** (2023)
-   68 citations · Biochar
+   73 citations · Biochar
 
 2. **Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 3. **Bamboo-Derived Low-Cost Mesoporous Biochar for Efficient Removal of Per- and Polyfluoroalkyl Substances from Contaminated Water** (2024)
-   47 citations · Biochar
+   51 citations · Biochar
 
 4. **Synthesis of magnetic nZVI@biochar catalyst from acid precipitated black liquor and Fenton sludge and its application for Fenton-like removal of rhodamine B dye** (2022)
    47 citations · Biochar
 
 5. **Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 6. **Preparation of low-cost sludge-based highly porous biochar for efficient removal of refractory pollutants from agrochemical and pharmaceutical wastewater** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

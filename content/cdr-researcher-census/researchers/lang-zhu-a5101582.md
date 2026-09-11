@@ -1,7 +1,7 @@
 ---
 title: "Lang Zhu"
 description: "Lang Zhu is a Mid-career Biochar researcher at Suzhou Research Institute in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.906543
+date: 2026-09-11T02:38:29.860955
 url: "/cdr-researcher-census/researchers/lang-zhu-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 223 |
+| Citations | 231 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    46 citations · Biochar
 
 2. **Freeze–Thaw Cycle Events Enable the Deep Disintegration of Biochar: Release of Dissolved Black Carbon and Its Structural-Dependent Carbon Sequestration Capacity** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

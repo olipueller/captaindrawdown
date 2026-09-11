@@ -1,7 +1,7 @@
 ---
 title: "Juliana Hayden"
 description: "Juliana Hayden is a Senior Ocean CDR researcher at Universidade Federal de Santa Catarina in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931899
+date: 2026-09-11T02:38:29.898310
 url: "/cdr-researcher-census/researchers/juliana-hayden-a5109637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 214 |
+| Citations | 218 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

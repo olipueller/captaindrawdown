@@ -1,7 +1,7 @@
 ---
 title: "Changcheng Mu"
-description: "Changcheng Mu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 61 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602162
+description: "Changcheng Mu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 63 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.553385
 url: "/cdr-researcher-census/researchers/changcheng-mu-a5006966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 405 |
-| Publications | 61 |
-| CDR Focus | 8.2% |
+| Citations | 416 |
+| Publications | 63 |
+| CDR Focus | 7.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ecosystem carbon storage and sink/source of temperate forested wetlands in Xiaoxing’anling, northeast China** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Responses of seven wetlands carbon sources and sinks to permafrost degradation in Northeast China** (2022)
    8 citations · Soil Carbon
 
-3. **Effects of the Light-Felling Intensity on Hydrological Processes in a Korean Pine (Pinus koraiensis) Forest on Changbai Mountain in China** (2025)
-   1 citations
+3. **Variation and influencing factors of ecosystem carbon storage during succession in temperate secondary forest Northeast China** (2025)
+   1 citations · Soil Carbon
 
-4. **Variation and influencing factors of ecosystem carbon storage during succession in temperate secondary forest Northeast China** (2025)
-   0 citations · Soil Carbon
+4. **Effects of the Light-Felling Intensity on Hydrological Processes in a Korean Pine (Pinus koraiensis) Forest on Changbai Mountain in China** (2025)
+   1 citations
 
 5. **[Spatial differentiation and mechanism of carbon source/sink of forest swamps in riverside of Changbai Mountains, China].** (2023)
    0 citations · Soil Carbon

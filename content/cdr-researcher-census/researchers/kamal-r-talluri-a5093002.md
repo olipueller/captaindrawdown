@@ -1,7 +1,7 @@
 ---
 title: "Kamal R. Talluri"
 description: "Kamal R. Talluri is an Early-career DAC researcher at University of California, Riverside in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256159
+date: 2026-09-11T02:38:30.197724
 url: "/cdr-researcher-census/researchers/kamal-r-talluri-a5093002/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 130 |
+| Citations | 137 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity** (2024)
-   68 citations · DAC
+   71 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jaane Krüger"
 description: "Jaane Krüger is a Senior Soil Carbon researcher at North-West University , South Africa in ZA. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.220272
+date: 2026-09-11T02:38:29.169932
 url: "/cdr-researcher-census/researchers/jaane-kruger-a5068067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,474 |
+| Citations | 1,504 |
 | Publications | 47 |
 | CDR Focus | 6.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Experimental drought increased the belowground sink strength towards higher topsoil organic carbon stocks in a temperate mature forest** (2023)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Organic Matter Accumulates and Stabilizes Under Norway Spruce Following Experimental Drought** (2022)
    0 citations · Soil Carbon

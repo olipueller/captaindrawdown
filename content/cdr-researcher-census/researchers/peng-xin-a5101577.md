@@ -1,7 +1,7 @@
 ---
 title: "Peng Xin"
 description: "Peng Xin is a Senior Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.806192
+date: 2026-09-11T02:38:29.754160
 url: "/cdr-researcher-census/researchers/peng-xin-a5101577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 269 |
+| Citations | 280 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced removal of tetracycline using three-dimensional electrochemical system with Fe/N/S co-doped coffee grounds biochar particle electrodes: Performance and mechanism** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

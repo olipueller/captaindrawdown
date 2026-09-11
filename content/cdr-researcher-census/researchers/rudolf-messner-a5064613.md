@@ -1,7 +1,7 @@
 ---
 title: "Rudolf Messner"
 description: "Rudolf Messner is a Mid-career Soil Carbon researcher at Queensland University of Technology in AU. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.792327
+date: 2026-09-11T02:38:29.728877
 url: "/cdr-researcher-census/researchers/rudolf-messner-a5064613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 277 |
+| Citations | 294 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

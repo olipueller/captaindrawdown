@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Shi"
 description: "Zhichao Shi is a Mid-career Biochar researcher at State Ethnic Affairs Commission in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.998801
+date: 2026-09-11T02:38:29.944985
 url: "/cdr-researcher-census/researchers/zhichao-shi-a5112859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 197 |
+| Citations | 207 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Removal of Tetracycline from Aqueous Solutions Using Peanut Shell Biochars Prepared at Different Pyrolysis Temperatures** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

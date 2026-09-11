@@ -1,7 +1,7 @@
 ---
 title: "Ali Fakhar"
 description: "Ali Fakhar is a Mid-career Biochar researcher at Gyeongsang National University in KR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.257813
+date: 2026-09-11T02:38:29.200991
 url: "/cdr-researcher-census/researchers/ali-fakhar-a5072117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,211 |
+| Citations | 1,272 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advancements in modified biochar production techniques and soil application: a critical review** (2025)
-   45 citations · Biochar
+   50 citations · Biochar
 
 2. **Potential of mycorrhizal fungi in soil C sequestration under climate change scenario: current research and prospects** (2025)
    2 citations · Soil Carbon

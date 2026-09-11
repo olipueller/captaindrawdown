@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
-description: "Min Zhang is a Senior Soil Carbon researcher at China Tobacco in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.247113
+description: "Min Zhang is a Senior Soil Carbon researcher at Fujian Polytechnic of Information Technology in CN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.194126
 url: "/cdr-researcher-census/researchers/min-zhang-a5058540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/min-zhang-a5058540/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Tobacco"
+    "name": "Fujian Polytechnic of Information Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9740-7944",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Min Zhang**  
-China Tobacco · 🇨🇳 CN
+Fujian Polytechnic of Information Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,279 |
-| Publications | 58 |
-| CDR Focus | 5.2% |
+| h-index | 20 |
+| Citations | 1,323 |
+| Publications | 59 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil microbial trait-based strategies drive the storage and stability of the soil carbon pool in Robinia pseudoacacia plantations** (2022)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
    5 citations · Soil Carbon

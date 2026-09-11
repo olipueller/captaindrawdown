@@ -1,7 +1,7 @@
 ---
 title: "Olalekan A. Olabode"
 description: "Olalekan A. Olabode is a Mid-career Biochar researcher at Osun State University in NG. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.206298
+date: 2026-09-11T02:38:30.152791
 url: "/cdr-researcher-census/researchers/olalekan-a-olabode-a5022001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 141 |
+| Citations | 148 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fabrication of Redox Active Mn3O4 on Douglas fir Biochar for Aqueous Arsenic(III) Oxidation and Remediation** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Arshad"
 description: "Muhammad Arshad is a Mid-career General CDR researcher at Islamia University of Bahawalpur in PK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.394515
+date: 2026-09-11T02:38:29.348284
 url: "/cdr-researcher-census/researchers/muhammad-arshad-a5100745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 701 |
+| Citations | 712 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Role of Laccases to Achieve Net Zero Carbon Emissions** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Pei"
 description: "Yanyan Pei is a Mid-career Soil Carbon researcher at National Natural Science Foundation of China in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.560258
+date: 2026-09-11T02:38:29.497860
 url: "/cdr-researcher-census/researchers/yanyan-pei-a5048028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 446 |
+| Citations | 471 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

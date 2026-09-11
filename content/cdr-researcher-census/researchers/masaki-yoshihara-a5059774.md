@@ -1,7 +1,7 @@
 ---
 title: "Masaki Yoshihara"
 description: "Masaki Yoshihara is a Senior DAC researcher at Hokkaido University in JP. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.004682
+date: 2026-09-11T02:38:29.976278
 url: "/cdr-researcher-census/researchers/masaki-yoshihara-a5059774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 195 |
+| Citations | 197 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

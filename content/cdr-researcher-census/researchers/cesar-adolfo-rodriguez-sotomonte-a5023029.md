@@ -1,7 +1,7 @@
 ---
 title: "César Adolfo Rodríguez Sotomonte"
 description: "César Adolfo Rodríguez Sotomonte is a Mid-career BECCS researcher at Universidade Federal da Integração Latino-Americana in BR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.816023
+date: 2026-09-11T02:38:29.781113
 url: "/cdr-researcher-census/researchers/cesar-adolfo-rodriguez-sotomonte-a5023029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 264 |
+| Citations | 267 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Exiting |

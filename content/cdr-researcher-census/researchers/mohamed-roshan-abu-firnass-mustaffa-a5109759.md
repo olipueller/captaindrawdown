@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Roshan Abu Firnass Mustaffa"
-description: "Mohamed Roshan Abu Firnass Mustaffa is a Mid-career Biochar researcher at Tamil Nadu Agricultural University in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.747755
+description: "Mohamed Roshan Abu Firnass Mustaffa is a Mid-career Biochar researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.624729
 url: "/cdr-researcher-census/researchers/mohamed-roshan-abu-firnass-mustaffa-a5109759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,20 +40,23 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 300 |
-| Publications | 13 |
-| CDR Focus | 23.1% |
+| Citations | 359 |
+| Publications | 15 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Potential regenerative agricultural practices for different ecosystems to rebuild soil health and ensure food security: A comprehensive review** (2026)
+1. **Optimizing Millet Nutrition and Yield Through Sustainable Fertilization and Soil Nutrition Practices** (2026)
+   0 citations
+
+2. **Potential regenerative agricultural practices for different ecosystems to rebuild soil health and ensure food security: A comprehensive review** (2026)
    0 citations · Biochar
 
-2. **Biochar as a nutrient and microbial carrier in agricultural production** (2026)
+3. **Biochar as a nutrient and microbial carrier in agricultural production** (2026)
    0 citations · Biochar
 
-3. **Agro-Waste Biochar for Soil Restoration and Climate-resilient Crop Production: a Five-year Global Review** (2026)
+4. **Agro-Waste Biochar for Soil Restoration and Climate-resilient Crop Production: a Five-year Global Review** (2026)
    0 citations · Biochar
 
 ## External Profiles

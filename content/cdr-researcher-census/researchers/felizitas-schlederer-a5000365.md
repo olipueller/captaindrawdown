@@ -1,7 +1,7 @@
 ---
 title: "Felizitas Schlederer"
-description: "Felizitas Schlederer is a Mid-career Biochar researcher at Université Laval in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.096467
+description: "Felizitas Schlederer is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.037685
 url: "/cdr-researcher-census/researchers/felizitas-schlederer-a5000365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Felizitas Schlederer",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/felizitas-schlederer-a5000365/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universit\u00e9 Laval"
-  },
   "sameAs": "https://openalex.org/A5000365317"
 }
 </script>
 
 ## Profile
 
-**Felizitas Schlederer**  
-Université Laval · 🇨🇦 CA
+**Felizitas Schlederer**
 
 **Career Stage:** Mid-career
 
@@ -40,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 168 |
+| Citations | 178 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

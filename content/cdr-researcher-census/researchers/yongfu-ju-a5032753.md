@@ -1,7 +1,7 @@
 ---
 title: "Yongfu Ju"
-description: "Yongfu Ju is a Mid-career Soil Carbon researcher at Harbin University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.257788
+description: "Yongfu Ju is a Mid-career Soil Carbon researcher at Harbin University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.042268
 url: "/cdr-researcher-census/researchers/yongfu-ju-a5032753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 130 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 6 |
+| Citations | 177 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Integrated Management Practices Foster Soil Health, Productivity, and Agroecosystem Resilience** (2025)
-   58 citations
+   67 citations
 
 2. **Integrated Management Practices Foster Soil Health, Productivity, and Agroecosystem Resilience** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

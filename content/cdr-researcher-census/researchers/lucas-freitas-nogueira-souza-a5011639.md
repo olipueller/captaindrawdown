@@ -1,7 +1,7 @@
 ---
 title: "Lucas Freitas Nogueira Souza"
-description: "Lucas Freitas Nogueira Souza is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.377027
+description: "Lucas Freitas Nogueira Souza is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.248723
 url: "/cdr-researcher-census/researchers/lucas-freitas-nogueira-souza-a5011639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 108 |
+| h-index | 5 |
+| Citations | 128 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 17.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Above- and belowground biomass production in maize-tropical forages intercropping systems** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Above- and Belowground Biomass Production in Maize-Tropical Forages Intercropping Systems** (2025)
    0 citations · Soil Carbon

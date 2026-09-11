@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Antoniella"
-description: "Gabriele Antoniella is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.074410
+description: "Gabriele Antoniella is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.008709
 url: "/cdr-researcher-census/researchers/gabriele-antoniella-a5009009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 174 |
-| Publications | 13 |
-| CDR Focus | 61.5% |
+| Citations | 187 |
+| Publications | 14 |
+| CDR Focus | 57.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   34 citations · General CDR
+   38 citations · General CDR
 
 2. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   27 citations · General CDR
+   30 citations · General CDR
 
 3. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 4. **Do poplar plantations enhance organic carbon stocks in arable soils? A comprehensive study from Northern Italy** (2024)
-   7 citations
+   8 citations
 
 5. **As forests reclaim the land: Latitudinal variations in carbon-biodiversity trade-offs under natural forest expansion in Italy** (2026)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Haoting Quan"
 description: "Haoting Quan is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.712973
+date: 2026-09-11T02:38:29.625123
 url: "/cdr-researcher-census/researchers/haoting-quan-a5028358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 321 |
+| Citations | 358 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing nitrogen removal in low C/N wastewater via carbon resource recovery from biochar-mediated anaerobic digestion of discarded cefradine residues** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

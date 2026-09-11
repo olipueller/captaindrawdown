@@ -1,7 +1,7 @@
 ---
 title: "Margaret McKeen"
-description: "Margaret McKeen is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.742033
+description: "Margaret McKeen is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.691684
 url: "/cdr-researcher-census/researchers/margaret-mckeen-a5083322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 303 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 313 |
+| Publications | 21 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Complementary effects of biodiversity and ecosystem services on spatial targeting for agri-environment payments** (2022)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **A deep learning approach for high‐resolution mapping of Scottish peatland degradation** (2024)
    8 citations · General CDR

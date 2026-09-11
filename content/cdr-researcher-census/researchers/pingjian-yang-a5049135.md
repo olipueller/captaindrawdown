@@ -1,7 +1,7 @@
 ---
 title: "Pingjian Yang"
 description: "Pingjian Yang is a Senior General CDR researcher at Chinese Research Academy of Environmental Sciences in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.301350
+date: 2026-09-11T02:38:29.245843
 url: "/cdr-researcher-census/researchers/pingjian-yang-a5049135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 983 |
+| Citations | 1,031 |
 | Publications | 53 |
 | CDR Focus | 7.5% |
 | Trajectory | Declining |

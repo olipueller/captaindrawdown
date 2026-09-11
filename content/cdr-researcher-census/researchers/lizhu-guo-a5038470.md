@@ -1,7 +1,7 @@
 ---
 title: "Lizhu Guo"
-description: "Lizhu Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.675911
+description: "Lizhu Guo is a Mid-career Soil Carbon researcher at Institute of Grassland Research in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.608255
 url: "/cdr-researcher-census/researchers/lizhu-guo-a5038470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lizhu-guo-a5038470/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Agricultural Sciences"
+    "name": "Institute of Grassland Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8211-2879",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lizhu Guo**  
-Chinese Academy of Agricultural Sciences · 🇨🇳 CN
+Institute of Grassland Research · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 347 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 372 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

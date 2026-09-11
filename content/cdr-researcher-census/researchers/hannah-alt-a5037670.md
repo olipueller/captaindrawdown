@@ -1,7 +1,7 @@
 ---
 title: "Hannah Alt"
-description: "Hannah Alt is a Mid-career Ocean CDR researcher at National Laboratory of the Rockies in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.164476
+description: "Hannah Alt is a Mid-career Ocean CDR researcher at National Laboratory of the Rockies in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.048213
 url: "/cdr-researcher-census/researchers/hannah-alt-a5037670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 150 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 7 |
+| Citations | 175 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

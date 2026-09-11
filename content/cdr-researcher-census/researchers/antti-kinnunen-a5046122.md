@@ -1,7 +1,7 @@
 ---
 title: "Antti Kinnunen"
-description: "Antti Kinnunen is a Mid-career Soil Carbon researcher at Aalto University in FI. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.015462
+description: "Antti Kinnunen is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.968884
 url: "/cdr-researcher-census/researchers/antti-kinnunen-a5046122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Antti Kinnunen",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/antti-kinnunen-a5046122/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Aalto University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0349-9412",
     "https://openalex.org/A5046122255"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Antti Kinnunen**  
-Aalto University ·  FI
+**Antti Kinnunen**
 
 **Career Stage:** Mid-career
 
@@ -42,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 192 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 8 |
+| Citations | 199 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

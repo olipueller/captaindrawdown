@@ -1,7 +1,7 @@
 ---
 title: "Yifan Xu"
-description: "Yifan Xu is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.496173
+description: "Yifan Xu is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.447530
 url: "/cdr-researcher-census/researchers/yifan-xu-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 521 |
-| Publications | 38 |
-| CDR Focus | 21.1% |
+| h-index | 13 |
+| Citations | 534 |
+| Publications | 37 |
+| CDR Focus | 21.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   24 citations · General CDR
+   27 citations · General CDR
 
 3. **Sustainable bioenergy contributes to cost-effective climate change mitigation in China** (2024)
-   18 citations · BECCS
+   19 citations · BECCS
 
 4. **Unlocking Synergies: Climate Mitigation, Clean Air, and Health Benefits of Sustainable Bioenergy in China** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 5. **Satellite estimation of air-sea CO2 flux in marine aquaculture areas: a case study of Lianjiang County, China** (2026)
    0 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Christina A. Buelow"
-description: "Christina A. Buelow is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.176392
+description: "Christina A. Buelow is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122073
 url: "/cdr-researcher-census/researchers/christina-a-buelow-a5007221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,981 |
+| h-index | 19 |
+| Citations | 2,076 |
 | Publications | 56 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   244 citations · General CDR
+   254 citations · General CDR
 
 2. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **Tropical Intertidal Wetlands are Hotspots of Carbon Storage and Nutrient Transformations** (2024)
    1 citations · Soil Carbon

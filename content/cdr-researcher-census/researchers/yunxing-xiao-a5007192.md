@@ -1,7 +1,7 @@
 ---
 title: "Yunxing Xiao"
 description: "Yunxing Xiao is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.805383
+date: 2026-09-11T02:38:29.776370
 url: "/cdr-researcher-census/researchers/yunxing-xiao-a5007192/"
 layout: "researcher"
 hiddenInHomeList: true

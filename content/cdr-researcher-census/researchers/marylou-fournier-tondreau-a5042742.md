@@ -1,7 +1,7 @@
 ---
 title: "Marylou Fournier-Tondreau"
-description: "Marylou Fournier-Tondreau is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.495317
+description: "Marylou Fournier-Tondreau is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.429581
 url: "/cdr-researcher-census/researchers/marylou-fournier-tondreau-a5042742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 523 |
+| h-index | 8 |
+| Citations | 565 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Xie"
-description: "Wenjun Xie is a Senior Soil Carbon researcher at Qingdao University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.482827
+description: "Wenjun Xie is a Senior Soil Carbon researcher at Qingdao University of Technology in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.434651
 url: "/cdr-researcher-census/researchers/wenjun-xie-a5111882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenjun-xie-a5111882/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University"
+    "name": "Qingdao University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4159-3378",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenjun Xie**  
-Qingdao University · 🇨🇳 CN
+Qingdao University of Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,21 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 541 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| Citations | 556 |
+| Publications | 26 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Straw application coupled with N and P supply enhanced microbial biomass, enzymatic activity, and carbon use efficiency in saline soil** (2021)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Salinity decreases the soil organic carbon stock while increasing its stability: A case study in the coastal region of China** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Straw mineralization and carbon dioxide emissions in soils with different salinity levels** (2025)
    3 citations · Soil Carbon
+
+4. **Impact of Salinity on Straw Conversion Into Different Soil Organic Carbon Fractions: Evidences From a 13 C ‐Labeling Incubation Experiment** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

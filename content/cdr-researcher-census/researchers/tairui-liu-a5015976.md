@@ -1,7 +1,7 @@
 ---
 title: "Tairui Liu"
-description: "Tairui Liu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.289331
+description: "Tairui Liu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.231043
 url: "/cdr-researcher-census/researchers/tairui-liu-a5015976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 124 |
-| Publications | 13 |
-| CDR Focus | 23.1% |
+| Citations | 131 |
+| Publications | 14 |
+| CDR Focus | 21.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of stand density on soil respiration and labile organic carbon in different aged Larix principis-rupprechtii plantations** (2021)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Do stand density and month regulate soil enzymes and the stoichiometry of differently aged Larix principis-rupprechtii plantations?** (2022)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Erica Marti"
 description: "Erica Marti is a Mid-career Biochar researcher at University of Nevada, Las Vegas in US. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.375207
+date: 2026-09-11T02:38:29.327538
 url: "/cdr-researcher-census/researchers/erica-marti-a5019912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 747 |
+| Citations | 762 |
 | Publications | 58 |
-| CDR Focus | 13.8% |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Metal-organic-framework and walnut shell biochar composites for lead and hexavalent chromium removal from aqueous environments** (2024)
-   32 citations · Biochar
+   36 citations · Biochar
 
 2. **Metal-Organic-Framework and Walnut Shell Biochar Composites for Lead and Hexavalent Chromium Removal from Aqueous Environments** (2024)
    0 citations · Biochar

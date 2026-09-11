@@ -1,7 +1,7 @@
 ---
 title: "Takanori Itoh"
-description: "Takanori Itoh is a Mid-career Biochar researcher at Hokkaido University in JP. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.692907
+description: "Takanori Itoh is a Mid-career Biochar researcher at Hokkaido University in JP. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.625513
 url: "/cdr-researcher-census/researchers/takanori-itoh-a5068623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 336 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 358 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Livestock Manure Compost Mixed with Biochar: Efficient Pelleting and Pellet Production Characteristics** (2024)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Lai"
-description: "Xiaoqin Lai is a Senior BECCS researcher at Zhongshan Hospital of Xiamen University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302818
+description: "Xiaoqin Lai is a Senior BECCS researcher at Zhongshan Hospital of Xiamen University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.252654
 url: "/cdr-researcher-census/researchers/xiaoqin-lai-a5062094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 978 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 999 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

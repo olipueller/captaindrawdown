@@ -1,7 +1,7 @@
 ---
 title: "Yunhe Ma"
 description: "Yunhe Ma is a Mid-career Soil Carbon researcher at Guangdong University of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.134001
+date: 2026-09-11T02:38:30.075531
 url: "/cdr-researcher-census/researchers/yunhe-ma-a5069567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 158 |
+| Citations | 168 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial reseeding improves multiple ecosystem functions in an alpine sandy meadow of the eastern Tibetan Plateau** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

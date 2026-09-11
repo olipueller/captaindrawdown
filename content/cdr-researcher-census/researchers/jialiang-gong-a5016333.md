@@ -1,7 +1,7 @@
 ---
 title: "Jialiang Gong"
-description: "Jialiang Gong is a Mid-career Soil Carbon researcher at University of Science and Technology of China in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.761401
+description: "Jialiang Gong is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.706736
 url: "/cdr-researcher-census/researchers/jialiang-gong-a5016333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jialiang-gong-a5016333/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Science and Technology of China"
+    "name": "Central South University of Forestry and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5150-8387",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jialiang Gong**  
-University of Science and Technology of China · 🇨🇳 CN
+Central South University of Forestry and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 293 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| Citations | 306 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conversion of farmland to forest or grassland improves soil carbon, nitrogen, and ecosystem multi-functionality in a subtropical karst region of southwest China** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Conversion of farmland to forest or grassland improved soil C, N and multi-functionality in a subtropical karst region, southwest China** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown is a Senior Biochar researcher at Bangor University in GB. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.237189
+date: 2026-09-11T02:38:29.183510
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,345 |
+| Citations | 1,399 |
 | Publications | 49 |
 | CDR Focus | 16.3% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Agronomic amendments drive a diversity of real and apparent priming responses within a grassland soil** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   20 citations
+   21 citations
 
 3. **Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 4. **Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands** (2025)
    8 citations · Biochar

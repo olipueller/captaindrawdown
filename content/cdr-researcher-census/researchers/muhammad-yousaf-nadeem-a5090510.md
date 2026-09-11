@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Yousaf Nadeem"
-description: "Muhammad Yousaf Nadeem is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.927354
+description: "Muhammad Yousaf Nadeem is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.854107
 url: "/cdr-researcher-census/researchers/muhammad-yousaf-nadeem-a5090510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-yousaf-nadeem-a5090510/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yangzhou University"
+    "name": "Nanjing Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9942-5230",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhammad Yousaf Nadeem**  
-Yangzhou University · 🇨🇳 CN
+Nanjing Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 216 |
-| Publications | 15 |
-| CDR Focus | 20.0% |
+| h-index | 8 |
+| Citations | 234 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term fertilizer postponing promotes soil organic carbon sequestration in paddy soils by accelerating lignin degradation and increasing microbial necromass** (2022)
-   84 citations · Soil Carbon
+   89 citations · Soil Carbon
 
 2. **Long-term straw returning improved soil nitrogen sequestration by accelerating the accumulation of amino acid nitrogen** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Long-Term Straw Returning Improved Soil Nitrogen Sequestration by Accelerating the Accumulation of Amino Acid Nitrogen Derived from Microbial Metabolism** (2023)
    0 citations · Soil Carbon

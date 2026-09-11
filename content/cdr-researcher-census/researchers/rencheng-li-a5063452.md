@@ -1,7 +1,7 @@
 ---
 title: "Rencheng Li"
-description: "Rencheng Li is a Senior Soil Carbon researcher at Sichuan University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.518201
+description: "Rencheng Li is a Senior Soil Carbon researcher at Sichuan University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.465546
 url: "/cdr-researcher-census/researchers/rencheng-li-a5063452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 491 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 507 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Fire effects on phytolith carbon sequestration** (2024)
    3 citations · Soil Carbon
 
-3. **Drought influences the phytolith morphology variation and its occluded carbon of leaves in Dendrocalamus Ronganensis during growing season** (2021)
+3. **Bamboo-derived microporous carbon for selective nitrate removal by capacitive deionization: Roles of ion sieving, geometry matching, and dehydration** (2026)
+   0 citations
+
+4. **Drought influences the phytolith morphology variation and its occluded carbon of leaves in Dendrocalamus Ronganensis during growing season** (2021)
    0 citations
 
 ## External Profiles

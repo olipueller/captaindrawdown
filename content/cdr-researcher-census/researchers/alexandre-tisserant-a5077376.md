@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Tisserant"
 description: "Alexandre Tisserant is a Mid-career Biochar researcher at Norwegian University of Science and Technology in NO. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.280269
+date: 2026-09-11T02:38:29.225987
 url: "/cdr-researcher-census/researchers/alexandre-tisserant-a5077376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,089 |
+| Citations | 1,127 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 ## External Profiles
 

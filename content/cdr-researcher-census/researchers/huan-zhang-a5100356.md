@@ -1,7 +1,7 @@
 ---
 title: "Huan Zhang"
 description: "Huan Zhang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.408977
+date: 2026-09-11T02:38:29.356581
 url: "/cdr-researcher-census/researchers/huan-zhang-a5100356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 670 |
+| Citations | 695 |
 | Publications | 36 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 3. **Soil Organic Carbon Research and Hotspot Analysis Based on Web of Science: A Bibliometric Analysis in CiteSpace** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 4. **[Soil Carbon Pool Allocation Dynamics During Soil Development in the Lower Yangtze River Alluvial Plain].** (2024)
    1 citations · Soil Carbon

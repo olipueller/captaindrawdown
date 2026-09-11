@@ -1,7 +1,7 @@
 ---
 title: "Nabir Mamnun"
-description: "Nabir Mamnun is a Mid-career Ocean CDR researcher at Imperial College London in GB. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.607711
+description: "Nabir Mamnun is a Mid-career Ocean CDR researcher at Imperial College London in GB. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.557525
 url: "/cdr-researcher-census/researchers/nabir-mamnun-a5016520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 400 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 411 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

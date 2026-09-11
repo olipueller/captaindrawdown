@@ -1,7 +1,7 @@
 ---
 title: "Sagar Maitra"
-description: "Sagar Maitra is a Senior Soil Carbon researcher at Centurion University of Technology and Management in IN. With 90 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.164478
+description: "Sagar Maitra is a Senior Soil Carbon researcher at Centurion University of Technology and Management in IN. With 108 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.111461
 url: "/cdr-researcher-census/researchers/sagar-maitra-a5013040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 2,157 |
-| Publications | 90 |
-| CDR Focus | 6.7% |
+| h-index | 22 |
+| Citations | 2,268 |
+| Publications | 108 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 3. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 4. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
    15 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · General CDR
 
 6. **Organic Mulch and Compost Synergy Revitalizes Soil Multifunctionality for Resilient Agroecosystems** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 7. **Morphological and Physico-Chemical Soil Properties of Acidic Nitisol Subjected to Long-term Potato Cultivation** (2026)
    2 citations

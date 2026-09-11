@@ -1,7 +1,7 @@
 ---
 title: "Allan Augusto Kokkonen"
-description: "Allan Augusto Kokkonen is a Mid-career Soil Carbon researcher at Universidade Federal de Santa Maria in BR. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.210135
+description: "Allan Augusto Kokkonen is a Mid-career Soil Carbon researcher at Universidade Federal de Santa Maria in BR. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.173990
 url: "/cdr-researcher-census/researchers/allan-augusto-kokkonen-a5013386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 140 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 143 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

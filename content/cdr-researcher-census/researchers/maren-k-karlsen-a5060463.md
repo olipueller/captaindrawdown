@@ -1,7 +1,7 @@
 ---
 title: "Maren K. Karlsen"
 description: "Maren K. Karlsen is a Mid-career Ocean CDR researcher at University of Bergen in NO. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.889162
+date: 2026-09-11T02:38:29.859015
 url: "/cdr-researcher-census/researchers/maren-k-karlsen-a5060463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 230 |
+| Citations | 232 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

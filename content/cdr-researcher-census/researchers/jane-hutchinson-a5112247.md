@@ -1,7 +1,7 @@
 ---
 title: "Jane Hutchinson"
-description: "Jane Hutchinson is a Senior General CDR researcher at Transnational Press London. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920778
+description: "Jane Hutchinson is a Senior General CDR researcher at Transnational Press London in GB. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.896181
 url: "/cdr-researcher-census/researchers/jane-hutchinson-a5112247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jane Hutchinson**  
-Transnational Press London
+Transnational Press London · 🇬🇧 GB
 
 **Career Stage:** Senior
 

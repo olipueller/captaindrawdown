@@ -1,7 +1,7 @@
 ---
 title: "Yucheng Liu"
-description: "Yucheng Liu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.045858
+description: "Yucheng Liu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.051443
 url: "/cdr-researcher-census/researchers/yucheng-liu-a5102010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 183 |
+| h-index | 7 |
+| Citations | 174 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced removal of tetracycline using three-dimensional electrochemical system with Fe/N/S co-doped coffee grounds biochar particle electrodes: Performance and mechanism** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

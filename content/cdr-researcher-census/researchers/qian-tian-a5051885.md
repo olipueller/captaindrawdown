@@ -1,7 +1,7 @@
 ---
 title: "Qian Tian"
-description: "Qian Tian is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.353913
+description: "Qian Tian is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.306508
 url: "/cdr-researcher-census/researchers/qian-tian-a5051885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qian-tian-a5051885/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Soil and Water Conservation"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0188-8358",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Qian Tian**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Soil and Water Conservation · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 802 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| Citations | 816 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Interlayer organic matter within hydroxy-interlayered clay minerals enhances soil organic carbon stability under long-term organic fertilization** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Variation of soil organic carbon components and enzyme activities during the ecological restoration in a temperate forest** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Ecosystems and climate determine terrestrial microbial carbon use efficiency** (2025)
    4 citations

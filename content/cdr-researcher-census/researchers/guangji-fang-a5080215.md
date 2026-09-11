@@ -1,7 +1,7 @@
 ---
 title: "Guangji Fang"
 description: "Guangji Fang is a Mid-career Soil Carbon researcher at Gembloux Agro-Bio Tech in BE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.836170
+date: 2026-09-11T02:38:29.773335
 url: "/cdr-researcher-census/researchers/guangji-fang-a5080215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 254 |
+| Citations | 272 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

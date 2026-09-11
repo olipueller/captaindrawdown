@@ -1,7 +1,7 @@
 ---
 title: "Tobias Koffman"
 description: "Tobias Koffman is a Senior Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.395163
+date: 2026-09-11T02:38:29.351320
 url: "/cdr-researcher-census/researchers/tobias-koffman-a5047326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 699 |
+| Citations | 705 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Supplementary material to "Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry"** (2026)
-   0 citations
+1. **Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry** (2026)
+   1 citations · General CDR
 
-2. **Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry** (2026)
-   0 citations · General CDR
+2. **Supplementary material to "Simulating enhanced ocean alkalinity experiments in a high-latitude fjord using nested ROMS simulations coupled with MARBL biogeochemistry"** (2026)
+   0 citations
 
 3. **Limits on marine carbon dioxide removal potential set by coastal air-sea gas exchange rates** (2026)
    0 citations · General CDR

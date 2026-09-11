@@ -1,7 +1,7 @@
 ---
 title: "Danilo Ferreira da Silva"
-description: "Danilo Ferreira da Silva is a Mid-career Enhanced Weathering researcher at Universidade de São Paulo in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.251941
+description: "Danilo Ferreira da Silva is a Mid-career Enhanced Weathering researcher at Universidade de São Paulo in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.182349
 url: "/cdr-researcher-census/researchers/danilo-ferreira-da-silva-a5011320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 131 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 7 |
+| Citations | 141 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Rock powder type and soil texture shape microbial community shifts and plant biomass responses in highly weathered tropical soils** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
+
+2. **Rhizosphere organic acids drive nutrient release from silicate rock powders across contrasting tropical soils** (2026)
+   0 citations
 
 ## External Profiles
 

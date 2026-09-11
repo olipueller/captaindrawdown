@@ -1,7 +1,7 @@
 ---
 title: "Jaime Recio"
 description: "Jaime Recio is a Mid-career Soil Carbon researcher at Universidad Politécnica de Madrid in ES. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.500850
+date: 2026-09-11T02:38:29.456436
 url: "/cdr-researcher-census/researchers/jaime-recio-a5090819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 513 |
+| Citations | 520 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increasing N use efficiency while decreasing gaseous N losses in a non-tilled wheat (Triticum aestivum L.) crop using a double inhibitor** (2021)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 ## External Profiles
 

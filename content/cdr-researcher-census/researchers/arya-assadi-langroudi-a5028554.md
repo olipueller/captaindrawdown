@@ -1,7 +1,7 @@
 ---
 title: "Arya Assadi Langroudi"
 description: "Arya Assadi Langroudi is a Senior Enhanced Weathering researcher at University of London in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.019509
+date: 2026-09-11T02:38:29.990632
 url: "/cdr-researcher-census/researchers/arya-assadi-langroudi-a5028554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 191 |
+| Citations | 193 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

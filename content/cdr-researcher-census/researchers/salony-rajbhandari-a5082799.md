@@ -1,7 +1,7 @@
 ---
 title: "Salony Rajbhandari"
-description: "Salony Rajbhandari is a Senior General CDR researcher at Hodges University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.776740
+description: "Salony Rajbhandari is a Senior General CDR researcher at National Institute for Environmental Studies in JP. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.728159
 url: "/cdr-researcher-census/researchers/salony-rajbhandari-a5082799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/salony-rajbhandari-a5082799/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hodges University"
+    "name": "National Institute for Environmental Studies"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0718-0687",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Salony Rajbhandari**  
-Hodges University · 🇺🇸 US
+National Institute for Environmental Studies · 🇯🇵 JP
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 284 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
+| Citations | 294 |
+| Publications | 22 |
+| CDR Focus | 13.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   26 citations · General CDR
+   27 citations · General CDR
 
 3. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
    7 citations · General CDR

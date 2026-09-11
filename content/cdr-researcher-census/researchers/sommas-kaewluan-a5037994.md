@@ -1,7 +1,7 @@
 ---
 title: "Sommas Kaewluan"
 description: "Sommas Kaewluan is a Mid-career Biochar researcher at Srinakharinwirot University in TH. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.903887
+date: 2026-09-11T02:38:29.814889
 url: "/cdr-researcher-census/researchers/sommas-kaewluan-a5037994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 224 |
+| Citations | 251 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mitigating dust and air pollution from open-field rice straw burning through biochar production using an integrated biomass gasifier and burner** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 2. **Continuous gasification-pyrolysis of fresh palm fruit bunches for biochar production and carbon sequestration** (2025)
    3 citations · Biochar

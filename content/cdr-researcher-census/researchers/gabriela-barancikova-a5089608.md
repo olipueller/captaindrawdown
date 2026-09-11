@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Barančíková"
 description: "Gabriela Barančíková is a Senior Soil Carbon researcher at National Agricultural and Food Centre in SK. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.308328
+date: 2026-09-11T02:38:29.261558
 url: "/cdr-researcher-census/researchers/gabriela-barancikova-a5089608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 960 |
+| Citations | 973 |
 | Publications | 57 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   74 citations · General CDR
+   75 citations · General CDR
 
 2. **National contribution of Slovakia to the global soil organic carbon sequestration map** (2022)
    1 citations · Soil Carbon

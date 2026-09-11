@@ -1,7 +1,7 @@
 ---
 title: "Husen Qiu"
-description: "Husen Qiu is a Mid-career Soil Carbon researcher at Suzhou University of Science and Technology in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.438781
+description: "Husen Qiu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.382740
 url: "/cdr-researcher-census/researchers/husen-qiu-a5103657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/husen-qiu-a5103657/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Suzhou University of Science and Technology"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5103657448"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Husen Qiu**  
-Suzhou University of Science and Technology · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 612 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
+| h-index | 13 |
+| Citations | 637 |
+| Publications | 43 |
+| CDR Focus | 9.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of biochar application rate on changes in soil labile organic carbon fractions and the association between bacterial community assembly and carbon metabolism with time** (2022)
-   71 citations · Biochar
+   75 citations · Biochar
 
 2. **Effect of Biochar on Labile Organic Carbon Fractions and Soil Carbon Pool Management Index** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 3. **Rice straw carbon mineralization is affected by the timing of exogenous glucose addition in flooded paddy soil** (2022)
    17 citations · Soil Carbon

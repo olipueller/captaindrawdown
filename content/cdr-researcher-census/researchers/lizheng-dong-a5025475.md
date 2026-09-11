@@ -1,7 +1,7 @@
 ---
 title: "Lizheng Dong"
 description: "Lizheng Dong is a Senior Soil Carbon researcher at Peking University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783823
+date: 2026-09-11T02:38:29.734939
 url: "/cdr-researcher-census/researchers/lizheng-dong-a5025475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 281 |
+| Citations | 291 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

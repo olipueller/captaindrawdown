@@ -1,7 +1,7 @@
 ---
 title: "Amelia Long"
 description: "Amelia Long is an Early-career Biochar researcher at University of Nebraska–Lincoln in US. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.346775
+date: 2026-09-11T02:38:30.229451
 url: "/cdr-researcher-census/researchers/amelia-long-a5072292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 113 |
+| Citations | 131 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of pyrolysis temperature and feedstock type on biochar characteristics pertinent to soil carbon and soil health: A meta‐analysis** (2022)
-   125 citations · Biochar
+   131 citations · Biochar
 
 ## External Profiles
 

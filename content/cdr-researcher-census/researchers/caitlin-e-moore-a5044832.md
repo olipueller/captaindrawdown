@@ -1,7 +1,7 @@
 ---
 title: "Caitlin E. Moore"
-description: "Caitlin E. Moore is a Senior General CDR researcher at The University of Western Australia in AU. With 82 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.100646
+description: "Caitlin E. Moore is a Senior General CDR researcher at The University of Western Australia in AU. With 85 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.046614
 url: "/cdr-researcher-census/researchers/caitlin-e-moore-a5044832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 27 |
-| Citations | 4,724 |
-| Publications | 82 |
-| CDR Focus | 7.3% |
+| h-index | 28 |
+| Citations | 5,353 |
+| Publications | 85 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
-   85 citations · Enhanced Weathering
+   87 citations · Enhanced Weathering
 
 2. **A review of transformative strategies for climate mitigation by grasslands** (2021)
    42 citations
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · BECCS
 
 4. **Advances in Miscanthus × Giganteus Planting Techniques May Increase Carbon Uptake in the Establishment Year** (2024)
-   6 citations · BECCS
+   8 citations · BECCS
 
 5. **Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023** (2023)
    3 citations · Enhanced Weathering

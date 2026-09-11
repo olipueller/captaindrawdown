@@ -1,7 +1,7 @@
 ---
 title: "Zhishuai Yuan"
-description: "Zhishuai Yuan is a Mid-career Ocean CDR researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.393578
+description: "Zhishuai Yuan is a Mid-career General CDR researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.343860
 url: "/cdr-researcher-census/researchers/zhishuai-yuan-a5084214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,18 +31,18 @@ Harbin Institute of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 105 |
+| h-index | 5 |
+| Citations | 109 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

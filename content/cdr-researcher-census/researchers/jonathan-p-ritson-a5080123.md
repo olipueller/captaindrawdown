@@ -1,7 +1,7 @@
 ---
 title: "Jonathan P. Ritson"
-description: "Jonathan P. Ritson is a Mid-career Soil Carbon researcher at University of Manchester in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404100
+description: "Jonathan P. Ritson is a Mid-career Soil Carbon researcher at University of Manchester in GB. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.355189
 url: "/cdr-researcher-census/researchers/jonathan-p-ritson-a5080123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 680 |
+| h-index | 13 |
+| Citations | 699 |
 | Publications | 35 |
 | CDR Focus | 8.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aspects of microbial communities in peatland carbon cycling under changing climate and land use pressures** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Managing UK upland peat for greenhouse gas removal** (2023)
    0 citations · Biochar

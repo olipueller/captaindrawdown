@@ -1,7 +1,7 @@
 ---
 title: "Marijana Kragulj Isakovski"
 description: "Marijana Kragulj Isakovski is a Mid-career Biochar researcher at University of Novi Sad in RS. With 84 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.312696
+date: 2026-09-11T02:38:29.262258
 url: "/cdr-researcher-census/researchers/marijana-kragulj-isakovski-a5007335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 946 |
+| Citations | 969 |
 | Publications | 84 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 2. **Adsorptive Behavior of Corn-Cob- and Straw-Derived Biochar for Polycyclic Aromatic Hydrocarbon Removal from Aqueous Systems** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Engineering Multifunctional Biochars for Integrated Environmental Systems: Multi-Medium Performance, Challenges, and Research Priorities** (2026)
    4 citations · Biochar

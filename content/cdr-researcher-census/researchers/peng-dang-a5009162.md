@@ -1,7 +1,7 @@
 ---
 title: "Peng Dang"
-description: "Peng Dang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.320098
+description: "Peng Dang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.268679
 url: "/cdr-researcher-census/researchers/peng-dang-a5009162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 908 |
-| Publications | 21 |
-| CDR Focus | 23.8% |
+| Citations | 941 |
+| Publications | 22 |
+| CDR Focus | 22.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Response of soil microbial community to plant composition changes in broad-leaved forests of the karst area in Mid-Subtropical China** (2022)
    12 citations · Soil Carbon
 
-2. **Nitrogen availability and its related enzyme activities affect microbial residue nitrogen accumulation during Chinese fir plantation development** (2024)
+2. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
+   9 citations · Soil Carbon
+
+3. **Linking leaf‒litter‒soil stoichiometry to microbial carbon‒use efficiency across different forest types in north subtropical China** (2025)
+   7 citations · Soil Carbon
+
+4. **Nitrogen availability and its related enzyme activities affect microbial residue nitrogen accumulation during Chinese fir plantation development** (2024)
    7 citations
 
-3. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
-   6 citations · Soil Carbon
-
-4. **Linking leaf‒litter‒soil stoichiometry to microbial carbon‒use efficiency across different forest types in north subtropical China** (2025)
-   5 citations · Soil Carbon
-
 5. **Contribution of microbial necromass to soil organic carbon and its influencing factors during plantation recovery in a subtropical rocky desertification region** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
    1 citations · Soil Carbon

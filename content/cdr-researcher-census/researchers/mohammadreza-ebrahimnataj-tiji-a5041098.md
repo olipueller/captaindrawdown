@@ -1,7 +1,7 @@
 ---
 title: "Mohammadreza Ebrahimnataj Tiji"
-description: "Mohammadreza Ebrahimnataj Tiji is a Mid-career Biochar researcher at University of Canterbury in NZ. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.539075
+description: "Mohammadreza Ebrahimnataj Tiji is a Mid-career Biochar researcher at University of Canterbury in NZ. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.486108
 url: "/cdr-researcher-census/researchers/mohammadreza-ebrahimnataj-tiji-a5041098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 467 |
+| h-index | 11 |
+| Citations | 484 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

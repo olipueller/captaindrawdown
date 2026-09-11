@@ -1,7 +1,7 @@
 ---
 title: "Krish N. Jayarapu"
-description: "Krish N. Jayarapu is an Early-career DAC researcher at Johns Hopkins University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.373132
+description: "Krish N. Jayarapu is a Mid-career DAC researcher at Johns Hopkins University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.180981
 url: "/cdr-researcher-census/researchers/krish-n-jayarapu-a5097956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Krish N. Jayarapu**  
 Johns Hopkins University · 🇺🇸 US
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 108 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| h-index | 5 |
+| Citations | 141 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Indigo as a Low‐Cost Redox‐Active Sorbent for Electrochemically Mediated Carbon Capture** (2024)
-   26 citations
+   28 citations
 
 2. **Electrochemical Direct Air Capture by Local Alkalinity Generation at Three-Dimensional Interfaces** (2026)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Danmei Cai"
 description: "Danmei Cai is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.296990
+date: 2026-09-11T02:38:30.232960
 url: "/cdr-researcher-census/researchers/danmei-cai-a5019708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 123 |
+| Citations | 131 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

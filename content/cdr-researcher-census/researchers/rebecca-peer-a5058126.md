@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Peer"
-description: "Rebecca Peer is a Mid-career General CDR researcher at University of Canterbury in NZ. With 79 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.381593
+description: "Rebecca Peer is a Mid-career General CDR researcher at University of Canterbury in NZ. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.322057
 url: "/cdr-researcher-census/researchers/rebecca-peer-a5058126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 729 |
-| Publications | 79 |
-| CDR Focus | 10.1% |
+| h-index | 16 |
+| Citations | 779 |
+| Publications | 83 |
+| CDR Focus | 9.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

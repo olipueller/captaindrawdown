@@ -1,7 +1,7 @@
 ---
 title: "Francesco Campo"
 description: "Francesco Campo is an Early-career Ocean CDR researcher at Politecnico di Milano in IT. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.063619
+date: 2026-09-11T02:38:29.989275
 url: "/cdr-researcher-census/researchers/francesco-campo-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 178 |
+| Citations | 193 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Exiting |

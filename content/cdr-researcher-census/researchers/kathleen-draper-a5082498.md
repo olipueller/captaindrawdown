@@ -1,7 +1,7 @@
 ---
 title: "Kathleen Draper"
-description: "Kathleen Draper is a Mid-career Biochar researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595312
+description: "Kathleen Draper is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.541094
 url: "/cdr-researcher-census/researchers/kathleen-draper-a5082498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 412 |
-| Publications | 12 |
-| CDR Focus | 25.0% |
+| Citations | 427 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biomass residue to carbon dioxide removal: quantifying the global impact of biochar** (2023)
-   101 citations · Biochar
+   103 citations · Biochar
 
 2. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
    15 citations · Biochar

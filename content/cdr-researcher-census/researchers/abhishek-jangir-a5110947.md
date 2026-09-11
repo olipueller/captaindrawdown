@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Jangir"
-description: "Abhishek Jangir is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.651287
+description: "Abhishek Jangir is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.592418
 url: "/cdr-researcher-census/researchers/abhishek-jangir-a5110947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 365 |
-| Publications | 46 |
-| CDR Focus | 8.7% |
+| Citations | 383 |
+| Publications | 48 |
+| CDR Focus | 10.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,16 +53,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Impact of land use Change on Carbon Management Index- A Study from the Foothills of Western Himalayas** (2024)
    4 citations · General CDR
 
-2. **Impact of long-term rice–rice monocropping on soil properties and organic carbon stocks in the NSLC command area: A case study from Telangana, India** (2025)
-   1 citations · Soil Carbon
+2. **Regional-scale predictive mapping of soil organic carbon in South Gujarat, India using machine learning algorithms** (2026)
+   2 citations
 
-3. **Regional-scale predictive mapping of soil organic carbon in South Gujarat, India using machine learning algorithms** (2026)
-   0 citations
+3. **Impact of long-term rice–rice monocropping on soil properties and organic carbon stocks in the NSLC command area: A case study from Telangana, India** (2025)
+   2 citations · Soil Carbon
 
-4. **Soil organic carbon mapping in India’s black soil region through machine learning** (2025)
+4. **Digital mapping of soil organic carbon using machine learning: A framework for state-level carbon-smart land management** (2026)
+   0 citations · Soil Carbon
+
+5. **Soil organic carbon mapping in India’s black soil region through machine learning** (2025)
    0 citations · General CDR
 
-5. **Digital Mapping of Soil Organic Carbon Using Legacy Data in the Northeast Himalayas** (2023)
+6. **Digital Mapping of Soil Organic Carbon Using Legacy Data in the Northeast Himalayas** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

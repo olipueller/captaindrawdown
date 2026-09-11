@@ -1,7 +1,7 @@
 ---
 title: "Apurva Mishra"
 description: "Apurva Mishra is a Mid-career Biochar researcher at National Environmental Engineering Research Institute in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.612444
+date: 2026-09-11T02:38:29.567308
 url: "/cdr-researcher-census/researchers/apurva-mishra-a5101868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 396 |
+| Citations | 403 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multidimensional approaches of biogas production and up-gradation: Opportunities and challenges** (2021)
-   174 citations
+   176 citations
 
 2. **Soil microbiome dynamics associated with conversion of tropical forests to different rubber based land use management systems** (2023)
    15 citations · Soil Carbon

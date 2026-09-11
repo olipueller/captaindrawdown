@@ -1,7 +1,7 @@
 ---
 title: "Dexin Huang"
-description: "Dexin Huang is a Senior Biochar researcher at Jilin Jianzhu University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.103915
+description: "Dexin Huang is a Senior Biochar researcher at Jilin Jianzhu University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.024551
 url: "/cdr-researcher-census/researchers/dexin-huang-a5075387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 166 |
+| h-index | 9 |
+| Citations | 182 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Exiting |

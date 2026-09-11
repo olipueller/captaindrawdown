@@ -1,7 +1,7 @@
 ---
 title: "R. R. Zhiipao"
 description: "R. R. Zhiipao is a Mid-career Soil Carbon researcher at Rajiv Gandhi University in IN. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.699578
+date: 2026-09-11T02:38:29.643808
 url: "/cdr-researcher-census/researchers/r-r-zhiipao-a5023857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 331 |
+| Citations | 346 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Twenty-one years’ impact of using organic amendments on the productivity of rice-wheat rotation and soil properties** (2024)
-   23 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Two decades of organic farming in rice-wheat agroecosystems: An impact assessment of environmental footprints reduction and carbon credit potential for climate resilience** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

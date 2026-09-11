@@ -1,7 +1,7 @@
 ---
 title: "Vlatko Milić"
-description: "Vlatko Milić is a Mid-career DAC researcher at Linköping University in SE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.987691
+description: "Vlatko Milić is a Mid-career DAC researcher at Linköping University in SE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.947019
 url: "/cdr-researcher-census/researchers/vlatko-milic-a5088946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 200 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 206 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

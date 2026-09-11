@@ -1,7 +1,7 @@
 ---
 title: "Jingran Li"
-description: "Jingran Li is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.871961
+description: "Jingran Li is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.778660
 url: "/cdr-researcher-census/researchers/jingran-li-a5034533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,10 +40,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 237 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
-| Trajectory | Stable |
+| Citations | 268 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

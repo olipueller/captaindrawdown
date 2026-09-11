@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
-description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.130947
+description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078674
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 3,115 |
-| Publications | 44 |
-| CDR Focus | 13.6% |
-| Trajectory | Stable |
+| Citations | 3,282 |
+| Publications | 46 |
+| CDR Focus | 15.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   438 citations
+   455 citations
 
 2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   144 citations
+   151 citations
 
 3. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   59 citations
+   64 citations
 
 4. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   54 citations
+   56 citations
 
 5. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
-   52 citations
+   53 citations
 
 6. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   45 citations
+   48 citations
 
 7. **Mixed polyamines promotes CO2 adsorption from air** (2022)
    45 citations
 
 8. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   31 citations
+   33 citations
 
 9. **Innovative process integrating high temperature heat pump and direct air capture** (2023)
-   29 citations
+   31 citations
 
-10. **Frontier science and challenges on offshore carbon storage** (2023)
-   28 citations · General CDR
+10. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
+   29 citations
 
 ## External Profiles
 

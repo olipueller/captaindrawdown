@@ -1,7 +1,7 @@
 ---
 title: "Huiying Chen"
-description: "Huiying Chen is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.236346
+description: "Huiying Chen is a Mid-career Soil Carbon researcher at Dongguan People’s Hospital in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.182827
 url: "/cdr-researcher-census/researchers/huiying-chen-a5102891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huiying-chen-a5102891/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sun Yat-sen University"
+    "name": "Dongguan People\u2019s Hospital"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-8171-6637",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Huiying Chen**  
-Sun Yat-sen University · 🇨🇳 CN
+Dongguan People’s Hospital · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 134 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 141 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of Fertilizer Application Intensity on Carbon Accumulation and Greenhouse Gas Emissions in Moso Bamboo Forest–Polygonatum cyrtonema Hua Agroforestry Systems** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 2. **Management of Hickory Forest Understory Vegetation Increases Ecosystem Carbon Sequestration, But It Also Increases Soil Greenhouse Gas Emissions in the Short Term** (2024)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

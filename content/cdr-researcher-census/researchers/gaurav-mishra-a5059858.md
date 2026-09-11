@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Mishra"
-description: "Gaurav Mishra is a Senior Soil Carbon researcher at ICFRE in IN. With 116 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.274209
+description: "Gaurav Mishra is a Senior Soil Carbon researcher at ICFRE in IN. With 121 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.220604
 url: "/cdr-researcher-census/researchers/gaurav-mishra-a5059858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,122 |
-| Publications | 116 |
-| CDR Focus | 10.3% |
+| h-index | 19 |
+| Citations | 1,160 |
+| Publications | 121 |
+| CDR Focus | 9.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Yield trends, soil carbon fractions and sequestration in a rice-rice system of North-East India: Effect of 32 years of INM practices** (2021)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Carbon Sequestration Potential of Different Land Use Sectors of Western Himalaya** (2021)
    18 citations
 
 4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
-   13 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Climate-resilient pathways and nature-based solutions to reduce vulnerabilities to climate change in the Indian Himalayan Region** (2023)
    11 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Hongli Guo"
-description: "Hongli Guo is a Mid-career Biochar researcher at Shandong Jianzhu University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062160
+description: "Hongli Guo is a Mid-career Biochar researcher at Changchun University of Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.998410
 url: "/cdr-researcher-census/researchers/hongli-guo-a5071563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongli-guo-a5071563/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong Jianzhu University"
+    "name": "Changchun University of Technology"
   },
   "sameAs": "https://openalex.org/A5071563140"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongli Guo**  
-Shandong Jianzhu University · 🇨🇳 CN
+Changchun University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 179 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 191 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The interface mechanism of sludge biochar activating persulfate to remove tetracycline: The role of the C-O-Fe bridge at the carbon surface** (2022)
-   80 citations · Biochar
+   81 citations · Biochar
 
 ## External Profiles
 

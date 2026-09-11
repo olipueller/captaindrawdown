@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Hsin Liu"
 description: "Cheng-Hsin Liu is a Senior DAC researcher at Advanced Semiconductor Engineering (Taiwan) in TW. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704609
+date: 2026-09-11T02:38:29.628372
 url: "/cdr-researcher-census/researchers/cheng-hsin-liu-a5102750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 327 |
+| Citations | 356 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks** (2024)
-   252 citations · DAC
+   265 citations · DAC
 
 ## External Profiles
 

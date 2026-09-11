@@ -1,7 +1,7 @@
 ---
 title: "Matoor Mohsin Gilani"
-description: "Matoor Mohsin Gilani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916047
+description: "Matoor Mohsin Gilani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.856430
 url: "/cdr-researcher-census/researchers/matoor-mohsin-gilani-a5033041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,8 +34,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 220 |
+| h-index | 7 |
+| Citations | 233 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Growing |
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   48 citations · General CDR
+   50 citations · General CDR
 
 2. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
    0 citations · Soil Carbon

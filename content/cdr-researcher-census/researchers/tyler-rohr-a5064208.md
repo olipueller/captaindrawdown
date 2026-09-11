@@ -1,7 +1,7 @@
 ---
 title: "Tyler Rohr"
 description: "Tyler Rohr is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.512848
+date: 2026-09-11T02:38:29.462147
 url: "/cdr-researcher-census/researchers/tyler-rohr-a5064208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 496 |
+| Citations | 511 |
 | Publications | 59 |
 | CDR Focus | 6.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Potential Impacts of Climate Interventions on Marine Ecosystems** (2026)
-   6 citations · General CDR
+   9 citations · General CDR
 
 2. **Mechanistic Constraints on the Drivers of Southern Ocean Meridional Iron Distributions Between Tasmania and Antarctica** (2024)
    4 citations · Ocean CDR

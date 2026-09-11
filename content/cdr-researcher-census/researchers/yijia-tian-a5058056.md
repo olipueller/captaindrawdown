@@ -1,7 +1,7 @@
 ---
 title: "Yijia Tian"
-description: "Yijia Tian is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.015726
+description: "Yijia Tian is a Mid-career Soil Carbon researcher at Women's Hospital, School of Medicine, Zhejiang University in CN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.953089
 url: "/cdr-researcher-census/researchers/yijia-tian-a5058056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yijia-tian-a5058056/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "Women's Hospital, School of Medicine, Zhejiang University"
   },
   "sameAs": [
     "https://orcid.org/0009-0006-1773-749X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yijia Tian**  
-Shenyang Agricultural University · 🇨🇳 CN
+Women's Hospital, School of Medicine, Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 192 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 204 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   85 citations · Soil Carbon
+   88 citations · Soil Carbon
 
 2. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **[Application of stable isotope techniques in soil food web research].** (2023)
    0 citations · Soil Carbon

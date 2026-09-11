@@ -1,7 +1,7 @@
 ---
 title: "Alberto Azevedo Gomes"
 description: "Alberto Azevedo Gomes is a Mid-career BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.114466
+date: 2026-09-11T02:38:30.086340
 url: "/cdr-researcher-census/researchers/alberto-azevedo-gomes-a5066665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 164 |
+| Citations | 165 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

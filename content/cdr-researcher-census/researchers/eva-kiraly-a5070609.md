@@ -1,7 +1,7 @@
 ---
 title: "Éva Király"
-description: "Éva Király is a Mid-career General CDR researcher at University of Sopron in HU. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.307354
+description: "Éva Király is a Mid-career General CDR researcher at Forest Research in GB. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.243450
 url: "/cdr-researcher-census/researchers/eva-kiraly-a5070609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eva-kiraly-a5070609/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sopron"
+    "name": "Forest Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7699-7191",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Éva Király**  
-University of Sopron ·  HU
+Forest Research · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 121 |
-| Publications | 35 |
-| CDR Focus | 14.3% |
+| Citations | 129 |
+| Publications | 36 |
+| CDR Focus | 13.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon credit revenue assessment for four shelterbelt projects following EU CRCF protocols** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **From Climate Liability to Market Opportunity: Valuing Carbon Sequestration and Storage Services in the Forest-Based Sector** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Green Infrastructure for Climate Change Mitigation: Assessment of Carbon Sequestration and Storage in the Urban Forests of Budapest, Hungary** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 4. **Climate Benefit Assessment of Doubling the Extent of Windbreak Plantations in Hungary** (2024)
    3 citations · General CDR

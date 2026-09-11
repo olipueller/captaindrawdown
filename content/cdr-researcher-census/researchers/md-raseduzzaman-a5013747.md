@@ -1,7 +1,7 @@
 ---
 title: "Md Raseduzzaman"
-description: "Md Raseduzzaman is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.462906
+description: "Md Raseduzzaman is a Mid-career Soil Carbon researcher at Institute of Genetics and Developmental Biology in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.401116
 url: "/cdr-researcher-census/researchers/md-raseduzzaman-a5013747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Md Raseduzzaman",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/md-raseduzzaman-a5013747/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Genetics and Developmental Biology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-4287-4999",
     "https://openalex.org/A5013747969"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Md Raseduzzaman**
+**Md Raseduzzaman**  
+Institute of Genetics and Developmental Biology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -37,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 571 |
+| h-index | 9 |
+| Citations | 607 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -46,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cereal-Legume Mixed Residue Addition Increases Yield and Reduces Soil Greenhouse Gas Emissions from Fertilized Winter Wheat in the North China Plain** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

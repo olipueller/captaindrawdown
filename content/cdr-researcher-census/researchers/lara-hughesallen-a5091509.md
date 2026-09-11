@@ -1,7 +1,7 @@
 ---
 title: "Lara Hughes‐Allen"
 description: "Lara Hughes‐Allen is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.237111
+date: 2026-09-11T02:38:30.192162
 url: "/cdr-researcher-census/researchers/lara-hughesallen-a5091509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 134 |
+| Citations | 139 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

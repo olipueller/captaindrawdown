@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh is a Mid-career General CDR researcher at Applied Science Private University in JO. With 43 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.147770
+description: "Chaewoon Oh is a Mid-career General CDR researcher at Applied Science Private University in JO. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.099694
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 154 |
-| Publications | 43 |
-| CDR Focus | 20.9% |
+| Citations | 160 |
+| Publications | 44 |
+| CDR Focus | 20.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Market-pull, technology-push, and regulatory stringency determinants: All in need in firms' decisions for large-scale demonstration of direct air capture technologies** (2023)
-   10 citations · DAC
+   12 citations · DAC
 
 2. **Korea’s Policy Direction on the Research &amp; Development of Direct Air Carbon Capture and Storage (DACCS) Technologies : Focusing on DAC technologies** (2022)
    10 citations · DAC

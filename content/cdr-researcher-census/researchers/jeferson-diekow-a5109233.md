@@ -1,7 +1,7 @@
 ---
 title: "Jeferson Diekow"
 description: "Jeferson Diekow is a Senior Soil Carbon researcher at Universidade Federal do Paraná in BR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.471356
+date: 2026-09-11T02:38:29.430556
 url: "/cdr-researcher-census/researchers/jeferson-diekow-a5109233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 558 |
+| Citations | 562 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |

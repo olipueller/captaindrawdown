@@ -1,7 +1,7 @@
 ---
 title: "Linfa Fang"
-description: "Linfa Fang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.601919
+description: "Linfa Fang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.535018
 url: "/cdr-researcher-census/researchers/linfa-fang-a5043233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 405 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 10 |
+| Citations | 434 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of residual antibiotics on microbial decomposition of livestock manures in Eutric Regosol: Implications for sustainable nutrient recycling and soil carbon sequestration** (2023)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Paulina B. Ramírez"
 description: "Paulina B. Ramírez is a Mid-career Soil Carbon researcher at Oregon State University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.665971
+date: 2026-09-11T02:38:29.612704
 url: "/cdr-researcher-census/researchers/paulina-b-ramirez-a5036064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 354 |
+| Citations | 368 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Biochar effects on soil organic carbon sequestration and acidity amelioration persist after 10 years** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

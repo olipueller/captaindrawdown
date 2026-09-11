@@ -1,7 +1,7 @@
 ---
 title: "Jasmeet Kaur"
-description: "Jasmeet Kaur is a Senior General CDR researcher at Maharishi Markandeshwar University, Mullana in IN. With 59 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.064824
+description: "Jasmeet Kaur is a Mid-career General CDR researcher at Maharishi Markandeshwar University, Mullana in IN. With 58 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.007705
 url: "/cdr-researcher-census/researchers/jasmeet-kaur-a5028155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Jasmeet Kaur**  
 Maharishi Markandeshwar University, Mullana · 🇮🇳 IN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 178 |
-| Publications | 59 |
-| CDR Focus | 5.1% |
+| Citations | 188 |
+| Publications | 58 |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modeling the Impact of Direct Air Capture on Forest Biomass and Population Dynamics** (2025)
-   2 citations · DAC
+   7 citations · DAC
 
 2. **Supporting Landscape Restoration for Resilient Ecosystems** (2025)
    0 citations · General CDR

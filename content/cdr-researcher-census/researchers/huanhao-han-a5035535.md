@@ -1,7 +1,7 @@
 ---
 title: "Huanhao Han"
 description: "Huanhao Han is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.064053
+date: 2026-09-11T02:38:29.990417
 url: "/cdr-researcher-census/researchers/huanhao-han-a5035535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 178 |
+| Citations | 193 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil cellulase activity responds to straw return and correlates with soil organic carbon dynamics: A global meta-analysis** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

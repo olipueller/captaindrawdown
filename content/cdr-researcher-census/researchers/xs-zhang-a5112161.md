@@ -1,7 +1,7 @@
 ---
 title: "X.S. Zhang"
-description: "X.S. Zhang is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272862
+description: "X.S. Zhang is a Senior Soil Carbon researcher at Liaocheng University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.243158
 url: "/cdr-researcher-census/researchers/xs-zhang-a5112161/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xs-zhang-a5112161/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xi'an Jiaotong University"
+    "name": "Liaocheng University"
   },
   "sameAs": "https://openalex.org/A5112161302"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **X.S. Zhang**  
-Xi'an Jiaotong University · 🇨🇳 CN
+Liaocheng University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 127 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 129 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Seasonal variation of net ecosystem carbon exchange and gross primary production over a Loess Plateau semi-arid grassland of northwest China** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

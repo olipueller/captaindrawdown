@@ -1,7 +1,7 @@
 ---
 title: "Sandra Pärnpuu"
 description: "Sandra Pärnpuu is an Early-career Soil Carbon researcher at Estonian University of Life Sciences in EE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.341576
+date: 2026-09-11T02:38:30.297743
 url: "/cdr-researcher-census/researchers/sandra-parnpuu-a5066626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 114 |
+| Citations | 118 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Particulate and Mineral-Associated Organic Matter Increases in Organic Farming under Cover Cropping and Manure Addition** (2021)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **The long-term effect of biochar on composition of soil organic matter&amp;#160;** (2021)
    1 citations · Biochar

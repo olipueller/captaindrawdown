@@ -1,7 +1,7 @@
 ---
 title: "Hadda Ben Mbarek"
 description: "Hadda Ben Mbarek is a Mid-career Soil Carbon researcher at University of Sfax in TN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.960593
+date: 2026-09-11T02:38:29.901814
 url: "/cdr-researcher-census/researchers/hadda-ben-mbarek-a5109851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 211 |
+| Citations | 217 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

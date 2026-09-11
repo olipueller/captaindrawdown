@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Song"
-description: "Xiaodong Song is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.138884
+description: "Xiaodong Song is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 54 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.086722
 url: "/cdr-researcher-census/researchers/xiaodong-song-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,817 |
+| h-index | 26 |
+| Citations | 2,953 |
 | Publications | 54 |
 | CDR Focus | 7.4% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant loss of soil inorganic carbon at the continental scale** (2021)
-   142 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 2. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 3. **Improving the Spatial Prediction of Soil Organic Carbon Content Using Phenological Factors: A Case Study in the Middle and Upper Reaches of Heihe River Basin, China** (2023)
    6 citations · Soil Carbon

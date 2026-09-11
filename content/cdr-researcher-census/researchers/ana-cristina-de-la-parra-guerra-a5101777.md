@@ -1,7 +1,7 @@
 ---
 title: "Ana Cristina De la Parra-Guerra"
-description: "Ana Cristina De la Parra-Guerra is a Mid-career Soil Carbon researcher at University of Atlántico in CO. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.073698
+description: "Ana Cristina De la Parra-Guerra is a Mid-career Soil Carbon researcher at University of Atlántico in CO. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.970962
 url: "/cdr-researcher-census/researchers/ana-cristina-de-la-parra-guerra-a5101777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 175 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 199 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Trends and Challenges in the Implementation of Agricultural Sustainable Models in the Face of Climate Change: A Review** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mumtaz Ahmad"
-description: "Mumtaz Ahmad is a Senior Biochar researcher at Khwaja Fareed University of Engineering and Information Technology in PK. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.175607
+description: "Mumtaz Ahmad is a Senior Biochar researcher at Khwaja Fareed University of Engineering and Information Technology in PK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.145422
 url: "/cdr-researcher-census/researchers/mumtaz-ahmad-a5108123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 148 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 150 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

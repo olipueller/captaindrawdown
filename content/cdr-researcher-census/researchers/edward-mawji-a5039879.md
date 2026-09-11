@@ -1,7 +1,7 @@
 ---
 title: "Edward Mawji"
-description: "Edward Mawji is a Senior Ocean CDR researcher at National Oceanography Centre in GB. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.300940
+description: "Edward Mawji is a Senior Ocean CDR researcher at National Oceanography Centre in GB. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.252890
 url: "/cdr-researcher-census/researchers/edward-mawji-a5039879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 985 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 998 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microbial ecosystem responses to alkalinity enhancement in the North Atlantic Subtropical Gyre** (2022)
-   65 citations · General CDR
+   69 citations · General CDR
 
 2. **Contrasting Estuarine Processing of Dissolved Organic Matter Derived From Natural and Human‐Impacted Landscapes** (2021)
    43 citations

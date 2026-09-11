@@ -1,7 +1,7 @@
 ---
 title: "Yunling Wu"
 description: "Yunling Wu is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.236250
+date: 2026-09-11T02:38:30.186847
 url: "/cdr-researcher-census/researchers/yunling-wu-a5006831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 134 |
+| Citations | 140 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

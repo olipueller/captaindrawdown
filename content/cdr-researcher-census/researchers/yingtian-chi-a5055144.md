@@ -1,7 +1,7 @@
 ---
 title: "Yingtian Chi"
-description: "Yingtian Chi is a Mid-career DAC researcher at Xiamen University in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085801
+description: "Yingtian Chi is a Mid-career DAC researcher at Xiamen University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.988619
 url: "/cdr-researcher-census/researchers/yingtian-chi-a5055144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 171 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 193 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Feasibility study of renewable e-methanol production: A substitution pathway from blue to green** (2024)
-   16 citations · DAC
+   18 citations · DAC
 
 2. **Achieving 100 % renewable e-methanol incorporating biomass-fired generation: A techno-economic study** (2025)
    10 citations · BECCS

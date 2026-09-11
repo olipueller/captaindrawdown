@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
-description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.168323
+description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.116447
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,40 +39,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 2,102 |
+| h-index | 27 |
+| Citations | 2,181 |
 | Publications | 52 |
-| CDR Focus | 32.7% |
+| CDR Focus | 30.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
-   50 citations · General CDR
+   52 citations · General CDR
 
 2. **Deployment of hydrogen in hard-to-abate transport sectors under limited carbon dioxide removal (CDR): Implications on global energy-land-water system** (2023)
-   49 citations · General CDR
+   50 citations · General CDR
 
 3. **Role of negative emission technologies in South Africa's pathway to net zero emissions by 2050** (2024)
    35 citations · General CDR
 
 4. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   28 citations · General CDR
+   29 citations · General CDR
 
 5. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   18 citations · Enhanced Weathering
+   19 citations · Enhanced Weathering
 
 6. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
    15 citations · General CDR
 
 7. **Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
-8. **Carbon dioxide removal and net zero emissions in Africa: an integrated assessment modelling based on three different land-based negative emission solutions** (2024)
+8. **Scaling carbon removal without delaying emission reductions** (2025)
    8 citations · General CDR
 
-9. **Scaling carbon removal without delaying emission reductions** (2025)
-   7 citations · General CDR
+9. **Carbon dioxide removal and net zero emissions in Africa: an integrated assessment modelling based on three different land-based negative emission solutions** (2024)
+   8 citations · General CDR
 
 10. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
    6 citations · General CDR

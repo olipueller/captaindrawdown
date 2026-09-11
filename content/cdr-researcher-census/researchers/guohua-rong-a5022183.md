@@ -1,7 +1,7 @@
 ---
 title: "Guohua Rong"
-description: "Guohua Rong is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.828265
+description: "Guohua Rong is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.782595
 url: "/cdr-researcher-census/researchers/guohua-rong-a5022183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 258 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 267 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

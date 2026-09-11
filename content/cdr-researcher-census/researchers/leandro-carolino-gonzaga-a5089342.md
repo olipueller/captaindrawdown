@@ -1,7 +1,7 @@
 ---
 title: "Leandro Carolino Gonzaga"
 description: "Leandro Carolino Gonzaga is a Mid-career Biochar researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.764295
+date: 2026-09-11T02:38:29.699267
 url: "/cdr-researcher-census/researchers/leandro-carolino-gonzaga-a5089342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 291 |
+| Citations | 309 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Exploring the potential of sugarcane straw biochar: Insights into N2O emissions and microbial functional genes** (2024)
-   10 citations · Biochar
+   12 citations · Biochar
 
 2. **Exploring the Potential of Sugarcane Straw Biochar: Insights into N2o Emissions and Microbial Functional Genes** (2023)
    0 citations · Biochar

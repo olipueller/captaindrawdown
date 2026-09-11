@@ -1,7 +1,7 @@
 ---
 title: "Ling Tan"
-description: "Ling Tan is a Senior Enhanced Weathering researcher at Hunan University of Science and Technology in CN. With 39 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.183978
+description: "Ling Tan is a Senior Enhanced Weathering researcher at Hunan University of Science and Technology in CN. With 39 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.133685
 url: "/cdr-researcher-census/researchers/ling-tan-a5102024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,861 |
+| h-index | 25 |
+| Citations | 1,897 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Exiting |

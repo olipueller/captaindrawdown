@@ -1,7 +1,7 @@
 ---
 title: "Shrikanta Sutradhar"
 description: "Shrikanta Sutradhar is a Mid-career Biochar researcher at Lakehead University in CA. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.659524
+date: 2026-09-11T02:38:29.585078
 url: "/cdr-researcher-census/researchers/shrikanta-sutradhar-a5009103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 359 |
+| Citations | 389 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparison of Oil-Seed Shell Biomass-Based Biochar for the Removal of Anionic Dyes—Characterization and Adsorption Efficiency Studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

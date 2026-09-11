@@ -1,7 +1,7 @@
 ---
 title: "M. R. Reyes"
-description: "M. R. Reyes is a Mid-career Soil Carbon researcher at University of Pinar del Río in CU. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.804680
+description: "M. R. Reyes is a Mid-career Soil Carbon researcher at Secretaría de Ciencia Tecnología e Innovación in MX. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.771516
 url: "/cdr-researcher-census/researchers/m-r-reyes-a5080094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/m-r-reyes-a5080094/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Pinar del R\u00edo"
+    "name": "Secretar\u00eda de Ciencia Tecnolog\u00eda e Innovaci\u00f3n"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9977-4246",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **M. R. Reyes**  
-University of Pinar del Río ·  CU
+Secretaría de Ciencia Tecnología e Innovación · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 270 |
-| Publications | 44 |
-| CDR Focus | 6.8% |
+| Citations | 273 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Effect of tree inclination and the distance from tree row on fine root biomass and soil organic carbon in the milpa intercropped with fruit trees agroforestry system** (2025)
    0 citations · Soil Carbon

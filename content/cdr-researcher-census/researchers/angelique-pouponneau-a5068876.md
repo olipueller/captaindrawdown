@@ -1,7 +1,7 @@
 ---
 title: "Angelique Pouponneau"
 description: "Angelique Pouponneau is a Mid-career Ocean CDR researcher at University of Malta in MT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.671082
+date: 2026-09-11T02:38:29.615433
 url: "/cdr-researcher-census/researchers/angelique-pouponneau-a5068876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 350 |
+| Citations | 365 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

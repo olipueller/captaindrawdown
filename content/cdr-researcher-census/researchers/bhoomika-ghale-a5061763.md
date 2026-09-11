@@ -1,7 +1,7 @@
 ---
 title: "Bhoomika Ghale"
 description: "Bhoomika Ghale is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.411513
+date: 2026-09-11T02:38:30.293286
 url: "/cdr-researcher-census/researchers/bhoomika-ghale-a5061763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 119 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Agroforestry Systems and Its Potential in Climate Change Mitigation** (2022)
-   78 citations · General CDR
+   86 citations · General CDR
 
 ## External Profiles
 

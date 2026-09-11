@@ -1,7 +1,7 @@
 ---
 title: "Pengli Yuan"
-description: "Pengli Yuan is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.402136
+description: "Pengli Yuan is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341992
 url: "/cdr-researcher-census/researchers/pengli-yuan-a5021641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 686 |
+| h-index | 15 |
+| Citations | 725 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |

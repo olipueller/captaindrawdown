@@ -1,7 +1,7 @@
 ---
 title: "Sen Xing"
-description: "Sen Xing is a Mid-career Biochar researcher at Chongqing University in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.360883
+description: "Sen Xing is a Mid-career Biochar researcher at Chongqing University in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.274234
 url: "/cdr-researcher-census/researchers/sen-xing-a5077813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 784 |
+| h-index | 10 |
+| Citations | 918 |
 | Publications | 30 |
 | CDR Focus | 13.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 2. **Grazing exclusion enriches arbuscular mycorrhizal fungal communities and improves soil organic carbon sequestration in the alpine steppe of northern Xizang** (2024)
    9 citations · Soil Carbon

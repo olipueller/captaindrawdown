@@ -1,7 +1,7 @@
 ---
 title: "Janos Szuhánszki"
 description: "Janos Szuhánszki is a Mid-career BECCS researcher at Business Innovation Centre in IT. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.559649
+date: 2026-09-11T02:38:29.508479
 url: "/cdr-researcher-census/researchers/janos-szuhanszki-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 446 |
+| Citations | 459 |
 | Publications | 31 |
 | CDR Focus | 12.9% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    8 citations · BECCS
 
 2. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 3. **Demonstration of Negative CO2 Emissions with BECCS Using Process Intensification** (2024)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Koch"
-description: "Christopher J. Koch is a Mid-career DAC researcher at University of Southern California in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.839150
+description: "Christopher J. Koch is a Mid-career DAC researcher at University of Southern California in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.769842
 url: "/cdr-researcher-census/researchers/christopher-j-koch-a5065116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 252 |
-| Publications | 23 |
-| CDR Focus | 21.7% |
+| Citations | 273 |
+| Publications | 26 |
+| CDR Focus | 19.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Glycol assisted efficient conversion of CO2 captured from air to methanol with a heterogeneous Cu/ZnO/Al2O3 catalyst** (2021)
-   44 citations · DAC
+   45 citations · DAC
 
 2. **Metal hydroxide assisted integrated direct air capture and conversion to methane with Ni/Al<sub>2</sub>O<sub>3</sub>catalysts** (2023)
-   30 citations · DAC
+   32 citations · DAC
 
 3. **CO<sub>2</sub> Capture and Direct Air CO<sub>2</sub> Capture Followed by Integrated Conversion to Methane Assisted by Metal Hydroxides and a Ru/Al<sub>2</sub>O<sub>3</sub> Catalyst** (2023)
    22 citations · General CDR

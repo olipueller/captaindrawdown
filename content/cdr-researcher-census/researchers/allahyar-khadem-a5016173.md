@@ -1,7 +1,7 @@
 ---
 title: "Allahyar Khadem"
 description: "Allahyar Khadem is a Mid-career Biochar researcher. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.495620
+date: 2026-09-11T02:38:29.439412
 url: "/cdr-researcher-census/researchers/allahyar-khadem-a5016173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 522 |
+| Citations | 548 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The effects of biochar on soil nutrients status, microbial activity and carbon sequestration potential in two calcareous soils** (2021)
-   150 citations · Biochar
+   152 citations · Biochar
 
 ## External Profiles
 

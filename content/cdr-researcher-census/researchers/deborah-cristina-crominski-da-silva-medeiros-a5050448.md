@@ -1,7 +1,7 @@
 ---
 title: "Deborah Cristina Crominski da Silva Medeiros"
-description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.689227
+description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career Biochar researcher at University of Alberta in CA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.642520
 url: "/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Deborah Cristina Crominski da Silva Medeiros",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Alberta"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-3370-7075",
     "https://openalex.org/A5050448135"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Deborah Cristina Crominski da Silva Medeiros**
+**Deborah Cristina Crominski da Silva Medeiros**  
+University of Alberta · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 338 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 346 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

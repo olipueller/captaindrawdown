@@ -1,7 +1,7 @@
 ---
 title: "P. Dinesha"
-description: "P. Dinesha is a Senior General CDR researcher at Manipal Institute of Technology in IN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146990
+description: "P. Dinesha is a Senior General CDR researcher at Manipal Institute of Technology in IN. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.096531
 url: "/cdr-researcher-census/researchers/p-dinesha-a5024519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,552 |
-| Publications | 85 |
-| CDR Focus | 5.9% |
+| Citations | 2,619 |
+| Publications | 86 |
+| CDR Focus | 5.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **CO2 capture by adsorption on biomass-derived activated char: A review** (2021)
-   202 citations · Biochar
+   209 citations · Biochar
 
 2. **Ecosystem carbon budgeting under Swietenia macrophylla King plantation in sub humid foothills of Eastern Himalayans of India** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
    4 citations · General CDR

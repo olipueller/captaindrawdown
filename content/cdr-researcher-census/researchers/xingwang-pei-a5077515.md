@@ -1,7 +1,7 @@
 ---
 title: "Xingwang Pei"
-description: "Xingwang Pei is a Mid-career General CDR researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.028067
+description: "Xingwang Pei is a Mid-career General CDR researcher at Xi'an University of Architecture and Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.080104
 url: "/cdr-researcher-census/researchers/xingwang-pei-a5077515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 189 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 167 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

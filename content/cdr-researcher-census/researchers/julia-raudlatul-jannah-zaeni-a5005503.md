@@ -1,7 +1,7 @@
 ---
 title: "Julia Raudlatul Jannah Zaeni"
 description: "Julia Raudlatul Jannah Zaeni is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.962260
+date: 2026-09-11T02:38:29.908630
 url: "/cdr-researcher-census/researchers/julia-raudlatul-jannah-zaeni-a5005503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 210 |
+| Citations | 214 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

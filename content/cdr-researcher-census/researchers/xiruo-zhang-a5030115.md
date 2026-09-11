@@ -1,7 +1,7 @@
 ---
 title: "Xiruo Zhang"
 description: "Xiruo Zhang is a Mid-career General CDR researcher at Institute of Psychology, Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.444074
+date: 2026-09-11T02:38:29.392559
 url: "/cdr-researcher-census/researchers/xiruo-zhang-a5030115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 603 |
+| Citations | 622 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

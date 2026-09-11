@@ -1,7 +1,7 @@
 ---
 title: "Mengfan Cai"
 description: "Mengfan Cai is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.449078
+date: 2026-09-11T02:38:29.397894
 url: "/cdr-researcher-census/researchers/mengfan-cai-a5103031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 595 |
+| Citations | 612 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Topsoil carbon sequestration of vegetation restoration on the Loess Plateau** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Carbon Sequestration during the Application of Processed Municipal Organic Waste in Agriculture: A Review** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

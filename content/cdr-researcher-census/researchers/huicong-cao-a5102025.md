@@ -1,7 +1,7 @@
 ---
 title: "Huicong Cao"
 description: "Huicong Cao is a Senior Soil Carbon researcher at Beijing University of Technology in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.470606
+date: 2026-09-11T02:38:29.429672
 url: "/cdr-researcher-census/researchers/huicong-cao-a5102025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 560 |
+| Citations | 565 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

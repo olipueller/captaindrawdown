@@ -1,7 +1,7 @@
 ---
 title: "Jiasheng Zhu"
-description: "Jiasheng Zhu is a Mid-career Biochar researcher at MIT University in MK. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.663850
+description: "Jiasheng Zhu is a Mid-career Biochar researcher at RMIT University in AU. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.591685
 url: "/cdr-researcher-census/researchers/jiasheng-zhu-a5001788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiasheng-zhu-a5001788/",
   "affiliation": {
     "@type": "Organization",
-    "name": "MIT University"
+    "name": "RMIT University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4806-9296",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiasheng Zhu**  
-MIT University ·  MK
+RMIT University · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 356 |
+| h-index | 11 |
+| Citations | 383 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon sequestration from waste and carbon dioxide mineralisation in concrete – A stronger, sustainable and eco-friendly solution to support circular economy** (2023)
-   64 citations · Biochar
+   68 citations · Biochar
 
 2. **Effect of fine-grained wood biochar on the geotechnical and microstructural behaviour of expansive clay as pavement subgrade** (2025)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Johanna Hoppe"
-description: "Johanna Hoppe is an Early-career General CDR researcher at Leibniz Association in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.238186
+description: "Johanna Hoppe is an Early-career General CDR researcher at Technische Universität Berlin in DE. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.103450
 url: "/cdr-researcher-census/researchers/johanna-hoppe-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/johanna-hoppe-a5108609/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leibniz Association"
+    "name": "Technische Universit\u00e4t Berlin"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-6753-5090",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Johanna Hoppe**  
-Leibniz Association · 🇩🇪 DE
+Technische Universität Berlin · 🇩🇪 DE
 
 **Career Stage:** Early-career
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 133 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 159 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)** (2024)
    1 citations · DAC

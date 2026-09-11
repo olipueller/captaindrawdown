@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
-description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.458844
+description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.416044
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 578 |
-| Publications | 58 |
-| CDR Focus | 36.2% |
+| Citations | 583 |
+| Publications | 57 |
+| CDR Focus | 35.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    56 citations · Enhanced Weathering
 
 2. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
-   45 citations
+   46 citations
 
 3. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
    44 citations · Enhanced Weathering
@@ -72,7 +72,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    2 citations · Enhanced Weathering
 
 8. **Optimizing the management of quarry fines for on-site carbon removal: Implications of grain size and mineralogy on CO2 mineralization** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 9. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
    1 citations · Enhanced Weathering

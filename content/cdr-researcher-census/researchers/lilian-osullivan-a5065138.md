@@ -1,7 +1,7 @@
 ---
 title: "Lilian O’Sullivan"
-description: "Lilian O’Sullivan is a Senior Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.240015
+description: "Lilian O’Sullivan is a Senior Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.192500
 url: "/cdr-researcher-census/researchers/lilian-osullivan-a5065138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,329 |
+| h-index | 21 |
+| Citations | 1,335 |
 | Publications | 69 |
 | CDR Focus | 5.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   74 citations · General CDR
+   75 citations · General CDR
 
 2. **Field scale estimates of soil carbon stocks on ten heavy textured farms across Ireland** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Impact of management intensity of agricultural systems and soil intrinsic characteristics on soil organic carbon stocks** (2026)
    1 citations · Soil Carbon

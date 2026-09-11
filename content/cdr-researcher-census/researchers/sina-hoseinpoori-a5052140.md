@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
-description: "Sina Hoseinpoori is a Mid-career DAC researcher at Chalmers University of Technology in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.890489
+description: "Sina Hoseinpoori is a Mid-career DAC researcher at Chalmers University of Technology in SE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.865856
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,8 +44,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 |--------|-------|
 | h-index | 5 |
 | Citations | 229 |
-| Publications | 12 |
-| CDR Focus | 33.3% |
+| Publications | 13 |
+| CDR Focus | 38.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,19 +54,25 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    9 citations · DAC
 
 2. **Integration of sorbent-based direct air capture into combined heat and power plants with post-combustion carbon capture** (2025)
-   7 citations
+   8 citations
 
-3. **Opportunities for Direct Air Capture Technologies** (2026)
+3. **Exploring Alternative Opportunities for Direct Air Capture Technologies** (2025)
    0 citations · DAC
 
-4. **Capturing or offsetting carbon emissions: techno-economic evaluation of decarbonising industries with CO₂-lean flue gas** (2026)
+4. **Opportunities for Direct Air Capture Technologies** (2026)
+   0 citations · DAC
+
+5. **Capturing or offsetting carbon emissions: techno-economic evaluation of decarbonising industries with CO₂-lean flue gas** (2026)
    0 citations
 
-5. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
+6. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
    0 citations · DAC
 
-6. **Integration of Sorbent-Based Direct Air Capture into Combined Heat and Power Plants with Post-Combustion Carbon Capture** (2025)
+7. **Integration of Sorbent-Based Direct Air Capture into Combined Heat and Power Plants with Post-Combustion Carbon Capture** (2025)
    0 citations · DAC
+
+8. **Assessing Cost of CO2 Capture From Flue Gas Streams With Low CO2 Concentration** (2025)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sneha Priya Pappula Reddy"
-description: "Sneha Priya Pappula Reddy is a Mid-career Soil Carbon researcher at The University of Western Australia in AU. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.393304
+description: "Sneha Priya Pappula Reddy is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.331747
 url: "/cdr-researcher-census/researchers/sneha-priya-pappula-reddy-a5010179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sneha Priya Pappula Reddy",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sneha-priya-pappula-reddy-a5010179/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "The University of Western Australia"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-9717-2439",
     "https://openalex.org/A5010179249"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Sneha Priya Pappula Reddy**  
-The University of Western Australia · 🇦🇺 AU
+**Sneha Priya Pappula Reddy**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 704 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 752 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Role of Arbuscular Mycorrhizal Fungi in Regulating Growth, Enhancing Productivity, and Potentially Influencing Ecosystems under Abiotic and Biotic Stresses** (2023)
-   501 citations · Soil Carbon
+   523 citations · Soil Carbon
 
 ## External Profiles
 

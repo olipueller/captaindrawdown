@@ -1,7 +1,7 @@
 ---
 title: "Hizumi Lua Sarti Seó"
 description: "Hizumi Lua Sarti Seó is a Mid-career Soil Carbon researcher at Bio-Medical Science (South Korea) in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.178319
+date: 2026-09-11T02:38:30.139625
 url: "/cdr-researcher-census/researchers/hizumi-lua-sarti-seo-a5031755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 147 |
+| Citations | 151 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

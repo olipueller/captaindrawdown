@@ -1,7 +1,7 @@
 ---
 title: "Miaojing Meng"
-description: "Miaojing Meng is a Mid-career Enhanced Weathering researcher at Nanjing Forestry University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.308223
+description: "Miaojing Meng is a Mid-career Enhanced Weathering researcher at Nanjing Forestry University in CN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.258904
 url: "/cdr-researcher-census/researchers/miaojing-meng-a5110834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 960 |
+| h-index | 16 |
+| Citations | 979 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

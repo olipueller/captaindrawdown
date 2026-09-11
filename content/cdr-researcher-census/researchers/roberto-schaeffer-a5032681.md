@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
-description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 317 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.067605
+description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 332 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.020566
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 63 |
-| Citations | 17,874 |
-| Publications | 317 |
-| CDR Focus | 6.0% |
+| h-index | 62 |
+| Citations | 18,130 |
+| Publications | 332 |
+| CDR Focus | 5.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   408 citations · General CDR
+   425 citations · General CDR
 
 2. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · General CDR
 
 5. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
-   22 citations · General CDR
+   24 citations · General CDR
 
 6. **Stranded crude oil resources and just transition: Why do crude oil quality, climate ambitions and land-use emissions matter** (2022)
    19 citations
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    12 citations · BECCS
 
 9. **Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective** (2024)
-   8 citations · General CDR
+   10 citations · General CDR
 
 10. **<scp>BLOEM</scp>: A spatially explicit model of bioenergy and carbon capture and storage, applied to Brazil** (2022)
-   8 citations · BECCS
+   9 citations · BECCS
 
 ## External Profiles
 

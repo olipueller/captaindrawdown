@@ -1,7 +1,7 @@
 ---
 title: "Zhaoming Qu"
-description: "Zhaoming Qu is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.551277
+description: "Zhaoming Qu is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.491443
 url: "/cdr-researcher-census/researchers/zhaoming-qu-a5024476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 455 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 12 |
+| Citations | 478 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Humic acid modulates growth, photosynthesis, hormone and osmolytes system of maize under drought conditions** (2022)
-   121 citations · Soil Carbon
+   126 citations · Soil Carbon
 
 2. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   28 citations
+   30 citations
 
 ## External Profiles
 

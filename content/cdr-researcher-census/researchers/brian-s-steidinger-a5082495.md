@@ -1,7 +1,7 @@
 ---
 title: "Brian S. Steidinger"
-description: "Brian S. Steidinger is a Mid-career Enhanced Weathering researcher at University of Edinburgh in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.276598
+description: "Brian S. Steidinger is a Mid-career Enhanced Weathering researcher at University of Edinburgh in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.223357
 url: "/cdr-researcher-census/researchers/brian-s-steidinger-a5082495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,108 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 1,140 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

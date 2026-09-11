@@ -1,7 +1,7 @@
 ---
 title: "Cristinel Constandache"
-description: "Cristinel Constandache is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.023136
+description: "Cristinel Constandache is a Senior Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 45 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.893762
 url: "/cdr-researcher-census/researchers/cristinel-constandache-a5087725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Cristinel Constandache**  
 National Institute for Research and Development in Forestry "Marin Drăcea" ·  RO
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -39,22 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 190 |
-| Publications | 42 |
-| CDR Focus | 7.1% |
+| h-index | 9 |
+| Citations | 220 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Agricultural Benefits of Shelterbelts and Windbreaks: A Bibliometric Analysis** (2025)
-   29 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Timber Harvesting in Mountainous Regions: A Comprehensive Review** (2025)
-   21 citations · General CDR
+   24 citations · General CDR
 
 3. **Pine afforestation on degraded lands: a global review of carbon sequestration potential** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
+
+4. **Ecology of Nitrogen Cycling in Young Forest Ecosystems: Drivers, Ecosystem Functioning, and Research Perspectives** (2026)
+   0 citations
 
 ## External Profiles
 

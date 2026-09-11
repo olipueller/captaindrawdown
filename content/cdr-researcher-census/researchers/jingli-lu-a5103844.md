@@ -1,7 +1,7 @@
 ---
 title: "Jingli Lu"
 description: "Jingli Lu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.242051
+date: 2026-09-11T02:38:29.188774
 url: "/cdr-researcher-census/researchers/jingli-lu-a5103844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,318 |
+| Citations | 1,369 |
 | Publications | 32 |
 | CDR Focus | 9.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Short-term nutrient addition increases soil organic carbon accumulation in tropical forest** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Soil Organic Carbon Dynamics and Influencing Factors Under Different Vegetation Restoration Strategies in Tropical Forests of Southern China** (2025)
    0 citations · Soil Carbon

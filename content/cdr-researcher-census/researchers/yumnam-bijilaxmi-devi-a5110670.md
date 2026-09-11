@@ -1,7 +1,7 @@
 ---
 title: "Yumnam Bijilaxmi Devi"
-description: "Yumnam Bijilaxmi Devi is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.781077
+description: "Yumnam Bijilaxmi Devi is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.734219
 url: "/cdr-researcher-census/researchers/yumnam-bijilaxmi-devi-a5110670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 282 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 291 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

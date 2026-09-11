@@ -1,7 +1,7 @@
 ---
 title: "Ensieh Ghasemian"
 description: "Ensieh Ghasemian is a Senior Biochar researcher at Ilam University in IR. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.601192
+date: 2026-09-11T02:38:29.561971
 url: "/cdr-researcher-census/researchers/ensieh-ghasemian-a5031215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 405 |
+| Citations | 407 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

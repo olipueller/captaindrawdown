@@ -1,7 +1,7 @@
 ---
 title: "Xiangwen Fan"
-description: "Xiangwen Fan is a Mid-career General CDR researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.703619
+description: "Xiangwen Fan is a Mid-career General CDR researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.647050
 url: "/cdr-researcher-census/researchers/xiangwen-fan-a5085293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Xiangwen Fan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiangwen-fan-a5085293/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "State Key Laboratory of Pollution Control and Resource Reuse"
+  },
   "sameAs": "https://openalex.org/A5085293283"
 }
 </script>
 
 ## Profile
 
-**Xiangwen Fan**
+**Xiangwen Fan**  
+State Key Laboratory of Pollution Control and Resource Reuse · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 328 |
+| Citations | 343 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -43,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Investing in mini-livestock production for food security and carbon neutrality in China** (2023)
-   20 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

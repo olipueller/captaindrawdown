@@ -1,7 +1,7 @@
 ---
 title: "Jimin Zhu"
 description: "Jimin Zhu is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456651
+date: 2026-09-11T02:38:29.390841
 url: "/cdr-researcher-census/researchers/jimin-zhu-a5090659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 582 |
+| Citations | 624 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

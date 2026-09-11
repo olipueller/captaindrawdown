@@ -1,7 +1,7 @@
 ---
 title: "Oleksii Tomin"
-description: "Oleksii Tomin is a Mid-career Biochar researcher at Aalto University in FI. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.287162
+description: "Oleksii Tomin is a Mid-career Biochar researcher at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” in UA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.245990
 url: "/cdr-researcher-census/researchers/oleksii-tomin-a5071825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/oleksii-tomin-a5071825/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Aalto University"
+    "name": "National Technical University of Ukraine \u201cIgor Sikorsky Kyiv Polytechnic Institute\u201d"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9927-6984",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Oleksii Tomin**  
-Aalto University ·  FI
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” ·  UA
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 124 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 128 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis and efficiency comparison of reed straw-based biochar as a mesoporous adsorbent for ionic dyes removal** (2024)
-   36 citations · Biochar
+   37 citations · Biochar
 
 2. **Tailoring metal-impregnated biochars for selective removal of natural organic matter and dissolved phosphorus from the aqueous phase** (2021)
    35 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Karina Anaya"
-description: "Karina Anaya is an Early-career DAC researcher at University of Alberta in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.427240
+description: "Karina Anaya is an Early-career DAC researcher at University of Alberta in CA. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.371232
 url: "/cdr-researcher-census/researchers/karina-anaya-a5002636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 633 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 661 |
+| Publications | 6 |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Net-negative emission methanol from direct air capture and water electrolysis: A comprehensive analysis of multiple energy pathways** (2026)
-   0 citations · DAC
+1. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
+   1 citations · DAC
 
-2. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
+2. **Net-negative emission methanol from direct air capture and water electrolysis: A comprehensive analysis of multiple energy pathways** (2026)
    0 citations · DAC
 
 ## External Profiles

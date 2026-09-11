@@ -1,7 +1,7 @@
 ---
 title: "Kosar Hikmat Hama Aziz"
-description: "Kosar Hikmat Hama Aziz is a Senior Biochar researcher at Brandenburgische Technische Universität Cottbus-Senftenberg in DE. With 72 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.095227
+description: "Kosar Hikmat Hama Aziz is an Eminent Biochar researcher at Brandenburgische Technische Universität Cottbus-Senftenberg in DE. With 78 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.040990
 url: "/cdr-researcher-census/researchers/kosar-hikmat-hama-aziz-a5011196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Kosar Hikmat Hama Aziz**  
 Brandenburgische Technische Universität Cottbus-Senftenberg · 🇩🇪 DE
 
-**Career Stage:** Senior
+**Career Stage:** Eminent
 
 ## CDR Specialization
 
@@ -42,28 +42,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 38 |
-| Citations | 5,255 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| h-index | 40 |
+| Citations | 6,078 |
+| Publications | 78 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of toxic heavy metals from aquatic environment by metal organic framework (MOF): A review** (2025)
-   124 citations
+   135 citations
 
 2. **Recent advances in water remediation from toxic heavy metals using biochar as a green and efficient adsorbent: A review** (2023)
-   105 citations · Biochar
+   108 citations · Biochar
 
 3. **Removal of toxic heavy metals from aquatic systems using low-cost and sustainable biochar: A review** (2024)
-   89 citations · Biochar
+   90 citations · Biochar
 
 4. **Biochar, hydrochar, and their derivative composites for heavy metal adsorption** (2025)
-   12 citations · Biochar
+   15 citations · Biochar
 
 5. **Green synthesized Fe-modified biochar for peroxydisulfate activation and organic pollutant degradation via synergistic radical and non-radical pathways** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 6. **Sustainable and efficient persulfate activation by pristine pumpkin seed pomace biochar: a low-energy regeneration strategy and singlet oxygen-dominated pathways** (2025)
    0 citations · Biochar

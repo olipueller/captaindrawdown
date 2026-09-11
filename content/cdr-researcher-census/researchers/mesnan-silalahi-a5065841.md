@@ -1,7 +1,7 @@
 ---
 title: "Mesnan Silalahi"
-description: "Mesnan Silalahi is a Senior BECCS researcher. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.238797
+description: "Mesnan Silalahi is a Senior BECCS researcher at Gatot Soebroto Army Hospital in ID. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.181201
 url: "/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mesnan Silalahi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Gatot Soebroto Army Hospital"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0171-0974",
     "https://openalex.org/A5065841482"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mesnan Silalahi**
+**Mesnan Silalahi**  
+Gatot Soebroto Army Hospital · 🇮🇩 ID
 
 **Career Stage:** Senior
 
@@ -38,18 +43,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 133 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 141 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Zero-Waste Bioenergy to Lower Energy Transition Risks in Indonesia — A Circular Economy Practice on Methane Capture in Biogas Production from POME** (2024)
-   4 citations · BECCS
+   7 citations · BECCS
 
 2. **Zero-Waste Bioenergy to Lower Energy Transition Risks in Indonesia** (2023)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

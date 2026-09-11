@@ -1,7 +1,7 @@
 ---
 title: "Knut Görl"
 description: "Knut Görl is a Mid-career General CDR researcher at Helmholtz-Zentrum Hereon in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.385203
+date: 2026-09-11T02:38:30.336168
 url: "/cdr-researcher-census/researchers/knut-gorl-a5000366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 106 |
+| Citations | 110 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   0 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

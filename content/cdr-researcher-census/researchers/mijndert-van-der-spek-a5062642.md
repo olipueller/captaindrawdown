@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
-description: "Mijndert van der Spek is a Senior General CDR researcher at ETH Zürich in CH. With 124 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.126199
+description: "Mijndert van der Spek is a Senior General CDR researcher at ETH Zürich in CH. With 126 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.074538
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 3,284 |
-| Publications | 124 |
-| CDR Focus | 16.1% |
+| h-index | 26 |
+| Citations | 3,430 |
+| Publications | 126 |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   194 citations · DAC
+   202 citations · DAC
 
 2. **The impact of binary water–CO <sub>2</sub> isotherm models on the optimal performance of sorbent-based direct air capture processes** (2021)
-   173 citations
+   181 citations
 
 3. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   114 citations
+   119 citations
 
 4. **Process-informed adsorbent design guidelines for direct air capture** (2022)
-   79 citations
+   82 citations
 
 5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 6. **Discerning molecular-level CO<sub>2</sub> adsorption behavior in amine-modified sorbents within a controlled CO<sub>2</sub>/H<sub>2</sub>O environment towards direct air capture** (2024)
-   24 citations
+   25 citations
 
-7. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
+7. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
+   17 citations · General CDR
+
+8. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
    16 citations · General CDR
-
-8. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    12 citations

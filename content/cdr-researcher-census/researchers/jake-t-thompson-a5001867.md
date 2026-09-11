@@ -1,7 +1,7 @@
 ---
 title: "Jake T. Thompson"
 description: "Jake T. Thompson is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.781814
+date: 2026-09-11T02:38:29.752184
 url: "/cdr-researcher-census/researchers/jake-t-thompson-a5001867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 282 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

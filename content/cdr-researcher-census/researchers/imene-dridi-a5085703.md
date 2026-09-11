@@ -1,7 +1,7 @@
 ---
 title: "Imene Dridi"
 description: "Imene Dridi is a Mid-career Biochar researcher at Tunis University in TN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.414543
+date: 2026-09-11T02:38:30.365185
 url: "/cdr-researcher-census/researchers/imene-dridi-a5085703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 106 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

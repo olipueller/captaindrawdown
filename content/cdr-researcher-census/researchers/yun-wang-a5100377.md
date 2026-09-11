@@ -1,7 +1,7 @@
 ---
 title: "Yun Wang"
 description: "Yun Wang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.508130
+date: 2026-09-11T02:38:29.447966
 url: "/cdr-researcher-census/researchers/yun-wang-a5100377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 503 |
+| Citations | 534 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **44-Years of Fertilization Altered Soil Microbial Community Structure by Changing Soil Physical, Chemical Properties and Enzyme Activity** (2024)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

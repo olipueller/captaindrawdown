@@ -1,7 +1,7 @@
 ---
 title: "Zihong Zhu"
-description: "Zihong Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.376367
+description: "Zihong Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.284187
 url: "/cdr-researcher-census/researchers/zihong-zhu-a5079824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
-| Publications | 17 |
-| CDR Focus | 35.3% |
+| Citations | 121 |
+| Publications | 18 |
+| CDR Focus | 38.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Mihajlo Ćirić"
-description: "Mihajlo Ćirić is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.157417
+description: "Mihajlo Ćirić is a Mid-career Soil Carbon researcher at Institute of Field and Vegetable Crops in RS. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.114589
 url: "/cdr-researcher-census/researchers/mihajlo-ciric-a5046631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mihajlo \u0106iri\u0107",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mihajlo-ciric-a5046631/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Field and Vegetable Crops"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0888-3712",
     "https://openalex.org/A5046631462"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mihajlo Ćirić**
+**Mihajlo Ćirić**  
+Institute of Field and Vegetable Crops ·  RS
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 152 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 157 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

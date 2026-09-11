@@ -1,7 +1,7 @@
 ---
 title: "Juanping Ni"
-description: "Juanping Ni is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.177830
+description: "Juanping Ni is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.105246
 url: "/cdr-researcher-census/researchers/juanping-ni-a5044612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 147 |
-| Publications | 12 |
-| CDR Focus | 25.0% |
+| h-index | 7 |
+| Citations | 159 |
+| Publications | 13 |
+| CDR Focus | 23.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Forest development induces soil aggregate formation and stabilization: Implications for sequestration of soil carbon and nitrogen** (2024)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Unreported role of earthworms as decomposers of soil extracellular polymeric substance** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Long-term nitrogen deposition suppresses microbial necromass carbon with depth- and season-specific patterns in forest soils** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

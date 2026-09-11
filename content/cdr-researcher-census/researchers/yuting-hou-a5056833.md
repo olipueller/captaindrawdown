@@ -1,7 +1,7 @@
 ---
 title: "Yuting Hou"
-description: "Yuting Hou is a Senior Soil Carbon researcher at Xinjiang Academy of Agricultural Sciences in CN. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.403059
+description: "Yuting Hou is a Senior Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.339693
 url: "/cdr-researcher-census/researchers/yuting-hou-a5056833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuting-hou-a5056833/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinjiang Academy of Agricultural Sciences"
+    "name": "Hong Kong Polytechnic University"
   },
   "sameAs": "https://openalex.org/A5056833699"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuting Hou**  
-Xinjiang Academy of Agricultural Sciences · 🇨🇳 CN
+Hong Kong Polytechnic University · 🇭🇰 HK
 
 **Career Stage:** Senior
 
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 683 |
-| Publications | 54 |
-| CDR Focus | 5.6% |
+| h-index | 15 |
+| Citations | 731 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Crop diversification promotes soil aggregation and carbon accumulation in global agroecosystems: A meta-analysis** (2023)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Long-term plastic mulching decreases rhizoplane soil carbon sequestration by decreasing microbial anabolism** (2023)
    10 citations · Soil Carbon
 
 3. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
-   0 citations
+   1 citations
 
 4. **Comparing the spatio-temporal differences of global NPP simulation data with different resolutions** (2022)
    0 citations · General CDR

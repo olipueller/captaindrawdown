@@ -1,7 +1,7 @@
 ---
 title: "Águeda Sánchez-Martín"
 description: "Águeda Sánchez-Martín is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 27 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.204146
+date: 2026-09-11T02:38:30.147563
 url: "/cdr-researcher-census/researchers/agueda-sanchez-martin-a5060729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 141 |
+| Citations | 149 |
 | Publications | 27 |
 | CDR Focus | 14.8% |
 | Trajectory | Stable |
@@ -53,13 +53,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Suitability of Volcanic Ash, Rice Husk Ash, Green Compost and Biochar as Amendments for a Mediterranean Alkaline Soil** (2023)
    15 citations · Biochar
 
-2. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
+2. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
+   2 citations · Soil Carbon
+
+3. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
    2 citations · Biochar
 
-3. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   0 citations · Soil Carbon
+4. **The hydrogen puzzle in rock-enhanced biochar: Pyrogenic coating, mineral redox and pore accessibility** (2026)
+   0 citations · Biochar
 
-4. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
+5. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

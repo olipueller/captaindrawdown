@@ -1,7 +1,7 @@
 ---
 title: "Mengli Zhao"
-description: "Mengli Zhao is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 96 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.171612
+description: "Mengli Zhao is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 95 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122192
 url: "/cdr-researcher-census/researchers/mengli-zhao-a5102352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 2,057 |
-| Publications | 96 |
-| CDR Focus | 6.2% |
+| Citations | 2,076 |
+| Publications | 95 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,10 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Long-term sheep grazing reduces fungal necromass carbon contribution to soil organic carbon in the desert steppe** (2024)
    6 citations · Soil Carbon
 
-3. **Grazing disturbance reduces soil organic carbon sequestration and stability in desert steppe** (2025)
-   4 citations · Soil Carbon
+3. **Host plant and soil nutrient filters mediate long‐term grazing on arbuscular mycorrhizal fungi in desert grasslands** (2025)
+   5 citations · Soil Carbon
 
-4. **Host plant and soil nutrient filters mediate long‐term grazing on arbuscular mycorrhizal fungi in desert grasslands** (2025)
+4. **Grazing disturbance reduces soil organic carbon sequestration and stability in desert steppe** (2025)
    4 citations · Soil Carbon
 
 5. **Different responses of spatial heterogeneity of grassland vegetation to grazing intensity in northern China** (2024)

@@ -1,7 +1,7 @@
 ---
 title: "Wanqian Guo"
 description: "Wanqian Guo is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.905260
+date: 2026-09-11T02:38:29.872787
 url: "/cdr-researcher-census/researchers/wanqian-guo-a5071741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 224 |
+| Citations | 228 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential Effects of Microbial Carbon Chain Elongation Metabolism Induced by Organic Inputs in Soil: Carbohydrates, Lipids, Organic Acids, and Alcohols** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

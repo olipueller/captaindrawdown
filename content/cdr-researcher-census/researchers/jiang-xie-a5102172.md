@@ -1,7 +1,7 @@
 ---
 title: "Jiang Xie"
 description: "Jiang Xie is a Mid-career Soil Carbon researcher at Yunnan Institute of Tropical Crops in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.184096
+date: 2026-09-11T02:38:30.115234
 url: "/cdr-researcher-census/researchers/jiang-xie-a5102172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 146 |
+| Citations | 157 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Taylor M. Sloey"
 description: "Taylor M. Sloey is a Mid-career Soil Carbon researcher at Old Dominion University in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.451557
+date: 2026-09-11T02:38:29.388087
 url: "/cdr-researcher-census/researchers/taylor-m-sloey-a5032280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 590 |
+| Citations | 629 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Edge effects impact blue carbon dynamics across coastal ecotones in a tropical seascape** (2024)
    6 citations · General CDR

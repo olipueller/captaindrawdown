@@ -1,7 +1,7 @@
 ---
 title: "Jiří Mastný"
 description: "Jiří Mastný is a Mid-career Soil Carbon researcher at University of South Bohemia in České Budějovice in CZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.933757
+date: 2026-09-11T02:38:29.888654
 url: "/cdr-researcher-census/researchers/jiri-mastny-a5020651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 213 |
+| Citations | 222 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rewilding by large ungulates contributes to organic carbon storage in soils** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

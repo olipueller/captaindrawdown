@@ -1,7 +1,7 @@
 ---
 title: "Yuanze Sun"
-description: "Yuanze Sun is a Senior Soil Carbon researcher at China Agricultural University in CN. With 53 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.140539
+description: "Yuanze Sun is a Senior Soil Carbon researcher at China Agricultural University in CN. With 55 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.087243
 url: "/cdr-researcher-census/researchers/yuanze-sun-a5101444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,749 |
-| Publications | 53 |
-| CDR Focus | 7.5% |
+| h-index | 26 |
+| Citations | 2,907 |
+| Publications | 55 |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microplastic-Derived Dissolved Organic Matter Regulates Soil Carbon Respiration via Microbial Ecophysiological Controls** (2025)
-   31 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
-   26 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Multitrophic interactions support belowground carbon sequestration through microbial necromass accumulation in dryland biocrusts** (2024)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Microplastic Mixture Diversity Destabilizes Mineral-Associated Carbon via Constraining the Accumulation of Microbial Necromass** (2025)
-   7 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Matthew Sclafani"
 description: "Matthew Sclafani is a Senior Ocean CDR researcher at Cornell University in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.615767
+date: 2026-09-11T02:38:29.568791
 url: "/cdr-researcher-census/researchers/matthew-sclafani-a5060472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 393 |
+| Citations | 402 |
 | Publications | 27 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Shirzad"
-description: "Mohammad Shirzad is a Mid-career Biochar researcher at Universidade do Porto in PT. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.383874
+description: "Mohammad Shirzad is a Mid-career Biochar researcher at Universidade do Porto in PT. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.330877
 url: "/cdr-researcher-census/researchers/mohammad-shirzad-a5089614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 724 |
+| h-index | 10 |
+| Citations | 754 |
 | Publications | 17 |
 | CDR Focus | 17.6% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon dioxide separation and capture by adsorption: a review** (2023)
-   258 citations · General CDR
+   262 citations · General CDR
 
 2. **Biomass/Biochar carbon materials for CO2 capture and sequestration by cyclic adsorption processes: A review and prospects for future directions** (2022)
-   221 citations · Biochar
+   225 citations · Biochar
 
 3. **Biochar in Carbon Sequestration** (2023)
    5 citations · Biochar

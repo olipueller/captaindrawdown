@@ -1,7 +1,7 @@
 ---
 title: "Zhipei Tang"
-description: "Zhipei Tang is a Mid-career DAC researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.705994
+description: "Zhipei Tang is a Mid-career DAC researcher at Harbin Institute of Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.620647
 url: "/cdr-researcher-census/researchers/zhipei-tang-a5076139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 326 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 361 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Review: Scenario-specific applications of direct air capture technology and system optimization approaches** (2025)
-   2 citations · DAC
+   5 citations · DAC
 
 2. **Local Steric Hindrance Modulates Low-Partial-Pressure CO₂ Capture Behavior and Reaction Mechanisms in Amino Acid Salts** (2026)
    0 citations

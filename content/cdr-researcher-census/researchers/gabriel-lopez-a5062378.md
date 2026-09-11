@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Lopez"
-description: "Gabriel Lopez is a Mid-career General CDR researcher at LUT School of Energy Systems in FI. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.186904
+description: "Gabriel Lopez is a Mid-career General CDR researcher at LUT School of Energy Systems in FI. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.128094
 url: "/cdr-researcher-census/researchers/gabriel-lopez-a5062378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,817 |
-| Publications | 45 |
-| CDR Focus | 6.7% |
+| h-index | 18 |
+| Citations | 1,989 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **On the History and Future of 100% Renewable Energy Systems Research** (2022)
-   564 citations · General CDR
+   582 citations · General CDR
 
 2. **Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios** (2022)
-   103 citations · DAC
+   106 citations · DAC
 
 3. **Paving the way towards a sustainable future or lagging behind? An ex-post analysis of the International Energy Agency's World Energy Outlook** (2025)
-   69 citations · General CDR
+   73 citations · General CDR
 
 4. **Climate and biodiversity impacts of low-density polyethylene production from CO2 and electricity in comparison to bio-based polyethylene** (2023)
    21 citations

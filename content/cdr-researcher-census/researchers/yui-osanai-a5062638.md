@@ -1,7 +1,7 @@
 ---
 title: "Yui Osanai"
-description: "Yui Osanai is a Senior Soil Carbon researcher at University of New England in AU. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.275949
+description: "Yui Osanai is a Senior Soil Carbon researcher at University of New England in AU. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.226518
 url: "/cdr-researcher-census/researchers/yui-osanai-a5062638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,112 |
-| Publications | 32 |
-| CDR Focus | 9.4% |
+| Citations | 1,125 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Determining the role of land resource, cropping and management practices in soil organic carbon status of rice-based cropping systems** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Based on soil carbon saturation capacity what is the potential for soil carbon improvement in rice-based cropping systems of northwest region of Bangladesh?** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **The Influence of Land Resources and Land Use Intensity on Soil Organic Carbon in Rice-Based Cropping Systems** (2022)
    0 citations · Soil Carbon

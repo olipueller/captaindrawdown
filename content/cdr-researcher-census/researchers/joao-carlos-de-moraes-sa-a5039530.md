@@ -1,7 +1,7 @@
 ---
 title: "João Carlos de Moraes Sá"
 description: "João Carlos de Moraes Sá is a Senior Soil Carbon researcher at College of Food, Agricultural, and Environmental Sciences, Ohio State University in US. With 78 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.107530
+date: 2026-09-11T02:38:29.057814
 url: "/cdr-researcher-census/researchers/joao-carlos-de-moraes-sa-a5039530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 33 |
-| Citations | 4,264 |
+| Citations | 4,316 |
 | Publications | 78 |
 | CDR Focus | 6.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanical and biological chiseling impacts on soil organic C stocks, root growth, and crop yield in a long-term no-till system** (2021)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Preservation of labile organic compounds is the pathway for carbon storage in a 23-year continuous no-till system on a Ferralsol in southern Brazil** (2023)
    15 citations · Soil Carbon
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 4. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   9 citations
+   10 citations
 
 5. **Accessing and modelling soil organic carbon stocks in Prairies, Savannas, and forests** (2024)
    7 citations
 
 6. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
    1 citations · Soil Carbon

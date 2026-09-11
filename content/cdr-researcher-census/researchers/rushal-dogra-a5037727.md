@@ -1,7 +1,7 @@
 ---
 title: "Rushal Dogra"
-description: "Rushal Dogra is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.394601
+description: "Rushal Dogra is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.236792
 url: "/cdr-researcher-census/researchers/rushal-dogra-a5037727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 105 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
-| Trajectory | Exiting |
+| h-index | 7 |
+| Citations | 130 |
+| Publications | 16 |
+| CDR Focus | 18.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Land‐use systems for biomass, carbon storage, and carbon credit: implications for climate change mitigation in subtropical pockets of Vindhyan region, India** (2024)
-   9 citations · General CDR
+   12 citations · General CDR
 
 2. **Effects of long-term conservation agriculture on productivity, soil carbon sequestration and greenhouse gas emissions in rice-wheat systems of the eastern Indo-Gangetic Plains** (2026)
+   1 citations · Soil Carbon
+
+3. **Long‐term conservation agriculture improves soil carbon, energy efficiency, weed suppression, and productivity in the rice–wheat cropping system** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

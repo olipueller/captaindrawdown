@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Guo"
-description: "Xiaowei Guo is a Senior Soil Carbon researcher at Qinghai University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.323301
+description: "Xiaowei Guo is a Senior Soil Carbon researcher at Qinghai University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.256952
 url: "/cdr-researcher-census/researchers/xiaowei-guo-a5102933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 896 |
-| Publications | 31 |
-| CDR Focus | 9.7% |
+| h-index | 14 |
+| Citations | 986 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Global pattern of organic carbon pools in forest soils** (2024)
-   70 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 2. **Climate Warming-Driven Changes in the Molecular Composition of Soil Dissolved Organic Matter Across Depth: A Case Study on the Tibetan Plateau** (2023)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Efficiency of additional organic inputs for carbon sequestration in agricultural soils modulated by the priming effect and physical accessibility** (2021)
    18 citations · Soil Carbon

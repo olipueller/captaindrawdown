@@ -1,7 +1,7 @@
 ---
 title: "Tansu Galimova"
-description: "Tansu Galimova is a Mid-career DAC researcher at LUT University in FI. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.318447
+description: "Tansu Galimova is a Mid-career DAC researcher at LUT University in FI. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.252769
 url: "/cdr-researcher-census/researchers/tansu-galimova-a5075741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 917 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| Citations | 998 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals** (2022)
-   139 citations · DAC
+   142 citations · DAC
 
 2. **Energy and industry transition to carbon-neutrality in Nordic conditions via local renewable sources, electrification, sector coupling, and power-to-X** (2025)
-   44 citations · BECCS
+   46 citations · BECCS
 
 3. **Analysis of production routes for silicon carbide using air as carbon source empowering negative emissions** (2024)
    26 citations · DAC
 
 4. **The value of CO2 point source capture for the energy-industry system transition** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 5. **Supplementary Materials for "Biomass as a Transportable Biogenic Carbon Carrier for e-Methanol Production: Techno-Economic Comparison with CO2 Transport and Direct Air Capture"** (2026)
    0 citations · DAC

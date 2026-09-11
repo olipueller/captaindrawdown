@@ -1,7 +1,7 @@
 ---
 title: "Shuai Wang"
 description: "Shuai Wang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 160 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105829
+date: 2026-09-11T02:38:29.055458
 url: "/cdr-researcher-census/researchers/shuai-wang-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 36 |
-| Citations | 4,375 |
+| Citations | 4,468 |
 | Publications | 160 |
 | CDR Focus | 6.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Review on Carbon Source and Sink in Arable Land Ecosystems** (2022)
-   56 citations · General CDR
+   57 citations · General CDR
 
 2. **Effects of farmland landscape pattern on spatial distribution of soil organic carbon in Lower Liaohe Plain of northeastern China** (2022)
    53 citations · General CDR
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 5. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Distribution characteristics of soil organic carbon fractions in paddy profiles with 40 years of fertilization under two groundwater levels** (2023)
    10 citations · Soil Carbon
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon
 
-8. **Prediction Potential of Remote Sensing-Related Variables in the Topsoil Organic Carbon Density of Liaohekou Coastal Wetlands, Northeast China** (2021)
-   6 citations · Soil Carbon
+8. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
+   7 citations · Soil Carbon
 
-9. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
-   5 citations · Soil Carbon
+9. **Prediction Potential of Remote Sensing-Related Variables in the Topsoil Organic Carbon Density of Liaohekou Coastal Wetlands, Northeast China** (2021)
+   6 citations · Soil Carbon
 
 10. **Quantifying Soil Organic Carbon Sequestration Potentials in Cultivated Land Ecosystems in Northeast China** (2022)
    1 citations · Soil Carbon

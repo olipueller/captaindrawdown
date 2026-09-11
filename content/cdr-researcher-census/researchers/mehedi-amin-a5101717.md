@@ -1,7 +1,7 @@
 ---
 title: "Mehedi Amin"
-description: "Mehedi Amin is an Early-career Biochar researcher at Sher-e-Bangla Agricultural University in BD. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.008993
+description: "Mehedi Amin is an Early-career Biochar researcher at Daffodil International University in BD. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.915514
 url: "/cdr-researcher-census/researchers/mehedi-amin-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mehedi-amin-a5101717/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sher-e-Bangla Agricultural University"
+    "name": "Daffodil International University"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-2515-5452",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mehedi Amin**  
-Sher-e-Bangla Agricultural University · 🇧🇩 BD
+Daffodil International University · 🇧🇩 BD
 
 **Career Stage:** Early-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 194 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 211 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Waste-derived nanobiochar: A new avenue towards sustainable agriculture, environment, and circular bioeconomy** (2023)
-   150 citations · Biochar
+   154 citations · Biochar
 
 ## External Profiles
 

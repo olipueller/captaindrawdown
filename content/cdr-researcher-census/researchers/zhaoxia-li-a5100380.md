@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxia Li"
-description: "Zhaoxia Li is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.547134
+description: "Zhaoxia Li is a Mid-career Biochar researcher at Northwest Research Institute of Chemical Industry in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.498707
 url: "/cdr-researcher-census/researchers/zhaoxia-li-a5100380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhaoxia-li-a5100380/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Tech University"
+    "name": "Northwest Research Institute of Chemical Industry"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2088-1194",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhaoxia Li**  
-Nanjing Tech University · 🇨🇳 CN
+Northwest Research Institute of Chemical Industry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 460 |
+| h-index | 11 |
+| Citations | 470 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of ibuprofen using biomass carbon derived from one-step pyrolysis of ginkgo leaves** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

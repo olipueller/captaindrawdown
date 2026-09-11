@@ -1,7 +1,7 @@
 ---
 title: "Khemlata Soni"
-description: "Khemlata Soni is a Mid-career Biochar researcher at Maharana Pratap University of Agriculture and Technology in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.352941
+description: "Khemlata Soni is a Mid-career Biochar researcher at Maharana Pratap University of Agriculture and Technology in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.241080
 url: "/cdr-researcher-census/researchers/khemlata-soni-a5109657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 112 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| h-index | 7 |
+| Citations | 129 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A detailed review on unlocking the potential of porous biocarbon in composite phase change materials for transformative thermal energy storage** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

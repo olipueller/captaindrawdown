@@ -1,7 +1,7 @@
 ---
 title: "Subedar Singh"
-description: "Subedar Singh is a Mid-career Soil Carbon researcher at Patanjali Research Foundation in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.341710
+description: "Subedar Singh is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.309224
 url: "/cdr-researcher-census/researchers/subedar-singh-a5100886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/subedar-singh-a5100886/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Patanjali Research Foundation"
+    "name": "Sardar Vallabhbhai Patel University of Agriculture & Technology"
   },
   "sameAs": "https://openalex.org/A5100886599"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Subedar Singh**  
-Patanjali Research Foundation · 🇮🇳 IN
+Sardar Vallabhbhai Patel University of Agriculture & Technology · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 114 |
+| Citations | 116 |
 | Publications | 14 |
 | CDR Focus | 28.6% |
 | Trajectory | Growing |
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
-2. **Soil Carbon Sequestration as a Climate Change Mitigation Strategy: A Review** (2026)
+2. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+   1 citations · Biochar
+
+3. **Soil Carbon Sequestration as a Climate Change Mitigation Strategy: A Review** (2026)
    0 citations · Soil Carbon
 
-3. **A Review Approach for Soil Carbon Sequestration through Agroforestry Systems** (2025)
+4. **A Review Approach for Soil Carbon Sequestration through Agroforestry Systems** (2025)
    0 citations · General CDR
-
-4. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
-   0 citations · Biochar
 
 ## External Profiles
 

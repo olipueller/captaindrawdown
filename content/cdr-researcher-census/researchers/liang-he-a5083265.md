@@ -1,7 +1,7 @@
 ---
 title: "Liang He"
 description: "Liang He is a Mid-career Soil Carbon researcher at Chongqing Normal University in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.843646
+date: 2026-09-11T02:38:29.784220
 url: "/cdr-researcher-census/researchers/liang-he-a5083265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 250 |
+| Citations | 266 |
 | Publications | 23 |
 | CDR Focus | 21.7% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    51 citations · Biochar
 
 2. **Plant diversity drives soil carbon sequestration: evidence from 150 years of vegetation restoration in the temperate zone** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 3. **[Carbon Sequestration Characteristics of Different Restored Vegetation Types in Loess Hilly Region].** (2022)
    4 citations · General CDR

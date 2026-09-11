@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Liu"
-description: "Xiaotong Liu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302923
+description: "Xiaotong Liu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240381
 url: "/cdr-researcher-census/researchers/xiaotong-liu-a5035897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 978 |
-| Publications | 31 |
-| CDR Focus | 16.1% |
+| Citations | 1,057 |
+| Publications | 32 |
+| CDR Focus | 15.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A global meta‐analysis of the impacts of no‐tillage on soil aggregation and aggregate‐associated organic carbon** (2021)
-   123 citations · Soil Carbon
+   131 citations · Soil Carbon
 
 2. **Understanding how conservation tillage promotes soil carbon accumulation: Insights into extracellular enzyme activities and carbon flows between aggregate fractions** (2023)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Altered microbial resource limitation regulates soil organic carbon sequestration based on ecoenzyme stoichiometry under long‐term tillage systems** (2022)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 4. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 5. **Depth-driven responses of soil organic carbon fractions to orchard cover crops across China: A meta-analysis** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

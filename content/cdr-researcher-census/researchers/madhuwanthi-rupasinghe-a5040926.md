@@ -1,7 +1,7 @@
 ---
 title: "Madhuwanthi Rupasinghe"
 description: "Madhuwanthi Rupasinghe is a Mid-career Biochar researcher at The University of Melbourne in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.535968
+date: 2026-09-11T02:38:29.479959
 url: "/cdr-researcher-census/researchers/madhuwanthi-rupasinghe-a5040926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 470 |
+| Citations | 490 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon sequestering biochar incorporated cementitious composites: Evaluation of hygrothermal, mechanical and durability characteristics** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

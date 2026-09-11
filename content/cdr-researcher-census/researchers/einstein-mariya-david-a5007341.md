@@ -1,7 +1,7 @@
 ---
 title: "Einstein Mariya David"
 description: "Einstein Mariya David is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.049703
+date: 2026-09-11T02:38:30.006051
 url: "/cdr-researcher-census/researchers/einstein-mariya-david-a5007341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 182 |
+| Citations | 188 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

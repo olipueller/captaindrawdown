@@ -1,7 +1,7 @@
 ---
 title: "Zoe Hastings"
 description: "Zoe Hastings is a Mid-career Soil Carbon researcher at US Forest Service in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.098655
+date: 2026-09-11T02:38:30.032246
 url: "/cdr-researcher-census/researchers/zoe-hastings-a5074466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 168 |
+| Citations | 180 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing Baseline Carbon Stocks for Forest Transitions: A Case Study of Agroforestry Restoration from Hawaiʻi** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Carbon benefits through agroforestry transitions on unmanaged fallow agricultural land in Hawaiʻi** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

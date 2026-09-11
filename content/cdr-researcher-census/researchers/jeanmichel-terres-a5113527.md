@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Michel Terres"
 description: "Jean‐Michel Terres is a Senior Soil Carbon researcher at Joint Research Centre in IT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.322992
+date: 2026-09-11T02:38:29.277756
 url: "/cdr-researcher-census/researchers/jeanmichel-terres-a5113527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 897 |
+| Citations | 908 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

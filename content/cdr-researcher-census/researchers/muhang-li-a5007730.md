@@ -1,7 +1,7 @@
 ---
 title: "Muhang Li"
-description: "Muhang Li is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895533
+description: "Muhang Li is a Mid-career Soil Carbon researcher at Beijing Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.834775
 url: "/cdr-researcher-census/researchers/muhang-li-a5007730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhang-li-a5007730/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Agricultural University"
+    "name": "Beijing Jiaotong University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7302-372X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhang Li**  
-Northeast Agricultural University · 🇨🇳 CN
+Beijing Jiaotong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 228 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 243 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

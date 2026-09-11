@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Zhou"
-description: "Yanfang Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.536065
+description: "Yanfang Zhou is a Mid-career Soil Carbon researcher at Peking University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.483672
 url: "/cdr-researcher-census/researchers/yanfang-zhou-a5101124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanfang-zhou-a5101124/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Peking University"
   },
   "sameAs": "https://openalex.org/A5101124457"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yanfang Zhou**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Peking University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 470 |
+| h-index | 15 |
+| Citations | 486 |
 | Publications | 36 |
-| CDR Focus | 8.3% |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations
 
 3. **Effects of silicate rock weathering and agricultural cultivation on carbon sequestration in saline soils: an example from the saline soils of Bayannur, Northwest China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 4. **Exogenous organic matter and clay mineral additions regulate microbial-mineral mediated soil organic carbon accumulation in alkaline-calcareous soils** (2026)
    0 citations · Soil Carbon

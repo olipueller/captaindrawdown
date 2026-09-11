@@ -1,7 +1,7 @@
 ---
 title: "Weiyan Wang"
-description: "Weiyan Wang is a Mid-career Soil Carbon researcher at Northwest A and F University in CN. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.376856
+description: "Weiyan Wang is a Mid-career Soil Carbon researcher at Northwest A and F University in CN. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.326533
 url: "/cdr-researcher-census/researchers/weiyan-wang-a5101488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 743 |
+| h-index | 16 |
+| Citations | 765 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Organic Substitution Increases Soil Organic Carbon Accumulation by Altering the Bacterial Carbon Metabolism in Dry Farmland** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

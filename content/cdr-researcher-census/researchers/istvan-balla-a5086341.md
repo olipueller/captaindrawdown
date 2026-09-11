@@ -1,7 +1,7 @@
 ---
 title: "István Balla"
 description: "István Balla is a Senior Soil Carbon researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.027634
+date: 2026-09-11T02:38:29.981082
 url: "/cdr-researcher-census/researchers/istvan-balla-a5086341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 189 |
+| Citations | 196 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

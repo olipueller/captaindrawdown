@@ -1,7 +1,7 @@
 ---
 title: "Cory Sanderson"
 description: "Cory Sanderson is an Early-career DAC researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.420182
+date: 2026-09-11T02:38:30.378737
 url: "/cdr-researcher-census/researchers/cory-sanderson-a5061964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 100 |
+| Citations | 103 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Unknown |

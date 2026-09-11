@@ -1,7 +1,7 @@
 ---
 title: "Binbin Ran"
-description: "Binbin Ran is a Mid-career Biochar researcher at Chongqing University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.160626
+description: "Binbin Ran is a Mid-career Biochar researcher at Chongqing University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.125232
 url: "/cdr-researcher-census/researchers/binbin-ran-a5038715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 151 |
+| h-index | 7 |
+| Citations | 154 |
 | Publications | 8 |
 | CDR Focus | 37.5% |
 | Trajectory | Exiting |

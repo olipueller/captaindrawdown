@@ -1,7 +1,7 @@
 ---
 title: "Haimeng Shi"
 description: "Haimeng Shi is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.133631
+date: 2026-09-11T02:38:30.012923
 url: "/cdr-researcher-census/researchers/haimeng-shi-a5027433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 158 |
+| Citations | 186 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Human interventions have enhanced the net ecosystem productivity of farmland in China** (2024)
-   52 citations · General CDR
+   58 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fábio da Silva"
-description: "Fábio da Silva is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916999
+description: "Fábio da Silva is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.876504
 url: "/cdr-researcher-census/researchers/fabio-da-silva-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 219 |
+| h-index | 7 |
+| Citations | 226 |
 | Publications | 32 |
-| CDR Focus | 15.6% |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Integrated systems for the production of food, energy and materials as a sustainable strategy for decarbonization and land use: The case of sugarcane in Brazil** (2024)
-   5 citations · General CDR
+1. **Carbon retrieving: Missing opportunities for a just transition in the Coal Industry** (2024)
+   6 citations · General CDR
 
-2. **Carbon retrieving: Missing opportunities for a just transition in the Coal Industry** (2024)
+2. **Integrated systems for the production of food, energy and materials as a sustainable strategy for decarbonization and land use: The case of sugarcane in Brazil** (2024)
    5 citations · General CDR
 
 3. **A just transition pathway for the coal industry from its ashes** (2025)

@@ -1,7 +1,7 @@
 ---
 title: "Hagen Buck‐Wiese"
-description: "Hagen Buck‐Wiese is a Mid-career Ocean CDR researcher at University of Southern California in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.546283
+description: "Hagen Buck‐Wiese is a Mid-career Ocean CDR researcher at University of Southern California in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.473706
 url: "/cdr-researcher-census/researchers/hagen-buckwiese-a5014801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 460 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 497 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fucoid brown algae inject fucoidan carbon into the ocean** (2022)
-   102 citations · Ocean CDR
+   105 citations · Ocean CDR
 
 ## External Profiles
 

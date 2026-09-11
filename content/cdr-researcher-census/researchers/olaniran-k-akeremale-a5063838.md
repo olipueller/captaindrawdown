@@ -1,7 +1,7 @@
 ---
 title: "Olaniran K. Akeremale"
-description: "Olaniran K. Akeremale is a Mid-career Biochar researcher at Bayero University Kano in NG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.901162
+description: "Olaniran K. Akeremale is a Mid-career Biochar researcher at Bayero University Kano in NG. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.822871
 url: "/cdr-researcher-census/researchers/olaniran-k-akeremale-a5063838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 225 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 248 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

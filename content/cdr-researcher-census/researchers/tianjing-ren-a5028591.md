@@ -1,7 +1,7 @@
 ---
 title: "Tianjing Ren"
-description: "Tianjing Ren is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.723730
+description: "Tianjing Ren is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.653895
 url: "/cdr-researcher-census/researchers/tianjing-ren-a5028591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 314 |
+| h-index | 10 |
+| Citations | 339 |
 | Publications | 29 |
 | CDR Focus | 13.8% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    102 citations · Soil Carbon
 
 2. **Dissolved organic carbon in cropland soils: A global meta-analysis of management effects** (2024)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Differential impacts of nitrogen addition on soil dissolved organic carbon in humid and non-humid regions: A global meta-analysis** (2025)
    12 citations · Soil Carbon

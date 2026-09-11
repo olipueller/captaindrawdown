@@ -1,7 +1,7 @@
 ---
 title: "Yang Yang"
-description: "Yang Yang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.177534
+description: "Yang Yang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.130883
 url: "/cdr-researcher-census/researchers/yang-yang-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 147 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 6 |
+| Citations | 153 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct CO<sub>2</sub> Conversion Using Geological Carbonates as Absorbents for an Integrated Carbon Capture–Conversion Strategy** (2025)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

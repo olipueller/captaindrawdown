@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Ma"
-description: "Xuehong Ma is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.628678
+description: "Xuehong Ma is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.557432
 url: "/cdr-researcher-census/researchers/xuehong-ma-a5086465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuehong-ma-a5086465/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Copenhagen"
+    "name": "Nanjing Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9658-1089",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuehong Ma**  
-University of Copenhagen · 🇩🇰 DK
+Nanjing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 383 |
+| h-index | 7 |
+| Citations | 412 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Structural diversity enhances the temporal effects of thinning on carbon storage in pine-oak mixed forests** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Resilience mechanisms in soil organic carbon storage after pre-commercial thinning in mixed oak-pine forests** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

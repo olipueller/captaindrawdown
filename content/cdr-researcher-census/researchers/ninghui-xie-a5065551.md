@@ -1,7 +1,7 @@
 ---
 title: "Ninghui Xie"
-description: "Ninghui Xie is a Mid-career Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.734053
+description: "Ninghui Xie is a Mid-career Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.637379
 url: "/cdr-researcher-census/researchers/ninghui-xie-a5065551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 308 |
+| h-index | 8 |
+| Citations | 350 |
 | Publications | 18 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    14 citations · Soil Carbon
 
-2. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
-   7 citations · Soil Carbon
+2. **Exogenous carbon-to-nitrogen imbalance drives soil viral roles in microbial carbon mineralization and necromass accrual** (2025)
+   10 citations · Soil Carbon
 
-3. **Exogenous carbon-to-nitrogen imbalance drives soil viral roles in microbial carbon mineralization and necromass accrual** (2025)
-   6 citations · Soil Carbon
+3. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
+   8 citations · Soil Carbon
 
 4. **Soil viruses reduce greenhouse gas emissions and promote microbial necromass accrual** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

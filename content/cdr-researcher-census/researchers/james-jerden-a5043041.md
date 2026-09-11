@@ -1,7 +1,7 @@
 ---
 title: "James Jerden"
-description: "James Jerden is a Senior General CDR researcher. With 73 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.251337
+description: "James Jerden is a Senior General CDR researcher. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.205491
 url: "/cdr-researcher-census/researchers/james-jerden-a5043041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,247 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| Citations | 1,246 |
+| Publications | 57 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The impact of geochemical and life-cycle variables on carbon dioxide removal by enhanced rock weathering: Development and application of the Stella ERW model** (2024)
-   17 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 2. **India’s biogeochemical capacity to attain food security and remediate climate** (2023)
    8 citations · General CDR

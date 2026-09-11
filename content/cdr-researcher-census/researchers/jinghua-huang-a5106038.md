@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Huang"
 description: "Jinghua Huang is a Mid-career Soil Carbon researcher at Guangzhou Experimental Station in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.007398
+date: 2026-09-11T02:38:29.951565
 url: "/cdr-researcher-census/researchers/jinghua-huang-a5106038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 195 |
+| Citations | 205 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Restructuring Nematode Food Web Energetics Drives Microbial Necromass Formation and Soil Carbon Sequestration Under Organic Amendments in Agricultural Soils** (2026)
-   0 citations · Biochar
+1. **Spatiotemporal variations in anthropogenic soil erosion in the Tibetan-Yi corridor, as recorded in lake sediments, and their influence on organic carbon burial** (2025)
+   1 citations · Soil Carbon
 
-2. **Spatiotemporal variations in anthropogenic soil erosion in the Tibetan-Yi corridor, as recorded in lake sediments, and their influence on organic carbon burial** (2025)
-   0 citations · Soil Carbon
+2. **Restructuring Nematode Food Web Energetics Drives Microbial Necromass Formation and Soil Carbon Sequestration Under Organic Amendments in Agricultural Soils** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

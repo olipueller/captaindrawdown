@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Reinke"
 description: "Benjamin Reinke is a Mid-career Biochar researcher at Novocure (United States) in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.091639
+date: 2026-09-11T02:38:30.064241
 url: "/cdr-researcher-census/researchers/benjamin-reinke-a5026513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 170 |
+| Citations | 172 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

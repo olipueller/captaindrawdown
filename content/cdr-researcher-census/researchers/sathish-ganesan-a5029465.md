@@ -1,7 +1,7 @@
 ---
 title: "Sathish Ganesan"
 description: "Sathish Ganesan is a Mid-career Biochar researcher at Central Leather Research Institute in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374364
+date: 2026-09-11T02:38:30.318451
 url: "/cdr-researcher-census/researchers/sathish-ganesan-a5029465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
+| Citations | 114 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar synthesis from mineral and ash-rich waste biomass, part 2: characterization of biochar and co-pyrolysis mechanism for carbon sequestration** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

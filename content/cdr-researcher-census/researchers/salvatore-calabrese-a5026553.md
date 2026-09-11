@@ -1,7 +1,7 @@
 ---
 title: "Salvatore Calabrese"
-description: "Salvatore Calabrese is a Senior Enhanced Weathering researcher at Texas A&M University in US. With 102 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.316789
+description: "Salvatore Calabrese is a Senior Enhanced Weathering researcher at Texas A&M University in US. With 110 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.257794
 url: "/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 923 |
-| Publications | 102 |
-| CDR Focus | 18.6% |
-| Trajectory | Stable |
+| Citations | 983 |
+| Publications | 110 |
+| CDR Focus | 18.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   80 citations · Enhanced Weathering
+   84 citations · Enhanced Weathering
 
 2. **The role of hydrology on enhanced weathering for carbon sequestration I. Modeling rock-dissolution reactions coupled to plant, soil moisture, and carbon dynamics** (2021)
    43 citations · Enhanced Weathering
@@ -60,25 +60,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    24 citations · Enhanced Weathering
 
 4. **Effects of precipitation seasonality, irrigation, vegetation cycle and soil type on enhanced weathering – modeling of cropland case studies across four sites** (2022)
-   22 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
 5. **Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data** (2024)
-   10 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 6. **Classifying the potential for soil organic carbon gain under regenerative agriculture** (2025)
    5 citations · General CDR
 
-7. **Effects of precipitation seasonality, vegetation cycle, and irrigation on enhanced weathering** (2022)
+7. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
    4 citations · Enhanced Weathering
 
-8. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+8. **Effects of precipitation seasonality, vegetation cycle, and irrigation on enhanced weathering** (2022)
+   4 citations · Enhanced Weathering
+
+9. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-9. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   2 citations · Enhanced Weathering
-
 10. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

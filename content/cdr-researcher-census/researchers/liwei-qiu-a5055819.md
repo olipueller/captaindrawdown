@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qiu"
 description: "Liwei Qiu is a Mid-career Biochar researcher at Fuzhou University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.122504
+date: 2026-09-11T02:38:30.084432
 url: "/cdr-researcher-census/researchers/liwei-qiu-a5055819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 161 |
+| Citations | 165 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Performance and mechanism of tea waste biochar in enhancing the removal of tetracycline by peroxodisulfate** (2022)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

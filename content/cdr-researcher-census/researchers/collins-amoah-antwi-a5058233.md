@@ -1,7 +1,7 @@
 ---
 title: "Collins Amoah-Antwi"
 description: "Collins Amoah-Antwi is a Mid-career Biochar researcher at Warsaw University of Technology in PL. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.689781
+date: 2026-09-11T02:38:29.645856
 url: "/cdr-researcher-census/researchers/collins-amoah-antwi-a5058233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 338 |
+| Citations | 344 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |

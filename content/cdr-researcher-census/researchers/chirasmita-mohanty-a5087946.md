@@ -1,7 +1,7 @@
 ---
 title: "Chirasmita Mohanty"
-description: "Chirasmita Mohanty is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.202215
+description: "Chirasmita Mohanty is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.132875
 url: "/cdr-researcher-census/researchers/chirasmita-mohanty-a5087946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 142 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 153 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Sustainable strategies for remediation of Cr(VI) contaminated soil and water bodies: exploring the potential of invasive bamboo and its derivatives** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kelly"
-description: "Jennifer Kelly is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130797
+description: "Jennifer Kelly is a Senior Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.105748
 url: "/cdr-researcher-census/researchers/jennifer-kelly-a5041215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jennifer Kelly",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jennifer-kelly-a5041215/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Commonwealth Scientific and Industrial Research Organisation"
-  },
   "sameAs": "https://openalex.org/A5041215508"
 }
 </script>
 
 ## Profile
 
-**Jennifer Kelly**  
-Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
+**Jennifer Kelly**
 
 **Career Stage:** Senior
 
@@ -41,8 +36,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 7 |
 | Citations | 159 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

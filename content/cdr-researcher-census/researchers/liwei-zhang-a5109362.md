@@ -1,7 +1,7 @@
 ---
 title: "Liwei Zhang"
-description: "Liwei Zhang is a Mid-career Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.210558
+description: "Liwei Zhang is a Mid-career Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.170448
 url: "/cdr-researcher-census/researchers/liwei-zhang-a5109362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 140 |
-| Publications | 6 |
-| CDR Focus | 50.0% |
+| Citations | 144 |
+| Publications | 7 |
+| CDR Focus | 42.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Coupling dynamics and feedback mechanisms between ecosystem service flows and socio-economic systems in the loess plateau** (2025)
-   10 citations · General CDR
+   11 citations · General CDR
 
 2. **The thresholds of forest-to-grassland ratios can be critical for harmonizing ecosystem service relationships spatiotemporally in dryland regions** (2024)
    7 citations · Soil Carbon

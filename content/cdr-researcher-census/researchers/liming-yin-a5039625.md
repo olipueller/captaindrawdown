@@ -1,7 +1,7 @@
 ---
 title: "Liming Yin"
-description: "Liming Yin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.276253
+description: "Liming Yin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.221481
 url: "/cdr-researcher-census/researchers/liming-yin-a5039625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,110 |
-| Publications | 43 |
-| CDR Focus | 7.0% |
+| Citations | 1,156 |
+| Publications | 46 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,13 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations
 
 2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils** (2025)
    5 citations · Enhanced Weathering
 
 4. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
+
+5. **Vertical stratification of microbial necromass carbon and soil organic carbon fractions during natural secondary succession in temperate forests** (2026)
+   0 citations
+
+6. **How does wollastonite addition influence litter decomposition in a subtropical forest? The role of litter quality and soil fauna** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sven Verweij"
-description: "Sven Verweij is an Early-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.223675
+description: "Sven Verweij is an Early-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.151839
 url: "/cdr-researcher-census/researchers/sven-verweij-a5043609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 137 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 148 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

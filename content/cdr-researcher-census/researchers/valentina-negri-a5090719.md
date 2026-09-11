@@ -1,7 +1,7 @@
 ---
 title: "Valentina Negri"
 description: "Valentina Negri is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.985040
+date: 2026-09-11T02:38:29.946550
 url: "/cdr-researcher-census/researchers/valentina-negri-a5090719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 201 |
+| Citations | 206 |
 | Publications | 15 |
 | CDR Focus | 26.7% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   53 citations · General CDR
+   54 citations · General CDR
 
 2. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
    47 citations · BECCS
 
 3. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   39 citations
+   41 citations
 
 4. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
    8 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chencheng Zhang"
-description: "Chencheng Zhang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.978980
+description: "Chencheng Zhang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.953682
 url: "/cdr-researcher-census/researchers/chencheng-zhang-a5102954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,8 +44,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 6 |
 | Citations | 204 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

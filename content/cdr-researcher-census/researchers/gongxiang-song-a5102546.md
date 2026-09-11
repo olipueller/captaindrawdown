@@ -1,7 +1,7 @@
 ---
 title: "Gongxiang Song"
-description: "Gongxiang Song is a Mid-career Biochar researcher at Yangtze River Pharmaceutical Group (China) in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.825670
+description: "Gongxiang Song is a Mid-career Biochar researcher at Yangtze River Pharmaceutical Group (China) in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.772402
 url: "/cdr-researcher-census/researchers/gongxiang-song-a5102546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 259 |
+| h-index | 11 |
+| Citations | 272 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Ni"
 description: "Jinzhi Ni is a Senior Biochar researcher at Fujian Normal University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.291621
+date: 2026-09-11T02:38:29.243327
 url: "/cdr-researcher-census/researchers/jinzhi-ni-a5017823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,033 |
+| Citations | 1,045 |
 | Publications | 56 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The composition, energy, and carbon stability characteristics of biochars derived from thermo-conversion of biomass in air-limitation, CO2, and N2 at different temperatures** (2022)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Biochar-mediated reduction of m-nitrotoluene: Interaction between reduction of m-nitrotoluene and sequestration of contaminants** (2021)
    13 citations · Biochar

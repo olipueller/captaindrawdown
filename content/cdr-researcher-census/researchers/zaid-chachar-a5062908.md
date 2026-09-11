@@ -1,7 +1,7 @@
 ---
 title: "Zaid Chachar"
-description: "Zaid Chachar is a Mid-career Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.278710
+description: "Zaid Chachar is a Mid-career Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.199187
 url: "/cdr-researcher-census/researchers/zaid-chachar-a5062908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,095 |
-| Publications | 37 |
-| CDR Focus | 8.1% |
+| h-index | 17 |
+| Citations | 1,284 |
+| Publications | 39 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
-   86 citations · Biochar
+1. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
+   100 citations
 
-2. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   86 citations
+2. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
+   96 citations · Biochar
 
 3. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
-   19 citations · Biochar
+   24 citations · Biochar
 
 4. **The multifunctional roles of arbuscular mycorrhizal fungi in soil health and nutrient dynamics** (2026)
-   3 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

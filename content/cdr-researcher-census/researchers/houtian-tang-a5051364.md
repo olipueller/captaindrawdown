@@ -1,7 +1,7 @@
 ---
 title: "Houtian Tang"
-description: "Houtian Tang is a Mid-career General CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852390
+description: "Houtian Tang is a Mid-career General CDR researcher at Xiamen University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.804821
 url: "/cdr-researcher-census/researchers/houtian-tang-a5051364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 245 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 256 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Bibliometrics of the nexus between food security and carbon emissions: hotspots and trends** (2022)
-   54 citations · General CDR
+   55 citations · General CDR
 
 ## External Profiles
 

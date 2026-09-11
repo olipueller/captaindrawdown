@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Guo"
-description: "Tianqi Guo is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.725566
+description: "Tianqi Guo is a Mid-career Soil Carbon researcher at Baotou Medical College in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.673516
 url: "/cdr-researcher-census/researchers/tianqi-guo-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianqi-guo-a5101407/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agriculture and Forestry University"
+    "name": "Baotou Medical College"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0193-1598",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianqi Guo**  
-Agriculture and Forestry University ·  NP
+Baotou Medical College · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 313 |
+| Citations | 324 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil moisture and organic carbon under deep-rooted trees of different stand ages on the Chinese Loess Plateau** (2022)
-   43 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Regulation of Soil Carbon Fractions by Microbial C Degradation Genes Under Long-Term Crop Rotation on the Loess Plateau** (2024)
    0 citations · Soil Carbon

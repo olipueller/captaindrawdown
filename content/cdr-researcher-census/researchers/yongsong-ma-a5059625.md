@@ -1,7 +1,7 @@
 ---
 title: "Yongsong Ma"
 description: "Yongsong Ma is a Mid-career Biochar researcher at Shenzhen Institute of Information Technology in CN. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284984
+date: 2026-09-11T02:38:29.232130
 url: "/cdr-researcher-census/researchers/yongsong-ma-a5059625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,067 |
+| Citations | 1,098 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Exiting |

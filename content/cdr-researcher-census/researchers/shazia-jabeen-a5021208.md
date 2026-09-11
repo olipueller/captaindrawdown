@@ -1,7 +1,7 @@
 ---
 title: "Shazia Jabeen"
 description: "Shazia Jabeen is a Senior Biochar researcher at The Women University Multan in PK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.605757
+date: 2026-09-11T02:38:29.563599
 url: "/cdr-researcher-census/researchers/shazia-jabeen-a5021208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 402 |
+| Citations | 406 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

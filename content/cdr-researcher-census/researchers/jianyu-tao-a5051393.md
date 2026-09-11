@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Tao"
 description: "Jianyu Tao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.818707
+date: 2026-09-11T02:38:29.761781
 url: "/cdr-researcher-census/researchers/jianyu-tao-a5051393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 263 |
+| Citations | 277 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does arbuscular mycorrhizal fungi inoculation influence soil carbon sequestration?** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Combined application of nitrogen and phosphorus fertilizers increases soil organic carbon storage in cropland soils** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
-3. **Straw return reshapes soil organic carbon stability: A global meta-analysis** (2026)
+3. **Conservation tillage promotes soil organic carbon sequestration in warm and semi-humid regions of Northeast China** (2026)
+   2 citations · Soil Carbon
+
+4. **Straw return reshapes soil organic carbon stability: A global meta-analysis** (2026)
    0 citations
-
-4. **Conservation tillage promotes soil organic carbon sequestration in warm and semi-humid regions of Northeast China** (2026)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

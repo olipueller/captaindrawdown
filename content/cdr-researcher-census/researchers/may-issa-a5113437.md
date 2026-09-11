@@ -1,7 +1,7 @@
 ---
 title: "May Issa"
 description: "May Issa is a Senior Biochar researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.881401
+date: 2026-09-11T02:38:29.796991
 url: "/cdr-researcher-census/researchers/may-issa-a5113437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 233 |
+| Citations | 260 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

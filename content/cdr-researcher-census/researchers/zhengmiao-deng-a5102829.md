@@ -1,7 +1,7 @@
 ---
 title: "Zhengmiao Deng"
 description: "Zhengmiao Deng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 105 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.159894
+date: 2026-09-11T02:38:29.108370
 url: "/cdr-researcher-census/researchers/zhengmiao-deng-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,255 |
+| Citations | 2,329 |
 | Publications | 105 |
-| CDR Focus | 7.6% |
-| Trajectory | Declining |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations
 
 2. **Effects of hydrological environment on litter carbon input into the surface soil organic carbon pool in the Dongting Lake floodplain** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Vegetation types and flood water level are dominant factors controlling the carbon sequestration potential in Dongting Lake floodplain, China** (2024)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
    12 citations · Soil Carbon
 
 5. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Cascade damming reshapes seasonal pattern of dissolved carbon in a subtropical river continuum: A case study of the Zijiang River, China** (2026)
    0 citations

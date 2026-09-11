@@ -1,7 +1,7 @@
 ---
 title: "Lu-Ping Ye"
 description: "Lu-Ping Ye is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.087689
+date: 2026-09-11T02:38:30.059396
 url: "/cdr-researcher-census/researchers/lu-ping-ye-a5111872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 171 |
+| Citations | 173 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil aggregate-mediated dynamics of microbial necromass under contrasting cropland management practices** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

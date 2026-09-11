@@ -1,7 +1,7 @@
 ---
 title: "Jessica L. Sarauer"
 description: "Jessica L. Sarauer is a Mid-career Biochar researcher at University of Idaho in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.352847
+date: 2026-09-11T02:38:30.308835
 url: "/cdr-researcher-census/researchers/jessica-l-sarauer-a5004323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
+| Citations | 116 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

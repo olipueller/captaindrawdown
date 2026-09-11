@@ -1,7 +1,7 @@
 ---
 title: "Sunwoo Kim"
-description: "Sunwoo Kim is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.477242
+description: "Sunwoo Kim is a Mid-career DAC researcher at University of Southern California in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.392110
 url: "/cdr-researcher-census/researchers/sunwoo-kim-a5088919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sunwoo-kim-a5088919/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Korea Advanced Institute of Science and Technology"
+    "name": "University of Southern California"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9799-2274",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sunwoo Kim**  
-Korea Advanced Institute of Science and Technology · 🇰🇷 KR
+University of Southern California · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 549 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| h-index | 11 |
+| Citations | 622 |
+| Publications | 29 |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

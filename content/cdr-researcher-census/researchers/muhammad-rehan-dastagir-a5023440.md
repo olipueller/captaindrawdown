@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Rehan Dastagir"
 description: "Muhammad Rehan Dastagir is a Mid-career Biochar researcher at International University of Business Agriculture and Technology in BD. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.821088
+date: 2026-09-11T02:38:29.794076
 url: "/cdr-researcher-census/researchers/muhammad-rehan-dastagir-a5023440/"
 layout: "researcher"
 hiddenInHomeList: true

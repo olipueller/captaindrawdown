@@ -1,7 +1,7 @@
 ---
 title: "Mark Layer"
-description: "Mark Layer is a Mid-career General CDR researcher at Colorado State University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.011016
+description: "Mark Layer is a Mid-career General CDR researcher at Yale University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.963696
 url: "/cdr-researcher-census/researchers/mark-layer-a5074883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-layer-a5074883/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Colorado State University"
+    "name": "Yale University"
   },
   "sameAs": "https://openalex.org/A5074883593"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mark Layer**  
-Colorado State University · 🇺🇸 US
+Yale University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 193 |
+| Citations | 200 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 ## External Profiles
 

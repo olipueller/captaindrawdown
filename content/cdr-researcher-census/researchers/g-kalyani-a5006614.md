@@ -1,7 +1,7 @@
 ---
 title: "G. Kalyani"
-description: "G. Kalyani is a Mid-career Ocean CDR researcher at JSS Academy of Higher Education and Research in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.168379
+description: "G. Kalyani is a Mid-career Ocean CDR researcher at JSS Academy of Higher Education and Research in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.124254
 url: "/cdr-researcher-census/researchers/g-kalyani-a5006614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 149 |
+| h-index | 8 |
+| Citations | 154 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

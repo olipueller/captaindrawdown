@@ -1,7 +1,7 @@
 ---
 title: "Tianduo Peng"
-description: "Tianduo Peng is a Senior General CDR researcher at Tsinghua University in CN. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.188965
+description: "Tianduo Peng is a Senior General CDR researcher at Tsinghua University in CN. With 35 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.138438
 url: "/cdr-researcher-census/researchers/tianduo-peng-a5081445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,801 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 1,842 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Accelerating carbon neutrality could help China's energy system align with below 1.5 °C** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 2. **Carbon assets alone are insufficient to sustain China’s agroforestry biomass power generation** (2025)
    3 citations · BECCS

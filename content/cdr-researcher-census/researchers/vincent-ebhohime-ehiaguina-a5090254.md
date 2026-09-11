@@ -1,7 +1,7 @@
 ---
 title: "Vincent Ebhohime Ehiaguina"
-description: "Vincent Ebhohime Ehiaguina is a Mid-career General CDR researcher at Centre for Healthy Start Initiative in NG. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.380760
+description: "Vincent Ebhohime Ehiaguina is a Mid-career General CDR researcher at London South Bank University in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.324025
 url: "/cdr-researcher-census/researchers/vincent-ebhohime-ehiaguina-a5090254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vincent-ebhohime-ehiaguina-a5090254/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Centre for Healthy Start Initiative"
+    "name": "London South Bank University"
   },
   "sameAs": "https://openalex.org/A5090254548"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Vincent Ebhohime Ehiaguina**  
-Centre for Healthy Start Initiative ·  NG
+London South Bank University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 107 |
+| Citations | 113 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

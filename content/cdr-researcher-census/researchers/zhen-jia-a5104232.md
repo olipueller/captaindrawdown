@@ -1,7 +1,7 @@
 ---
 title: "Zhen Jia"
-description: "Zhen Jia is a Senior Biochar researcher at Heilongjiang Earthquake Agency in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.160936
+description: "Zhen Jia is a Mid-career Biochar researcher at PLA Information Engineering University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.088024
 url: "/cdr-researcher-census/researchers/zhen-jia-a5104232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhen-jia-a5104232/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Heilongjiang Earthquake Agency"
+    "name": "PLA Information Engineering University"
   },
   "sameAs": "https://openalex.org/A5104232852"
 }
@@ -25,9 +25,9 @@ robots: "index, follow"
 ## Profile
 
 **Zhen Jia**  
-Heilongjiang Earthquake Agency · 🇨🇳 CN
+PLA Information Engineering University · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 151 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 164 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

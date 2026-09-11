@@ -1,7 +1,7 @@
 ---
 title: "Anna A. Littlefield"
 description: "Anna A. Littlefield is an Early-career DAC researcher at Colorado School of Mines in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.577909
+date: 2026-09-11T02:38:29.510917
 url: "/cdr-researcher-census/researchers/anna-a-littlefield-a5046171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 429 |
+| Citations | 456 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world** (2023)
-   437 citations · DAC
+   450 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mei Zhang"
-description: "Mei Zhang is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.112692
+description: "Mei Zhang is a Mid-career Soil Carbon researcher at Dali University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.075127
 url: "/cdr-researcher-census/researchers/mei-zhang-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mei-zhang-a5083366/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan University of Science and Technology"
+    "name": "Dali University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0405-9638",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mei Zhang**  
-Henan University of Science and Technology · 🇨🇳 CN
+Dali University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 164 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 168 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

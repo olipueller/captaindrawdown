@@ -1,7 +1,7 @@
 ---
 title: "Sumit Rai"
 description: "Sumit Rai is a Senior Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 62 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.522170
+date: 2026-09-11T02:38:29.477256
 url: "/cdr-researcher-census/researchers/sumit-rai-a5101724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 485 |
+| Citations | 493 |
 | Publications | 62 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Responses to Carbon Sequestration Soil Amendment and Productivity** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Conservation Agriculture for Soil Health and Carbon Sequestration in the Indian Himalayan Region** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
    0 citations · Biochar

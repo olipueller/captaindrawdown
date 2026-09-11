@@ -1,7 +1,7 @@
 ---
 title: "Qiong Xiao"
-description: "Qiong Xiao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.296231
+description: "Qiong Xiao is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 79 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.236840
 url: "/cdr-researcher-census/researchers/qiong-xiao-a5049361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Qiong Xiao**  
 Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,011 |
+| h-index | 20 |
+| Citations | 1,073 |
 | Publications | 79 |
 | CDR Focus | 10.1% |
 | Trajectory | Stable |
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   103 citations
+   104 citations
 
 2. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 4. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 5. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
    8 citations · Enhanced Weathering
 
 7. **Soil Respiration Characteristics and Karst Carbon Sink Potential in Woodlands and Grasslands** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 8. **Assessing the impacts of motorway construction on groundwater in karst mountain areas, Southwest China** (2025)
    3 citations
 
 9. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 10. **Long-term manuring enhances glomalin-soil-carbon sequestration by increasing its recalcitrance and macro-aggregation** (2023)
    1 citations · Soil Carbon

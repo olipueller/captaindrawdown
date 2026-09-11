@@ -1,7 +1,7 @@
 ---
 title: "Renjie Hou"
-description: "Renjie Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 120 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.122710
+description: "Renjie Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 120 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.071434
 url: "/cdr-researcher-census/researchers/renjie-hou-a5108886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 3,412 |
+| h-index | 36 |
+| Citations | 3,540 |
 | Publications | 120 |
 | CDR Focus | 9.2% |
 | Trajectory | Stable |
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    79 citations · Biochar
 
 2. **A critical review of biochar as an environmental functional material in soil ecosystems for migration and transformation mechanisms and ecological risk assessment** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 3. **Soil environment, carbon and nitrogen cycle functional genes in response to freeze-thaw cycles and biochar** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 4. **Modified biochar reduces the greenhouse gas emission intensity and enhances the net ecosystem economic budget in black soil soybean fields** (2023)
    42 citations · Biochar
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 6. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 7. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 8. **Analysis of changes in water-heat-carbon fluxes at different time scales and their influencing factors in the cold black soil region of Northeast China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Soil quality degradation induces synergistic evolution of carbon components: Microbial extracellular polymeric substances - driven mechanism** (2026)
    0 citations · Soil Carbon

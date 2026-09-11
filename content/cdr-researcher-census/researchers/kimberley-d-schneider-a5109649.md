@@ -1,7 +1,7 @@
 ---
 title: "Kimberley D. Schneider"
-description: "Kimberley D. Schneider is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.426192
+description: "Kimberley D. Schneider is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.376839
 url: "/cdr-researcher-census/researchers/kimberley-d-schneider-a5109649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 635 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| Citations | 648 |
+| Publications | 28 |
+| CDR Focus | 14.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

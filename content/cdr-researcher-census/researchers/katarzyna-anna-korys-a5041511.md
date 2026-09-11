@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Anna Koryś"
-description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.605542
+description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.552171
 url: "/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Katarzyna Anna Kory\u015b",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Instituto de Pesquisas Jardim Bot\u00e2nico do Rio de Janeiro"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-7796-3142",
     "https://openalex.org/A5041511971"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Katarzyna Anna Koryś**  
-Instituto de Pesquisas Jardim Botânico do Rio de Janeiro · 🇧🇷 BR
+**Katarzyna Anna Koryś**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 402 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| Citations | 417 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

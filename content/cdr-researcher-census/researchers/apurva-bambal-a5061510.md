@@ -1,7 +1,7 @@
 ---
 title: "Apurva Bambal"
-description: "Apurva Bambal is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.014282
+description: "Apurva Bambal is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.967053
 url: "/cdr-researcher-census/researchers/apurva-bambal-a5061510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Apurva Bambal",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/apurva-bambal-a5061510/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Rashtrasant Tukadoji Maharaj Nagpur University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-3869-5931",
     "https://openalex.org/A5061510453"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Apurva Bambal**
+**Apurva Bambal**  
+Rashtrasant Tukadoji Maharaj Nagpur University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 192 |
+| Citations | 199 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -49,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    58 citations
 
 2. **Carbonization of golden shower pods to high surface area biochar for decontamination of cationic dyes and regeneration study by gamma radiations** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Surface augmentation of biosorbent using gamma-irradiation for antibiotics sequestration from water bodies** (2025)
    1 citations

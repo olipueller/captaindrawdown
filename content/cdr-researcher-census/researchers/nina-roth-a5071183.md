@@ -1,7 +1,7 @@
 ---
 title: "Nina Roth"
-description: "Nina Roth is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.857504
+description: "Nina Roth is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.818918
 url: "/cdr-researcher-census/researchers/nina-roth-a5071183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 243 |
+| h-index | 6 |
+| Citations | 250 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Experimental drought and soil amendments affect grassland above- and belowground vegetation but not soil carbon stocks** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Effects of compost amendments and experimental drought on grassland soil microbial communities** (2025)
    1 citations · Soil Carbon

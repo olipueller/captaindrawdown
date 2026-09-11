@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
-description: "Longlong Xia is an Eminent Biochar researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.085833
+description: "Longlong Xia is an Eminent Biochar researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.036370
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 40 |
-| Citations | 6,565 |
+| h-index | 41 |
+| Citations | 6,899 |
 | Publications | 93 |
-| CDR Focus | 5.4% |
-| Trajectory | Declining |
+| CDR Focus | 6.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   177 citations · Biochar
+   181 citations · Biochar
 
 2. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   140 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 3. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   90 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 4. **Biochar application reduced carbon footprint of maize production in the saline−alkali soils** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 5. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 6. **Declines of peatland water table forces climate warming despite methane emission drawdown** (2023)
    1 citations

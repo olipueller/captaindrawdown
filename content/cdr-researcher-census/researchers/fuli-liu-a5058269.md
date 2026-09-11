@@ -1,7 +1,7 @@
 ---
 title: "Fu‐Li Liu"
 description: "Fu‐Li Liu is an Early-career Ocean CDR researcher at Ocean University of China in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.958251
+date: 2026-09-11T02:38:29.870341
 url: "/cdr-researcher-census/researchers/fuli-liu-a5058269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 211 |
+| Citations | 228 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Kelp aquaculture in China: a retrospective and future prospects** (2021)
-   171 citations · Ocean CDR
+   173 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yinlong Wu"
-description: "Yinlong Wu is a Mid-career BECCS researcher at Jinan University in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.325931
+description: "Yinlong Wu is a Mid-career BECCS researcher at Sun Yat-sen University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.325639
 url: "/cdr-researcher-census/researchers/yinlong-wu-a5081961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yinlong-wu-a5081961/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jinan University"
+    "name": "Sun Yat-sen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3108-3163",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yinlong Wu**  
-Jinan University · 🇨🇳 CN
+Sun Yat-sen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 888 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| h-index | 13 |
+| Citations | 767 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy and CO2 emission analysis of a Bio-Energy with CCS system: Biomass gasification-solid oxide fuel cell-mini gas turbine-CO2 capture** (2022)
-   52 citations · BECCS
+   54 citations · BECCS
 
 2. **Energy and Co2 Emission Analysis of a Bio-Energy with Ccs System: Biomass Gasification-Solid Oxide Fuel Cell-Mini Gas Turbine-Co2 Capture** (2022)
    2 citations · BECCS

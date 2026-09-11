@@ -1,7 +1,7 @@
 ---
 title: "Peter Lystbæk Weber"
-description: "Peter Lystbæk Weber is a Mid-career Soil Carbon researcher at Agroscope in CH. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.652624
+description: "Peter Lystbæk Weber is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.579038
 url: "/cdr-researcher-census/researchers/peter-lystbk-weber-a5018818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/peter-lystbk-weber-a5018818/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agroscope"
+    "name": "Aarhus University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9249-0796",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Peter Lystbæk Weber**  
-Agroscope · 🇨🇭 CH
+Aarhus University · 🇩🇰 DK
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 364 |
-| Publications | 38 |
-| CDR Focus | 7.9% |
+| h-index | 10 |
+| Citations | 395 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

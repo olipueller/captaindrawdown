@@ -1,7 +1,7 @@
 ---
 title: "Jinmeng Wu"
-description: "Jinmeng Wu is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.640987
+description: "Jinmeng Wu is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.601753
 url: "/cdr-researcher-census/researchers/jinmeng-wu-a5047474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jinmeng Wu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinmeng-wu-a5047474/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Harbin Institute of Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-2876-4868",
     "https://openalex.org/A5047474560"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jinmeng Wu**  
-Harbin Institute of Technology · 🇨🇳 CN
+**Jinmeng Wu**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 373 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 376 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancing pyrolysis oil quality through in-situ catalytic pyrolysis of biochar with temperature-driven nitrogen configuration modulation: Mechanistic insights into the catalytic process** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

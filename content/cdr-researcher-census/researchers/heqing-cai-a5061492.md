@@ -1,7 +1,7 @@
 ---
 title: "Heqing Cai"
-description: "Heqing Cai is a Mid-career Biochar researcher at China Tobacco in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.237776
+description: "Heqing Cai is a Mid-career Biochar researcher at IE University in ES. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.140982
 url: "/cdr-researcher-census/researchers/heqing-cai-a5061492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/heqing-cai-a5061492/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Tobacco"
+    "name": "IE University"
   },
   "sameAs": "https://openalex.org/A5061492041"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Heqing Cai**  
-China Tobacco · 🇨🇳 CN
+IE University · 🇪🇸 ES
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 134 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 151 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

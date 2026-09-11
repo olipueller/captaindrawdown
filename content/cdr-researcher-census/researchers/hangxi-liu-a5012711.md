@@ -1,7 +1,7 @@
 ---
 title: "Hangxi Liu"
-description: "Hangxi Liu is a Mid-career Soil Carbon researcher at North China Electric Power University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348457
+description: "Hangxi Liu is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.299367
 url: "/cdr-researcher-census/researchers/hangxi-liu-a5012711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Hangxi Liu",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hangxi-liu-a5012711/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "North China Electric Power University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-1525-8202",
     "https://openalex.org/A5012711870"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Hangxi Liu**  
-North China Electric Power University · 🇨🇳 CN
+**Hangxi Liu**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 820 |
+| Citations | 837 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Simplified native SynCom enhances phytoremediation, carbon sequestration, and productivity of Artemisia argyi in heavy metal-contaminated soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

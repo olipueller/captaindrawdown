@@ -1,7 +1,7 @@
 ---
 title: "Arun Jyoti Nath"
-description: "Arun Jyoti Nath is a Senior Soil Carbon researcher at Assam University in IN. With 235 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.106736
+description: "Arun Jyoti Nath is a Senior Soil Carbon researcher at Assam University in IN. With 237 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.053642
 url: "/cdr-researcher-census/researchers/arun-jyoti-nath-a5037172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 4,322 |
-| Publications | 235 |
+| h-index | 36 |
+| Citations | 4,668 |
+| Publications | 237 |
 | CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
    73 citations · General CDR
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 4. **Variation in biomass and soil carbon storage and sequestration rates in different agroforestry systems with climatic zones and soil types** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 5. **Determinants of phytolith occluded carbon in bamboo stands across forest types in the eastern Indian Himalayas** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **Carbon Farming with Bamboos in India: Opportunities and Challenges** (2022)
    5 citations · General CDR

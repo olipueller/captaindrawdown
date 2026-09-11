@@ -1,7 +1,7 @@
 ---
 title: "Rajkumar Kishor"
 description: "Rajkumar Kishor is a Senior Soil Carbon researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.691495
+date: 2026-09-11T02:38:29.652900
 url: "/cdr-researcher-census/researchers/rajkumar-kishor-a5069519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 337 |
+| Citations | 340 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Growing |

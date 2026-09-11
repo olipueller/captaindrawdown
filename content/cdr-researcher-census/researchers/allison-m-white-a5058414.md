@@ -1,7 +1,7 @@
 ---
 title: "Allison M. White"
-description: "Allison M. White is a Mid-career General CDR researcher at The University of Texas Rio Grande Valley in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.462264
+description: "Allison M. White is a Mid-career General CDR researcher at The University of Texas Rio Grande Valley in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.416415
 url: "/cdr-researcher-census/researchers/allison-m-white-a5058414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,14 +40,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 573 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 583 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Interactions between black, brown, blue and green carbon from terrestrial to marine ecosystems: A critical review** (2025)
+1. **Blue carbon ecosystems as climate solutions: Sequestration across coastal and marine environments** (2026)
+   0 citations · Enhanced Weathering
+
+2. **Interactions between black, brown, blue and green carbon from terrestrial to marine ecosystems: A critical review** (2025)
    0 citations · General CDR
 
 ## External Profiles

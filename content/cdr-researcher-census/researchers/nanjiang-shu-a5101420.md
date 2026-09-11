@@ -1,7 +1,7 @@
 ---
 title: "Nanjiang Shu"
 description: "Nanjiang Shu is a Senior Soil Carbon researcher at Stockholms Universitet in SE. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.185586
+date: 2026-09-11T02:38:29.135875
 url: "/cdr-researcher-census/researchers/nanjiang-shu-a5101420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,840 |
+| Citations | 1,872 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

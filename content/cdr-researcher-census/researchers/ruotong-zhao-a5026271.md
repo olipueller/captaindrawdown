@@ -1,7 +1,7 @@
 ---
 title: "Ruotong Zhao"
-description: "Ruotong Zhao is a Mid-career Soil Carbon researcher at Tianjin Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.989603
+description: "Ruotong Zhao is a Mid-career Soil Carbon researcher at Tianjin Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.907215
 url: "/cdr-researcher-census/researchers/ruotong-zhao-a5026271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 200 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 215 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Potential of arbuscular mycorrhizal fungi for soil health: A review** (2024)
-   50 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 ## External Profiles
 

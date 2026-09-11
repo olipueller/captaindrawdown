@@ -1,7 +1,7 @@
 ---
 title: "Shaokang Guo"
-description: "Shaokang Guo is a Mid-career Soil Carbon researcher at Weihai Science and Technology Bureau in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895003
+description: "Shaokang Guo is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.838843
 url: "/cdr-researcher-census/researchers/shaokang-guo-a5036402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shaokang-guo-a5036402/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Weihai Science and Technology Bureau"
+    "name": "Yangzhou University"
   },
   "sameAs": "https://openalex.org/A5036402422"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shaokang Guo**  
-Weihai Science and Technology Bureau · 🇨🇳 CN
+Yangzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 228 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 241 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term fertilization reshaped the accumulation of plant- and microbially-derived carbon by regulating biotic and abiotic factors in acidic paddy soil** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Growth stage mediates the effects of water regime and long-term fertilization on carbon partitioning in the rice–rhizosphere system** (2026)
    0 citations

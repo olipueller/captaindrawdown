@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Jiang"
 description: "Zhichao Jiang is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.381469
+date: 2026-09-11T02:38:29.333215
 url: "/cdr-researcher-census/researchers/zhichao-jiang-a5102716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 730 |
+| Citations | 749 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

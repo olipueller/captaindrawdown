@@ -1,7 +1,7 @@
 ---
 title: "Qingwei Lu"
 description: "Qingwei Lu is a Mid-career Biochar researcher at Anhui University of Traditional Chinese Medicine in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.880765
+date: 2026-09-11T02:38:29.844054
 url: "/cdr-researcher-census/researchers/qingwei-lu-a5101921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 234 |
+| Citations | 239 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

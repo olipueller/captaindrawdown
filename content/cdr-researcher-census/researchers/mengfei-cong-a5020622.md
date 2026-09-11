@@ -1,7 +1,7 @@
 ---
 title: "Mengfei Cong"
-description: "Mengfei Cong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.623596
+description: "Mengfei Cong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.558029
 url: "/cdr-researcher-census/researchers/mengfei-cong-a5020622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 387 |
-| Publications | 27 |
-| CDR Focus | 37.0% |
+| Citations | 411 |
+| Publications | 28 |
+| CDR Focus | 35.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 4. **Soil bacteria mediate organic carbon stability during alpine wetland biogeomorphic succession in the arid region of Central Asia** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 5. **Soil minerals regulate soil organic carbon accumulation through glomalin-related soil protein along an elevation gradient in a mountain arid ecosystem** (2025)
    10 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
    1 citations · Soil Carbon

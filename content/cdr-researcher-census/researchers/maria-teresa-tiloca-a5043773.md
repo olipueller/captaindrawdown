@@ -1,7 +1,7 @@
 ---
 title: "Maria Teresa Tiloca"
-description: "Maria Teresa Tiloca is a Mid-career Soil Carbon researcher at University of Sassari in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707888
+description: "Maria Teresa Tiloca is a Mid-career Soil Carbon researcher at University of Sassari in IT. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.655443
 url: "/cdr-researcher-census/researchers/maria-teresa-tiloca-a5043773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 325 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| Citations | 338 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **C-sequestration and resilience to climate change of globe artichoke cropping systems depend on crop residues management** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Biodiversity Manipulation Experiment in Agroforestry: a New Permanent Site in Sardinia (Italy)** (2026)
    0 citations · General CDR

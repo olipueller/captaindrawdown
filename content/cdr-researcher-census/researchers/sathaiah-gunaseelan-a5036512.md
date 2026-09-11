@@ -1,7 +1,7 @@
 ---
 title: "Sathaiah Gunaseelan"
 description: "Sathaiah Gunaseelan is a Mid-career Ocean CDR researcher at University of Minnesota in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.673945
+date: 2026-09-11T02:38:29.621417
 url: "/cdr-researcher-census/researchers/sathaiah-gunaseelan-a5036512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 348 |
+| Citations | 361 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Role of macroalgal blue carbon ecosystems in climate change mitigation** (2024)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
 ## External Profiles
 

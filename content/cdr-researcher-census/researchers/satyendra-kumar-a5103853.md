@@ -1,7 +1,7 @@
 ---
 title: "Satyendra Kumar"
-description: "Satyendra Kumar is a Senior Soil Carbon researcher at BNMV College Sahugarh Madhepura in IN. With 72 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225160
+description: "Satyendra Kumar is a Senior Soil Carbon researcher at BNMV College Sahugarh Madhepura in IN. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.173981
 url: "/cdr-researcher-census/researchers/satyendra-kumar-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,432 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| Citations | 1,469 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Soil Carbon
 
 3. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fatima Haque"
 description: "Fatima Haque is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.228959
+date: 2026-09-11T02:38:29.176223
 url: "/cdr-researcher-census/researchers/fatima-haque-a5047631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,399 |
+| Citations | 1,449 |
 | Publications | 40 |
 | CDR Focus | 22.5% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Mineral–Soil–Plant–Nutrient Synergisms of Enhanced Weathering for Agriculture: Short-Term Investigations Using Fast-Weathering Wollastonite Skarn** (2022)
-   38 citations · Enhanced Weathering
+   39 citations · Enhanced Weathering
 
 2. **Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering** (2023)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 3. **Urban Farming with Enhanced Rock Weathering As a Prospective Climate Stabilization Wedge** (2021)
    23 citations · Enhanced Weathering
 
 4. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 5. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering

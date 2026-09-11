@@ -1,7 +1,7 @@
 ---
 title: "Bella Tsachidou"
 description: "Bella Tsachidou is a Mid-career Biochar researcher at Luxembourg Institute of Science and Technology in LU. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060752
+date: 2026-09-11T02:38:30.022291
 url: "/cdr-researcher-census/researchers/bella-tsachidou-a5012863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 179 |
+| Citations | 183 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

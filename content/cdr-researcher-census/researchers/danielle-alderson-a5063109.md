@@ -1,7 +1,7 @@
 ---
 title: "Danielle Alderson"
 description: "Danielle Alderson is a Senior Soil Carbon researcher at University of Manchester in GB. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.044798
+date: 2026-09-11T02:38:29.991053
 url: "/cdr-researcher-census/researchers/danielle-alderson-a5063109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 184 |
+| Citations | 193 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aspects of microbial communities in peatland carbon cycling under changing climate and land use pressures** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Aged carbon mineralisation from headwater peatland floodplains in the Peak District, UK** (2024)
    0 citations · Soil Carbon

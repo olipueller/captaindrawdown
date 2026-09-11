@@ -1,7 +1,7 @@
 ---
 title: "A.P.D.A. Jayasekara"
 description: "A.P.D.A. Jayasekara is a Senior Biochar researcher at National Institute of Fundamental Studies in LK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.175694
+date: 2026-09-11T02:38:30.149663
 url: "/cdr-researcher-census/researchers/apda-jayasekara-a5006972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 148 |
+| Citations | 149 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

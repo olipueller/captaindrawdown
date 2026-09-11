@@ -1,7 +1,7 @@
 ---
 title: "Maryam Tabatabaei Anaraki"
 description: "Maryam Tabatabaei Anaraki is a Senior Soil Carbon researcher at University of Toronto in CA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.633735
+date: 2026-09-11T02:38:29.590297
 url: "/cdr-researcher-census/researchers/maryam-tabatabaei-anaraki-a5088861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 378 |
+| Citations | 384 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

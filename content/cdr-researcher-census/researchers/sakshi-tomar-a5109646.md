@@ -1,7 +1,7 @@
 ---
 title: "Sakshi Tomar"
 description: "Sakshi Tomar is a Senior Soil Carbon researcher at Amicable Knowledge Solution University in IN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.003239
+date: 2026-09-11T02:38:29.916307
 url: "/cdr-researcher-census/researchers/sakshi-tomar-a5109646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 196 |
+| Citations | 211 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 2. **Land use impacts on soil aggregation and carbon storage in the dry temperate himalayas: strategies for sustainable ecosystem management** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

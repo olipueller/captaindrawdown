@@ -1,7 +1,7 @@
 ---
 title: "Fabio Attore"
-description: "Fabio Attore is a Mid-career Soil Carbon researcher at Sapienza University of Rome in IT. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.524508
+description: "Fabio Attore is a Mid-career Soil Carbon researcher at Sapienza University of Rome in IT. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.476760
 url: "/cdr-researcher-census/researchers/fabio-attore-a5113003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 483 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 494 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon is buffered by grass inputs regardless of woody cover or fire frequency in an African savanna** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

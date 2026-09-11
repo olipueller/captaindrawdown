@@ -1,7 +1,7 @@
 ---
 title: "Jihong Qin"
-description: "Jihong Qin is a Mid-career Soil Carbon researcher at Chengdu University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.634615
+description: "Jihong Qin is a Mid-career Soil Carbon researcher at Chengdu University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.577657
 url: "/cdr-researcher-census/researchers/jihong-qin-a5108640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 378 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 396 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

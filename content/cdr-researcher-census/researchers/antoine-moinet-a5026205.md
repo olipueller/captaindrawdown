@@ -1,7 +1,7 @@
 ---
 title: "Antoine Moinet"
 description: "Antoine Moinet is a Mid-career Soil Carbon researcher at Commissariat à l'Énergie Atomique et aux Énergies Alternatives in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729683
+date: 2026-09-11T02:38:29.675000
 url: "/cdr-researcher-census/researchers/antoine-moinet-a5026205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 310 |
+| Citations | 323 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The challenge of selecting an appropriate soil organic carbon simulation model: A comprehensive global review and validation assessment** (2023)
-   60 citations · General CDR
+   63 citations · General CDR
 
 2. **Large underestimations of warming-induced soil carbon emissions from oversimplistic Q10 indicator** (2025)
    5 citations

@@ -1,7 +1,7 @@
 ---
 title: "Amr Abdalla"
-description: "Amr Abdalla is a Senior General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.900897
+description: "Amr Abdalla is a Senior General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.863818
 url: "/cdr-researcher-census/researchers/amr-abdalla-a5087062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 225 |
+| h-index | 8 |
+| Citations | 230 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Comprehensive Review of Chemical Looping Processes: From Fundamentals to Applications** (2026)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

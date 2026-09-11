@@ -1,7 +1,7 @@
 ---
 title: "Ram Swaroop Meena"
-description: "Ram Swaroop Meena is an Eminent Soil Carbon researcher at Banaras Hindu University in IN. With 402 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.070752
+description: "Ram Swaroop Meena is an Eminent Soil Carbon researcher at Banaras Hindu University in IN. With 414 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.024263
 url: "/cdr-researcher-census/researchers/ram-swaroop-meena-a5080095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 66 |
-| Citations | 13,529 |
-| Publications | 402 |
-| CDR Focus | 6.5% |
-| Trajectory | Declining |
+| Citations | 13,100 |
+| Publications | 414 |
+| CDR Focus | 6.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   120 citations · General CDR
+   131 citations · General CDR
 
-2. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
-   94 citations · General CDR
+2. **Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the sustainable food system** (2023)
+   111 citations · Soil Carbon
 
-3. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
-   94 citations · Soil Carbon
+3. **Utilizing waste compost to improve the atmospheric CO2 capturing in the rice-wheat cropping system and energy-cum‑carbon credit auditing for a circular economy** (2023)
+   103 citations · General CDR
 
-4. **Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the sustainable food system** (2023)
-   92 citations · Soil Carbon
+4. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
+   102 citations · General CDR
 
-5. **Utilizing waste compost to improve the atmospheric CO2 capturing in the rice-wheat cropping system and energy-cum‑carbon credit auditing for a circular economy** (2023)
-   80 citations · General CDR
+5. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
+   97 citations · Soil Carbon
 
-6. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
-   80 citations · Soil Carbon
+6. **Interaction impact of biocompost on nutrient dynamics and relations with soil biota, carbon fractions index, societal value of CO2 equivalent and ecosystem services in the wheat-rice farming** (2023)
+   88 citations · General CDR
 
-7. **Interaction impact of biocompost on nutrient dynamics and relations with soil biota, carbon fractions index, societal value of CO2 equivalent and ecosystem services in the wheat-rice farming** (2023)
-   66 citations · General CDR
+7. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
+   81 citations · Soil Carbon
 
-8. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
+8. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
+   71 citations · General CDR
+
+9. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
    61 citations · General CDR
 
-9. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
-   51 citations · General CDR
-
 10. **Agroforestry a model for ecological sustainability** (2022)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Eisenring"
-description: "Claudia Eisenring is a Senior Ocean CDR researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.533605
+description: "Claudia Eisenring is a Senior Ocean CDR researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.494493
 url: "/cdr-researcher-census/researchers/claudia-eisenring-a5042328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 473 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 474 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

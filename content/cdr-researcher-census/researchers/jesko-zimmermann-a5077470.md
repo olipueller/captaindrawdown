@@ -1,7 +1,7 @@
 ---
 title: "Jesko Zimmermann"
-description: "Jesko Zimmermann is a Mid-career Soil Carbon researcher at Teagasc Food Research Centre Ashtown in IE. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343077
+description: "Jesko Zimmermann is a Mid-career Soil Carbon researcher at Teagasc Food Research Centre Ashtown in IE. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.294386
 url: "/cdr-researcher-census/researchers/jesko-zimmermann-a5077470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 839 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 857 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

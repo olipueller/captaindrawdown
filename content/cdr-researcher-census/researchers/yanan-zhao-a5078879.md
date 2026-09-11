@@ -1,7 +1,7 @@
 ---
 title: "Yanan Zhao"
-description: "Yanan Zhao is a Senior Soil Carbon researcher at Henan University of Technology in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.396138
+description: "Yanan Zhao is a Senior Soil Carbon researcher at Henan University of Technology in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.362425
 url: "/cdr-researcher-census/researchers/yanan-zhao-a5078879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 697 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 681 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

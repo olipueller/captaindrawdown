@@ -1,7 +1,7 @@
 ---
 title: "J. Z. Jiang"
-description: "J. Z. Jiang is a Mid-career Biochar researcher at Tianjin University of Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.001962
+description: "J. Z. Jiang is a Mid-career Biochar researcher at Zhejiang International Studies University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.972593
 url: "/cdr-researcher-census/researchers/j-z-jiang-a5111986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/j-z-jiang-a5111986/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin University of Technology"
+    "name": "Zhejiang International Studies University"
   },
   "sameAs": "https://openalex.org/A5111986349"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **J. Z. Jiang**  
-Tianjin University of Technology · 🇨🇳 CN
+Zhejiang International Studies University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 196 |
+| Citations | 198 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

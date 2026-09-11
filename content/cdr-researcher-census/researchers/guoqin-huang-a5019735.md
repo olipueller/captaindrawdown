@@ -1,7 +1,7 @@
 ---
 title: "Guoqin Huang"
-description: "Guoqin Huang is a Senior Soil Carbon researcher at Huaqiao University in CN. With 150 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.215217
+description: "Guoqin Huang is a Senior Soil Carbon researcher at Huaqiao University in CN. With 148 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.161072
 url: "/cdr-researcher-census/researchers/guoqin-huang-a5019735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,519 |
-| Publications | 150 |
-| CDR Focus | 5.3% |
+| Citations | 1,588 |
+| Publications | 148 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 2. **Conversion of farmland to forest or grassland improves soil carbon, nitrogen, and ecosystem multi-functionality in a subtropical karst region of southwest China** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Biochar-Seaweed Fertilizer Blend: A Multifaceted Strategy for Mitigating Nitrous Oxide Emissions, Soil Rejuvenation, and Improving Rice Crop Performance** (2025)
    3 citations · Biochar

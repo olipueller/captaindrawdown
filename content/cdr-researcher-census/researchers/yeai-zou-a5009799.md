@@ -1,7 +1,7 @@
 ---
 title: "Yeai Zou"
 description: "Yeai Zou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.229073
+date: 2026-09-11T02:38:29.175111
 url: "/cdr-researcher-census/researchers/yeai-zou-a5009799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,399 |
+| Citations | 1,458 |
 | Publications | 56 |
-| CDR Focus | 10.7% |
+| CDR Focus | 8.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of hydrological environment on litter carbon input into the surface soil organic carbon pool in the Dongting Lake floodplain** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Vegetation types and flood water level are dominant factors controlling the carbon sequestration potential in Dongting Lake floodplain, China** (2024)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2025)
    0 citations

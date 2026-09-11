@@ -1,7 +1,7 @@
 ---
 title: "Mark E. Mitchell"
-description: "Mark E. Mitchell is a Mid-career Soil Carbon researcher at Environmental Protection Agency in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.624174
+description: "Mark E. Mitchell is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.582359
 url: "/cdr-researcher-census/researchers/mark-e-mitchell-a5064361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mark E. Mitchell",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-e-mitchell-a5064361/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Environmental Protection Agency"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-5942-9632",
     "https://openalex.org/A5064361229"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Mark E. Mitchell**  
-Environmental Protection Agency · 🇺🇸 US
+**Mark E. Mitchell**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 387 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 392 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

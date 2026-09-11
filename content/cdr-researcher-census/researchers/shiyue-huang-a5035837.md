@@ -1,7 +1,7 @@
 ---
 title: "Shiyue Huang"
 description: "Shiyue Huang is a Mid-career Biochar researcher at ZTE (China) in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.372161
+date: 2026-09-11T02:38:30.281054
 url: "/cdr-researcher-census/researchers/shiyue-huang-a5035837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 109 |
+| Citations | 122 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of Biochar-Based Materials for Effective Pollutant Removal in Wastewater Treatment** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

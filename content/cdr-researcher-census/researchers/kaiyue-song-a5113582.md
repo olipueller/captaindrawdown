@@ -1,7 +1,7 @@
 ---
 title: "Kaiyue Song"
-description: "Kaiyue Song is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 78 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.360210
+description: "Kaiyue Song is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 77 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.305306
 url: "/cdr-researcher-census/researchers/kaiyue-song-a5113582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 786 |
-| Publications | 78 |
-| CDR Focus | 5.1% |
+| h-index | 17 |
+| Citations | 817 |
+| Publications | 77 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Biochar improves soil organic carbon sequestration potential in the topsoil and subsoil of a paddy field** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 3. **The divergent response of fungal and bacterial necromass carbon in soil aggregates under biochar amendment in paddy soil** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 4. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
    0 citations · Biochar

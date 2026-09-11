@@ -1,7 +1,7 @@
 ---
 title: "Nguyen Duy Hai"
 description: "Nguyen Duy Hai is a Mid-career Biochar researcher at National Central University in TW. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.689530
+date: 2026-09-11T02:38:29.621050
 url: "/cdr-researcher-census/researchers/nguyen-duy-hai-a5020231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 338 |
+| Citations | 361 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Ozone-functionalized acacia wood sawdust biochar for total nitrogen adsorption from pig wastewater** (2025)
+1. **Phenolic-rich biomass-derived biochar as a low-cost alternative to activated carbon for cadmium stabilization in paddy soils** (2026)
    2 citations · Biochar
 
-2. **Phenolic-rich biomass-derived biochar as a low-cost alternative to activated carbon for cadmium stabilization in paddy soils** (2026)
-   1 citations · Biochar
+2. **Ozone-functionalized acacia wood sawdust biochar for total nitrogen adsorption from pig wastewater** (2025)
+   2 citations · Biochar
 
 ## External Profiles
 

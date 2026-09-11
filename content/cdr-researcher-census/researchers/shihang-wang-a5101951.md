@@ -1,7 +1,7 @@
 ---
 title: "Shihang Wang"
-description: "Shihang Wang is a Mid-career Soil Carbon researcher at Beihang University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.815288
+description: "Shihang Wang is a Mid-career Soil Carbon researcher at ShanghaiTech University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.721030
 url: "/cdr-researcher-census/researchers/shihang-wang-a5101951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shihang-wang-a5101951/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beihang University"
+    "name": "ShanghaiTech University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5753-6450",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shihang Wang**  
-Beihang University · 🇨🇳 CN
+ShanghaiTech University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 265 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 298 |
+| Publications | 36 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Framework Combining CENTURY Modeling and Chronosequences Sampling to Estimate Soil Organic Carbon Stock in an Agricultural Region with Large Land Use Change** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Regional simulation of soil organic carbon dynamics for dry farmland in Northeast China using the CENTURY model** (2021)
    12 citations · Soil Carbon

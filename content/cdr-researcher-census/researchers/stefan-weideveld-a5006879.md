@@ -1,7 +1,7 @@
 ---
 title: "Stefan Weideveld"
 description: "Stefan Weideveld is a Mid-career Ocean CDR researcher at Radboud University Nijmegen in NL. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.800034
+date: 2026-09-11T02:38:29.752285
 url: "/cdr-researcher-census/researchers/stefan-weideveld-a5006879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 272 |
+| Citations | 281 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Luiz C. Cotovicz"
-description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.285442
+description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.229319
 url: "/cdr-researcher-census/researchers/luiz-c-cotovicz-a5062438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,065 |
-| Publications | 57 |
-| CDR Focus | 8.8% |
+| Citations | 1,111 |
+| Publications | 56 |
+| CDR Focus | 8.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Blue Carbon Ecosystems in Brazil: Overview and an Urgent Call for Conservation and Restoration** (2022)
-   34 citations · Ocean CDR
+   36 citations · Ocean CDR
 
 2. **Blue carbon stock heterogeneity in Brazilian mangrove forests: A systematic review** (2023)
-   16 citations · General CDR
+   19 citations · General CDR
 
 3. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
    12 citations · Ocean CDR
 
 4. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   9 citations
+   11 citations
 
 5. **Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere** (2026)
    2 citations

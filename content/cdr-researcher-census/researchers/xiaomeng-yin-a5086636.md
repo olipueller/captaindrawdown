@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Yin"
 description: "Xiaomeng Yin is a Senior Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.973950
+date: 2026-09-11T02:38:29.949412
 url: "/cdr-researcher-census/researchers/xiaomeng-yin-a5086636/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lei Cheng"
-description: "Lei Cheng is a Mid-career Biochar researcher at Shenzhen University in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639007
+description: "Lei Cheng is a Mid-career Biochar researcher at Shenzhen University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.548568
 url: "/cdr-researcher-census/researchers/lei-cheng-a5081643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 375 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| h-index | 13 |
+| Citations | 420 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainable upcycling of artificial lightweight cold-bonded aggregates (ALCBAs) designed by biochar and concrete slurry waste (CSW) into porous carbons materials for CO2 sequestration** (2024)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **The role of different ratios of biochar in the artificial lightweight cold-bonded aggregates (ALCBAs) containing high volume of red mud (RM)** (2024)
    28 citations · Biochar

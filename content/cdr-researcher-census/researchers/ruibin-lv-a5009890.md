@@ -1,7 +1,7 @@
 ---
 title: "Ruibin Lv"
 description: "Ruibin Lv is a Senior Biochar researcher at Huazhong University of Science and Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012102
+date: 2026-09-11T02:38:29.968505
 url: "/cdr-researcher-census/researchers/ruibin-lv-a5009890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 193 |
+| Citations | 199 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Martha Carlin"
-description: "Martha Carlin is a Mid-career Ocean CDR researcher at Australian National University in AU. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.002901
+description: "Martha Carlin is a Mid-career Ocean CDR researcher at Australian National University in AU. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.901307
 url: "/cdr-researcher-census/researchers/martha-carlin-a5009381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 196 |
+| h-index | 7 |
+| Citations | 217 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Holobiome Harmony: Linking Environmental Sustainability, Agriculture, and Human Health for a Thriving Planet and One Health** (2025)
-   21 citations · General CDR
+   23 citations · General CDR
 
 ## External Profiles
 

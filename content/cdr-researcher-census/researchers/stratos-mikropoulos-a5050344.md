@@ -1,7 +1,7 @@
 ---
 title: "Stratos Mikropoulos"
 description: "Stratos Mikropoulos is an Early-career General CDR researcher at Utrecht University in NL. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.184928
+date: 2026-09-11T02:38:30.103001
 url: "/cdr-researcher-census/researchers/stratos-mikropoulos-a5050344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 145 |
+| Citations | 159 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   100 citations · General CDR
+   108 citations · General CDR
 
 ## External Profiles
 

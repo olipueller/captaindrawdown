@@ -1,7 +1,7 @@
 ---
 title: "T. Bhagavathi Pushpa"
 description: "T. Bhagavathi Pushpa is a Mid-career Biochar researcher at Anna University, Chennai in IN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348187
+date: 2026-09-11T02:38:29.297706
 url: "/cdr-researcher-census/researchers/t-bhagavathi-pushpa-a5025876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 820 |
+| Citations | 843 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Techno-economic feasibility of biochar as biosorbent for basic dye sequestration** (2021)
-   158 citations · Biochar
+   161 citations · Biochar
 
 ## External Profiles
 

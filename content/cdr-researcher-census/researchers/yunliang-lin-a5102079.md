@@ -1,7 +1,7 @@
 ---
 title: "Yunliang Lin"
 description: "Yunliang Lin is a Senior Biochar researcher. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484647
+date: 2026-09-11T02:38:29.442315
 url: "/cdr-researcher-census/researchers/yunliang-lin-a5102079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 538 |
+| Citations | 543 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on the mechanism of biochar loaded typical microalgae Chlorella removal of cadmium** (2021)
-   40 citations · Biochar
+   41 citations · Biochar
 
 2. **Study on the Influencing Factors and Mechanism of Biochar Loaded Typical Microalgae Chlorella Removal of Cadmium** (2021)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Enric Prats‐Salvado"
 description: "Enric Prats‐Salvado is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.308995
+date: 2026-09-11T02:38:30.212593
 url: "/cdr-researcher-census/researchers/enric-pratssalvado-a5076762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 120 |
+| Citations | 134 |
 | Publications | 11 |
 | CDR Focus | 63.6% |
 | Trajectory | Stable |
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Solar-Powered Direct Air Capture: Techno-Economic and Environmental Assessment** (2024)
-   40 citations
+   42 citations
 
 2. **Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels** (2022)
-   19 citations · DAC
+   20 citations · DAC
 
 3. **Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol** (2021)
-   14 citations · DAC
+   15 citations · DAC
 
 4. **A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production** (2024)
-   6 citations · DAC
+   7 citations · DAC
 
-5. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
-   0 citations · General CDR
+5. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
 
 6. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
    0 citations · General CDR
 
-7. **Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies** (2025)
-   0 citations · DAC
-
-8. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+7. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
    0 citations · General CDR
+
+8. **Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies** (2025)
+   0 citations · DAC
 
 ## External Profiles
 

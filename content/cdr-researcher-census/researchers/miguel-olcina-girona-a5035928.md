@@ -1,7 +1,7 @@
 ---
 title: "Miguel Olcina-Girona"
 description: "Miguel Olcina-Girona is a Mid-career General CDR researcher at Universitat Politècnica de València in ES. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.881158
+date: 2026-09-11T02:38:29.819882
 url: "/cdr-researcher-census/researchers/miguel-olcina-girona-a5035928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 233 |
+| Citations | 249 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Numerical Modeling of Hydrogen Combustion Using Preferential Species Diffusion, Detailed Chemistry and Adaptive Mesh Refinement in Internal Combustion Engines** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

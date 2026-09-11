@@ -1,7 +1,7 @@
 ---
 title: "Zhangtao Li"
-description: "Zhangtao Li is a Mid-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.178862
+description: "Zhangtao Li is a Mid-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.128997
 url: "/cdr-researcher-census/researchers/zhangtao-li-a5036494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 1,945 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| h-index | 14 |
+| Citations | 1,979 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

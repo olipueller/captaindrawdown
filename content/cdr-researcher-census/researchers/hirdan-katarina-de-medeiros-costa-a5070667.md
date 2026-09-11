@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
-description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Universidade Federal da Paraíba in BR. With 56 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337939
+description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Universidade Estadual do Ceará in BR. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.285990
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade Federal da Para\u00edba"
+    "name": "Universidade Estadual do Cear\u00e1"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5106-6251",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hirdan Katarina de Medeiros Costa**  
-Universidade Federal da Paraíba · 🇧🇷 BR
+Universidade Estadual do Ceará · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 852 |
-| Publications | 56 |
-| CDR Focus | 8.9% |
+| Citations | 879 |
+| Publications | 57 |
+| CDR Focus | 8.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Bioenergy with Carbon Capture and Storage (BECCS) in Brazil: A Review** (2023)
-   35 citations · BECCS
+   36 citations · BECCS
 
 2. **Análise do CBIO como passo inicial ao desenvolvimento de BECCS no Brasil** (2023)
    3 citations · BECCS

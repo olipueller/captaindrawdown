@@ -1,7 +1,7 @@
 ---
 title: "Joel Jensen"
-description: "Joel Jensen is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.114085
+description: "Joel Jensen is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.039580
 url: "/cdr-researcher-census/researchers/joel-jensen-a5040024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 164 |
+| h-index | 7 |
+| Citations | 178 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
+| CDR Focus | 17.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

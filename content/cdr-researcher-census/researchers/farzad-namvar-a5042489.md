@@ -1,7 +1,7 @@
 ---
 title: "Farzad Namvar"
-description: "Farzad Namvar is a Mid-career DAC researcher at Taibah University in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.734422
+description: "Farzad Namvar is a Mid-career DAC researcher at Taibah University in SA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.679460
 url: "/cdr-researcher-census/researchers/farzad-namvar-a5042489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 307 |
+| h-index | 9 |
+| Citations | 320 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in activated carbons for CO <sub>2</sub> capture: Structure–performance relationships and future perspectives** (2026)
-   2 citations · DAC
+   5 citations · DAC
 
 ## External Profiles
 

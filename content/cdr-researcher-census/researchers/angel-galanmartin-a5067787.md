@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
-description: "Ángel Galán‐Martín is a Senior General CDR researcher at University of Jaén in ES. With 65 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.153211
+description: "Ángel Galán‐Martín is a Senior General CDR researcher at University of Jaén in ES. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.101279
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,380 |
-| Publications | 65 |
-| CDR Focus | 16.9% |
+| Citations | 2,478 |
+| Publications | 66 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   87 citations · BECCS
+   88 citations · BECCS
 
-2. **Human and planetary health implications of negative emissions technologies** (2022)
-   49 citations · BECCS
+2. **The potential role of olive groves to deliver carbon dioxide removal in a carbon-neutral Europe: Opportunities and challenges** (2022)
+   50 citations · General CDR
 
-3. **The potential role of olive groves to deliver carbon dioxide removal in a carbon-neutral Europe: Opportunities and challenges** (2022)
-   48 citations · General CDR
+3. **Human and planetary health implications of negative emissions technologies** (2022)
+   50 citations · BECCS
 
 4. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
    47 citations · BECCS
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · BECCS
 
 7. **Recent advances and future perspectives in the valorization of olive biomass for sustainable biorefinery applications** (2025)
-   9 citations · BECCS
+   10 citations · BECCS
 
 8. **The consequences of inaction on carbon dioxide removal** (2021)
    3 citations · BECCS

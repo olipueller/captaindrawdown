@@ -1,7 +1,7 @@
 ---
 title: "Dener Márcio da Silva Oliveira"
-description: "Dener Márcio da Silva Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.242681
+description: "Dener Márcio da Silva Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.190160
 url: "/cdr-researcher-census/researchers/dener-marcio-da-silva-oliveira-a5012234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,30 +40,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,315 |
-| Publications | 66 |
-| CDR Focus | 13.6% |
-| Trajectory | Declining |
+| Citations | 1,358 |
+| Publications | 73 |
+| CDR Focus | 13.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Thermal stability of soil organic carbon after long-term manure application across land uses and tillage systems in an oxisol** (2021)
    26 citations · Soil Carbon
 
-2. **Depth assessed and up-scaling of single case studies might overestimate the role of C sequestration by pastures in the commitments of Brazil’s low-carbon agriculture plan** (2021)
+2. **A Global Meta-Analysis of Soil Carbon Stock in Agroforestry Coffee Cultivation** (2025)
+   12 citations · General CDR
+
+3. **Mineral-associated and particulate organic matter in aggregates as a proxy for soil C changes in pasturesugarcane land use transitions** (2023)
    9 citations · Soil Carbon
 
-3. **A Global Meta-Analysis of Soil Carbon Stock in Agroforestry Coffee Cultivation** (2025)
-   8 citations · General CDR
+4. **Depth assessed and up-scaling of single case studies might overestimate the role of C sequestration by pastures in the commitments of Brazil’s low-carbon agriculture plan** (2021)
+   9 citations · Soil Carbon
 
-4. **Soil carbon dynamics in integrated agricultural systems in Minas Gerais state, Brazil: A meta-analysis** (2024)
-   7 citations · Soil Carbon
-
-5. **Mineral-associated and particulate organic matter in aggregates as a proxy for soil C changes in pasturesugarcane land use transitions** (2023)
-   7 citations · Soil Carbon
+5. **Soil carbon dynamics in integrated agricultural systems in Minas Gerais state, Brazil: A meta-analysis** (2024)
+   8 citations · Soil Carbon
 
 6. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 7. **Soil organic carbon dynamics in agroforestry systems across urban and peri-urban landscapes** (2026)
    0 citations · Soil Carbon

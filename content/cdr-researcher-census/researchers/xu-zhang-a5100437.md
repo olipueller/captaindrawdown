@@ -1,7 +1,7 @@
 ---
 title: "Xu Zhang"
-description: "Xu Zhang is a Mid-career Soil Carbon researcher at Hainan Normal University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636621
+description: "Xu Zhang is a Mid-career Soil Carbon researcher at Hainan Normal University in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.569509
 url: "/cdr-researcher-census/researchers/xu-zhang-a5100437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 377 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 402 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
-2. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
+2. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
+   4 citations · Soil Carbon
+
+3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon
-
-3. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
-   2 citations · Soil Carbon
 
 ## External Profiles
 

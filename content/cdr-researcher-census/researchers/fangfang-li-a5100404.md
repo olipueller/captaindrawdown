@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Li"
-description: "Fangfang Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 80 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268664
+description: "Fangfang Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 81 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214385
 url: "/cdr-researcher-census/researchers/fangfang-li-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,154 |
-| Publications | 80 |
-| CDR Focus | 7.5% |
+| Citations | 1,201 |
+| Publications | 81 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Biochar
 
 2. **Effect of wildfires on soil organic carbon content and carbon flow pathways: The evidence of BPCAs molecular markers and 13C natural abundance** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Inhibited vertical mobility of biochar-derived dissolved organic matter under low-intensity rainfall: role of mineral retention** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 4. **Improvement and Stability of Soil Organic Carbon: The Effect of Earthworm Mucus Organo-Mineral Associations with Montmorillonite and Hematite** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Attila Németh"
 description: "Attila Németh is a Senior Ocean CDR researcher at Széchenyi István University in HU. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.992358
+date: 2026-09-11T02:38:29.858478
 url: "/cdr-researcher-census/researchers/attila-nemeth-a5086740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 199 |
+| Citations | 232 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Towards Climate-Smart Agriculture: Strategies for Sustainable Agricultural Production, Food Security, and Greenhouse Gas Reduction** (2025)
-   179 citations · General CDR
+   198 citations · General CDR
 
 2. **Review of the Use of Biostimulant Microalgae to Influence the Growth and Development of Ornamental Plants** (2024)
    2 citations · Ocean CDR

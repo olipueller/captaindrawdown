@@ -1,7 +1,7 @@
 ---
 title: "Hiba M. Alkharabsheh"
 description: "Hiba M. Alkharabsheh is a Mid-career Biochar researcher at Al-Balqa Applied University in JO. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.293887
+date: 2026-09-11T02:38:29.234268
 url: "/cdr-researcher-census/researchers/hiba-m-alkharabsheh-a5028218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,019 |
+| Citations | 1,084 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Its Broad Impacts in Soil Quality and Fertility, Nutrient Leaching and Crop Productivity: A Review** (2021)
-   518 citations · Biochar
+   535 citations · Biochar
 
 2. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

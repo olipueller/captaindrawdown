@@ -1,7 +1,7 @@
 ---
 title: "Muqier Hasi"
-description: "Muqier Hasi is a Mid-career Soil Carbon researcher at Zhongnan University of Economics and Law in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.933936
+description: "Muqier Hasi is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.871902
 url: "/cdr-researcher-census/researchers/muqier-hasi-a5047428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muqier-hasi-a5047428/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhongnan University of Economics and Law"
+    "name": "Inner Mongolia Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3248-6175",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muqier Hasi**  
-Zhongnan University of Economics and Law · 🇨🇳 CN
+Inner Mongolia Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 213 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 228 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

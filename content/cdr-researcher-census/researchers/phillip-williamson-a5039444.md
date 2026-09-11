@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
-description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 156 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089684
+description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 151 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.041376
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,36 +43,36 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 45 |
-| Citations | 5,969 |
-| Publications | 156 |
-| CDR Focus | 6.4% |
+| Citations | 6,065 |
+| Publications | 151 |
+| CDR Focus | 6.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Removal Using Coastal Blue Carbon Ecosystems Is Uncertain and Unreliable, With Questionable Climatic Cost-Effectiveness** (2022)
-   160 citations · General CDR
+   162 citations · General CDR
 
 2. **The Potential for Ocean-Based Climate Action: Negative Emissions Technologies and Beyond** (2021)
-   140 citations · General CDR
+   144 citations · General CDR
 
 3. **Implementation of marine CO2 removal for climate mitigation: The challenges of additionality, predictability, and governability** (2024)
    24 citations · General CDR
 
 4. **Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal** (2024)
-   20 citations · General CDR
+   21 citations · General CDR
 
 5. **Feasibility of Using Biologically-based Processes in the Open Ocean and Coastal Seas for Atmospheric CO2 Removal** (2022)
    10 citations · General CDR
 
 6. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
-   2 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 7. **Natural carbon uptake by ocean biology will not deliver credible carbon credits** (2025)
    2 citations · General CDR
 
 8. **A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 9. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy** (2026)
    0 citations

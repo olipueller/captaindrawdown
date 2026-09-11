@@ -1,7 +1,7 @@
 ---
 title: "Yves N′Dri Bohoussou"
 description: "Yves N′Dri Bohoussou is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.854745
+date: 2026-09-11T02:38:29.818320
 url: "/cdr-researcher-census/researchers/yves-ndri-bohoussou-a5080636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 244 |
+| Citations | 250 |
 | Publications | 7 |
 | CDR Focus | 71.4% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
    29 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 5. **Contribution of wheat and maize to soil organic carbon in a wheat‐maize cropping system: A field and laboratory study** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

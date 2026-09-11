@@ -1,7 +1,7 @@
 ---
 title: "Chenghao Zheng"
-description: "Chenghao Zheng is a Senior Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.675660
+description: "Chenghao Zheng is a Senior Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.609664
 url: "/cdr-researcher-census/researchers/chenghao-zheng-a5107807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 347 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| h-index | 10 |
+| Citations | 371 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Linking Soil Ecological Stoichiometry of Nutrients and Microbial Enzyme Activity to Bulk and Aggregate‐Associated Organic Carbon in Karst Rocky Desertification** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

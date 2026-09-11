@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Basha Makandar"
 description: "Mohammad Basha Makandar is a Senior Biochar researcher. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.319841
+date: 2026-09-11T02:38:30.291411
 url: "/cdr-researcher-census/researchers/mohammad-basha-makandar-a5050330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 118 |
+| Citations | 119 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Green synthesis of multifunctional Cu/MnO@Biochar 3D structure as a high-performance anode material in Li-ion batteries and oxidative removal of Cango-red dye** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Enze Song"
-description: "Enze Song is a Mid-career Biochar researcher at East China Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374818
+description: "Enze Song is a Mid-career Biochar researcher at HUN-REN Centre for Ecological Research in HU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.292475
 url: "/cdr-researcher-census/researchers/enze-song-a5109672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/enze-song-a5109672/",
   "affiliation": {
     "@type": "Organization",
-    "name": "East China Normal University"
+    "name": "HUN-REN Centre for Ecological Research"
   },
   "sameAs": "https://openalex.org/A5109672354"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Enze Song**  
-East China Normal University · 🇨🇳 CN
+HUN-REN Centre for Ecological Research ·  HU
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 108 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 119 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of Biochar on Soil Organic Carbon in Relation to Soil Nutrient Contents, Climate Zones and Cropping Systems: A Chinese Meta-Analysis** (2024)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

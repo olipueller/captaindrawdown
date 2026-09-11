@@ -1,7 +1,7 @@
 ---
 title: "Thomas Abindaw"
-description: "Thomas Abindaw is an Early-career Soil Carbon researcher at University of Energy and Natural Resources in GH. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.412638
+description: "Thomas Abindaw is a Mid-career Soil Carbon researcher at University of Energy and Natural Resources in GH. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.368978
 url: "/cdr-researcher-census/researchers/thomas-abindaw-a5073094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Thomas Abindaw**  
 University of Energy and Natural Resources ·  GH
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 102 |
+| Citations | 105 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

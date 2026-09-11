@@ -1,7 +1,7 @@
 ---
 title: "Eric Oppong Danso"
-description: "Eric Oppong Danso is a Mid-career Enhanced Weathering researcher at University of Ghana in GH. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.771631
+description: "Eric Oppong Danso is a Mid-career Enhanced Weathering researcher at University of Ghana in GH. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.732484
 url: "/cdr-researcher-census/researchers/eric-oppong-danso-a5091168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 287 |
-| Publications | 38 |
-| CDR Focus | 15.8% |
+| Citations | 292 |
+| Publications | 39 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

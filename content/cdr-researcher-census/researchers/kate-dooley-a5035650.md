@@ -1,7 +1,7 @@
 ---
 title: "Kate Dooley"
-description: "Kate Dooley is a Senior General CDR researcher at The University of Melbourne in AU. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.211399
+description: "Kate Dooley is a Senior General CDR researcher at The University of Melbourne in AU. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.156559
 url: "/cdr-researcher-census/researchers/kate-dooley-a5035650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,562 |
-| Publications | 67 |
-| CDR Focus | 9.0% |
+| Citations | 1,638 |
+| Publications | 70 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate policy decision making in contexts of deep uncertainty - from optimisation to robustness** (2021)
-   50 citations · General CDR
+   52 citations · General CDR
 
 2. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
-   39 citations · General CDR
+   46 citations · General CDR
 
 3. **Dynamic modelling shows substantial contribution of ecosystem restoration to climate change mitigation** (2021)
    27 citations · General CDR
 
 4. **Understanding land-based carbon dioxide removal in the context of the Rio Conventions** (2024)
-   14 citations · General CDR
+   16 citations · General CDR
 
 5. **Beyond ‘doing both’—framing carbon removal carefully** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 6. **Author Correction: Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2025)
    1 citations · General CDR

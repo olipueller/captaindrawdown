@@ -1,7 +1,7 @@
 ---
 title: "Sneha Dobhal"
-description: "Sneha Dobhal is a Mid-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.619860
+description: "Sneha Dobhal is a Mid-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 51 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.548859
 url: "/cdr-researcher-census/researchers/sneha-dobhal-a5023200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 391 |
-| Publications | 49 |
-| CDR Focus | 8.2% |
+| Citations | 420 |
+| Publications | 51 |
+| CDR Focus | 7.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
-   32 citations · General CDR
+   36 citations · General CDR
 
 3. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
    1 citations · Soil Carbon

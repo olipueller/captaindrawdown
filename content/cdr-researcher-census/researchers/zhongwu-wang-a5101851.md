@@ -1,7 +1,7 @@
 ---
 title: "Zhongwu Wang"
-description: "Zhongwu Wang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 91 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.216931
+description: "Zhongwu Wang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 90 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.166864
 url: "/cdr-researcher-census/researchers/zhongwu-wang-a5101851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,504 |
-| Publications | 91 |
-| CDR Focus | 5.5% |
+| Citations | 1,535 |
+| Publications | 90 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 3. **Plant compensatory growth and optimal grazing intensity of grasslands in northern China: A meta-analysis of grazing experiments** (2022)
-   15 citations · General CDR
+   16 citations · General CDR
 
 4. **Grazing disturbance reduces soil organic carbon sequestration and stability in desert steppe** (2025)
    4 citations · Soil Carbon

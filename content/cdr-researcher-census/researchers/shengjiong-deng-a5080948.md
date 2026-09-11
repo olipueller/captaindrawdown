@@ -1,7 +1,7 @@
 ---
 title: "Shengjiong Deng"
-description: "Shengjiong Deng is a Mid-career Biochar researcher at Yunnan University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.385264
+description: "Shengjiong Deng is a Mid-career Biochar researcher at Yunnan University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.327132
 url: "/cdr-researcher-census/researchers/shengjiong-deng-a5080948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 720 |
+| h-index | 12 |
+| Citations | 763 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of multiple heavy metals from mining-impacted water by biochar-filled constructed wetlands: Adsorption and biotic removal routes** (2021)
-   116 citations · Biochar
+   119 citations · Biochar
 
 2. **High treatment effectiveness for secondary effluent in Fe–C microelectrolysis constructed wetlands with electron donor supplementation** (2022)
    64 citations

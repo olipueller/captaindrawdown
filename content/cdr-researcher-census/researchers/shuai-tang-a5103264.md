@@ -1,7 +1,7 @@
 ---
 title: "Shuai Tang"
-description: "Shuai Tang is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.772513
+description: "Shuai Tang is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.696040
 url: "/cdr-researcher-census/researchers/shuai-tang-a5103264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 287 |
+| h-index | 10 |
+| Citations | 311 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

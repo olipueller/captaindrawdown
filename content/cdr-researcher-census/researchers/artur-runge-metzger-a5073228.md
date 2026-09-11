@@ -1,7 +1,7 @@
 ---
 title: "Artur Runge-Metzger"
 description: "Artur Runge-Metzger is a Senior General CDR researcher at Leibniz Association in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.703543
+date: 2026-09-11T02:38:29.660418
 url: "/cdr-researcher-census/researchers/artur-runge-metzger-a5073228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 328 |
+| Citations | 333 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

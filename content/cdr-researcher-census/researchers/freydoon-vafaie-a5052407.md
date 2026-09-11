@@ -1,7 +1,7 @@
 ---
 title: "Freydoon Vafaie"
-description: "Freydoon Vafaie is a Mid-career Biochar researcher at K.N.Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.652401
+description: "Freydoon Vafaie is a Mid-career Biochar researcher at K. N. Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.603266
 url: "/cdr-researcher-census/researchers/freydoon-vafaie-a5052407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/freydoon-vafaie-a5052407/",
   "affiliation": {
     "@type": "Organization",
-    "name": "K.N.Toosi University of Technology"
+    "name": "K. N. Toosi University of Technology"
   },
   "sameAs": "https://openalex.org/A5052407149"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Freydoon Vafaie**  
-K.N.Toosi University of Technology ·  IR
+K. N. Toosi University of Technology ·  IR
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 364 |
+| Citations | 375 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

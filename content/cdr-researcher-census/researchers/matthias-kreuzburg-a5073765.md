@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kreuzburg"
-description: "Matthias Kreuzburg is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.004221
+description: "Matthias Kreuzburg is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.966834
 url: "/cdr-researcher-census/researchers/matthias-kreuzburg-a5073765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 195 |
-| Publications | 24 |
-| CDR Focus | 25.0% |
+| Citations | 199 |
+| Publications | 26 |
+| CDR Focus | 23.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

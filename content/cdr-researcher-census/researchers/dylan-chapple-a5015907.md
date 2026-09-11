@@ -1,7 +1,7 @@
 ---
 title: "Dylan Chapple"
 description: "Dylan Chapple is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.415126
+date: 2026-09-11T02:38:30.365480
 url: "/cdr-researcher-census/researchers/dylan-chapple-a5015907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 106 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

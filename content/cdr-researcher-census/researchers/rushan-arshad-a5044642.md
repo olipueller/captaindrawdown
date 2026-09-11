@@ -1,7 +1,7 @@
 ---
 title: "Rushan Arshad"
 description: "Rushan Arshad is a Mid-career Biochar researcher at University of Portsmouth in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.634240
+date: 2026-09-11T02:38:29.586958
 url: "/cdr-researcher-census/researchers/rushan-arshad-a5044642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 378 |
+| Citations | 387 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Maximizing heavy metal removal and precious metal recovery with innovative biowaste-derived biosorbents and biochar** (2024)
-   23 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

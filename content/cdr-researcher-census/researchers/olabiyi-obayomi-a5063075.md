@@ -1,7 +1,7 @@
 ---
 title: "Olabiyi Obayomi"
 description: "Olabiyi Obayomi is a Mid-career Soil Carbon researcher at Ben-Gurion University of the Negev in IL. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.721686
+date: 2026-09-11T02:38:29.663789
 url: "/cdr-researcher-census/researchers/olabiyi-obayomi-a5063075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 315 |
+| Citations | 331 |
 | Publications | 22 |
 | CDR Focus | 18.2% |
 | Trajectory | Exiting |
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Response of soil microbial Communities, inorganic and organic soil carbon pools in arid saline soils to alternative land use practices** (2023)
    34 citations · Soil Carbon
 
-2. **Dairy Effluent-Saturated Biochar’s Short-Term Effects on Vigna unguiculata and Cynodon dactylon Performance and Soil Properties** (2024)
-   2 citations · Biochar
+2. **Biochar and Dairy Manure Amendment Effects on Cynodon dactylon Performance and Soil Properties** (2024)
+   3 citations · Biochar
 
-3. **Biochar and Dairy Manure Amendment Effects on Cynodon dactylon Performance and Soil Properties** (2024)
-   1 citations · Biochar
+3. **Dairy Effluent-Saturated Biochar’s Short-Term Effects on Vigna unguiculata and Cynodon dactylon Performance and Soil Properties** (2024)
+   2 citations · Biochar
 
 4. **Soil Microbial Community Responses to Alternative Land-Use Practices in Arid Saline-Soils Impacted Soil Inorganic and Organic Carbon Pools** (2022)
    0 citations · Soil Carbon

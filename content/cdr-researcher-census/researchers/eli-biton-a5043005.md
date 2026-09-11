@@ -1,7 +1,7 @@
 ---
 title: "Eli Biton"
-description: "Eli Biton is a Mid-career Ocean CDR researcher at Israel Oceanographic and Limnological Research in IL. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.700745
+description: "Eli Biton is a Mid-career Ocean CDR researcher at Israel Oceanographic and Limnological Research in IL. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.656087
 url: "/cdr-researcher-census/researchers/eli-biton-a5043005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 330 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| Citations | 337 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

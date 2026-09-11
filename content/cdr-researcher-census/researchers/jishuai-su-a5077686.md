@@ -1,7 +1,7 @@
 ---
 title: "Jishuai Su"
-description: "Jishuai Su is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.290095
+description: "Jishuai Su is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.238213
 url: "/cdr-researcher-census/researchers/jishuai-su-a5077686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,041 |
-| Publications | 52 |
-| CDR Focus | 5.8% |
+| Citations | 1,067 |
+| Publications | 53 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    43 citations · Soil Carbon
 
 2. **Plant compensatory growth and optimal grazing intensity of grasslands in northern China: A meta-analysis of grazing experiments** (2022)
-   15 citations · General CDR
+   16 citations · General CDR
 
 3. **Plant litter regulates the effect of nitrogen and water enrichment on ecosystem carbon sequestration in a semi-arid grassland** (2024)
    12 citations

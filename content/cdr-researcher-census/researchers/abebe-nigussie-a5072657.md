@@ -1,7 +1,7 @@
 ---
 title: "Abebe Nigussie"
 description: "Abebe Nigussie is a Mid-career Soil Carbon researcher at Jimma University  in ET. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.234106
+date: 2026-09-11T02:38:29.183286
 url: "/cdr-researcher-census/researchers/abebe-nigussie-a5072657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,369 |
+| Citations | 1,400 |
 | Publications | 65 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Effect of Climate-Smart Agriculture on Soil Fertility, Crop Yield, and Soil Carbon in Southern Ethiopia** (2021)
-   71 citations · General CDR
+   73 citations · General CDR
 
 2. **Nitrous oxide and methane emissions from coffee agroforestry systems with different intensities of canopy closure** (2023)
    12 citations · Soil Carbon
 
 3. **Biochar‐based fertilizers increase crop yields in acidic tropical soils** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 4. **Carbon stock dynamics in Sheka forest biosphere reserve, Ethiopia: A 60-year trajectory (1990–2050) and its implications for ecosystem services and conservation** (2025)
    1 citations · General CDR

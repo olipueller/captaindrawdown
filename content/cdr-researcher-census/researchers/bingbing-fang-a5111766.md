@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Fang"
 description: "Bingbing Fang is a Senior BECCS researcher at Xinjiang Medical University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.329296
+date: 2026-09-11T02:38:29.262604
 url: "/cdr-researcher-census/researchers/bingbing-fang-a5111766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 876 |
+| Citations | 967 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review** (2024)
-   193 citations · BECCS
+   211 citations · BECCS
 
 ## External Profiles
 

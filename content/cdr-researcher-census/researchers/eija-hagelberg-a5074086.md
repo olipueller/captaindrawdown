@@ -1,7 +1,7 @@
 ---
 title: "Eija Hagelberg"
 description: "Eija Hagelberg is an Early-career Soil Carbon researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.240137
+date: 2026-09-11T02:38:30.209012
 url: "/cdr-researcher-census/researchers/eija-hagelberg-a5074086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 133 |
+| Citations | 135 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Unknown |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How farmers approach soil carbon sequestration? Lessons learned from 105 carbon-farming plans** (2021)
-   133 citations · General CDR
+   135 citations · General CDR
 
 ## External Profiles
 

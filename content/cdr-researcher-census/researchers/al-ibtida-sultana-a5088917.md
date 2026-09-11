@@ -1,7 +1,7 @@
 ---
 title: "Al Ibtida Sultana"
-description: "Al Ibtida Sultana is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.735834
+description: "Al Ibtida Sultana is a Mid-career Biochar researcher at Los Alamos National Laboratory in US. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.671524
 url: "/cdr-researcher-census/researchers/al-ibtida-sultana-a5088917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/al-ibtida-sultana-a5088917/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Florida Institute of Technology"
+    "name": "Los Alamos National Laboratory"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4411-4355",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Al Ibtida Sultana**  
-Florida Institute of Technology · 🇺🇸 US
+Los Alamos National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 306 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 325 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   63 citations · Biochar
+   67 citations · Biochar
 
 2. **Multifunctional Loblolly Pine-Derived Superactivated Hydrochar: Effect of Hydrothermal Carbonization on Hydrogen and Electron Storage with Carbon Dioxide and Dye Removal** (2022)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaopeng Jiang"
-description: "Xiaopeng Jiang is a Mid-career General CDR researcher at Weifang Medical University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.412090
+description: "Xiaopeng Jiang is a Mid-career General CDR researcher at Weifang Medical University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.360088
 url: "/cdr-researcher-census/researchers/xiaopeng-jiang-a5087546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 662 |
+| h-index | 8 |
+| Citations | 687 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

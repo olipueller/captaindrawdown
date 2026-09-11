@@ -1,7 +1,7 @@
 ---
 title: "Adili Batuer"
-description: "Adili Batuer is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.278141
+description: "Adili Batuer is a Mid-career Ocean CDR researcher at Xinjiang University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.235404
 url: "/cdr-researcher-census/researchers/adili-batuer-a5081375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Adili Batuer",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adili-batuer-a5081375/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Xinjiang University"
+  },
   "sameAs": [
     "https://orcid.org/0009-0006-6843-0623",
     "https://openalex.org/A5081375522"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Adili Batuer**
+**Adili Batuer**  
+Xinjiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 130 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

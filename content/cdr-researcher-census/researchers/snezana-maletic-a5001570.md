@@ -1,7 +1,7 @@
 ---
 title: "Snežana Maletić"
 description: "Snežana Maletić is a Senior Biochar researcher at University of Novi Sad in RS. With 129 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.147968
+date: 2026-09-11T02:38:29.097455
 url: "/cdr-researcher-census/researchers/snezana-maletic-a5001570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,526 |
+| Citations | 2,590 |
 | Publications | 129 |
 | CDR Focus | 8.5% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in the Remediation of Organic Pollutants in Water: A Review of Polycyclic Aromatic Hydrocarbon and Pesticide Removal** (2024)
-   59 citations · Biochar
+   61 citations · Biochar
 
 2. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
-   24 citations · Biochar
+   25 citations · Biochar
 
 3. **The efficiency of the hard wood origin biochar addition on the PAHs bioavailability and stability in sediment** (2023)
    15 citations · Biochar
 
 4. **Adsorptive Behavior of Corn-Cob- and Straw-Derived Biochar for Polycyclic Aromatic Hydrocarbon Removal from Aqueous Systems** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 5. **Relevance of biochar metabolization—evidence from a long-term biochar field experiment** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 6. **Engineering Multifunctional Biochars for Integrated Environmental Systems: Multi-Medium Performance, Challenges, and Research Priorities** (2026)
    4 citations · Biochar

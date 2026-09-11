@@ -1,7 +1,7 @@
 ---
 title: "Lianlian Zhu"
 description: "Lianlian Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.865435
+date: 2026-09-11T02:38:29.835939
 url: "/cdr-researcher-census/researchers/lianlian-zhu-a5040551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 240 |
+| Citations | 242 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of hydrological environment on litter carbon input into the surface soil organic carbon pool in the Dongting Lake floodplain** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

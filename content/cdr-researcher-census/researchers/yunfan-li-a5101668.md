@@ -1,7 +1,7 @@
 ---
 title: "Yunfan Li"
 description: "Yunfan Li is a Senior Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.904800
+date: 2026-09-11T02:38:29.856741
 url: "/cdr-researcher-census/researchers/yunfan-li-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 224 |
+| Citations | 233 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests** (2023)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

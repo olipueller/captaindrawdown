@@ -1,7 +1,7 @@
 ---
 title: "Jianbing Wei"
-description: "Jianbing Wei is a Senior Soil Carbon researcher at Shenyang University in CN. With 62 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.397028
+description: "Jianbing Wei is a Senior Soil Carbon researcher at Shenyang University in CN. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.351478
 url: "/cdr-researcher-census/researchers/jianbing-wei-a5057266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 695 |
+| h-index | 12 |
+| Citations | 705 |
 | Publications | 62 |
 | CDR Focus | 6.5% |
 | Trajectory | Declining |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanisms driving spatial and temporal changes in soil organic carbon stocks in saline soils in a typical county of the western Songnen Plain, northeast China** (2024)
-   7 citations
+   8 citations
 
 2. **Prediction of regional cropland soil organic carbon content and distribution using deep learning: a case study of the Northeast China Plain** (2025)
    3 citations · Soil Carbon

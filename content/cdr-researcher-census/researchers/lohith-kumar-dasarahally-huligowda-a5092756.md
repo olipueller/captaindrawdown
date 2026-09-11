@@ -1,7 +1,7 @@
 ---
 title: "Lohith Kumar Dasarahally Huligowda"
 description: "Lohith Kumar Dasarahally Huligowda is a Mid-career Biochar researcher at Durban University of Technology in ZA. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.903610
+date: 2026-09-11T02:38:29.812591
 url: "/cdr-researcher-census/researchers/lohith-kumar-dasarahally-huligowda-a5092756/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 224 |
+| Citations | 252 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Lignocellulosic biomass for biochar production: A green initiative on biowaste conversion for pharmaceutical and other emerging pollutant removal** (2024)
-   29 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

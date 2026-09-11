@@ -1,7 +1,7 @@
 ---
 title: "Outi Tahvonen"
-description: "Outi Tahvonen is a Mid-career General CDR researcher at Häme University of Applied Sciences in FI. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.019221
+description: "Outi Tahvonen is a Mid-career General CDR researcher at Häme University of Applied Sciences in FI. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.980866
 url: "/cdr-researcher-census/researchers/outi-tahvonen-a5070133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 191 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 8 |
+| Citations | 196 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A framework for a carbon-based urban vegetation typology - A thematic review** (2023)
-   19 citations · General CDR
+   20 citations · General CDR
 
 2. **A Framework for a Carbon-Based Urban Vegetation Typology** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Liao"
-description: "Xiaoli Liao is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.866015
+description: "Xiaoli Liao is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.811259
 url: "/cdr-researcher-census/researchers/xiaoli-liao-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 240 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 253 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Linking soil nutrients and carbon source composition to forest thinning intensity: evidence from a Chinese fir plantation** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

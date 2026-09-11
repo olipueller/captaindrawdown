@@ -1,7 +1,7 @@
 ---
 title: "Tino Colombi"
-description: "Tino Colombi is a Senior Soil Carbon researcher at University of Nottingham in GB. With 89 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142911
+description: "Tino Colombi is a Senior Soil Carbon researcher at University of Nottingham in GB. With 94 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.091569
 url: "/cdr-researcher-census/researchers/tino-colombi-a5062803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,675 |
-| Publications | 89 |
-| CDR Focus | 6.7% |
+| Citations | 2,775 |
+| Publications | 94 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,25 +56,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
    2 citations
 
-3. **Intraspecific diversity of cereals – root architecture and quantification of root carbon inputs** (2026)
+3. **The role of root physiological and structural plasticity for carbon allocation in plant-soil systems** (2022)
+   1 citations · Soil Carbon
+
+4. **Intraspecific diversity of cereals – root architecture and quantification of root carbon inputs** (2026)
    0 citations · Soil Carbon
 
-4. **Divide or expand? Implications of root growth physiology for soil carbon inputs** (2026)
+5. **Divide or expand? Implications of root growth physiology for soil carbon inputs** (2026)
    0 citations · Soil Carbon
 
-5. **The potential of crop variety selection to enhance soil organic carbon stocks and yields: a soil-crop modelling study for spring barley in a Nordic climate** (2026)
+6. **The potential of crop variety selection to enhance soil organic carbon stocks and yields: a soil-crop modelling study for spring barley in a Nordic climate** (2026)
    0 citations · Soil Carbon
 
-6. **Reply on RC2** (2025)
+7. **Reply on RC2** (2025)
    0 citations · Soil Carbon
 
-7. **Reply on RC1** (2025)
+8. **Reply on RC1** (2025)
    0 citations · Soil Carbon
 
-8. **Physical protection of soil organic carbon in Swedish arable soils in relation to oxalate-extractable aluminum.** (2023)
-   0 citations · Soil Carbon
-
-9. **The role of root physiological and structural plasticity for carbon allocation in plant-soil systems** (2022)
+9. **Physical protection of soil organic carbon in Swedish arable soils in relation to oxalate-extractable aluminum.** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Vikas Kumar"
 description: "Vikas Kumar is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.258318
+date: 2026-09-11T02:38:30.220911
 url: "/cdr-researcher-census/researchers/vikas-kumar-a5101567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
+| Citations | 133 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Decade of Climate-Smart Agriculture in Major Agri-Food Systems: Earthworm Abundance and Soil Physico-Biochemical Properties** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

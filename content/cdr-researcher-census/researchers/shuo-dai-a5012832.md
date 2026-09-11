@@ -1,7 +1,7 @@
 ---
 title: "Shuo Dai"
 description: "Shuo Dai is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975193
+date: 2026-09-11T02:38:29.887800
 url: "/cdr-researcher-census/researchers/shuo-dai-a5012832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 205 |
+| Citations | 222 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   61 citations · Biochar
+   66 citations · Biochar
 
 ## External Profiles
 

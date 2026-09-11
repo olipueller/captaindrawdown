@@ -1,7 +1,7 @@
 ---
 title: "Zongsheng Zhou"
-description: "Zongsheng Zhou is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.378122
+description: "Zongsheng Zhou is a Mid-career General CDR researcher at Institute of Physics in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.341044
 url: "/cdr-researcher-census/researchers/zongsheng-zhou-a5059789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zongsheng-zhou-a5059789/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Physics"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6077-0061",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zongsheng Zhou**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Physics · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 110 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Sarita Bisht"
-description: "Sarita Bisht is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.701476
+description: "Sarita Bisht is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.647823
 url: "/cdr-researcher-census/researchers/sarita-bisht-a5007532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 330 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
-| Trajectory | Stable |
+| Citations | 343 |
+| Publications | 12 |
+| CDR Focus | 16.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biomass Accumulation and Carbon Stock in Different Agroforestry Systems Prevalent in the Himalayan Foothills, India** (2021)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Significance of Plant Functional Traits in Soil Carbon and Nutrient Dynamics** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Greg Pelletier"
 description: "Greg Pelletier is a Senior Ocean CDR researcher at Independent Scientist in US. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.230050
+date: 2026-09-11T02:38:29.179246
 url: "/cdr-researcher-census/researchers/greg-pelletier-a5013844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,392 |
+| Citations | 1,428 |
 | Publications | 54 |
 | CDR Focus | 9.3% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification** (2022)
-   34 citations · Ocean CDR
+   35 citations · Ocean CDR
 
 2. **Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle** (2025)
-   19 citations · Ocean CDR
+   20 citations · Ocean CDR
 
 3. **Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers** (2025)
-   5 citations · Ocean CDR
+   6 citations · Ocean CDR
 
 4. **Supplementary material to "Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle"** (2024)
    2 citations · General CDR

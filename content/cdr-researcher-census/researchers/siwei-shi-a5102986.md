@@ -1,7 +1,7 @@
 ---
 title: "Siwei Shi"
-description: "Siwei Shi is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.245137
+description: "Siwei Shi is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.168559
 url: "/cdr-researcher-census/researchers/siwei-shi-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/siwei-shi-a5102986/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Agricultural Resources and Regional Planning"
+    "name": "Tianjin University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1473-2945",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Siwei Shi**  
-Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
+Tianjin University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 132 |
-| Publications | 13 |
-| CDR Focus | 30.8% |
+| h-index | 7 |
+| Citations | 144 |
+| Publications | 15 |
+| CDR Focus | 26.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations
 
 2. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Soil carbon sequestration exhibits differential mechanisms in two textured paddy soils under long-term green manuring** (2026)
    0 citations · Soil Carbon

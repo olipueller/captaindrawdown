@@ -1,7 +1,7 @@
 ---
 title: "Namita Das Saha"
-description: "Namita Das Saha is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.803122
+description: "Namita Das Saha is a Senior Soil Carbon researcher at ICAR – National Research Centre on Litchi in NP. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.744523
 url: "/cdr-researcher-census/researchers/namita-das-saha-a5074504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/namita-das-saha-a5074504/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Agricultural Statistics Research Institute"
+    "name": "ICAR \u2013 National Research Centre on Litchi"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3351-7693",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Namita Das Saha**  
-Indian Agricultural Statistics Research Institute · 🇮🇳 IN
+ICAR – National Research Centre on Litchi ·  NP
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 271 |
-| Publications | 42 |
-| CDR Focus | 7.1% |
+| Citations | 286 |
+| Publications | 44 |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Soil Microbial Diversity and Function Respond Contrastingly to Elevated CO2 and Ozone with Implications for Carbon Sequestration in Wheat Cultivation** (2026)
    0 citations

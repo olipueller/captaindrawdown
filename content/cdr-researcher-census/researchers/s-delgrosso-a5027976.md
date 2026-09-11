@@ -1,7 +1,7 @@
 ---
 title: "S. DelGrosso"
 description: "S. DelGrosso is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.446021
+date: 2026-09-11T02:38:29.400473
 url: "/cdr-researcher-census/researchers/s-delgrosso-a5027976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 599 |
+| Citations | 608 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating the impacts of alternative grazing management practices on soil carbon sequestration and soil health indicators** (2022)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Simulating long-term soil carbon storage, greenhouse gas balance, and crop yields in semi-arid cropping systems using DayCent model** (2024)
-   19 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

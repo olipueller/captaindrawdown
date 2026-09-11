@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Sun"
-description: "Jiacheng Sun is an Early-career Biochar researcher at Nankai University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.725039
+description: "Jiacheng Sun is an Early-career Biochar researcher at Nankai University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.671765
 url: "/cdr-researcher-census/researchers/jiacheng-sun-a5030738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 313 |
-| Publications | 10 |
-| CDR Focus | 60.0% |
-| Trajectory | Declining |
+| Citations | 325 |
+| Publications | 12 |
+| CDR Focus | 33.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Comparative characterisation and phytotoxicity assessment of biochar and hydrochar derived from municipal wastewater microalgae biomass** (2023)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Synergistic valorisation of wastewater microalgae: Sulphuric acid-assisted phosphorus recovery and enhanced electrochemical performance of biochar for supercapacitors** (2024)
-   24 citations · Biochar
+   25 citations · Biochar
 
 3. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
    2 citations · Biochar
@@ -62,11 +62,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **A comprehensive review of algal biochar for soil improvement: bottlenecks and opportunities** (2021)
    2 citations · Biochar
 
-5. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
+5. **Engineering Thermochemistry and Process Technologies to Enable Gigaton‐Scale Sustainable Biochar Production** (2026)
    1 citations · Biochar
 
-6. **Engineering Thermochemistry and Process Technologies to Enable Gigaton‐Scale Sustainable Biochar Production** (2026)
-   0 citations · Biochar
+6. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
+   1 citations · Biochar
 
 ## External Profiles
 

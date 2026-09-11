@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Zhao"
 description: "Mingliang Zhao is a Senior Soil Carbon researcher at Yantai Institute of Coastal Zone Research in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555959
+date: 2026-09-11T02:38:29.511933
 url: "/cdr-researcher-census/researchers/mingliang-zhao-a5102851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 450 |
+| Citations | 456 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

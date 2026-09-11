@@ -1,7 +1,7 @@
 ---
 title: "Sunita Kumari Meena"
-description: "Sunita Kumari Meena is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155300
+description: "Sunita Kumari Meena is a Senior Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.105035
 url: "/cdr-researcher-census/researchers/sunita-kumari-meena-a5059480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sunita-kumari-meena-a5059480/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tamil Nadu Agricultural University"
+    "name": "Dr. Rajendra Prasad Central Agriculture University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9841-1195",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sunita Kumari Meena**  
-Tamil Nadu Agricultural University · 🇮🇳 IN
+Dr. Rajendra Prasad Central Agriculture University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,351 |
-| Publications | 74 |
-| CDR Focus | 6.8% |
-| Trajectory | Declining |
+| Citations | 2,391 |
+| Publications | 75 |
+| CDR Focus | 5.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhilong Fan"
-description: "Zhilong Fan is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 91 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.179966
+description: "Zhilong Fan is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 92 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.126518
 url: "/cdr-researcher-census/researchers/zhilong-fan-a5103081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 1,927 |
-| Publications | 91 |
-| CDR Focus | 7.7% |
+| h-index | 27 |
+| Citations | 2,015 |
+| Publications | 92 |
+| CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Enhancing crop production and carbon sequestration of wheat in arid areas by green manure with reduced nitrogen fertilizer** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
-   9 citations
+   10 citations
 
 4. **A review of mechanisms underlying soil carbon sequestration and enhancement strategies via diversified planting and green manure integration** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Recent advances in soil carbon sequestration and emission reduction within legume green manure enhanced rotation systems: a review** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Intercropping grain crops with green manure under reduced chemical nitrogen improves the soil carbon stocks by optimizing aggregates in an oasis irrigation area** (2025)
    1 citations · Soil Carbon

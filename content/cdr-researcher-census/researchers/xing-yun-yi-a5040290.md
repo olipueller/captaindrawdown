@@ -1,7 +1,7 @@
 ---
 title: "Xing-Yun Yi"
 description: "Xing-Yun Yi is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.005678
+date: 2026-09-11T02:38:29.909714
 url: "/cdr-researcher-census/researchers/xing-yun-yi-a5040290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 195 |
+| Citations | 214 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adaptive expression of phage auxiliary metabolic genes in paddy soils and their contribution toward global carbon sequestration** (2024)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

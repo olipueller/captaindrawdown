@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Yuan"
-description: "Jianyu Yuan is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.822501
+description: "Jianyu Yuan is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.769183
 url: "/cdr-researcher-census/researchers/jianyu-yuan-a5005740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 261 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| h-index | 11 |
+| Citations | 274 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil nitrogen and carbon storages and carbon pool management index under sustainable conservation tillage strategy** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Seasonal freeze-thaw characteristics of soil carbon pools under different vegetation restoration types on the Longzhong Loess Plateau** (2022)
    19 citations · Soil Carbon

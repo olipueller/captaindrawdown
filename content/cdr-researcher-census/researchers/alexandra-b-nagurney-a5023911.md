@@ -1,7 +1,7 @@
 ---
 title: "Alexandra B. Nagurney"
 description: "Alexandra B. Nagurney is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.339728
+date: 2026-09-11T02:38:30.290757
 url: "/cdr-researcher-census/researchers/alexandra-b-nagurney-a5023911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 114 |
+| Citations | 119 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **CO<sub>2</sub>-Based Leaching of Sulfidic Peridotite Drives Critical Mineral Mobilization and Carbonate Precipitation** (2025)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 2. **CO2-Based Leaching of Sulfidic Peridotite Drives Critical Mineral Mobilization and Carbonate Precipitation** (2025)
    1 citations · Enhanced Weathering

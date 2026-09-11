@@ -1,7 +1,7 @@
 ---
 title: "Naveen Veerabhadraswamy"
 description: "Naveen Veerabhadraswamy is an Early-career BECCS researcher at University of Agricultural and Horticultural Sciences in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.300556
+date: 2026-09-11T02:38:30.225049
 url: "/cdr-researcher-census/researchers/naveen-veerabhadraswamy-a5017102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 122 |
+| Citations | 132 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   93 citations · BECCS
+   101 citations · BECCS
 
 ## External Profiles
 

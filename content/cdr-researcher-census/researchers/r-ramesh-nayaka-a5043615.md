@@ -1,7 +1,7 @@
 ---
 title: "R. Ramesh Nayaka"
 description: "R. Ramesh Nayaka is a Mid-career Biochar researcher at Indian Institute of Technology Dharwad in IN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.430450
+date: 2026-09-11T02:38:29.374566
 url: "/cdr-researcher-census/researchers/r-ramesh-nayaka-a5043615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 626 |
+| Citations | 654 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Harnessing biochar for green construction: A review of its applications in cement and concrete** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **A study on influence of carbon curing on the performance of agro biochar based geopolymer mortars** (2026)
    2 citations · Biochar

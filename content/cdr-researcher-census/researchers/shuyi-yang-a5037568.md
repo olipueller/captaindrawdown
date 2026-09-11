@@ -1,7 +1,7 @@
 ---
 title: "Shuyi Yang"
-description: "Shuyi Yang is a Mid-career Biochar researcher at Bohai University in CN. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249824
+description: "Shuyi Yang is a Mid-career Biochar researcher at Bohai University in CN. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.211359
 url: "/cdr-researcher-census/researchers/shuyi-yang-a5037568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,257 |
-| Publications | 74 |
-| CDR Focus | 9.5% |
+| Citations | 1,215 |
+| Publications | 75 |
+| CDR Focus | 9.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Modulation of ciprofloxacin adsorption conjugation effect by specific conformation of manganese-nitrogen co-doped biochar and its mechanistic study** (2025)
-   24 citations · Biochar
+   28 citations · Biochar
 
 2. **In situ formed CaSO4 on waste dander biochar to inhibit the mineralization of soil organic carbon** (2022)
    23 citations · Biochar
 
 3. **Preparation of Mn modified waste dander biochar and its effect on soil carbon sequestration** (2024)
-   16 citations
+   17 citations
 
 4. **Effect of waste leather dander biochar on soil organic carbon sequestration** (2024)
    15 citations · Biochar

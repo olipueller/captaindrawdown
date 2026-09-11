@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
-description: "Fan Yang is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 91 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.126977
+description: "Fan Yang is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 91 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.076706
 url: "/cdr-researcher-census/researchers/fan-yang-a5024185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 27 |
-| Citations | 3,277 |
+| h-index | 28 |
+| Citations | 3,355 |
 | Publications | 91 |
 | CDR Focus | 6.6% |
 | Trajectory | Stable |
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   135 citations · Biochar
+   137 citations · Biochar
 
 2. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
    81 citations · Biochar
 
 3. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   50 citations · Biochar
+   55 citations · Biochar
 
 4. **Roles of iron and manganese in bimetallic biochar composites for efficient persulfate activation and atrazine removal** (2024)
-   41 citations · Biochar
+   45 citations · Biochar
 
-5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
-   4 citations
-
-6. **Biochar for carbon sequestration and environmental remediation in soil** (2022)
+5. **Enhancement of Biochar Carbon Sequestration Through Mineral Regulation: Effects and Mechanisms** (2025)
    4 citations · Biochar
 
-7. **Enhancement of Biochar Carbon Sequestration Through Mineral Regulation: Effects and Mechanisms** (2025)
-   3 citations · Biochar
+6. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
+   4 citations
+
+7. **Biochar for carbon sequestration and environmental remediation in soil** (2022)
+   4 citations · Biochar
 
 ## External Profiles
 

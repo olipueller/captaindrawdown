@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092597
+date: 2026-09-11T02:38:29.043804
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 5,682 |
+| Citations | 5,753 |
 | Publications | 54 |
-| CDR Focus | 13.0% |
-| Trajectory | Declining |
+| CDR Focus | 11.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 2. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   17 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 3. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 4. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
    8 citations · General CDR

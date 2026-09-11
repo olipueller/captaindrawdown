@@ -1,7 +1,7 @@
 ---
 title: "Jianbin Guo"
-description: "Jianbin Guo is a Senior Soil Carbon researcher at Shandong University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.613794
+description: "Jianbin Guo is a Senior Soil Carbon researcher at Shandong University in CN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.553499
 url: "/cdr-researcher-census/researchers/jianbin-guo-a5101135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 396 |
+| h-index | 11 |
+| Citations | 416 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial–temporal pattern of vegetation carbon sequestration and its response to rocky desertification control measures in a karst area, in Guangxi Province, China** (2022)
-   19 citations
+   20 citations
 
 2. **Spatiotemporal pattern of vegetation water use efficiency between 2003 and 2017 and its coupling relationship with artificial carbon sequestration in the karst region of Southwestern China** (2023)
    14 citations · General CDR
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations
 
 4. **Decipher soil organic carbon density dynamics, driving forces and future stability across Southwest China** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 5. **Soil Organic Carbon Density Dynamics after Forestation Driven by Old Carbon Loss and New Carbon Gain Processes in the Dryland Region of the Loess Plateau in Northwest China** (2024)
    0 citations · Soil Carbon

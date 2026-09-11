@@ -1,7 +1,7 @@
 ---
 title: "Thomas J. Howard"
 description: "Thomas J. Howard is a Senior General CDR researcher at Technical University of Denmark in DK. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.014025
+date: 2026-09-11T02:38:29.991607
 url: "/cdr-researcher-census/researchers/thomas-j-howard-a5111779/"
 layout: "researcher"
 hiddenInHomeList: true

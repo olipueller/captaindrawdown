@@ -1,7 +1,7 @@
 ---
 title: "Chenyang Jiang"
-description: "Chenyang Jiang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540922
+description: "Chenyang Jiang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.479365
 url: "/cdr-researcher-census/researchers/chenyang-jiang-a5107997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 465 |
+| h-index | 9 |
+| Citations | 491 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree–litter–soil system C:N:P stoichiometry and tree organ homeostasis in mixed and pure Chinese fir stands in south subtropical China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chenkai Zhou"
-description: "Chenkai Zhou is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.044539
+description: "Chenkai Zhou is a Mid-career Biochar researcher at Zhejiang Institute of Special Equipment Inspection in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.983609
 url: "/cdr-researcher-census/researchers/chenkai-zhou-a5026659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chenkai-zhou-a5026659/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hunan Agricultural University"
+    "name": "Zhejiang Institute of Special Equipment Inspection"
   },
   "sameAs": "https://openalex.org/A5026659447"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Chenkai Zhou**  
-Hunan Agricultural University · 🇨🇳 CN
+Zhejiang Institute of Special Equipment Inspection · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 184 |
+| h-index | 7 |
+| Citations | 195 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

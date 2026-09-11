@@ -1,7 +1,7 @@
 ---
 title: "X. Y. Zhang"
-description: "X. Y. Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.740521
+description: "X. Y. Zhang is a Senior Soil Carbon researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.695687
 url: "/cdr-researcher-census/researchers/x-y-zhang-a5001020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/x-y-zhang-a5001020/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Forest Ecology of the Slovak Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4209-0062",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **X. Y. Zhang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Forest Ecology of the Slovak Academy of Sciences ·  SK
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 304 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 311 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yifei Yang"
-description: "Yifei Yang is a Mid-career Enhanced Weathering researcher at Tongji University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.066833
+description: "Yifei Yang is a Mid-career Enhanced Weathering researcher at Tongji University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.016548
 url: "/cdr-researcher-census/researchers/yifei-yang-a5111057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 177 |
+| h-index | 7 |
+| Citations | 185 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |

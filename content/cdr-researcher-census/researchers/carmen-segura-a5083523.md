@@ -1,7 +1,7 @@
 ---
 title: "Carmen Segura"
 description: "Carmen Segura is a Senior Soil Carbon researcher at Rothamsted Research in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.722832
+date: 2026-09-11T02:38:29.668483
 url: "/cdr-researcher-census/researchers/carmen-segura-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 315 |
+| Citations | 328 |
 | Publications | 19 |
 | CDR Focus | 21.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **CO2 fluxes from three different temperate grazed pastures using Eddy covariance measurements** (2022)
-   13 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map protocol** (2024)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Julian Herndon"
-description: "Julian Herndon is a Senior Ocean CDR researcher at National Oceanic and Atmospheric Administration in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.288399
+description: "Julian Herndon is a Senior Ocean CDR researcher at NOAA Pacific Marine Environmental Laboratory in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.239243
 url: "/cdr-researcher-census/researchers/julian-herndon-a5111286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/julian-herndon-a5111286/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Oceanic and Atmospheric Administration"
+    "name": "NOAA Pacific Marine Environmental Laboratory"
   },
   "sameAs": "https://openalex.org/A5111286013"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Julian Herndon**  
-National Oceanic and Atmospheric Administration · 🇺🇸 US
+NOAA Pacific Marine Environmental Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -40,18 +40,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,050 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Citations | 1,063 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   28 citations · Ocean CDR
+   36 citations · Ocean CDR
 
 2. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 3. **A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds** (2024)
    6 citations · General CDR

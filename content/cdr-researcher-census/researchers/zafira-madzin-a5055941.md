@@ -1,7 +1,7 @@
 ---
 title: "Zafira Madzin"
 description: "Zafira Madzin is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602849
+date: 2026-09-11T02:38:29.557706
 url: "/cdr-researcher-census/researchers/zafira-madzin-a5055941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 404 |
+| Citations | 411 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimising spent mushroom compost biochar for heavy metal removal: Mechanisms and kinetics in mine water treatment** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Potential application of spent mushroom compost (SMC) biochar as low-cost filtration media in heavy metal removal from abandoned mining water: a review** (2022)
    11 citations · Biochar

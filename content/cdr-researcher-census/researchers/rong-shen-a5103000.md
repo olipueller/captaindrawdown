@@ -1,7 +1,7 @@
 ---
 title: "Rong Shen"
 description: "Rong Shen is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920281
+date: 2026-09-11T02:38:29.880799
 url: "/cdr-researcher-census/researchers/rong-shen-a5103000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 219 |
+| Citations | 225 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

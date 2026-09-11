@@ -1,7 +1,7 @@
 ---
 title: "Máté Karlik"
-description: "Máté Karlik is a Mid-career Soil Carbon researcher at Institute for Geological and Geochemical Research in HU. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.116639
+description: "Máté Karlik is a Mid-career Soil Carbon researcher at Konkoly Observatory in HU. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.074907
 url: "/cdr-researcher-census/researchers/mate-karlik-a5077508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mate-karlik-a5077508/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute for Geological and Geochemical Research"
+    "name": "Konkoly Observatory"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6971-259X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Máté Karlik**  
-Institute for Geological and Geochemical Research ·  HU
+Konkoly Observatory ·  HU
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 163 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 168 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

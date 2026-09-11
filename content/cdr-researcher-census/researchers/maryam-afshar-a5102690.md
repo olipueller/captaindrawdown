@@ -1,7 +1,7 @@
 ---
 title: "Maryam Afshar"
 description: "Maryam Afshar is an Early-career Biochar researcher at University of Zanjan in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.005282
+date: 2026-09-11T02:38:29.896894
 url: "/cdr-researcher-census/researchers/maryam-afshar-a5102690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 195 |
+| Citations | 218 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for a sustainable future: Environmentally friendly production and diverse applications** (2024)
-   195 citations · Biochar
+   207 citations · Biochar
 
 ## External Profiles
 

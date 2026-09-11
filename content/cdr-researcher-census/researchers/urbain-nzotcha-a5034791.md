@@ -1,7 +1,7 @@
 ---
 title: "Urbain Nzotcha"
-description: "Urbain Nzotcha is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.635428
+description: "Urbain Nzotcha is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.581653
 url: "/cdr-researcher-census/researchers/urbain-nzotcha-a5034791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,18 +34,18 @@ Forschungszentrum Jülich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 377 |
+| Citations | 392 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

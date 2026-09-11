@@ -1,7 +1,7 @@
 ---
 title: "Lichang Yin"
-description: "Lichang Yin is a Senior Soil Carbon researcher at 中国科学院新疆生态与地理研究所 in CN. With 58 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.254131
+description: "Lichang Yin is a Senior Soil Carbon researcher at 中国科学院新疆生态与地理研究所 in CN. With 66 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.199411
 url: "/cdr-researcher-census/researchers/lichang-yin-a5009514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,232 |
-| Publications | 58 |
-| CDR Focus | 8.6% |
+| Citations | 1,283 |
+| Publications | 66 |
+| CDR Focus | 7.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Spatiotemporal changes in greenhouse gas emissions and soil organic carbon sequestration for major cropping systems across China and their drivers over the past two decades** (2022)
+1. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
+   43 citations · General CDR
+
+2. **Spatiotemporal changes in greenhouse gas emissions and soil organic carbon sequestration for major cropping systems across China and their drivers over the past two decades** (2022)
    42 citations · General CDR
 
-2. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
-   41 citations · General CDR
-
 3. **Daily, seasonal and inter-annual variations in CO2 fluxes and carbon budget in a winter-wheat and summer-maize rotation system in the North China Plain** (2022)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 4. **Mapping the spatiotemporal patterns of tillage practices across Chinese croplands with Google Earth Engine** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Climate mitigation potential and economic costs of natural climate solutions for main cropping systems across China** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

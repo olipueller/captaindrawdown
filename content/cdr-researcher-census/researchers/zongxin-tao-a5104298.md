@@ -1,7 +1,7 @@
 ---
 title: "Zongxin Tao"
 description: "Zongxin Tao is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728811
+date: 2026-09-11T02:38:29.644800
 url: "/cdr-researcher-census/researchers/zongxin-tao-a5104298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 311 |
+| Citations | 345 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

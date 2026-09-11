@@ -1,7 +1,7 @@
 ---
 title: "Roman Honzík"
-description: "Roman Honzík is a Mid-career Soil Carbon researcher at Crop Research Institute in CZ. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.884761
+description: "Roman Honzík is a Mid-career Soil Carbon researcher at Czech Agrifood Research Center in CZ. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.845388
 url: "/cdr-researcher-census/researchers/roman-honzik-a5008088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/roman-honzik-a5008088/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Crop Research Institute"
+    "name": "Czech Agrifood Research Center"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9140-3742",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Roman Honzík**  
-Crop Research Institute ·  CZ
+Czech Agrifood Research Center ·  CZ
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 232 |
+| Citations | 238 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

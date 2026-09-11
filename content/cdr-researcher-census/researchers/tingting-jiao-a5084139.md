@@ -1,7 +1,7 @@
 ---
 title: "Tingting Jiao"
 description: "Tingting Jiao is a Mid-career Ocean CDR researcher at Ocean University of China in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.324286
+date: 2026-09-11T02:38:30.265774
 url: "/cdr-researcher-census/researchers/tingting-jiao-a5084139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 117 |
+| Citations | 124 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Carbon dioxide removal dilemma of macroalgae products: Evidence from carbon footprint and profitability** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

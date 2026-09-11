@@ -1,7 +1,7 @@
 ---
 title: "Jie Wang"
 description: "Jie Wang is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.993149
+date: 2026-09-11T02:38:29.961765
 url: "/cdr-researcher-census/researchers/jie-wang-a5002304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 199 |
+| Citations | 201 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |

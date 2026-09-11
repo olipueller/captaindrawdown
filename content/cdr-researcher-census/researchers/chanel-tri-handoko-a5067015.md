@@ -1,7 +1,7 @@
 ---
 title: "Chanel Tri Handoko"
-description: "Chanel Tri Handoko is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.885344
+description: "Chanel Tri Handoko is a Mid-career Soil Carbon researcher at Sebelas Maret University in ID. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.889528
 url: "/cdr-researcher-census/researchers/chanel-tri-handoko-a5067015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Chanel Tri Handoko",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chanel-tri-handoko-a5067015/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sebelas Maret University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6743-7459",
     "https://openalex.org/A5067015550"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Chanel Tri Handoko**
+**Chanel Tri Handoko**  
+Sebelas Maret University · 🇮🇩 ID
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 232 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 222 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

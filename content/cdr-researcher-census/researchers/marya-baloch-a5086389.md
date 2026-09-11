@@ -1,7 +1,7 @@
 ---
 title: "Marya Baloch"
 description: "Marya Baloch is a Mid-career Biochar researcher at University of the Basque Country in ES. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.769795
+date: 2026-09-11T02:38:29.731954
 url: "/cdr-researcher-census/researchers/marya-baloch-a5086389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 288 |
+| Citations | 292 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Qiaoyu Luo"
-description: "Qiaoyu Luo is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.333165
+description: "Qiaoyu Luo is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.279996
 url: "/cdr-researcher-census/researchers/qiaoyu-luo-a5012793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 116 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 122 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Differential diversity and structure of autotrophs in agricultural soils of Qinghai Province** (2025)
    2 citations · Soil Carbon
+
+2. **Necromass carbon but not microbes constrain soil carbon release in restoration of degraded alpine grassland** (2026)
+   0 citations
 
 ## External Profiles
 

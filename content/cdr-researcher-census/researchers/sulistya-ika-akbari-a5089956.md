@@ -1,7 +1,7 @@
 ---
 title: "Sulistya Ika Akbari"
 description: "Sulistya Ika Akbari is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.087354
+date: 2026-09-11T02:38:30.025763
 url: "/cdr-researcher-census/researchers/sulistya-ika-akbari-a5089956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 171 |
+| Citations | 182 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

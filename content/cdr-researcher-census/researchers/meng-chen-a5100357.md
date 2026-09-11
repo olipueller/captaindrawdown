@@ -1,7 +1,7 @@
 ---
 title: "Meng Chen"
 description: "Meng Chen is a Senior Soil Carbon researcher at Guizhou Academy of Sciences in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.446113
+date: 2026-09-11T02:38:29.394557
 url: "/cdr-researcher-census/researchers/meng-chen-a5100357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 599 |
+| Citations | 618 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Models in Pinus massoniana L. Plantation** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Modes of &lt;em&gt;Pinus massoniana&lt;/em&gt;** (2024)
    3 citations · Soil Carbon

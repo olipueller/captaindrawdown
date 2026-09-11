@@ -1,7 +1,7 @@
 ---
 title: "Roberta Farina"
-description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 111 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.165844
+description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 110 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.116290
 url: "/cdr-researcher-census/researchers/roberta-farina-a5067921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,129 |
-| Publications | 111 |
-| CDR Focus | 6.3% |
+| Citations | 2,189 |
+| Publications | 110 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 3. **Modeling Soil Carbon Under Diverse Cropping Systems and Farming Management in Contrasting Climatic Regions in Europe** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **C-sequestration and resilience to climate change of globe artichoke cropping systems depend on crop residues management** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 5. **Estimated effect of crop diversification on soil organic carbon under present and future climate conditions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Evaluation of TOC Change Scenarios in Cropping Systems with and Without Diversification Across Different Scales: Insights from a Northern Italian Case Study** (2025)
    0 citations · Soil Carbon

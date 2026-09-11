@@ -1,7 +1,7 @@
 ---
 title: "Abayomi Fasina"
-description: "Abayomi Fasina is a Mid-career Soil Carbon researcher at Federal University Oye Ekiti in NG. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.050108
+description: "Abayomi Fasina is a Mid-career Soil Carbon researcher at Federal University Oye Ekiti in NG. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.000138
 url: "/cdr-researcher-census/researchers/abayomi-fasina-a5033485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 182 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| Citations | 190 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon concentration and stock of arable land use of two agro-ecological zones of Nigeria** (2021)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Soil Carbon Sequestration in Different Land Use Types** (2024)
    2 citations · Soil Carbon

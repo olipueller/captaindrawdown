@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Saldanha"
 description: "Marcelo Saldanha is a Senior Biochar researcher at Brazilian Agricultural Research Corporation in BR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.681648
+date: 2026-09-11T02:38:29.643188
 url: "/cdr-researcher-census/researchers/marcelo-saldanha-a5024247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 343 |
+| Citations | 346 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Low-Temperature Slow Pyrolysis: Exploring Biomass-Specific Biochar Characteristics and Potential for Soil Applications** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

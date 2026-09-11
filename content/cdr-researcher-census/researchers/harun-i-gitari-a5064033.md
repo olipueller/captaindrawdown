@@ -1,7 +1,7 @@
 ---
 title: "Harun I. Gitari"
-description: "Harun I. Gitari is a Senior Soil Carbon researcher at Kenyatta University in KE. With 134 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.116041
+description: "Harun I. Gitari is a Senior Soil Carbon researcher at Kenyatta University in KE. With 133 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.064687
 url: "/cdr-researcher-census/researchers/harun-i-gitari-a5064033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 3,715 |
-| Publications | 134 |
+| Citations | 3,890 |
+| Publications | 133 |
 | CDR Focus | 6.0% |
 | Trajectory | Stable |
 
@@ -57,19 +57,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 3. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
-4. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
+4. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
+   17 citations · Biochar
+
+5. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
    15 citations · General CDR
-
-5. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
-   15 citations · Biochar
 
 6. **Economic Viability and Market Prospects of Organic and Natural Farming in Climate-Resilient Agriculture** (2025)
    5 citations · General CDR
 
 7. **Organic Mulch and Compost Synergy Revitalizes Soil Multifunctionality for Resilient Agroecosystems** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 8. **Response of Soil Microbial Communities to Climate Change** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kiya Adare Tadesse"
 description: "Kiya Adare Tadesse is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.022608
+date: 2026-09-11T02:38:29.897654
 url: "/cdr-researcher-census/researchers/kiya-adare-tadesse-a5008487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 190 |
+| Citations | 218 |
 | Publications | 23 |
 | CDR Focus | 17.4% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR

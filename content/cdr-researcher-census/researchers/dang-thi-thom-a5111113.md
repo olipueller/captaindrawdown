@@ -1,7 +1,7 @@
 ---
 title: "Dang Thi Thom"
-description: "Dang Thi Thom is a Senior BECCS researcher at Học viện Tư pháp in VN. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176476
+description: "Dang Thi Thom is a Senior BECCS researcher at Học viện Tư pháp in VN. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.141885
 url: "/cdr-researcher-census/researchers/dang-thi-thom-a5111113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 147 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 150 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

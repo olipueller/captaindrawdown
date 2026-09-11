@@ -1,7 +1,7 @@
 ---
 title: "Yanfei Tang"
 description: "Yanfei Tang is a Mid-career Biochar researcher at Cornell University in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.327180
+date: 2026-09-11T02:38:29.272488
 url: "/cdr-researcher-census/researchers/yanfei-tang-a5029582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 884 |
+| Citations | 924 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Graphitic biochar-anammox achieved by multi-heme-based extracellular electron transfer** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

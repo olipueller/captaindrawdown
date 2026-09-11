@@ -1,7 +1,7 @@
 ---
 title: "Jialin Mao"
 description: "Jialin Mao is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.406029
+date: 2026-09-11T02:38:30.363918
 url: "/cdr-researcher-census/researchers/jialin-mao-a5078389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 103 |
+| Citations | 106 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

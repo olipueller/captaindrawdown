@@ -1,7 +1,7 @@
 ---
 title: "Hermano Melo Queiroz"
-description: "Hermano Melo Queiroz is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 87 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.192860
+description: "Hermano Melo Queiroz is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 89 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.140117
 url: "/cdr-researcher-census/researchers/hermano-melo-queiroz-a5016308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,753 |
-| Publications | 87 |
-| CDR Focus | 9.2% |
+| Citations | 1,819 |
+| Publications | 89 |
+| CDR Focus | 9.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Iron’s role in soil organic carbon (de)stabilization in mangroves under land use change** (2024)
-   70 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Changes in soil iron biogeochemistry in response to mangrove dieback** (2022)
-   21 citations
+   22 citations
 
-3. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
+3. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
+   16 citations · Soil Carbon
+
+4. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
    15 citations · Enhanced Weathering
 
-4. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
-
 5. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Recovery of Soil Processes in Replanted Mangroves: Implications for Soil Functions** (2022)
    9 citations · Soil Carbon
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2023)
    5 citations · Soil Carbon
 
-8. **Soil carbon storage in Brazilian drylands: A review** (2025)
+8. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
+   3 citations · Soil Carbon
+
+9. **Soil carbon storage in Brazilian drylands: A review** (2025)
    2 citations · Soil Carbon
 
-9. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2022)
+10. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2022)
    2 citations
-
-10. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
-   1 citations · Soil Carbon
 
 ## External Profiles
 

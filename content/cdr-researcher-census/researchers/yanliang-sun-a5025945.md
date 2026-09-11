@@ -1,7 +1,7 @@
 ---
 title: "Yanliang Sun"
-description: "Yanliang Sun is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.972696
+description: "Yanliang Sun is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.897850
 url: "/cdr-researcher-census/researchers/yanliang-sun-a5025945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 206 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 218 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

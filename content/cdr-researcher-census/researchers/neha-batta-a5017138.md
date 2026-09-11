@@ -1,7 +1,7 @@
 ---
 title: "Neha Batta"
-description: "Neha Batta is a Mid-career Biochar researcher at Western University in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.794529
+description: "Neha Batta is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.743416
 url: "/cdr-researcher-census/researchers/neha-batta-a5017138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Neha Batta",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/neha-batta-a5017138/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Western University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0773-2525",
     "https://openalex.org/A5017138702"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Neha Batta**  
-Western University · 🇨🇦 CA
+**Neha Batta**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 275 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 286 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Removal of phenolics from aqueous pyrolysis condensate by activated biochar** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

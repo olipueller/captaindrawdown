@@ -1,7 +1,7 @@
 ---
 title: "Mateusz Ormańczyk"
-description: "Mateusz Ormańczyk is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.213080
+description: "Mateusz Ormańczyk is a Mid-career Ocean CDR researcher at Instytut Oceanologii Polskiej Akademii Nauk in PL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.169002
 url: "/cdr-researcher-census/researchers/mateusz-ormanczyk-a5047812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mateusz Orma\u0144czyk",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mateusz-ormanczyk-a5047812/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Instytut Oceanologii Polskiej Akademii Nauk"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2343-6694",
     "https://openalex.org/A5047812382"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mateusz Ormańczyk**
+**Mateusz Ormańczyk**  
+Instytut Oceanologii Polskiej Akademii Nauk ·  PL
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 139 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 144 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

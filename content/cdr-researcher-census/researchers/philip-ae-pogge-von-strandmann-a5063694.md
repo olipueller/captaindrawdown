@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
-description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg Universität Mainz in DE. With 200 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.078637
+description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg Universität Mainz in DE. With 203 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.030361
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 50 |
-| Citations | 8,240 |
-| Publications | 200 |
-| CDR Focus | 11.0% |
+| h-index | 51 |
+| Citations | 8,441 |
+| Publications | 203 |
+| CDR Focus | 12.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum** (2021)
-   138 citations · Enhanced Weathering
+   139 citations · Enhanced Weathering
 
 2. **Was climatic cooling during the earliest Carboniferous driven by expansion of seed plants?** (2021)
-   57 citations
+   61 citations
 
 3. **Enhanced clay formation key in sustaining the Middle Eocene Climatic Optimum** (2023)
-   45 citations
+   46 citations
 
 4. **Tracing North Atlantic volcanism and seaway connectivity across the Paleocene–Eocene Thermal Maximum (PETM)** (2023)
-   43 citations
+   44 citations
 
 5. **The Dissolution of Olivine Added to Soil at 4°C: Implications for Enhanced Weathering in Cold Regions** (2022)
    38 citations · Enhanced Weathering
 
 6. **Enhanced Continental Weathering as a Trigger for the End‐Devonian Hangenberg Crisis** (2023)
-   31 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
 7. **The lithium and magnesium isotope signature of olivine dissolution in soil experiments** (2020)
-   27 citations · Enhanced Weathering
+   28 citations · Enhanced Weathering
 
-8. **Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters** (2021)
+8. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
    21 citations · Enhanced Weathering
 
-9. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
-   20 citations · Enhanced Weathering
+9. **Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters** (2021)
+   21 citations · Enhanced Weathering
 
 10. **Subaerial volcanism broke mid-Proterozoic environmental stasis** (2024)
    17 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Girma Tilahun Getnet"
-description: "Girma Tilahun Getnet is an Early-career Soil Carbon researcher at Mizan Tepi University in ET. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.009092
+description: "Girma Tilahun Getnet is an Early-career Soil Carbon researcher at Mizan Tepi University in ET. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.861596
 url: "/cdr-researcher-census/researchers/girma-tilahun-getnet-a5012523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 194 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 231 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Towards Climate-Smart Agriculture: Strategies for Sustainable Agricultural Production, Food Security, and Greenhouse Gas Reduction** (2025)
-   179 citations · General CDR
+   198 citations · General CDR
 
 ## External Profiles
 

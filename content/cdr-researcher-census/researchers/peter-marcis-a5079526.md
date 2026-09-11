@@ -1,7 +1,7 @@
 ---
 title: "Peter Marčiš"
 description: "Peter Marčiš is a Mid-career Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920181
+date: 2026-09-11T02:38:29.865246
 url: "/cdr-researcher-census/researchers/peter-marcis-a5079526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 219 |
+| Citations | 230 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Norway spruce monoculture has lower resilience and carbon sequestration capacity than a more diverse broadleaved forest: A case study in Central Europe** (2025)
-   7 citations
+   8 citations
 
 2. **Norway Spruce Monoculture Has Lower Resilience and Carbon Sequestration Capacity than More Diverse Broadleaved Forest in Central Europe** (2025)
    0 citations · General CDR

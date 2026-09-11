@@ -1,7 +1,7 @@
 ---
 title: "Busayo Joshua Babalola"
-description: "Busayo Joshua Babalola is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.865800
+description: "Busayo Joshua Babalola is a Mid-career Soil Carbon researcher at University of Georgia in US. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.825786
 url: "/cdr-researcher-census/researchers/busayo-joshua-babalola-a5023801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/busayo-joshua-babalola-a5023801/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "University of Georgia"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7331-8154",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Busayo Joshua Babalola**  
-Chinese Academy of Sciences · 🇨🇳 CN
+University of Georgia · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 240 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 247 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

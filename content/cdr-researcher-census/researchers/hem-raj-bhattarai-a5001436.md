@@ -1,7 +1,7 @@
 ---
 title: "Hem Raj Bhattarai"
-description: "Hem Raj Bhattarai is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.844189
+description: "Hem Raj Bhattarai is a Mid-career Soil Carbon researcher at University of Eastern Finland in FI. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.782072
 url: "/cdr-researcher-census/researchers/hem-raj-bhattarai-a5001436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hem-raj-bhattarai-a5001436/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Natural Resources Institute Finland"
+    "name": "University of Eastern Finland"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2372-9518",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hem Raj Bhattarai**  
-Natural Resources Institute Finland ·  FI
+University of Eastern Finland ·  FI
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 250 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 8 |
+| Citations | 267 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

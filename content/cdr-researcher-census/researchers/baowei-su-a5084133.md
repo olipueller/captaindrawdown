@@ -1,7 +1,7 @@
 ---
 title: "Baowei Su"
 description: "Baowei Su is a Senior Soil Carbon researcher at Ocean University of China in CN. With 83 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125757
+date: 2026-09-11T02:38:29.075448
 url: "/cdr-researcher-census/researchers/baowei-su-a5084133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 3,295 |
+| Citations | 3,393 |
 | Publications | 83 |
 | CDR Focus | 6.0% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Soil C:N:P Stoichiometry Succession and Land Use Effect after Intensive Reclamation: A Case Study on Yangtze River Flood Plain** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Responses of Soil Organic/Inorganic Carbon Concentrations in the Lower Yangtze River to Soil Development and Land Use** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yogeshwar Singh"
-description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Maharani Laxmi Bai Medical College in IN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.323202
+description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Maharani Laxmi Bai Medical College in IN. With 52 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.277995
 url: "/cdr-researcher-census/researchers/yogeshwar-singh-a5111521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 896 |
-| Publications | 50 |
-| CDR Focus | 10.0% |
+| Citations | 907 |
+| Publications | 52 |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Brendan O’Neill"
 description: "Brendan O’Neill is a Senior Soil Carbon researcher at University of Michigan in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.121000
+date: 2026-09-11T02:38:29.072248
 url: "/cdr-researcher-census/researchers/brendan-oneill-a5058376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 3,481 |
+| Citations | 3,513 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

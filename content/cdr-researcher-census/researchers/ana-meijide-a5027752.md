@@ -1,7 +1,7 @@
 ---
 title: "Ana Meijide"
-description: "Ana Meijide is a Senior Soil Carbon researcher at University of Bonn in DE. With 117 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.109969
+description: "Ana Meijide is a Senior Soil Carbon researcher at University of Bonn in DE. With 120 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.060030
 url: "/cdr-researcher-census/researchers/ana-meijide-a5027752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 4,093 |
-| Publications | 117 |
-| CDR Focus | 6.0% |
+| Citations | 4,155 |
+| Publications | 120 |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of herbaceous covers and mineral fertilizers on the nutrient stocks and fluxes in a Mediterranean olive grove** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
-2. **Evaluating N <sub>2</sub> O emissions and carbon sequestration in temperate croplands with cover crops: insights from field trials** (2025)
-   4 citations · General CDR
-
-3. **Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N <sub>2</sub> O Emissions and Carbon Sequestration** (2024)
+2. **Long-term reduced tillage does not enhance crop yield, soil organic carbon stocks or greenhouse gas mitigation under ambient rainfall and rainfall exclusion in a temperate Luvisol** (2025)
    4 citations · Soil Carbon
 
-4. **Long-term reduced tillage does not enhance crop yield, soil organic carbon stocks or greenhouse gas mitigation under ambient rainfall and rainfall exclusion in a temperate Luvisol** (2025)
-   3 citations · Soil Carbon
+3. **Evaluating N <sub>2</sub> O emissions and carbon sequestration in temperate croplands with cover crops: insights from field trials** (2025)
+   4 citations · General CDR
+
+4. **Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N <sub>2</sub> O Emissions and Carbon Sequestration** (2024)
+   4 citations · Soil Carbon
 
 5. **Supplementary material to "Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N<sub>2</sub>O Emissions and Carbon Sequestration"** (2024)
    2 citations · Soil Carbon

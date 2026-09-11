@@ -1,7 +1,7 @@
 ---
 title: "Tejaswini A. Rathi"
-description: "Tejaswini A. Rathi is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.172604
+description: "Tejaswini A. Rathi is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.092477
 url: "/cdr-researcher-census/researchers/tejaswini-a-rathi-a5092518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 148 |
+| h-index | 8 |
+| Citations | 162 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 3. **Soybean biochar as highly efficient adsorbent for ofloxacin from aqueous and CO2 from gaseous phase: Mathematical modelling and regeneration studies** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

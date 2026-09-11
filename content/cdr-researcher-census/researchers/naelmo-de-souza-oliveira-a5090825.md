@@ -1,7 +1,7 @@
 ---
 title: "Naelmo de Souza Oliveira"
 description: "Naelmo de Souza Oliveira is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.124344
+date: 2026-09-11T02:38:30.070271
 url: "/cdr-researcher-census/researchers/naelmo-de-souza-oliveira-a5090825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 161 |
+| Citations | 170 |
 | Publications | 23 |
 | CDR Focus | 13.0% |
 | Trajectory | Stable |
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Isotopic variations of carbon and nitrogen and their implications on the conversion of Cerrado vegetation into pasture** (2021)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Black soils in the southwest of the Brazilian Pantanal: Organic carbon and secondary carbonates accumulation in Phaeozems–Gleysol-Chernozem** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Integrated Crop–Livestock–Forest Systems With No‐Till Can Restore Soil Organic Carbon Stocks in a Brazilian Ferralsol** (2025)
    2 citations · Soil Carbon

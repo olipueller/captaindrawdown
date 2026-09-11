@@ -1,7 +1,7 @@
 ---
 title: "Sameer Kumar Devarakonda"
-description: "Sameer Kumar Devarakonda is a Mid-career Biochar researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.115306
+description: "Sameer Kumar Devarakonda is a Mid-career Biochar researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.076926
 url: "/cdr-researcher-census/researchers/sameer-kumar-devarakonda-a5047585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 163 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 167 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced Removal of Malachite Green Dye from Textile Wastewater using TiO₂ Modified Palm Kernel Shell Activated Carbon: Optimization and Mechanistic Assessment** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

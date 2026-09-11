@@ -1,7 +1,7 @@
 ---
 title: "C G E Mangin"
-description: "C G E Mangin is a Senior General CDR researcher at University of Michigan–Ann Arbor in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.521803
+description: "C G E Mangin is a Senior General CDR researcher at University of Michigan in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.480608
 url: "/cdr-researcher-census/researchers/c-g-e-mangin-a5054814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/c-g-e-mangin-a5054814/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Michigan\u2013Ann Arbor"
+    "name": "University of Michigan"
   },
   "sameAs": "https://openalex.org/A5054814523"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **C G E Mangin**  
-University of Michigan–Ann Arbor · 🇺🇸 US
+University of Michigan · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 485 |
+| Citations | 489 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life Cycle and Techno-Economic Assessment Templates for Emerging Carbon Management Technologies** (2021)
-   23 citations · DAC
+   25 citations · DAC
 
 2. **AssessCCUS: An Integrated Approach for Aggregating Resources to Enable Techno-Economic and Life Cycle Assessment of Carbon Management Technologies** (2022)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Muneer Ahmed"
 description: "Muneer Ahmed is a Senior Soil Carbon researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.633317
+date: 2026-09-11T02:38:29.592169
 url: "/cdr-researcher-census/researchers/muneer-ahmed-a5101318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 379 |
+| Citations | 383 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land degradation resistance potential of a dry, semiarid region in relation to soil organic carbon stocks, carbon management index, and soil aggregate stability** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

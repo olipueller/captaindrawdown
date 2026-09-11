@@ -1,7 +1,7 @@
 ---
 title: "Johannes Lund Jensen"
-description: "Johannes Lund Jensen is a Senior Soil Carbon researcher at Aarhus University in DK. With 111 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.240803
+description: "Johannes Lund Jensen is a Senior Soil Carbon researcher at Aarhus University in DK. With 115 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.185756
 url: "/cdr-researcher-census/researchers/johannes-lund-jensen-a5053239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,41 +43,41 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,324 |
-| Publications | 111 |
-| CDR Focus | 7.2% |
+| Citations | 1,387 |
+| Publications | 115 |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil organic C and N stock changes in grass-clover leys: Effect of grassland proportion and organic fertilizer** (2022)
-   39 citations
+   41 citations
 
 2. **Cereal straw incorporation and ryegrass cover crops: The path to equilibrium in soil carbon storage is short** (2021)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
-4. **Soil Organic C and N Stock Changes in Grass-Clover Leys: Effect of Grassland Proportion and Organic Fertilizer** (2022)
+4. **Pre-conversion soil organic carbon level did not affect accumulation rate following conversion from arable land to semi-natural grassland** (2024)
    2 citations · Soil Carbon
 
-5. **Pre-conversion soil organic carbon level did not affect accumulation rate following conversion from arable land to semi-natural grassland** (2024)
+5. **Soil Organic C and N Stock Changes in Grass-Clover Leys: Effect of Grassland Proportion and Organic Fertilizer** (2022)
+   2 citations · Soil Carbon
+
+6. **Towards climate-smart sustainable management of agricultural soils : Deliverable D2.6 Set of reports on State of knowledge in agricultural soil management** (2021)
    1 citations · Soil Carbon
 
-6. **Modeling approaches to incorporate soil C changes in life cycle assessment of dairy farm rotations with varying duration and proportion of grassland** (2026)
+7. **Modeling approaches to incorporate soil C changes in life cycle assessment of dairy farm rotations with varying duration and proportion of grassland** (2026)
    0 citations
 
-7. **Soil carbon storage, soil health and nitrate leaching in organic dairy crop rotations** (2026)
+8. **Soil carbon storage, soil health and nitrate leaching in organic dairy crop rotations** (2026)
    0 citations · Soil Carbon
 
-8. **Soil carbon sequestration potential of grass-clover leys** (2022)
+9. **Soil carbon sequestration potential of grass-clover leys** (2022)
    0 citations · Soil Carbon
 
-9. **Soil carbon sequestration potential of grass-clover leys:effect of grassland proportion and organic fertilizer** (2022)
-   0 citations · Soil Carbon
-
-10. **Estimating the Tipping Point between N2O Emissions and C Sequestration in Soil using the DNDC v. CAN Model** (2025)
+10. **Soil carbon sequestration potential of grass-clover leys:effect of grassland proportion and organic fertilizer** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

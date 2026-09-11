@@ -1,7 +1,7 @@
 ---
 title: "Jinze Bai"
-description: "Jinze Bai is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.617716
+description: "Jinze Bai is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.555092
 url: "/cdr-researcher-census/researchers/jinze-bai-a5017228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 392 |
-| Publications | 19 |
-| CDR Focus | 26.3% |
+| Citations | 414 |
+| Publications | 18 |
+| CDR Focus | 27.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   106 citations · Biochar
+   107 citations · Biochar
 
 2. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   45 citations · Biochar
+   48 citations · Biochar
 
 3. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
 
 4. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
-   13 citations
+   14 citations
 
 5. **Potential relationships between greenhouse gas emissions and soil physicochemical properties in summer maize field with straw-biochar amendment** (2025)
    7 citations · Biochar

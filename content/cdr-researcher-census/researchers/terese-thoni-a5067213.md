@@ -1,7 +1,7 @@
 ---
 title: "Terese Thoni"
-description: "Terese Thoni is a Mid-career General CDR researcher at Lund University in SE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.720603
+description: "Terese Thoni is a Mid-career General CDR researcher at Lund University in SE. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.667212
 url: "/cdr-researcher-census/researchers/terese-thoni-a5067213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 315 |
-| Publications | 22 |
-| CDR Focus | 18.2% |
+| h-index | 9 |
+| Citations | 328 |
+| Publications | 24 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -59,11 +59,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
    24 citations · BECCS
 
-4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   1 citations
+4. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
 
-5. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   0 citations · General CDR
+5. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+   1 citations
 
 6. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    0 citations

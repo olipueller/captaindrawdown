@@ -1,7 +1,7 @@
 ---
 title: "Danqi She"
-description: "Danqi She is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.079955
+description: "Danqi She is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996598
 url: "/cdr-researcher-census/researchers/danqi-she-a5087595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 173 |
-| Publications | 15 |
-| CDR Focus | 20.0% |
+| Citations | 191 |
+| Publications | 16 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,19 +50,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
    16 citations · Soil Carbon
 
-2. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
+2. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
+   4 citations · Soil Carbon
+
+3. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
+   3 citations · Soil Carbon
+
+4. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
    2 citations
 
-3. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
-   2 citations · Soil Carbon
-
-4. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   1 citations · Soil Carbon
-
 5. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
-   0 citations
+   1 citations
 
-6. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
+6. **Human preference and vegetation features enhance soil carbon sequestration in urban green spaces: implications from soil oxidizable carbon fractionation** (2026)
+   0 citations · Soil Carbon
+
+7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

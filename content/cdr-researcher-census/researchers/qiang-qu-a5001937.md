@@ -1,7 +1,7 @@
 ---
 title: "Qiang Qu"
 description: "Qiang Qu is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.128392
+date: 2026-09-11T02:38:30.071022
 url: "/cdr-researcher-census/researchers/qiang-qu-a5001937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 160 |
+| Citations | 170 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects of pyrolysis temperature, iron ion concentration and solid/liquid ratio on the properties and Cr(VI) removal performance of magnetic carbon** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

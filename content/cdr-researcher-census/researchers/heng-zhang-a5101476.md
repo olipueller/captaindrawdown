@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
-description: "Heng Zhang is a Mid-career Biochar researcher at Chongqing University of Posts and Telecommunications in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.708684
+description: "Heng Zhang is a Mid-career Biochar researcher at Suzhou Research Institute in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.647504
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/heng-zhang-a5101476/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chongqing University of Posts and Telecommunications"
+    "name": "Suzhou Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1006-4951",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Heng Zhang**  
-Chongqing University of Posts and Telecommunications · 🇨🇳 CN
+Suzhou Research Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 324 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 343 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

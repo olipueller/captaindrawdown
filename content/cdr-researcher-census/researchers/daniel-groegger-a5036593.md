@@ -1,7 +1,7 @@
 ---
 title: "Daniel Großegger"
-description: "Daniel Großegger is a Mid-career Biochar researcher at Empa in CH. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343480
+description: "Daniel Großegger is a Mid-career Biochar researcher at Empa in CH. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.286972
 url: "/cdr-researcher-census/researchers/daniel-groegger-a5036593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 836 |
-| Publications | 29 |
-| CDR Focus | 10.3% |
+| h-index | 14 |
+| Citations | 876 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring the carbon sequestration of an asphalt base course mixture containing novel cold-bonded biochar-rich lightweight aggregates** (2025)
-   9 citations · Biochar
+   12 citations · Biochar
 
-2. **Exploring the carbon sequestration of an asphalt base course mixture containing novel cold-bonded biochar-rich lightweight aggregates** (2024)
+2. **Feasibility study of biochar as alternative filler to limestone filler investigated at the asphalt mastic level** (2025)
+   4 citations · Biochar
+
+3. **Exploring the carbon sequestration of an asphalt base course mixture containing novel cold-bonded biochar-rich lightweight aggregates** (2024)
    4 citations
-
-3. **Feasibility study of biochar as alternative filler to limestone filler investigated at the asphalt mastic level** (2025)
-   1 citations · Biochar
 
 4. **Biochar as an Alternative Filler for Bitumen-Stabilised Materials** (2026)
    0 citations · Biochar

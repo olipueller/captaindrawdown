@@ -1,7 +1,7 @@
 ---
 title: "Swithin Lui"
-description: "Swithin Lui is a Senior General CDR researcher at Ontario Tech University in CA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584804
+description: "Swithin Lui is a Senior General CDR researcher at Ontario Tech University in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.539191
 url: "/cdr-researcher-census/researchers/swithin-lui-a5112516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 422 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 430 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Twenty years of climate policy: G20 coverage and gaps** (2021)
-   109 citations · General CDR
+   110 citations · General CDR
 
 ## External Profiles
 

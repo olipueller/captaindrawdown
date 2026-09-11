@@ -1,7 +1,7 @@
 ---
 title: "Dimosthenis Traganos"
-description: "Dimosthenis Traganos is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft und Raumfahrt DLR Standort Berlin in DE. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.213242
+description: "Dimosthenis Traganos is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft und Raumfahrt DLR Standort Berlin in DE. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.160955
 url: "/cdr-researcher-census/researchers/dimosthenis-traganos-a5082889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,541 |
+| h-index | 18 |
+| Citations | 1,589 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Subtidal seagrass and blue carbon mapping at the regional scale: a cloud-native multi-temporal Earth Observation approach** (2024)
-   15 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 2. **Climate Change Mitigation in The Bahamas - The Power of Earth Observation for Blue Carbon Accounting** (2023)
    0 citations · Ocean CDR

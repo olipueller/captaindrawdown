@@ -1,7 +1,7 @@
 ---
 title: "Erika J. Foster"
-description: "Erika J. Foster is a Mid-career Soil Carbon researcher at Point Blue Conservation Science in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.407008
+description: "Erika J. Foster is a Mid-career Soil Carbon researcher at Point Blue Conservation Science in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.355299
 url: "/cdr-researcher-census/researchers/erika-j-foster-a5077119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 673 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 699 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon offset markets are not a just climate solution** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Centering resilience in US federal agricultural policy** (2026)
    0 citations · General CDR

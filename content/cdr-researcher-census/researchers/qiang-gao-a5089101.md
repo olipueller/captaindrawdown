@@ -1,7 +1,7 @@
 ---
 title: "Qiang Gao"
-description: "Qiang Gao is a Senior General CDR researcher at Nanjing Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.556924
+description: "Qiang Gao is a Senior General CDR researcher at Xizang Minzu University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.503214
 url: "/cdr-researcher-census/researchers/qiang-gao-a5089101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qiang-gao-a5089101/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Forestry University"
+    "name": "Xizang Minzu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2824-3322",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Qiang Gao**  
-Nanjing Forestry University · 🇨🇳 CN
+Xizang Minzu University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 449 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 465 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Climate-Related Development Finance, Energy Structure Transformation and Carbon Emissions Reduction: An Analysis From the Perspective of Developing Countries** (2022)
-   26 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

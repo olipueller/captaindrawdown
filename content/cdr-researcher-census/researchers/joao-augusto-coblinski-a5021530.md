@@ -1,7 +1,7 @@
 ---
 title: "João Augusto Coblinski"
 description: "João Augusto Coblinski is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.618845
+date: 2026-09-11T02:38:29.566828
 url: "/cdr-researcher-census/researchers/joao-augusto-coblinski-a5021530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 392 |
+| Citations | 404 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Review of Soil Threats and Soil‐Related Ecosystem Services European Maps: Can We Use Them to Study Their Relationships?** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Prediction of the spatial distribution of soil organic carbon content in Central European agriculturally used peatlands: a case study of the Grójec Valley, Central Poland** (2026)
    0 citations · Soil Carbon

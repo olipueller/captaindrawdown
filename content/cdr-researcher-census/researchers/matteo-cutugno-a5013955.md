@@ -1,7 +1,7 @@
 ---
 title: "Matteo Cutugno"
-description: "Matteo Cutugno is a Mid-career Soil Carbon researcher at Giustino Fortunato University in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.989793
+description: "Matteo Cutugno is a Mid-career Soil Carbon researcher at Giustino Fortunato University in IT. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.915946
 url: "/cdr-researcher-census/researchers/matteo-cutugno-a5013955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 200 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 211 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Impact of Land Use and Land Cover (LULC) Changes on Carbon Stocks and Economic Implications in Calabria Using Google Earth Engine (GEE)** (2024)
-   33 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Mapping Carbon Dynamics: Remote Sensing Insights into Calabria's Landscapes (Southern Italy)** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
-description: "Xiaolong Ren is a Mid-career Soil Carbon researcher at Xi'an Polytechnic University in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.434396
+description: "Xiaolong Ren is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.385123
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5041559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaolong-ren-a5041559/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xi'an Polytechnic University"
+    "name": "North West Agriculture and Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8273-6940",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaolong Ren**  
-Xi'an Polytechnic University · 🇨🇳 CN
+North West Agriculture and Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 619 |
-| Publications | 32 |
-| CDR Focus | 12.5% |
+| h-index | 16 |
+| Citations | 632 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Biochar
 
 2. **Can soil organic carbon sequestration and the carbon management index be improved by changing the film mulching methods in the semiarid region?** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Can straw recycling achieve sustainable agriculture at the smallholder level? A case in a semi-arid region** (2024)
    16 citations · Soil Carbon

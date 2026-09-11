@@ -1,7 +1,7 @@
 ---
 title: "Thomas Tanner"
-description: "Thomas Tanner is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.170009
+description: "Thomas Tanner is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.143175
 url: "/cdr-researcher-census/researchers/thomas-tanner-a5012975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 149 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 150 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

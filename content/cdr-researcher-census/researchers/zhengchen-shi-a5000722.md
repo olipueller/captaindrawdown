@@ -1,7 +1,7 @@
 ---
 title: "Zhengchen Shi"
 description: "Zhengchen Shi is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.258908
+date: 2026-09-11T02:38:30.156737
 url: "/cdr-researcher-census/researchers/zhengchen-shi-a5000722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 130 |
+| Citations | 147 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Ospina"
 description: "Daniel Ospina is a Mid-career General CDR researcher at Future Earth in SE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.153669
+date: 2026-09-11T02:38:29.099322
 url: "/cdr-researcher-census/researchers/daniel-ospina-a5082396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 2,378 |
+| Citations | 2,543 |
 | Publications | 31 |
 | CDR Focus | 12.9% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025** (2026)
    0 citations · General CDR

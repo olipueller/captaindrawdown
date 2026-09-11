@@ -1,7 +1,7 @@
 ---
 title: "Issa Farhan Deyab"
-description: "Issa Farhan Deyab is a Mid-career Biochar researcher at Alsalam University College in IQ. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.535795
+description: "Issa Farhan Deyab is a Mid-career Biochar researcher at Al-Mustaqbal University. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.456150
 url: "/cdr-researcher-census/researchers/issa-farhan-deyab-a5081481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/issa-farhan-deyab-a5081481/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Alsalam University College"
+    "name": "Al-Mustaqbal University"
   },
   "sameAs": "https://openalex.org/A5081481977"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Issa Farhan Deyab**  
-Alsalam University College ·  IQ
+Al-Mustaqbal University
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 470 |
+| Citations | 520 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
-| Trajectory | Unknown |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Utilizing pomegranate peel biochar for effective malachite green adsorption** (2025)
-   11 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

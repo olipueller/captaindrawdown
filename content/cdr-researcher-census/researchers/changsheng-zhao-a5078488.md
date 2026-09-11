@@ -1,7 +1,7 @@
 ---
 title: "Changsheng Zhao"
-description: "Changsheng Zhao is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.445534
+description: "Changsheng Zhao is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.402172
 url: "/cdr-researcher-census/researchers/changsheng-zhao-a5078488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 600 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| h-index | 12 |
+| Citations | 605 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

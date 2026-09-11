@@ -1,7 +1,7 @@
 ---
 title: "Aarti Muley"
 description: "Aarti Muley is a Senior Biochar researcher at Department of Commerce in AU. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.752120
+date: 2026-09-11T02:38:29.707599
 url: "/cdr-researcher-census/researchers/aarti-muley-a5060824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 297 |
+| Citations | 305 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soybean biochar as highly efficient adsorbent for ofloxacin from aqueous and CO2 from gaseous phase: Mathematical modelling and regeneration studies** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

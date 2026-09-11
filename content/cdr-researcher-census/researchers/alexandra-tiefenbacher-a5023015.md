@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Tiefenbacher"
 description: "Alexandra Tiefenbacher is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499950
+date: 2026-09-11T02:38:29.451190
 url: "/cdr-researcher-census/researchers/alexandra-tiefenbacher-a5023015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 514 |
+| Citations | 530 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration in Croplands: A Synthesis** (2021)
-   184 citations · General CDR
+   187 citations · General CDR
 
 2. **Antecedent soil moisture and rain intensity control pathways and quality of organic carbon exports from arable land** (2021)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 ## External Profiles
 

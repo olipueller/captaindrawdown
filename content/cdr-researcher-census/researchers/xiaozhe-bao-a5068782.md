@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhe Bao"
 description: "Xiaozhe Bao is a Mid-career Soil Carbon researcher at Rice Research Institute in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850273
+date: 2026-09-11T02:38:29.799581
 url: "/cdr-researcher-census/researchers/xiaozhe-bao-a5068782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 247 |
+| Citations | 259 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

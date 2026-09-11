@@ -1,7 +1,7 @@
 ---
 title: "Mavinakere Eshwaraiah Raghunandan"
-description: "Mavinakere Eshwaraiah Raghunandan is a Senior Biochar researcher at Monash University Malaysia in MY. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.217355
+description: "Mavinakere Eshwaraiah Raghunandan is a Senior Biochar researcher at Monash University Malaysia in MY. With 76 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.166226
 url: "/cdr-researcher-census/researchers/mavinakere-eshwaraiah-raghunandan-a5063407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,501 |
-| Publications | 75 |
+| Citations | 1,544 |
+| Publications | 76 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Optimising spent mushroom compost biochar for heavy metal removal: Mechanisms and kinetics in mine water treatment** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Potential application of spent mushroom compost (SMC) biochar as low-cost filtration media in heavy metal removal from abandoned mining water: a review** (2022)
    11 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Akansha Sharma"
-description: "Akansha Sharma is a Mid-career Soil Carbon researcher at Indian Institute of Management Lucknow in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268764
+description: "Akansha Sharma is a Mid-career Soil Carbon researcher at Indo Soviet Friendship College of Pharmacy in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.211779
 url: "/cdr-researcher-census/researchers/akansha-sharma-a5045482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/akansha-sharma-a5045482/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Management Lucknow"
+    "name": "Indo Soviet Friendship College of Pharmacy"
   },
   "sameAs": "https://openalex.org/A5045482907"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Akansha Sharma**  
-Indian Institute of Management Lucknow · 🇮🇳 IN
+Indo Soviet Friendship College of Pharmacy · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 1,154 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 1,214 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

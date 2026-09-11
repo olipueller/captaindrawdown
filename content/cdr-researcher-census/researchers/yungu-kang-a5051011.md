@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Gu Kang"
-description: "Yun‐Gu Kang is a Mid-career Biochar researcher at Chungnam National University in KR. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.770096
+description: "Yun‐Gu Kang is a Mid-career Biochar researcher at Chungnam National University in KR. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.712904
 url: "/cdr-researcher-census/researchers/yungu-kang-a5051011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 288 |
-| Publications | 50 |
-| CDR Focus | 6.0% |
+| Citations | 302 |
+| Publications | 53 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

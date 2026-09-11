@@ -1,7 +1,7 @@
 ---
 title: "Robert M. Baldwin"
-description: "Robert M. Baldwin is an Early-career General CDR researcher at National Laboratory of the Rockies in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.032256
+description: "Robert M. Baldwin is an Early-career General CDR researcher at National Laboratory of the Rockies in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.905793
 url: "/cdr-researcher-census/researchers/robert-m-baldwin-a5035327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 187 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 215 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

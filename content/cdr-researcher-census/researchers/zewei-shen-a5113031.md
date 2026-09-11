@@ -1,7 +1,7 @@
 ---
 title: "Zewei Shen"
-description: "Zewei Shen is a Mid-career BECCS researcher at Zhejiang University of Science and Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085898
+description: "Zewei Shen is a Mid-career BECCS researcher at Shaoxing University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.005227
 url: "/cdr-researcher-census/researchers/zewei-shen-a5113031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zewei-shen-a5113031/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University of Science and Technology"
+    "name": "Shaoxing University"
   },
   "sameAs": "https://openalex.org/A5113031875"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zewei Shen**  
-Zhejiang University of Science and Technology · 🇨🇳 CN
+Shaoxing University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 171 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 188 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

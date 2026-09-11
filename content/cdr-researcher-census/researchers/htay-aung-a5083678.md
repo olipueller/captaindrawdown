@@ -1,7 +1,7 @@
 ---
 title: "Htay Aung"
 description: "Htay Aung is a Senior Soil Carbon researcher at St. Christopher's Hospital for Children in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.389100
+date: 2026-09-11T02:38:30.345589
 url: "/cdr-researcher-census/researchers/htay-aung-a5083678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 106 |
+| Citations | 109 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

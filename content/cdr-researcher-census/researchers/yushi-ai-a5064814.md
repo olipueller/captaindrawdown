@@ -1,7 +1,7 @@
 ---
 title: "Yushi Ai"
-description: "Yushi Ai is a Mid-career Biochar researcher at University of Electronic Science and Technology of China in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.888334
+description: "Yushi Ai is a Mid-career Biochar researcher at University of Electronic Science and Technology of China in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.833257
 url: "/cdr-researcher-census/researchers/yushi-ai-a5064814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 230 |
+| h-index | 8 |
+| Citations | 243 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A universal synthesis strategy for facile and scalable of magnetic biochar composite materials for PMS activation: Catalytic mechanisms** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Green Synthesis of Biochar Derived from Discarded Bagasse as a Peroxymonosulfate Activator for Sulfadiazine Rapid Degradation in Harsh Environments: Enhanced Electron Transfer** (2022)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Raja Zulkifli"
 description: "Raja Zulkifli is a Mid-career Soil Carbon researcher at Malaysian Palm Oil Board in MY. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602372
+date: 2026-09-11T02:38:29.551700
 url: "/cdr-researcher-census/researchers/raja-zulkifli-a5112902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 405 |
+| Citations | 418 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Time to Revisit Oil Palm-Livestock Integration in the Wake of United Nations Sustainable Development Goals (SDGs)** (2021)
-   27 citations · General CDR
+   28 citations · General CDR
 
 ## External Profiles
 

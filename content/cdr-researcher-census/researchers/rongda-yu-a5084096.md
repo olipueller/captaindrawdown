@@ -1,7 +1,7 @@
 ---
 title: "Rongda Yu"
 description: "Rongda Yu is a Mid-career Soil Carbon researcher at Guangzhou Institute of Geochemistry in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288552
+date: 2026-09-11T02:38:30.204448
 url: "/cdr-researcher-census/researchers/rongda-yu-a5084096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 124 |
+| Citations | 136 |
 | Publications | 11 |
 | CDR Focus | 27.3% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interlayer organic matter within hydroxy-interlayered clay minerals enhances soil organic carbon stability under long-term organic fertilization** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Alkaline earth metal ions affect the dissolution of kaolinite-bearing olivine and its carbon storage effects** (2024)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 3. **Montmorillonite-olivine combination for synergistic enhancement of marine diatom growth and particulate organic carbon production** (2026)
    0 citations · Ocean CDR

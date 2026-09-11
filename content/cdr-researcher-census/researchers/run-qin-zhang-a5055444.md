@@ -1,7 +1,7 @@
 ---
 title: "Run-Qin Zhang"
-description: "Run-Qin Zhang is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.325999
+description: "Run-Qin Zhang is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.229727
 url: "/cdr-researcher-census/researchers/run-qin-zhang-a5055444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 1 |
-| Citations | 117 |
+| h-index | 2 |
+| Citations | 131 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent effects of cropland management practices and global change factors on microbial necromass across ecosystems: implications for soil organic carbon** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

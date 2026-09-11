@@ -1,7 +1,7 @@
 ---
 title: "Yung-Chi Kuo"
-description: "Yung-Chi Kuo is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.643177
+description: "Yung-Chi Kuo is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.599761
 url: "/cdr-researcher-census/researchers/yung-chi-kuo-a5043547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 372 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 378 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

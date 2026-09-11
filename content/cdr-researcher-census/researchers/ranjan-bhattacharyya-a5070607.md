@@ -1,7 +1,7 @@
 ---
 title: "Ranjan Bhattacharyya"
-description: "Ranjan Bhattacharyya is a Senior Soil Carbon researcher at Vinoba Bhave University in IN. With 82 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.197506
+description: "Ranjan Bhattacharyya is a Senior Soil Carbon researcher at Vinoba Bhave University in IN. With 82 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.145786
 url: "/cdr-researcher-census/researchers/ranjan-bhattacharyya-a5070607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,703 |
+| h-index | 26 |
+| Citations | 1,752 |
 | Publications | 82 |
 | CDR Focus | 9.8% |
 | Trajectory | Declining |
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 2. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Impact of Conservation Agriculture on Soil Organic Carbon Sequestration and Enzyme Activity Under Rice–Wheat Cropping System in a Vertisol** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Functional groups and mineralization kinetics of soil organic matter under contrasting hydro‐thermal regimes under conservation agriculture‐based rice–wheat system in eastern <scp>Indo‐Gangetic</scp> Plains** (2023)
    5 citations · Soil Carbon

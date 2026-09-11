@@ -1,7 +1,7 @@
 ---
 title: "Melanie Bird"
 description: "Melanie Bird is a Mid-career Soil Carbon researcher at University of Waterloo in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.233974
+date: 2026-09-11T02:38:30.207447
 url: "/cdr-researcher-census/researchers/melanie-bird-a5009313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 134 |
+| Citations | 135 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

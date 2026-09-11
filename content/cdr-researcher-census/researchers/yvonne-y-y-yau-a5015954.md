@@ -1,7 +1,7 @@
 ---
 title: "Yvonne Y. Y. Yau"
-description: "Yvonne Y. Y. Yau is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 58 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404688
+description: "Yvonne Y. Y. Yau is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.336956
 url: "/cdr-researcher-census/researchers/yvonne-y-y-yau-a5015954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 679 |
+| h-index | 12 |
+| Citations | 739 |
 | Publications | 58 |
 | CDR Focus | 5.2% |
 | Trajectory | Stable |
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Ocean CDR
 
 2. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
-   9 citations
+   11 citations
 
 3. **Carbon and mercury burial in mangrove soils across an anthropogenic gradient** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere** (2026)
    2 citations

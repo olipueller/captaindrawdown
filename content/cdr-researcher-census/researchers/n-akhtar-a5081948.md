@@ -1,7 +1,7 @@
 ---
 title: "N. Akhtar"
 description: "N. Akhtar is a Senior DAC researcher at Lahore College for Women University in PK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.346595
+date: 2026-09-11T02:38:29.302062
 url: "/cdr-researcher-census/researchers/n-akhtar-a5081948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 826 |
+| Citations | 827 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Progress in Post-Combustion Carbon Dioxide Capture, Direct Air Capture, and Utilization** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

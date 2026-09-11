@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Niroshika Palansooriya"
-description: "Kumuduni Niroshika Palansooriya is a Senior Biochar researcher at University of Regina in CA. With 54 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.082183
+description: "Kumuduni Niroshika Palansooriya is a Senior Biochar researcher at University of Regina in CA. With 55 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.033394
 url: "/cdr-researcher-census/researchers/kumuduni-niroshika-palansooriya-a5033246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 7,271 |
-| Publications | 54 |
-| CDR Focus | 9.3% |
+| h-index | 29 |
+| Citations | 7,586 |
+| Publications | 55 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Natural and engineered clays and clay minerals for the removal of poly- and perfluoroalkyl substances from water: State-of-the-art and future perspectives** (2021)
-   139 citations
+   141 citations
 
 2. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
    98 citations · Biochar
 
 3. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 4. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 5. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
    2 citations · Biochar
 
-6. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
-   1 citations · Biochar
+6. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
+   1 citations
 
-7. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
-   0 citations
+7. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
+   1 citations · Biochar
 
 ## External Profiles
 

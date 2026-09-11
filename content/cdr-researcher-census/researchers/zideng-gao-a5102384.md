@@ -1,7 +1,7 @@
 ---
 title: "Zideng Gao"
 description: "Zideng Gao is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.325747
+date: 2026-09-11T02:38:29.275035
 url: "/cdr-researcher-census/researchers/zideng-gao-a5102384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 889 |
+| Citations | 915 |
 | Publications | 38 |
 | CDR Focus | 10.5% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    13 citations · Soil Carbon

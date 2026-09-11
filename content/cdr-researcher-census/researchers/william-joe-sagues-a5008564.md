@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
-description: "William Joe Sagues is a Mid-career General CDR researcher at North Carolina State University in US. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.260003
+description: "William Joe Sagues is a Mid-career General CDR researcher at North Carolina State University in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.212363
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,196 |
-| Publications | 60 |
-| CDR Focus | 23.3% |
+| Citations | 1,211 |
+| Publications | 59 |
+| CDR Focus | 18.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   55 citations · BECCS
+   58 citations · BECCS
 
 3. **A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics** (2025)
    12 citations · BECCS
@@ -62,17 +62,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Green Needle Coke Production from Pyrolysis Biocrude toward Bio-based Anode Material Manufacture: Biochar Fines Addition Effect as “Physical Template” on the Crystalline Order** (2023)
    11 citations · Biochar
 
-5. **Biomass composting with gaseous carbon dioxide capture** (2024)
-   6 citations · BECCS
+5. **Environmental Life Cycle Assessment and Techno-Economic Analysis of Textile Waste Valorization via Modular Bioenergy with Carbon Capture, Utilization, and Storage** (2025)
+   7 citations · BECCS
 
-6. **Environmental Life Cycle Assessment and Techno-Economic Analysis of Textile Waste Valorization via Modular Bioenergy with Carbon Capture, Utilization, and Storage** (2025)
-   5 citations · BECCS
+6. **Biomass composting with gaseous carbon dioxide capture** (2024)
+   6 citations · BECCS
 
 7. **Biogenic carbon capture at pulp mills via sodium spiking and oxy-fuel calcination** (2025)
    4 citations · BECCS
 
 8. **Coupling Circularity With Carbon Negativity in Food and Agriculture Systems** (2022)
-   3 citations · General CDR
+   4 citations · General CDR
 
 9. **Gaseous carbon dioxide removal from composting of biomass and cotton textile waste** (2025)
    1 citations · Biochar

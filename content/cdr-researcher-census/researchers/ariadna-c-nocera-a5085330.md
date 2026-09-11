@@ -1,7 +1,7 @@
 ---
 title: "Ariadna C. Nocera"
-description: "Ariadna C. Nocera is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085514
+description: "Ariadna C. Nocera is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.040544
 url: "/cdr-researcher-census/researchers/ariadna-c-nocera-a5085330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 171 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| h-index | 7 |
+| Citations | 177 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR

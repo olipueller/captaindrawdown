@@ -1,7 +1,7 @@
 ---
 title: "Guang-Zhong Han"
 description: "Guang-Zhong Han is a Senior Soil Carbon researcher at Neijiang Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.754634
+date: 2026-09-11T02:38:29.713304
 url: "/cdr-researcher-census/researchers/guang-zhong-han-a5031902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 296 |
+| Citations | 302 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

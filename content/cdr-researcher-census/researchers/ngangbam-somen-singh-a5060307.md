@@ -1,7 +1,7 @@
 ---
 title: "Ngangbam Somen Singh"
-description: "Ngangbam Somen Singh is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248224
+description: "Ngangbam Somen Singh is a Mid-career Soil Carbon researcher at Mizoram University in IN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.161505
 url: "/cdr-researcher-census/researchers/ngangbam-somen-singh-a5060307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ngangbam Somen Singh",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ngangbam-somen-singh-a5060307/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Mizoram University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-9717-1425",
     "https://openalex.org/A5060307050"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Ngangbam Somen Singh**
+**Ngangbam Somen Singh**  
+Mizoram University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 132 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 146 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Elevation and management-induced vegetation and soil carbon shift in Eastern Himalayan forests: Advancing nature-based sustainability solutions (NbS)** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Carbon continuum across Eastern Himalayan forests: Elevational shifts in productivity, storage and turnover** (2026)
    0 citations

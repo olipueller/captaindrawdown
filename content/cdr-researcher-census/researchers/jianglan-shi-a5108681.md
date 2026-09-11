@@ -1,7 +1,7 @@
 ---
 title: "Jianglan Shi"
-description: "Jianglan Shi is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.161119
+description: "Jianglan Shi is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.108628
 url: "/cdr-researcher-census/researchers/jianglan-shi-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianglan-shi-a5108681/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Ministry of Agriculture and Rural Affairs"
   },
   "sameAs": "https://openalex.org/A5108681017"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianglan Shi**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Ministry of Agriculture and Rural Affairs · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,27 +40,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,231 |
-| Publications | 69 |
-| CDR Focus | 27.5% |
+| Citations | 2,317 |
+| Publications | 70 |
+| CDR Focus | 28.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 4. **Integrated wheat-maize straw and tillage management strategies influence economic profit and carbon footprint in the Guanzhong Plain of China** (2021)
-   45 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 5. **Effects of the combined application of livestock manure and plant residues on soil organic carbon sequestration in the southern Loess Plateau of China** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 6. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon

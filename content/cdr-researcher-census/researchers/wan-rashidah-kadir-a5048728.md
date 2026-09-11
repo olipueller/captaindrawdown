@@ -1,7 +1,7 @@
 ---
 title: "Wan Rashidah Kadir"
-description: "Wan Rashidah Kadir is a Senior Soil Carbon researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.767629
+description: "Wan Rashidah Kadir is a Senior Soil Carbon researcher at Forest Research Institute Malaysia in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.729159
 url: "/cdr-researcher-census/researchers/wan-rashidah-kadir-a5048728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Wan Rashidah Kadir",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wan-rashidah-kadir-a5048728/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Forest Research Institute Malaysia"
+  },
   "sameAs": "https://openalex.org/A5048728786"
 }
 </script>
 
 ## Profile
 
-**Wan Rashidah Kadir**
+**Wan Rashidah Kadir**  
+Forest Research Institute Malaysia · 🇲🇾 MY
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 290 |
+| Citations | 294 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

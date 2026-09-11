@@ -1,7 +1,7 @@
 ---
 title: "Weitong Ren"
 description: "Weitong Ren is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.058765
+date: 2026-09-11T02:38:29.994345
 url: "/cdr-researcher-census/researchers/weitong-ren-a5101228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
+| Citations | 192 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential Effects of Microbial Carbon Chain Elongation Metabolism Induced by Organic Inputs in Soil: Carbohydrates, Lipids, Organic Acids, and Alcohols** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

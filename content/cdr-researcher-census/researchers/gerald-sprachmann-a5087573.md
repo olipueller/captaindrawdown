@@ -1,7 +1,7 @@
 ---
 title: "Gerald Sprachmann"
 description: "Gerald Sprachmann is a Mid-career DAC researcher at Shell (Netherlands) in NL. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.545133
+date: 2026-09-11T02:38:29.499809
 url: "/cdr-researcher-census/researchers/gerald-sprachmann-a5087573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 461 |
+| Citations | 468 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

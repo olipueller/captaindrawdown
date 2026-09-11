@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tahsin Karimi Nezhad"
-description: "Mohammad Tahsin Karimi Nezhad is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.545912
+description: "Mohammad Tahsin Karimi Nezhad is a Mid-career Soil Carbon researcher at Institute of Landscape Ecology of the Slovak Academy of Sciences in SK. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.495629
 url: "/cdr-researcher-census/researchers/mohammad-tahsin-karimi-nezhad-a5038367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mohammad Tahsin Karimi Nezhad",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohammad-tahsin-karimi-nezhad-a5038367/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Landscape Ecology of the Slovak Academy of Sciences"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-7831-426X",
     "https://openalex.org/A5038367605"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mohammad Tahsin Karimi Nezhad**
+**Mohammad Tahsin Karimi Nezhad**  
+Institute of Landscape Ecology of the Slovak Academy of Sciences ·  SK
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 461 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| Citations | 473 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -49,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations
 
 2. **Divergent effects of long-term fertilization on the carbon management index across soil profiles in key Chinese croplands** (2024)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Comparing carbon sequestration efficiency in chemically separated soil organic carbon fractions under long-term fertilization in three major Chinese croplands** (2024)
    6 citations · Soil Carbon

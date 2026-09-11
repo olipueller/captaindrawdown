@@ -1,7 +1,7 @@
 ---
 title: "D. D. Gosse"
 description: "D. D. Gosse is a Mid-career Soil Carbon researcher at Lomonosov Moscow State University in RU. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.013028
+date: 2026-09-11T02:38:29.974240
 url: "/cdr-researcher-census/researchers/d-d-gosse-a5110440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 193 |
+| Citations | 198 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Meso- and Microclimatic Conditions on the CO2 Emission from Soils of the Urban Green Infrastructure of the Moscow Metropolis** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **The Influence of Meso- and Microclimatic Conditions on the CO&lt;sub&gt;2&lt;/sub&gt; Emission of Soils of the Urban Green Infrastructure of the Moscow Metropolis** (2023)
    0 citations · Soil Carbon

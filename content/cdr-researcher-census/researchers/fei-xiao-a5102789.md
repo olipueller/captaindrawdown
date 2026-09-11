@@ -1,7 +1,7 @@
 ---
 title: "Fei Xiao"
-description: "Fei Xiao is an Early-career Soil Carbon researcher at Jianghan University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.268492
+description: "Fei Xiao is a Mid-career Soil Carbon researcher at Jianghan University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.201463
 url: "/cdr-researcher-census/researchers/fei-xiao-a5102789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Fei Xiao**  
 Jianghan University · 🇨🇳 CN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 128 |
+| h-index | 5 |
+| Citations | 137 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

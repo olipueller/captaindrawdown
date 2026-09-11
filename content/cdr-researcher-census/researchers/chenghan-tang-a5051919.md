@@ -1,0 +1,59 @@
+---
+title: "Chenghan Tang"
+description: "Chenghan Tang is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.359205
+url: "/cdr-researcher-census/researchers/chenghan-tang-a5051919/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chenghan Tang",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chenghan-tang-a5051919/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Southwest Jiaotong University"
+  },
+  "sameAs": "https://openalex.org/A5051919070"
+}
+</script>
+
+## Profile
+
+**Chenghan Tang**  
+Southwest Jiaotong University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 6 |
+| Citations | 107 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Synthesis and Characterization of Potassium Bicarbonate and Urea-Modified Biochar from Rape Straw: Application in the Removal of Tetracycline from Aqueous Solution** (2024)
+   6 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5051919070)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,7 +1,7 @@
 ---
 title: "Zikhona Tywabi-Ngeva"
 description: "Zikhona Tywabi-Ngeva is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.522794
+date: 2026-09-11T02:38:29.442037
 url: "/cdr-researcher-census/researchers/zikhona-tywabi-ngeva-a5062943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 484 |
+| Citations | 543 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Biochar-reinforced biodegradable mulching films: Toward climate-resilient and sustainable agriculture** (2026)
    3 citations · Biochar

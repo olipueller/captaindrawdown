@@ -1,7 +1,7 @@
 ---
 title: "Lianbao Zhang"
 description: "Lianbao Zhang is a Senior Ocean CDR researcher at Marine Biomedical Research Institute of Qingdao in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.967572
+date: 2026-09-11T02:38:29.896092
 url: "/cdr-researcher-census/researchers/lianbao-zhang-a5005258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 208 |
+| Citations | 219 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Biodegradation of Terrigenous Organic Matter in a Stratified Large-Volume Water Column: Implications of the Removal of Terrigenous Organic Matter in the Coastal Ocean** (2022)
-   27 citations
+   28 citations
 
 2. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
    3 citations · Ocean CDR

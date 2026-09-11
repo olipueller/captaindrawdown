@@ -1,7 +1,7 @@
 ---
 title: "Binghao Zhang"
-description: "Binghao Zhang is a Mid-career General CDR researcher at University of Toronto in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.840754
+description: "Binghao Zhang is a Mid-career General CDR researcher at Adamson University in PH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.793974
 url: "/cdr-researcher-census/researchers/binghao-zhang-a5103043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/binghao-zhang-a5103043/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Toronto"
+    "name": "Adamson University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5790-7875",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Binghao Zhang**  
-University of Toronto · 🇨🇦 CA
+Adamson University · 🇵🇭 PH
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 252 |
+| Citations | 262 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

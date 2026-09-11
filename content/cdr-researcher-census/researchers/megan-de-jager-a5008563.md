@@ -1,7 +1,7 @@
 ---
 title: "Megan de Jager"
 description: "Megan de Jager is a Mid-career Biochar researcher at Carl von Ossietzky Universität Oldenburg in DE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043307
+date: 2026-09-11T02:38:29.982307
 url: "/cdr-researcher-census/researchers/megan-de-jager-a5008563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 184 |
+| Citations | 195 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The stability of carbon from a maize-derived hydrochar as a function of fractionation and hydrothermal carbonization temperature in a Podzol** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dibya Bhatta"
 description: "Dibya Bhatta is a Mid-career Biochar researcher at Kyungpook National University in KR. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.416747
+date: 2026-09-11T02:38:29.359545
 url: "/cdr-researcher-census/researchers/dibya-bhatta-a5069816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 651 |
+| Citations | 688 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application: A sustainable approach to improve soil health** (2023)
-   254 citations · Biochar
+   256 citations · Biochar
 
 ## External Profiles
 

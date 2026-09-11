@@ -1,7 +1,7 @@
 ---
 title: "Sara Vallejo Castaño"
 description: "Sara Vallejo Castaño is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.081495
+date: 2026-09-11T02:38:29.981592
 url: "/cdr-researcher-census/researchers/sara-vallejo-castano-a5062667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 172 |
+| Citations | 195 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 2. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations

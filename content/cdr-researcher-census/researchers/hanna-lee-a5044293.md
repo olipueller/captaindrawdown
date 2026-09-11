@@ -1,7 +1,7 @@
 ---
 title: "Hanna Lee"
-description: "Hanna Lee is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 186 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.082329
+description: "Hanna Lee is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 193 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.034093
 url: "/cdr-researcher-census/researchers/hanna-lee-a5044293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 35 |
-| Citations | 7,258 |
-| Publications | 186 |
-| CDR Focus | 5.4% |
+| Citations | 7,399 |
+| Publications | 193 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations** (2022)
-   48 citations · General CDR
+   49 citations · General CDR
 
 2. **Environmental consequences of interacting effects of changes in stratospheric ozone, ultraviolet radiation, and climate: UNEP Environmental Effects Assessment Panel, Update 2024** (2025)
    27 citations
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    18 citations · General CDR
 
 4. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 5. **Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot** (2025)
    5 citations · General CDR

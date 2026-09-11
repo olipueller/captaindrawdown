@@ -1,7 +1,7 @@
 ---
 title: "Fanfan Yang"
 description: "Fanfan Yang is a Mid-career Soil Carbon researcher at Lanzhou Jiaotong University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.809828
+date: 2026-09-11T02:38:29.746101
 url: "/cdr-researcher-census/researchers/fanfan-yang-a5103192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 268 |
+| Citations | 285 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The pathways, mechanisms and influencing factors of cover crops in regulating soil organic carbon** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

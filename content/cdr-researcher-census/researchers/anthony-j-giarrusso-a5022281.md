@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Giarrusso"
 description: "Anthony J. Giarrusso is a Senior DAC researcher at Georgia Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.125536
+date: 2026-09-11T02:38:30.096162
 url: "/cdr-researcher-census/researchers/anthony-j-giarrusso-a5022281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 160 |
+| Citations | 161 |
 | Publications | 4 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources** (2021)
-   21 citations · DAC
+   22 citations · DAC
 
 2. **Geo-Spatial Economic Assessment of the Potential Development of Bioenergy Combined with Direct Air Carbon Capture (BEDAC) in the USA** (2023)
    1 citations · BECCS

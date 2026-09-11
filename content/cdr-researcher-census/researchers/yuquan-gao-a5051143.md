@@ -1,7 +1,7 @@
 ---
 title: "Yuquan Gao"
-description: "Yuquan Gao is a Mid-career Biochar researcher at Ningbo No. 2 Hospital in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.699173
+description: "Yuquan Gao is a Mid-career Biochar researcher at Ningbo No. 2 Hospital in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.656170
 url: "/cdr-researcher-census/researchers/yuquan-gao-a5051143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 331 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 337 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Removal of nitrobenzene from aqueous solution by graphene/biochar supported nanoscale zero-valent-iron: Reduction enhancement behavior and mechanism** (2021)
-   53 citations · Biochar
+   54 citations · Biochar
 
 ## External Profiles
 

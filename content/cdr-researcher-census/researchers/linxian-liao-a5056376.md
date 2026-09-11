@@ -1,7 +1,7 @@
 ---
 title: "Linxian Liao"
 description: "Linxian Liao is a Senior Soil Carbon researcher at Hohai University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.642569
+date: 2026-09-11T02:38:29.590975
 url: "/cdr-researcher-census/researchers/linxian-liao-a5056376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 372 |
+| Citations | 384 |
 | Publications | 32 |
 | CDR Focus | 9.4% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return combined with water-saving irrigation increases microbial necromass accumulation by accelerating microbial growth-turnover in Mollisols of paddy fields** (2025)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Balancing energy inputs and carbon outcomes in hydrochar applications: Temperature-Dependent effects on soil carbon sequestration** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **Dual Role of Iron Oxides in Stabilizing Particulate and Mineral-Associated Organic Carbon Under Field Management in Paddies** (2025)
    2 citations · Soil Carbon

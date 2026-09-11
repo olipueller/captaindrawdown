@@ -1,7 +1,7 @@
 ---
 title: "Nadine Lehmann"
-description: "Nadine Lehmann is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.177639
+description: "Nadine Lehmann is a Senior Ocean CDR researcher at University of Tasmania in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.135293
 url: "/cdr-researcher-census/researchers/nadine-lehmann-a5064252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Nadine Lehmann**  
 University of Tasmania · 🇦🇺 AU
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 147 |
+| Citations | 152 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Global carbonate chemistry gradients reveal a negative feedback on ocean alkalinity enhancement** (2025)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 2. **Natural Analogs to Ocean Alkalinity Enhancement** (2023)
    6 citations

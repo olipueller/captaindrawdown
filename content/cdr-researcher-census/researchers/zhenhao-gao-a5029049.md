@@ -1,7 +1,7 @@
 ---
 title: "Zhenhao Gao"
-description: "Zhenhao Gao is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.184631
+description: "Zhenhao Gao is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.149766
 url: "/cdr-researcher-census/researchers/zhenhao-gao-a5029049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 146 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 149 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

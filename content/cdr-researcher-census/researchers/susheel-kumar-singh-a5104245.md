@@ -1,7 +1,7 @@
 ---
 title: "Susheel Kumar Singh"
 description: "Susheel Kumar Singh is a Senior Soil Carbon researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.401475
+date: 2026-09-11T02:38:30.346168
 url: "/cdr-researcher-census/researchers/susheel-kumar-singh-a5104245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 104 |
+| Citations | 109 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

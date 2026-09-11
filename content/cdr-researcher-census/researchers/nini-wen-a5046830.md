@@ -1,7 +1,7 @@
 ---
 title: "Nini Wen"
-description: "Nini Wen is a Mid-career DAC researcher at Zhejiang Sci-Tech University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.856165
+description: "Nini Wen is a Mid-career DAC researcher at Zhejiang Sci-Tech University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.826773
 url: "/cdr-researcher-census/researchers/nini-wen-a5046830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 243 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 246 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

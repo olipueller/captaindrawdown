@@ -1,7 +1,7 @@
 ---
 title: "Joseph Ssekandi"
-description: "Joseph Ssekandi is an Early-career Soil Carbon researcher at Kabale University in UG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.740029
+description: "Joseph Ssekandi is an Early-career Soil Carbon researcher at Uganda Martyrs University in UG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.687836
 url: "/cdr-researcher-census/researchers/joseph-ssekandi-a5069081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joseph-ssekandi-a5069081/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kabale University"
+    "name": "Uganda Martyrs University"
   },
   "sameAs": "https://openalex.org/A5069081390"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Joseph Ssekandi**  
-Kabale University ·  UG
+Uganda Martyrs University ·  UG
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 304 |
+| Citations | 315 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   261 citations · Soil Carbon
+   264 citations · Soil Carbon
 
 ## External Profiles
 

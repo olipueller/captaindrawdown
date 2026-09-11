@@ -1,7 +1,7 @@
 ---
 title: "Asif Ali"
-description: "Asif Ali is a Senior Enhanced Weathering researcher at Nanyang Technological University in SG. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.328994
+description: "Asif Ali is a Senior Enhanced Weathering researcher at Nanyang Technological University in SG. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.280027
 url: "/cdr-researcher-census/researchers/asif-ali-a5087034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 878 |
+| h-index | 19 |
+| Citations | 901 |
 | Publications | 51 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

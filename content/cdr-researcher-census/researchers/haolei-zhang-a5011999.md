@@ -1,7 +1,7 @@
 ---
 title: "Haolei Zhang"
-description: "Haolei Zhang is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.300667
+description: "Haolei Zhang is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.191375
 url: "/cdr-researcher-census/researchers/haolei-zhang-a5011999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 122 |
+| h-index | 4 |
+| Citations | 139 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Black biodegradable mulching increases grain yield and net return while decreasing carbon footprint in rain-fed conditions of the Loess Plateau** (2024)
-   99 citations · Soil Carbon
+   104 citations · Soil Carbon
 
 ## External Profiles
 

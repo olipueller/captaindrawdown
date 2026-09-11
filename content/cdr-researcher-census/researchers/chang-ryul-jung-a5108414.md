@@ -1,7 +1,7 @@
 ---
 title: "Chang Ryul Jung"
 description: "Chang Ryul Jung is a Senior DAC researcher at Samsung (South Korea) in KR. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.288292
+date: 2026-09-11T02:38:29.241239
 url: "/cdr-researcher-census/researchers/chang-ryul-jung-a5108414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,051 |
+| Citations | 1,054 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "W.D. Chanaka Udayanga"
 description: "W.D. Chanaka Udayanga is a Mid-career Biochar researcher at University of Kelaniya in LK. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.405833
+date: 2026-09-11T02:38:29.362621
 url: "/cdr-researcher-census/researchers/wd-chanaka-udayanga-a5085894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 675 |
+| Citations | 680 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 23.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Co-Pyrolysis of Textile Dyeing Sludge with Waste Cooking Oil: A Dual-Waste Management Approach for Producing Efficient Dye Adsorbent** (2025)
+1. **Insights into Carbon Restructuring, Inorganic Accumulation, Thermal Transformation, and Economic Valorization Assessment of Waste Engine Oil–Textile Dyeing Sludge Co-Pyrolysis Biochar for Energy Generation, Pollutant Removal, and Carbon Sequestration** (2026)
    0 citations · Biochar
 
-2. **Carbon enrichment strategy for textile dyeing sludge-derived biochar through secondary hazardous waste integration: Insight into thermal decomposition, structural modifications and adsorption performance** (2025)
+2. **Co-Pyrolysis of Textile Dyeing Sludge with Waste Cooking Oil: A Dual-Waste Management Approach for Producing Efficient Dye Adsorbent** (2025)
+   0 citations · Biochar
+
+3. **Carbon enrichment strategy for textile dyeing sludge-derived biochar through secondary hazardous waste integration: Insight into thermal decomposition, structural modifications and adsorption performance** (2025)
    0 citations · Biochar
 
 ## External Profiles

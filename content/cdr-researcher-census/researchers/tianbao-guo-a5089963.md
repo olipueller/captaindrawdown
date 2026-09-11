@@ -1,7 +1,7 @@
 ---
 title: "Tianbao Guo"
-description: "Tianbao Guo is an Early-career Biochar researcher at Nankai University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.103740
+description: "Tianbao Guo is an Early-career Biochar researcher at Environmental Protection Engineering (Greece) in GR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.051622
 url: "/cdr-researcher-census/researchers/tianbao-guo-a5089963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianbao-guo-a5089963/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nankai University"
+    "name": "Environmental Protection Engineering (Greece)"
   },
   "sameAs": "https://openalex.org/A5089963171"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tianbao Guo**  
-Nankai University · 🇨🇳 CN
+Environmental Protection Engineering (Greece) · 🇬🇷 GR
 
 **Career Stage:** Early-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 166 |
-| Publications | 3 |
-| CDR Focus | 33.3% |
+| Citations | 174 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar as carbon sequestration material combines with sewage sludge incineration ash to prepare lightweight concrete** (2022)
-   95 citations · Biochar
+   96 citations · Biochar
 
 ## External Profiles
 

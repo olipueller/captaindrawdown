@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Falk"
-description: "Stefanie Falk is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.120743
+description: "Stefanie Falk is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.068759
 url: "/cdr-researcher-census/researchers/stefanie-falk-a5055316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 3,503 |
-| Publications | 46 |
-| CDR Focus | 10.9% |
+| Citations | 3,672 |
+| Publications | 51 |
+| CDR Focus | 9.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Evaluating nitrogen cycling in terrestrial biosphere models: a disconnect between the carbon and nitrogen cycles** (2023)
-   43 citations · General CDR
+   44 citations · General CDR
 
 2. **How to measure the efficiency of bioenergy crops compared to forestation** (2024)
    5 citations · BECCS

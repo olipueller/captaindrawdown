@@ -1,7 +1,7 @@
 ---
 title: "K. Boomiraj"
-description: "K. Boomiraj is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 95 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.538635
+description: "K. Boomiraj is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 97 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.485832
 url: "/cdr-researcher-census/researchers/k-boomiraj-a5056980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 467 |
-| Publications | 95 |
-| CDR Focus | 6.3% |
+| h-index | 10 |
+| Citations | 484 |
+| Publications | 97 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Effect of Conservation Agriculture Practices on Carbon Pools in a Sandy Loam Soil of Indo-Gangetic Plains** (2023)
+1. **Microbial carbon dynamics in tropical forests: linking soil processes to atmospheric impacts under climate stress** (2025)
    8 citations · Soil Carbon
 
-2. **Microbial carbon dynamics in tropical forests: linking soil processes to atmospheric impacts under climate stress** (2025)
-   7 citations · Soil Carbon
+2. **Effect of Conservation Agriculture Practices on Carbon Pools in a Sandy Loam Soil of Indo-Gangetic Plains** (2023)
+   8 citations · Soil Carbon
 
-3. **Farmer’s Perception towards Mitigating Climate Change through Adoption of Soil Carbon Sequestration Practices: A Review Analysis** (2023)
+3. **Microbial-Mediated Soil Carbon Dynamics Under Climate Change- A Comprehensive Review** (2025)
+   3 citations
+
+4. **Farmer’s Perception towards Mitigating Climate Change through Adoption of Soil Carbon Sequestration Practices: A Review Analysis** (2023)
    3 citations · General CDR
 
-4. **Microbial-Mediated Soil Carbon Dynamics Under Climate Change- A Comprehensive Review** (2025)
-   1 citations
-
 5. **Regenerative agriculture for sustainable crop productivity: A comprehensive review** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 6. **Constructing an Innovative Theoretical Framework for Tea Grower’s Adoption of Carbon Sequestration Practices Using PLS-SEM** (2024)
    1 citations · Soil Carbon

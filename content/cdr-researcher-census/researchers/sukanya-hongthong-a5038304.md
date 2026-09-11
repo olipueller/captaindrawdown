@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Hongthong"
 description: "Sukanya Hongthong is a Mid-career Biochar researcher at Chaiyaphum Rajabhat University in TH. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.726655
+date: 2026-09-11T02:38:29.634538
 url: "/cdr-researcher-census/researchers/sukanya-hongthong-a5038304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 312 |
+| Citations | 352 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 21.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Slow Pyrolysis of Waste Cow Bone for Biochar Production and Its Application in Copper Removal From Acidic Solutions** (2024)
-   25 citations · Biochar
+   27 citations · Biochar
 
 2. **Mesoporous biochar composite derived from hardwood and post-recycled plastic waste in Thailand: A case study of nickel removal in acidic solution** (2025)
    15 citations · Biochar
 
 3. **Co-pyrolyzed sawdust–polypropylene biochar as a sustainable adsorbent for heavy-metal removal in wastewater** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Integrated Techno-Economic, Environmental Screening, and Social Return on Investment Analysis of Community-Scale Sawdust–Polypropylene Co-Pyrolysis for Heavy-Metal Adsorbent Production in Rural Area, Thailand** (2026)
    0 citations · Biochar

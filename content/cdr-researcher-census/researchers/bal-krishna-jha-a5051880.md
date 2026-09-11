@@ -1,7 +1,7 @@
 ---
 title: "Bal Krishna Jha"
 description: "Bal Krishna Jha is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.209420
+date: 2026-09-11T02:38:30.170030
 url: "/cdr-researcher-census/researchers/bal-krishna-jha-a5051880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 140 |
+| Citations | 144 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

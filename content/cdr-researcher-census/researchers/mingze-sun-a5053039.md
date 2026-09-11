@@ -1,7 +1,7 @@
 ---
 title: "Mingze Sun"
 description: "Mingze Sun is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.425752
+date: 2026-09-11T02:38:29.373426
 url: "/cdr-researcher-census/researchers/mingze-sun-a5053039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 635 |
+| Citations | 656 |
 | Publications | 8 |
 | CDR Focus | 37.5% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    80 citations · Biochar
 
 2. **One-step self-assembly of Fe-biochar composite for enhanced persulfate activation to phenol degradation: Different active sites-induced radical/non-radical mechanism** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 3. **Hydroxylamine-regulated reactive oxygen species generation in an iron-biochar composite activated peracetic acid system for ultra-rapid degradation of atrazine** (2026)
    0 citations · Biochar

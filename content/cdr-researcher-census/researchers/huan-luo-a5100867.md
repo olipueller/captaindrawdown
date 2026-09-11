@@ -1,7 +1,7 @@
 ---
 title: "Huan Luo"
-description: "Huan Luo is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.379106
+description: "Huan Luo is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.328002
 url: "/cdr-researcher-census/researchers/huan-luo-a5100867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 107 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 112 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

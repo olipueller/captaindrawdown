@@ -1,7 +1,7 @@
 ---
 title: "Aaron N. Koop"
-description: "Aaron N. Koop is a Mid-career Enhanced Weathering researcher at University of Kansas in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.358289
+description: "Aaron N. Koop is a Mid-career Enhanced Weathering researcher at AARP in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.303359
 url: "/cdr-researcher-census/researchers/aaron-n-koop-a5063279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/aaron-n-koop-a5063279/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Kansas"
+    "name": "AARP"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0991-9665",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Aaron N. Koop**  
-University of Kansas · 🇺🇸 US
+AARP · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 111 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| h-index | 4 |
+| Citations | 117 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **From Soils to Streams: Connecting Terrestrial Carbon Transformation, Chemical Weathering, and Solute Export Across Hydrological Regimes** (2022)
-   66 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 ## External Profiles
 

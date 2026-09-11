@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Liu"
-description: "Chenyu Liu is an Early-career Biochar researcher at Sichuan Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.359978
+description: "Chenyu Liu is an Early-career Biochar researcher at Nanyang Technological University in SG. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.191831
 url: "/cdr-researcher-census/researchers/chenyu-liu-a5101372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chenyu-liu-a5101372/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sichuan Agricultural University"
+    "name": "Nanyang Technological University"
   },
   "sameAs": [
     "https://orcid.org/0009-0008-5634-6736",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chenyu Liu**  
-Sichuan Agricultural University · 🇨🇳 CN
+Nanyang Technological University · 🇸🇬 SG
 
 **Career Stage:** Early-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 111 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 139 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

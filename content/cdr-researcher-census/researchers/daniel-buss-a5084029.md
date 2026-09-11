@@ -1,7 +1,7 @@
 ---
 title: "Daniel Buss"
 description: "Daniel Buss is a Mid-career General CDR researcher at World Health Organization Regional Office for the Americas in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.837045
+date: 2026-09-11T02:38:29.755893
 url: "/cdr-researcher-census/researchers/daniel-buss-a5084029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 253 |
+| Citations | 279 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   93 citations · General CDR
+   96 citations · General CDR
 
 ## External Profiles
 

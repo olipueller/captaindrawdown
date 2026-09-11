@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
-description: "Alexandre Babin is a Mid-career BECCS researcher at Metabolism and Renal Physiology in FR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.527106
+description: "Alexandre Babin is a Mid-career BECCS researcher at University of British Columbia in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.470228
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alexandre-babin-a5081732/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Metabolism and Renal Physiology"
+    "name": "University of British Columbia"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0157-4327",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Alexandre Babin**  
-Metabolism and Renal Physiology · 🇫🇷 FR
+University of British Columbia · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 479 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 501 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential and challenges of bioenergy with carbon capture and storage as a carbon-negative energy source: A review** (2021)
-   197 citations · BECCS
+   202 citations · BECCS
 
 ## External Profiles
 

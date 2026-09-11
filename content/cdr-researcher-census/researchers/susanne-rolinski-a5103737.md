@@ -1,7 +1,7 @@
 ---
 title: "Susanne Rolinski"
-description: "Susanne Rolinski is a Senior Soil Carbon researcher at Leibniz Association in DE. With 139 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.084367
+description: "Susanne Rolinski is a Senior Soil Carbon researcher at Leibniz Association in DE. With 138 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.036112
 url: "/cdr-researcher-census/researchers/susanne-rolinski-a5103737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 39 |
-| Citations | 6,806 |
-| Publications | 139 |
+| Citations | 6,950 |
+| Publications | 138 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon dynamics from agricultural management practices under climate change** (2021)
-   71 citations · General CDR
+   72 citations · General CDR
 
 2. **The role of cover crops for cropland soil carbon, nitrogen leaching, and agricultural yields – a global simulation study with LPJmL (V. 5.0-tillage-cc)** (2022)
-   52 citations · General CDR
+   54 citations · General CDR
 
 3. **Dynamics of soil organic carbon in the steppes of Russia and Kazakhstan under past and future climate and land use** (2021)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **Modelling the role of livestock grazing in C and N cycling in grasslands with LPJmL5.0-grazing** (2023)
    17 citations · Soil Carbon

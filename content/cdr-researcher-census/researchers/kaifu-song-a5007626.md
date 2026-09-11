@@ -1,7 +1,7 @@
 ---
 title: "Kaifu Song"
 description: "Kaifu Song is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.449939
+date: 2026-09-11T02:38:29.403932
 url: "/cdr-researcher-census/researchers/kaifu-song-a5007626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 593 |
+| Citations | 601 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

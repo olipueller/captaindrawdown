@@ -1,7 +1,7 @@
 ---
 title: "Jiao-Feng Gu"
 description: "Jiao-Feng Gu is a Mid-career Biochar researcher at Central South University of Forestry and Technology in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.465710
+date: 2026-09-11T02:38:29.416319
 url: "/cdr-researcher-census/researchers/jiao-feng-gu-a5102020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 567 |
+| Citations | 583 |
 | Publications | 31 |
 | CDR Focus | 9.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-Fe3O4-modified biochar promotes the formation of iron plaque and cadmium immobilization in rice root** (2021)
-   75 citations · Biochar
+   77 citations · Biochar
 
 2. **Lanthanum-modified biochar reducing arsenic bioavailability in soil and accumulation in rice: Characterization, performance, and mechanism** (2025)
    4 citations · Biochar

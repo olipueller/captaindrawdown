@@ -1,7 +1,7 @@
 ---
 title: "Farzin Hosseinifard"
-description: "Farzin Hosseinifard is a Mid-career DAC researcher at K.N.Toosi University of Technology in IR. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971315
+description: "Farzin Hosseinifard is a Mid-career DAC researcher at K. N. Toosi University of Technology in IR. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.826683
 url: "/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/",
   "affiliation": {
     "@type": "Organization",
-    "name": "K.N.Toosi University of Technology"
+    "name": "K. N. Toosi University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0008-9095-0902",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Farzin Hosseinifard**  
-K.N.Toosi University of Technology ·  IR
+K. N. Toosi University of Technology ·  IR
 
 **Career Stage:** Mid-career
 
@@ -42,34 +42,37 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 206 |
-| Publications | 29 |
-| CDR Focus | 17.2% |
+| h-index | 10 |
+| Citations | 246 |
+| Publications | 31 |
+| CDR Focus | 16.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Techno-economic evaluation of solar-driven direct air capture under various configurations** (2025)
-   9 citations · DAC
+   11 citations · DAC
 
-2. **Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery** (2025)
+2. **Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance** (2026)
    3 citations · DAC
 
-3. **Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology** (2026)
+3. **Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery** (2025)
+   3 citations · DAC
+
+4. **Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology** (2026)
    1 citations · DAC
 
-4. **Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture** (2025)
+5. **Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture** (2025)
    1 citations · BECCS
 
-5. **Energy, exergy, and exergoeconomic feasibility of vapor recompression and process-modified post-combustion carbon capture in Midrex-based DRI steelmaking toward blue steel production** (2026)
+6. **A hybrid CCUS–bioenergy pathway for low-carbon ammonia and urea production using blue hydrogen** (2026)
    0 citations
 
-6. **Integrated solar-assisted carbon capture and hydrogen pathways for low-carbon urea production: a techno-economic and exergy assessment** (2026)
+7. **Energy, exergy, and exergoeconomic feasibility of vapor recompression and process-modified post-combustion carbon capture in Midrex-based DRI steelmaking toward blue steel production** (2026)
    0 citations
 
-7. **Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance** (2026)
-   0 citations · DAC
+8. **Integrated solar-assisted carbon capture and hydrogen pathways for low-carbon urea production: a techno-economic and exergy assessment** (2026)
+   0 citations
 
 ## External Profiles
 

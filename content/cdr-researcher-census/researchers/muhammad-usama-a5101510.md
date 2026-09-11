@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama"
-description: "Muhammad Usama is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.052929
+description: "Muhammad Usama is a Mid-career Biochar researcher at University of Sargodha in PK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.968603
 url: "/cdr-researcher-census/researchers/muhammad-usama-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-usama-a5101510/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Government College University, Faisalabad"
+    "name": "University of Sargodha"
   },
   "sameAs": [
     "https://orcid.org/0009-0000-1983-9293",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhammad Usama**  
-Government College University, Faisalabad · 🇵🇰 PK
+University of Sargodha · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 181 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 199 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainable wastewater purification with crab shell-derived biochar: Advanced machine learning modeling &amp; experimental analysis** (2023)
-   31 citations · Biochar
+   32 citations · Biochar
 
 2. **Competitive adsorption of antibiotics on waste-derived hybrid biochar: Performance, mechanism, and life cycle assessment** (2025)
    8 citations · Biochar

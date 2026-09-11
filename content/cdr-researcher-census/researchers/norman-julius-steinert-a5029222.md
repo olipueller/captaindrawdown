@@ -1,7 +1,7 @@
 ---
 title: "Norman Julius Steinert"
-description: "Norman Julius Steinert is a Mid-career General CDR researcher at CICERO Center for International Climate Research in NO. With 129 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.350076
+description: "Norman Julius Steinert is a Mid-career General CDR researcher at CICERO Center for International Climate Research in NO. With 151 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.281807
 url: "/cdr-researcher-census/researchers/norman-julius-steinert-a5029222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 812 |
-| Publications | 129 |
-| CDR Focus | 7.0% |
+| h-index | 15 |
+| Citations | 893 |
+| Publications | 151 |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations** (2022)
-   48 citations · General CDR
+   49 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 4. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 5. **Overconfidence in climate overshoot** (2023)
    7 citations
@@ -71,14 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration** (2022)
    1 citations · General CDR
 
-8. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+8. **Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models** (2026)
    0 citations · General CDR
 
-9. **Changes in Land Surface Model Thermodynamics and Hydrology: Implications for Arctic Amplification&amp;#160;** (2024)
+9. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+   0 citations · General CDR
+
+10. **Changes in Land Surface Model Thermodynamics and Hydrology: Implications for Arctic Amplification&amp;#160;** (2024)
    0 citations · Soil Carbon
-
-10. **Potential intensification of permafrost carbon feedback under net-zero and negative emissions** (2023)
-   0 citations · General CDR
 
 ## External Profiles
 

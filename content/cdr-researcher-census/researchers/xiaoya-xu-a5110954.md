@@ -1,7 +1,7 @@
 ---
 title: "Xiaoya Xu"
-description: "Xiaoya Xu is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.393618
+description: "Xiaoya Xu is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.345029
 url: "/cdr-researcher-census/researchers/xiaoya-xu-a5110954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 703 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 719 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Functional Diversity and CO2 Emission Characteristics of Soil Bacteria during the Succession of Halophyte Vegetation in the Yellow River Delta** (2022)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Salinity gradient shapes microbial carbon use efficiency in coastal wetlands: Insights from extracellular enzyme stoichiometry and metabolic limitation** (2025)
    0 citations · Soil Carbon

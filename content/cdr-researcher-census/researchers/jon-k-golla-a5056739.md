@@ -1,7 +1,7 @@
 ---
 title: "Jon K. Golla"
-description: "Jon K. Golla is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417257
+description: "Jon K. Golla is a Mid-career Enhanced Weathering researcher at Lawrence Livermore National Laboratory in US. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.380766
 url: "/cdr-researcher-census/researchers/jon-k-golla-a5056739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jon-k-golla-a5056739/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Illinois Urbana-Champaign"
+    "name": "Lawrence Livermore National Laboratory"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2922-2315",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jon K. Golla**  
-University of Illinois Urbana-Champaign · 🇺🇸 US
+Lawrence Livermore National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 101 |
+| h-index | 5 |
+| Citations | 103 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |

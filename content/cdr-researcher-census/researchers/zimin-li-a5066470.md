@@ -1,7 +1,7 @@
 ---
 title: "Zimin Li"
-description: "Zimin Li is a Senior Soil Carbon researcher at Institute of Earth Environment, Chinese Academy of Sciences in CN. With 146 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.097407
+description: "Zimin Li is a Senior Soil Carbon researcher at Institute of Earth Environment, Chinese Academy of Sciences in CN. With 149 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.047907
 url: "/cdr-researcher-census/researchers/zimin-li-a5066470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 5,029 |
-| Publications | 146 |
-| CDR Focus | 7.5% |
+| h-index | 31 |
+| Citations | 5,158 |
+| Publications | 149 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · General CDR
 
 3. **Mangrove wetland recovery enhances soil carbon sequestration capacity of soil aggregates and microbial network stability in southeastern China** (2024)
-   25 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 4. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
    23 citations · Soil Carbon
 
 5. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
    8 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Enhanced Weathering
 
 8. **Mechanisms of Soil Inorganic Carbon Migration and <scp> CO <sub>2</sub> </scp> Exchange in Arid and Semi‐Arid Regions** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Microplastics Modulate Carbon Sequestration in Paddy Fields by Regulating Rhizosphere Silicon Mobility** (2025)
    1 citations · Soil Carbon

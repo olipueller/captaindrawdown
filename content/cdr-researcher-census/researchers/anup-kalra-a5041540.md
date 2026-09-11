@@ -1,7 +1,7 @@
 ---
 title: "Anup Kalra"
-description: "Anup Kalra is a Mid-career Soil Carbon researcher at Ayurvet Research Foundation in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288729
+description: "Anup Kalra is a Mid-career Soil Carbon researcher at Observer Research Foundation in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.241608
 url: "/cdr-researcher-census/researchers/anup-kalra-a5041540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anup-kalra-a5041540/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ayurvet Research Foundation"
+    "name": "Observer Research Foundation"
   },
   "sameAs": "https://openalex.org/A5041540045"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Anup Kalra**  
-Ayurvet Research Foundation · 🇮🇳 IN
+Observer Research Foundation · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
+| Citations | 129 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

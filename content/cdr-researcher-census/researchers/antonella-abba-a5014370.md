@@ -1,7 +1,7 @@
 ---
 title: "Antonella Abbà"
-description: "Antonella Abbà is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 74 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.609615
+description: "Antonella Abbà is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 72 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.560858
 url: "/cdr-researcher-census/researchers/antonella-abba-a5014370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 398 |
-| Publications | 74 |
-| CDR Focus | 5.4% |
+| Citations | 408 |
+| Publications | 72 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

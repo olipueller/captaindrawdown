@@ -1,7 +1,7 @@
 ---
 title: "Kritsadaporn Porninta"
 description: "Kritsadaporn Porninta is a Mid-career Biochar researcher at Chiang Mai University in TH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149349
+date: 2026-09-11T02:38:30.104589
 url: "/cdr-researcher-census/researchers/kritsadaporn-porninta-a5004063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 154 |
+| Citations | 159 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Corn waste-derived biochar as a sustainable fine aggregate in pervious concrete for climate-resilient urban pavement applications** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kremena Burkhard"
-description: "Kremena Burkhard is a Mid-career Ocean CDR researcher at Leibniz University Hannover in DE. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.071176
+description: "Kremena Burkhard is a Mid-career Ocean CDR researcher at Leibniz University Hannover in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.033180
 url: "/cdr-researcher-census/researchers/kremena-burkhard-a5070401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 175 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 179 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

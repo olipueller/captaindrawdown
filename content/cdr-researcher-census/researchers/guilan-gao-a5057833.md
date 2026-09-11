@@ -1,7 +1,7 @@
 ---
 title: "Guilan Gao"
 description: "Guilan Gao is a Senior Biochar researcher at Shanghai Polytechnic University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.418189
+date: 2026-09-11T02:38:29.367182
 url: "/cdr-researcher-census/researchers/guilan-gao-a5057833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 648 |
+| Citations | 670 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

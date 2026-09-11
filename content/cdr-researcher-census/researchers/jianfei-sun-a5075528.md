@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Sun"
-description: "Jianfei Sun is a Senior Soil Carbon researcher at Guangxi University in CN. With 34 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.260410
+description: "Jianfei Sun is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 35 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.206578
 url: "/cdr-researcher-census/researchers/jianfei-sun-a5075528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianfei-sun-a5075528/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guangxi University"
+    "name": "Ministry of Ecology and Environment"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2243-346X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianfei Sun**  
-Guangxi University · 🇨🇳 CN
+Ministry of Ecology and Environment · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,195 |
-| Publications | 34 |
-| CDR Focus | 17.6% |
+| Citations | 1,242 |
+| Publications | 35 |
+| CDR Focus | 17.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **The importance of fine root protection in topsoil carbon and nitrogen sequestration following land-use changes on sloping karst ecosystems** (2022)
    15 citations · Soil Carbon
 
 3. **Heavy metal contamination threats carbon sequestration of paddy soils with an attenuated microbial anabolism** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Rotation with Green Manure Increased Rice Yield and Soil Carbon in Paddies from Yangtze River Valley, China** (2022)
    2 citations · Soil Carbon

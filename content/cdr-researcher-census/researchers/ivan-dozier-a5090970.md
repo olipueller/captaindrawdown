@@ -1,7 +1,7 @@
 ---
 title: "Ivan Dozier"
-description: "Ivan Dozier is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.688806
+description: "Ivan Dozier is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.637464
 url: "/cdr-researcher-census/researchers/ivan-dozier-a5090970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 339 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 350 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

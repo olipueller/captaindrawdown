@@ -1,7 +1,7 @@
 ---
 title: "Mark Baum"
-description: "Mark Baum is a Senior Enhanced Weathering researcher. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.887325
+description: "Mark Baum is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.853391
 url: "/cdr-researcher-census/researchers/mark-baum-a5086218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mark Baum",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-baum-a5086218/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Nano Carbon (Poland)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8832-4963",
     "https://openalex.org/A5086218864"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mark Baum**
+**Mark Baum**  
+Nano Carbon (Poland) ·  PL
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 230 |
+| Citations | 234 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

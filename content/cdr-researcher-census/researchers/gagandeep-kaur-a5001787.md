@@ -1,7 +1,7 @@
 ---
 title: "Gagandeep Kaur"
-description: "Gagandeep Kaur is a Senior Soil Carbon researcher at Atal Bihari Vajpayee Indian Institute of Information Technology and Management in IN. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.396731
+description: "Gagandeep Kaur is a Senior Soil Carbon researcher at Atal Bihari Vajpayee Indian Institute of Information Technology and Management in IN. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.341893
 url: "/cdr-researcher-census/researchers/gagandeep-kaur-a5001787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 696 |
+| h-index | 11 |
+| Citations | 725 |
 | Publications | 49 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |

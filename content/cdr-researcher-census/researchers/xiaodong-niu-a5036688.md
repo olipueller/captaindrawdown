@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Niu"
-description: "Xiaodong Niu is a Mid-career Soil Carbon researcher at Nanyang Normal University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.209633
+description: "Xiaodong Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.164364
 url: "/cdr-researcher-census/researchers/xiaodong-niu-a5036688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaodong-niu-a5036688/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanyang Normal University"
+    "name": "Chinese Academy of Forestry"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8238-5391",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaodong Niu**  
-Nanyang Normal University · 🇨🇳 CN
+Chinese Academy of Forestry · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 140 |
+| h-index | 8 |
+| Citations | 145 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Biophysical controls on the interannual variation in carbon fluxes of a natural oak forest** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

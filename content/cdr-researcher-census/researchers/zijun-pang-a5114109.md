@@ -1,7 +1,7 @@
 ---
 title: "Zijun Pang"
-description: "Zijun Pang is a Mid-career Biochar researcher at South China University of Technology in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.453543
+description: "Zijun Pang is a Mid-career Biochar researcher at Qinghai University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.396565
 url: "/cdr-researcher-census/researchers/zijun-pang-a5114109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zijun-pang-a5114109/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China University of Technology"
+    "name": "Qinghai University"
   },
   "sameAs": "https://openalex.org/A5114109764"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zijun Pang**  
-South China University of Technology · 🇨🇳 CN
+Qinghai University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 586 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 614 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

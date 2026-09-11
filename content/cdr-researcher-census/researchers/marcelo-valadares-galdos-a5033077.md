@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Valadares Galdos"
-description: "Marcelo Valadares Galdos is a Senior Soil Carbon researcher at Earth Rover Program in GB. With 106 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.117048
+description: "Marcelo Valadares Galdos is a Senior Soil Carbon researcher at Earth Rover Program in GB. With 108 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.067271
 url: "/cdr-researcher-census/researchers/marcelo-valadares-galdos-a5033077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 3,663 |
-| Publications | 106 |
-| CDR Focus | 5.7% |
+| Citations | 3,730 |
+| Publications | 108 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Challenging claimed benefits of soil carbon sequestration for mitigating climate change and increasing crop yields: Heresy or sober realism?** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
-2. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
+2. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
+   12 citations · Soil Carbon
+
+3. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
    11 citations · General CDR
-
-3. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
-   11 citations · Soil Carbon
 
 4. **Insights on soil carbon cycling in intercropped maize-forage systems as affected by nitrogen** (2024)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yerabham Praveenkumarreddy"
-description: "Yerabham Praveenkumarreddy is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.291441
+description: "Yerabham Praveenkumarreddy is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240573
 url: "/cdr-researcher-census/researchers/yerabham-praveenkumarreddy-a5065716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,035 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 1,056 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Sanghamitra Mohapatra"
 description: "Sanghamitra Mohapatra is a Mid-career Biochar researcher at GITAM University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.928605
+date: 2026-09-11T02:38:29.896633
 url: "/cdr-researcher-census/researchers/sanghamitra-mohapatra-a5113880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 215 |
+| Citations | 218 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

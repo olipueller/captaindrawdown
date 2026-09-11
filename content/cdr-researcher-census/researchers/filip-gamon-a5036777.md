@@ -1,7 +1,7 @@
 ---
 title: "Filip Gamoń"
-description: "Filip Gamoń is a Mid-career Biochar researcher at Gdańsk University of Technology in PL. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.793212
+description: "Filip Gamoń is a Mid-career Biochar researcher at Gdańsk University of Technology in PL. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.724610
 url: "/cdr-researcher-census/researchers/filip-gamon-a5036777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 276 |
+| h-index | 10 |
+| Citations | 296 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of paper-mill sludge laden with 2-chlorotoluene using hydroxyapatite@biochar nanocomposite to enrich methanogenic community: A techno-economic approach** (2024)
-   6 citations · Biochar
+   8 citations · Biochar
 
 2. **Closed-loop upcycling of sewage sludge products into sp2-C-rich electrodes for pollutant oxidation: tracking mineralization by 14C-labeling** (2025)
    2 citations · Biochar

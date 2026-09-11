@@ -1,7 +1,7 @@
 ---
 title: "Cipriano Díaz-Gaona"
-description: "Cipriano Díaz-Gaona is a Mid-career General CDR researcher at University of Córdoba in ES. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.477135
+description: "Cipriano Díaz-Gaona is a Mid-career General CDR researcher. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.416515
 url: "/cdr-researcher-census/researchers/cipriano-diaz-gaona-a5032103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Cipriano D\u00edaz-Gaona",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/cipriano-diaz-gaona-a5032103/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of C\u00f3rdoba"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-2110-0986",
     "https://openalex.org/A5032103091"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Cipriano Díaz-Gaona**  
-University of Córdoba · 🇪🇸 ES
+**Cipriano Díaz-Gaona**
 
 **Career Stage:** Mid-career
 
@@ -43,18 +38,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 550 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 583 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration offsets a large share of GHG emissions in dehesa cattle production** (2022)
-   47 citations · General CDR
+   48 citations · General CDR
 
 2. **Free-range acorn feeding results in negative carbon footprint of Iberian pig production in the dehesa agro-forestry system** (2023)
-   23 citations
+   24 citations
 
 3. **Management of sheep and goats for a negative carbon footprint in extensive production systems** (2025)
    0 citations · General CDR

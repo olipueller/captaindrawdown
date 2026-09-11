@@ -1,7 +1,7 @@
 ---
 title: "Gregory Möller"
-description: "Gregory Möller is a Senior Biochar researcher at University of Idaho in US. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.211046
+description: "Gregory Möller is a Senior Biochar researcher at University of Idaho in US. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.161301
 url: "/cdr-researcher-census/researchers/gregory-moller-a5027782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,565 |
-| Publications | 55 |
-| CDR Focus | 14.5% |
+| Citations | 1,586 |
+| Publications | 56 |
+| CDR Focus | 14.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Reactivity of Fe-amended biochar for phosphorus removal and recycling from wastewater** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Biochar‐integrated reactive filtration of wastewater for P removal and recovery, micropollutant catalytic oxidation, and negative CO<sub>2</sub>e: Life cycle assessment and techno‐economic analysis** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Phosphorus availability and speciation in soils amended with upcycled dairy-waste nutrients** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Biochar integrated reactive filtration of wastewater for P removal and recovery, micropollutant catalytic oxidation, and negative CO<sub>2</sub>e: Process operation and mechanism** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Iron–ozone catalytic oxidation reactive filtration of municipal wastewater at field pilot and full‐scale with high‐efficiency pollutant removal and potential negative CO<sub>2</sub>e with biochar** (2023)
    7 citations · Biochar
@@ -69,7 +69,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations · Biochar
 
 7. **Availability of Recycled Phosphorus on Biochar Reacted with Wastewater to Support Growth of Lactuca sativa** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 8. **Biomimetic crossflow filtration with wave minimal surface geometry for particulate biochar water treatment** (2023)
    2 citations · Biochar

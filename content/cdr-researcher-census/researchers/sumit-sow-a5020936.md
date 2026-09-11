@@ -1,7 +1,7 @@
 ---
 title: "Sumit Sow"
-description: "Sumit Sow is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 83 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.494302
+description: "Sumit Sow is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 84 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.411181
 url: "/cdr-researcher-census/researchers/sumit-sow-a5020936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 524 |
-| Publications | 83 |
+| Citations | 591 |
+| Publications | 84 |
 | CDR Focus | 6.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Influence of 36 years of integrated nutrient management on soil carbon sequestration, environmental footprint and agronomic productivity of wheat under rice-wheat cropping system** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 3. **Trash Amended with Trichoderma Effects on Cane Yield, Soil Carbon Dynamics, and Enzymatic Activities under Plant–Ratoon System of Sugarcane in Calcareous Soil** (2024)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Andrés F. Clarens"
-description: "Andrés F. Clarens is a Senior General CDR researcher at University of Virginia in US. With 151 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.095105
+description: "Andrés F. Clarens is a Senior General CDR researcher at University of Virginia in US. With 148 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.046398
 url: "/cdr-researcher-census/researchers/andres-f-clarens-a5019693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 5,313 |
-| Publications | 151 |
-| CDR Focus | 7.3% |
+| h-index | 34 |
+| Citations | 5,385 |
+| Publications | 148 |
+| CDR Focus | 7.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   199 citations · General CDR
+   202 citations · General CDR
 
 2. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
    112 citations · DAC
@@ -62,11 +62,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Life cycle meta-analysis of carbon capture pathways in power plants: Implications for bioenergy with carbon capture and storage** (2021)
    17 citations · BECCS
 
-5. **Regional implications of carbon dioxide removal in meeting net zero targets for the United States** (2023)
-   11 citations · DAC
+5. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
+   13 citations · DAC
 
-6. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
-   10 citations · DAC
+6. **Regional implications of carbon dioxide removal in meeting net zero targets for the United States** (2023)
+   11 citations · DAC
 
 7. **The impact of regional resources and technology availability on carbon dioxide removal potential in the United States** (2024)
    9 citations · General CDR

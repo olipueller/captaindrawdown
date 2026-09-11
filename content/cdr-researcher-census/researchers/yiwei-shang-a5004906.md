@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Shang"
 description: "Yiwei Shang is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.766916
+date: 2026-09-11T02:38:29.698041
 url: "/cdr-researcher-census/researchers/yiwei-shang-a5004906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 290 |
+| Citations | 310 |
 | Publications | 27 |
 | CDR Focus | 18.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial cropping systems increased topsoil carbon and nitrogen stocks over annual systems—a nine-year field study** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Perennial Cropping Systems Increased Soil Carbon and Nitrogen Stocks Over Annual Systems – a Nine-Year Field Study** (2023)
    1 citations · Soil Carbon

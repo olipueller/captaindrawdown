@@ -1,7 +1,7 @@
 ---
 title: "Zhongming Zhao"
-description: "Zhongming Zhao is a Senior General CDR researcher at King's College London in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.422811
+description: "Zhongming Zhao is an Early-career General CDR researcher at King's College London in GB. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.351645
 url: "/cdr-researcher-census/researchers/zhongming-zhao-a5016084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Zhongming Zhao**  
 King's College London · 🇬🇧 GB
 
-**Career Stage:** Senior
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 100 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| Citations | 108 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Bundling evaluating changes in ecosystem service under karst rocky desertification restoration: projects a case study of Huajiang-Guanling, Guizhou province, Southwest China** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 ## External Profiles
 

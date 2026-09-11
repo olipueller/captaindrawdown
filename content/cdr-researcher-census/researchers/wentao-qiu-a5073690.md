@@ -1,7 +1,7 @@
 ---
 title: "Wentao Qiu"
-description: "Wentao Qiu is a Senior Soil Carbon researcher at Wuhan University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.681076
+description: "Wentao Qiu is a Senior Soil Carbon researcher at Wuhan University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.616841
 url: "/cdr-researcher-census/researchers/wentao-qiu-a5073690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 344 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 365 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

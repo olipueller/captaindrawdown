@@ -1,7 +1,7 @@
 ---
 title: "Ednaldo A. Borgato"
-description: "Ednaldo A. Borgato is a Mid-career Biochar researcher at University of Florida in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975374
+description: "Ednaldo A. Borgato is a Mid-career Biochar researcher at Florida Department of Education in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.900407
 url: "/cdr-researcher-census/researchers/ednaldo-a-borgato-a5052668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ednaldo-a-borgato-a5052668/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Florida"
+    "name": "Florida Department of Education"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-1658-8387",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ednaldo A. Borgato**  
-University of Florida · 🇺🇸 US
+Florida Department of Education · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 205 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 217 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar As a Sustainable Strategy for Improving Nutrient Use Efficiency and Crop Performance** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

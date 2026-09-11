@@ -1,7 +1,7 @@
 ---
 title: "Qingyang Shao"
-description: "Qingyang Shao is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.420298
+description: "Qingyang Shao is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.317489
 url: "/cdr-researcher-census/researchers/qingyang-shao-a5102528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 100 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 114 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   26 citations
+   29 citations
 
 2. **Enhancing adsorbent performance for direct air capture of CO2 by in-situ amine-grafting of layered double hydroxides** (2024)
-   20 citations
+   22 citations
 
 3. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
-   9 citations
+   10 citations
 
 4. **Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures** (2026)
    0 citations · DAC

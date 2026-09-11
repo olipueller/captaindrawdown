@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Zaheer"
 description: "Sajjad Zaheer is a Senior Biochar researcher at The University of Agriculture, Peshawar in PK. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.764114
+date: 2026-09-11T02:38:29.714486
 url: "/cdr-researcher-census/researchers/sajjad-zaheer-a5003066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 291 |
+| Citations | 301 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

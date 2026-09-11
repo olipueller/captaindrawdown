@@ -1,7 +1,7 @@
 ---
 title: "Levi Larsen"
-description: "Levi Larsen is a Mid-career DAC researcher at Norwegian University of Science and Technology in NO. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.255858
+description: "Levi Larsen is a Senior DAC researcher at Norwegian University of Science and Technology in NO. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.193733
 url: "/cdr-researcher-census/researchers/levi-larsen-a5073239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Levi Larsen**  
 Norwegian University of Science and Technology · 🇳🇴 NO
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
+| Citations | 138 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

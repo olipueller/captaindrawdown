@@ -1,7 +1,7 @@
 ---
 title: "Mikel Munárriz"
-description: "Mikel Munárriz is a Mid-career Biochar researcher at Universidad Publica de Navarra in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.141977
+description: "Mikel Munárriz is a Mid-career Biochar researcher at Universidad Pública de Navarra (UPNA) in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.104400
 url: "/cdr-researcher-census/researchers/mikel-munarriz-a5030102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mikel-munarriz-a5030102/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidad Publica de Navarra"
+    "name": "Universidad P\u00fablica de Navarra (UPNA)"
   },
   "sameAs": "https://openalex.org/A5030102029"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mikel Munárriz**  
-Universidad Publica de Navarra · 🇪🇸 ES
+Universidad Pública de Navarra (UPNA) · 🇪🇸 ES
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 156 |
+| Citations | 159 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

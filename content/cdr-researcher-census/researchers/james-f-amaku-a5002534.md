@@ -1,7 +1,7 @@
 ---
 title: "James F. Amaku"
 description: "James F. Amaku is a Mid-career Biochar researcher at Michael Okpara University of Agriculture in NG. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.246774
+date: 2026-09-11T02:38:29.188539
 url: "/cdr-researcher-census/researchers/james-f-amaku-a5002534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,280 |
+| Citations | 1,369 |
 | Publications | 61 |
 | CDR Focus | 6.6% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from coconut residues: An overview of production, properties, and applications** (2023)
-   101 citations · Biochar
+   106 citations · Biochar
 
 2. **Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents** (2022)
-   41 citations · Biochar
+   42 citations · Biochar
 
 3. **Aqueous phase adsorption of aromatic organoarsenic compounds: A review** (2022)
-   38 citations
+   40 citations
 
 4. **Facile synthesis of ZnONP/carbon-coated-eggshell nanocomposite: fast and efficient adsorbents for amoxicillin sequestration** (2025)
    2 citations · Biochar

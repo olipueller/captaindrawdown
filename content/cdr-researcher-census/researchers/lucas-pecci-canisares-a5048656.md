@@ -1,7 +1,7 @@
 ---
 title: "Lucas Pecci Canisares"
-description: "Lucas Pecci Canisares is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.501530
+description: "Lucas Pecci Canisares is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.419043
 url: "/cdr-researcher-census/researchers/lucas-pecci-canisares-a5048656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 512 |
-| Publications | 48 |
-| CDR Focus | 22.9% |
+| h-index | 13 |
+| Citations | 579 |
+| Publications | 51 |
+| CDR Focus | 17.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   52 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Litter quality and living roots affected the formation of new mineral-associated organic carbon but did not affect total mineral-associated organic carbon in a short-term incubation** (2022)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
-3. **Soil carbon stocks in sugarcane cultivation: An evidence synthesis associated with land use and management practices** (2024)
+3. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
    7 citations · Soil Carbon
 
-4. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   6 citations · Soil Carbon
+4. **Soil carbon stocks in sugarcane cultivation: An evidence synthesis associated with land use and management practices** (2024)
+   7 citations · Soil Carbon
 
 5. **Drivers of carbon stabilization and sequestration in Brazil’s black soils** (2024)
    4 citations
 
 6. **Above- and belowground biomass production in maize-tropical forages intercropping systems** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 7. **Soil carbon storage in Brazilian drylands: A review** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "César Suárez"
 description: "César Suárez is a Mid-career Soil Carbon researcher at Universidad Ecotec in EC. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.925629
+date: 2026-09-11T02:38:29.892201
 url: "/cdr-researcher-census/researchers/cesar-suarez-a5055966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 217 |
+| Citations | 221 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration efficiency of urban mangroves: The role of native vs. introduced species** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

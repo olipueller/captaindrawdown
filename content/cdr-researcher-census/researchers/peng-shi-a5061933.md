@@ -1,7 +1,7 @@
 ---
 title: "Peng Shi"
-description: "Peng Shi is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 77 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.204268
+description: "Peng Shi is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 81 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.152062
 url: "/cdr-researcher-census/researchers/peng-shi-a5061933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,624 |
-| Publications | 77 |
-| CDR Focus | 6.5% |
+| Citations | 1,684 |
+| Publications | 81 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of vegetation restoration on soil organic carbon in the Loess Plateau: A meta‐analysis** (2022)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Effects of forest type on carbon storage in the hilly region of Loess Plateau, China** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 3. **Mechanisms of Soil Inorganic Carbon Migration and <scp> CO <sub>2</sub> </scp> Exchange in Arid and Semi‐Arid Regions** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **How to improve carbon sequestration through vegetation restoration in arid mining areas** (2025)
    0 citations · Soil Carbon

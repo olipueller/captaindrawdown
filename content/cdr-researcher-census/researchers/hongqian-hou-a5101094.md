@@ -1,7 +1,7 @@
 ---
 title: "Hongqian Hou"
-description: "Hongqian Hou is a Senior Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.544693
+description: "Hongqian Hou is a Senior Soil Carbon researcher at Experimental Station in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.473811
 url: "/cdr-researcher-census/researchers/hongqian-hou-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongqian-hou-a5101094/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangxi Institute of Red Soil"
+    "name": "Experimental Station"
   },
   "sameAs": "https://openalex.org/A5101094355"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongqian Hou**  
-Jiangxi Institute of Red Soil · 🇨🇳 CN
+Experimental Station · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 462 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| Citations | 497 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of long-term manure substitution regimes on soil organic carbon composition in a red paddy soil of southern China** (2022)
-   71 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon

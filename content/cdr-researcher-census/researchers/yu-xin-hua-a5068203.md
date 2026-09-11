@@ -1,7 +1,7 @@
 ---
 title: "Yu-Xin Hua"
-description: "Yu-Xin Hua is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.317406
+description: "Yu-Xin Hua is a Mid-career Soil Carbon researcher at Jiaxing University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.236182
 url: "/cdr-researcher-census/researchers/yu-xin-hua-a5068203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yu-xin-hua-a5068203/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Lanzhou University"
+    "name": "Jiaxing University"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-0545-5763",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yu-Xin Hua**  
-Lanzhou University · 🇨🇳 CN
+Jiaxing University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 119 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 130 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

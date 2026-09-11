@@ -1,7 +1,7 @@
 ---
 title: "Priscila Silva Matos"
-description: "Priscila Silva Matos is a Mid-career Soil Carbon researcher at James Hutton Institute in GB. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795023
+description: "Priscila Silva Matos is a Mid-career Soil Carbon researcher at James Hutton Institute in GB. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.744058
 url: "/cdr-researcher-census/researchers/priscila-silva-matos-a5051609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 275 |
+| h-index | 9 |
+| Citations | 286 |
 | Publications | 37 |
 | CDR Focus | 13.5% |
 | Trajectory | Declining |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Short term effects in soil quality under different cover crops of no tillage vegetables organic production in fragile soils in Southeastern Brazil** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Carbon patterns and soil quality in fragile soils under sustainable soil management in organic systems of Southeastern Brazil: Short-term assessment** (2026)
    0 citations · Soil Carbon

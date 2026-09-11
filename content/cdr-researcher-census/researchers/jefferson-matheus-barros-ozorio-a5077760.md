@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Matheus Barros Ozório"
-description: "Jefferson Matheus Barros Ozório is a Mid-career Soil Carbon researcher at Universidade Estadual de Mato Grosso do Sul in BR. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.058311
+description: "Jefferson Matheus Barros Ozório is a Mid-career Soil Carbon researcher at European Union of Medical Specialists in BE. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.997371
 url: "/cdr-researcher-census/researchers/jefferson-matheus-barros-ozorio-a5077760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jefferson-matheus-barros-ozorio-a5077760/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade Estadual de Mato Grosso do Sul"
+    "name": "European Union of Medical Specialists"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7836-7668",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jefferson Matheus Barros Ozório**  
-Universidade Estadual de Mato Grosso do Sul · 🇧🇷 BR
+European Union of Medical Specialists · 🇧🇪 BE
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 180 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
+| Citations | 191 |
+| Publications | 41 |
+| CDR Focus | 9.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Black soils in the southwest of the Brazilian Pantanal: Organic carbon and secondary carbonates accumulation in Phaeozems–Gleysol-Chernozem** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Chemical and Spectroscopic Characteristics of Humic Acids Under No-Tillage and Forest Systems** (2023)
    5 citations · Soil Carbon

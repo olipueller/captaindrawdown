@@ -1,7 +1,7 @@
 ---
 title: "Mitsutoshi Tomotsune"
 description: "Mitsutoshi Tomotsune is a Mid-career Biochar researcher at Tamagawa University in JP. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.534489
+date: 2026-09-11T02:38:29.483365
 url: "/cdr-researcher-census/researchers/mitsutoshi-tomotsune-a5024699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 472 |
+| Citations | 486 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

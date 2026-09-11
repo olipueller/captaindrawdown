@@ -1,7 +1,7 @@
 ---
 title: "Zhu Chen"
-description: "Zhu Chen is a Senior Enhanced Weathering researcher at Tsinghua University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.378359
+description: "Zhu Chen is a Senior Enhanced Weathering researcher at Institute of Applied Physics and Computational Mathematics in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.334252
 url: "/cdr-researcher-census/researchers/zhu-chen-a5100449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhu-chen-a5100449/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tsinghua University"
+    "name": "Institute of Applied Physics and Computational Mathematics"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0545-3036",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhu Chen**  
-Tsinghua University · 🇨🇳 CN
+Institute of Applied Physics and Computational Mathematics · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 737 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 747 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

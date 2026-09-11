@@ -1,7 +1,7 @@
 ---
 title: "M. Rodríguez"
-description: "M. Rodríguez is a Senior Biochar researcher at University of California, Riverside in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.282929
+description: "M. Rodríguez is a Senior Biochar researcher at University of California, Merced in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.241164
 url: "/cdr-researcher-census/researchers/m-rodriguez-a5087166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/m-rodriguez-a5087166/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California, Riverside"
+    "name": "University of California, Merced"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-2384-5182",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **M. Rodríguez**  
-University of California, Riverside · 🇺🇸 US
+University of California, Merced · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 129 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

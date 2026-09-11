@@ -1,7 +1,7 @@
 ---
 title: "Chelsea J. Mitchell"
-description: "Chelsea J. Mitchell is a Mid-career Biochar researcher at Pioneer (United States) in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911880
+description: "Chelsea J. Mitchell is a Mid-career Biochar researcher at GC Systems (United States) in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.846754
 url: "/cdr-researcher-census/researchers/chelsea-j-mitchell-a5027542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chelsea-j-mitchell-a5027542/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pioneer (United States)"
+    "name": "GC Systems (United States)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1247-2975",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chelsea J. Mitchell**  
-Pioneer (United States) · 🇺🇸 US
+GC Systems (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 221 |
+| h-index | 8 |
+| Citations | 237 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

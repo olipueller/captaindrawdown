@@ -1,7 +1,7 @@
 ---
 title: "Sifatun Nur"
 description: "Sifatun Nur is a Mid-career Ocean CDR researcher at Rangamati Science and Technology University in BD. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.241940
+date: 2026-09-11T02:38:30.174754
 url: "/cdr-researcher-census/researchers/sifatun-nur-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 133 |
+| Citations | 143 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

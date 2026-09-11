@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Ali"
-description: "Ahsan Ali is a Senior Enhanced Weathering researcher at Sultan Qaboos University in OM. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.101622
+description: "Ahsan Ali is a Senior Enhanced Weathering researcher at University of New Mexico in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.069233
 url: "/cdr-researcher-census/researchers/ahsan-ali-a5075110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ahsan-ali-a5075110/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sultan Qaboos University"
+    "name": "University of New Mexico"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9476-2043",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ahsan Ali**  
-Sultan Qaboos University ·  OM
+University of New Mexico · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 167 |
+| Citations | 170 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

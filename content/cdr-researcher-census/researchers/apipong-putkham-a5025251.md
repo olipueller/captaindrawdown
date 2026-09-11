@@ -1,7 +1,7 @@
 ---
 title: "Apipong Putkham"
-description: "Apipong Putkham is a Senior Biochar researcher at Mahasarakham University in TH. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.445927
+description: "Apipong Putkham is a Senior Biochar researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.418504
 url: "/cdr-researcher-census/researchers/apipong-putkham-a5025251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Apipong Putkham",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/apipong-putkham-a5025251/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Mahasarakham University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0158-017X",
     "https://openalex.org/A5025251844"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Apipong Putkham**  
-Mahasarakham University · 🇹🇭 TH
+**Apipong Putkham**
 
 **Career Stage:** Senior
 
@@ -42,10 +37,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 599 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| h-index | 7 |
+| Citations | 580 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

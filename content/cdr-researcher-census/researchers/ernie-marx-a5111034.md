@@ -1,7 +1,7 @@
 ---
 title: "Ernie Marx"
 description: "Ernie Marx is a Mid-career Soil Carbon researcher at Colorado State University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.396646
+date: 2026-09-11T02:38:29.348098
 url: "/cdr-researcher-census/researchers/ernie-marx-a5111034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 696 |
+| Citations | 712 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modeling Yield, Biogenic Emissions, and Carbon Sequestration in Southeastern Cropping Systems With Winter Carinata** (2022)
-   19 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

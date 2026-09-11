@@ -1,7 +1,7 @@
 ---
 title: "Nadejda Victor"
-description: "Nadejda Victor is a Senior General CDR researcher at IIASA in AT. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105451
+description: "Nadejda Victor is a Senior General CDR researcher at IIASA in AT. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.056851
 url: "/cdr-researcher-census/researchers/nadejda-victor-a5091015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 4,389 |
-| Publications | 38 |
-| CDR Focus | 15.8% |
+| h-index | 18 |
+| Citations | 4,365 |
+| Publications | 37 |
+| CDR Focus | 16.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
-   18 citations · DAC
+   20 citations · DAC
 
 2. **Is the industrial sector hard to decarbonize or hard to model? A comparative analysis of industrial modeling and net zero carbon dioxide pathways** (2025)
    13 citations · General CDR
 
 3. **Impact of carbon dioxide removal technologies on deep decarbonization: EMF37 MARKAL–NETL modeling results** (2024)
-   4 citations · BECCS
+   5 citations · BECCS
 
 4. **Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study** (2025)
    2 citations · BECCS

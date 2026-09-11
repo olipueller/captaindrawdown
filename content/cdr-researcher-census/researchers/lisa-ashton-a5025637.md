@@ -1,7 +1,7 @@
 ---
 title: "Lisa Ashton"
-description: "Lisa Ashton is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.067799
+description: "Lisa Ashton is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.013866
 url: "/cdr-researcher-census/researchers/lisa-ashton-a5025637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 177 |
+| h-index | 6 |
+| Citations | 186 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in Canada's croplands: a review of multiple disciplines influencing the science–policy interface** (2023)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

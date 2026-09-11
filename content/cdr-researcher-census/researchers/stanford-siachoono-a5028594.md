@@ -1,7 +1,7 @@
 ---
 title: "Stanford Siachoono"
 description: "Stanford Siachoono is a Mid-career General CDR researcher at Copperbelt University in ZM. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.215450
+date: 2026-09-11T02:38:30.152420
 url: "/cdr-researcher-census/researchers/stanford-siachoono-a5028594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 139 |
+| Citations | 148 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Jorgelina Huidobro"
 description: "Jorgelina Huidobro is a Mid-career Soil Carbon researcher at National University of Salta in AR. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.786185
+date: 2026-09-11T02:38:29.744260
 url: "/cdr-researcher-census/researchers/jorgelina-huidobro-a5014938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 280 |
+| Citations | 286 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration of degraded soils with perennial pastures shifts soil microbial communities and enhances soil structure** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Short-term service crops affect the spatial organization of soil aggregates, microbial C N biomass, and microbial activities in a degraded monoculture system** (2024)
    8 citations · Soil Carbon

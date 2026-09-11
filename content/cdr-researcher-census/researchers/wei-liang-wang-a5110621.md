@@ -1,7 +1,7 @@
 ---
 title: "Wei Liang Wang"
 description: "Wei Liang Wang is a Mid-career Biochar researcher at Qingdao University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.980264
+date: 2026-09-11T02:38:29.950333
 url: "/cdr-researcher-census/researchers/wei-liang-wang-a5110621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 203 |
+| Citations | 205 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and Characterization of Phosphoric Acid-Modified Biochar Nanomaterials with Highly Efficient Adsorption and Photodegradation Ability** (2021)
-   36 citations · Biochar
+   37 citations · Biochar
 
 ## External Profiles
 

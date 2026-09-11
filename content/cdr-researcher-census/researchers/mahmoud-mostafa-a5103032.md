@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Mostafa"
 description: "Mahmoud Mostafa is a Senior DAC researcher at University of Bremen in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592793
+date: 2026-09-11T02:38:29.534790
 url: "/cdr-researcher-census/researchers/mahmoud-mostafa-a5103032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 415 |
+| Citations | 434 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

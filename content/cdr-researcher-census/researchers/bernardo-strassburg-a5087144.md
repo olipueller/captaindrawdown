@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Strassburg"
-description: "Bernardo Strassburg is a Mid-career Biochar researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404198
+description: "Bernardo Strassburg is a Mid-career Biochar researcher at International Institute for Sustainability in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.353964
 url: "/cdr-researcher-census/researchers/bernardo-strassburg-a5087144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bernardo-strassburg-a5087144/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
+    "name": "International Institute for Sustainability"
   },
   "sameAs": "https://openalex.org/A5087144847"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Bernardo Strassburg**  
-Pontifícia Universidade Católica do Rio de Janeiro · 🇧🇷 BR
+International Institute for Sustainability · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 680 |
+| Citations | 702 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

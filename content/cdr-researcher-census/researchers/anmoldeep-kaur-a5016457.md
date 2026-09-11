@@ -1,7 +1,7 @@
 ---
 title: "Anmoldeep Kaur"
 description: "Anmoldeep Kaur is a Mid-career General CDR researcher at Government Medical College, Amritsar in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.119774
+date: 2026-09-11T02:38:30.052293
 url: "/cdr-researcher-census/researchers/anmoldeep-kaur-a5016457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 162 |
+| Citations | 174 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

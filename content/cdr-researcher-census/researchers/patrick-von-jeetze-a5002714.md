@@ -1,7 +1,7 @@
 ---
 title: "Patrick von Jeetze"
-description: "Patrick von Jeetze is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.347579
+description: "Patrick von Jeetze is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.290831
 url: "/cdr-researcher-census/researchers/patrick-von-jeetze-a5002714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,26 +34,35 @@ Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 823 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
-| Trajectory | Stable |
+| Citations | 867 |
+| Publications | 43 |
+| CDR Focus | 11.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
    12 citations · General CDR
 
-2. **Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways** (2026)
+2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
+
+3. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
+
+4. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
+   0 citations · BECCS
+
+5. **Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways** (2026)
    0 citations · General CDR
 
 ## External Profiles

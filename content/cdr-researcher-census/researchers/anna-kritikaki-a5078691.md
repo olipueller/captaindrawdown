@@ -1,7 +1,7 @@
 ---
 title: "Anna Kritikaki"
 description: "Anna Kritikaki is a Senior Biochar researcher at Technical University of Crete in GR. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849169
+date: 2026-09-11T02:38:29.809095
 url: "/cdr-researcher-census/researchers/anna-kritikaki-a5078691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 247 |
+| Citations | 254 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Impact of Sewage-Sludge- and Olive-Mill-Waste-Derived Biochar Amendments to Tomato Cultivation** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

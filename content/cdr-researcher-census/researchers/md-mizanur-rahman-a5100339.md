@@ -1,7 +1,7 @@
 ---
 title: "Md. Mizanur Rahman"
 description: "Md. Mizanur Rahman is a Mid-career Biochar researcher at Bangladesh Agricultural Research Institute in BD. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.356071
+date: 2026-09-11T02:38:30.332049
 url: "/cdr-researcher-census/researchers/md-mizanur-rahman-a5100339/"
 layout: "researcher"
 hiddenInHomeList: true

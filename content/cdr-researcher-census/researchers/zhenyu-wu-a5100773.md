@@ -1,7 +1,7 @@
 ---
 title: "Zhenyu Wu"
-description: "Zhenyu Wu is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.876733
+description: "Zhenyu Wu is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.817647
 url: "/cdr-researcher-census/researchers/zhenyu-wu-a5100773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 235 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 250 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis of novel magnetic activated carbon for effective Cr(VI) removal via synergistic adsorption and chemical reduction** (2023)
-   78 citations · Biochar
+   79 citations · Biochar
 
 2. **Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms** (2023)
    17 citations · Biochar

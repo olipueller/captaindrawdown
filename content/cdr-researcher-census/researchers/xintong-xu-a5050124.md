@@ -1,7 +1,7 @@
 ---
 title: "Xintong Xu"
-description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.346148
+description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.293067
 url: "/cdr-researcher-census/researchers/xintong-xu-a5050124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 828 |
-| Publications | 48 |
-| CDR Focus | 12.5% |
+| h-index | 18 |
+| Citations | 860 |
+| Publications | 50 |
+| CDR Focus | 12.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    62 citations · Biochar
 
 2. **Biochar single application and reapplication decreased soil greenhouse gas and nitrogen oxide emissions from rice–wheat rotation: A three-year field observation** (2023)
-   44 citations · Biochar
+   46 citations · Biochar
 
 3. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
    19 citations · Soil Carbon
 
 4. **General patterns of soil nutrient stoichiometry, microbial metabolic limitation and carbon use efficiency in paddy and vegetable fields along a climatic transect of eastern China** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Tree species diversity enhances dark microbial CO2 fixation rates in soil of a subtropical forest** (2025)
    1 citations · Soil Carbon

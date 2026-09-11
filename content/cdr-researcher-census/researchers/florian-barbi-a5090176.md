@@ -1,7 +1,7 @@
 ---
 title: "Florian Barbi"
-description: "Florian Barbi is a Mid-career Soil Carbon researcher at Institute of Microbiology in BY. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.705021
+description: "Florian Barbi is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.630171
 url: "/cdr-researcher-census/researchers/florian-barbi-a5090176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/florian-barbi-a5090176/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Microbiology"
+    "name": "Swedish University of Agricultural Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5547-935X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Florian Barbi**  
-Institute of Microbiology ·  BY
+Swedish University of Agricultural Sciences · 🇸🇪 SE
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 327 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| h-index | 10 |
+| Citations | 355 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Contrasting stability of fungal and bacterial communities during long-term decomposition of fungal necromass in Arctic tundra** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

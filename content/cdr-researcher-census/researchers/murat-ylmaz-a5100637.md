@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
-description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 137 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.119753
+description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 140 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.068281
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 40 |
-| Citations | 3,543 |
-| Publications | 137 |
-| CDR Focus | 6.6% |
+| h-index | 41 |
+| Citations | 3,691 |
+| Publications | 140 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   121 citations · Biochar
+   122 citations · Biochar
 
 2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   91 citations · Biochar
+   93 citations · Biochar
 
 3. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
-   58 citations · Biochar
+   59 citations · Biochar
 
 4. **KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution** (2024)
-   46 citations · Biochar
+   48 citations · Biochar
 
 5. **Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon** (2023)
    44 citations · Biochar
@@ -75,7 +75,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    4 citations · Biochar
 
 9. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

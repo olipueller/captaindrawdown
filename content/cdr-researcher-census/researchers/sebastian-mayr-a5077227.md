@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Mayr"
-description: "Sebastian Mayr is a Senior General CDR researcher at University of Freiburg in DE. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.367945
+description: "Sebastian Mayr is a Senior General CDR researcher at University of Freiburg in DE. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.322267
 url: "/cdr-researcher-census/researchers/sebastian-mayr-a5077227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 109 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 113 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Scaling agroforestry through payments for ecosystem services: a scoping review** (2025)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **Agroforestry as land-based carbon dioxide removal in central Europe: tensions between institutions, interests, and ideas hindering scaling up** (2025)
    6 citations · General CDR

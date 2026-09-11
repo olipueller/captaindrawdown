@@ -1,7 +1,7 @@
 ---
 title: "Yangfeng Wu"
-description: "Yangfeng Wu is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.837310
+description: "Yangfeng Wu is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.752666
 url: "/cdr-researcher-census/researchers/yangfeng-wu-a5068461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 253 |
+| h-index | 8 |
+| Citations | 281 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Selective recovery of precious metals from E-waste leachates using zinc-modified biochar in capacitive deionization** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

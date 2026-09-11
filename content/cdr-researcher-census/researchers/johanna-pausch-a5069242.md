@@ -1,7 +1,7 @@
 ---
 title: "Johanna Pausch"
-description: "Johanna Pausch is a Senior Soil Carbon researcher at University of Bayreuth in DE. With 149 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.096636
+description: "Johanna Pausch is a Senior Soil Carbon researcher at University of Bayreuth in DE. With 154 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.047376
 url: "/cdr-researcher-census/researchers/johanna-pausch-a5069242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 38 |
-| Citations | 5,082 |
-| Publications | 149 |
-| CDR Focus | 6.7% |
+| h-index | 39 |
+| Citations | 5,226 |
+| Publications | 154 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term continuous farmyard manure application increases soil carbon when combined with mineral fertilizers due to lower priming effects** (2022)
-   66 citations
+   70 citations
 
 2. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
    33 citations · Soil Carbon
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 4. **Vegetation transition from meadow to forest reduces priming effect on SOM decomposition** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 5. **Soil organic carbon and nitrogen in aggregates in response to over seven decades of farmyard manure application** (2023)
    8 citations · Soil Carbon
 
 6. **Moderate Drought Constrains Crop Growth Without Altering Soil Organic Carbon Dynamics in Perennial Cup‐Plant and Silage Maize** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 7. **Kohlenstoffsequestrierung im Boden bei extensiv genutzten Wiesen** (2026)
    0 citations

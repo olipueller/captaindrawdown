@@ -1,7 +1,7 @@
 ---
 title: "Ignatius Adekunle Owokotomo"
 description: "Ignatius Adekunle Owokotomo is a Mid-career Biochar researcher at Federal University of Technology in NG. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636143
+date: 2026-09-11T02:38:29.590581
 url: "/cdr-researcher-census/researchers/ignatius-adekunle-owokotomo-a5047334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 377 |
+| Citations | 384 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   91 citations · Biochar
+   93 citations · Biochar
 
 2. **Characterization of prepared eco-friendly biochar from almond (Terminalia catappa L) leaf for sequestration of bromophenol blue (BPB) from aqueous solution** (2021)
-   67 citations
+   68 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tharun Roshan Kumar"
 description: "Tharun Roshan Kumar is a Mid-career General CDR researcher at Chalmers University of Technology in SE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.264788
+date: 2026-09-11T02:38:30.212038
 url: "/cdr-researcher-census/researchers/tharun-roshan-kumar-a5040398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 128 |
+| Citations | 134 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Plant and system-level performance of combined heat and power plants equipped with different carbon capture technologies** (2023)
-   34 citations · BECCS
+   35 citations · BECCS
 
 2. **Integration of sorbent-based direct air capture into combined heat and power plants with post-combustion carbon capture** (2025)
-   7 citations
+   8 citations
 
 3. **A million scenarios to identify conditions for robust bioenergy carbon capture in Sweden** (2025)
    2 citations

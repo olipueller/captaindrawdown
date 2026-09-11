@@ -1,7 +1,7 @@
 ---
 title: "ChulOong Kim"
 description: "ChulOong Kim is a Mid-career General CDR researcher at Colorado School of Mines in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.414784
+date: 2026-09-11T02:38:30.383928
 url: "/cdr-researcher-census/researchers/chuloong-kim-a5062362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 102 |
+| Citations | 103 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

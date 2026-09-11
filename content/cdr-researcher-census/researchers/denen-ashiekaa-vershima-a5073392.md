@@ -1,7 +1,7 @@
 ---
 title: "Denen Ashiekaa Vershima"
 description: "Denen Ashiekaa Vershima is an Early-career General CDR researcher at Covenant University in NG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.902679
+date: 2026-09-11T02:38:29.873425
 url: "/cdr-researcher-census/researchers/denen-ashiekaa-vershima-a5073392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 224 |
+| Citations | 227 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advanced techniques for the capturing and separation of CO2 – A review** (2022)
-   127 citations · General CDR
+   129 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Inés Moreno"
-description: "Inés Moreno is a Senior Biochar researcher. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.286181
+description: "Inés Moreno is a Senior Biochar researcher at Madrid Institute for Advanced Studies in ES. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.233943
 url: "/cdr-researcher-census/researchers/ines-moreno-a5111232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "In\u00e9s Moreno",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ines-moreno-a5111232/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Madrid Institute for Advanced Studies"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-1568-265X",
     "https://openalex.org/A5111232182"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Inés Moreno**
+**Inés Moreno**  
+Madrid Institute for Advanced Studies · 🇪🇸 ES
 
 **Career Stage:** Senior
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,062 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 1,087 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

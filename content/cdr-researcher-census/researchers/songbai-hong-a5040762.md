@@ -1,7 +1,7 @@
 ---
 title: "Songbai Hong"
-description: "Songbai Hong is a Mid-career Soil Carbon researcher at Peking University in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.187626
+description: "Songbai Hong is a Senior Soil Carbon researcher at Peking University in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.130938
 url: "/cdr-researcher-census/researchers/songbai-hong-a5040762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Songbai Hong**  
 Peking University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,815 |
-| Publications | 58 |
-| CDR Focus | 6.9% |
+| h-index | 20 |
+| Citations | 1,946 |
+| Publications | 61 |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Asymmetry of carbon sequestrations by plant and soil after forestation regulated by soil nitrogen** (2023)
-   84 citations · Soil Carbon
+   91 citations · Soil Carbon
 
 2. **Contrasting Responses of Soil Inorganic Carbon to Afforestation in Acidic Versus Alkaline Soils** (2021)
    37 citations · Soil Carbon
 
 3. **Effects of Afforestation on Soil Carbon and Nitrogen Accumulation Depend on Initial Soil Nitrogen Status** (2022)
-   17 citations · General CDR
+   20 citations · General CDR
 
 4. **Contrasting responses of soil inorganic carbon to afforestation in acidic versus alkaline soils** (2021)
    1 citations

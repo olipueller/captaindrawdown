@@ -1,7 +1,7 @@
 ---
 title: "Qian Yang"
-description: "Qian Yang is a Senior Soil Carbon researcher at University of Texas at Austin in US. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.253709
+description: "Qian Yang is a Senior Soil Carbon researcher at University of Texas at Austin in US. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203000
 url: "/cdr-researcher-census/researchers/qian-yang-a5085101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,235 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 1,260 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
-   6 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Spatio-temporal evolution and driving mechanism of ecosystem services in typical hilly and gully areas of the loess Plateau: A case study in Yan’an Region, Shaanxi Province** (2025)
-   5 citations
+   6 citations
 
 ## External Profiles
 

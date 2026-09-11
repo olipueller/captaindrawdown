@@ -1,7 +1,7 @@
 ---
 title: "Paul Kinner"
-description: "Paul Kinner is a Mid-career Biochar researcher at Austrian Institute of Technology in AT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.063191
+description: "Paul Kinner is a Mid-career Biochar researcher at AIT Austrian Institute of Technology GmbH in AT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.027453
 url: "/cdr-researcher-census/researchers/paul-kinner-a5067935/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paul-kinner-a5067935/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Austrian Institute of Technology"
+    "name": "AIT Austrian Institute of Technology GmbH"
   },
   "sameAs": "https://openalex.org/A5067935016"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Paul Kinner**  
-Austrian Institute of Technology · 🇦🇹 AT
+AIT Austrian Institute of Technology GmbH · 🇦🇹 AT
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 178 |
+| Citations | 181 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unravelling the process of petroleum hydrocarbon biodegradation in different filter materials of constructed wetlands by stable isotope fractionation and labelling studies** (2021)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

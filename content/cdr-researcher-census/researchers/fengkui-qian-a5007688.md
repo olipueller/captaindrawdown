@@ -1,7 +1,7 @@
 ---
 title: "Fengkui Qian"
-description: "Fengkui Qian is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.608966
+description: "Fengkui Qian is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.549869
 url: "/cdr-researcher-census/researchers/fengkui-qian-a5007688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 399 |
-| Publications | 44 |
-| CDR Focus | 6.8% |
+| Citations | 419 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon

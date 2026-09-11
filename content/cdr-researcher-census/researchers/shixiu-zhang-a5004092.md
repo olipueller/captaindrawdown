@@ -1,7 +1,7 @@
 ---
 title: "Shixiu Zhang"
-description: "Shixiu Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 98 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150410
+description: "Shixiu Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 97 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.100264
 url: "/cdr-researcher-census/researchers/shixiu-zhang-a5004092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 2,459 |
-| Publications | 98 |
-| CDR Focus | 9.2% |
+| h-index | 25 |
+| Citations | 2,505 |
+| Publications | 97 |
+| CDR Focus | 9.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Soil Carbon
 
 2. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   28 citations · Soil Carbon
+   32 citations · Soil Carbon
 
-3. **Contribution of rhizodeposit associated microbial groups to SOC varies with maize growth stages** (2022)
+3. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
+   22 citations · Soil Carbon
+
+4. **Contribution of rhizodeposit associated microbial groups to SOC varies with maize growth stages** (2022)
    21 citations · Soil Carbon
-
-4. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   20 citations · Soil Carbon
 
 5. **Tillage-induced effects on organic carbon in earthworm casts through changes in their physical and structural stability parameters** (2021)
    14 citations · Soil Carbon

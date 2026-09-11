@@ -1,7 +1,7 @@
 ---
 title: "Ítalo Braz Gonçalves de Lima"
-description: "Ítalo Braz Gonçalves de Lima is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.232096
+description: "Ítalo Braz Gonçalves de Lima is a Mid-career Soil Carbon researcher at Universidade Federal de Lavras in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.186762
 url: "/cdr-researcher-census/researchers/italo-braz-goncalves-de-lima-a5043384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/italo-braz-goncalves-de-lima-a5043384/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Illinois Urbana-Champaign"
+    "name": "Universidade Federal de Lavras"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4026-5260",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ítalo Braz Gonçalves de Lima**  
-University of Illinois Urbana-Champaign · 🇺🇸 US
+Universidade Federal de Lavras · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 135 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 140 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

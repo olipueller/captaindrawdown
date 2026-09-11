@@ -1,7 +1,7 @@
 ---
 title: "Sara Vicca"
-description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 265 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.068160
+description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 244 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.020920
 url: "/cdr-researcher-census/researchers/sara-vicca-a5006929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 57 |
-| Citations | 17,164 |
-| Publications | 265 |
-| CDR Focus | 22.3% |
-| Trajectory | Stable |
+| h-index | 58 |
+| Citations | 17,516 |
+| Publications | 244 |
+| CDR Focus | 23.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   197 citations · Enhanced Weathering
+   199 citations · Enhanced Weathering
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 3. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   123 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 4. **Soil properties as key predictors of global grassland production: Have we overlooked micronutrients?** (2021)
    71 citations · Soil Carbon
 
 5. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 6. **Can arbuscular mycorrhizal fungi speed up carbon sequestration by enhanced weathering?** (2021)
    53 citations · Enhanced Weathering

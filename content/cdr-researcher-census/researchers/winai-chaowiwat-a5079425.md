@@ -1,7 +1,7 @@
 ---
 title: "Winai Chaowiwat"
 description: "Winai Chaowiwat is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.531221
+date: 2026-09-11T02:38:29.481884
 url: "/cdr-researcher-census/researchers/winai-chaowiwat-a5079425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 476 |
+| Citations | 488 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon, Nitrogen and Water Footprints of Organic Rice and Conventional Rice Production over 4 Years of Cultivation: A Case Study in the Lower North of Thailand** (2022)
-   70 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 ## External Profiles
 

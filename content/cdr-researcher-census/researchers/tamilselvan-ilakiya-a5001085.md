@@ -1,7 +1,7 @@
 ---
 title: "Tamilselvan Ilakiya"
 description: "Tamilselvan Ilakiya is a Mid-career Ocean CDR researcher at SRM Institute of Science and Technology in IN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.652298
+date: 2026-09-11T02:38:29.590769
 url: "/cdr-researcher-census/researchers/tamilselvan-ilakiya-a5001085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 364 |
+| Citations | 384 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Exiting |

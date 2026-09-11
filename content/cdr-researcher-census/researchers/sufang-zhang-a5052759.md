@@ -1,7 +1,7 @@
 ---
 title: "Sufang Zhang"
-description: "Sufang Zhang is a Mid-career General CDR researcher at North China Electric Power University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.252598
+description: "Sufang Zhang is a Mid-career General CDR researcher at North China Electric Power University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.177349
 url: "/cdr-researcher-census/researchers/sufang-zhang-a5052759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 131 |
+| h-index | 6 |
+| Citations | 142 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

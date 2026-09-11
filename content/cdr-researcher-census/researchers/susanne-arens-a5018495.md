@@ -1,7 +1,7 @@
 ---
 title: "Susanne Arens"
-description: "Susanne Arens is a Senior Soil Carbon researcher at University of Copenhagen in DK. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.567029
+description: "Susanne Arens is a Senior Soil Carbon researcher at Geocenter Denmark in DK. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.522215
 url: "/cdr-researcher-census/researchers/susanne-arens-a5018495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/susanne-arens-a5018495/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Copenhagen"
+    "name": "Geocenter Denmark"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5628-0051",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Susanne Arens**  
-University of Copenhagen · 🇩🇰 DK
+Geocenter Denmark · 🇩🇰 DK
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 439 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 446 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

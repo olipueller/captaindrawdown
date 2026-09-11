@@ -1,7 +1,7 @@
 ---
 title: "Yuehui Jia"
 description: "Yuehui Jia is a Senior Soil Carbon researcher at Beijing University of Agriculture in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.779364
+date: 2026-09-11T02:38:29.725114
 url: "/cdr-researcher-census/researchers/yuehui-jia-a5100957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 283 |
+| Citations | 296 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exogenous fulvic acid enhances stability of mineral-associated soil organic matter better than manure** (2021)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoling Yuan"
 description: "Xiaoling Yuan is a Senior Biochar researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306500
+date: 2026-09-11T02:38:29.262778
 url: "/cdr-researcher-census/researchers/xiaoling-yuan-a5101721/"
 layout: "researcher"
 hiddenInHomeList: true

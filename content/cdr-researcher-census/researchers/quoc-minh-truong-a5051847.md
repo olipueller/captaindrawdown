@@ -1,7 +1,7 @@
 ---
 title: "Quoc-Minh Truong"
-description: "Quoc-Minh Truong is a Mid-career Biochar researcher at Bình Dương University in VN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.437374
+description: "Quoc-Minh Truong is a Mid-career Biochar researcher at Ho Chi Minh City University of Technology in VN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.379785
 url: "/cdr-researcher-census/researchers/quoc-minh-truong-a5051847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/quoc-minh-truong-a5051847/",
   "affiliation": {
     "@type": "Organization",
-    "name": "B\u00ecnh D\u01b0\u01a1ng University"
+    "name": "Ho Chi Minh City University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0681-0587",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Quoc-Minh Truong**  
-Bình Dương University · 🇻🇳 VN
+Ho Chi Minh City University of Technology · 🇻🇳 VN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 614 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 642 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

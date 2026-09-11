@@ -1,7 +1,7 @@
 ---
 title: "Kristina Fleiger"
 description: "Kristina Fleiger is a Mid-career BECCS researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.817576
+date: 2026-09-11T02:38:29.765576
 url: "/cdr-researcher-census/researchers/kristina-fleiger-a5078536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 263 |
+| Citations | 275 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **LCA and negative emission potential of retrofitted cement plants under oxyfuel conditions at high biogenic fuel shares** (2022)
-   49 citations · BECCS
+   50 citations · BECCS
 
 ## External Profiles
 

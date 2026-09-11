@@ -1,7 +1,7 @@
 ---
 title: "Yi‐Xiu Chen"
-description: "Yi‐Xiu Chen is a Senior General CDR researcher at Division of Materials Science and Engineering in AU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.243246
+description: "Yi‐Xiu Chen is a Senior General CDR researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.166410
 url: "/cdr-researcher-census/researchers/yixiu-chen-a5083169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yixiu-chen-a5083169/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Division of Materials Science and Engineering"
+    "name": "National Cheng Kung University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0479-0452",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yi‐Xiu Chen**  
-Division of Materials Science and Engineering · 🇦🇺 AU
+National Cheng Kung University · 🇹🇼 TW
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 132 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 9 |
+| Citations | 144 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

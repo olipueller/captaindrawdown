@@ -1,7 +1,7 @@
 ---
 title: "Rabia Tasaduq Hussain"
-description: "Rabia Tasaduq Hussain is an Early-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062281
+description: "Rabia Tasaduq Hussain is an Early-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.004216
 url: "/cdr-researcher-census/researchers/rabia-tasaduq-hussain-a5041621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 179 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 189 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

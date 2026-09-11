@@ -1,7 +1,7 @@
 ---
 title: "Shishu Zhu"
-description: "Shishu Zhu is a Senior Biochar researcher at South China University of Technology in CN. With 66 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.089450
+description: "Shishu Zhu is a Senior Biochar researcher at South China University of Technology in CN. With 69 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.039828
 url: "/cdr-researcher-census/researchers/shishu-zhu-a5057582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 5,990 |
-| Publications | 66 |
-| CDR Focus | 7.6% |
+| h-index | 32 |
+| Citations | 6,180 |
+| Publications | 69 |
+| CDR Focus | 7.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of biochar on anaerobic treatment systems: Some perspectives** (2022)
-   50 citations · Biochar
+   54 citations · Biochar
 
 2. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
-3. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   7 citations · Soil Carbon
+3. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
+   10 citations · Biochar
 
-4. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
-   7 citations · Biochar
+4. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
+   8 citations · Soil Carbon
 
 5. **Environmental Stability of Biochar in Natural Systems** (2025)
    0 citations · Biochar

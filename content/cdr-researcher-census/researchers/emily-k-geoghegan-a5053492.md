@@ -1,7 +1,7 @@
 ---
 title: "Emily K. Geoghegan"
 description: "Emily K. Geoghegan is a Mid-career Soil Carbon researcher at Center for Global Development in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.110361
+date: 2026-09-11T02:38:30.060266
 url: "/cdr-researcher-census/researchers/emily-k-geoghegan-a5053492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 164 |
+| Citations | 172 |
 | Publications | 11 |
 | CDR Focus | 45.5% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   36 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 4. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
-   21 citations · General CDR
+   22 citations · General CDR
 
 5. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations

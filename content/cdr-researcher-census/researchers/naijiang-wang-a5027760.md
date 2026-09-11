@@ -1,7 +1,7 @@
 ---
 title: "Naijiang Wang"
 description: "Naijiang Wang is a Mid-career Soil Carbon researcher at Shangdong Agriculture and Engineering University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.403837
+date: 2026-09-11T02:38:29.353858
 url: "/cdr-researcher-census/researchers/naijiang-wang-a5027760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 681 |
+| Citations | 702 |
 | Publications | 38 |
 | CDR Focus | 7.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration** (2024)
-   30 citations · Biochar
+   31 citations · Biochar
 
 2. **Plastic film-mulched ridges and straw-mulched furrows increase soil carbon sequestration and net ecosystem economic benefit in a wheat-maize rotation** (2022)
    25 citations · Soil Carbon

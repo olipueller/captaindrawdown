@@ -1,7 +1,7 @@
 ---
 title: "Xiangxiang Hao"
 description: "Xiangxiang Hao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.446224
+date: 2026-09-11T02:38:29.390653
 url: "/cdr-researcher-census/researchers/xiangxiang-hao-a5036399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 599 |
+| Citations | 624 |
 | Publications | 33 |
 | CDR Focus | 15.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations
 
 2. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
    18 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 5. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Temporal Dynamics of Pools of Soil Organic Carbon Separated by Density Identified by Changes to Δ13c Under 17 Years of Straw Return** (2023)
    0 citations · Soil Carbon

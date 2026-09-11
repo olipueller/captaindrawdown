@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Wu"
-description: "Jiajun Wu is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.981896
+description: "Jiajun Wu is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.881389
 url: "/cdr-researcher-census/researchers/jiajun-wu-a5075845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 202 |
-| Publications | 27 |
-| CDR Focus | 25.9% |
+| h-index | 7 |
+| Citations | 224 |
+| Publications | 29 |
+| CDR Focus | 24.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   82 citations · Ocean CDR
+   84 citations · Ocean CDR
 
 2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
    37 citations · General CDR
@@ -63,10 +63,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    24 citations · BECCS
 
 5. **Potential impacts of marine carbon dioxide removal on ocean oxygen** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 6. **Rectifying misinformation on the climate intervention potential of ocean afforestation** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 7. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts With an Earth System Model** (2025)
    4 citations · Ocean CDR

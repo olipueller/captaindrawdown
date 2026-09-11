@@ -1,7 +1,7 @@
 ---
 title: "Yufei Yao"
 description: "Yufei Yao is a Senior Soil Carbon researcher at Northwest University in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.261031
+date: 2026-09-11T02:38:29.207546
 url: "/cdr-researcher-census/researchers/yufei-yao-a5010698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,190 |
+| Citations | 1,239 |
 | Publications | 61 |
 | CDR Focus | 9.8% |
 | Trajectory | Declining |
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 6. **Spatiotemporal variability in divergent accrual of particulate and mineral-associated organic carbon by vegetation restoration on the Loess Plateau** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

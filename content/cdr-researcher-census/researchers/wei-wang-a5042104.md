@@ -1,7 +1,7 @@
 ---
 title: "Wei Wang"
 description: "Wei Wang is a Senior Ocean CDR researcher at Southern University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.421930
+date: 2026-09-11T02:38:30.350487
 url: "/cdr-researcher-census/researchers/wei-wang-a5042104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 100 |
+| Citations | 108 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Carbon export from submarine groundwater discharge in a semi-enclosed bay: Impact for the buffering capacity against coastal ocean acidification** (2024)
-   19 citations · Ocean CDR
+   21 citations · Ocean CDR
 
 ## External Profiles
 

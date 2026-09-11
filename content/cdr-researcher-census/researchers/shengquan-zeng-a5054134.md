@@ -1,7 +1,7 @@
 ---
 title: "Shengquan Zeng"
 description: "Shengquan Zeng is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348559
+date: 2026-09-11T02:38:29.296826
 url: "/cdr-researcher-census/researchers/shengquan-zeng-a5054134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 819 |
+| Citations | 846 |
 | Publications | 26 |
-| CDR Focus | 19.2% |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    33 citations · Biochar
 
 2. **Enhanced Escherichia coli removal from stormwater with bermudagrass-derived activated biochar filtration systems** (2023)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Removal of perfluorooctanoic acid by FeCl3-activated dairy manure-derived biochar with addition of persulfate and H2O2** (2025)
    0 citations · Biochar

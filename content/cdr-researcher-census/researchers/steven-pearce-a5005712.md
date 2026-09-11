@@ -1,7 +1,7 @@
 ---
 title: "Steven Pearce"
-description: "Steven Pearce is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.410497
+description: "Steven Pearce is a Senior Enhanced Weathering researcher at Environment Agency in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.387090
 url: "/cdr-researcher-census/researchers/steven-pearce-a5005712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Steven Pearce",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/steven-pearce-a5005712/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Environment Agency"
+  },
   "sameAs": "https://openalex.org/A5005712134"
 }
 </script>
 
 ## Profile
 
-**Steven Pearce**
+**Steven Pearce**  
+Environment Agency · 🇬🇧 GB
 
 **Career Stage:** Senior
 

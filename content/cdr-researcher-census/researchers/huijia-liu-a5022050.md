@@ -1,7 +1,7 @@
 ---
 title: "Huijia Liu"
-description: "Huijia Liu is a Mid-career Soil Carbon researcher at China Three Gorges University in CN. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.047073
+description: "Huijia Liu is a Mid-career Soil Carbon researcher at China Three Gorges University in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.913984
 url: "/cdr-researcher-census/researchers/huijia-liu-a5022050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 183 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 212 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **The Contribution of Saline-Alkali Land to the Terrestrial Carbon Stock Balance: Case of an Important Agriculture and Ecological Region in Northeast China** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Badran"
 description: "Ahmed Badran is a Senior General CDR researcher at Qatar University in QA. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.908512
+date: 2026-09-11T02:38:29.869917
 url: "/cdr-researcher-census/researchers/ahmed-badran-a5057795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 222 |
+| Citations | 228 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 6.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 3. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

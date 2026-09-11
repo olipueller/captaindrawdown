@@ -1,7 +1,7 @@
 ---
 title: "Lorena Jacqueline Gómez-Godínez"
 description: "Lorena Jacqueline Gómez-Godínez is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias in MX. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537953
+date: 2026-09-11T02:38:29.487761
 url: "/cdr-researcher-census/researchers/lorena-jacqueline-gomez-godinez-a5026839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 468 |
+| Citations | 482 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial interactions in agroecosystems** (2024)
-   3 citations
+   4 citations
 
 2. **YIELD, ATMOSPHERIC CARBON CAPTURE, AND SOIL ORGANIC CARBON SEQUESTRATION WITH AGRONOMIC PRACTICES IN RAIN-FED FORAGE CORN** (2025)
    0 citations · General CDR

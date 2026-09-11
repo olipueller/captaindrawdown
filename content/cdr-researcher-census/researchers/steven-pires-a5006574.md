@@ -1,7 +1,7 @@
 ---
 title: "Steven Pires"
 description: "Steven Pires is a Mid-career Soil Carbon researcher at Cotton (United States) in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.197718
+date: 2026-09-11T02:38:30.107176
 url: "/cdr-researcher-census/researchers/steven-pires-a5006574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 143 |
+| Citations | 159 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Jinlan Xiao"
-description: "Jinlan Xiao is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.701941
+description: "Jinlan Xiao is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.658132
 url: "/cdr-researcher-census/researchers/jinlan-xiao-a5102183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 330 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 336 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Wildfire alters forest structure while belowground multifunctionality remains unchanged in a karst Pinus massoniana forest** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

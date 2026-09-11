@@ -1,7 +1,7 @@
 ---
 title: "Yuanchun Zou"
-description: "Yuanchun Zou is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences in CN. With 132 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.152227
+description: "Yuanchun Zou is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences in CN. With 135 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.100145
 url: "/cdr-researcher-census/researchers/yuanchun-zou-a5039230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,418 |
-| Publications | 132 |
-| CDR Focus | 6.1% |
+| Citations | 2,507 |
+| Publications | 135 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 3. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Redox condition and litter quantity co-determine soil carbon mineralization: Implications for carbon sequestration in restored wetlands** (2025)
    3 citations · Soil Carbon

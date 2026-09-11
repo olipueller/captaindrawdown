@@ -1,7 +1,7 @@
 ---
 title: "Xuechun Zhao"
-description: "Xuechun Zhao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.807164
+description: "Xuechun Zhao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.759642
 url: "/cdr-researcher-census/researchers/xuechun-zhao-a5073626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 269 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| h-index | 8 |
+| Citations | 278 |
+| Publications | 17 |
+| CDR Focus | 17.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Evaluating the Impact of Increased Precipitation on UK Grassland Ecosystems and Soil Carbon Sequestration** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Integrated Physical-Chemical Mechanisms Drive Carbon Stabilization Under Conservation Tillage in Karst Agroecosystems** (2025)
    0 citations · Soil Carbon

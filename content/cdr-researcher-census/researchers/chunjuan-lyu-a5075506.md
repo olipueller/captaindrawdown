@@ -1,7 +1,7 @@
 ---
 title: "Chunjuan Lyu"
-description: "Chunjuan Lyu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.194134
+description: "Chunjuan Lyu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.124048
 url: "/cdr-researcher-census/researchers/chunjuan-lyu-a5075506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 144 |
+| h-index | 6 |
+| Citations | 155 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vertical Patterns and Influencing Factors of Soil Stoichiometry on Near-Naturally Restored Lands: A Case Study from the Loess Plateau, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

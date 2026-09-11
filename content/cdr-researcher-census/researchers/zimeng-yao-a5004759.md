@@ -1,7 +1,7 @@
 ---
 title: "Zimeng Yao"
-description: "Zimeng Yao is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.359102
+description: "Zimeng Yao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.315291
 url: "/cdr-researcher-census/researchers/zimeng-yao-a5004759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zimeng-yao-a5004759/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5033-5672",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zimeng Yao**  
-Shenyang Agricultural University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 111 |
+| Citations | 115 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
-   0 citations
+   1 citations
 
 ## External Profiles
 

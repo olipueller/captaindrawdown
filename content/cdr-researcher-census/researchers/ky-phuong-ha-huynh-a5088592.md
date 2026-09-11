@@ -1,7 +1,7 @@
 ---
 title: "Ky-Phuong-Ha Huynh"
 description: "Ky-Phuong-Ha Huynh is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.719303
+date: 2026-09-11T02:38:29.650355
 url: "/cdr-researcher-census/researchers/ky-phuong-ha-huynh-a5088592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 316 |
+| Citations | 341 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Current application of seaweed waste for composting and biochar: A review** (2023)
-   65 citations · Biochar
+   67 citations · Biochar
 
 2. **Hierarchical factors governing the removal of ionizable pharmaceuticals by cassava peel–derived biochar: Bayesian modeling and DFT approaches** (2026)
    1 citations · Biochar

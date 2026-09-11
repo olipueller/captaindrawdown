@@ -1,7 +1,7 @@
 ---
 title: "Chunmei Wang"
 description: "Chunmei Wang is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.449639
+date: 2026-09-11T02:38:29.397803
 url: "/cdr-researcher-census/researchers/chunmei-wang-a5100754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 594 |
+| Citations | 612 |
 | Publications | 53 |
 | CDR Focus | 5.7% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term nitrogen addition enhanced soil carbon sequestration through coupled physicochemical and microbial mechanisms in a temperate forest** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Urbanization weakens soil carbon stocks but enhances carbon stability through coupled physicochemical and microbial mechanisms in Beijing urban-rural forests** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Effects of grazing intensity on photosynthetic carbon allocation and transport in the typical grassland of Inner Mongolia** (2026)
    0 citations · Soil Carbon

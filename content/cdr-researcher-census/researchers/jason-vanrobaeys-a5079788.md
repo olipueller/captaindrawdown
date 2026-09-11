@@ -1,7 +1,7 @@
 ---
 title: "Jason Vanrobaeys"
 description: "Jason Vanrobaeys is a Mid-career Soil Carbon researcher at Health Canada in CA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916760
+date: 2026-09-11T02:38:29.892593
 url: "/cdr-researcher-census/researchers/jason-vanrobaeys-a5079788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 220 |
+| Citations | 221 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

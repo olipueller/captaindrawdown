@@ -1,7 +1,7 @@
 ---
 title: "Joy Rajbanshi"
-description: "Joy Rajbanshi is a Mid-career Soil Carbon researcher at Council on Energy, Environment and Water in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.581540
+description: "Joy Rajbanshi is a Mid-career Soil Carbon researcher at Council on Energy, Environment and Water in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.523681
 url: "/cdr-researcher-census/researchers/joy-rajbanshi-a5063572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,21 +42,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 426 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| h-index | 10 |
+| Citations | 444 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Responses of soil organic carbon to conservation practices including climate-smart agriculture in tropical and subtropical regions: A meta-analysis** (2021)
-   77 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 2. **Changes in carbon stocks and its economic valuation under a changing land use pattern—A multitemporal study in Konar catchment, India** (2021)
    36 citations · General CDR
 
-3. **Implications of key uncertainties in long-term land use emissions for India's net-zero future — an integrated modelling assessment** (2026)
+3. **Land use sequestration potential and uncertainties in India's net-zero pathway** (2026)
+   0 citations
+
+4. **Implications of key uncertainties in long-term land use emissions for India's net-zero future — an integrated modelling assessment** (2026)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Max Franks"
-description: "Max Franks is a Mid-career General CDR researcher at Fraunhofer Institute for Production Systems and Design Technology in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.650326
+description: "Max Franks is a Mid-career General CDR researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.602900
 url: "/cdr-researcher-census/researchers/max-franks-a5002238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Max Franks",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/max-franks-a5002238/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Fraunhofer Institute for Production Systems and Design Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-3758-6386",
     "https://openalex.org/A5002238901"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Max Franks**  
-Fraunhofer Institute for Production Systems and Design Technology · 🇩🇪 DE
+**Max Franks**
 
 **Career Stage:** Mid-career
 
@@ -42,10 +37,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 365 |
-| Publications | 29 |
-| CDR Focus | 20.7% |
+| h-index | 10 |
+| Citations | 375 |
+| Publications | 30 |
+| CDR Focus | 20.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -63,10 +58,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations
 
 5. **The Economics of Carbon Dioxide Removal** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 6. **Pigou’s Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon Dioxide Removal** (2026)
-   4 citations
+   5 citations
 
 7. **The Economics of Carbon Dioxide Removal: A Governance Perspective** (2024)
    2 citations · General CDR

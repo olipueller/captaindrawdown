@@ -1,7 +1,7 @@
 ---
 title: "Santa Kalēja"
 description: "Santa Kalēja is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 34 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.377484
+date: 2026-09-11T02:38:30.346637
 url: "/cdr-researcher-census/researchers/santa-kaleja-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
+| Citations | 109 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Impact of Former Peat Extraction Field Afforestation on Soil Greenhouse Gas Emissions in Hemiboreal Region** (2023)
-   9 citations
+   10 citations
 
 3. **Evaluation of public attitude to forest drainage as climate change mitigation measure** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Hanya Tang"
 description: "Hanya Tang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.240665
+date: 2026-09-11T02:38:30.160302
 url: "/cdr-researcher-census/researchers/hanya-tang-a5104251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 133 |
+| Citations | 146 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The increased soil aggregate stability and aggregate-associated carbon by farmland use change in a karst region of Southwest China** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Effects of Water-Level Fluctuation on Soil Aggregates and Aggregate-Associated Organic Carbon in the Water-Level Fluctuation Zone of the Three Gorges Reservoir, China** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

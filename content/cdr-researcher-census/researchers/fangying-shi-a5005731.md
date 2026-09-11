@@ -1,7 +1,7 @@
 ---
 title: "Fangying Shi"
 description: "Fangying Shi is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.146478
+date: 2026-09-11T02:38:30.070176
 url: "/cdr-researcher-census/researchers/fangying-shi-a5005731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 155 |
+| Citations | 170 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |

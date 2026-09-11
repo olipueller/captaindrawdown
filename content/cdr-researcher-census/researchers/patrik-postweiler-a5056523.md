@@ -1,7 +1,7 @@
 ---
 title: "Patrik Postweiler"
-description: "Patrik Postweiler is a Mid-career DAC researcher at RWTH Aachen University in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.402698
+description: "Patrik Postweiler is a Mid-career DAC researcher at RWTH Aachen University in DE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.312650
 url: "/cdr-researcher-census/researchers/patrik-postweiler-a5056523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 103 |
-| Publications | 19 |
-| CDR Focus | 42.1% |
+| Citations | 115 |
+| Publications | 20 |
+| CDR Focus | 40.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Environmental process optimisation of an adsorption-based direct air carbon capture and storage system** (2024)
-   43 citations · DAC
+   48 citations · DAC
 
 2. **A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal** (2024)
-   21 citations · DAC
+   23 citations · DAC
 
 3. **Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage** (2025)
-   20 citations · DAC
+   21 citations · DAC
 
 4. **From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies** (2025)
    5 citations · DAC
 
-5. **Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?** (2023)
+5. **Gradient-based nonlinear model predictive control enabling demand-side management for adsorption-based direct air carbon capture** (2026)
    0 citations · DAC
 
-6. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
+6. **Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?** (2023)
    0 citations · DAC
 
-7. **Control Strategies to Optimize Adsorption-Based Direct Air Capture under Varying Weather Conditions** (2025)
+7. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
    0 citations · DAC
 
-8. **Control Strategies to Optimize Adsorption-Based Direct Air Capture Under Varying Weather Conditions** (2025)
+8. **Control Strategies to Optimize Adsorption-Based Direct Air Capture under Varying Weather Conditions** (2025)
+   0 citations · DAC
+
+9. **Control Strategies to Optimize Adsorption-Based Direct Air Capture Under Varying Weather Conditions** (2025)
    0 citations
 
-9. **Model-Based Process Design Optimization of DAC to Minimize Costs: Accounting for Diurnal Variations in Ambient Temperature and Relative Humidity** (2024)
+10. **Model-Based Process Design Optimization of DAC to Minimize Costs: Accounting for Diurnal Variations in Ambient Temperature and Relative Humidity** (2024)
    0 citations
-
-10. **Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage** (2024)
-   0 citations · DAC
 
 ## External Profiles
 

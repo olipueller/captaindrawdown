@@ -1,7 +1,7 @@
 ---
 title: "Yichuan Mei"
 description: "Yichuan Mei is a Mid-career Biochar researcher at Renmin University of China in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.995251
+date: 2026-09-11T02:38:29.876953
 url: "/cdr-researcher-census/researchers/yichuan-mei-a5104197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 198 |
+| Citations | 226 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar: a potential and green adsorbent for antibiotics removal from aqueous solution** (2024)
-   40 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

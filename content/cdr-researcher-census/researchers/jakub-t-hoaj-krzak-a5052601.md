@@ -1,7 +1,7 @@
 ---
 title: "Jakub T. Hołaj-Krzak"
 description: "Jakub T. Hołaj-Krzak is a Mid-career Soil Carbon researcher at Institute of Technology and Life Sciences in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.240220
+date: 2026-09-11T02:38:30.163483
 url: "/cdr-researcher-census/researchers/jakub-t-hoaj-krzak-a5052601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 133 |
+| Citations | 145 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

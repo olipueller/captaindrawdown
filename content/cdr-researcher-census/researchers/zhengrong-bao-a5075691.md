@@ -1,7 +1,7 @@
 ---
 title: "Zhengrong Bao"
-description: "Zhengrong Bao is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.619585
+description: "Zhengrong Bao is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.536116
 url: "/cdr-researcher-census/researchers/zhengrong-bao-a5075691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 391 |
+| h-index | 6 |
+| Citations | 433 |
 | Publications | 10 |
 | CDR Focus | 30.0% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Responses of microbial necromass carbon and microbial community structure to straw- and straw-derived biochar in brown earth soil of Northeast China** (2022)
-   51 citations · Biochar
+   53 citations · Biochar
 
 2. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
    23 citations · Biochar
 
 3. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

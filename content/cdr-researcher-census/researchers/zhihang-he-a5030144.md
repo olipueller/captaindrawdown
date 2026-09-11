@@ -1,7 +1,7 @@
 ---
 title: "Zhihang He"
 description: "Zhihang He is a Mid-career Soil Carbon researcher at Shenyang University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.228741
+date: 2026-09-11T02:38:30.174327
 url: "/cdr-researcher-census/researchers/zhihang-he-a5030144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 136 |
+| Citations | 143 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

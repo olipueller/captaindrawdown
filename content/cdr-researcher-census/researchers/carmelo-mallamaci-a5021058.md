@@ -1,7 +1,7 @@
 ---
 title: "Carmelo Mallamaci"
-description: "Carmelo Mallamaci is a Senior Soil Carbon researcher at University of Reggio Calabria in IT. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.285992
+description: "Carmelo Mallamaci is a Senior Soil Carbon researcher at University of Reggio Calabria in IT. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.228644
 url: "/cdr-researcher-census/researchers/carmelo-mallamaci-a5021058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,063 |
+| h-index | 19 |
+| Citations | 1,115 |
 | Publications | 67 |
 | CDR Focus | 7.5% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Humic Substances: Bridging Ecology and Agriculture for a Greener Future** (2025)
-   84 citations · Soil Carbon
+   92 citations · Soil Carbon
 
 2. **Sustainable fertilizers from wastes: a strategy to enhance soil carbon, improve soil quality, and mitigate emissions** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Agro-Industrial Residue Amendments as Circular Tools for Soil Stewardship and Greenhouse Gas Mitigation** (2026)
    0 citations · Soil Carbon

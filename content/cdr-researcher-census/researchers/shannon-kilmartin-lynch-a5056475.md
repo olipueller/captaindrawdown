@@ -1,7 +1,7 @@
 ---
 title: "Shannon Kilmartin-Lynch"
-description: "Shannon Kilmartin-Lynch is a Mid-career Biochar researcher at Monash University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.410540
+description: "Shannon Kilmartin-Lynch is a Mid-career Biochar researcher at Monash University in AU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.361929
 url: "/cdr-researcher-census/researchers/shannon-kilmartin-lynch-a5056475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 667 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 683 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration from waste and carbon dioxide mineralisation in concrete – A stronger, sustainable and eco-friendly solution to support circular economy** (2023)
-   64 citations · Biochar
+   68 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Karel Mocaer"
-description: "Karel Mocaer is a Mid-career General CDR researcher at Heidelberg University in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.539794
+description: "Karel Mocaer is a Mid-career General CDR researcher at Heidelberg University in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.488705
 url: "/cdr-researcher-census/researchers/karel-mocaer-a5076692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 466 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 481 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Innovating carbon-capture biotechnologies through ecosystem-inspired solutions** (2021)
-   33 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

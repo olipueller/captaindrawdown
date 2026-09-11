@@ -1,7 +1,7 @@
 ---
 title: "Adam Kubaczyński"
-description: "Adam Kubaczyński is a Mid-career Biochar researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.918295
+description: "Adam Kubaczyński is a Mid-career Biochar researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.893186
 url: "/cdr-researcher-census/researchers/adam-kubaczynski-a5058497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Adam Kubaczy\u0144ski",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adam-kubaczynski-a5058497/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Agrophysics, Polish Academy of Sciences"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-7665-7063",
     "https://openalex.org/A5058497916"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Adam Kubaczyński**
+**Adam Kubaczyński**  
+Institute of Agrophysics, Polish Academy of Sciences ·  PL
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 219 |
+| Citations | 220 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

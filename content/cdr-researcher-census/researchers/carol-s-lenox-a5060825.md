@@ -1,7 +1,7 @@
 ---
 title: "Carol S. Lenox"
 description: "Carol S. Lenox is a Mid-career DAC researcher at Environmental Protection Agency in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176001
+date: 2026-09-11T02:38:30.141337
 url: "/cdr-researcher-census/researchers/carol-s-lenox-a5060825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 147 |
+| Citations | 150 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
-   18 citations · DAC
+   20 citations · DAC
 
 2. **Modeling hydrogen markets: Energy system model development status and decarbonization scenario results** (2024)
-   11 citations · DAC
+   12 citations · DAC
 
 ## External Profiles
 

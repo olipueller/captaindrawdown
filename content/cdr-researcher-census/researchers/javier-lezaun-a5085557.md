@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
-description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.100111
+description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.051639
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,27 +40,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 4,742 |
-| Publications | 116 |
-| CDR Focus | 12.1% |
+| Citations | 4,830 |
+| Publications | 118 |
+| CDR Focus | 12.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The meaning of net zero and how to get it right** (2021)
-   940 citations · General CDR
+   955 citations · General CDR
 
 2. **Hugging the Shore: Tackling Marine Carbon Dioxide Removal as a Local Governance Problem** (2021)
-   46 citations · General CDR
+   47 citations · General CDR
 
 3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   35 citations · General CDR
+   38 citations · General CDR
 
-4. **Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead** (2021)
+4. **Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal** (2024)
    20 citations · General CDR
 
-5. **Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal** (2024)
-   19 citations · General CDR
+5. **Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead** (2021)
+   20 citations · General CDR
 
 6. **Responsible innovation in CDR: designing sustainable national Greenhouse Gas Removal policies in a fragmented and polycentric governance system** (2024)
    9 citations · General CDR
@@ -71,10 +71,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Brine Splitting - Policy Brief** (2024)
    1 citations · General CDR
 
-9. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief** (2024)
+9. **Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration** (2026)
    0 citations · General CDR
 
-10. **Specialized protocol for responsible research and innovation on ocean-based NETs** (2024)
+10. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief** (2024)
    0 citations · General CDR
 
 ## External Profiles

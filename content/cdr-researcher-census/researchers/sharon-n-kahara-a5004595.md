@@ -1,7 +1,7 @@
 ---
 title: "Sharon N. Kahara"
 description: "Sharon N. Kahara is a Senior Soil Carbon researcher at University of New Haven in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895316
+date: 2026-09-11T02:38:29.868651
 url: "/cdr-researcher-census/researchers/sharon-n-kahara-a5004595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 228 |
+| Citations | 229 |
 | Publications | 26 |
 | CDR Focus | 11.5% |
 | Trajectory | Growing |

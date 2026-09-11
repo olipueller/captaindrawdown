@@ -1,7 +1,7 @@
 ---
 title: "Jing Chen"
-description: "Jing Chen is a Mid-career Ocean CDR researcher at Ankang University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.381055
+description: "Jing Chen is a Mid-career Ocean CDR researcher at Ankang University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.309741
 url: "/cdr-researcher-census/researchers/jing-chen-a5115602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 107 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 6 |
+| Citations | 116 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Fate and carbon sequestration potential of sunken macroalgae in coastal oceans from long-term microbial degradation perspective** (2025)
-   14 citations · Ocean CDR
+   15 citations · Ocean CDR
 
 ## External Profiles
 

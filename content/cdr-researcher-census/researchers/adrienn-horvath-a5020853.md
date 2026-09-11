@@ -1,7 +1,7 @@
 ---
 title: "Adrienn Horváth"
-description: "Adrienn Horváth is a Mid-career Soil Carbon researcher at HUN-REN Institute of Earth Physics and Space Science in HU. With 78 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.519818
+description: "Adrienn Horváth is a Mid-career Soil Carbon researcher at University of Sopron in HU. With 79 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.473233
 url: "/cdr-researcher-census/researchers/adrienn-horvath-a5020853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adrienn-horvath-a5020853/",
   "affiliation": {
     "@type": "Organization",
-    "name": "HUN-REN Institute of Earth Physics and Space Science"
+    "name": "University of Sopron"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3656-0352",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Adrienn Horváth**  
-HUN-REN Institute of Earth Physics and Space Science ·  HU
+University of Sopron ·  HU
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 488 |
-| Publications | 78 |
-| CDR Focus | 7.7% |
+| h-index | 11 |
+| Citations | 498 |
+| Publications | 79 |
+| CDR Focus | 7.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

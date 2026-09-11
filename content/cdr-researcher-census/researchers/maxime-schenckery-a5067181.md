@@ -1,7 +1,7 @@
 ---
 title: "Maxime Schenckery"
 description: "Maxime Schenckery is a Senior General CDR researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.225406
+date: 2026-09-11T02:38:30.180618
 url: "/cdr-researcher-census/researchers/maxime-schenckery-a5067181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 136 |
+| Citations | 141 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 13.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,7 +52,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 3. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

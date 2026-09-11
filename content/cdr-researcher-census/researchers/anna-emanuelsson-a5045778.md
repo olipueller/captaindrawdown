@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
-description: "Anna Emanuelsson is a Senior DAC researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.011111
+description: "Anna Emanuelsson is a Senior DAC researcher at Chalmers University of Technology in SE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.971509
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Anna Emanuelsson",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Chalmers University of Technology"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-6308-2280",
     "https://openalex.org/A5045778534"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Anna Emanuelsson**
+**Anna Emanuelsson**  
+Chalmers University of Technology · 🇸🇪 SE
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 193 |
+| Citations | 198 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -46,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **BECCS and DACCS as Negative Emission Providers in an Intermittent Electricity System: Why Levelized Cost of Carbon May Be a Misleading Measure for Policy Decisions** (2021)
-   49 citations · BECCS
+   50 citations · BECCS
 
 ## External Profiles
 

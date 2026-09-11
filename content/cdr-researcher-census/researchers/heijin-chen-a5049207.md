@@ -1,7 +1,7 @@
 ---
 title: "Heijin Chen"
-description: "Heijin Chen is a Mid-career DAC researcher at Southern University of Science and Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.052110
+description: "Heijin Chen is a Mid-career DAC researcher at Southern University of Science and Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.988403
 url: "/cdr-researcher-census/researchers/heijin-chen-a5049207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 181 |
+| h-index | 8 |
+| Citations | 193 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Highly efficient and regenerable amine-impregnated adsorbents: Mechanistic insights into glycerol modification for enhanced direct air capture** (2025)
-   61 citations
+   62 citations
 
 2. **Extrusion-shaped PEI@B/MC-M560 adsorbents for direct air capture: Balancing mechanical strength and CO2 adsorption efficiency** (2026)
    0 citations · DAC

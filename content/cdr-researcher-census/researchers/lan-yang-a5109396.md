@@ -1,7 +1,7 @@
 ---
 title: "Lan Yang"
 description: "Lan Yang is a Senior Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554517
+date: 2026-09-11T02:38:29.499638
 url: "/cdr-researcher-census/researchers/lan-yang-a5109396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 451 |
+| Citations | 468 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Incorporating carbon sequestration toward a water-energy-food-carbon planning with uncertainties** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 2. **Biochar Amendment Promoted the Maize Growth and Changed Bacterial Community Assembly in a Phenanthrene-Contaminated Soil** (2023)
-   9 citations · Biochar
+   11 citations · Biochar
 
 3. **Efficient CO2 Transport Pathways in Cucurbit[7]uril Hybrid Hydrogel Membranes for Biogas Upgrading** (2026)
    0 citations

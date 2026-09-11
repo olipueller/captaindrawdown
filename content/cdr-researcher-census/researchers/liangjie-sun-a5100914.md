@@ -1,7 +1,7 @@
 ---
 title: "Liangjie Sun"
-description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shanghai Institute of Applied Physics in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.444578
+description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shanghai Institute of Applied Physics in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.385663
 url: "/cdr-researcher-census/researchers/liangjie-sun-a5100914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,27 +40,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 602 |
-| Publications | 39 |
-| CDR Focus | 20.5% |
+| Citations | 632 |
+| Publications | 41 |
+| CDR Focus | 19.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Crop root vs. shoot incorporation drives microbial residue carbon accumulation in soil aggregate fractions** (2022)
+1. **Depth-driven responses of soil organic carbon fractions to orchard cover crops across China: A meta-analysis** (2024)
+   23 citations · Soil Carbon
+
+2. **Crop root vs. shoot incorporation drives microbial residue carbon accumulation in soil aggregate fractions** (2022)
    23 citations
 
-2. **Depth-driven responses of soil organic carbon fractions to orchard cover crops across China: A meta-analysis** (2024)
-   21 citations · Soil Carbon
-
 3. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
    5 citations · Soil Carbon
@@ -68,11 +68,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
    3 citations · Soil Carbon
 
-8. **Soil Fertility and Maize Residue Quality All Effect the Exogenous Carbon Sequestration Only in the Short Term in Macroaggregates, but Not in Microaggregates** (2025)
+8. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
    1 citations · Soil Carbon
 
-9. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   0 citations · Soil Carbon
+9. **Soil Fertility and Maize Residue Quality All Effect the Exogenous Carbon Sequestration Only in the Short Term in Macroaggregates, but Not in Microaggregates** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

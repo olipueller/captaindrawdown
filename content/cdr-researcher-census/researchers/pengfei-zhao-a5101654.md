@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Zhao"
-description: "Pengfei Zhao is a Senior Soil Carbon researcher at North University of China in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.114267
+description: "Pengfei Zhao is a Senior Soil Carbon researcher at Guangxi University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.059583
 url: "/cdr-researcher-census/researchers/pengfei-zhao-a5101654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pengfei-zhao-a5101654/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North University of China"
+    "name": "Guangxi University"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-8253-7561",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pengfei Zhao**  
-North University of China · 🇨🇳 CN
+Guangxi University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 164 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 173 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

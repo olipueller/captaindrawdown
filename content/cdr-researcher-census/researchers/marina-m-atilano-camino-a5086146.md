@@ -1,7 +1,7 @@
 ---
 title: "Marina M. Atilano-Camino"
 description: "Marina M. Atilano-Camino is a Mid-career Biochar researcher at Universidad de Sonora in MX. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.141516
+date: 2026-09-11T02:38:30.080967
 url: "/cdr-researcher-census/researchers/marina-m-atilano-camino-a5086146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 156 |
+| Citations | 166 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

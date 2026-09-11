@@ -1,7 +1,7 @@
 ---
 title: "Raj Mukhopadhyay"
-description: "Raj Mukhopadhyay is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.119259
+description: "Raj Mukhopadhyay is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 72 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.066773
 url: "/cdr-researcher-census/researchers/raj-mukhopadhyay-a5049349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 3,558 |
-| Publications | 69 |
-| CDR Focus | 7.2% |
+| Citations | 3,747 |
+| Publications | 72 |
+| CDR Focus | 6.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biochar-microorganism interactions for organic pollutant remediation: Challenges and perspectives** (2022)
-   225 citations · Biochar
+   230 citations · Biochar
 
 2. **Natural and engineered clays and clay minerals for the removal of poly- and perfluoroalkyl substances from water: State-of-the-art and future perspectives** (2021)
-   139 citations
+   141 citations
 
 3. **Synthesis and characterization of PCN-222 metal organic framework and its application for removing perfluorooctane sulfonate from water** (2023)
-   74 citations
+   85 citations
 
 4. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Inland saline aquaculture increased carbon accumulation rate and stability in pond sediments under semi-arid climate** (2021)
    8 citations · Soil Carbon
 
 6. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 7. **Carbon Sequestration in Aquaculture System** (2022)
    3 citations · Soil Carbon

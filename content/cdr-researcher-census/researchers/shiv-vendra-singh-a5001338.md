@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
-description: "Shiv Vendra Singh is a Mid-career Biochar researcher at Central Agricultural University in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.386957
+description: "Shiv Vendra Singh is a Mid-career Biochar researcher at Central Agricultural University in IN. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.331540
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 717 |
-| Publications | 57 |
-| CDR Focus | 22.8% |
+| Citations | 753 |
+| Publications | 58 |
+| CDR Focus | 22.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Characterization, bioenergy value, and thermal stability of biochars derived from diverse agriculture and forestry lignocellulosic wastes** (2021)
-   88 citations · Biochar
+   90 citations · Biochar
 
 2. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   57 citations · Biochar
+   59 citations · Biochar
 
 3. **Soil carbon-nutrient cycling, energetics, and carbon footprint in calcareous soils with adoption of long-term conservation tillage practices and cropping systems diversification** (2023)
    43 citations · Soil Carbon
@@ -77,8 +77,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 9. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
 
-10. **Biochar enhances carbon stability and regulates greenhouse gas flux under crop production systems** (2024)
-   1 citations · Biochar
+10. **Multifarious Approaches of Agri-Based Carbon Credit Generation for Green Economy** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Howard J. Herzog"
-description: "Howard J. Herzog is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 175 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.069653
+description: "Howard J. Herzog is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 173 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.022569
 url: "/cdr-researcher-census/researchers/howard-j-herzog-a5108415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,30 +40,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 42 |
-| Citations | 14,601 |
-| Publications | 175 |
-| CDR Focus | 6.3% |
+| Citations | 14,880 |
+| Publications | 173 |
+| CDR Focus | 5.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world** (2021)
-   134 citations · BECCS
+   135 citations · BECCS
 
 2. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   38 citations · General CDR
+   42 citations · General CDR
 
 3. **Deploying direct air capture at scale: How close to reality?** (2023)
-   28 citations · DAC
+   29 citations · DAC
 
 4. **Getting real about capturing carbon from the air** (2024)
    17 citations · General CDR
 
 5. **Direct Air Capture** (2022)
-   16 citations · DAC
+   17 citations · DAC
 
 6. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   15 citations · DAC
+   16 citations · DAC
 
 7. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
    4 citations · DAC

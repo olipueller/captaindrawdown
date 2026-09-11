@@ -1,7 +1,7 @@
 ---
 title: "Munmun Basak"
 description: "Munmun Basak is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.402453
+date: 2026-09-11T02:38:29.339400
 url: "/cdr-researcher-census/researchers/munmun-basak-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 685 |
+| Citations | 732 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A critical review of industrial fiber hemp anatomy, agronomic practices, and valorization into sustainable bioproducts** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

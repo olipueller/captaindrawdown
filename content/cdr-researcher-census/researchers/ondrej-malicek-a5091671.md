@@ -1,7 +1,7 @@
 ---
 title: "Ondrej Malíček"
-description: "Ondrej Malíček is a Mid-career Soil Carbon researcher at Mendel University in Brno in CZ. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704806
+description: "Ondrej Malíček is a Mid-career Soil Carbon researcher at Mendel University in Brno in CZ. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.642819
 url: "/cdr-researcher-census/researchers/ondrej-malicek-a5091671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 327 |
-| Publications | 32 |
-| CDR Focus | 15.6% |
+| h-index | 13 |
+| Citations | 346 |
+| Publications | 33 |
+| CDR Focus | 15.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon-enriched organic amendments differently affect the soil chemical, biological properties and plant biomass in a cultivation time-dependent manner** (2022)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
    13 citations · Soil Carbon

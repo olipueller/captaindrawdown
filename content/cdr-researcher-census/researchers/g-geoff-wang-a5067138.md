@@ -1,7 +1,7 @@
 ---
 title: "G. Geoff Wang"
 description: "G. Geoff Wang is a Mid-career Soil Carbon researcher at Clemson University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.877786
+date: 2026-09-11T02:38:29.834235
 url: "/cdr-researcher-census/researchers/g-geoff-wang-a5067138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 235 |
+| Citations | 243 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of afforestation tree species mixing on soil organic carbon stock, nutrients accumulation, and understory vegetation diversity on reclaimed coastal lands in Eastern China** (2021)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 ## External Profiles
 

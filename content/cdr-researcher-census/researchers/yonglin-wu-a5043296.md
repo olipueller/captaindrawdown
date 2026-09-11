@@ -1,7 +1,7 @@
 ---
 title: "Yonglin Wu"
-description: "Yonglin Wu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.758947
+description: "Yonglin Wu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.690454
 url: "/cdr-researcher-census/researchers/yonglin-wu-a5043296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 294 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 314 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mechanisms Behind the Soil Organic Carbon Response to Temperature Elevations** (2025)
-   15 citations · General CDR
+   18 citations · General CDR
 
 2. **Elevational Patterns and Seasonal Dynamics of Soil Organic Carbon Fractions and Content in Rice Paddies of Yuanyang Terrace, Southwest China** (2025)
    1 citations · Soil Carbon
+
+3. **Lithology and vegetation type heterogeneity influence soil organic carbon accumulation in Southwest China alpine karst** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

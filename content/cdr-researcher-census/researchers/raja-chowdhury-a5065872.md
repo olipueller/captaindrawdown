@@ -1,7 +1,7 @@
 ---
 title: "Raja Chowdhury"
 description: "Raja Chowdhury is a Senior General CDR researcher. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.489125
+date: 2026-09-11T02:38:29.442227
 url: "/cdr-researcher-census/researchers/raja-chowdhury-a5065872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 532 |
+| Citations | 543 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mathematical Models and Dynamic Global Warming Potential Calculation for Estimating the Role of Organic Amendment in Net-Zero Goal Achievement** (2024)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Role of Organic Amendment Derived from Waste Biorefinery on Reaching Net Zero Goals** (2023)
    0 citations · General CDR

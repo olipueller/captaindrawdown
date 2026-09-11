@@ -1,7 +1,7 @@
 ---
 title: "Joni Jupesta"
-description: "Joni Jupesta is a Senior General CDR researcher at IPB University in ID. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.421728
+description: "Joni Jupesta is a Senior General CDR researcher at IPB University in ID. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.390944
 url: "/cdr-researcher-census/researchers/joni-jupesta-a5005775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 640 |
-| Publications | 61 |
-| CDR Focus | 8.2% |
+| h-index | 15 |
+| Citations | 623 |
+| Publications | 60 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · General CDR
 
 2. **Pyrolysis of pulp and paper mill sludge: Mechanistic effects of process conditions and feldspar catalysis on product formation and biochar carbon permanence** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **The Cost of Bioenergy with Carbon Capture and Storage (BECCS) in ASEAN** (2021)
    1 citations · BECCS

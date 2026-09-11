@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Chen"
-description: "Xiaohong Chen is a Senior Soil Carbon researcher at Central South University in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.190157
+description: "Xiaohong Chen is a Senior Soil Carbon researcher at Central South University in CN. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.084626
 url: "/cdr-researcher-census/researchers/xiaohong-chen-a5100373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,790 |
-| Publications | 77 |
-| CDR Focus | 5.2% |
+| h-index | 24 |
+| Citations | 3,051 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Precipitation Dominates the Allocation Strategy of Above- and Belowground Biomass in Plants on Macro Scales** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
    26 citations · Biochar
 
 3. **Effect of fresh and aged biochar on electrogenic hydrocarbon degradation in soil microbial electrochemical remediation** (2022)
-   23 citations · Biochar
+   24 citations · Biochar
 
 4. **Soil carbon turnover and balance in the priming effects of basalt, montmorillonite, and kaolinite in a Luvisol soil** (2023)
    13 citations · Enhanced Weathering
 
 5. **Sedimentology and geochemistry of the Upper Permian Longtan and Dalong formations in the Lianyuan Sag, Xiangzhong Depression, South China: Implications for paleoclimate, provenance, tectonic setting, and organic matter accumulation** (2025)
-   3 citations
+   5 citations
 
 6. **Salt Tolerant Identification and Tolerance Mechanism Study of Broomcorn Millet (Panicum Miliaceum L.) Under Neutral Mixed Salts Stress by Ont Sequencing** (2023)
    0 citations

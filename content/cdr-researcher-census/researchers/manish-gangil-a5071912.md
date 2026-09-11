@@ -1,7 +1,7 @@
 ---
 title: "Manish Gangil"
 description: "Manish Gangil is a Mid-career General CDR researcher at Sri Sathya Sai Institute of Higher Learning in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176378
+date: 2026-09-11T02:38:30.150230
 url: "/cdr-researcher-census/researchers/manish-gangil-a5071912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 147 |
+| Citations | 148 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

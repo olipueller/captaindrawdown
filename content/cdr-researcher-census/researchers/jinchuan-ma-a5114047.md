@@ -1,7 +1,7 @@
 ---
 title: "Jinchuan Ma"
-description: "Jinchuan Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.367250
+description: "Jinchuan Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.313651
 url: "/cdr-researcher-census/researchers/jinchuan-ma-a5114047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 765 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 796 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term biogas slurry application increases microbial necromass but not plant lignin contribution to soil organic carbon in paddy soils as regulated by fungal community** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Long-term phosphorus addition enhances the contributions of plant lignin and microbial necromass to soil organic carbon in a rice–wheat rotation** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

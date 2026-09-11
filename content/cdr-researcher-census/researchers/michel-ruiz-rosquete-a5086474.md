@@ -1,7 +1,7 @@
 ---
 title: "Michel Ruiz Rosquete"
-description: "Michel Ruiz Rosquete is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.263401
+description: "Michel Ruiz Rosquete is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.214029
 url: "/cdr-researcher-census/researchers/michel-ruiz-rosquete-a5086474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,179 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 1,203 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **<scp>ClearDepth</scp>: a simple, robust, and low‐cost method to assess root depth in soil** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **ClearDepth Method for Evaluations of Root Depth in Soil-Filled Pots** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Ho Jun Jang"
-description: "Ho Jun Jang is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.267312
+description: "Ho Jun Jang is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.151314
 url: "/cdr-researcher-census/researchers/ho-jun-jang-a5067670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 128 |
-| Publications | 24 |
-| CDR Focus | 12.5% |
+| h-index | 7 |
+| Citations | 148 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 2. **Assessing human impacts on soil organic carbon change in the Lower Namoi Valley, Australia** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Soil management priorities in Korea** (2022)
    11 citations · Soil Carbon

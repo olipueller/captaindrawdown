@@ -1,7 +1,7 @@
 ---
 title: "Haozhuang Wang"
-description: "Haozhuang Wang is a Mid-career Biochar researcher at Tongji University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.220063
+description: "Haozhuang Wang is a Mid-career Biochar researcher at Tongji University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.165612
 url: "/cdr-researcher-census/researchers/haozhuang-wang-a5076060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 138 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 145 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

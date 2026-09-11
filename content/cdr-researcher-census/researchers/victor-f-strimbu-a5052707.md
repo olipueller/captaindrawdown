@@ -1,7 +1,7 @@
 ---
 title: "Victor F. Strîmbu"
-description: "Victor F. Strîmbu is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.850368
+description: "Victor F. Strîmbu is a Senior Soil Carbon researcher at University of Helsinki in FI. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.807752
 url: "/cdr-researcher-census/researchers/victor-f-strimbu-a5052707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/victor-f-strimbu-a5052707/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Norwegian Institute of Bioeconomy Research"
+    "name": "University of Helsinki"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0588-2036",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Victor F. Strîmbu**  
-Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
+University of Helsinki ·  FI
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 247 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 255 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

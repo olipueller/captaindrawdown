@@ -1,7 +1,7 @@
 ---
 title: "Hari Krishna Laudari"
-description: "Hari Krishna Laudari is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.625597
+description: "Hari Krishna Laudari is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.552668
 url: "/cdr-researcher-census/researchers/hari-krishna-laudari-a5081313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 386 |
+| h-index | 12 |
+| Citations | 417 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

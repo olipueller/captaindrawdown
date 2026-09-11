@@ -1,7 +1,7 @@
 ---
 title: "Zhenfu Wu"
-description: "Zhenfu Wu is a Mid-career Soil Carbon researcher at Gannan Medical University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347942
+description: "Zhenfu Wu is a Mid-career Soil Carbon researcher at Zhengzhou University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.283855
 url: "/cdr-researcher-census/researchers/zhenfu-wu-a5110363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhenfu-wu-a5110363/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Gannan Medical University"
+    "name": "Zhengzhou University"
   },
   "sameAs": "https://openalex.org/A5110363630"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhenfu Wu**  
-Gannan Medical University · 🇨🇳 CN
+Zhengzhou University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 113 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 121 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

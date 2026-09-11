@@ -1,7 +1,7 @@
 ---
 title: "Yabo Shang"
-description: "Yabo Shang is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.966700
+description: "Yabo Shang is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.023308
 url: "/cdr-researcher-census/researchers/yabo-shang-a5084210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 209 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 8 |
+| Citations | 183 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

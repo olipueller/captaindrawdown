@@ -1,7 +1,7 @@
 ---
 title: "Marco Buffi"
-description: "Marco Buffi is a Mid-career General CDR researcher at European Commission Joint Research Centre in IT. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.253918
+description: "Marco Buffi is a Mid-career Biochar researcher at European Commission Joint Research Centre in IT. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.198629
 url: "/cdr-researcher-census/researchers/marco-buffi-a5086799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,27 +34,27 @@ European Commission Joint Research Centre · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,233 |
-| Publications | 44 |
-| CDR Focus | 9.1% |
+| Citations | 1,289 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Energy and GHG emissions assessment for biochar-enhanced advanced biofuels value chains** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **The Role of Direct Air Capture in EU’s Decarbonisation and Associated Carbon Intensity for Synthetic Fuels Production** (2023)
-   8 citations · DAC
+   10 citations · DAC
 
 3. **Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation** (2025)
    3 citations · Biochar

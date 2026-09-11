@@ -1,7 +1,7 @@
 ---
 title: "Bhairo Prasad Ahirvar"
-description: "Bhairo Prasad Ahirvar is a Mid-career Enhanced Weathering researcher at Indira Gandhi National Tribal University in IN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.252041
+description: "Bhairo Prasad Ahirvar is a Mid-career Enhanced Weathering researcher at Indira Gandhi National Tribal University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.182451
 url: "/cdr-researcher-census/researchers/bhairo-prasad-ahirvar-a5016389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 131 |
+| h-index | 3 |
+| Citations | 141 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Weathering in the subsurface environment of the Gondwana deposits intensified by the cumulative impacts of mining and agriculture practices** (2025)
-   2 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Laís Helena Sousa Vieira"
 description: "Laís Helena Sousa Vieira is a Mid-career Biochar researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.885438
+date: 2026-09-11T02:38:29.843876
 url: "/cdr-researcher-census/researchers/lais-helena-sousa-vieira-a5061451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 232 |
+| Citations | 239 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hydrochar for Soil Management Within a Waste-to-Resource Framework: From Characteristics to Agri-Environmental Implications** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sean McCoy"
-description: "Sean McCoy is a Senior General CDR researcher at University of Calgary in CA. With 105 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125892
+description: "Sean McCoy is a Senior General CDR researcher at University of Calgary in CA. With 106 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.079900
 url: "/cdr-researcher-census/researchers/sean-mccoy-a5001684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 3,286 |
-| Publications | 105 |
-| CDR Focus | 7.6% |
+| h-index | 24 |
+| Citations | 3,248 |
+| Publications | 106 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The impact of climate on solvent-based direct air capture systems** (2022)
-   103 citations · DAC
+   104 citations · DAC
 
 2. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
-   20 citations · DAC
+   22 citations · DAC
 
 3. **On the climate impacts of blue hydrogen production** (2021)
    12 citations · BECCS
 
-4. **On the climate impacts of blue hydrogen production** (2021)
-   8 citations
+4. **How do ambient conditions influence sorbent selection in adsorption-based direct air capture?** (2025)
+   9 citations
 
-5. **How do ambient conditions influence sorbent selection in adsorption-based direct air capture?** (2025)
-   7 citations
+5. **On the climate impacts of blue hydrogen production** (2021)
+   8 citations
 
 6. **Carbon and energy analysis of coupled direct air capture of CO2 with underground energy recovery** (2022)
    4 citations · DAC

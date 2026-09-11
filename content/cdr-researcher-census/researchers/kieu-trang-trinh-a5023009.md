@@ -1,7 +1,7 @@
 ---
 title: "Kieu Trang Trinh"
-description: "Kieu Trang Trinh is a Mid-career Enhanced Weathering researcher at Vietnam National University, Hanoi in VN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728385
+description: "Kieu Trang Trinh is a Mid-career Enhanced Weathering researcher at Kyushu Institute of Technology in JP. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.674473
 url: "/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Vietnam National University, Hanoi"
+    "name": "Kyushu Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0588-5165",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kieu Trang Trinh**  
-Vietnam National University, Hanoi · 🇻🇳 VN
+Kyushu Institute of Technology · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 311 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 323 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

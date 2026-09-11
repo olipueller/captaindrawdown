@@ -1,7 +1,7 @@
 ---
 title: "Alan Levett"
 description: "Alan Levett is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.518708
+date: 2026-09-11T02:38:29.469678
 url: "/cdr-researcher-census/researchers/alan-levett-a5075557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 490 |
+| Citations | 502 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Accelerated carbonate biomineralisation of Venetia diamond mine coarse residue deposit (CRD) material – A field trial study** (2023)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 2. **Microbe-mineral interactions within kimberlitic fine residue deposits: impacts on mineral carbonation** (2024)
    2 citations · Enhanced Weathering

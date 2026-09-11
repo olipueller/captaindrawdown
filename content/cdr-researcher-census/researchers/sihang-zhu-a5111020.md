@@ -1,7 +1,7 @@
 ---
 title: "Sihang Zhu"
 description: "Sihang Zhu is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.346239
+date: 2026-09-11T02:38:29.296610
 url: "/cdr-researcher-census/researchers/sihang-zhu-a5111020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 828 |
+| Citations | 847 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
-   33 citations · Biochar
+   35 citations · Biochar
 
 2. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
    16 citations · Biochar

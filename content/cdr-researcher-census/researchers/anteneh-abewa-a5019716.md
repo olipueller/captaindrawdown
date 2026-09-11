@@ -1,7 +1,7 @@
 ---
 title: "Anteneh Abewa"
 description: "Anteneh Abewa is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.769105
+date: 2026-09-11T02:38:29.720823
 url: "/cdr-researcher-census/researchers/anteneh-abewa-a5019716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 289 |
+| Citations | 298 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

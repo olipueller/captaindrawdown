@@ -1,7 +1,7 @@
 ---
 title: "Kehui Cen"
-description: "Kehui Cen is a Senior Biochar researcher at Nanjing Forestry University in CN. With 50 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.123079
+description: "Kehui Cen is a Senior Biochar researcher at Nanjing Forestry University in CN. With 51 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.071187
 url: "/cdr-researcher-census/researchers/kehui-cen-a5038999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 3,408 |
-| Publications | 50 |
-| CDR Focus | 6.0% |
+| Citations | 3,550 |
+| Publications | 51 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    16 citations · Biochar
 
 3. **Synergistic effects in co-pyrolysis of lignin and low-density polyethylene (LDPE): Impact on biochar, bio-oil, and gaseous products** (2026)
-   3 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

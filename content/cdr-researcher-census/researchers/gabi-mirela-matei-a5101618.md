@@ -1,7 +1,7 @@
 ---
 title: "Gabi Mirela Matei"
-description: "Gabi Mirela Matei is a Senior Soil Carbon researcher. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.187414
+description: "Gabi Mirela Matei is a Senior Soil Carbon researcher. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.135563
 url: "/cdr-researcher-census/researchers/gabi-mirela-matei-a5101618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
-| Trajectory | Exiting |
+| Citations | 152 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **SOIL RESPIRATION AS MICROBIAL RESPONSE TO THE ENDOGEN INPUT OF BIO-SYNTHESIZED ORGANIC MATTER AND ITS IMPLICATION IN CARBON SEQUESTRATION** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **THE INFLUENCE OF INOCULATION WITH SYNTHETIC MICROBIOMES ON THE EVOLUTION OF SOIL CARBON SEQUESTRATION UNDER THERMAL STRESS** (2026)
    0 citations · Soil Carbon

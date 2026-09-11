@@ -1,7 +1,7 @@
 ---
 title: "Sima Amiri-Pebdani"
 description: "Sima Amiri-Pebdani is an Early-career General CDR researcher at Isfahan University of Technology in IR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.351503
+date: 2026-09-11T02:38:30.317736
 url: "/cdr-researcher-census/researchers/sima-amiri-pebdani-a5030899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 112 |
+| Citations | 114 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |

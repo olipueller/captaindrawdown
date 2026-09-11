@@ -1,7 +1,7 @@
 ---
 title: "Shuai Niu"
 description: "Shuai Niu is an Early-career Biochar researcher at Kunming University of Science and Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.052319
+date: 2026-09-11T02:38:30.005317
 url: "/cdr-researcher-census/researchers/shuai-niu-a5079787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 181 |
+| Citations | 188 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based materials as remediation strategy in petroleum hydrocarbon-contaminated soil and water: Performances, mechanisms, and environmental impact** (2023)
-   98 citations · Biochar
+   100 citations · Biochar
 
 ## External Profiles
 

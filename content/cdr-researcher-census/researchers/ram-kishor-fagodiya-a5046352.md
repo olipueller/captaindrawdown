@@ -1,7 +1,7 @@
 ---
 title: "Ram Kishor Fagodiya"
-description: "Ram Kishor Fagodiya is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 75 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.174116
+description: "Ram Kishor Fagodiya is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.138551
 url: "/cdr-researcher-census/researchers/ram-kishor-fagodiya-a5046352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 2,014 |
+| h-index | 22 |
+| Citations | 1,842 |
 | Publications | 75 |
 | CDR Focus | 14.7% |
 | Trajectory | Stable |
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Soil Carbon
 
 3. **Greenhouse Gas Emissions from Salt-Affected Soils: Mechanistic Understanding of Interplay Factors and Reclamation Approaches** (2022)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 4. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
    11 citations · General CDR
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 7. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Effect of different nitrogen management options on nutrient uptake, biomass carbon sequestration and grain yield of maize-wheat system in reclaimed sodic soil** (2021)
    6 citations · Soil Carbon
@@ -77,7 +77,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Assessing the soil organic carbon stability and greenhouse gases mitigation in rice-wheat system: Seventeen-years assessment of tillage and residue management** (2025)
    5 citations · Soil Carbon
 
-10. **Conservation agriculture practices for carbon sequestration and greenhouse gas mitigation** (2024)
+10. **Divergent models of biomass accumulation, carbon sequestration, and carbon credit potential in reclaimed sodic lands** (2026)
    2 citations · Soil Carbon
 
 ## External Profiles

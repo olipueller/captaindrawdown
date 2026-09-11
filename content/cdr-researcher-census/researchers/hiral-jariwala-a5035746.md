@@ -1,7 +1,7 @@
 ---
 title: "Hiral Jariwala"
 description: "Hiral Jariwala is an Early-career Enhanced Weathering researcher at University of Guelph in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.823372
+date: 2026-09-11T02:38:29.755463
 url: "/cdr-researcher-census/researchers/hiral-jariwala-a5035746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 260 |
+| Citations | 279 |
 | Publications | 6 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Mineral–Soil–Plant–Nutrient Synergisms of Enhanced Weathering for Agriculture: Short-Term Investigations Using Fast-Weathering Wollastonite Skarn** (2022)
-   38 citations · Enhanced Weathering
+   39 citations · Enhanced Weathering
 
 2. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 3. **Mobility of nitrogen and phosphorus solutes in fertilized and silicate-amended soil profiles** (2026)
    0 citations

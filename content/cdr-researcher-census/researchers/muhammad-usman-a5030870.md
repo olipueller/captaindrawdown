@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usman"
-description: "Muhammad Usman is a Mid-career General CDR researcher at King Abdullah University of Science and Technology in SA. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.792934
+description: "Muhammad Usman is a Mid-career General CDR researcher at King Abdullah University of Science and Technology in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.739367
 url: "/cdr-researcher-census/researchers/muhammad-usman-a5030870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 276 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 288 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Influence of organic matter and mineral composition on carbonate source rock wettability: Implications for CO2 geostorage** (2025)
-   19 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

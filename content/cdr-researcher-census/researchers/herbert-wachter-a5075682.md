@@ -1,7 +1,7 @@
 ---
 title: "Herbert Wachter"
 description: "Herbert Wachter is a Senior Soil Carbon researcher at Universität Innsbruck in AT. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.852951
+date: 2026-09-11T02:38:29.819011
 url: "/cdr-researcher-census/researchers/herbert-wachter-a5075682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 245 |
+| Citations | 250 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Individual and interactive effects of warming and nitrogen supply on CO<sub>2</sub> fluxes and carbon allocation in subarctic grassland** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Individual and interactive effects of warming and nitrogen supply on CO2 fluxes and carbon allocation in subarctic grassland** (2024)
    1 citations · Soil Carbon

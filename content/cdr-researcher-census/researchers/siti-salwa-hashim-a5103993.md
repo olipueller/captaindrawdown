@@ -1,7 +1,7 @@
 ---
 title: "Siti Salwa Hashim"
 description: "Siti Salwa Hashim is a Mid-career DAC researcher at Swinburne University of Technology Sarawak Campus in MY. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.274437
+date: 2026-09-11T02:38:29.222677
 url: "/cdr-researcher-census/researchers/siti-salwa-hashim-a5103993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,121 |
+| Citations | 1,145 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review of CO<sub>2</sub> adsorbents performance for different carbon capture technology processes conditions** (2021)
-   169 citations · DAC
+   173 citations · DAC
 
 ## External Profiles
 

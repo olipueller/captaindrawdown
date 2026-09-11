@@ -1,7 +1,7 @@
 ---
 title: "Gongwen Luo"
-description: "Gongwen Luo is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 76 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.104534
+description: "Gongwen Luo is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 75 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.054067
 url: "/cdr-researcher-census/researchers/gongwen-luo-a5039288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 34 |
-| Citations | 4,488 |
-| Publications | 76 |
+| h-index | 35 |
+| Citations | 4,644 |
+| Publications | 75 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   76 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Intercropping-driven effects on soil organic carbon mineralization and its temperature sensitivity are associated with soil C-N-P stoichiometry and carbon-acquiring microorganisms and enzymes** (2025)
    9 citations · Soil Carbon
 
 3. **Straw Returning Amount and Duration Influence Paddy Soil Organic Carbon Sequestration by Regulating Plant‐ and Microbe‐Derived Carbon Accumulation** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 4. **Increasing phosphorus availability and dynamics enhance soil organic carbon and its sub-pools sequestration as consequence of phosphorus inputs** (2026)
    0 citations · Soil Carbon

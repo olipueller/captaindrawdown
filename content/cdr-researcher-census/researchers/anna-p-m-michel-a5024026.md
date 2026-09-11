@@ -1,7 +1,7 @@
 ---
 title: "Anna P. M. Michel"
-description: "Anna P. M. Michel is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 116 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.192304
+description: "Anna P. M. Michel is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 118 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.141243
 url: "/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,760 |
-| Publications | 116 |
-| CDR Focus | 6.0% |
+| Citations | 1,802 |
+| Publications | 118 |
+| CDR Focus | 6.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
 2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
@@ -69,7 +69,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations
 
 7. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 8. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR

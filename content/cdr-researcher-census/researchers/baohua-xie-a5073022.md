@@ -1,7 +1,7 @@
 ---
 title: "Baohua Xie"
-description: "Baohua Xie is a Senior Soil Carbon researcher at Liaocheng University in CN. With 70 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.135719
+description: "Baohua Xie is a Senior Soil Carbon researcher at Hunan University in CN. With 69 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.085907
 url: "/cdr-researcher-census/researchers/baohua-xie-a5073022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/baohua-xie-a5073022/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Liaocheng University"
+    "name": "Hunan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3822-9305",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Baohua Xie**  
-Liaocheng University · 🇨🇳 CN
+Hunan University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 30 |
-| Citations | 2,940 |
-| Publications | 70 |
-| CDR Focus | 7.1% |
+| h-index | 31 |
+| Citations | 2,982 |
+| Publications | 69 |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

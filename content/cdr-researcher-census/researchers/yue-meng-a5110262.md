@@ -1,7 +1,7 @@
 ---
 title: "Yue Meng"
 description: "Yue Meng is a Senior Soil Carbon researcher at First Affiliated Hospital of Jiamusi University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.128844
+date: 2026-09-11T02:38:30.103554
 url: "/cdr-researcher-census/researchers/yue-meng-a5110262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

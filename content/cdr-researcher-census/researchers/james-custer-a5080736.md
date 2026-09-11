@@ -1,7 +1,7 @@
 ---
 title: "James Custer"
 description: "James Custer is a Mid-career DAC researcher at University of North Carolina at Chapel Hill in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.629213
+date: 2026-09-11T02:38:29.582579
 url: "/cdr-researcher-census/researchers/james-custer-a5080736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 382 |
+| Citations | 391 |
 | Publications | 38 |
 | CDR Focus | 7.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   15 citations · DAC
+   16 citations · DAC
 
 2. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
    4 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Zhe Chen"
-description: "Zhe Chen is a Senior Soil Carbon researcher at Yunnan University in CN. With 188 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.103769
+description: "Zhe Chen is a Senior Soil Carbon researcher at Yunnan University in CN. With 190 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.052976
 url: "/cdr-researcher-census/researchers/zhe-chen-a5100457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 4,549 |
-| Publications | 188 |
+| h-index | 36 |
+| Citations | 4,688 |
+| Publications | 190 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Improving soil aggregates stability and soil organic carbon sequestration by no-till and legume-based crop rotations in the North China Plain** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Ecoenzymatic stoichiometry reveals stronger microbial carbon and nitrogen limitation in biochar amendment soils: A meta-analysis** (2022)
-   56 citations · Biochar
+   60 citations · Biochar
 
 3. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
-4. **Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals** (2022)
-   24 citations · Biochar
+4. **12-year continuous biochar application: Mitigating reactive nitrogen loss in paddy fields but without rice yield enhancement** (2024)
+   25 citations · Biochar
 
-5. **12-year continuous biochar application: Mitigating reactive nitrogen loss in paddy fields but without rice yield enhancement** (2024)
-   22 citations · Biochar
+5. **Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals** (2022)
+   25 citations · Biochar
 
 6. **Contribution of wheat and maize to soil organic carbon in a wheat‐maize cropping system: A field and laboratory study** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 7. **Divergent pattern of soil CO2, CH4 and N2O emissions in 18-year citrus orchard and Camellia oleifera plantations converted from natural shrub forests** (2022)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Michael Acquafredda"
-description: "Michael Acquafredda is a Mid-career Ocean CDR researcher at Shell (Norway) in NO. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.362269
+description: "Michael Acquafredda is a Mid-career Ocean CDR researcher at North Bay Shellfish (United Kingdom) in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.317220
 url: "/cdr-researcher-census/researchers/michael-acquafredda-a5081939/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michael-acquafredda-a5081939/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shell (Norway)"
+    "name": "North Bay Shellfish (United Kingdom)"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2006-6026",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michael Acquafredda**  
-Shell (Norway) · 🇳🇴 NO
+North Bay Shellfish (United Kingdom) · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 110 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 114 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Piera Patrizio"
-description: "Piera Patrizio is a Mid-career General CDR researcher at Imperial College London in GB. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.226698
+description: "Piera Patrizio is a Mid-career General CDR researcher at Imperial College London in GB. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.176103
 url: "/cdr-researcher-census/researchers/piera-patrizio-a5104805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,418 |
+| h-index | 18 |
+| Citations | 1,451 |
 | Publications | 40 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
-   91 citations · General CDR
+   96 citations · General CDR
 
 2. **Fuel from air: A techno-economic assessment of e-fuels for low-carbon aviation in China** (2025)
-   16 citations · DAC
+   18 citations · DAC
 
 3. **The Efficiency, Timing and Permanence of CDR Pathways: A Comparative Analysis** (2022)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Mengying Shao"
 description: "Mengying Shao is a Mid-career Biochar researcher at China Geological Survey in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.799949
+date: 2026-09-11T02:38:29.719219
 url: "/cdr-researcher-census/researchers/mengying-shao-a5032218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 272 |
+| Citations | 298 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in remediating salt-affected soil to achieve carbon neutrality and abate climate change** (2023)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Comparison of sulfamethoxazole adsorption by activated carbon and biochar in seawater** (2021)
    2 citations · Biochar

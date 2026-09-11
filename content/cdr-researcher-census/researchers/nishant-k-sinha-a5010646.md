@@ -1,7 +1,7 @@
 ---
 title: "Nishant K. Sinha"
-description: "Nishant K. Sinha is a Senior Soil Carbon researcher at ICAR- Indian Institute of Soil Science in IN. With 164 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.128025
+description: "Nishant K. Sinha is a Senior Soil Carbon researcher at ICAR- Indian Institute of Soil Science in IN. With 164 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078251
 url: "/cdr-researcher-census/researchers/nishant-k-sinha-a5010646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 3,211 |
+| h-index | 32 |
+| Citations | 3,307 |
 | Publications | 164 |
 | CDR Focus | 5.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No-till farming and climate change mitigation: Lessons learnt from long-term no-till experiments and future perspectives** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Regional soil organic carbon prediction models based on a multivariate analysis of the Mid-infrared hyperspectral data in the middle Indo-Gangetic plains of India** (2022)
    14 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · General CDR
 
 4. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Soil Carbon Sequestration Through Conservation Tillage and Residue Management** (2021)
    5 citations · Soil Carbon

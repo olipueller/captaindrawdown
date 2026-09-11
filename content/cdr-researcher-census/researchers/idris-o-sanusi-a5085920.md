@@ -1,7 +1,7 @@
 ---
 title: "Idris O. Sanusi"
 description: "Idris O. Sanusi is a Mid-career Biochar researcher at Kampala International University in UG. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.049800
+date: 2026-09-11T02:38:29.909265
 url: "/cdr-researcher-census/researchers/idris-o-sanusi-a5085920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 182 |
+| Citations | 214 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive evaluation of biochar influence on soil microbial diversity, nutrient cycling and contaminant remediation using systematic review and meta-analysis** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 2. **Techniques and applications of advanced oxidation processes for degrading pollutants in wastewater using biochar-based catalysts: a critical review** (2026)
    0 citations · Biochar

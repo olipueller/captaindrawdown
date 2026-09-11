@@ -1,7 +1,7 @@
 ---
 title: "D. H. Thomas"
 description: "D. H. Thomas is a Senior Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.817649
+date: 2026-09-11T02:38:29.774877
 url: "/cdr-researcher-census/researchers/d-h-thomas-a5113983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 263 |
+| Citations | 270 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Use of biomass-derived biochar in wastewater treatment and power production: A promising solution for a sustainable environment** (2022)
-   190 citations · Biochar
+   192 citations · Biochar
 
 ## External Profiles
 

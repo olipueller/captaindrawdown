@@ -1,7 +1,7 @@
 ---
 title: "Katie Lebling"
-description: "Katie Lebling is a Mid-career General CDR researcher. With 52 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.893498
+description: "Katie Lebling is a Mid-career General CDR researcher. With 53 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.839640
 url: "/cdr-researcher-census/researchers/katie-lebling-a5029759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,9 +35,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 228 |
-| Publications | 52 |
-| CDR Focus | 13.5% |
+| Citations | 240 |
+| Publications | 53 |
+| CDR Focus | 17.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -60,7 +60,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
    0 citations · General CDR
 
-7. **Next Generation of US Policies To Remove Carbon Pollution From the Atmosphere** (2025)
+7. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+8. **Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
+
+9. **Next Generation of US Policies To Remove Carbon Pollution From the Atmosphere** (2025)
    0 citations · General CDR
 
 ## External Profiles

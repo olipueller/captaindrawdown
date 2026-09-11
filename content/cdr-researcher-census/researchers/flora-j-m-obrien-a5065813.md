@@ -1,7 +1,7 @@
 ---
 title: "Flora J. M. O’Brien"
 description: "Flora J. M. O’Brien is a Mid-career Soil Carbon researcher at East Malling Research (United Kingdom) in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.051163
+date: 2026-09-11T02:38:30.013974
 url: "/cdr-researcher-census/researchers/flora-j-m-obrien-a5065813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 182 |
+| Citations | 186 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative viticulture and climate change resilience** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

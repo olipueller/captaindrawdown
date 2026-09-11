@@ -1,7 +1,7 @@
 ---
 title: "Ruth Turia"
 description: "Ruth Turia is an Early-career Soil Carbon researcher at National Department of Health in PG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.731743
+date: 2026-09-11T02:38:29.690650
 url: "/cdr-researcher-census/researchers/ruth-turia-a5029133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 309 |
+| Citations | 314 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

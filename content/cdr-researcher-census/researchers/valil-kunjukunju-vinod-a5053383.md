@@ -1,7 +1,7 @@
 ---
 title: "Valil Kunjukunju Vinod"
-description: "Valil Kunjukunju Vinod is a Mid-career Biochar researcher at Kerala Veterinary and Animal Sciences University in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.340970
+description: "Valil Kunjukunju Vinod is a Mid-career Biochar researcher at Kerala Veterinary and Animal Sciences University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.292008
 url: "/cdr-researcher-census/researchers/valil-kunjukunju-vinod-a5053383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 114 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 119 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Owais Ali Wani"
-description: "Owais Ali Wani is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 87 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142401
+description: "Owais Ali Wani is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 85 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.089991
 url: "/cdr-researcher-census/researchers/owais-ali-wani-a5039747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,684 |
-| Publications | 87 |
-| CDR Focus | 5.7% |
+| Citations | 2,832 |
+| Publications | 85 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   84 citations · General CDR
+   86 citations · General CDR
 
-2. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
+2. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
+   3 citations · General CDR
+
+3. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
    2 citations · Biochar
-
-3. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
-   2 citations · General CDR
 
 4. **Pyrolyzed and unpyrolyzed residues enhance maize yield under varying rates of application and fertilization regimes** (2024)
    2 citations · Biochar

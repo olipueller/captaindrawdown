@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Mansur Abdulwakil"
 description: "Muhammad Mansur Abdulwakil is a Mid-career General CDR researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.106581
+date: 2026-09-11T02:38:30.076730
 url: "/cdr-researcher-census/researchers/muhammad-mansur-abdulwakil-a5064243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 165 |
+| Citations | 167 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

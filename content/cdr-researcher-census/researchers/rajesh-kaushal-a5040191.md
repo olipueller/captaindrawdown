@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Kaushal"
-description: "Rajesh Kaushal is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 163 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.179260
+description: "Rajesh Kaushal is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 164 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.124732
 url: "/cdr-researcher-census/researchers/rajesh-kaushal-a5040191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,939 |
-| Publications | 163 |
-| CDR Focus | 7.4% |
+| h-index | 26 |
+| Citations | 2,039 |
+| Publications | 164 |
+| CDR Focus | 7.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Carbon Farming: Prospects and Challenges** (2021)
    79 citations
 
 3. **Biomass Accumulation and Carbon Stock in Different Agroforestry Systems Prevalent in the Himalayan Foothills, India** (2021)
-   60 citations · General CDR
+   61 citations · General CDR
 
 4. **Carbon Farming: Prospects and Challenges** (2021)
    32 citations · General CDR
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 6. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   19 citations · General CDR
+   22 citations · General CDR
 
 7. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    16 citations · Soil Carbon
 
 8. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 9. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 10. **Perspective Chapter: Agroforestry Strategies for Integrated Soil and Water Conservation** (2024)
    3 citations · Soil Carbon

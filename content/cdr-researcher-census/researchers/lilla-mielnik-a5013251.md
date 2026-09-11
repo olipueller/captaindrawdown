@@ -1,7 +1,7 @@
 ---
 title: "Lilla Mielnik"
 description: "Lilla Mielnik is a Senior Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 55 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.609950
+date: 2026-09-11T02:38:29.555202
 url: "/cdr-researcher-census/researchers/lilla-mielnik-a5013251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 398 |
+| Citations | 414 |
 | Publications | 55 |
 | CDR Focus | 10.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
-   7 citations · Soil Carbon
+1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
+   9 citations · Soil Carbon
 
-2. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   7 citations · Soil Carbon
+2. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
+   8 citations · Soil Carbon
 
 3. **Changes in Soil Humin Macromolecular Structure Resulting from Long-Term Catch Cropping** (2024)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Tangqing He"
-description: "Tangqing He is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.839702
+description: "Tangqing He is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.756763
 url: "/cdr-researcher-census/researchers/tangqing-he-a5027991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 252 |
+| h-index | 7 |
+| Citations | 279 |
 | Publications | 18 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   66 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Supplementary original data** (2023)
    0 citations · Soil Carbon

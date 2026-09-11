@@ -1,7 +1,7 @@
 ---
 title: "Bindu Raghavan"
 description: "Bindu Raghavan is a Senior Soil Carbon researcher at Wildlife Trust of India in IN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.564241
+date: 2026-09-11T02:38:29.526427
 url: "/cdr-researcher-census/researchers/bindu-raghavan-a5011439/"
 layout: "researcher"
 hiddenInHomeList: true

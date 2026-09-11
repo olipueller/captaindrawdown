@@ -1,7 +1,7 @@
 ---
 title: "Jialin Ni"
-description: "Jialin Ni is a Senior Ocean CDR researcher at Jiangnan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.393663
+description: "Jialin Ni is a Senior Ocean CDR researcher at Jiangnan University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.334189
 url: "/cdr-researcher-census/researchers/jialin-ni-a5070987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 105 |
+| h-index | 7 |
+| Citations | 111 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

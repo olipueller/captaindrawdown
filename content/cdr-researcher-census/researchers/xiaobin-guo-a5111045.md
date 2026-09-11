@@ -1,7 +1,7 @@
 ---
 title: "Xiaobin Guo"
 description: "Xiaobin Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.156168
+date: 2026-09-11T02:38:29.103808
 url: "/cdr-researcher-census/researchers/xiaobin-guo-a5111045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 2,331 |
+| Citations | 2,427 |
 | Publications | 34 |
 | CDR Focus | 17.6% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic capacity regulates the accrual of mineral-associated organic carbon in subtropical paddy soils** (2024)
-   78 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 2. **Vegetation restoration enhancing soil carbon sequestration in karst rocky desertification ecosystems: A meta-analysis** (2024)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Microbial metabolism strengths carbon sequestration and crop yield in upland red soil after long-term ex situ incorporation of straw** (2024)
    5 citations · Soil Carbon

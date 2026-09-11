@@ -1,7 +1,7 @@
 ---
 title: "Wilson Reis"
 description: "Wilson Reis is a Senior BECCS researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693563
+date: 2026-09-11T02:38:29.647134
 url: "/cdr-researcher-census/researchers/wilson-reis-a5062988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 335 |
+| Citations | 343 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

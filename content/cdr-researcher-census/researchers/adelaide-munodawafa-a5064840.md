@@ -1,7 +1,7 @@
 ---
 title: "Adelaide Munodawafa"
 description: "Adelaide Munodawafa is a Senior Biochar researcher at Midlands State University in ZW. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.606620
+date: 2026-09-11T02:38:29.565836
 url: "/cdr-researcher-census/researchers/adelaide-munodawafa-a5064840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 401 |
+| Citations | 404 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar derived from non-customized matamba fruit shell as an adsorbent for wastewater treatment** (2022)
-   146 citations · Biochar
+   147 citations · Biochar
 
 ## External Profiles
 

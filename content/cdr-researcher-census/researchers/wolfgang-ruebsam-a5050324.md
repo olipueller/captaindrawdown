@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Ruebsam"
-description: "Wolfgang Ruebsam is a Mid-career Enhanced Weathering researcher at Kiel University in DE. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239477
+description: "Wolfgang Ruebsam is a Senior Enhanced Weathering researcher at Kiel University in DE. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.186532
 url: "/cdr-researcher-census/researchers/wolfgang-ruebsam-a5050324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Wolfgang Ruebsam**  
 Kiel University · 🇩🇪 DE
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,28 +42,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,332 |
-| Publications | 75 |
-| CDR Focus | 5.3% |
+| h-index | 20 |
+| Citations | 1,384 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of the Jenkyns Event (early Toarcian) on dinosaurs: Comparison with the Triassic/Jurassic transition** (2022)
-   28 citations · Enhanced Weathering
+   30 citations · Enhanced Weathering
 
 2. **The Toarcian Oceanic Anoxic Event: where do we stand?** (2021)
    27 citations · Enhanced Weathering
 
 3. **About this title - Carbon Cycle and Ecosystem Response to the Jenkyns Event in the Early Toarcian (Jurassic)** (2021)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 4. **Dinosaur extinctions related to the Jenkyns Event (early Toarcian, Jurassic)** (2022)
    3 citations · Enhanced Weathering
 
 5. **Carbon and nitrogen cycling in response to global environmental change during the Carnian Pluvial Episode (late Triassic)** (2025)
-   1 citations
+   2 citations
 
 6. **Comment on cp-2022-87** (2023)
    0 citations

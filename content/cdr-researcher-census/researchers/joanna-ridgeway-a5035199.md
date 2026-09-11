@@ -1,7 +1,7 @@
 ---
 title: "Joanna Ridgeway"
-description: "Joanna Ridgeway is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.890894
+description: "Joanna Ridgeway is a Mid-career Soil Carbon researcher at West Virginia University in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.842321
 url: "/cdr-researcher-census/researchers/joanna-ridgeway-a5035199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joanna-ridgeway-a5035199/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dartmouth College"
+    "name": "West Virginia University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9791-9803",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Joanna Ridgeway**  
-Dartmouth College · 🇺🇸 US
+West Virginia University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 229 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 239 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Plant litter traits control microbial decomposition and drive soil carbon stabilization** (2022)
-   125 citations
+   126 citations
 
 2. **Title: Plant Litter Traits Control Microbial Decomposition and Drive Soil Carbon Stabilization** (2022)
    0 citations · Soil Carbon

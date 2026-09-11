@@ -1,7 +1,7 @@
 ---
 title: "Jinqiang Sun"
 description: "Jinqiang Sun is a Mid-career Biochar researcher at Soochow University in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.612351
+date: 2026-09-11T02:38:29.554532
 url: "/cdr-researcher-census/researchers/jinqiang-sun-a5071044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 397 |
+| Citations | 415 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

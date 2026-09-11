@@ -1,7 +1,7 @@
 ---
 title: "Jingxu Wang"
 description: "Jingxu Wang is a Mid-career Soil Carbon researcher at Henan Academy of Sciences in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.343719
+date: 2026-09-11T02:38:30.306481
 url: "/cdr-researcher-census/researchers/jingxu-wang-a5068666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 114 |
+| Citations | 117 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

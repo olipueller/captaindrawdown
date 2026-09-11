@@ -1,7 +1,7 @@
 ---
 title: "Tariro Tecla Manhongo"
-description: "Tariro Tecla Manhongo is a Mid-career BECCS researcher at University of South Africa in ZA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.926138
+description: "Tariro Tecla Manhongo is a Mid-career BECCS researcher at University of South Africa in ZA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.878697
 url: "/cdr-researcher-census/researchers/tariro-tecla-manhongo-a5036458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 216 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 225 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

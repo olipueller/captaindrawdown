@@ -1,7 +1,7 @@
 ---
 title: "Joel Gustavsson"
 description: "Joel Gustavsson is a Senior BECCS researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062823
+date: 2026-09-11T02:38:30.015590
 url: "/cdr-researcher-census/researchers/joel-gustavsson-a5052459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 178 |
+| Citations | 185 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Decarbonising the iron and steel industries: Production of carbon-negative direct reduced iron by using biosyngas** (2023)
-   55 citations · BECCS
+   57 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fangwei Cheng"
-description: "Fangwei Cheng is a Mid-career BECCS researcher at China Agricultural University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284227
+description: "Fangwei Cheng is a Mid-career BECCS researcher at Princeton University in US. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.228362
 url: "/cdr-researcher-census/researchers/fangwei-cheng-a5004607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fangwei-cheng-a5004607/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Agricultural University"
+    "name": "Princeton University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6589-2749",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Fangwei Cheng**  
-China Agricultural University · 🇨🇳 CN
+Princeton University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,071 |
-| Publications | 37 |
-| CDR Focus | 8.1% |
+| Citations | 1,119 |
+| Publications | 36 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The levelized cost of negative CO2 emissions from thermochemical conversion of biomass coupled with carbon capture and storage** (2021)
-   85 citations · BECCS
+   87 citations · BECCS
 
 2. **Direct air capture integration with low-carbon heat: Process engineering and power system analysis** (2024)
-   16 citations
+   18 citations
 
 3. **Biopower with molten carbonate fuel cell carbon dioxide capture: Performance, cost, and grid-integration evaluations** (2024)
    9 citations · BECCS

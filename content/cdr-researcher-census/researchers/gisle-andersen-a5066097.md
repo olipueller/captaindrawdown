@@ -1,7 +1,7 @@
 ---
 title: "Gisle Andersen"
-description: "Gisle Andersen is a Senior General CDR researcher at Bjerknes Centre for Climate Research in NO. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.389628
+description: "Gisle Andersen is a Senior General CDR researcher at Bjerknes Centre for Climate Research in NO. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.475756
 url: "/cdr-researcher-census/researchers/gisle-andersen-a5066097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 712 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 495 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

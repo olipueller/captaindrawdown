@@ -1,7 +1,7 @@
 ---
 title: "Christoph Winkler"
-description: "Christoph Winkler is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.339998
+description: "Christoph Winkler is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.312998
 url: "/cdr-researcher-census/researchers/christoph-winkler-a5040059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 114 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 115 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

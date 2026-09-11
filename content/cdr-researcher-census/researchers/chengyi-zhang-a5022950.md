@@ -1,7 +1,7 @@
 ---
 title: "Chengyi Zhang"
 description: "Chengyi Zhang is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.019042
+date: 2026-09-11T02:38:29.965286
 url: "/cdr-researcher-census/researchers/chengyi-zhang-a5022950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 191 |
+| Citations | 200 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of hydrological environment on litter carbon input into the surface soil organic carbon pool in the Dongting Lake floodplain** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Vegetation types and flood water level are dominant factors controlling the carbon sequestration potential in Dongting Lake floodplain, China** (2024)
-   21 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

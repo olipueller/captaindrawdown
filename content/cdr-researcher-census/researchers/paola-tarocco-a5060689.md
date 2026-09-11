@@ -1,7 +1,7 @@
 ---
 title: "Paola Tarocco"
-description: "Paola Tarocco is a Mid-career Soil Carbon researcher at Agenzia Regionale Prevenzione e Ambiente della Regione Emilia-Romagna in IT. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783309
+description: "Paola Tarocco is a Mid-career Soil Carbon researcher at Agenzia Sanitaria e Sociale Regionale in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.746004
 url: "/cdr-researcher-census/researchers/paola-tarocco-a5060689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paola-tarocco-a5060689/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agenzia Regionale Prevenzione e Ambiente della Regione Emilia-Romagna"
+    "name": "Agenzia Sanitaria e Sociale Regionale"
   },
   "sameAs": "https://openalex.org/A5060689122"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Paola Tarocco**  
-Agenzia Regionale Prevenzione e Ambiente della Regione Emilia-Romagna · 🇮🇹 IT
+Agenzia Sanitaria e Sociale Regionale · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 281 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 285 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

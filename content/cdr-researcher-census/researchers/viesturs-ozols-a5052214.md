@@ -1,7 +1,7 @@
 ---
 title: "Viesturs Ozols"
 description: "Viesturs Ozols is a Mid-career Biochar researcher at University of Latvia in LV. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.135484
+date: 2026-09-11T02:38:30.089708
 url: "/cdr-researcher-census/researchers/viesturs-ozols-a5052214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 157 |
+| Citations | 163 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

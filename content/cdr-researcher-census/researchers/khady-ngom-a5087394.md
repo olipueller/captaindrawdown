@@ -1,7 +1,7 @@
 ---
 title: "Khady Ngom"
 description: "Khady Ngom is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.800641
+date: 2026-09-11T02:38:29.752976
 url: "/cdr-researcher-census/researchers/khady-ngom-a5087394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 272 |
+| Citations | 281 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   261 citations · Soil Carbon
+   264 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Christian Sponagel"
-description: "Christian Sponagel is a Mid-career General CDR researcher at University of Hohenheim in DE. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.338559
+description: "Christian Sponagel is a Mid-career General CDR researcher at University of Hohenheim in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.253371
 url: "/cdr-researcher-census/researchers/christian-sponagel-a5090896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 115 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
+| h-index | 6 |
+| Citations | 127 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

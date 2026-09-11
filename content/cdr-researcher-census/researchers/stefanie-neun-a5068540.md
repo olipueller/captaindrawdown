@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Neun"
-description: "Stefanie Neun is a Mid-career General CDR researcher at Novozymes (Denmark) in DK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.736048
+description: "Stefanie Neun is a Mid-career General CDR researcher at Novozymes (Denmark) in DK. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.671639
 url: "/cdr-researcher-census/researchers/stefanie-neun-a5068540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 306 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 325 |
+| Publications | 21 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

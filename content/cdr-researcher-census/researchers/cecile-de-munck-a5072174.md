@@ -1,7 +1,7 @@
 ---
 title: "Cécile de Munck"
 description: "Cécile de Munck is a Mid-career Soil Carbon researcher at Countryside and Community Research Institute in GB. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258688
+date: 2026-09-11T02:38:29.206858
 url: "/cdr-researcher-census/researchers/cecile-de-munck-a5072174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,206 |
+| Citations | 1,241 |
 | Publications | 58 |
 | CDR Focus | 5.2% |
 | Trajectory | Growing |

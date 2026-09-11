@@ -1,7 +1,7 @@
 ---
 title: "Yihao Wang"
 description: "Yihao Wang is a Mid-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.879383
+date: 2026-09-11T02:38:29.829388
 url: "/cdr-researcher-census/researchers/yihao-wang-a5046786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 234 |
+| Citations | 245 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations
 
 3. **Iron (Hydr)oxide-Enriched Biochar for Arsenic Immobilization Under Microbial Iron Reduction and Fluctuating Redox Conditions** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

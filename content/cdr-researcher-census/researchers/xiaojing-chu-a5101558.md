@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Chu"
-description: "Xiaojing Chu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.282018
+description: "Xiaojing Chu is a Mid-career Soil Carbon researcher at Yantai Institute of Coastal Zone Research in CN. With 46 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.229453
 url: "/cdr-researcher-census/researchers/xiaojing-chu-a5101558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaojing-chu-a5101558/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Yantai Institute of Coastal Zone Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9505-0961",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaojing Chu**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Yantai Institute of Coastal Zone Research · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,081 |
-| Publications | 42 |
-| CDR Focus | 21.4% |
+| Citations | 1,111 |
+| Publications | 46 |
+| CDR Focus | 17.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
-   9 citations · Soil Carbon
+1. **Thresholds of Wetland Carbon Sink Regulation by Water Level** (2025)
+   10 citations · Soil Carbon
 
-2. **Thresholds of Wetland Carbon Sink Regulation by Water Level** (2025)
-   8 citations · Soil Carbon
+2. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
+   9 citations · Soil Carbon
 
 3. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
    8 citations · Soil Carbon
 
 4. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
    3 citations · Soil Carbon

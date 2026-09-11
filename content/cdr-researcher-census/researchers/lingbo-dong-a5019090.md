@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Dong"
-description: "Lingbo Dong is a Senior Soil Carbon researcher at Oregon State University in US. With 149 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.164911
+description: "Lingbo Dong is a Senior Soil Carbon researcher at Oregon State University in US. With 149 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.113250
 url: "/cdr-researcher-census/researchers/lingbo-dong-a5019090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 2,149 |
+| h-index | 26 |
+| Citations | 2,231 |
 | Publications | 149 |
-| CDR Focus | 8.1% |
+| CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   67 citations
+   68 citations
 
 3. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 5. **Long-term vegetation restoration promotes lignin phenol preservation and microbial anabolism in forest plantations: Implications for soil organic carbon dynamics** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 6. **Appropriate N addition improves soil aggregate stability through<scp>AMF</scp>and glomalin‐related soil proteins in a semiarid agroecosystem** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 7. **The contributions of stand characteristics on carbon sequestration potential are triple that of climate variables for Larix spp. plantations in northeast China** (2023)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 8. **Factors driving carbon accumulation in forest biomass and soil organic carbon across natural forests and planted forests in China** (2024)
    23 citations · General CDR
 
 9. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 10. **Variations on the maximum density-size lines to climate and site factors for Larix spp. plantations in northeast China** (2024)
-   5 citations
+   6 citations
 
 ## External Profiles
 

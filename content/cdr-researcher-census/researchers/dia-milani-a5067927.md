@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
-description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.139900
+description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.089244
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 2,775 |
+| h-index | 27 |
+| Citations | 2,841 |
 | Publications | 65 |
 | CDR Focus | 12.3% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of potential routes to zero and negative emission technologies via the integration of renewable energies with CO2 capture processes** (2023)
-   116 citations · DAC
+   117 citations · DAC
 
 2. **Decarbonizing hard-to-abate heavy industries: Current status and pathways towards net-zero future** (2024)
-   74 citations · General CDR
+   81 citations · General CDR
 
 3. **Green pathways for urea synthesis: A review from Australia's perspective** (2022)
-   60 citations · General CDR
+   61 citations · General CDR
 
 4. **Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective** (2024)
-   21 citations · DAC
+   22 citations · DAC
 
 5. **Techno-economic assessment of green urea production integrated with direct air capture** (2025)
    3 citations · DAC

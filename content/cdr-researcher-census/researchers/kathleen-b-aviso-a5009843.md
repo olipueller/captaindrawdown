@@ -1,7 +1,7 @@
 ---
 title: "Kathleen B. Aviso"
-description: "Kathleen B. Aviso is an Eminent General CDR researcher at De La Salle University in PH. With 322 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.091537
+description: "Kathleen B. Aviso is an Eminent General CDR researcher at De La Salle University in PH. With 329 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.042961
 url: "/cdr-researcher-census/researchers/kathleen-b-aviso-a5009843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 42 |
-| Citations | 5,783 |
-| Publications | 322 |
-| CDR Focus | 10.2% |
+| Citations | 5,938 |
+| Publications | 329 |
+| CDR Focus | 10.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · Enhanced Weathering
 
 3. **Computing optimal carbon dioxide removal portfolios** (2022)
-   30 citations · General CDR
+   31 citations · General CDR
 
 4. **A multi-period model for optimizing negative emission technology portfolios with economic and carbon value discount rates** (2023)
    27 citations · General CDR

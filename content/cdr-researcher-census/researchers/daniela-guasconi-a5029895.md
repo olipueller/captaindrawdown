@@ -1,7 +1,7 @@
 ---
 title: "Daniela Guasconi"
-description: "Daniela Guasconi is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183323
+description: "Daniela Guasconi is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.119454
 url: "/cdr-researcher-census/researchers/daniela-guasconi-a5029895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 146 |
-| Publications | 28 |
-| CDR Focus | 17.9% |
+| Citations | 156 |
+| Publications | 29 |
+| CDR Focus | 17.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Experimental drought and soil amendments affect grassland above- and belowground vegetation but not soil carbon stocks** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Effects of compost amendments and experimental drought on grassland soil microbial communities** (2025)
    1 citations · Soil Carbon

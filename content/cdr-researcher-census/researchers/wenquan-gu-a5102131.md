@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Gu"
 description: "Wenquan Gu is a Senior Biochar researcher at Wuhan University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.039470
+date: 2026-09-11T02:38:29.957656
 url: "/cdr-researcher-census/researchers/wenquan-gu-a5102131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 185 |
+| Citations | 202 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Enhances Paddy Productivity, Carbon Sequestration, and Reduces Greenhouse Gas Emissions in the Middle Yangtze River Region** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

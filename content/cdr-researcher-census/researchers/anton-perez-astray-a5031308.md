@@ -1,7 +1,7 @@
 ---
 title: "Antón Pérez-Astray"
 description: "Antón Pérez-Astray is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.685486
+date: 2026-09-11T02:38:29.645577
 url: "/cdr-researcher-census/researchers/anton-perez-astray-a5031308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 340 |
+| Citations | 344 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Moritz Gutsch"
-description: "Moritz Gutsch is a Mid-career DAC researcher at University of Münster in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592705
+description: "Moritz Gutsch is a Mid-career DAC researcher at University of Münster in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.491752
 url: "/cdr-researcher-census/researchers/moritz-gutsch-a5009486/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 415 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| h-index | 6 |
+| Citations | 477 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Co-assessment of costs and environmental impacts for off-grid direct air carbon capture and storage systems** (2024)
-   29 citations · DAC
+   30 citations · DAC
 
 2. **Co-assessment of costs and environmental impacts for off-grid direct air carbon capture and storage (DACS) systems** (2023)
    0 citations · DAC

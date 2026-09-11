@@ -1,7 +1,7 @@
 ---
 title: "Jun-Xiao Ma"
 description: "Jun-Xiao Ma is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.666896
+date: 2026-09-11T02:38:29.620391
 url: "/cdr-researcher-census/researchers/jun-xiao-ma-a5059734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 354 |
+| Citations | 362 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Additions of nitrogen and phosphorus do not reduce storage but stability of soil carbon in a northern peatland** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

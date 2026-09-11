@@ -1,7 +1,7 @@
 ---
 title: "Laura Ķēniņa"
-description: "Laura Ķēniņa is a Mid-career General CDR researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286580
+description: "Laura Ķēniņa is a Mid-career General CDR researcher at State Forest Research Institute in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.211936
 url: "/cdr-researcher-census/researchers/laura-kenina-a5036452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/laura-kenina-a5036452/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Latvian State Forest Research Institute \"Silava\""
+    "name": "State Forest Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9580-5156",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Laura Ķēniņa**  
-Latvian State Forest Research Institute "Silava" ·  LV
+State Forest Research Institute · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 134 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

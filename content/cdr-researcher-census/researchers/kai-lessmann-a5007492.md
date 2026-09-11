@@ -1,7 +1,7 @@
 ---
 title: "Kai Lessmann"
-description: "Kai Lessmann is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 90 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.161370
+description: "Kai Lessmann is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 93 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.112381
 url: "/cdr-researcher-census/researchers/kai-lessmann-a5007492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,220 |
-| Publications | 90 |
-| CDR Focus | 6.7% |
+| Citations | 2,253 |
+| Publications | 93 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    14 citations · General CDR
 
 3. **The Economics of Carbon Dioxide Removal** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 4. **Pigou’s Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon Dioxide Removal** (2026)
-   4 citations
+   5 citations
 
 5. **Emissions trading with clean-up certificates: How carbon debt can increase climate ambition levels** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 6. **The Economics of Carbon Dioxide Removal: A Governance Perspective** (2024)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Sai Thejaswini Pamuru"
-description: "Sai Thejaswini Pamuru is an Early-career Biochar researcher at Duke University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.068899
+description: "Sai Thejaswini Pamuru is a Mid-career Biochar researcher at Duke University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.015836
 url: "/cdr-researcher-census/researchers/sai-thejaswini-pamuru-a5006488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Sai Thejaswini Pamuru**  
 Duke University · 🇺🇸 US
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 176 |
+| h-index | 5 |
+| Citations | 185 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

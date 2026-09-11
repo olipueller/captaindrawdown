@@ -1,7 +1,7 @@
 ---
 title: "Wanjie Li"
-description: "Wanjie Li is a Mid-career Biochar researcher at Hainan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.767816
+description: "Wanjie Li is a Mid-career Biochar researcher at Xinjiang Production and Construction Corps in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.750434
 url: "/cdr-researcher-census/researchers/wanjie-li-a5111156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wanjie-li-a5111156/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hainan University"
+    "name": "Xinjiang Production and Construction Corps"
   },
   "sameAs": "https://openalex.org/A5111156602"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Wanjie Li**  
-Hainan University · 🇨🇳 CN
+Xinjiang Production and Construction Corps · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 290 |
-| Publications | 3 |
-| CDR Focus | 33.3% |
+| h-index | 2 |
+| Citations | 283 |
+| Publications | 2 |
+| CDR Focus | 50.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

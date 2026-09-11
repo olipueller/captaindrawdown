@@ -1,7 +1,7 @@
 ---
 title: "Lisai Cao"
-description: "Lisai Cao is a Mid-career Soil Carbon researcher at Jilin University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.070859
+description: "Lisai Cao is a Mid-career Soil Carbon researcher at Jilin University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.998216
 url: "/cdr-researcher-census/researchers/lisai-cao-a5022099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 176 |
+| h-index | 5 |
+| Citations | 191 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Jilong Xi"
 description: "Jilong Xi is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375669
+date: 2026-09-11T02:38:30.344481
 url: "/cdr-researcher-census/researchers/jilong-xi-a5042685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 108 |
+| Citations | 109 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |

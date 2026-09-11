@@ -1,7 +1,7 @@
 ---
 title: "Wenhai Mi"
-description: "Wenhai Mi is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.238245
+description: "Wenhai Mi is a Senior Soil Carbon researcher at Yangzhou University in CN. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.181792
 url: "/cdr-researcher-census/researchers/wenhai-mi-a5042809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Wenhai Mi**  
 Yangzhou University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,336 |
-| Publications | 49 |
-| CDR Focus | 12.2% |
+| h-index | 21 |
+| Citations | 1,407 |
+| Publications | 51 |
+| CDR Focus | 9.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   43 citations · General CDR
+   45 citations · General CDR
 
 2. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
    22 citations · Soil Carbon
 
 3. **Long-term organic-inorganic fertilization promoted the microbial necromass carbon accumulation in particulate and mineral-associated organic matter fractions in paddy soil** (2025)
-   16 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Long-term fertilization reshaped the accumulation of plant- and microbially-derived carbon by regulating biotic and abiotic factors in acidic paddy soil** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Diverse protective mechanisms drive changes in functional carbon pools of paddy soil under continuous biochar and inorganic fertilizer application** (2025)
    1 citations · Biochar

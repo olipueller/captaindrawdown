@@ -1,7 +1,7 @@
 ---
 title: "Yubin Hu"
-description: "Yubin Hu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 68 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.359539
+description: "Yubin Hu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 70 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.298670
 url: "/cdr-researcher-census/researchers/yubin-hu-a5040781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 788 |
-| Publications | 68 |
-| CDR Focus | 10.3% |
+| h-index | 17 |
+| Citations | 840 |
+| Publications | 70 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Legacy Effects of Late Macroalgal Blooms on Dissolved Inorganic Carbon Pool through Alkalinity Enhancement in Coastal Ocean** (2023)
-   48 citations · Ocean CDR
+   49 citations · Ocean CDR
 
 2. **Response of a Coastal Microbial Community to Olivine Addition in the Muping Marine Ranch, Yantai** (2022)
    23 citations · Enhanced Weathering

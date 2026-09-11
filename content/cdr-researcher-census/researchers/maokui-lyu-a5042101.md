@@ -1,7 +1,7 @@
 ---
 title: "Maokui Lyu"
-description: "Maokui Lyu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.259109
+description: "Maokui Lyu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 53 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.202573
 url: "/cdr-researcher-census/researchers/maokui-lyu-a5042101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,204 |
-| Publications | 51 |
-| CDR Focus | 11.8% |
+| h-index | 21 |
+| Citations | 1,263 |
+| Publications | 53 |
+| CDR Focus | 11.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   45 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Mineral-associated organic carbon predicts the variations in microbial biomass and specific enzyme activities in a subtropical forest** (2023)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 3. **Lignin–microbial necromass carbon coupling drives the vertical stratification mechanism of deep soil carbon sequestration in subtropical forests** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
    7 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations
 
 6. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Mycorrhizal associations influence the origin and stability of topsoil organic carbon fractions: implications for subtropical forest restoration** (2026)
-   0 citations
+   1 citations
 
 8. **Lithology-driven microbial succession and functional divergence during subtropical forest restoration** (2026)
    0 citations · Soil Carbon

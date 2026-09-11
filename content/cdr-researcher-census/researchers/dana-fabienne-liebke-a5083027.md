@@ -1,7 +1,7 @@
 ---
 title: "Dana Fabienne Liebke"
-description: "Dana Fabienne Liebke is an Early-career Soil Carbon researcher at Klinikum Magdeburg in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.577437
+description: "Dana Fabienne Liebke is an Early-career Soil Carbon researcher at University of Göttingen in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.512902
 url: "/cdr-researcher-census/researchers/dana-fabienne-liebke-a5083027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dana-fabienne-liebke-a5083027/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Klinikum Magdeburg"
+    "name": "University of G\u00f6ttingen"
   },
   "sameAs": [
     "https://orcid.org/0009-0002-2512-1004",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dana Fabienne Liebke**  
-Klinikum Magdeburg · 🇩🇪 DE
+University of Göttingen · 🇩🇪 DE
 
 **Career Stage:** Early-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 430 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 455 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

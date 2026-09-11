@@ -1,7 +1,7 @@
 ---
 title: "Giang Tran"
-description: "Giang Tran is a Senior General CDR researcher at The University of Melbourne in AU. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062407
+description: "Giang Tran is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.991736
 url: "/cdr-researcher-census/researchers/giang-tran-a5074461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/giang-tran-a5074461/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The University of Melbourne"
+    "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9815-3993",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Giang Tran**  
-The University of Melbourne · 🇦🇺 AU
+GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 178 |
-| Publications | 24 |
-| CDR Focus | 25.0% |
+| Citations | 192 |
+| Publications | 27 |
+| CDR Focus | 22.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

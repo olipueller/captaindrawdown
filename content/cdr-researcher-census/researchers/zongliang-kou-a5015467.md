@@ -1,7 +1,7 @@
 ---
 title: "Zongliang Kou"
-description: "Zongliang Kou is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.211004
+description: "Zongliang Kou is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.110941
 url: "/cdr-researcher-census/researchers/zongliang-kou-a5015467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 140 |
+| h-index | 9 |
+| Citations | 158 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of highly functionalised biochar from hydrochloric acid activated bagasse for the efficient removal of metal ions** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Susitha Rajkumar"
-description: "Susitha Rajkumar is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.257524
+description: "Susitha Rajkumar is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.187454
 url: "/cdr-researcher-census/researchers/susitha-rajkumar-a5055250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 130 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 140 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated farming system approaches to achieve food and nutritional security for enhancing profitability, employment, and climate resilience in India** (2022)
-   88 citations · Soil Carbon
+   93 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Eve Daly"
 description: "Eve Daly is a Senior Soil Carbon researcher at Ollscoil na Gaillimhe – University of Galway in IE. With 65 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.289600
+date: 2026-09-11T02:38:29.239828
 url: "/cdr-researcher-census/researchers/eve-daly-a5075038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,043 |
+| Citations | 1,059 |
 | Publications | 65 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

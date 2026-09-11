@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Babonneau"
-description: "Frédéric Babonneau is a Senior General CDR researcher at Kedge Business School in CL. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.267729
+description: "Frédéric Babonneau is a Senior General CDR researcher at Ordecsys (Switzerland) in CL. With 109 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.216157
 url: "/cdr-researcher-census/researchers/frederic-babonneau-a5078881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/frederic-babonneau-a5078881/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kedge Business School"
+    "name": "Ordecsys (Switzerland)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3430-0314",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Frédéric Babonneau**  
-Kedge Business School ·  CL
+Ordecsys (Switzerland) ·  CL
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,158 |
-| Publications | 107 |
-| CDR Focus | 8.4% |
+| Citations | 1,190 |
+| Publications | 109 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Transition to zero-net emissions for Qatar: A policy based on Hydrogen and CO2 capture &amp; storage development** (2022)
-   27 citations · General CDR
+   30 citations · General CDR
 
 2. **Economic assessment of the development of CO2 direct reduction technologies in long-term climate strategies of the Gulf countries** (2021)
    22 citations · DAC
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 4. **Reaching Paris Agreement goal through carbon dioxide removal development: A compact OR model** (2022)
-   9 citations · General CDR
+   10 citations · General CDR
 
 5. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
-   5 citations · DAC
+   6 citations · DAC
 
 6. **A robust asymptotic control model to analyze climate policy with CDR options** (2025)
    3 citations · General CDR

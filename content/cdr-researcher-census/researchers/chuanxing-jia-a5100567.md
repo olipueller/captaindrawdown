@@ -1,7 +1,7 @@
 ---
 title: "Chuanxing Jia"
-description: "Chuanxing Jia is a Senior Biochar researcher at Qufu Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.894384
+description: "Chuanxing Jia is a Senior Biochar researcher at Qufu Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.850045
 url: "/cdr-researcher-census/researchers/chuanxing-jia-a5100567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 228 |
+| h-index | 6 |
+| Citations | 236 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
-description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.218082
+description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 68 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.165879
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,493 |
-| Publications | 66 |
-| CDR Focus | 7.6% |
+| h-index | 19 |
+| Citations | 1,551 |
+| Publications | 68 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
    6 citations · Biochar
@@ -65,10 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    3 citations · Soil Carbon
 
-6. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
+6. **Impact of biochar and other residue management practices on physical, chemical and biological soil quality indicators under three wheat-based cropping systems of subtropical India** (2026)
+   0 citations · Biochar
+
+7. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
    0 citations
 
-7. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
+8. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

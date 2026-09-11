@@ -1,7 +1,7 @@
 ---
 title: "Yan Duan"
-description: "Yan Duan is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 124 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249332
+description: "Yan Duan is a Senior Soil Carbon researcher at Space Engineering University in CN. With 126 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.194494
 url: "/cdr-researcher-census/researchers/yan-duan-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yan-duan-a5060992/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Inner Mongolia Agricultural University"
+    "name": "Space Engineering University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3758-7426",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yan Duan**  
-Inner Mongolia Agricultural University · 🇨🇳 CN
+Space Engineering University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,262 |
-| Publications | 124 |
+| h-index | 21 |
+| Citations | 1,320 |
+| Publications | 126 |
 | CDR Focus | 5.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **N, P and straw return influence the accrual of organic carbon fractions and microbial traits in a Mollisol** (2021)
-   64 citations · Biochar
+   65 citations · Biochar
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Long-term conservation tillage enhances microbial carbon use efficiency by altering multitrophic interactions in soil** (2024)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 5. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
    21 citations · Soil Carbon
 
 6. **Conservation tillage facilitates the accumulation of soil organic carbon fractions by affecting the microbial community in an eolian sandy soil** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 7. **Phosphorus fertilizer input level regulates soil organic carbon physical fraction sequestration by influencing the microbial community** (2025)
    5 citations · Soil Carbon

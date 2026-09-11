@@ -1,7 +1,7 @@
 ---
 title: "Federico d’Amore"
-description: "Federico d’Amore is a Mid-career DAC researcher at Università degli Studi di Padova in IT. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.368019
+description: "Federico d’Amore is a Mid-career DAC researcher at Università degli Studi di Padova in IT. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.316063
 url: "/cdr-researcher-census/researchers/federico-damore-a5080653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 763 |
+| h-index | 17 |
+| Citations | 790 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

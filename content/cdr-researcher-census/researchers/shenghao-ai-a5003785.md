@@ -1,7 +1,7 @@
 ---
 title: "Shenghao Ai"
-description: "Shenghao Ai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.566323
+description: "Shenghao Ai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.502637
 url: "/cdr-researcher-census/researchers/shenghao-ai-a5003785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 440 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 13 |
+| Citations | 466 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Enhancing soil carbon storage through carbon-iron coupling in small macro-aggregates during cut slope restorations** (2025)
+1. **Slope Aspect Influences the Organic Carbon Content and Stock in Soil Aggregates of Cut Slopes in the Alpine Region of Southwest China** (2025)
    2 citations · Soil Carbon
 
-2. **Slope Aspect Influences the Organic Carbon Content and Stock in Soil Aggregates of Cut Slopes in the Alpine Region of Southwest China** (2025)
-   1 citations · Soil Carbon
+2. **Enhancing soil carbon storage through carbon-iron coupling in small macro-aggregates during cut slope restorations** (2025)
+   2 citations · Soil Carbon
+
+3. **Soil organic carbon patterns and carbon‑iron binding at different slope positions on eroded slopes in subalpine regions** (2026)
+   0 citations
 
 ## External Profiles
 

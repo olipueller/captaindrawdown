@@ -1,7 +1,7 @@
 ---
 title: "Sachin Krushna Bhujbal"
-description: "Sachin Krushna Bhujbal is a Mid-career Biochar researcher at Cranfield University in GB. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.509489
+description: "Sachin Krushna Bhujbal is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.458364
 url: "/cdr-researcher-census/researchers/sachin-krushna-bhujbal-a5080236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sachin-krushna-bhujbal-a5080236/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Cranfield University"
+    "name": "Indian Institute of Technology Delhi"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6225-8347",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sachin Krushna Bhujbal**  
-Cranfield University · 🇬🇧 GB
+Indian Institute of Technology Delhi · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 501 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 517 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar application for greenhouse gas mitigation, contaminants immobilization and soil fertility enhancement: A state-of-the-art review** (2022)
-   248 citations · Biochar
+   253 citations · Biochar
 
 ## External Profiles
 

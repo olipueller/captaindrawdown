@@ -1,7 +1,7 @@
 ---
 title: "Renming Jia"
-description: "Renming Jia is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.145743
+description: "Renming Jia is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.093760
 url: "/cdr-researcher-census/researchers/renming-jia-a5101077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 155 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| h-index | 8 |
+| Citations | 162 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    34 citations · General CDR
 
 2. **Distribution, spectral characteristics, and seasonal variation of dissolved organic matter in the northern Beibu Gulf, South China Sea** (2022)
-   7 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 ## External Profiles
 

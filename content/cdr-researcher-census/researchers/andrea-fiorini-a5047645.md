@@ -1,7 +1,7 @@
 ---
 title: "Andrea Fiorini"
-description: "Andrea Fiorini is a Senior Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 72 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.276702
+description: "Andrea Fiorini is a Senior Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.222459
 url: "/cdr-researcher-census/researchers/andrea-fiorini-a5047645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,107 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| h-index | 20 |
+| Citations | 1,147 |
+| Publications | 73 |
+| CDR Focus | 5.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Long-term C and N sequestration under no-till is governed by biomass production of cover crops rather than differences in grass vs. legume biomass quality** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Conservation Agriculture Impacts on Economic Profitability and Environmental Performance of Agroecosystems** (2023)
    12 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Giulia Silan"
 description: "Giulia Silan is a Mid-career Soil Carbon researcher at Ca' Foscari University of Venice in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.083788
+date: 2026-09-11T02:38:30.031879
 url: "/cdr-researcher-census/researchers/giulia-silan-a5027181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 172 |
+| Citations | 180 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics and drivers of carbon sequestration and storage capacity in Phragmites australis-dominated wetlands** (2024)
-   26 citations · General CDR
+   29 citations · General CDR
 
 ## External Profiles
 

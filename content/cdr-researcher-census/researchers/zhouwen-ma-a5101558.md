@@ -1,7 +1,7 @@
 ---
 title: "Zhouwen Ma"
-description: "Zhouwen Ma is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.386620
+description: "Zhouwen Ma is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.309027
 url: "/cdr-researcher-census/researchers/zhouwen-ma-a5101558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 106 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 116 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Decade-long active restoration induced positive priming effects on soil organic carbon in desertified grassland: The amplifying effect of biochar** (2025)
+1. **Nano zero-valent iron-modified biochar regulates soil carbon mineralization and stability across aggregates in alpine degraded grassland** (2026)
    1 citations · Biochar
 
-2. **Simulated Root Exudation Gradient Reveals Dosage‐Dependent Carbon Sequestration in Desertification Ecosystems** (2026)
+2. **Decade-long active restoration induced positive priming effects on soil organic carbon in desertified grassland: The amplifying effect of biochar** (2025)
+   1 citations · Biochar
+
+3. **Simulated Root Exudation Gradient Reveals Dosage‐Dependent Carbon Sequestration in Desertification Ecosystems** (2026)
    0 citations
 
 ## External Profiles

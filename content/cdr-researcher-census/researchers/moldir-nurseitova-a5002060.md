@@ -1,7 +1,7 @@
 ---
 title: "Moldir Nurseitova"
-description: "Moldir Nurseitova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.404310
+description: "Moldir Nurseitova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.355041
 url: "/cdr-researcher-census/researchers/moldir-nurseitova-a5002060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 103 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 107 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorption of organochlorinated pesticides: Adsorption kinetic and adsorption isotherm study** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **Assessment of the sequestration strategy based on brown coal Shoptykol to reduce organochlorine pesticides transfer from contaminated soil to hen eggs** (2024)
    0 citations · Biochar

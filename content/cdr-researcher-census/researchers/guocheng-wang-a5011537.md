@@ -1,7 +1,7 @@
 ---
 title: "Guocheng Wang"
-description: "Guocheng Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.294217
+description: "Guocheng Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.190872
 url: "/cdr-researcher-census/researchers/guocheng-wang-a5011537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 123 |
-| Publications | 13 |
-| CDR Focus | 38.5% |
+| Citations | 139 |
+| Publications | 14 |
+| CDR Focus | 35.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Distinct environmental controls on above- and below-ground net primary productivity in Northern China’s grasslands** (2024)
-   20 citations
+   23 citations
 
 2. **Climate-management interactions drive soil organic carbon sequestration potential in China's croplands during 2020–2060** (2025)
    11 citations · General CDR
 
 3. **Fast Transit of Carbon Inputs in Global Soil Profiles Regardless of Entering Depth** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Depth-dependent accumulation and controls of particulate and mineral-associated organic carbon in Inner Mongolian grasslands** (2025)
    3 citations · Soil Carbon

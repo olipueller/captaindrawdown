@@ -1,7 +1,7 @@
 ---
 title: "P.H.V. Nimarshana"
 description: "P.H.V. Nimarshana is a Mid-career Biochar researcher at University of Moratuwa in LK. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.220046
+date: 2026-09-11T02:38:29.166338
 url: "/cdr-researcher-census/researchers/phv-nimarshana-a5061798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,475 |
+| Citations | 1,543 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microalgal biofuels: Challenges and prospective in the framework of circular bioeconomy** (2024)
-   26 citations · BECCS
+   27 citations · BECCS
 
 2. **Harnessing Algae: Advancements in Wastewater Treatment and Resource Recovery** (2024)
    6 citations

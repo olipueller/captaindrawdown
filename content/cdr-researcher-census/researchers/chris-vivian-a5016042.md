@@ -1,7 +1,7 @@
 ---
 title: "Chris Vivian"
 description: "Chris Vivian is a Senior Ocean CDR researcher at Gesellschaft für Klinische Forschung in DE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.350183
+date: 2026-09-11T02:38:29.301972
 url: "/cdr-researcher-census/researchers/chris-vivian-a5016042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 812 |
+| Citations | 827 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Use of aircraft in ocean alkalinity enhancement** (2022)
-   30 citations · Ocean CDR
+   32 citations · Ocean CDR
 
 2. **The State of the Science for Marine Carbon Dioxide Removal (mCDR) – A Summary for Policy Makers** (2025)
    0 citations · General CDR

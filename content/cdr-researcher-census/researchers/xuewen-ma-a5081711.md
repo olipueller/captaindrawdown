@@ -1,7 +1,7 @@
 ---
 title: "Xuewen Ma"
-description: "Xuewen Ma is a Senior Biochar researcher at Karamay Central Hospital of Xinjiang in CN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.561839
+description: "Xuewen Ma is a Senior Biochar researcher at Karamay Central Hospital of Xinjiang in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.510162
 url: "/cdr-researcher-census/researchers/xuewen-ma-a5081711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 444 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 457 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs)** (2022)
-   88 citations · Biochar
+   89 citations · Biochar
 
 2. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

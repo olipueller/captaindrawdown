@@ -1,7 +1,7 @@
 ---
 title: "Min‐Tian Gao"
 description: "Min‐Tian Gao is a Senior Biochar researcher at Shanghai University in CN. With 109 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.171379
+date: 2026-09-11T02:38:29.121830
 url: "/cdr-researcher-census/researchers/mintian-gao-a5050601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,058 |
+| Citations | 2,078 |
 | Publications | 109 |
-| CDR Focus | 5.5% |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Characterization of highly stable biochar and its application for removal of phenol** (2022)
-   35 citations · Biochar
+   38 citations · Biochar
 
 2. **Degradation-Resistant Biochar Improves Soil Organic Carbon Storage: Promoting Autotrophic Metabolism &amp; Increasing Refractory Organic Carbon** (2025)
-   23 citations · Biochar
+   24 citations · Biochar
 
 3. **Effects of cellulase treatment on properties of lignocellulose-based biochar** (2024)
    19 citations · Biochar
@@ -60,10 +60,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    8 citations · Biochar
 
 5. **Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 6. **Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 7. **Colloidal biochar promotes microbial carbon dioxide fixation and enhances net soil organic carbon gain** (2026)
    0 citations · Biochar

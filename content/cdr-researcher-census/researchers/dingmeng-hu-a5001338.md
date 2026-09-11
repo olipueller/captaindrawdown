@@ -1,7 +1,7 @@
 ---
 title: "Dingmeng Hu"
 description: "Dingmeng Hu is a Mid-career Soil Carbon researcher at Wenzhou Medical University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.337930
+date: 2026-09-11T02:38:30.269876
 url: "/cdr-researcher-census/researchers/dingmeng-hu-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 115 |
+| Citations | 124 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

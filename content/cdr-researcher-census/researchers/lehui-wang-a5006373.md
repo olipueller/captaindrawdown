@@ -1,7 +1,7 @@
 ---
 title: "Lehui Wang"
 description: "Lehui Wang is an Early-career Biochar researcher at Zhengzhou University of Light Industry in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.280880
+date: 2026-09-11T02:38:30.232866
 url: "/cdr-researcher-census/researchers/lehui-wang-a5006373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
+| Citations | 131 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Composting and Pyrolysis Strategies to Manage Flammulina velutipes Residue and Base Waste Based on the Biodegradability and Carbon Sequestration Potential** (2023)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

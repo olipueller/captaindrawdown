@@ -1,7 +1,7 @@
 ---
 title: "Han Na Kim"
-description: "Han Na Kim is a Mid-career Biochar researcher at Chungbuk National University in KR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.215885
+description: "Han Na Kim is a Mid-career Biochar researcher at Chungbuk National University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.123502
 url: "/cdr-researcher-census/researchers/han-na-kim-a5083570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 139 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 155 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

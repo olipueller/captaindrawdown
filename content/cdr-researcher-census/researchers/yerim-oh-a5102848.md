@@ -1,7 +1,7 @@
 ---
 title: "Yerim Oh"
-description: "Yerim Oh is a Senior Biochar researcher at Dankook University in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.860802
+description: "Yerim Oh is a Senior Biochar researcher at Jeonju National University of Education in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.832893
 url: "/cdr-researcher-census/researchers/yerim-oh-a5102848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yerim-oh-a5102848/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dankook University"
+    "name": "Jeonju National University of Education"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-7875-2670",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yerim Oh**  
-Dankook University · 🇰🇷 KR
+Jeonju National University of Education · 🇰🇷 KR
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 241 |
+| Citations | 243 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

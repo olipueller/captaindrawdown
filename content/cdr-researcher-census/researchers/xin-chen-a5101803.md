@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
 description: "Xin Chen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.300785
+date: 2026-09-11T02:38:30.247158
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 122 |
+| Citations | 128 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A dataset of Liaoning soil species based on the Second National Soil Survey** (2023)
-   2 citations
+   3 citations
 
 2. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

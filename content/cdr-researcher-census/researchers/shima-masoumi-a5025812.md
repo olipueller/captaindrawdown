@@ -1,7 +1,7 @@
 ---
 title: "Shima Masoumi"
-description: "Shima Masoumi is a Mid-career BECCS researcher at Université du Québec à Montréal in CA. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.335655
+description: "Shima Masoumi is a Mid-career BECCS researcher at Islamic Azad University of Chalous in IR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.280681
 url: "/cdr-researcher-census/researchers/shima-masoumi-a5025812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shima-masoumi-a5025812/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+    "name": "Islamic Azad University of Chalous"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6982-038X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shima Masoumi**  
-Université du Québec à Montréal · 🇨🇦 CA
+Islamic Azad University of Chalous ·  IR
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 858 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| Citations | 897 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hydrochar: A Review on Its Production Technologies and Applications** (2021)
-   347 citations · Biochar
+   356 citations · Biochar
 
 2. **Effects of various carbon-supported iron catalysts on tar removal efficiency and syngas yield during catalytic biomass gasification** (2023)
-   42 citations · BECCS
+   45 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Xylia"
-description: "Maria Xylia is a Mid-career General CDR researcher at Stockholm Environment Institute in SE. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.324873
+description: "Maria Xylia is a Mid-career General CDR researcher at Stockholm Environment Institute in SE. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.272392
 url: "/cdr-researcher-census/researchers/maria-xylia-a5040956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 891 |
-| Publications | 57 |
-| CDR Focus | 5.3% |
+| h-index | 13 |
+| Citations | 924 |
+| Publications | 58 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potentials and barriers to land-based mitigation technologies and practices (LMTs)—a review** (2023)
-   13 citations · BECCS
+   14 citations · BECCS
 
 2. **Capacity gaps in land-based mitigation technologies and practices: A first stock take** (2023)
    6 citations · BECCS

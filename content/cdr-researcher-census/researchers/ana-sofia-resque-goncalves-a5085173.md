@@ -1,7 +1,7 @@
 ---
 title: "Ana Sofia Resque Gonçalves"
 description: "Ana Sofia Resque Gonçalves is a Senior BECCS researcher at Polytechnic Institute of Cávado and Ave in PT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.231494
+date: 2026-09-11T02:38:30.204139
 url: "/cdr-researcher-census/researchers/ana-sofia-resque-goncalves-a5085173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 135 |
+| Citations | 136 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Environmental Analysis of the Valorization of Woody Biomass Residues: A Comparative Study with Vine Pruning Leftovers in Portugal** (2023)
-   7 citations · BECCS
+   8 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Arvid R. Boe"
 description: "Arvid R. Boe is a Senior BECCS researcher at South Dakota State University in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.392141
+date: 2026-09-11T02:38:29.347842
 url: "/cdr-researcher-census/researchers/arvid-r-boe-a5113853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 706 |
+| Citations | 712 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

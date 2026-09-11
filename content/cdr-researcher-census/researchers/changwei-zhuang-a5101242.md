@@ -1,7 +1,7 @@
 ---
 title: "Changwei Zhuang"
-description: "Changwei Zhuang is a Senior Soil Carbon researcher at Guangdong Provincial Academy of Environmental Science in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337189
+description: "Changwei Zhuang is a Senior Soil Carbon researcher at Guangdong Provincial Academy of Environmental Science in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.290514
 url: "/cdr-researcher-census/researchers/changwei-zhuang-a5101242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 855 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 869 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Win-win-win pathway for ecological restoration by balancing hydrological, ecological, and agricultural dimensions: Contrasting lessons from highly eroded agroforestry** (2021)
-   38 citations
+   39 citations
 
 2. **Policy-driven co-evolution of the food–water–ecosystem–livelihood nexus in two ecosystem conservation hotspots in southern China** (2021)
    20 citations · General CDR

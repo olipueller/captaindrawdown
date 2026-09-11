@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
-description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 87 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.093329
+description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 86 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044260
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 5,560 |
-| Publications | 87 |
-| CDR Focus | 10.3% |
+| Citations | 5,686 |
+| Publications | 86 |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities** (2023)
-   294 citations · Biochar
+   306 citations · Biochar
 
 2. **Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups** (2022)
-   160 citations · Biochar
+   164 citations · Biochar
 
 3. **Distribution and bioaccessibility of polycyclic aromatic hydrocarbons in industrially contaminated site soils as affected by thermal treatment** (2021)
    37 citations
 
-4. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   33 citations · Soil Carbon
+4. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
+   35 citations · General CDR
 
-5. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   32 citations · General CDR
+5. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
+   35 citations · Soil Carbon
 
 6. **Soil organic matter degradation and methylmercury dynamics in Hg-contaminated soils: Relationships and driving factors** (2024)
    16 citations · Soil Carbon
 
 7. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
-   8 citations
+   9 citations
 
 8. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
    5 citations

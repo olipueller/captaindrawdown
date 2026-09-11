@@ -1,7 +1,7 @@
 ---
 title: "Ammar Alahmed"
-description: "Ammar Alahmed is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.591704
+description: "Ammar Alahmed is a Mid-career DAC researcher at Saudi Aramco (Saudi Arabia) in SA. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.519268
 url: "/cdr-researcher-census/researchers/ammar-alahmed-a5003635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,27 +31,27 @@ Saudi Aramco (Saudi Arabia) · 🇸🇦 SA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 416 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
-| Trajectory | Stable |
+| Citations | 449 |
+| Publications | 23 |
+| CDR Focus | 17.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Water-stable MOFs and hydrophobically encapsulated MOFs for CO2 capture from ambient air and wet flue gas** (2023)
-   113 citations
+   117 citations
 
 2. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **Water-stable MOFs and Hydrophobically Encapsulated MOFs for CO2 Capture from Ambient Air and Wet Flue Gas** (2022)
    2 citations · DAC

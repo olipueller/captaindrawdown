@@ -1,7 +1,7 @@
 ---
 title: "Edith Bai"
-description: "Edith Bai is an Eminent Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 187 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.076619
+description: "Edith Bai is an Eminent Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 190 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.028406
 url: "/cdr-researcher-census/researchers/edith-bai-a5063317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 50 |
-| Citations | 8,681 |
-| Publications | 187 |
-| CDR Focus | 5.9% |
+| Citations | 8,936 |
+| Publications | 190 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   77 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 2. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   28 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Drying-rewetting events enhance the priming effect on soil organic matter mineralization by maize straw addition** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 5. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
    17 citations · Soil Carbon
 
 6. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 7. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 8. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
    10 citations · General CDR

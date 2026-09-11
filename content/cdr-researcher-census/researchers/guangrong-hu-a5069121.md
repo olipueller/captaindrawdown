@@ -1,7 +1,7 @@
 ---
 title: "Guangrong Hu"
-description: "Guangrong Hu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.899087
+description: "Guangrong Hu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.852367
 url: "/cdr-researcher-census/researchers/guangrong-hu-a5069121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 226 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 235 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Natural seasonal freeze-thaw processes influenced soil quality in alpine grasslands: Insights from soil functions** (2024)
-   29 citations
+   31 citations
 
 2. **Spatiotemporal variability of dissolved carbon and sources of dissolved inorganic carbon influenced by freeze–thaw and subsurface flow in an alpine headwater catchment of the Qinghai-Tibetan Plateau** (2024)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yingfei Cao"
-description: "Yingfei Cao is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.770897
+description: "Yingfei Cao is a Mid-career Soil Carbon researcher at Shandong Transportation Research Institute in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.727688
 url: "/cdr-researcher-census/researchers/yingfei-cao-a5109337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yingfei-cao-a5109337/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Soil and Water Conservation"
+    "name": "Shandong Transportation Research Institute"
   },
   "sameAs": "https://openalex.org/A5109337439"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yingfei Cao**  
-Institute of Soil and Water Conservation · 🇨🇳 CN
+Shandong Transportation Research Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 288 |
+| Citations | 295 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Feng Tao"
-description: "Feng Tao is a Senior General CDR researcher at Pennsylvania State University in US. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.217760
+description: "Feng Tao is a Senior General CDR researcher at Pennsylvania State University in US. With 67 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.156771
 url: "/cdr-researcher-census/researchers/feng-tao-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 1,495 |
-| Publications | 62 |
-| CDR Focus | 8.1% |
+| h-index | 13 |
+| Citations | 1,637 |
+| Publications | 67 |
+| CDR Focus | 9.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,16 +56,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Reply to: Model uncertainty obscures major driver of soil carbon** (2024)
    6 citations
 
-3. **Coupling soil inorganic-organic carbon dynamics for verifiable carbon dioxide removal by enhanced weathering** (2024)
+3. **Scaling up enhanced rock weathering for equitable climate change mitigation** (2026)
+   2 citations · Enhanced Weathering
+
+4. **Coupling soil inorganic-organic carbon dynamics for verifiable carbon dioxide removal by enhanced weathering** (2024)
    1 citations · Enhanced Weathering
 
-4. **Time-dependent efficacy of carbon dioxide removal via forest restoration** (2026)
+5. **Time-dependent efficacy of carbon dioxide removal via forest restoration** (2026)
    0 citations · General CDR
 
-5. **Key limitations in enhanced weathering to remove carbon dioxide across agricultural soils** (2025)
+6. **Key limitations in enhanced weathering to remove carbon dioxide across agricultural soils** (2025)
    0 citations · Enhanced Weathering
 
-6. **Quantifying soil carbon sequestration by multi-source constraints** (2022)
+7. **Quantifying soil carbon sequestration by multi-source constraints** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

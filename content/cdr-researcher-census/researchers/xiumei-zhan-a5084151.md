@@ -1,7 +1,7 @@
 ---
 title: "Xiumei Zhan"
-description: "Xiumei Zhan is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.320235
+description: "Xiumei Zhan is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.267715
 url: "/cdr-researcher-census/researchers/xiumei-zhan-a5084151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 118 |
-| Publications | 6 |
-| CDR Focus | 33.3% |
+| Citations | 124 |
+| Publications | 7 |
+| CDR Focus | 28.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil Organic Carbon and Humus Characteristics: Response and Evolution to Long-Term Direct/Carbonized Straw Return to Field** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Effects of organic amendments and crop cultivation on soil organic carbon storage, phosphorus components, and microbial respiration in stratified soils** (2026)
    0 citations · Soil Carbon

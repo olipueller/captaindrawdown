@@ -1,7 +1,7 @@
 ---
 title: "Sherif Hegazy"
-description: "Sherif Hegazy is a Mid-career Biochar researcher at University of Oulu in FI. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707100
+description: "Sherif Hegazy is a Mid-career Biochar researcher at University of Oulu in FI. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.640770
 url: "/cdr-researcher-census/researchers/sherif-hegazy-a5092398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 325 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 10 |
+| Citations | 347 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synergistic pyrolysis of Cellulose/Fe-MOF Composite: A Combined experimental and DFT study on dye removal** (2024)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

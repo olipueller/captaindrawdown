@@ -1,7 +1,7 @@
 ---
 title: "Rashmita Sharma"
-description: "Rashmita Sharma is an Early-career Soil Carbon researcher at Jawaharlal Nehru University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.381585
+description: "Rashmita Sharma is an Early-career Soil Carbon researcher at Indian School of Business in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.315201
 url: "/cdr-researcher-census/researchers/rashmita-sharma-a5027088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rashmita-sharma-a5027088/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jawaharlal Nehru University"
+    "name": "Indian School of Business"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4510-3284",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rashmita Sharma**  
-Jawaharlal Nehru University · 🇮🇳 IN
+Indian School of Business · 🇮🇳 IN
 
 **Career Stage:** Early-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 107 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 115 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Comparative Assessment of Tree Carbon Sequestration Potential and Soil Carbon Dynamics of Major Plantation Crops and Homestead Agroforestry of Kerala, India** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sirjana Adhikari"
 description: "Sirjana Adhikari is a Mid-career Biochar researcher at Deakin University in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.373486
+date: 2026-09-11T02:38:29.314415
 url: "/cdr-researcher-census/researchers/sirjana-adhikari-a5035340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 750 |
+| Citations | 794 |
 | Publications | 21 |
-| CDR Focus | 33.3% |
-| Trajectory | Stable |
+| CDR Focus | 23.8% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Optimising water holding capacity and hydrophobicity of biochar for soil amendment – A review** (2022)
-   246 citations · Biochar
+   251 citations · Biochar
 
 2. **Comparative analysis of biochar carbon stability methods and implications for carbon credits** (2023)
-   108 citations · Biochar
+   114 citations · Biochar
 
 3. **Comprehensive life cycle assessment of garden organic waste valorisation: A case study in regional Australia** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
 4. **Comparative Analysis of Biochar Carbon Stability Methods and Implications for Carbon Credits** (2023)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Veluswamy"
 description: "Ganesh Veluswamy is a Senior Biochar researcher at RMIT University in AU. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.664824
+date: 2026-09-11T02:38:29.607202
 url: "/cdr-researcher-census/researchers/ganesh-veluswamy-a5080295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 355 |
+| Citations | 372 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 23.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Production of H2 and CNM from biogas decomposition using biosolids-derived biochar and the application of the CNM-coated biochar for PFAS adsorption** (2023)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Enhancing energy efficiency and by-product quality of anaerobic co-digestion of food and garden waste: hybridisation with thermochemical conversion to create a sustainable circular economy** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar

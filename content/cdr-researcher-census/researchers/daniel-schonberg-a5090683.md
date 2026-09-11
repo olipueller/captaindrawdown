@@ -1,7 +1,7 @@
 ---
 title: "Daniel Schonberg"
 description: "Daniel Schonberg is a Senior DAC researcher. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343359
+date: 2026-09-11T02:38:29.299454
 url: "/cdr-researcher-census/researchers/daniel-schonberg-a5090683/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
-description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 203 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.075968
+description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 200 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.028017
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 44 |
-| Citations | 9,231 |
-| Publications | 203 |
-| CDR Focus | 7.4% |
+| Citations | 9,425 |
+| Publications | 200 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   464 citations · Biochar
+   480 citations · Biochar
 
 2. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 3. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
    15 citations · Biochar
@@ -66,18 +66,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 6. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
-7. **Quantifying soil organic carbon after biochar application: how to avoid (the risk of) counting CDR twice?** (2024)
+7. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    7 citations · Biochar
 
-8. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
-   6 citations · Biochar
+8. **Quantifying soil organic carbon after biochar application: how to avoid (the risk of) counting CDR twice?** (2024)
+   7 citations · Biochar
 
 9. **Quantification of soil organic carbon: the challenge of biochar-induced spatial heterogeneity** (2024)
    5 citations · Biochar
 
-10. **Low Tech Biochar Production Could Be a Highly Effective Nature-Based Solution for Climate Change Mitigation in the Developing World.** (2021)
+10. **Methane Emissions From Flame Curtain Pyrolysis (Kon‐Tiki)** (2026)
    1 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Piyush Patel"
 description: "Piyush Patel is a Mid-career Biochar researcher at L D College of Engineering in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.114728
+date: 2026-09-11T02:38:30.089516
 url: "/cdr-researcher-census/researchers/piyush-patel-a5072855/"
 layout: "researcher"
 hiddenInHomeList: true

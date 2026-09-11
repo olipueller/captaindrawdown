@@ -1,7 +1,7 @@
 ---
 title: "Chukwudi Nwaogu"
-description: "Chukwudi Nwaogu is a Senior Soil Carbon researcher at The University of Sydney in AU. With 73 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.591204
+description: "Chukwudi Nwaogu is a Senior Soil Carbon researcher at The University of Sydney in AU. With 74 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.525859
 url: "/cdr-researcher-census/researchers/chukwudi-nwaogu-a5065866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 417 |
-| Publications | 73 |
-| CDR Focus | 12.3% |
+| h-index | 12 |
+| Citations | 442 |
+| Publications | 74 |
+| CDR Focus | 13.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon stocks as driven by land use in Mato Grosso State: the Brazilian Cerrado agricultural frontier** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Integrated Agricultural Systems for Enhancing Carbon Stocks and Climate Change Mitigation: Nigeria and Brazil** (2023)
    4 citations · General CDR
 
 3. **A meta-analysis of soil organic carbon dynamics under climate-smart agricultural systems in the Amazonian region** (2026)
-   1 citations
+   2 citations
 
 4. **Understanding the Conventional Practices of Fallowing and Plant Residue Mulching as Nature-Based Solutions to Climate Change Mitigation and Adaptation** (2025)
    1 citations · General CDR

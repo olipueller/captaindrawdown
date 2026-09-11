@@ -1,7 +1,7 @@
 ---
 title: "Akshata Pattanshetti"
 description: "Akshata Pattanshetti is a Mid-career Biochar researcher at Shivaji University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.038267
+date: 2026-09-11T02:38:29.975704
 url: "/cdr-researcher-census/researchers/akshata-pattanshetti-a5089744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 185 |
+| Citations | 197 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

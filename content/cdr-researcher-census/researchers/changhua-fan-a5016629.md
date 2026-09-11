@@ -1,7 +1,7 @@
 ---
 title: "Changhua Fan"
 description: "Changhua Fan is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.214106
+date: 2026-09-11T02:38:29.164064
 url: "/cdr-researcher-census/researchers/changhua-fan-a5016629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,531 |
+| Citations | 1,564 |
 | Publications | 45 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

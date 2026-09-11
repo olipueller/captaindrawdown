@@ -1,7 +1,7 @@
 ---
 title: "Kai Graf"
-description: "Kai Graf is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.275679
+description: "Kai Graf is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.245301
 url: "/cdr-researcher-census/researchers/kai-graf-a5112791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 126 |
-| Publications | 38 |
-| CDR Focus | 7.9% |
+| Citations | 128 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

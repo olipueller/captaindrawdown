@@ -1,7 +1,7 @@
 ---
 title: "Hiteshkumar B. Vasava"
 description: "Hiteshkumar B. Vasava is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.390206
+date: 2026-09-11T02:38:29.332361
 url: "/cdr-researcher-census/researchers/hiteshkumar-b-vasava-a5062603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 712 |
+| Citations | 751 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Estimation of soil and crop residue parameters using AVIRIS-NG hyperspectral data** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Global Development in Soil Science Research: Agriculture Sensors and Technologies** (2021)
    1 citations · General CDR

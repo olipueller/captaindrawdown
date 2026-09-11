@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Ge"
 description: "Yuhui Ge is a Mid-career Biochar researcher at The University of Queensland in AU. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.445731
+date: 2026-09-11T02:38:29.381359
 url: "/cdr-researcher-census/researchers/yuhui-ge-a5049651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 599 |
+| Citations | 640 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of sulfamethazine and sulfate via electrochemical oxidation and capacitive Deionization: Mechanisms of in-situ activation and strategies of the hybrid system** (2024)
-   11 citations
+   12 citations
 
 2. **Occurrence, Migration, and Transformation of Black Carbon in Environmental Matrix and Its Influence on the Environmental Fate of Coexisting Pollutants: A Review** (2023)
    11 citations · Biochar

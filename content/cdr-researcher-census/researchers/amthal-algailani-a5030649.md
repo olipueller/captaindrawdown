@@ -1,7 +1,7 @@
 ---
 title: "Amthal Al‐Gailani"
-description: "Amthal Al‐Gailani is a Mid-career Biochar researcher at University of Hull in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.068512
+description: "Amthal Al‐Gailani is a Mid-career Biochar researcher at University of Hull in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.001771
 url: "/cdr-researcher-census/researchers/amthal-algailani-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 176 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 189 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Scalable mesoporous biochars from bagasse waste for Cu (II) removal: Process optimisation, kinetics and techno-economic analysis** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anna Guðrun Þorhallsdóttir"
-description: "Anna Guðrun Þorhallsdóttir is a Senior Soil Carbon researcher at Hólar University College in IS. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.349013
+description: "Anna Guðrun Þorhallsdóttir is a Senior Soil Carbon researcher at University of Iceland in IS. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.303227
 url: "/cdr-researcher-census/researchers/anna-gurun-orhallsdottir-a5017530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anna-gurun-orhallsdottir-a5017530/",
   "affiliation": {
     "@type": "Organization",
-    "name": "H\u00f3lar University College"
+    "name": "University of Iceland"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3735-3876",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Anna Guðrun Þorhallsdóttir**  
-Hólar University College ·  IS
+University of Iceland ·  IS
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 817 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 13 |
+| Citations | 824 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

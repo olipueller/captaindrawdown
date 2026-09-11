@@ -1,7 +1,7 @@
 ---
 title: "Sefiu Olaitan Amusat"
-description: "Sefiu Olaitan Amusat is a Mid-career Biochar researcher at Pioneer (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.527299
+description: "Sefiu Olaitan Amusat is a Mid-career Biochar researcher at University of South Africa in ZA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.468437
 url: "/cdr-researcher-census/researchers/sefiu-olaitan-amusat-a5067875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sefiu-olaitan-amusat-a5067875/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pioneer (United States)"
+    "name": "University of South Africa"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3772-6481",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sefiu Olaitan Amusat**  
-Pioneer (United States) · 🇺🇸 US
+University of South Africa · 🇿🇦 ZA
 
 **Career Stage:** Mid-career
 
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 479 |
-| Publications | 18 |
-| CDR Focus | 22.2% |
+| h-index | 9 |
+| Citations | 503 |
+| Publications | 19 |
+| CDR Focus | 21.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ball-milling synthesis of biochar and biochar–based nanocomposites and prospects for removal of emerging contaminants: A review** (2021)
-   319 citations · Biochar
+   322 citations · Biochar
 
 2. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   29 citations · Biochar
+   30 citations · Biochar
 
 3. **Green Synthesis of Surface Modified Biochar for Simultaneous Removal of Steroidal Hormones and Heavy Metals from Wastewater: Optimisation by Central Composite Design** (2023)
-   10 citations · Biochar
+   11 citations · Biochar
 
 4. **Biochar-reinforced biodegradable mulching films: Toward climate-resilient and sustainable agriculture** (2026)
    3 citations · Biochar

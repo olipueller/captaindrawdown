@@ -1,7 +1,7 @@
 ---
 title: "Arnaud Bouissonnié"
-description: "Arnaud Bouissonnié is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.905821
+description: "Arnaud Bouissonnié is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.839502
 url: "/cdr-researcher-census/researchers/arnaud-bouissonnie-a5079423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/arnaud-bouissonnie-a5079423/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California, Los Angeles"
+    "name": "Centre National de la Recherche Scientifique"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4590-5631",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Arnaud Bouissonnié**  
-University of California, Los Angeles · 🇺🇸 US
+Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -42,21 +42,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 223 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
-| Trajectory | Exiting |
+| h-index | 9 |
+| Citations | 240 |
+| Publications | 28 |
+| CDR Focus | 14.3% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   70 citations · Ocean CDR
+   72 citations · Ocean CDR
 
 2. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
    2 citations · Ocean CDR
 
-3. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
+3. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+   0 citations · General CDR
+
+4. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
    0 citations · Ocean CDR
 
 ## External Profiles

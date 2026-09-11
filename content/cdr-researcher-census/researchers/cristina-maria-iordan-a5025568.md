@@ -1,7 +1,7 @@
 ---
 title: "Cristina-Maria Iordan"
 description: "Cristina-Maria Iordan is a Mid-career BECCS researcher at SINTEF in NO. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562825
+date: 2026-09-11T02:38:29.511242
 url: "/cdr-researcher-census/researchers/cristina-maria-iordan-a5025568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 443 |
+| Citations | 456 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Climate change mitigation potentials of biofuels produced from perennial crops and natural regrowth on abandoned and degraded cropland in Nordic countries** (2022)
-   43 citations · BECCS
+   44 citations · BECCS
 
 ## External Profiles
 

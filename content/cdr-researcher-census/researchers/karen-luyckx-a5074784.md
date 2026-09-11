@@ -1,7 +1,7 @@
 ---
 title: "Karen Luyckx"
 description: "Karen Luyckx is a Mid-career BECCS researcher at National Archives in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.163853
+date: 2026-09-11T02:38:30.111368
 url: "/cdr-researcher-census/researchers/karen-luyckx-a5074784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 150 |
+| Citations | 157 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Climate mitigation efficacy of anaerobic digestion in a decarbonising economy** (2022)
-   39 citations · BECCS
+   41 citations · BECCS
 
 ## External Profiles
 

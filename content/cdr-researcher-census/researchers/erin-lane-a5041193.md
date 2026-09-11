@@ -1,7 +1,7 @@
 ---
 title: "Erin Lane"
-description: "Erin Lane is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895104
+description: "Erin Lane is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.843786
 url: "/cdr-researcher-census/researchers/erin-lane-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 228 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
+| Citations | 239 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forming regional soil carbon networks to support effective climate change solutions** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Deep soil organic carbon stocks in pastures do not reflect surface soil properties or land use** (2026)
    0 citations · Soil Carbon

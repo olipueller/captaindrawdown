@@ -1,7 +1,7 @@
 ---
 title: "Changxun Yu"
-description: "Changxun Yu is a Senior Soil Carbon researcher at Linnaeus University in SE. With 94 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.159428
+description: "Changxun Yu is a Senior Soil Carbon researcher at Linnaeus University in SE. With 97 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.107139
 url: "/cdr-researcher-census/researchers/changxun-yu-a5043106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,267 |
-| Publications | 94 |
-| CDR Focus | 8.5% |
+| Citations | 2,346 |
+| Publications | 97 |
+| CDR Focus | 8.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   57 citations · Ocean CDR
+   58 citations · Ocean CDR
 
 4. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
    55 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 7. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 8. **Effects of nitrogen and phosphorus addition on phytolith carbon sequestration in alpine grassland** (2025)
    1 citations · Soil Carbon

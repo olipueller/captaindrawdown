@@ -1,7 +1,7 @@
 ---
 title: "Qian Yan"
-description: "Qian Yan is a Mid-career Enhanced Weathering researcher at Beijing Forestry University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.566585
+description: "Qian Yan is a Mid-career Enhanced Weathering researcher at Beijing Forestry University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.504780
 url: "/cdr-researcher-census/researchers/qian-yan-a5101942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 439 |
+| h-index | 13 |
+| Citations | 463 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

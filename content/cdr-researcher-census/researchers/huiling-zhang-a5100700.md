@@ -1,7 +1,7 @@
 ---
 title: "Huiling Zhang"
-description: "Huiling Zhang is a Senior Biochar researcher at Ministry of Science and Technology in LA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.008891
+description: "Huiling Zhang is a Senior Biochar researcher at Ministry of Science and Technology in LA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.939282
 url: "/cdr-researcher-census/researchers/huiling-zhang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 194 |
+| h-index | 8 |
+| Citations | 209 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of Magnetic Biochar from Pomegranate Peel for Enhanced Norfloxacin Removal from Wastewater: Performance, Mechanism and Economic Analyses** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

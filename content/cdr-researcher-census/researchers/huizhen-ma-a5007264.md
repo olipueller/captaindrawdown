@@ -1,7 +1,7 @@
 ---
 title: "Huizhen Ma"
 description: "Huizhen Ma is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222736
+date: 2026-09-11T02:38:30.173048
 url: "/cdr-researcher-census/researchers/huizhen-ma-a5007264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 137 |
+| Citations | 143 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mycelium, root exudation and root litter promote soil organic carbon sequestration under N addition by influencing different soil carbon fractions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

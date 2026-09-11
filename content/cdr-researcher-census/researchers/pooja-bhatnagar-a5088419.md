@@ -1,7 +1,7 @@
 ---
 title: "Pooja Bhatnagar"
 description: "Pooja Bhatnagar is a Mid-career Biochar researcher at Graphic Era University in IN. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.315998
+date: 2026-09-11T02:38:29.256349
 url: "/cdr-researcher-census/researchers/pooja-bhatnagar-a5088419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 925 |
+| Citations | 987 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Algal Consortiums: A Novel and Integrated Approach for Wastewater Treatment** (2022)
-   88 citations
+   89 citations
 
 2. **Algal-based biochar and hydrochar: A holistic and sustainable approach to wastewater treatment** (2024)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

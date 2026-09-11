@@ -1,7 +1,7 @@
 ---
 title: "Ravi Kumar"
 description: "Ravi Kumar is a Mid-career Biochar researcher at Baddi University of Emerging Sciences and Technologies in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.190811
+date: 2026-09-11T02:38:30.150518
 url: "/cdr-researcher-census/researchers/ravi-kumar-a5110483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 144 |
+| Citations | 148 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass waste-derived carbon materials for sustainable remediation of polluted environment: A comprehensive review** (2023)
-   90 citations · Biochar
+   92 citations · Biochar
 
 ## External Profiles
 

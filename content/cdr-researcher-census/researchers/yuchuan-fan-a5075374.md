@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
-description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Jiyang College of Zhejiang A&F University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.474353
+description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.388894
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuchuan-fan-a5075374/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiyang College of Zhejiang A&F University"
+    "name": "Zhejiang A & F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2681-6473",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuchuan Fan**  
-Jiyang College of Zhejiang A&F University · 🇨🇳 CN
+Zhejiang A & F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 554 |
-| Publications | 54 |
-| CDR Focus | 16.7% |
+| h-index | 14 |
+| Citations | 628 |
+| Publications | 60 |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Recycling silage leachate and biochar for improving nitrate removal by woodchip bioreactor** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 5. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon** (2025)
    3 citations · Soil Carbon

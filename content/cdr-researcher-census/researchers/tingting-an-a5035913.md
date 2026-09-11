@@ -1,7 +1,7 @@
 ---
 title: "Tingting An"
-description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.185970
+description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.134336
 url: "/cdr-researcher-census/researchers/tingting-an-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,830 |
+| h-index | 26 |
+| Citations | 1,894 |
 | Publications | 64 |
-| CDR Focus | 18.8% |
+| CDR Focus | 17.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -56,14 +56,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    14 citations · Soil Carbon
 
-3. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
+3. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
+   9 citations · Biochar
+
+4. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
    8 citations · Soil Carbon
 
-4. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
-   7 citations · Biochar
-
 5. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
    5 citations
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 8. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 9. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 10. **Long-Term Fertilization Mediates Microbial Keystone Taxa to Regulate Straw-Derived 13C Incorporation in Soil Aggregates** (2025)
    0 citations

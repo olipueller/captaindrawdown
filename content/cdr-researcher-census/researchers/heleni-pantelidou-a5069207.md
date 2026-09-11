@@ -1,7 +1,7 @@
 ---
 title: "Heleni Pantelidou"
 description: "Heleni Pantelidou is a Senior General CDR researcher at Arup Group (United Kingdom) in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.201217
+date: 2026-09-11T02:38:30.178685
 url: "/cdr-researcher-census/researchers/heleni-pantelidou-a5069207/"
 layout: "researcher"
 hiddenInHomeList: true

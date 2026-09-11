@@ -1,7 +1,7 @@
 ---
 title: "Marco Gambarini"
-description: "Marco Gambarini is an Early-career BECCS researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.078179
+description: "Marco Gambarini is an Early-career BECCS researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.963111
 url: "/cdr-researcher-census/researchers/marco-gambarini-a5092345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 174 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 201 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+1. **The role of shipping capacity and maritime regulation in ocean liming deployment** (2026)
+   0 citations
+
+2. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
    0 citations · BECCS
 
 ## External Profiles

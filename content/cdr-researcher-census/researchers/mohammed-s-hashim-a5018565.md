@@ -1,7 +1,7 @@
 ---
 title: "Mohammed S. Hashim"
-description: "Mohammed S. Hashim is a Mid-career Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.817406
+description: "Mohammed S. Hashim is a Mid-career Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.758622
 url: "/cdr-researcher-census/researchers/mohammed-s-hashim-a5018565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 263 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 8 |
+| Citations | 278 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 2. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
-   2 citations
+   3 citations
 
 3. **Reply on RC1** (2025)
    0 citations · General CDR

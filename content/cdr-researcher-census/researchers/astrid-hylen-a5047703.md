@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
-description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.564502
+description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.509991
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 441 |
-| Publications | 57 |
-| CDR Focus | 19.3% |
+| Citations | 457 |
+| Publications | 62 |
+| CDR Focus | 17.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through marine enhanced rock weathering using olivine** (2025)
-   34 citations · Enhanced Weathering
+   37 citations · Enhanced Weathering
 
 2. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
    2 citations

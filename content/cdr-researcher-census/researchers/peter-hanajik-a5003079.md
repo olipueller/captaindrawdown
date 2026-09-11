@@ -1,7 +1,7 @@
 ---
 title: "Peter Hanajík"
 description: "Peter Hanajík is a Mid-career Biochar researcher at Comenius University Bratislava in SK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.731220
+date: 2026-09-11T02:38:29.687559
 url: "/cdr-researcher-census/researchers/peter-hanajik-a5003079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 309 |
+| Citations | 315 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chemical composition controls the decomposition of organic amendments and influences the microbial community structure in agricultural soils** (2021)
-   38 citations · Biochar
+   39 citations · Biochar
 
 ## External Profiles
 

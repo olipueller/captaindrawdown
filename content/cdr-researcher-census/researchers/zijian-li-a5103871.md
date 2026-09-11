@@ -1,7 +1,7 @@
 ---
 title: "Zijian Li"
-description: "Zijian Li is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.934926
+description: "Zijian Li is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.853489
 url: "/cdr-researcher-census/researchers/zijian-li-a5103871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 212 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 234 |
+| Publications | 21 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 3. **Geospatial assessment of the cost and energy demand of feedstock grinding for enhanced rock weathering in the coterminous United States** (2024)
-   9 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 ## External Profiles
 

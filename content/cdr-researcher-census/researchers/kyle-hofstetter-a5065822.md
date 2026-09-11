@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hofstetter"
-description: "Kyle Hofstetter is a Mid-career DAC researcher at BP (Canada) in CA. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.334444
+description: "Kyle Hofstetter is a Mid-career DAC researcher at Venice International University in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.286177
 url: "/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/",
   "affiliation": {
     "@type": "Organization",
-    "name": "BP (Canada)"
+    "name": "Venice International University"
   },
   "sameAs": "https://openalex.org/A5065822541"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Kyle Hofstetter**  
-BP (Canada) · 🇨🇦 CA
+Venice International University · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 859 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 11 |
+| Citations | 878 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

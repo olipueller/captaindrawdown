@@ -1,7 +1,7 @@
 ---
 title: "Xuechen Zhang"
-description: "Xuechen Zhang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 102 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.137899
+description: "Xuechen Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 105 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.086250
 url: "/cdr-researcher-census/researchers/xuechen-zhang-a5101979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuechen-zhang-a5101979/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agriculture and Forestry University"
+    "name": "University of Michigan"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6381-6627",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuechen Zhang**  
-Agriculture and Forestry University ·  NP
+University of Michigan · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,821 |
-| Publications | 102 |
-| CDR Focus | 5.9% |
+| Citations | 2,970 |
+| Publications | 105 |
+| CDR Focus | 5.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   201 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Fertilization regimes and the nitrification process in paddy soils: Lessons for agricultural sustainability from a meta-analysis** (2023)
    19 citations · Soil Carbon
 
 3. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **A regime shift between soil moisture and temperature in the 1950s over the permafrost region of Northeast China** (2024)
    6 citations · Soil Carbon

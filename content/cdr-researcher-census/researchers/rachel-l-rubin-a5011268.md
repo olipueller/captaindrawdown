@@ -1,7 +1,7 @@
 ---
 title: "Rachel L. Rubin"
-description: "Rachel L. Rubin is a Senior Biochar researcher at Mount Holyoke College in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.297450
+description: "Rachel L. Rubin is a Senior Soil Carbon researcher at Mount Holyoke College in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.246973
 url: "/cdr-researcher-census/researchers/rachel-l-rubin-a5011268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,27 +34,27 @@ Mount Holyoke College · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,004 |
+| Citations | 1,027 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
-| Trajectory | Growing |
+| CDR Focus | 18.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Crediting agricultural soil carbon sequestration** (2022)
-   203 citations · General CDR
+   211 citations · General CDR
 
 2. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   18 citations · General CDR
+   20 citations · General CDR
 
 3. **Biochar-enhanced bioreactors for agricultural nitrogen mitigation** (2025)
    2 citations · Biochar

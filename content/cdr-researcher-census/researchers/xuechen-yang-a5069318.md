@@ -1,7 +1,7 @@
 ---
 title: "Xuechen Yang"
-description: "Xuechen Yang is a Mid-career Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 78 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.248706
+description: "Xuechen Yang is a Mid-career Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.195235
 url: "/cdr-researcher-census/researchers/xuechen-yang-a5069318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,267 |
-| Publications | 78 |
-| CDR Focus | 9.0% |
+| h-index | 19 |
+| Citations | 1,313 |
+| Publications | 76 |
+| CDR Focus | 9.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    79 citations · Biochar
 
 2. **A critical review of biochar as an environmental functional material in soil ecosystems for migration and transformation mechanisms and ecological risk assessment** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 3. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 4. **Mowing enhances the positive effects of nitrogen addition on ecosystem carbon fluxes and water use efficiency in a semi-arid meadow steppe** (2022)
    12 citations · Soil Carbon
 
 5. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 6. **Reduced Precipitation Frequency Decreases the Stability of the Soil Organic Carbon Pool by Altering Microbial Communities in Degraded Grasslands** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 7. **Effects of coupled precipitation manipulation and biochar on soybean soil respiration and its temperature sensitivity in the cold black soil regions under climate change conditions** (2025)
    1 citations · Biochar

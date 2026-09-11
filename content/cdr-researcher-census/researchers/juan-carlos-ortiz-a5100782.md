@@ -1,7 +1,7 @@
 ---
 title: "Juan Carlos Ortiz"
-description: "Juan Carlos Ortiz is a Senior Soil Carbon researcher at University of Concepción in CL. With 111 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.244843
+description: "Juan Carlos Ortiz is a Senior Soil Carbon researcher at University of Concepción in CL. With 110 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.193945
 url: "/cdr-researcher-census/researchers/juan-carlos-ortiz-a5100782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,296 |
-| Publications | 111 |
-| CDR Focus | 5.4% |
+| Citations | 1,326 |
+| Publications | 110 |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

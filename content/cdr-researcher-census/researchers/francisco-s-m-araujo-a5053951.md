@@ -1,7 +1,7 @@
 ---
 title: "Francisco S. M. Araujo"
-description: "Francisco S. M. Araujo is a Mid-career General CDR researcher at Environmental and Water Resources Engineering in IL. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.826457
+description: "Francisco S. M. Araujo is a Mid-career General CDR researcher. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.773651
 url: "/cdr-researcher-census/researchers/francisco-s-m-araujo-a5053951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Francisco S. M. Araujo",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/francisco-s-m-araujo-a5053951/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Environmental and Water Resources Engineering"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-5965-9948",
     "https://openalex.org/A5053951113"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Francisco S. M. Araujo**  
-Environmental and Water Resources Engineering · 🇮🇱 IL
+**Francisco S. M. Araujo**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 258 |
-| Publications | 22 |
-| CDR Focus | 22.7% |
-| Trajectory | Stable |
+| Citations | 271 |
+| Publications | 24 |
+| CDR Focus | 29.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 2. **Adapting and Verifying the Liming Index for Enhanced Rock Weathering Minerals as an Alternative Liming Approach** (2024)
    3 citations

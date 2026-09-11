@@ -1,7 +1,7 @@
 ---
 title: "Shayan Rabet"
-description: "Shayan Rabet is a Mid-career BECCS researcher at University of Tabriz in IR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.097749
+description: "Shayan Rabet is a Mid-career BECCS researcher at University of Tabriz in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.858908
 url: "/cdr-researcher-census/researchers/shayan-rabet-a5095383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 168 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| h-index | 6 |
+| Citations | 232 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

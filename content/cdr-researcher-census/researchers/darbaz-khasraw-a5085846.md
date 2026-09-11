@@ -1,7 +1,7 @@
 ---
 title: "Darbaz Khasraw"
-description: "Darbaz Khasraw is a Mid-career Biochar researcher at Coventry University in GB. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.265082
+description: "Darbaz Khasraw is a Mid-career Biochar researcher at Coventry University in GB. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.197275
 url: "/cdr-researcher-census/researchers/darbaz-khasraw-a5085846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 128 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 137 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancing biochar quality for the steel industry via Hydrothermal Pretreatment-Steam Explosion and pyrolysis** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

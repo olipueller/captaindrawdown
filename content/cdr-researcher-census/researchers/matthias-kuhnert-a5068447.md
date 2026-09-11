@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kuhnert"
-description: "Matthias Kuhnert is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 153 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.136426
+description: "Matthias Kuhnert is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 154 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.085784
 url: "/cdr-researcher-census/researchers/matthias-kuhnert-a5068447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,888 |
-| Publications | 153 |
+| h-index | 29 |
+| Citations | 2,998 |
+| Publications | 154 |
 | CDR Focus | 5.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon stocks potentially at risk of decline with organic farming expansion** (2023)
-   60 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2018** (2021)
    57 citations
 
 3. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   48 citations · General CDR
+   54 citations · General CDR
 
 4. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2020** (2023)
-   15 citations
+   16 citations
 
 5. **Soil Carbon Sequestration and Biochar** (2022)
-   12 citations · Biochar
+   13 citations · Biochar
 
 6. **Data for the consolidated European synthesis of CO2 emissions and removals for EU27 and UK: 1990-2020** (2022)
    9 citations

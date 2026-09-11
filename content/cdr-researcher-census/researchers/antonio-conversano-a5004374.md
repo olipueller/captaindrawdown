@@ -1,7 +1,7 @@
 ---
 title: "Antonio Conversano"
 description: "Antonio Conversano is a Mid-career BECCS researcher at Politecnico di Milano in IT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.169074
+date: 2026-09-11T02:38:30.112252
 url: "/cdr-researcher-census/researchers/antonio-conversano-a5004374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 149 |
+| Citations | 157 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bio-methanol with negative CO2 emissions from residual forestry biomass gasification: Modelling and techno-economic assessment of different process configurations** (2024)
-   32 citations · BECCS
+   33 citations · BECCS
 
 ## External Profiles
 

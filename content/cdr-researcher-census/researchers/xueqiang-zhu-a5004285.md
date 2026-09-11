@@ -1,7 +1,7 @@
 ---
 title: "Xueqiang Zhu"
-description: "Xueqiang Zhu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.916658
+description: "Xueqiang Zhu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.859872
 url: "/cdr-researcher-census/researchers/xueqiang-zhu-a5004285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 220 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 232 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

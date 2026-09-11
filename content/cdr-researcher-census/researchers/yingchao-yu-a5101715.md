@@ -1,7 +1,7 @@
 ---
 title: "Yingchao Yu"
 description: "Yingchao Yu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.506593
+date: 2026-09-11T02:38:29.461879
 url: "/cdr-researcher-census/researchers/yingchao-yu-a5101715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 505 |
+| Citations | 512 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Extreme Wetness Reduces Soil Microbial Residue Carbon More Substantially Than Extreme Drought Across Grassland Ecosystems** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Factors controlling the contributions of bacterial and fungal residue carbon to soil organic carbon in grassland ecosystems** (2024)
    11 citations · Soil Carbon

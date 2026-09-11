@@ -1,7 +1,7 @@
 ---
 title: "Jinqi Zhu"
 description: "Jinqi Zhu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.925106
+date: 2026-09-11T02:38:29.859549
 url: "/cdr-researcher-census/researchers/jinqi-zhu-a5104195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 217 |
+| Citations | 232 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |

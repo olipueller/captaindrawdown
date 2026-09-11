@@ -1,7 +1,7 @@
 ---
 title: "Minqi Liang"
 description: "Minqi Liang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.669216
+date: 2026-09-11T02:38:29.595695
 url: "/cdr-researcher-census/researchers/minqi-liang-a5113980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 352 |
+| Citations | 381 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclusion promotes soil organic carbon accumulation in Tibetan grasslands with lower temperatures** (2024)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

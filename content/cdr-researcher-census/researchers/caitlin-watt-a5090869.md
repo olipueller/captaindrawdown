@@ -1,7 +1,7 @@
 ---
 title: "Caitlin Watt"
 description: "Caitlin Watt is a Mid-career Soil Carbon researcher at University of Lethbridge in CA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.413999
+date: 2026-09-11T02:38:29.366128
 url: "/cdr-researcher-census/researchers/caitlin-watt-a5090869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 657 |
+| Citations | 672 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbohydrate flow through agricultural ecosystems: Implications for synthesis and microbial conversion of carbohydrates** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

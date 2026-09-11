@@ -1,7 +1,7 @@
 ---
 title: "Sofia Sushko"
-description: "Sofia Sushko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.679846
+description: "Sofia Sushko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.621615
 url: "/cdr-researcher-census/researchers/sofia-sushko-a5042411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 345 |
+| h-index | 11 |
+| Citations | 361 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
-   6 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Soil mineral-associated organic matter under conventional and no-till farming: Spatial drivers and local-scale mapping** (2026)
    1 citations

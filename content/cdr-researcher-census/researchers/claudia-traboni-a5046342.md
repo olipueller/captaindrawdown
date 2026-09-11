@@ -1,7 +1,7 @@
 ---
 title: "Claudia Traboni"
-description: "Claudia Traboni is a Mid-career Ocean CDR researcher at Stazione Zoologica Anton Dohrn in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.682599
+description: "Claudia Traboni is a Mid-career Ocean CDR researcher at Stazione Zoologica Anton Dohrn in IT. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.628122
 url: "/cdr-researcher-census/researchers/claudia-traboni-a5046342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 342 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| Citations | 356 |
+| Publications | 25 |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR

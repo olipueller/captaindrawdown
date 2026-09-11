@@ -1,7 +1,7 @@
 ---
 title: "S. R. Gupta"
-description: "S. R. Gupta is a Senior Soil Carbon researcher at Kurukshetra University in IN. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.159296
+description: "S. R. Gupta is a Senior Soil Carbon researcher at Kurukshetra University in IN. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.111694
 url: "/cdr-researcher-census/researchers/s-r-gupta-a5079948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,267 |
-| Publications | 75 |
-| CDR Focus | 8.0% |
+| Citations | 2,265 |
+| Publications | 74 |
+| CDR Focus | 8.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
-   94 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Agroforestry for Climate Change Resilience in Degraded Landscapes** (2023)
    22 citations · General CDR
 
 3. **Soil Biodiversity and Litter Decomposition in Agroforestry Systems of the Tropical Regions of Asia and Africa** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Tree-based farming systems for improving productivity and ecosystem services in saline environments of dry regions: An overview** (2023)
-   16 citations
+   18 citations
 
 5. **Silvopastoral Systems on Degraded Lands for Soil Carbon Sequestration and Climate Change Mitigation** (2023)
    8 citations · General CDR
 
 6. **Halophytes and Agroforestry in the Restoration of Salt-affected Landscapes in Changed Environment** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 7. **Agroforestry: Climate-Smart Agriculture for Increased Resilience and Food Security in a Changing Climate** (2025)
    1 citations · Soil Carbon

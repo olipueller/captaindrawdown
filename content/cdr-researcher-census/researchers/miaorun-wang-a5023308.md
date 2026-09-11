@@ -1,7 +1,7 @@
 ---
 title: "Miaorun Wang"
-description: "Miaorun Wang is a Mid-career Soil Carbon researcher at University of Rostock in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.124431
+description: "Miaorun Wang is a Mid-career Soil Carbon researcher at University of Rostock in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.066298
 url: "/cdr-researcher-census/researchers/miaorun-wang-a5023308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 161 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 6 |
+| Citations | 171 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Floodplains and coastal wetlands as nutrient sinks: a restoration perspective** (2026)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

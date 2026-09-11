@@ -1,7 +1,7 @@
 ---
 title: "Jianrong Lin"
 description: "Jianrong Lin is a Senior Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.790363
+date: 2026-09-11T02:38:29.754906
 url: "/cdr-researcher-census/researchers/jianrong-lin-a5101920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 278 |
+| Citations | 280 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Insights into Fe(II) speciation influence on kinetics, microbial networks, and metabolism in Fe(II) oxidation coupled with carbon assimilation in paddy soil** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

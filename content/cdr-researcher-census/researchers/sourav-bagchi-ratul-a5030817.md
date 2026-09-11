@@ -1,7 +1,7 @@
 ---
 title: "Sourav Bagchi Ratul"
-description: "Sourav Bagchi Ratul is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311777
+description: "Sourav Bagchi Ratul is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.274644
 url: "/cdr-researcher-census/researchers/sourav-bagchi-ratul-a5030817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 120 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 123 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Role of mangrove afforestation in the high saline zone of Bangladesh: Changes of carbon stock with stand age and species composition** (2024)
    6 citations · Soil Carbon
+
+3. **Carbon storage dynamics and growth modelling across tree growth classes in the Sundarbans mangrove plantations** (2026)
+   0 citations
 
 ## External Profiles
 

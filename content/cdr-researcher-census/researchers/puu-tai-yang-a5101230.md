@@ -1,7 +1,7 @@
 ---
 title: "Puu-Tai Yang"
-description: "Puu-Tai Yang is a Mid-career Enhanced Weathering researcher at National Agriculture and Food Research Organization in JP. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.559313
+description: "Puu-Tai Yang is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.503992
 url: "/cdr-researcher-census/researchers/puu-tai-yang-a5101230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,18 +34,18 @@ National Agriculture and Food Research Organization · 🇯🇵 JP
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 446 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| Citations | 464 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

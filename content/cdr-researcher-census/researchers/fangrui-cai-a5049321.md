@@ -1,7 +1,7 @@
 ---
 title: "Fangrui Cai"
 description: "Fangrui Cai is a Mid-career Biochar researcher at Australian Water Quality Centre in AU. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.969217
+date: 2026-09-11T02:38:29.915248
 url: "/cdr-researcher-census/researchers/fangrui-cai-a5049321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 207 |
+| Citations | 211 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrogenic carbon-stimulated nitrate-dependent anaerobic methane oxidation: insights into redox activity and conductivity in anaerobic methanotrophic archaea metabolism and microbial dynamics** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

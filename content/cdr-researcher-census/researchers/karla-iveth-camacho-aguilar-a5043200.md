@@ -1,7 +1,7 @@
 ---
 title: "Karla Iveth Camacho-Aguilar"
 description: "Karla Iveth Camacho-Aguilar is a Mid-career Biochar researcher at Universidad Tecnológica de Aguascalientes in MX. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.152631
+date: 2026-09-11T02:38:30.117035
 url: "/cdr-researcher-census/researchers/karla-iveth-camacho-aguilar-a5043200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 153 |
+| Citations | 156 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Engineered Magnetic Carbon-Based Adsorbents for the Removal of Water Priority Pollutants: An Overview** (2021)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Maigaard Paulsen"
 description: "Maria Maigaard Paulsen is an Early-career General CDR researcher at Yale University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.264593
+date: 2026-09-11T02:38:30.149897
 url: "/cdr-researcher-census/researchers/maria-maigaard-paulsen-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 128 |
+| Citations | 148 |
 | Publications | 10 |
 | CDR Focus | 60.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Techno-economic study of integrated high-temperature direct air capture with hydrogen-based calcination and Fischer–Tropsch synthesis for jet fuel production** (2024)
-   28 citations · DAC
+   29 citations · DAC
 
 2. **Techno-economic evaluation of carbon capture via physical absorption from HTL gas phase derived from woody biomass and sewage sludge** (2021)
    19 citations · BECCS
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · BECCS
 
 4. **Is solid calcium looping a scalable technology for mega-ton carbon dioxide removal?** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 5. **Solving the Water Loss Challenge in Potassium Hydroxide-Based Liquid Direct Air Capture Systems by Tolerating Concentration Fluctuations** (2026)
    0 citations · DAC

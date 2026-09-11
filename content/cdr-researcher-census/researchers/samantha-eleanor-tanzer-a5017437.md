@@ -1,7 +1,7 @@
 ---
 title: "Samantha Eleanor Tanzer"
-description: "Samantha Eleanor Tanzer is a Mid-career General CDR researcher at Delft University of Technology in NL. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510904
+description: "Samantha Eleanor Tanzer is a Mid-career General CDR researcher at Delft University of Technology in NL. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.459684
 url: "/cdr-researcher-census/researchers/samantha-eleanor-tanzer-a5017437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 499 |
-| Publications | 25 |
-| CDR Focus | 24.0% |
+| Citations | 514 |
+| Publications | 26 |
+| CDR Focus | 23.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Decarbonising Industry via BECCS: Promising Sectors, Challenges, and Techno-economic Limits of Negative Emissions** (2021)
-   51 citations · BECCS
+   52 citations · BECCS
 
 2. **Curing time: a temporally explicit life cycle CO<sub>2</sub> accounting of mineralization, bioenergy, and CCS in the concrete sector** (2021)
-   13 citations · BECCS
+   14 citations · BECCS
 
 3. **Life cycle assessment of ocean-based carbon dioxide removal approaches: A systematic literature review** (2025)
    11 citations

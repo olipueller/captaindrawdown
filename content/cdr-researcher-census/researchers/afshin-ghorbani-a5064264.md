@@ -1,7 +1,7 @@
 ---
 title: "Afshin Ghorbani"
-description: "Afshin Ghorbani is a Senior DAC researcher at Iran University of Science and Technology in IR. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.442027
+description: "Afshin Ghorbani is a Senior DAC researcher at Iran University of Science and Technology in IR. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.396914
 url: "/cdr-researcher-census/researchers/afshin-ghorbani-a5064264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 607 |
+| h-index | 11 |
+| Citations | 613 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

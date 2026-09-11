@@ -1,7 +1,7 @@
 ---
 title: "Diego Ábalos"
-description: "Diego Ábalos is a Senior Soil Carbon researcher at Aarhus University in DK. With 137 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.091203
+description: "Diego Ábalos is a Senior Soil Carbon researcher at Aarhus University in DK. With 147 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.041518
 url: "/cdr-researcher-census/researchers/diego-abalos-a5037101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 38 |
-| Citations | 5,793 |
-| Publications | 137 |
-| CDR Focus | 8.0% |
+| h-index | 39 |
+| Citations | 6,060 |
+| Publications | 147 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A review and meta-analysis of mitigation measures for nitrous oxide emissions from crop residues** (2022)
-   126 citations · Soil Carbon
+   129 citations · Soil Carbon
 
 2. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 3. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Symbiosis Type in Nitrogen Fixing Trees Determines Soil Greenhouse Gas Emissions: A Global Meta‐Analysis** (2026)
    1 citations · Soil Carbon
@@ -68,16 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Advancing agroecosystem management through strategic cover crop selection: The role of species identity and community composition for productivity and climate change mitigation** (2025)
    1 citations · Soil Carbon
 
-7. **Designing productive grassland mixtures to enhance soil carbon storage:the role of species traits and mixture composition** (2026)
+7. **Divergent trajectories of labile and acid-resistant soil organic carbon during 25 years of afforestation in a temperate desert** (2026)
+   0 citations
+
+8. **Designing productive grassland mixtures to enhance soil carbon storage:the role of species traits and mixture composition** (2026)
    0 citations · Soil Carbon
 
-8. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
+9. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
    0 citations · Soil Carbon
 
-9. **Estimating the Tipping Point between N2O Emissions and C Sequestration in Soil using the DNDC v. CAN Model** (2025)
-   0 citations · Soil Carbon
-
-10. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
+10. **Estimating the Tipping Point between N2O Emissions and C Sequestration in Soil using the DNDC v. CAN Model** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

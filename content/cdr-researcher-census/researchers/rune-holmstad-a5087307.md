@@ -1,7 +1,7 @@
 ---
 title: "Rune Holmstad"
 description: "Rune Holmstad is a Senior Biochar researcher. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.180927
+date: 2026-09-11T02:38:29.127014
 url: "/cdr-researcher-census/researchers/rune-holmstad-a5087307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,913 |
+| Citations | 2,005 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sewage sludge biochars as effective PFAS-sorbents** (2022)
-   118 citations · Biochar
+   119 citations · Biochar
 
 2. **Sewage Sludge Biochars as Effective Pfas-Sorbents** (2022)
    1 citations · Biochar

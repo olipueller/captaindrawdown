@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Kravchenko"
-description: "Ekaterina Kravchenko is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in CN. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.322205
+description: "Ekaterina Kravchenko is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in CN. With 80 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.254364
 url: "/cdr-researcher-census/researchers/ekaterina-kravchenko-a5067492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 898 |
-| Publications | 75 |
-| CDR Focus | 5.3% |
+| h-index | 19 |
+| Citations | 994 |
+| Publications | 80 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ecological consequences of biochar and hydrochar amendments in soil: assessing environmental impacts and influences** (2024)
-   20 citations · Biochar
+   23 citations · Biochar
 
 2. **Machine learning prediction of biochar properties derived from food waste** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 3. **Hydrochar as an adsorbent for heavy metals in soil: A meta-analysis** (2024)
    12 citations · Biochar

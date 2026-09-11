@@ -1,7 +1,7 @@
 ---
 title: "G. Sunil Kumar"
 description: "G. Sunil Kumar is a Mid-career Biochar researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369718
+date: 2026-09-11T02:38:30.343176
 url: "/cdr-researcher-census/researchers/g-sunil-kumar-a5103664/"
 layout: "researcher"
 hiddenInHomeList: true

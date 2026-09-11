@@ -1,7 +1,7 @@
 ---
 title: "Kevin J. Badik"
 description: "Kevin J. Badik is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.031125
+date: 2026-09-11T02:38:30.001232
 url: "/cdr-researcher-census/researchers/kevin-j-badik-a5053778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 188 |
+| Citations | 190 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

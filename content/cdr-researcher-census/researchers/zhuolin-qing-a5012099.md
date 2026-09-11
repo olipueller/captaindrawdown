@@ -1,7 +1,7 @@
 ---
 title: "Zhuolin Qing"
 description: "Zhuolin Qing is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.826257
+date: 2026-09-11T02:38:29.799847
 url: "/cdr-researcher-census/researchers/zhuolin-qing-a5012099/"
 layout: "researcher"
 hiddenInHomeList: true

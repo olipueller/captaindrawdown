@@ -1,7 +1,7 @@
 ---
 title: "Wankun Pan"
-description: "Wankun Pan is a Mid-career Soil Carbon researcher at Bangor University in GB. With 34 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.353803
+description: "Wankun Pan is a Mid-career Soil Carbon researcher at Bangor University in GB. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.291470
 url: "/cdr-researcher-census/researchers/wankun-pan-a5048546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 802 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 19 |
+| Citations | 866 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
-   47 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Microbial Community Traits and Necromass Dynamics Shape Soil Carbon Accumulation** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation</b>** (2025)
    0 citations · Soil Carbon

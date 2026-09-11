@@ -1,7 +1,7 @@
 ---
 title: "M. Golam Mahboob"
-description: "M. Golam Mahboob is a Mid-career Soil Carbon researcher at Bangladesh Medical Research Council in BD. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.285241
+description: "M. Golam Mahboob is a Mid-career Soil Carbon researcher at Bangladesh Medical Research Council in BD. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.231586
 url: "/cdr-researcher-census/researchers/m-golam-mahboob-a5013855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,067 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 1,101 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Restoring Soil Fertility, Productivity and Biodiversity through Participatory Agroforestry: Evidence from Madhupur Sal Forest, Bangladesh** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

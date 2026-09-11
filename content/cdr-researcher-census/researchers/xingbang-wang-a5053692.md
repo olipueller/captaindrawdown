@@ -1,7 +1,7 @@
 ---
 title: "Xingbang Wang"
-description: "Xingbang Wang is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.682059
+description: "Xingbang Wang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.602605
 url: "/cdr-researcher-census/researchers/xingbang-wang-a5053692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xingbang-wang-a5053692/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Agricultural University"
+    "name": "Southwest University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7679-2337",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xingbang Wang**  
-China Agricultural University · 🇨🇳 CN
+Southwest University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 343 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| h-index | 10 |
+| Citations | 376 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Optimal nitrogen fertilizer management increased soil organic carbon density by increasing particulate organic matter proportion and plant-derived carbon in topsoil** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Mitigating greenhouse gas emissions and enhancing carbon sequestration through optimized irrigation: Field-based evidence** (2026)
    0 citations

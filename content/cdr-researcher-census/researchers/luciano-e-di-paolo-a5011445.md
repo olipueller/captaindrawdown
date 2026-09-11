@@ -1,7 +1,7 @@
 ---
 title: "Luciano E. Di Paolo"
-description: "Luciano E. Di Paolo is an Early-career Soil Carbon researcher at Food and Agriculture Organization of the United Nations in IT. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337840
+description: "Luciano E. Di Paolo is an Early-career Soil Carbon researcher at Food and Agriculture Organization of the United Nations in IT. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.270281
 url: "/cdr-researcher-census/researchers/luciano-e-di-paolo-a5011445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 853 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 935 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

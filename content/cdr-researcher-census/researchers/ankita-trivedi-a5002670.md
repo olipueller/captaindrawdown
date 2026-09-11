@@ -1,7 +1,7 @@
 ---
 title: "Ankita Trivedi"
-description: "Ankita Trivedi is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.753106
+description: "Ankita Trivedi is a Senior Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.703840
 url: "/cdr-researcher-census/researchers/ankita-trivedi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ankita-trivedi-a5002670/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Agricultural Research Institute"
+    "name": "Sardar Vallabhbhai Patel University of Agriculture & Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7778-1763",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ankita Trivedi**  
-Indian Agricultural Research Institute · 🇮🇳 IN
+Sardar Vallabhbhai Patel University of Agriculture & Technology · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 297 |
-| Publications | 39 |
-| CDR Focus | 10.3% |
+| Citations | 307 |
+| Publications | 40 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Soil Health and Climate Change** (2024)
    5 citations · General CDR

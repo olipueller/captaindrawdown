@@ -1,7 +1,7 @@
 ---
 title: "Fanxiang Meng"
 description: "Fanxiang Meng is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.203775
+date: 2026-09-11T02:38:30.134558
 url: "/cdr-researcher-census/researchers/fanxiang-meng-a5111027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 141 |
+| Citations | 152 |
 | Publications | 20 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of biochar types on carbon cycles in farmland soils: A meta analysis** (2024)
-   25 citations · Biochar
+   27 citations · Biochar
 
 2. **Analysis of changes in water-heat-carbon fluxes at different time scales and their influencing factors in the cold black soil region of Northeast China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Harnessing Bacillus subtilis–Moss Synergy: Carbon–Structure Optimization for Erosion-Resistant Barrier Formation in Cold Mollisols** (2025)
    0 citations · Soil Carbon

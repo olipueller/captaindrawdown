@@ -1,7 +1,7 @@
 ---
 title: "Vismaya Uday"
 description: "Vismaya Uday is an Early-career Biochar researcher at University of Petroleum and Energy Studies in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.303789
+date: 2026-09-11T02:38:30.266924
 url: "/cdr-researcher-census/researchers/vismaya-uday-a5067105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 121 |
+| Citations | 124 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Current trends in production, morphology, and real-world environmental applications of biochar for the promotion of sustainability** (2022)
-   93 citations · Biochar
+   94 citations · Biochar
 
 ## External Profiles
 

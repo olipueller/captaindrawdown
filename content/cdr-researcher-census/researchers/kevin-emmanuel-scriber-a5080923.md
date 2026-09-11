@@ -1,7 +1,7 @@
 ---
 title: "Kevin Emmanuel Scriber"
 description: "Kevin Emmanuel Scriber is a Mid-career Soil Carbon researcher at University of Arizona in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.123898
+date: 2026-09-11T02:38:30.038941
 url: "/cdr-researcher-census/researchers/kevin-emmanuel-scriber-a5080923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 161 |
+| Citations | 178 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

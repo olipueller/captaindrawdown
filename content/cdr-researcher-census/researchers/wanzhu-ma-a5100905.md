@@ -1,7 +1,7 @@
 ---
 title: "Wanzhu Ma"
-description: "Wanzhu Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.405255
+description: "Wanzhu Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.353443
 url: "/cdr-researcher-census/researchers/wanzhu-ma-a5100905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 677 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 703 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Significant loss of soil inorganic carbon at the continental scale** (2021)
-   142 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 2. **Organic carbon storage potential of cropland topsoils in East China: Indispensable roles of cropping systems and soil managements** (2021)
    11 citations · Soil Carbon

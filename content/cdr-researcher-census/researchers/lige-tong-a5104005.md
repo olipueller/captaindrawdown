@@ -1,7 +1,7 @@
 ---
 title: "Lige Tong"
-description: "Lige Tong is a Mid-career BECCS researcher at Jiangsu University of Science and Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.307937
+description: "Lige Tong is a Mid-career BECCS researcher at University of Science and Technology Beijing in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.232677
 url: "/cdr-researcher-census/researchers/lige-tong-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lige-tong-a5104005/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangsu University of Science and Technology"
+    "name": "University of Science and Technology Beijing"
   },
   "sameAs": "https://openalex.org/A5104005791"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Lige Tong**  
-Jiangsu University of Science and Technology · 🇨🇳 CN
+University of Science and Technology Beijing · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 121 |
+| Citations | 131 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

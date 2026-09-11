@@ -1,7 +1,7 @@
 ---
 title: "Anshu Gangwar"
-description: "Anshu Gangwar is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.399062
+description: "Anshu Gangwar is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 37 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.333941
 url: "/cdr-researcher-census/researchers/anshu-gangwar-a5110695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Anshu Gangwar",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anshu-gangwar-a5110695/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Dr. Rajendra Prasad Central Agriculture University"
+  },
   "sameAs": "https://openalex.org/A5110695508"
 }
 </script>
 
 ## Profile
 
-**Anshu Gangwar**
+**Anshu Gangwar**  
+Dr. Rajendra Prasad Central Agriculture University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -35,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 111 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Conservation Agriculture for Soil Health and Carbon Sequestration in the Indian Himalayan Region** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
    0 citations · General CDR

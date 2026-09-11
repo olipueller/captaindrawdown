@@ -1,7 +1,7 @@
 ---
 title: "Raul Rosenvald"
-description: "Raul Rosenvald is a Senior Soil Carbon researcher at University of Tartu in EE. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.199634
+description: "Raul Rosenvald is a Senior Soil Carbon researcher at University of Tartu in EE. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.150309
 url: "/cdr-researcher-census/researchers/raul-rosenvald-a5002039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,682 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 1,700 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Towards a co‐crediting system for carbon and biodiversity** (2023)
-   21 citations · General CDR
+   23 citations · General CDR
 
 2. **Co-crediting system for carbon and biodiversity** (2022)
    1 citations · General CDR

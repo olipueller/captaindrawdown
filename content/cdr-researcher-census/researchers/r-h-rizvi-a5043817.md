@@ -1,7 +1,7 @@
 ---
 title: "R. H. Rizvi"
 description: "R. H. Rizvi is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510576
+date: 2026-09-11T02:38:29.466762
 url: "/cdr-researcher-census/researchers/r-h-rizvi-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 500 |
+| Citations | 506 |
 | Publications | 61 |
 | CDR Focus | 6.6% |
 | Trajectory | Exiting |
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Biomass and carbon sequestration potential of traditional agroforestry system: An investigation from mid-hill (1200-2000m) of Tehri District of Garhwal Himalaya, Uttarakhand** (2024)
    2 citations · General CDR
 
-2. **Soil Organic Carbon in Three Selected Agroforestry System at Temperate Zone (2000-2800m) of North Western Himalaya, Uttarakhand, India** (2024)
+2. **Assessing soil organic carbon in agroforestry systems in different altitudes of Tehri District, Uttarakhand, India** (2023)
+   1 citations · General CDR
+
+3. **Soil Organic Carbon in Three Selected Agroforestry System at Temperate Zone (2000-2800m) of North Western Himalaya, Uttarakhand, India** (2024)
    0 citations · General CDR
 
-3. **Soil Organic Carbon in Agroforestry Systems in Different Altitudes of Tehri District, Uttarakhand, India** (2024)
+4. **Soil Organic Carbon in Agroforestry Systems in Different Altitudes of Tehri District, Uttarakhand, India** (2024)
    0 citations · Soil Carbon
-
-4. **Assessing soil organic carbon in agroforestry systems in different altitudes of Tehri District, Uttarakhand, India** (2023)
-   0 citations · General CDR
 
 ## External Profiles
 

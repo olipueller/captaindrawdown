@@ -1,7 +1,7 @@
 ---
 title: "Yanghui He"
-description: "Yanghui He is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150624
+description: "Yanghui He is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.098455
 url: "/cdr-researcher-census/researchers/yanghui-he-a5063864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 2,452 |
-| Publications | 52 |
-| CDR Focus | 15.4% |
-| Trajectory | Stable |
+| Citations | 2,561 |
+| Publications | 53 |
+| CDR Focus | 13.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -57,15 +57,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 3. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Tree species richness reduces soil carbon loss via suppressed priming effects** (2026)
-   0 citations · Soil Carbon
+5. **Shoot litter outweighs root inputs in building soil organic carbon during Spartina alterniflora invasion in a coastal wetland** (2026)
+   2 citations · Soil Carbon
 
-6. **Shoot litter outweighs root inputs in building soil organic carbon during Spartina alterniflora invasion in a coastal wetland** (2026)
+6. **Tree species richness reduces soil carbon loss via suppressed priming effects** (2026)
    0 citations · Soil Carbon
 
 7. **A Transition from Arbuscular to Ectomycorrhizal Forests Halts Soil Carbon Sequestration During Subtropical Forest Rewilding** (2023)

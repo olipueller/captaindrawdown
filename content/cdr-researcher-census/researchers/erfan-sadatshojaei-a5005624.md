@@ -1,7 +1,7 @@
 ---
 title: "Erfan Sadatshojaei"
 description: "Erfan Sadatshojaei is a Mid-career Soil Carbon researcher at Shiraz University in IR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.581928
+date: 2026-09-11T02:38:29.532874
 url: "/cdr-researcher-census/researchers/erfan-sadatshojaei-a5005624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 426 |
+| Citations | 436 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

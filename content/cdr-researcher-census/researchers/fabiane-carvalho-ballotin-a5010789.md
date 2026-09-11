@@ -1,7 +1,7 @@
 ---
 title: "Fabiane Carvalho Ballotin"
-description: "Fabiane Carvalho Ballotin is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.771367
+description: "Fabiane Carvalho Ballotin is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.716627
 url: "/cdr-researcher-census/researchers/fabiane-carvalho-ballotin-a5010789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 287 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 300 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

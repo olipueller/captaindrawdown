@@ -1,7 +1,7 @@
 ---
 title: "Jieping Huang"
 description: "Jieping Huang is a Mid-career General CDR researcher at Beijing Institute of Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.721789
+date: 2026-09-11T02:38:29.650555
 url: "/cdr-researcher-census/researchers/jieping-huang-a5063325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 315 |
+| Citations | 341 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Construction and comprehensive evaluation of an index system for climate-smart agricultural development in China** (2024)
-   15 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

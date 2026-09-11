@@ -1,7 +1,7 @@
 ---
 title: "Tamara S. Morgan"
-description: "Tamara S. Morgan is a Senior Soil Carbon researcher at La Trobe University in AU. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.183336
+description: "Tamara S. Morgan is a Senior Soil Carbon researcher at La Trobe University in AU. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122299
 url: "/cdr-researcher-census/researchers/tamara-s-morgan-a5108675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,872 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 21 |
+| Citations | 2,076 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Rewilding soil and litter invertebrates and fungi increases decomposition rates and alters detritivore communities** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Ecological restoration using litter transplants increases decomposition rates and alters detritivore communities** (2023)
    0 citations · Soil Carbon

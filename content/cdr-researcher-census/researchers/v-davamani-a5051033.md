@@ -1,7 +1,7 @@
 ---
 title: "V. Davamani"
 description: "V. Davamani is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 91 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.395298
+date: 2026-09-11T02:38:29.332008
 url: "/cdr-researcher-census/researchers/v-davamani-a5051033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 699 |
+| Citations | 751 |
 | Publications | 91 |
 | CDR Focus | 8.8% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on biochar’s effect on soil properties and crop growth** (2023)
-   142 citations · Biochar
+   150 citations · Biochar
 
 2. **Silicon Fertilization for Carbon Sequestration Through PhytOC Production in Plants** (2024)
    6 citations

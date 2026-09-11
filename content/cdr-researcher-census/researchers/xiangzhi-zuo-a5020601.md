@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhi Zuo"
 description: "Xiangzhi Zuo is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.365239
+date: 2026-09-11T02:38:30.288517
 url: "/cdr-researcher-census/researchers/xiangzhi-zuo-a5020601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 110 |
+| Citations | 120 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and PAH degradation in soils by a synthetic community of archaea and bacteria** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

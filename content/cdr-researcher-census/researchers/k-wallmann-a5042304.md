@@ -1,7 +1,7 @@
 ---
 title: "K. Wallmann"
 description: "K. Wallmann is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.287308
+date: 2026-09-11T02:38:29.239618
 url: "/cdr-researcher-census/researchers/k-wallmann-a5042304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,054 |
+| Citations | 1,061 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

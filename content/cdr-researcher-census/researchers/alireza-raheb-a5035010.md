@@ -1,7 +1,7 @@
 ---
 title: "Alireza Raheb"
 description: "Alireza Raheb is a Mid-career Soil Carbon researcher at Shahed University in IR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.907598
+date: 2026-09-11T02:38:29.868069
 url: "/cdr-researcher-census/researchers/alireza-raheb-a5035010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 223 |
+| Citations | 229 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Xuewei Hu"
 description: "Xuewei Hu is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.305420
+date: 2026-09-11T02:38:30.246806
 url: "/cdr-researcher-census/researchers/xuewei-hu-a5027506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 121 |
+| Citations | 128 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

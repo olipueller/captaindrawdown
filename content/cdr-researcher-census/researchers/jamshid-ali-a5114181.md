@@ -1,7 +1,7 @@
 ---
 title: "Jamshid Ali"
 description: "Jamshid Ali is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.105819
+date: 2026-09-11T02:38:30.039300
 url: "/cdr-researcher-census/researchers/jamshid-ali-a5114181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 166 |
+| Citations | 178 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Altitudinal Variations in Coniferous Vegetation and Soil Carbon Storage in Kalam Temperate Forest, Pakistan** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Evaluating biomass and carbon stock responses to thinning and pruning in mature Larix principis-rupprechtii Mayr stands: a case study from Northern China** (2025)
    2 citations · General CDR

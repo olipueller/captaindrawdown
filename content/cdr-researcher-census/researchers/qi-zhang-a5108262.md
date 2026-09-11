@@ -1,7 +1,7 @@
 ---
 title: "Qi Zhang"
-description: "Qi Zhang is a Mid-career Soil Carbon researcher at Ludong University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.101941
+description: "Qi Zhang is a Mid-career Soil Carbon researcher at Ludong University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.025064
 url: "/cdr-researcher-census/researchers/qi-zhang-a5108262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 167 |
+| h-index | 7 |
+| Citations | 182 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic material addition on active soil organic carbon and microbial diversity: A meta-analysis** (2024)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 ## External Profiles
 

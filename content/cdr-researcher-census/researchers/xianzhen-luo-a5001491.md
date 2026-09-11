@@ -1,7 +1,7 @@
 ---
 title: "Xianzhen Luo"
-description: "Xianzhen Luo is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.189902
+description: "Xianzhen Luo is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.135771
 url: "/cdr-researcher-census/researchers/xianzhen-luo-a5001491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xianzhen-luo-a5001491/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Botanical Garden"
+    "name": "Harbin Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6629-9063",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xianzhen Luo**  
-South China Botanical Garden · 🇨🇳 CN
+Harbin Institute of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,792 |
+| h-index | 19 |
+| Citations | 1,878 |
 | Publications | 74 |
 | CDR Focus | 10.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 3. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Soil Carbon
 
 6. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 7. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 8. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

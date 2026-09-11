@@ -1,7 +1,7 @@
 ---
 title: "Cuicui Su"
-description: "Cuicui Su is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226849
+description: "Cuicui Su is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.204341
 url: "/cdr-researcher-census/researchers/cuicui-su-a5009088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 7 |
 | Citations | 136 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Effects of silicate rock weathering and agricultural cultivation on carbon sequestration in saline soils: an example from the saline soils of Bayannur, Northwest China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

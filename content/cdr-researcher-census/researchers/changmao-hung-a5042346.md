@@ -1,7 +1,7 @@
 ---
 title: "Chang‐Mao Hung"
-description: "Chang‐Mao Hung is a Senior Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 122 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.115532
+description: "Chang‐Mao Hung is a Senior Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 122 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.065671
 url: "/cdr-researcher-census/researchers/changmao-hung-a5042346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 37 |
-| Citations | 3,738 |
+| h-index | 38 |
+| Citations | 3,792 |
 | Publications | 122 |
 | CDR Focus | 8.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems** (2021)
-   105 citations · Biochar
+   108 citations · Biochar
 
 2. **Algae-derived metal-free boron-doped biochar as an efficient bioremediation pretreatment for persistent organic pollutants in marine sediments** (2022)
    75 citations · Biochar
@@ -69,7 +69,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 7. **The remediation of marine sediments containing polycyclic aromatic hydrocarbons by peroxymonosulfate activated with Sphagnum moss-derived biochar and its benthic microbial ecology** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 8. **Advanced sustainable processes via functionalized Fe–N co-doped fishbone biochar for the remediation of plasticizer di-(2-ethylhexyl) phthalate-contaminated marine sediment** (2024)
    6 citations · Biochar

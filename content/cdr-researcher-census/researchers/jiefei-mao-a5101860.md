@@ -1,7 +1,7 @@
 ---
 title: "Jiefei Mao"
-description: "Jiefei Mao is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences in CN. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.264900
+description: "Jiefei Mao is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences in CN. With 63 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.208502
 url: "/cdr-researcher-census/researchers/jiefei-mao-a5101860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,172 |
-| Publications | 62 |
-| CDR Focus | 9.7% |
+| Citations | 1,231 |
+| Publications | 63 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Grazing Decreases Soil Aggregation and Has Different Effects on Soil Organic Carbon Storage across Different Grassland Types in Northern Xinjiang, China** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **The response of soil organic carbon content of grasslands in Northern Xinjiang to future climate change** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Multiscale drivers and tipping points regulating particulate and mineral-associated organic carbon across Central Asian grasslands** (2025)
    4 citations · Soil Carbon
 
 5. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Grazing Decreases Soil Aggregation and Has Different Effect on Organic Carbon Storage Across Different Grassland Types in the Northern Xinjiang, China** (2023)
    2 citations · Soil Carbon

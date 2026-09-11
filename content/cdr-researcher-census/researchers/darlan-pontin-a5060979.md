@@ -1,7 +1,7 @@
 ---
 title: "Darlan Pontin"
 description: "Darlan Pontin is a Mid-career General CDR researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.724852
+date: 2026-09-11T02:38:29.672639
 url: "/cdr-researcher-census/researchers/darlan-pontin-a5060979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 313 |
+| Citations | 324 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

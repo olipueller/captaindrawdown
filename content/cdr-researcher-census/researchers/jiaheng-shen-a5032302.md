@@ -1,7 +1,7 @@
 ---
 title: "Jiaheng Shen"
-description: "Jiaheng Shen is a Mid-career Ocean CDR researcher at Peking University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288647
+description: "Jiaheng Shen is a Mid-career Ocean CDR researcher at Peking University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.208813
 url: "/cdr-researcher-census/researchers/jiaheng-shen-a5032302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 124 |
+| h-index | 5 |
+| Citations | 135 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

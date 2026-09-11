@@ -1,7 +1,7 @@
 ---
 title: "Praveen Saravanan"
-description: "Praveen Saravanan is a Mid-career Biochar researcher at Carbon Fresh Climate India Private Limited in IN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.312280
+description: "Praveen Saravanan is a Mid-career Biochar researcher at Carbon Fresh Climate India Private Limited in IN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.259987
 url: "/cdr-researcher-census/researchers/praveen-saravanan-a5052272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 947 |
-| Publications | 33 |
-| CDR Focus | 9.1% |
+| Citations | 977 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Techno-economic feasibility of biochar as biosorbent for basic dye sequestration** (2021)
-   158 citations · Biochar
+   161 citations · Biochar
 
 2. **Evaluation of the adsorptive removal of cationic dyes by greening biochar derived from agricultural bio-waste of rice husk** (2021)
-   66 citations · Biochar
+   67 citations · Biochar
 
 3. **Effective removal of remazol brillinat orange 3R using a biochar derived from <i>Ulva reticulata</i>** (2021)
    10 citations · Biochar

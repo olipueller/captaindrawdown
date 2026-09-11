@@ -1,7 +1,7 @@
 ---
 title: "Aimie Hope"
-description: "Aimie Hope is a Mid-career General CDR researcher at University of East Anglia in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.664556
+description: "Aimie Hope is a Mid-career General CDR researcher at University of Manchester in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.619090
 url: "/cdr-researcher-census/researchers/aimie-hope-a5059162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/aimie-hope-a5059162/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of East Anglia"
+    "name": "University of Manchester"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1920-0876",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Aimie Hope**  
-University of East Anglia · 🇬🇧 GB
+University of Manchester · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 355 |
+| h-index | 8 |
+| Citations | 362 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

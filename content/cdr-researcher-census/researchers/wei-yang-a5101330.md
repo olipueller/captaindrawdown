@@ -1,7 +1,7 @@
 ---
 title: "Wei Yang"
-description: "Wei Yang is a Mid-career Biochar researcher at Northeast Normal University in CN. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.293429
+description: "Wei Yang is a Mid-career Biochar researcher at Yuncheng University in CN. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.256074
 url: "/cdr-researcher-census/researchers/wei-yang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wei-yang-a5101330/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Normal University"
+    "name": "Yuncheng University"
   },
   "sameAs": "https://openalex.org/A5101330345"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Wei Yang**  
-Northeast Normal University · 🇨🇳 CN
+Yuncheng University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 123 |
+| Citations | 126 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Co-application of microalgae and biochar increases yield and mitigates greenhouse gas emissions in saline-alkali soil** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 3. **Biochar addition enhances annual carbon stocks and ecosystem carbon sink intensity in saline soils of the Hetao Irrigation District, Inner Mongolia** (2024)
    2 citations · Biochar

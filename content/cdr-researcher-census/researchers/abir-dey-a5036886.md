@@ -1,7 +1,7 @@
 ---
 title: "Abir Dey"
-description: "Abir Dey is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.271298
+description: "Abir Dey is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 87 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.213932
 url: "/cdr-researcher-census/researchers/abir-dey-a5036886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,42 +42,42 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,140 |
-| Publications | 86 |
-| CDR Focus | 11.6% |
+| h-index | 18 |
+| Citations | 1,203 |
+| Publications | 87 |
+| CDR Focus | 11.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Temperature Sensitivity of Soil Organic Carbon as Affected by Crop Residue and Nutrient Management Options Under Conservation Agriculture** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Temporal Effects of Conservation Agriculture-Based Rice–Wheat Cropping System on Soil Aggregation and Organic Carbon Dynamics in Northwestern Indo-Gangetic Plains** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Changes in soil organic carbon pools after 15 years of Conservation Agriculture in rice (Oryza sativa)-wheat (Triticum aestivum) cropping system of eastern Indo-Gangetic plains** (2023)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-4. **Functional groups and mineralization kinetics of soil organic matter under contrasting hydro‐thermal regimes under conservation agriculture‐based rice–wheat system in eastern <scp>Indo‐Gangetic</scp> Plains** (2023)
+4. **Long-term adoption of bed planted conservation agriculture based maize/cotton-wheat system enhances soil organic carbon stabilization within aggregates in the indo-gangetic plains** (2023)
    5 citations · Soil Carbon
 
-5. **Long-term adoption of bed planted conservation agriculture based maize/cotton-wheat system enhances soil organic carbon stabilization within aggregates in the indo-gangetic plains** (2023)
-   4 citations · Soil Carbon
+5. **Functional groups and mineralization kinetics of soil organic matter under contrasting hydro‐thermal regimes under conservation agriculture‐based rice–wheat system in eastern <scp>Indo‐Gangetic</scp> Plains** (2023)
+   5 citations · Soil Carbon
 
-6. **Soil Carbon Sequestration in the Context of Climate Change** (2024)
+6. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
+   3 citations · Soil Carbon
+
+7. **Soil Carbon Sequestration in the Context of Climate Change** (2024)
    3 citations · General CDR
 
-7. **Belowground Carbon Storage and Dynamics** (2021)
+8. **Belowground Carbon Storage and Dynamics** (2021)
    3 citations · General CDR
 
-8. **Conservation Agriculture Strategies for Enhancing Soil Health** (2025)
+9. **Conservation Agriculture Strategies for Enhancing Soil Health** (2025)
    2 citations · Soil Carbon
 
-9. **Impact of Conservation Agriculture on Soil Carbon Sequestration under a Rice (Oryza sativa)-Wheat (Triticum aestivum)-Mungbean (Vigna radiata) Cropping System in the Indo-Gangetic Plains** (2024)
-   2 citations · Soil Carbon
-
-10. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
+10. **Impact of Conservation Agriculture on Soil Carbon Sequestration under a Rice (Oryza sativa)-Wheat (Triticum aestivum)-Mungbean (Vigna radiata) Cropping System in the Indo-Gangetic Plains** (2024)
    2 citations · Soil Carbon
 
 ## External Profiles

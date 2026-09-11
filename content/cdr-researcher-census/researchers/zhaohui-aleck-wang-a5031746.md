@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Aleck Wang"
-description: "Zhaohui Aleck Wang is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 91 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.138281
+description: "Zhaohui Aleck Wang is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 97 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.088085
 url: "/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,819 |
-| Publications | 91 |
-| CDR Focus | 11.0% |
+| Citations | 2,865 |
+| Publications | 97 |
+| CDR Focus | 11.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   84 citations
+   89 citations
 
 2. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
-3. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
+3. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    8 citations · General CDR
 
-4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   7 citations · General CDR
+4. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
+   8 citations · General CDR
 
-5. **The inorganic carbon system across the land-to-ocean continuum** (2023)
-   7 citations · General CDR
+5. **The δ<sup>13</sup>C Signature of Dissolved Organic and Inorganic Carbon Reveals Complex Carbon Transformations Within a Salt Marsh** (2025)
+   7 citations · Soil Carbon
 
-6. **The δ<sup>13</sup>C Signature of Dissolved Organic and Inorganic Carbon Reveals Complex Carbon Transformations Within a Salt Marsh** (2025)
-   6 citations · Soil Carbon
+6. **The inorganic carbon system across the land-to-ocean continuum** (2023)
+   7 citations · General CDR
 
 7. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
    2 citations · General CDR
@@ -78,7 +78,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations
 
 10. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

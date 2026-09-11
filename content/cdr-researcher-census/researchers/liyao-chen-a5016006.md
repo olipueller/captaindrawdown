@@ -1,7 +1,7 @@
 ---
 title: "Liyao Chen"
 description: "Liyao Chen is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.318823
+date: 2026-09-11T02:38:29.268351
 url: "/cdr-researcher-census/researchers/liyao-chen-a5016006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 915 |
+| Citations | 942 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term cover crops boost multi-nutrient cycling and subsurface soil carbon sequestration by alleviating microbial carbon limitation in a subtropical forest** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

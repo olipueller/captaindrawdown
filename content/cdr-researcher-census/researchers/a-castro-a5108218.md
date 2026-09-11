@@ -1,7 +1,7 @@
 ---
 title: "A. Castro"
 description: "A. Castro is a Mid-career Soil Carbon researcher at Universidade Federal do Piauí in BR. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.966523
+date: 2026-09-11T02:38:29.905190
 url: "/cdr-researcher-census/researchers/a-castro-a5108218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 209 |
+| Citations | 216 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

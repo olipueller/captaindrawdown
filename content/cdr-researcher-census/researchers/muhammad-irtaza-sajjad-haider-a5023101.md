@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Irtaza Sajjad Haider"
-description: "Muhammad Irtaza Sajjad Haider is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.888129
+description: "Muhammad Irtaza Sajjad Haider is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.796897
 url: "/cdr-researcher-census/researchers/muhammad-irtaza-sajjad-haider-a5023101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 230 |
+| h-index | 8 |
+| Citations | 260 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater** (2024)
-   64 citations · Biochar
+   66 citations · Biochar
 
 2. **The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin** (2024)
    33 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Denis Zannoni"
 description: "Denis Zannoni is a Senior Soil Carbon researcher at University of Bologna in IT. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.770197
+date: 2026-09-11T02:38:29.719925
 url: "/cdr-researcher-census/researchers/denis-zannoni-a5081742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 288 |
+| Citations | 298 |
 | Publications | 43 |
 | CDR Focus | 9.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combining soil microbial communities and greenhouse gas fluxes along a salinity gradient in temperate Mediterranean coastal wetlands** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Investigating Salinity Effect on Temperate Coastal Wetland Soil Microbes and Greenhouse Gas Emissions.** (2024)
    0 citations · Soil Carbon

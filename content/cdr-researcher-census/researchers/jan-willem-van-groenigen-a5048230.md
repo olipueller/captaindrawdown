@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
 description: "Jan Willem van Groenigen is an Eminent Enhanced Weathering researcher at Wageningen University & Research in NL. With 260 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.067755
+date: 2026-09-11T02:38:29.020704
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 64 |
-| Citations | 17,809 |
+| Citations | 18,126 |
 | Publications | 260 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 2. **Photosynthetic limits on carbon sequestration in croplands** (2022)
-   124 citations · Soil Carbon
+   127 citations · Soil Carbon
 
 3. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 4. **Biochar application differentially affects soil micro-, meso-macro-fauna and plant productivity within a nature restoration grassland** (2022)
-   28 citations · Biochar
+   30 citations · Biochar
 
 5. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
    18 citations · Enhanced Weathering
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 9. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 10. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Mullen"
 description: "Andrew Mullen is a Mid-career Soil Carbon researcher at Woodwell Climate Research Center in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.418320
+date: 2026-09-11T02:38:30.330766
 url: "/cdr-researcher-census/researchers/andrew-mullen-a5079528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 101 |
+| Citations | 112 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Coupling Remote Sensing with a Process Model for the Simulation of Rangeland Carbon Dynamics** (2024)
    2 citations · Soil Carbon

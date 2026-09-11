@@ -1,7 +1,7 @@
 ---
 title: "Jingmiao Fu"
-description: "Jingmiao Fu is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.825586
+description: "Jingmiao Fu is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.770896
 url: "/cdr-researcher-census/researchers/jingmiao-fu-a5063597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 259 |
+| h-index | 6 |
+| Citations | 273 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

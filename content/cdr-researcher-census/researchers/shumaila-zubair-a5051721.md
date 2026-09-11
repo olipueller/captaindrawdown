@@ -1,7 +1,7 @@
 ---
 title: "Shumaila Zubair"
-description: "Shumaila Zubair is a Mid-career Biochar researcher at Pakistan Institute of Nuclear Science and Technology in PK. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.772606
+description: "Shumaila Zubair is a Mid-career Biochar researcher at Pakistan Institute of Nuclear Science and Technology in PK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.727812
 url: "/cdr-researcher-census/researchers/shumaila-zubair-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 287 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 295 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

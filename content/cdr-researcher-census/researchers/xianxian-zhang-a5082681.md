@@ -1,7 +1,7 @@
 ---
 title: "Xianxian Zhang"
-description: "Xianxian Zhang is a Senior Soil Carbon researcher at Shenyang Pharmaceutical University in CN. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198003
+description: "Xianxian Zhang is a Senior Soil Carbon researcher at Shenyang Pharmaceutical University in CN. With 148 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.146574
 url: "/cdr-researcher-census/researchers/xianxian-zhang-a5082681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,697 |
-| Publications | 143 |
-| CDR Focus | 5.6% |
+| Citations | 1,745 |
+| Publications | 148 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,9 +69,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 7. **Composting and Pyrolysis Strategies to Manage Flammulina velutipes Residue and Base Waste Based on the Biodegradability and Carbon Sequestration Potential** (2023)
-   1 citations · Biochar
+   2 citations · Biochar
 
-8. **Biochar Mitigates Root Exudate-Induced Priming of Native SOC Decomposition via Soil Phosphorus Availability and Microbial Structure** (2026)
+8. **Assessment of biomass resource utilization and greenhouse gas mitigation potential in Xinjiang** (2026)
+   0 citations
+
+9. **Biochar Mitigates Root Exudate-Induced Priming of Native SOC Decomposition via Soil Phosphorus Availability and Microbial Structure** (2026)
    0 citations · Biochar
 
 ## External Profiles

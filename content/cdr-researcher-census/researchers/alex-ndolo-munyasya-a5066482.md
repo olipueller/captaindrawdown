@@ -1,7 +1,7 @@
 ---
 title: "Alex Ndolo Munyasya"
-description: "Alex Ndolo Munyasya is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.567847
+description: "Alex Ndolo Munyasya is a Mid-career Soil Carbon researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.516281
 url: "/cdr-researcher-census/researchers/alex-ndolo-munyasya-a5066482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alex-ndolo-munyasya-a5066482/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Lanzhou University"
+    "name": "Jomo Kenyatta University of Agriculture and Technology"
   },
   "sameAs": "https://openalex.org/A5066482877"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Alex Ndolo Munyasya**  
-Lanzhou University · 🇨🇳 CN
+Jomo Kenyatta University of Agriculture and Technology ·  KE
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 439 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 452 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Melissa A. de la Garza"
-description: "Melissa A. de la Garza is a Senior General CDR researcher at The University of Texas MD Anderson Cancer Center in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328849
+description: "Melissa A. de la Garza is a Senior General CDR researcher at The University of Texas MD Anderson Cancer Center in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.260569
 url: "/cdr-researcher-census/researchers/melissa-a-de-la-garza-a5048356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 117 |
+| h-index | 7 |
+| Citations | 126 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Memory-Based Navigation in Elephants: Implications for Survival Strategies and Conservation** (2025)
-   0 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

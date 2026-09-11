@@ -1,7 +1,7 @@
 ---
 title: "Guilherme Bazarin"
 description: "Guilherme Bazarin is a Senior Biochar researcher at Universidade Estadual do Oeste do Paraná in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.361393
+date: 2026-09-11T02:38:30.321998
 url: "/cdr-researcher-census/researchers/guilherme-bazarin-a5084039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 111 |
+| Citations | 114 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High removal performance of reactive blue 5G dye from industrial dyeing wastewater using biochar in a fixed-bed adsorption system: Approaches and insights based on modeling, isotherms, and thermodynamics study** (2023)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

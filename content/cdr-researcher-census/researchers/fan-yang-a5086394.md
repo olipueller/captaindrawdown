@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
-description: "Fan Yang is an Eminent Soil Carbon researcher at Zhejiang Ocean University in CN. With 184 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.083767
+description: "Fan Yang is an Eminent Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 184 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.035362
 url: "/cdr-researcher-census/researchers/fan-yang-a5086394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fan-yang-a5086394/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang Ocean University"
+    "name": "Ministry of Education of the People's Republic of China"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6227-9113",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Fan Yang**  
-Zhejiang Ocean University · 🇨🇳 CN
+Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 **Career Stage:** Eminent
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 44 |
-| Citations | 6,893 |
+| h-index | 45 |
+| Citations | 7,103 |
 | Publications | 184 |
 | CDR Focus | 6.0% |
 | Trajectory | Exiting |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic substances improve microbial activity for binding CO2** (2021)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Artificial humic acid regulates the impact of fungal community on soil macroaggregates formation** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Artificial humic acid facilitates biological carbon sequestration under freezing-thawing conditions** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
-4. **Carbon Materials Advancing Microorganisms in Driving Soil Organic Carbon Regulation** (2022)
+4. **Application of typical artificial carbon materials from biomass in environmental remediation and improvement: A review** (2021)
+   34 citations · Biochar
+
+5. **Carbon Materials Advancing Microorganisms in Driving Soil Organic Carbon Regulation** (2022)
    33 citations · General CDR
 
-5. **Application of typical artificial carbon materials from biomass in environmental remediation and improvement: A review** (2021)
-   33 citations · Biochar
-
 6. **Artificial Humic Acid Mediated Carbon–Iron Coupling to Promote Carbon Sequestration** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 7. **Moderating carbon dynamics in black soil by combined application of biochar and an artificial humic substance** (2022)
    16 citations · Biochar
@@ -75,10 +75,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 9. **Microbial community assemblage altered by coprecipitation of artificial humic substances and ferrihydrite: Implications for carbon fixation pathway transformation** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 10. **Artificial carbon materials’ impact on soil fertility and greenhouse gas emission** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

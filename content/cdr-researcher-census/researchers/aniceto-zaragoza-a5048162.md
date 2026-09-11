@@ -1,7 +1,7 @@
 ---
 title: "Aniceto Zaragoza"
 description: "Aniceto Zaragoza is a Senior General CDR researcher at Asociación Española Contra el Cáncer in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.589129
+date: 2026-09-11T02:38:29.540281
 url: "/cdr-researcher-census/researchers/aniceto-zaragoza-a5048162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 418 |
+| Citations | 428 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |

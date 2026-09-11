@@ -1,7 +1,7 @@
 ---
 title: "Jingkuan Wang"
-description: "Jingkuan Wang is an Eminent Soil Carbon researcher at Shenyang Agricultural University in CN. With 219 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.087818
+description: "Jingkuan Wang is an Eminent Soil Carbon researcher at Shenyang Agricultural University in CN. With 219 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.038831
 url: "/cdr-researcher-census/researchers/jingkuan-wang-a5052854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 41 |
-| Citations | 6,256 |
+| h-index | 42 |
+| Citations | 6,499 |
 | Publications | 219 |
 | CDR Focus | 8.2% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
    24 citations · Soil Carbon
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    14 citations · Soil Carbon
 
-8. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
+8. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
+   9 citations · Biochar
+
+9. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
    8 citations · Soil Carbon
 
-9. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
+10. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
    8 citations · Soil Carbon
-
-10. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
-   7 citations · Biochar
 
 ## External Profiles
 

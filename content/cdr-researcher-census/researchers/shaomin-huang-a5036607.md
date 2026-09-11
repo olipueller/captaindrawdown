@@ -1,7 +1,7 @@
 ---
 title: "Shaomin Huang"
-description: "Shaomin Huang is a Senior Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 50 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.148438
+description: "Shaomin Huang is a Senior Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 49 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.099595
 url: "/cdr-researcher-census/researchers/shaomin-huang-a5036607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,505 |
-| Publications | 50 |
-| CDR Focus | 12.0% |
+| Citations | 2,537 |
+| Publications | 49 |
+| CDR Focus | 12.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   169 citations · Soil Carbon
+   172 citations · Soil Carbon
 
 2. **Medium molecular weight carbon fractions of DOM: Driving soil microbial community differentiation and soil organic carbon sequestration** (2025)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Organic amendment strategies differentially regulate microbial carbon use efficiency: A long-term field study integrating microorganism and enzymatic stoichiometry** (2025)
-   16 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Long-Term Organic Substitution Promotes Carbon and Nitrogen Sequestration and Benefit Crop Production in Upland Field** (2023)
    12 citations · Soil Carbon
 
 5. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Comparing carbon sequestration efficiency in chemically separated soil organic carbon fractions under long-term fertilization in three major Chinese croplands** (2024)
    6 citations · Soil Carbon

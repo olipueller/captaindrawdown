@@ -1,7 +1,7 @@
 ---
 title: "Qitong Wang"
-description: "Qitong Wang is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 87 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.263021
+description: "Qitong Wang is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.206245
 url: "/cdr-researcher-census/researchers/qitong-wang-a5013292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,180 |
-| Publications | 87 |
+| Citations | 1,244 |
+| Publications | 88 |
 | CDR Focus | 8.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
    22 citations · Soil Carbon
 
 3. **Absorptive roots drive a larger microbial carbon pump efficacy than transport roots in alpine coniferous forests** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Nitrogen deposition induces a greater soil C sequestration in the rhizosphere than bulk soil in an alpine forest** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Nitrogen addition enhances stable soil carbon accumulation during ectomycorrhizal hyphae decomposition** (2024)
    6 citations · Soil Carbon

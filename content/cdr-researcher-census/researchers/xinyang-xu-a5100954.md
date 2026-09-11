@@ -1,7 +1,7 @@
 ---
 title: "Xinyang Xu"
-description: "Xinyang Xu is a Senior Biochar researcher at Shandong University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.719184
+description: "Xinyang Xu is a Senior Biochar researcher at Shandong University in CN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.640975
 url: "/cdr-researcher-census/researchers/xinyang-xu-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 316 |
+| h-index | 11 |
+| Citations | 347 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multi-walled carbon nanotubes modified corn straw biochar as high-performance anode in microbial fuel cells** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
-2. **Effects of AMF on plant nutrition and growth depend on substrate gravel content and patchiness in the karst species Bidens pilosa L** (2022)
+2. **Straw-derived macroporous biochar as high-performance anode in microbial fuel cells** (2024)
+   19 citations · Biochar
+
+3. **Effects of AMF on plant nutrition and growth depend on substrate gravel content and patchiness in the karst species Bidens pilosa L** (2022)
    19 citations
 
-3. **Straw-derived macroporous biochar as high-performance anode in microbial fuel cells** (2024)
-   18 citations · Biochar
-
 4. **Dual HNO₃/NH₃ modification of loofah biochar carbonised enabling high-performance and sustainable anodes for microbial fuel cells** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

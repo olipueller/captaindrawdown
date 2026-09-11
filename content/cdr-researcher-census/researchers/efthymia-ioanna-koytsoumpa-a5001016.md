@@ -1,7 +1,7 @@
 ---
 title: "Efthymia Ioanna Koytsoumpa"
 description: "Efthymia Ioanna Koytsoumpa is a Mid-career BECCS researcher at National Technical University of Athens in GR. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.272371
+date: 2026-09-11T02:38:29.222225
 url: "/cdr-researcher-census/researchers/efthymia-ioanna-koytsoumpa-a5001016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,132 |
+| Citations | 1,148 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "F. O. Ogbemudia"
 description: "F. O. Ogbemudia is a Mid-career Soil Carbon researcher at University of Uyo in NG. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.290275
+date: 2026-09-11T02:38:30.259566
 url: "/cdr-researcher-census/researchers/f-o-ogbemudia-a5008273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
+| Citations | 126 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree-based carbon sequestration and storage abilities vary in natural and plantation forest ecosystems** (2023)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **FLORISTICS, CARBON STOCK QUANTIFICATION AND SEQUESTRATION ABILITY OF AN ENCROACHED FOREST IN AKWA IBOM STATE UNIVERSITY, IKOT AKPADEN, SOUTHERN NIGERIA** (2023)
    0 citations · Soil Carbon

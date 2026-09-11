@@ -1,7 +1,7 @@
 ---
 title: "Axel Don"
-description: "Axel Don is an Eminent Soil Carbon researcher at Thünen-Institute of Climate-Smart Agriculture in DE. With 301 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.068526
+description: "Axel Don is an Eminent Soil Carbon researcher at Thünen-Institute of Climate-Smart Agriculture in DE. With 302 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.021253
 url: "/cdr-researcher-census/researchers/axel-don-a5040614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 64 |
-| Citations | 16,505 |
-| Publications | 301 |
+| h-index | 65 |
+| Citations | 16,937 |
+| Publications | 302 |
 | CDR Focus | 11.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   218 citations · General CDR
+   227 citations · General CDR
 
 2. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   195 citations · General CDR
+   203 citations · General CDR
 
 3. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   186 citations · Soil Carbon
+   192 citations · Soil Carbon
 
 4. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   130 citations · Soil Carbon
+   133 citations · Soil Carbon
 
 5. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   105 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 6. **Carbon sequestration in hedgerow biomass and soil in the temperate climate zone** (2021)
-   87 citations · General CDR
+   88 citations · General CDR
 
 7. **Twenty percent of agricultural management effects on organic carbon stocks occur in subsoils – Results of ten long-term experiments** (2023)
-   71 citations
+   73 citations
 
 8. **Sequestration of soil carbon by burying it deeper within the profile: A theoretical exploration of three possible mechanisms** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 9. **Soil carbon losses due to priming moderated by adaptation and legacy effects** (2023)
-   64 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 10. **Increasing root biomass derived carbon input to agricultural soils by genotype selection – a review** (2023)
-   51 citations · General CDR
+   52 citations · General CDR
 
 ## External Profiles
 

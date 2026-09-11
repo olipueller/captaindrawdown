@@ -1,7 +1,7 @@
 ---
 title: "Zuzana Imreová"
-description: "Zuzana Imreová is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.237597
+description: "Zuzana Imreová is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.161602
 url: "/cdr-researcher-census/researchers/zuzana-imreova-a5006801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 134 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 146 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

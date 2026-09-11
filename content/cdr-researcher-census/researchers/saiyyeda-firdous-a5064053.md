@@ -1,7 +1,7 @@
 ---
 title: "Saiyyeda Firdous"
-description: "Saiyyeda Firdous is a Mid-career Biochar researcher at Vellore Institute of Technology in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.414963
+description: "Saiyyeda Firdous is a Mid-career Biochar researcher at Vellore Institute of Technology in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.312242
 url: "/cdr-researcher-census/researchers/saiyyeda-firdous-a5064053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 116 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modulating the adsorption performance of tea waste biochar for Rhodamine B via pyrolysis temperature** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Liangshan Hao"
-description: "Liangshan Hao is a Mid-career Biochar researcher at Hohai University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062918
+description: "Liangshan Hao is a Mid-career Biochar researcher at First Affiliated Hospital of Shihezi University Medical College in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.009003
 url: "/cdr-researcher-census/researchers/liangshan-hao-a5079026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liangshan-hao-a5079026/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hohai University"
+    "name": "First Affiliated Hospital of Shihezi University Medical College"
   },
   "sameAs": "https://openalex.org/A5079026158"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Liangshan Hao**  
-Hohai University · 🇨🇳 CN
+First Affiliated Hospital of Shihezi University Medical College · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 178 |
-| Publications | 11 |
-| CDR Focus | 27.3% |
+| Citations | 187 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enhancing simultaneous electrosynthesis of CO2 and nitrogen removal in microbial fuel cell (MFC) cathode compartment by adding Fe–C/biochar compound substrates** (2023)
-   36 citations · Biochar
+   37 citations · Biochar
 
 2. **Synergistic reduction of pollution and carbon mitigation in constructed wetlands-microbial fuel cell using sludge-derived biochar** (2024)
    20 citations · Biochar

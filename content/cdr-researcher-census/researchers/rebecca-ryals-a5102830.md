@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Ryals"
-description: "Rebecca Ryals is a Senior Soil Carbon researcher at University of California System in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.259608
+description: "Rebecca Ryals is a Senior Soil Carbon researcher at University of California, Merced in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.211565
 url: "/cdr-researcher-census/researchers/rebecca-ryals-a5102830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rebecca-ryals-a5102830/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California System"
+    "name": "University of California, Merced"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3371-3619",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rebecca Ryals**  
-University of California System · 🇺🇸 US
+University of California, Merced · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,201 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 1,215 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jianbai Ma"
 description: "Jianbai Ma is a Mid-career Enhanced Weathering researcher at Institute of Vertebrate Paleontology and Paleoanthropology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.116540
+date: 2026-09-11T02:38:30.085078
 url: "/cdr-researcher-census/researchers/jianbai-ma-a5041664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 163 |
+| Citations | 165 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |

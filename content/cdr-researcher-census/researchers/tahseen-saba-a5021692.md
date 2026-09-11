@@ -1,7 +1,7 @@
 ---
 title: "Tahseen Saba"
 description: "Tahseen Saba is a Mid-career Soil Carbon researcher at Chengdu Institute of Biology in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.108397
+date: 2026-09-11T02:38:30.058196
 url: "/cdr-researcher-census/researchers/tahseen-saba-a5021692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 165 |
+| Citations | 173 |
 | Publications | 30 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improved and sustainable agroecosystem, food security and environmental resilience through zero tillage with emphasis on soils of temperate and subtropical climate regions: A review** (2022)
-   69 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon fractions in the arid valley of the upper reaches of the yangtze river, china** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon mineralization in the arid valley of the upper reaches of Yangtze River, China** (2022)
    8 citations · Soil Carbon
 
 4. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
-   2 citations
+   3 citations
 
 5. **Ecosystem carbon sequestration of Zanthoxylum bungeanum plantations under the farmland conversion in the arid valley of the upper reaches of Yangtze River, China** (2023)
    1 citations · Soil Carbon

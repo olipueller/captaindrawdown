@@ -1,7 +1,7 @@
 ---
 title: "Shih‐Chi Lee"
-description: "Shih‐Chi Lee is a Mid-career Biochar researcher at Industrial Technology Research Institute in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.136891
+description: "Shih‐Chi Lee is a Mid-career Biochar researcher at Tainan University of Technology in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.097447
 url: "/cdr-researcher-census/researchers/shihchi-lee-a5022400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shihchi-lee-a5022400/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Industrial Technology Research Institute"
+    "name": "Tainan University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9407-1691",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shih‐Chi Lee**  
-Industrial Technology Research Institute · 🇹🇼 TW
+Tainan University of Technology · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 157 |
+| Citations | 161 |
 | Publications | 19 |
 | CDR Focus | 15.8% |
 | Trajectory | Growing |

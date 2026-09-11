@@ -1,7 +1,7 @@
 ---
 title: "Samrat Ghosh"
 description: "Samrat Ghosh is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.337077
+date: 2026-09-11T02:38:30.258461
 url: "/cdr-researcher-census/researchers/samrat-ghosh-a5079024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 115 |
+| Citations | 126 |
 | Publications | 22 |
 | CDR Focus | 22.7% |
 | Trajectory | Stable |
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Drip-Mediated Deficit Irrigation and Sub-Optimal Fertigation Management Strategy can Boost Yield, Soil Nutrient Availability, Plant Utilization and Soil Organic Carbon in Banana Plantation** (2024)
    6 citations · Soil Carbon
 
-2. **Enhancing carbon sequestration potential of lowland rice agroecosystems for environmentally clean production system: A review** (2025)
-   5 citations · Biochar
-
-3. **Impacts of Cropping Systems on Soil Aggregates and Associated Carbon and Nitrogen Storage in Four Entisols of Different Antecedent Carbon Levels** (2023)
+2. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
    5 citations · Soil Carbon
 
-4. **Cropping System Effects on Organic Carbon Pools in Four Indo-Gangetic Alluvial Soils of Different Antecedent Carbon Levels** (2022)
-   4 citations · Soil Carbon
+3. **Enhancing carbon sequestration potential of lowland rice agroecosystems for environmentally clean production system: A review** (2025)
+   5 citations · Biochar
 
-5. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
-   3 citations · Soil Carbon
+4. **Impacts of Cropping Systems on Soil Aggregates and Associated Carbon and Nitrogen Storage in Four Entisols of Different Antecedent Carbon Levels** (2023)
+   5 citations · Soil Carbon
+
+5. **Cropping System Effects on Organic Carbon Pools in Four Indo-Gangetic Alluvial Soils of Different Antecedent Carbon Levels** (2022)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

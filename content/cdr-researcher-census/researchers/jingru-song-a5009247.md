@@ -1,7 +1,7 @@
 ---
 title: "Jingru Song"
 description: "Jingru Song is an Early-career Soil Carbon researcher at North China University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417646
+date: 2026-09-11T02:38:30.351125
 url: "/cdr-researcher-census/researchers/jingru-song-a5009247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 101 |
+| Citations | 108 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of Soil Organic Carbon Content in Coastal Wetlands with Measured VIS-NIR Spectroscopy Using Optimized Support Vector Machines and Random Forests** (2022)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Estimation of Coastal Wetland Soil Organic Carbon Content in Western Bohai Bay Using Remote Sensing, Climate, and Topographic Data** (2023)
    25 citations · Soil Carbon

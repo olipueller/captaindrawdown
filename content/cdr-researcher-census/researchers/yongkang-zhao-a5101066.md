@@ -1,7 +1,7 @@
 ---
 title: "Yongkang Zhao"
-description: "Yongkang Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.875982
+description: "Yongkang Zhao is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.862483
 url: "/cdr-researcher-census/researchers/yongkang-zhao-a5101066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yongkang-zhao-a5101066/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Chongqing University"
   },
   "sameAs": "https://openalex.org/A5101066509"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yongkang Zhao**  
-Shandong University · 🇨🇳 CN
+Chongqing University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 236 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| Citations | 231 |
+| Publications | 25 |
+| CDR Focus | 16.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial necromass carbon contributed to soil organic carbon accumulation and stabilization in the newly formed inland wetlands** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Microorganisms Directly Affected Sediment Carbon–Nitrogen Coupling in Two Constructed Wetlands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Effects of herb Alternanthera philoxeroides invasion on soil organic matter varied with flooding conditions in wetlands** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Nilushi Kumarasinghe"
-description: "Nilushi Kumarasinghe is a Mid-career General CDR researcher at Future Earth in CA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.151807
+description: "Nilushi Kumarasinghe is a Mid-career General CDR researcher at Ontario Drive & Gear (Canada) in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.064531
 url: "/cdr-researcher-census/researchers/nilushi-kumarasinghe-a5032249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nilushi-kumarasinghe-a5032249/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Future Earth"
+    "name": "Ontario Drive & Gear (Canada)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1087-6001",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nilushi Kumarasinghe**  
-Future Earth · 🇨🇦 CA
+Ontario Drive & Gear (Canada) · 🇨🇦 CA
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 153 |
+| h-index | 6 |
+| Citations | 171 |
 | Publications | 10 |
 | CDR Focus | 30.0% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

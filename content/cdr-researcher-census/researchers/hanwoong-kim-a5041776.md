@@ -1,7 +1,7 @@
 ---
 title: "Hanwoong Kim"
-description: "Hanwoong Kim is a Mid-career General CDR researcher at Princeton University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.867117
+description: "Hanwoong Kim is a Mid-career General CDR researcher at Princeton University in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.798378
 url: "/cdr-researcher-census/researchers/hanwoong-kim-a5041776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 239 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 259 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Decarbonization pathways for Korea's industrial sector towards its 2050 carbon neutrality goal** (2024)
-   24 citations · General CDR
+   27 citations · General CDR
 
 2. **Provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply** (2024)
-   10 citations · DAC
+   13 citations · DAC
 
 3. **Corrigendum: provincial-scale assessment of direct air capture to meet China’s climate neutrality goal under limited bioenergy supply (2024 <i>Environ. Res. Lett.</i> 19 114021)** (2025)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Youjin Yan"
-description: "Youjin Yan is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 68 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.294863
+description: "Youjin Yan is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.233748
 url: "/cdr-researcher-census/researchers/youjin-yan-a5039764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,016 |
-| Publications | 68 |
-| CDR Focus | 7.4% |
+| Citations | 1,088 |
+| Publications | 75 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Litter input promoted dissolved organic carbon migration in karst soil** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Effects of soil and rock microhabitats on soil organic carbon stability in a karst peak-cluster depression region of Southwestern China** (2023)
    7 citations · Soil Carbon

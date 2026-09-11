@@ -1,7 +1,7 @@
 ---
 title: "Xiaohu Dang"
 description: "Xiaohu Dang is a Mid-career Soil Carbon researcher at Xi'an University of Science and Technology in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.565974
+date: 2026-09-11T02:38:29.512690
 url: "/cdr-researcher-census/researchers/xiaohu-dang-a5074926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 440 |
+| Citations | 455 |
 | Publications | 35 |
 | CDR Focus | 8.6% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of soil aggregate particle size to organic carbon and the effect of land use on its distribution in a typical small watershed on Loess Plateau, China** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Evaluation and classification of landscape functions: A case of Pengyang County on the Loess Plateau** (2022)
    9 citations · General CDR

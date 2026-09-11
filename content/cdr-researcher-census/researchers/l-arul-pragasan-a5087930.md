@@ -1,7 +1,7 @@
 ---
 title: "L. Arul Pragasan"
 description: "L. Arul Pragasan is a Senior Soil Carbon researcher at Bharathiar University in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.437183
+date: 2026-09-11T02:38:29.388421
 url: "/cdr-researcher-census/researchers/l-arul-pragasan-a5087930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 615 |
+| Citations | 629 |
 | Publications | 49 |
 | CDR Focus | 10.2% |
 | Trajectory | Growing |

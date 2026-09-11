@@ -1,7 +1,7 @@
 ---
 title: "Venkateshwaran Gopal"
 description: "Venkateshwaran Gopal is a Senior Biochar researcher at Green Chemistry in PL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.096662
+date: 2026-09-11T02:38:30.061317
 url: "/cdr-researcher-census/researchers/venkateshwaran-gopal-a5021077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 168 |
+| Citations | 172 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

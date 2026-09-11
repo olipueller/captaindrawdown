@@ -1,7 +1,7 @@
 ---
 title: "Mariene R. Cunha"
 description: "Mariene R. Cunha is a Mid-career Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.459999
+date: 2026-09-11T02:38:29.419607
 url: "/cdr-researcher-census/researchers/mariene-r-cunha-a5053512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 576 |
+| Citations | 578 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of enalapril maleate drug from industry waters using activated biochar prepared from Butia capitata seed. Kinetics, equilibrium, thermodynamic, and DFT calculations** (2023)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

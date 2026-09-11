@@ -1,7 +1,7 @@
 ---
 title: "Cunjie Xia"
-description: "Cunjie Xia is a Mid-career Biochar researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.175419
+description: "Cunjie Xia is a Mid-career Biochar researcher at First Affiliated Hospital Zhejiang University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.128522
 url: "/cdr-researcher-census/researchers/cunjie-xia-a5111191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/cunjie-xia-a5111191/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "First Affiliated Hospital Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5111191435"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Cunjie Xia**  
-Zhejiang University · 🇨🇳 CN
+First Affiliated Hospital Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 148 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 154 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

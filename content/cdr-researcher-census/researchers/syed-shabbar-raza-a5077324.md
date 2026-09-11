@@ -1,7 +1,7 @@
 ---
 title: "Syed Shabbar Raza"
 description: "Syed Shabbar Raza is a Mid-career DAC researcher at The University of Queensland in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.432060
+date: 2026-09-11T02:38:29.381571
 url: "/cdr-researcher-census/researchers/syed-shabbar-raza-a5077324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 623 |
+| Citations | 639 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Unconventional CO2 Storage: CO2 Mineral Trapping Predicted in Characterized Shales, Sandstones, and Coal Seam Interburden** (2022)
-   60 citations · DAC
+   61 citations · DAC
 
 ## External Profiles
 

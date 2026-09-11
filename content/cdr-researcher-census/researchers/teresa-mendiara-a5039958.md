@@ -1,7 +1,7 @@
 ---
 title: "Teresa Mendiara"
-description: "Teresa Mendiara is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 96 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.113112
+description: "Teresa Mendiara is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 96 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.062721
 url: "/cdr-researcher-census/researchers/teresa-mendiara-a5039958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,916 |
+| h-index | 33 |
+| Citations | 3,977 |
 | Publications | 96 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies** (2024)
-   21 citations · BECCS
+   22 citations · BECCS
 
 2. **Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass** (2021)
    18 citations · BECCS
@@ -66,7 +66,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    6 citations · BECCS
 
 6. **Assessment of the potential of biomass chemical looping combustion with CO2 capture from experimental results at the 20 kWth scale with olive stone** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 7. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
    0 citations

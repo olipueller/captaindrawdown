@@ -1,7 +1,7 @@
 ---
 title: "Mingjie Fan"
 description: "Mingjie Fan is an Early-career Biochar researcher at Wuhan University of Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.168294
+date: 2026-09-11T02:38:30.111457
 url: "/cdr-researcher-census/researchers/mingjie-fan-a5051055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 149 |
+| Citations | 157 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

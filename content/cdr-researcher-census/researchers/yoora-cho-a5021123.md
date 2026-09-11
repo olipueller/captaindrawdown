@@ -1,7 +1,7 @@
 ---
 title: "Yoora Cho"
 description: "Yoora Cho is a Mid-career Biochar researcher at Korea University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.835150
+date: 2026-09-11T02:38:29.755977
 url: "/cdr-researcher-census/researchers/yoora-cho-a5021123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 254 |
+| Citations | 279 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Arsenic removal from water and soils using pristine and modified biochars** (2022)
-   85 citations · Biochar
+   88 citations · Biochar
 
 ## External Profiles
 

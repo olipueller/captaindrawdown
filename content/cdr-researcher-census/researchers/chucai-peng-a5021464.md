@@ -1,7 +1,7 @@
 ---
 title: "Chucai Peng"
 description: "Chucai Peng is a Mid-career General CDR researcher at National University of Singapore in SG. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.883105
+date: 2026-09-11T02:38:29.802418
 url: "/cdr-researcher-census/researchers/chucai-peng-a5021464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 233 |
+| Citations | 258 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

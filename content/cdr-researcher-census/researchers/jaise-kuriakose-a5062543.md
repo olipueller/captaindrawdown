@@ -1,7 +1,7 @@
 ---
 title: "Jaise Kuriakose"
-description: "Jaise Kuriakose is a Mid-career General CDR researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.656610
+description: "Jaise Kuriakose is a Mid-career General CDR researcher at Tyndall Centre in GB. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.612331
 url: "/cdr-researcher-census/researchers/jaise-kuriakose-a5062543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jaise Kuriakose",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jaise-kuriakose-a5062543/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Tyndall Centre"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-8536-8984",
     "https://openalex.org/A5062543241"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jaise Kuriakose**
+**Jaise Kuriakose**  
+Tyndall Centre · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 361 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 368 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

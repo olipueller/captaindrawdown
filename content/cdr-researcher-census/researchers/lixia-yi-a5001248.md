@@ -1,7 +1,7 @@
 ---
 title: "Lixia Yi"
-description: "Lixia Yi is a Senior Soil Carbon researcher at University of Pittsburgh in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.671896
+description: "Lixia Yi is a Senior Soil Carbon researcher at Royal Society of Medicine in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.617762
 url: "/cdr-researcher-census/researchers/lixia-yi-a5001248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lixia-yi-a5001248/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Pittsburgh"
+    "name": "Royal Society of Medicine"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-2296-6009",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lixia Yi**  
-University of Pittsburgh · 🇺🇸 US
+Royal Society of Medicine · 🇬🇧 GB
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 350 |
+| Citations | 364 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term Rice-crayfish Co-culture Farming System Benefits Soil Organic Carbon Storage and Soil Quality in the Jianghan Plain, China** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Long-term rice-crayfish co-culture farming system benefits soil organic carbon storage and soil quality in the Jianghan Plain, China** (2025)
    0 citations · Soil Carbon

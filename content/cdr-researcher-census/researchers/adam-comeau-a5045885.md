@@ -1,7 +1,7 @@
 ---
 title: "Adam Comeau"
-description: "Adam Comeau is a Senior Ocean CDR researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.115403
+description: "Adam Comeau is a Senior Ocean CDR researcher at Dalhousie University in CA. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.083999
 url: "/cdr-researcher-census/researchers/adam-comeau-a5045885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Adam Comeau",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adam-comeau-a5045885/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Dalhousie University"
+  },
   "sameAs": "https://openalex.org/A5045885409"
 }
 </script>
 
 ## Profile
 
-**Adam Comeau**
+**Adam Comeau**  
+Dalhousie University · 🇨🇦 CA
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 163 |
+| Citations | 165 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

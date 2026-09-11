@@ -1,7 +1,7 @@
 ---
 title: "Soong‐Ki Kim"
-description: "Soong‐Ki Kim is a Mid-career General CDR researcher at Yale University in US. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.509285
+description: "Soong‐Ki Kim is a Mid-career General CDR researcher at Yale University in US. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.453023
 url: "/cdr-researcher-census/researchers/soongki-kim-a5083764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 501 |
-| Publications | 42 |
-| CDR Focus | 9.5% |
+| Citations | 527 |
+| Publications | 43 |
+| CDR Focus | 9.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario** (2022)
-   39 citations · General CDR
+1. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
+   41 citations · General CDR
 
-2. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
-   38 citations · General CDR
+2. **Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario** (2022)
+   40 citations · General CDR
 
 3. **Strong El Niño and La Niña precipitation—sea surface temperature sensitivity under a carbon removal scenario** (2024)
    4 citations · General CDR

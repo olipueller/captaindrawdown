@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
-description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.127554
+description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.077856
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 3,242 |
-| Publications | 59 |
-| CDR Focus | 13.6% |
+| Citations | 3,317 |
+| Publications | 57 |
+| CDR Focus | 14.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   162 citations · Enhanced Weathering
+   164 citations · Enhanced Weathering
 
 2. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   156 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 3. **Increased carbon capture by a silicate-treated forested watershed affected by acid deposition** (2021)
-   94 citations · Enhanced Weathering
+   95 citations · Enhanced Weathering
 
 4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   55 citations · Enhanced Weathering
+   59 citations · Enhanced Weathering
 
 5. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   42 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    4 citations
@@ -74,11 +74,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering
 
-9. **Comment on egusphere-2025-5823** (2026)
-   0 citations
+9. **ForestERW: a spatially explicit carbon dioxide removal model for practical enhanced rock weathering applications in United States forests** (2026)
+   0 citations · Enhanced Weathering
 
 10. **Comment on egusphere-2025-5823** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

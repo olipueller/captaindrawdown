@@ -1,7 +1,7 @@
 ---
 title: "Pál Balázs"
-description: "Pál Balázs is a Mid-career Soil Carbon researcher at University of Sopron in HU. With 50 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788144
+description: "Pál Balázs is a Mid-career Soil Carbon researcher at Obuda University in HU. With 50 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.747609
 url: "/cdr-researcher-census/researchers/pal-balazs-a5079189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pal-balazs-a5079189/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sopron"
+    "name": "Obuda University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8251-5718",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pál Balázs**  
-University of Sopron ·  HU
+Obuda University ·  HU
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 279 |
+| Citations | 284 |
 | Publications | 50 |
 | CDR Focus | 10.0% |
 | Trajectory | Declining |

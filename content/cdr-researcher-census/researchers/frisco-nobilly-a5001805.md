@@ -1,7 +1,7 @@
 ---
 title: "Frisco Nobilly"
 description: "Frisco Nobilly is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.476174
+date: 2026-09-11T02:38:29.422912
 url: "/cdr-researcher-census/researchers/frisco-nobilly-a5001805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 552 |
+| Citations | 575 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Time to Revisit Oil Palm-Livestock Integration in the Wake of United Nations Sustainable Development Goals (SDGs)** (2021)
-   27 citations · General CDR
+   28 citations · General CDR
 
 2. **Sustainable integrated oil-palm livestock practice to enhance soil organic matter and carbon sequestration potential** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

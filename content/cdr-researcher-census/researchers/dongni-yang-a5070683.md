@@ -1,7 +1,7 @@
 ---
 title: "Dongni Yang"
 description: "Dongni Yang is a Mid-career General CDR researcher at E Ink (South Korea) in KR. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.161245
+date: 2026-09-11T02:38:30.100921
 url: "/cdr-researcher-census/researchers/dongni-yang-a5070683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 151 |
+| Citations | 160 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
-   32 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 2. **Global Assessment of the Impact of Climate Factors on Vegetation Carbon Sequestration Changes** (2025)
    1 citations · General CDR

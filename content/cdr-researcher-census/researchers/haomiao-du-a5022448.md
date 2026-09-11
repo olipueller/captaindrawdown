@@ -1,7 +1,7 @@
 ---
 title: "Haomiao Du"
-description: "Haomiao Du is a Mid-career General CDR researcher. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.125340
+description: "Haomiao Du is a Mid-career General CDR researcher. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.060161
 url: "/cdr-researcher-census/researchers/haomiao-du-a5022448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 160 |
+| h-index | 9 |
+| Citations | 172 |
 | Publications | 31 |
 | CDR Focus | 9.7% |
 | Trajectory | Growing |

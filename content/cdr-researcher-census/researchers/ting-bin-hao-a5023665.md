@@ -1,7 +1,7 @@
 ---
 title: "Ting-Bin Hao"
 description: "Ting-Bin Hao is a Mid-career Biochar researcher at Jinan University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.570786
+date: 2026-09-11T02:38:29.522048
 url: "/cdr-researcher-census/researchers/ting-bin-hao-a5023665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 435 |
+| Citations | 446 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Zhenshan Ma"
 description: "Zhenshan Ma is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.088959
+date: 2026-09-11T02:38:30.027077
 url: "/cdr-researcher-census/researchers/zhenshan-ma-a5071812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 170 |
+| Citations | 181 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of iron-nitrogen-doped biochar catalysts for organic pollutant removal and hexavalent chromium reduction** (2021)
-   83 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

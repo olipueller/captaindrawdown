@@ -1,7 +1,7 @@
 ---
 title: "Shelby C. McClelland"
-description: "Shelby C. McClelland is a Senior Soil Carbon researcher at Stony Brook University in US. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.196171
+description: "Shelby C. McClelland is a Senior Soil Carbon researcher at Stony Brook University in US. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.141914
 url: "/cdr-researcher-census/researchers/shelby-c-mcclelland-a5043807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 1,714 |
-| Publications | 39 |
-| CDR Focus | 20.5% |
+| Citations | 1,794 |
+| Publications | 40 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Infrequent compost applications increased plant productivity and soil organic carbon in irrigated pasture but not degraded rangeland** (2022)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Soil carbon offset markets are not a just climate solution** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 3. **Opportunities for carbon sequestration from removing or intensifying pasture-based beef production** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 4. **Climate mitigation potential of cover crops in the United States is regionally concentrated and lower than previous estimates** (2024)
    8 citations · General CDR
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · General CDR
 
 7. **Soil organic carbon sequestration mediated by plant–microbe interactions after compost application** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 8. **Centering resilience in US federal agricultural policy** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Marie Mace"
 description: "Marie Mace is a Senior General CDR researcher at Climate Analytics in DE. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592420
+date: 2026-09-11T02:38:29.547012
 url: "/cdr-researcher-census/researchers/marie-mace-a5032694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 415 |
+| Citations | 421 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    53 citations · General CDR
 
 2. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abhas Kumar Sinha"
-description: "Abhas Kumar Sinha is a Senior Soil Carbon researcher at Uttar Banga Krishi Viswavidyalaya in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.427464
+description: "Abhas Kumar Sinha is a Senior Soil Carbon researcher at Uttar Banga Krishi Viswavidyalaya in IN. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.369073
 url: "/cdr-researcher-census/researchers/abhas-kumar-sinha-a5103078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 633 |
-| Publications | 65 |
-| CDR Focus | 6.2% |
+| Citations | 666 |
+| Publications | 68 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   52 citations · General CDR
+   54 citations · General CDR
 
 2. **Addition of biofertilizers with crop residue in conservation agriculture improves soil carbon sequestration: a long-term field study** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 3. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration and Yield Sustainability in the Lowland Terai Region of India** (2025)
+   2 citations · Soil Carbon
+
+5. **On-farm soil organic carbon dynamics under conservation agriculture in different cropping systems of eastern Gangetic alluvial soils** (2026)
    1 citations · Soil Carbon
 
 ## External Profiles

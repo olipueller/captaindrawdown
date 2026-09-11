@@ -1,7 +1,7 @@
 ---
 title: "Shengjie Wu"
-description: "Shengjie Wu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.831137
+description: "Shengjie Wu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.790038
 url: "/cdr-researcher-census/researchers/shengjie-wu-a5018312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 256 |
+| h-index | 9 |
+| Citations | 264 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |

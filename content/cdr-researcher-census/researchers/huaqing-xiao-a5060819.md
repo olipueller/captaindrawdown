@@ -1,7 +1,7 @@
 ---
 title: "Huaqing Xiao"
-description: "Huaqing Xiao is a Senior Biochar researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.461048
+description: "Huaqing Xiao is a Senior Biochar researcher at Hubei Engineering University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.419698
 url: "/cdr-researcher-census/researchers/huaqing-xiao-a5060819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Huaqing Xiao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huaqing-xiao-a5060819/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hubei Engineering University"
+  },
   "sameAs": "https://openalex.org/A5060819291"
 }
 </script>
 
 ## Profile
 
-**Huaqing Xiao**
+**Huaqing Xiao**  
+Hubei Engineering University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -35,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 574 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 578 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced adsorption of bisphenol A in using N-doped biochar from corn kernel wastes via multiple adsorption sites** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

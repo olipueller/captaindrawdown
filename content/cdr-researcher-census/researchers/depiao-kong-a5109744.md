@@ -1,7 +1,7 @@
 ---
 title: "Depiao Kong"
-description: "Depiao Kong is a Senior Soil Carbon researcher at Harbin Normal University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.893058
+description: "Depiao Kong is a Senior Soil Carbon researcher at Harbin Normal University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.834985
 url: "/cdr-researcher-census/researchers/depiao-kong-a5109744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 229 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 243 |
+| Publications | 20 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Beyond decline: spatial heterogeneity of soil organic matter as an emerging signal of cropland degradation in Northeast China** (2025)
-   1 citations · Soil Carbon
+1. **Response of SOC stocks in Northeast China to climate warming and precipitation changes** (2025)
+   2 citations · Soil Carbon
 
-2. **Response of SOC stocks in Northeast China to climate warming and precipitation changes** (2025)
+2. **Beyond decline: spatial heterogeneity of soil organic matter as an emerging signal of cropland degradation in Northeast China** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

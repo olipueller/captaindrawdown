@@ -1,7 +1,7 @@
 ---
 title: "Jiaze Duan"
 description: "Jiaze Duan is an Early-career Biochar researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.345502
+date: 2026-09-11T02:38:30.307845
 url: "/cdr-researcher-census/researchers/jiaze-duan-a5033845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 113 |
+| Citations | 116 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

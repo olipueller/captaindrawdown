@@ -1,7 +1,7 @@
 ---
 title: "Saba Zanganeh"
 description: "Saba Zanganeh is a Mid-career General CDR researcher at University of North Carolina at Chapel Hill in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636456
+date: 2026-09-11T02:38:29.585160
 url: "/cdr-researcher-census/researchers/saba-zanganeh-a5055699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 377 |
+| Citations | 389 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biotechnology for carbon capture and fixation: Critical review and future directions** (2021)
-   100 citations · General CDR
+   101 citations · General CDR
 
 ## External Profiles
 

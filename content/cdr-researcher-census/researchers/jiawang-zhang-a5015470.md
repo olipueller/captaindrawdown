@@ -1,7 +1,7 @@
 ---
 title: "Jiawang Zhang"
-description: "Jiawang Zhang is an Early-career General CDR researcher at Beijing Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.284410
+description: "Jiawang Zhang is an Early-career General CDR researcher at Chang'an University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.205120
 url: "/cdr-researcher-census/researchers/jiawang-zhang-a5015470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiawang-zhang-a5015470/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Normal University"
+    "name": "Chang'an University"
   },
   "sameAs": "https://openalex.org/A5015470127"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jiawang Zhang**  
-Beijing Normal University · 🇨🇳 CN
+Chang'an University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 125 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 136 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Social-ecological system sustainability in China from the perspective of supply-demand balance for ecosystem services** (2025)
-   68 citations · General CDR
+   71 citations · General CDR
 
 ## External Profiles
 

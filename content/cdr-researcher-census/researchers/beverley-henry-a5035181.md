@@ -1,7 +1,7 @@
 ---
 title: "Beverley Henry"
 description: "Beverley Henry is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.131223
+date: 2026-09-11T02:38:29.081318
 url: "/cdr-researcher-census/researchers/beverley-henry-a5035181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 3,102 |
+| Citations | 3,162 |
 | Publications | 66 |
 | CDR Focus | 12.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   31 citations · General CDR
+   32 citations · General CDR
 
 2. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
    29 citations · General CDR
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 4. **Creating frameworks to foster soil carbon sequestration** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 5. **The potential for enhancing soil carbon levels through the use of organic soil amendments in Queensland, Australia** (2021)
    10 citations · Soil Carbon
 
 6. **Carbon and nitrogen management for climate-resilient agriculture: Toward the 4p1000 target and sustainable development goals** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 7. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
    3 citations · General CDR

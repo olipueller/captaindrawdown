@@ -1,7 +1,7 @@
 ---
 title: "Bushra Tatan"
-description: "Bushra Tatan is an Early-career General CDR researcher at American University of Sharjah in AE. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.303317
+description: "Bushra Tatan is an Early-career General CDR researcher at American University of Sharjah in AE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.180884
 url: "/cdr-researcher-census/researchers/bushra-tatan-a5007980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 121 |
+| h-index | 4 |
+| Citations | 141 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

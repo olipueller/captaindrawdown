@@ -1,7 +1,7 @@
 ---
 title: "Oliver Geden"
-description: "Oliver Geden is a Senior General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 126 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.079269
+description: "Oliver Geden is a Senior General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 131 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.030167
 url: "/cdr-researcher-census/researchers/oliver-geden-a5016996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 7,926 |
-| Publications | 126 |
-| CDR Focus | 15.9% |
+| Citations | 8,464 |
+| Publications | 131 |
+| CDR Focus | 17.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Operationalizing the net-negative carbon economy** (2021)
-   172 citations · General CDR
+   173 citations · General CDR
 
 2. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   150 citations · General CDR
+   151 citations · General CDR
 
 3. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   120 citations · DAC
+   121 citations · DAC
 
 4. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 5. **Controversies of carbon dioxide removal** (2023)
-   49 citations · General CDR
+   50 citations · General CDR
 
 6. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    47 citations · General CDR
 
 7. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 8. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+   36 citations · General CDR
 
 9. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 10. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mike U. Ajieh"
-description: "Mike U. Ajieh is a Mid-career Biochar researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347349
+description: "Mike U. Ajieh is a Mid-career Biochar researcher at Delta State University in NG. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.292696
 url: "/cdr-researcher-census/researchers/mike-u-ajieh-a5027000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mike U. Ajieh",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mike-u-ajieh-a5027000/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Delta State University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-4571-1634",
     "https://openalex.org/A5027000785"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mike U. Ajieh**
+**Mike U. Ajieh**  
+Delta State University ·  NG
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 113 |
+| Citations | 119 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

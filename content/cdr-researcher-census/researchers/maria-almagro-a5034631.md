@@ -1,7 +1,7 @@
 ---
 title: "María Almagro"
-description: "María Almagro is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 89 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.125248
+description: "María Almagro is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 94 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.075684
 url: "/cdr-researcher-census/researchers/maria-almagro-a5034631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 33 |
-| Citations | 3,326 |
-| Publications | 89 |
-| CDR Focus | 10.1% |
+| Citations | 3,383 |
+| Publications | 94 |
+| CDR Focus | 9.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   200 citations · General CDR
+   207 citations · General CDR
 
 2. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
    58 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    41 citations · Soil Carbon
 
 4. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   40 citations · General CDR
+   41 citations · General CDR
 
 5. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
    18 citations · Soil Carbon

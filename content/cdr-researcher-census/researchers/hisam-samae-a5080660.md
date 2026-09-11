@@ -1,7 +1,7 @@
 ---
 title: "Hisam Samae"
-description: "Hisam Samae is a Mid-career Biochar researcher at Chiang Mai University in TH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.863603
+description: "Hisam Samae is a Mid-career Biochar researcher at Chiang Mai University in TH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.780839
 url: "/cdr-researcher-census/researchers/hisam-samae-a5080660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 241 |
+| h-index | 6 |
+| Citations | 268 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

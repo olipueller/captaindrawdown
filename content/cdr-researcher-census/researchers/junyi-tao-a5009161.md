@@ -1,7 +1,7 @@
 ---
 title: "Junyi Tao"
 description: "Junyi Tao is an Early-career General CDR researcher at Yunnan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.150469
+date: 2026-09-11T02:38:30.066209
 url: "/cdr-researcher-census/researchers/junyi-tao-a5009161/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 154 |
+| Citations | 171 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   89 citations
+   93 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   45 citations · General CDR
+   48 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tianxiao Li"
-description: "Tianxiao Li is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 72 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.259330
+description: "Tianxiao Li is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.205611
 url: "/cdr-researcher-census/researchers/tianxiao-li-a5100689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,203 |
-| Publications | 72 |
-| CDR Focus | 16.7% |
+| h-index | 20 |
+| Citations | 1,244 |
+| Publications | 74 |
+| CDR Focus | 16.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    79 citations · Biochar
 
 2. **A critical review of biochar as an environmental functional material in soil ecosystems for migration and transformation mechanisms and ecological risk assessment** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 3. **Soil environment, carbon and nitrogen cycle functional genes in response to freeze-thaw cycles and biochar** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 4. **Modified biochar reduces the greenhouse gas emission intensity and enhances the net ecosystem economic budget in black soil soybean fields** (2023)
    42 citations · Biochar
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 6. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 7. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 8. **Analysis of changes in water-heat-carbon fluxes at different time scales and their influencing factors in the cold black soil region of Northeast China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Effects of coupled precipitation manipulation and biochar on soybean soil respiration and its temperature sensitivity in the cold black soil regions under climate change conditions** (2025)
    1 citations · Biochar

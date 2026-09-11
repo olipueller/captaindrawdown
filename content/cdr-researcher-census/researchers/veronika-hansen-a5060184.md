@@ -1,7 +1,7 @@
 ---
 title: "Veronika Hansen"
 description: "Veronika Hansen is a Mid-career Soil Carbon researcher at Københavns Universitet in DK. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.234323
+date: 2026-09-11T02:38:29.180603
 url: "/cdr-researcher-census/researchers/veronika-hansen-a5060184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,369 |
+| Citations | 1,418 |
 | Publications | 49 |
 | CDR Focus | 10.2% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Quantifying cover crop-derived above- and belowground carbon inputs including rhizodeposition** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Modelling the impacts of cover crops on soil C stocks and N dynamics using Daisy: Model evaluation and scenario analysis** (2025)
    7 citations · Soil Carbon

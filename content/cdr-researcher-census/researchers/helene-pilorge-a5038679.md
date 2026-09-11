@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
-description: "Hélène Pilorgé is a Mid-career General CDR researcher at Université Claude Bernard Lyon 1 in FR. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.188454
+description: "Hélène Pilorgé is a Mid-career General CDR researcher at Lyon 1 Université in FR. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.137142
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/helene-pilorge-a5038679/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Claude Bernard Lyon 1"
+    "name": "Lyon 1 Universit\u00e9"
   },
   "sameAs": "https://openalex.org/A5038679189"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hélène Pilorgé**  
-Université Claude Bernard Lyon 1 · 🇫🇷 FR
+Lyon 1 Université · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,805 |
-| Publications | 42 |
-| CDR Focus | 21.4% |
+| Citations | 1,858 |
+| Publications | 43 |
+| CDR Focus | 20.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   194 citations · DAC
+   202 citations · DAC
 
 2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 3. **Direct Air Capture: Assessing Impacts to Enable Responsible Scaling** (2022)
    16 citations · DAC
@@ -62,20 +62,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Opportunities for rail in the transport of carbon dioxide in the United States** (2024)
    11 citations · General CDR
 
-6. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
+6. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
+   8 citations · DAC
+
+7. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
    6 citations · General CDR
 
-7. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
+8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
-
-8. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
-   4 citations · DAC
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    4 citations
 
 10. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

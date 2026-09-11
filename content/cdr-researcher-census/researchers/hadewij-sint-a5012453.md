@@ -1,7 +1,7 @@
 ---
 title: "Hadewij Sint"
-description: "Hadewij Sint is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704218
+description: "Hadewij Sint is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.659341
 url: "/cdr-researcher-census/researchers/hadewij-sint-a5012453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 328 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 335 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **CO2 fluxes from three different temperate grazed pastures using Eddy covariance measurements** (2022)
-   13 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

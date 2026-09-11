@@ -1,7 +1,7 @@
 ---
 title: "Qiu Yang"
-description: "Qiu Yang is a Mid-career Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.305961
+description: "Qiu Yang is a Mid-career Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.214501
 url: "/cdr-researcher-census/researchers/qiu-yang-a5037072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 121 |
+| h-index | 6 |
+| Citations | 134 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rubber-based agroforestry systems enhancing soil carbon sequestration through improved soil aggregate stability** (2025)
-   4 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Global patterns and drivers of soil carbon sequestration in rubber agroforestry systems: A meta-analysis** (2026)
    0 citations · General CDR

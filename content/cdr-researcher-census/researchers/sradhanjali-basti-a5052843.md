@@ -1,7 +1,7 @@
 ---
 title: "Sradhanjali Basti"
 description: "Sradhanjali Basti is a Mid-career Soil Carbon researcher at Sambalpur University in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.829839
+date: 2026-09-11T02:38:29.771413
 url: "/cdr-researcher-census/researchers/sradhanjali-basti-a5052843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 257 |
+| Citations | 273 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Particulate Collection Potential of Trees as a Means to Improve the Air Quality in Urban Areas in India** (2021)
-   23 citations
+   24 citations
 
 3. **Soil organic carbon fractionation of spoiled and unspoiled soils under different land use and land cover systems** (2023)
    6 citations · Soil Carbon

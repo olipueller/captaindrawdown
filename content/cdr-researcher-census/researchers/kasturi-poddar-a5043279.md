@@ -1,7 +1,7 @@
 ---
 title: "Kasturi Poddar"
 description: "Kasturi Poddar is a Mid-career Biochar researcher at National Institute of Technology Rourkela in IN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424073
+date: 2026-09-11T02:38:29.373758
 url: "/cdr-researcher-census/researchers/kasturi-poddar-a5043279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 637 |
+| Citations | 655 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Techno-economic assessment of doxycycline recovery using rice straw biochar: A circular economic execution** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Norfloxacin adsorption by torrefied coco peat biochar as a novel adsorbent in a circular economy framework** (2024)
    11 citations · Biochar

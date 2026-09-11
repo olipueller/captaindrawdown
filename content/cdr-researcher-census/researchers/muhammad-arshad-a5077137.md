@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Arshad"
 description: "Muhammad Arshad is a Senior Biochar researcher at King Khalid University in SA. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.245164
+date: 2026-09-11T02:38:29.193824
 url: "/cdr-researcher-census/researchers/muhammad-arshad-a5077137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,295 |
+| Citations | 1,326 |
 | Publications | 76 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater purification with crab shell-derived biochar: Advanced machine learning modeling &amp; experimental analysis** (2023)
-   31 citations · Biochar
+   32 citations · Biochar
 
 2. **Competitive adsorption of antibiotics on waste-derived hybrid biochar: Performance, mechanism, and life cycle assessment** (2025)
    8 citations · Biochar

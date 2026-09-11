@@ -1,7 +1,7 @@
 ---
 title: "Licida M. Giuliani"
-description: "Licida M. Giuliani is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.815387
+description: "Licida M. Giuliani is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.757769
 url: "/cdr-researcher-census/researchers/licida-m-giuliani-a5064810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Licida M. Giuliani",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/licida-m-giuliani-a5064810/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of Aberdeen"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-6668-7501",
     "https://openalex.org/A5064810872"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Licida M. Giuliani**  
-University of Aberdeen · 🇬🇧 GB
+**Licida M. Giuliani**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 265 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
-| Trajectory | Exiting |
+| Citations | 279 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Advancing nature‐based solutions through enhanced soil health monitoring in the United Kingdom** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Is soil carbon sequestration overestimated in carbon footprint accounting?** (2026)
    0 citations · Soil Carbon

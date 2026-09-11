@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ajmal Khan"
-description: "Muhammad Ajmal Khan is a Senior BECCS researcher at Aston University in GB. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.710199
+description: "Muhammad Ajmal Khan is a Senior BECCS researcher at National University of Sciences and Technology in PK. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.642921
 url: "/cdr-researcher-census/researchers/muhammad-ajmal-khan-a5101983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/muhammad-ajmal-khan-a5101983/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Aston University"
+    "name": "National University of Sciences and Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0000-0157-5162",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Muhammad Ajmal Khan**  
-Aston University · 🇬🇧 GB
+National University of Sciences and Technology · 🇵🇰 PK
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 323 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 346 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    32 citations · Biochar
 
 2. **Assessments of sustainable chemicals and bioenergy potentials of selected lignocellulosic biomass feedstocks in Poland via physicochemical characterisation and pyrolysis** (2025)
-   6 citations · BECCS
+   8 citations · BECCS
 
 ## External Profiles
 

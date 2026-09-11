@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Liu"
 description: "Wenhao Liu is a Mid-career Soil Carbon researcher at Shandong University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.765548
+date: 2026-09-11T02:38:29.721331
 url: "/cdr-researcher-census/researchers/wenhao-liu-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 291 |
+| Citations | 298 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

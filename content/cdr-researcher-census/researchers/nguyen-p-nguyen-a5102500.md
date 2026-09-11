@@ -1,7 +1,7 @@
 ---
 title: "Nguyen P. Nguyen"
-description: "Nguyen P. Nguyen is an Early-career Ocean CDR researcher at University of Bremen in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.384785
+description: "Nguyen P. Nguyen is an Early-career Ocean CDR researcher at University of Bremen in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.327485
 url: "/cdr-researcher-census/researchers/nguyen-p-nguyen-a5102500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 106 |
-| Publications | 2 |
-| CDR Focus | 50.0% |
+| Citations | 112 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fucoid brown algae inject fucoidan carbon into the ocean** (2022)
-   102 citations · Ocean CDR
+   105 citations · Ocean CDR
 
 ## External Profiles
 

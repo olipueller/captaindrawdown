@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Ren"
 description: "Zhenxing Ren is a Senior Biochar researcher at Taiyuan University of Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.184728
+date: 2026-09-11T02:38:30.161859
 url: "/cdr-researcher-census/researchers/zhenxing-ren-a5066154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of humic substances by the synergistic effect of biochar adsorption and activation of persulfate** (2021)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

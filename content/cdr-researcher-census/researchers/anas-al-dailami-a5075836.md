@@ -1,7 +1,7 @@
 ---
 title: "Anas Al-Dailami"
 description: "Anas Al-Dailami is a Mid-career General CDR researcher at University of Technology Malaysia in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.104151
+date: 2026-09-11T02:38:30.061809
 url: "/cdr-researcher-census/researchers/anas-al-dailami-a5075836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 166 |
+| Citations | 172 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Role of Algae in Built Environment and Green Cities: A Holistic approach towards Sustainability** (2022)
-   10 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alberto Alamia"
-description: "Alberto Alamia is a Mid-career Enhanced Weathering researcher at Aarhus University in DK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.643090
+description: "Alberto Alamia is a Mid-career Enhanced Weathering researcher at Aarhus University in DK. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.601201
 url: "/cdr-researcher-census/researchers/alberto-alamia-a5015833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 372 |
-| Publications | 29 |
-| CDR Focus | 17.2% |
+| Citations | 377 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

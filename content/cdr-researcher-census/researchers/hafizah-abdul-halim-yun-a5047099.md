@@ -1,7 +1,7 @@
 ---
 title: "Hafizah Abdul Halim Yun"
-description: "Hafizah Abdul Halim Yun is a Mid-career BECCS researcher at Universiti Malaysia Sarawak in MY. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.275476
+description: "Hafizah Abdul Halim Yun is a Mid-career BECCS researcher at Universiti Malaysia Sarawak in MY. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.250157
 url: "/cdr-researcher-census/researchers/hafizah-abdul-halim-yun-a5047099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 126 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 127 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

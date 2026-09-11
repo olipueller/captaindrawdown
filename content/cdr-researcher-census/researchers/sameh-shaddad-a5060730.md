@@ -1,7 +1,7 @@
 ---
 title: "Sameh Shaddad"
-description: "Sameh Shaddad is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505142
+description: "Sameh Shaddad is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.460987
 url: "/cdr-researcher-census/researchers/sameh-shaddad-a5060730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 507 |
-| Publications | 28 |
-| CDR Focus | 10.7% |
+| Citations | 513 |
+| Publications | 30 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

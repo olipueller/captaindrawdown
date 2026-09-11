@@ -1,7 +1,7 @@
 ---
 title: "Havalend E. Steinmuller"
-description: "Havalend E. Steinmuller is a Mid-career Soil Carbon researcher at The University of Texas Rio Grande Valley in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.442220
+description: "Havalend E. Steinmuller is a Mid-career Soil Carbon researcher at Louisiana Universities Marine Consortium in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.388305
 url: "/cdr-researcher-census/researchers/havalend-e-steinmuller-a5090241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/havalend-e-steinmuller-a5090241/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The University of Texas Rio Grande Valley"
+    "name": "Louisiana Universities Marine Consortium"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3375-877X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Havalend E. Steinmuller**  
-The University of Texas Rio Grande Valley · 🇺🇸 US
+Louisiana Universities Marine Consortium · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 607 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 629 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Using loss-on-ignition to estimate total nitrogen content of mangrove soils** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

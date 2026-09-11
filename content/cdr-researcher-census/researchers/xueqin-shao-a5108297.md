@@ -1,7 +1,7 @@
 ---
 title: "Xueqin Shao"
 description: "Xueqin Shao is a Mid-career Biochar researcher at Changchun University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.896018
+date: 2026-09-11T02:38:29.860849
 url: "/cdr-researcher-census/researchers/xueqin-shao-a5108297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 227 |
+| Citations | 231 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Efficient removal of anionic Congo red by hickory-chip/peanut-shell biochar and Mg-Al hydrotalcite composites fabricated via modified co-precipitation-hydrothermal and buried carbon pyrolysis approach** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

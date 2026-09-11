@@ -1,7 +1,7 @@
 ---
 title: "Bart L. Fischer"
-description: "Bart L. Fischer is a Mid-career Soil Carbon researcher at Texas A&M University – Central Texas in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.018706
+description: "Bart L. Fischer is a Mid-career Soil Carbon researcher at Agricultural & Applied Economics Association in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.969899
 url: "/cdr-researcher-census/researchers/bart-l-fischer-a5074891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bart-l-fischer-a5074891/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Texas A&M University \u2013 Central Texas"
+    "name": "Agricultural & Applied Economics Association"
   },
   "sameAs": "https://openalex.org/A5074891582"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Bart L. Fischer**  
-Texas A&M University – Central Texas · 🇺🇸 US
+Agricultural & Applied Economics Association · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 191 |
+| Citations | 199 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Carbon sequestration and water management in Texas—One size does not fit all** (2023)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

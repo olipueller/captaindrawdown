@@ -1,7 +1,7 @@
 ---
 title: "Debatri Dutta"
 description: "Debatri Dutta is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222047
+date: 2026-09-11T02:38:30.182545
 url: "/cdr-researcher-census/researchers/debatri-dutta-a5036593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 137 |
+| Citations | 141 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations
 
 2. **Influence of Soil Carbon Pools and Indices on Zinc Sorption Mechanisms and Distribution in Diverse Potato-based Cropping Systems of the Western Indo-Gangetic Plains** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Soil carbon dynamics under the prominent land use patterns in Bundelkhand region of Central India** (2026)
    0 citations · Soil Carbon

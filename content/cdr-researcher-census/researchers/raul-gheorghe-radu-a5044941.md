@@ -1,7 +1,7 @@
 ---
 title: "Raul Gheorghe Radu"
-description: "Raul Gheorghe Radu is a Senior Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.247160
+description: "Raul Gheorghe Radu is a Senior Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.148517
 url: "/cdr-researcher-census/researchers/raul-gheorghe-radu-a5044941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 132 |
+| h-index | 8 |
+| Citations | 149 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Dynamics in Peri-Urban Forests: Comparing Secondary Succession and Mature Stands under Varied Forest Management Practices** (2024)
-   7 citations · General CDR
+   10 citations · General CDR
 
 2. **Dynamics of Forest Floor, Soil Organic Matter, and Carbon Stock Estimation in Temperate Forests of Romania** (2025)
    0 citations · Soil Carbon

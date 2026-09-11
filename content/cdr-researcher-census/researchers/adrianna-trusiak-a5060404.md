@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Trusiak"
-description: "Adrianna Trusiak is a Mid-career BECCS researcher at Great Lakes Bioenergy Research Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.710389
+description: "Adrianna Trusiak is a Mid-career BECCS researcher at University of Michigan in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.669209
 url: "/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Great Lakes Bioenergy Research Center"
+    "name": "University of Michigan"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7793-9329",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Adrianna Trusiak**  
-Great Lakes Bioenergy Research Center · 🇺🇸 US
+University of Michigan · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 323 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 327 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

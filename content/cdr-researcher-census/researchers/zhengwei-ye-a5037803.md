@@ -1,7 +1,7 @@
 ---
 title: "Zhengwei Ye"
-description: "Zhengwei Ye is a Senior Soil Carbon researcher at Huaiyin Normal University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.162130
+description: "Zhengwei Ye is a Senior Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.114503
 url: "/cdr-researcher-census/researchers/zhengwei-ye-a5037803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zhengwei Ye",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhengwei-ye-a5037803/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Huaiyin Normal University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-6867-0890",
     "https://openalex.org/A5037803284"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Zhengwei Ye**  
-Huaiyin Normal University · 🇨🇳 CN
+**Zhengwei Ye**
 
 **Career Stage:** Senior
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 151 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 157 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Research and Hotspot Analysis Based on Web of Science: A Bibliometric Analysis in CiteSpace** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

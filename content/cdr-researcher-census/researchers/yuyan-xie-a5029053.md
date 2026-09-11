@@ -1,7 +1,7 @@
 ---
 title: "Yuyan Xie"
 description: "Yuyan Xie is a Mid-career Biochar researcher at Harbin Medical University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.802403
+date: 2026-09-11T02:38:29.733837
 url: "/cdr-researcher-census/researchers/yuyan-xie-a5029053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 271 |
+| Citations | 291 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Fe/Cl co-loaded sludge derived Cl-biochar/ferriferous silicate for PMS activation: process and tuning mechanisms** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Fe/Cl Co-Loaded Sludge Derived Cl-Biochar/Ferriferous Silicate for Pms Activation: Process and Tuning Mechanisms** (2025)
    0 citations · Biochar

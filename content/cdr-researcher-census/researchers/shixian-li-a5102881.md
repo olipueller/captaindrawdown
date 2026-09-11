@@ -1,7 +1,7 @@
 ---
 title: "Shixian Li"
-description: "Shixian Li is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.526305
+description: "Shixian Li is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.467077
 url: "/cdr-researcher-census/researchers/shixian-li-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 480 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| h-index | 10 |
+| Citations | 505 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
-   34 citations · Biochar
+   37 citations · Biochar
 
 2. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
    26 citations · Biochar
 
 3. **Microbial mechanisms underlying complementary soil nutrient utilization regulated by maize-peanut root exudate interactions** (2025)
-   12 citations
+   14 citations
 
 ## External Profiles
 

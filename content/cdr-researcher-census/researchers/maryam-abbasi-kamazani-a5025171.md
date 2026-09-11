@@ -1,7 +1,7 @@
 ---
 title: "Maryam Abbasi Kamazani"
-description: "Maryam Abbasi Kamazani is a Mid-career General CDR researcher at Mitchell Institute in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.057295
+description: "Maryam Abbasi Kamazani is a Mid-career General CDR researcher at Mitchell Institute in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.006225
 url: "/cdr-researcher-census/researchers/maryam-abbasi-kamazani-a5025171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 188 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Multi-objective genetic optimization of embodied and operational energy and carbon impacts of buildings in current and future scenarios** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Multi-Objective Genetic Optimization of Embodied and Operational Energy and Carbon Impacts of Buildings in Current and Future Scenarios** (2025)
    1 citations

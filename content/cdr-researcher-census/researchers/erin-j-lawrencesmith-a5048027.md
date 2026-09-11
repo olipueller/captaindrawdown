@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Lawrence‐Smith"
 description: "Erin J. Lawrence‐Smith is a Senior Soil Carbon researcher at Tea Research Institute in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.596618
+date: 2026-09-11T02:38:29.555414
 url: "/cdr-researcher-census/researchers/erin-j-lawrencesmith-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 411 |
+| Citations | 414 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sequestration of soil carbon by burying it deeper within the profile: A theoretical exploration of three possible mechanisms** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 ## External Profiles
 

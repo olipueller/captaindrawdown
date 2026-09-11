@@ -1,7 +1,7 @@
 ---
 title: "A.N. Gitau"
-description: "A.N. Gitau is a Senior Soil Carbon researcher at University of Nairobi in KE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.405551
+description: "A.N. Gitau is a Senior Soil Carbon researcher at University of Nairobi in KE. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.350767
 url: "/cdr-researcher-census/researchers/an-gitau-a5113366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 103 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Citations | 108 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

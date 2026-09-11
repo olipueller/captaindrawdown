@@ -1,7 +1,7 @@
 ---
 title: "Kamal Elyasi Gomari"
 description: "Kamal Elyasi Gomari is a Mid-career Enhanced Weathering researcher at Teesside University in GB. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.129179
+date: 2026-09-11T02:38:30.060776
 url: "/cdr-researcher-census/researchers/kamal-elyasi-gomari-a5037854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 159 |
+| Citations | 172 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Exploring the potential of steel slag waste for carbon sequestration through mineral carbonation: A comparative study of blast-furnace slag and ladle slag** (2023)
-   59 citations · Enhanced Weathering
+   60 citations · Enhanced Weathering
 
 2. **Biochar from brown algae: Production, activation, and characterisation** (2023)
    23 citations · Biochar

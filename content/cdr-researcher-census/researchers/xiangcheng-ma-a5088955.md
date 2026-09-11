@@ -1,7 +1,7 @@
 ---
 title: "Xiangcheng Ma"
 description: "Xiangcheng Ma is a Mid-career Biochar researcher at Ningxia University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.488184
+date: 2026-09-11T02:38:29.440868
 url: "/cdr-researcher-census/researchers/xiangcheng-ma-a5088955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 534 |
+| Citations | 546 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

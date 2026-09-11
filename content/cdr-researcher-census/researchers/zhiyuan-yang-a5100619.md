@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yang"
-description: "Zhiyuan Yang is a Mid-career General CDR researcher at Tsinghua University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.409179
+description: "Zhiyuan Yang is a Mid-career General CDR researcher at The University of Melbourne in AU. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.360802
 url: "/cdr-researcher-census/researchers/zhiyuan-yang-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhiyuan-yang-a5100619/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tsinghua University"
+    "name": "The University of Melbourne"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8847-8700",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhiyuan Yang**  
-Tsinghua University · 🇨🇳 CN
+The University of Melbourne · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 670 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 685 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Do adaptive policy adjustments deliver ecosystem-agriculture-economy co-benefits in land degradation neutrality efforts? Evidence from southeast coast of China** (2023)
-   143 citations · General CDR
+   144 citations · General CDR
 
 2. **Win-win-win pathway for ecological restoration by balancing hydrological, ecological, and agricultural dimensions: Contrasting lessons from highly eroded agroforestry** (2021)
-   38 citations
+   39 citations
 
 3. **Policy-driven co-evolution of the food–water–ecosystem–livelihood nexus in two ecosystem conservation hotspots in southern China** (2021)
    20 citations · General CDR

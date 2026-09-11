@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
-description: "Terre Satterfield is an Eminent General CDR researcher at University of British Columbia in CA. With 190 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.071341
+description: "Terre Satterfield is an Eminent General CDR researcher at University of British Columbia in CA. With 189 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.023828
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 48 |
-| Citations | 13,086 |
-| Publications | 190 |
-| CDR Focus | 6.8% |
+| h-index | 49 |
+| Citations | 13,320 |
+| Publications | 189 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    77 citations · General CDR
 
 2. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   62 citations · General CDR
+   67 citations · General CDR
 
 3. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   57 citations · General CDR
+   58 citations · General CDR
 
 4. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   54 citations · General CDR
+   55 citations · General CDR
 
-5. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
+5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
+   19 citations · General CDR
+
+6. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
    19 citations · DAC
-
-6. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
-   18 citations · General CDR
 
 7. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    8 citations · General CDR

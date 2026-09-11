@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.563589
+date: 2026-09-11T02:38:29.504677
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 442 |
+| Citations | 463 |
 | Publications | 19 |
 | CDR Focus | 42.1% |
 | Trajectory | Growing |
@@ -48,13 +48,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Remineralizing soils? The agricultural usage of silicate rock powders: A review** (2021)
-   241 citations · Enhanced Weathering
+   249 citations · Enhanced Weathering
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 3. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   53 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 4. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations

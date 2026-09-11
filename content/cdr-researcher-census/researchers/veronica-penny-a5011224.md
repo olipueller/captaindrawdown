@@ -1,7 +1,7 @@
 ---
 title: "Veronica Penny"
-description: "Veronica Penny is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.235699
+description: "Veronica Penny is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.172920
 url: "/cdr-researcher-census/researchers/veronica-penny-a5011224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 134 |
+| h-index | 6 |
+| Citations | 143 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Weixiang Chen"
 description: "Weixiang Chen is a Senior Soil Carbon researcher at Tsinghua University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.355323
+date: 2026-09-11T02:38:29.306737
 url: "/cdr-researcher-census/researchers/weixiang-chen-a5101974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 799 |
+| Citations | 815 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Iron-bound Organic Carbon Distribution in Freshwater Wetlands with Varying Vegetation and Hydrological Regime** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

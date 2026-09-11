@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
-description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Nova Scotia Department of Agriculture in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.426914
+description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Stroke Association in GB. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.378081
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nova Scotia Department of Agriculture"
+    "name": "Stroke Association"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8050-9074",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Edmund A. Halfyard**  
-Nova Scotia Department of Agriculture · 🇨🇦 CA
+Stroke Association · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 633 |
-| Publications | 35 |
-| CDR Focus | 8.6% |
+| Citations | 645 |
+| Publications | 36 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

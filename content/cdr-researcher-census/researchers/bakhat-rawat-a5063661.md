@@ -1,7 +1,7 @@
 ---
 title: "Bakhat Rawat"
 description: "Bakhat Rawat is a Mid-career Enhanced Weathering researcher at University of Wollongong in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.929055
+date: 2026-09-11T02:38:29.885804
 url: "/cdr-researcher-census/researchers/bakhat-rawat-a5063661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 215 |
+| Citations | 223 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "August Tobiesen"
 description: "August Tobiesen is a Senior Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424867
+date: 2026-09-11T02:38:29.380254
 url: "/cdr-researcher-census/researchers/august-tobiesen-a5043976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 636 |
+| Citations | 641 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

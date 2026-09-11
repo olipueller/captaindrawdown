@@ -1,7 +1,7 @@
 ---
 title: "Rongjiang Yao"
-description: "Rongjiang Yao is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.145936
+description: "Rongjiang Yao is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 113 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.095858
 url: "/cdr-researcher-census/researchers/rongjiang-yao-a5028391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,585 |
-| Publications | 112 |
-| CDR Focus | 5.4% |
+| Citations | 2,663 |
+| Publications | 113 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Long-term reclamation enhances soil organic carbon accumulation via mitigating salinity and alkalinity in coastal saline soils** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **[Prospects for Organic Carbon Turnover Process and Soil Carbon Enhancement Regulation in Saline Farmland].** (2025)
    0 citations · General CDR

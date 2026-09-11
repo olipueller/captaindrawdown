@@ -1,7 +1,7 @@
 ---
 title: "Sadikshya Sharma"
-description: "Sadikshya Sharma is a Mid-career Ocean CDR researcher at Landscape Institute in GB. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.630339
+description: "Sadikshya Sharma is a Mid-career Ocean CDR researcher at Landscape Institute in GB. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.565050
 url: "/cdr-researcher-census/researchers/sadikshya-sharma-a5101453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 381 |
+| h-index | 10 |
+| Citations | 405 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Soil and Ocean Carbon Sequestration, Carbon Capture, Utilization, and Storage as Negative Emission Strategies for Global Climate Change** (2023)
-   38 citations · General CDR
+   40 citations · General CDR
 
 ## External Profiles
 

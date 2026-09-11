@@ -1,7 +1,7 @@
 ---
 title: "J. Thivya"
 description: "J. Thivya is a Mid-career General CDR researcher at Social Service Sericulture Project Trust in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.069015
+date: 2026-09-11T02:38:30.030671
 url: "/cdr-researcher-census/researchers/j-thivya-a5011542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 176 |
+| Citations | 180 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive review on zinc(II) sequestration from wastewater using various natural/modified low-cost agro-waste sorbents** (2021)
-   14 citations
+   15 citations
 
 2. **Automated real-time forecasting of agriculture using chlorophyll content and its impact on climate change** (2022)
    1 citations · General CDR

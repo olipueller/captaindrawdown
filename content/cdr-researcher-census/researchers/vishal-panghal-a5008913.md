@@ -1,7 +1,7 @@
 ---
 title: "Vishal Panghal"
-description: "Vishal Panghal is a Mid-career Biochar researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.915559
+description: "Vishal Panghal is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.861163
 url: "/cdr-researcher-census/researchers/vishal-panghal-a5008913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/vishal-panghal-a5008913/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chaudhary Charan Singh Haryana Agricultural University"
+    "name": "Maharshi Dayanand University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4397-9752",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Vishal Panghal**  
-Chaudhary Charan Singh Haryana Agricultural University · 🇮🇳 IN
+Maharshi Dayanand University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 220 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 231 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar-modified constructed wetlands using Eclipta alba as a plant for sustainable rural wastewater treatment** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Biochar-Amended Vertical Flow Constructed Wetlands: A Green Technology for Dairy Wastewater Treatment** (2025)
    0 citations · Biochar

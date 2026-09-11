@@ -1,7 +1,7 @@
 ---
 title: "Claudia M. Agraz-Hernández"
-description: "Claudia M. Agraz-Hernández is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.912727
+description: "Claudia M. Agraz-Hernández is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.856142
 url: "/cdr-researcher-census/researchers/claudia-m-agraz-hernandez-a5053295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 221 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 233 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Restoration enhances carbon storage in mangroves after hurricane impacts** (2026)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

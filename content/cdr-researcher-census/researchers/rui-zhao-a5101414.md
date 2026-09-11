@@ -1,7 +1,7 @@
 ---
 title: "Rui Zhao"
-description: "Rui Zhao is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.370180
+description: "Rui Zhao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.314123
 url: "/cdr-researcher-census/researchers/rui-zhao-a5101414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rui-zhao-a5101414/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture"
+    "name": "China Meteorological Administration"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0584-0028",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Rui Zhao**  
-Ministry of Agriculture ·  EE
+China Meteorological Administration · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 759 |
-| Publications | 34 |
-| CDR Focus | 11.8% |
+| Citations | 795 |
+| Publications | 37 |
+| CDR Focus | 10.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

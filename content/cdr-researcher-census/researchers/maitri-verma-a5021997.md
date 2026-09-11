@@ -1,7 +1,7 @@
 ---
 title: "Maitri Verma"
-description: "Maitri Verma is a Mid-career General CDR researcher at Babasaheb Bhimrao Ambedkar University in IN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.440892
+description: "Maitri Verma is a Mid-career General CDR researcher at Babasaheb Bhimrao Ambedkar University in IN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.386286
 url: "/cdr-researcher-census/researchers/maitri-verma-a5021997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 609 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| h-index | 14 |
+| Citations | 631 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
 description: "Anežka Borčinová Radková is a Mid-career Enhanced Weathering researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.768048
+date: 2026-09-11T02:38:29.715632
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 289 |
+| Citations | 300 |
 | Publications | 23 |
 | CDR Focus | 34.8% |
 | Trajectory | Growing |

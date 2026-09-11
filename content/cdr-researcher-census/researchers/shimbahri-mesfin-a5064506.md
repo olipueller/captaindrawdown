@@ -1,7 +1,7 @@
 ---
 title: "Shimbahri Mesfin"
 description: "Shimbahri Mesfin is a Mid-career Biochar researcher at Norwegian University of Life Sciences in NO. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.543267
+date: 2026-09-11T02:38:29.493772
 url: "/cdr-researcher-census/researchers/shimbahri-mesfin-a5064506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 463 |
+| Citations | 475 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Jayashree Ghosh"
-description: "Jayashree Ghosh is a Mid-career Ocean CDR researcher at University of East Anglia in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.775120
+description: "Jayashree Ghosh is a Mid-career Ocean CDR researcher at University of East Anglia in GB. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.741772
 url: "/cdr-researcher-census/researchers/jayashree-ghosh-a5014071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 285 |
-| Publications | 20 |
-| CDR Focus | 15.0% |
+| Citations | 287 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 3. **Response of Surface Ocean pCO<sub>2</sub> to Tropical Cyclones in Two Contrasting Basins of the Northern Indian Ocean** (2023)
    9 citations · Ocean CDR
+
+4. **Estimates of Arctic Ocean air-sea carbon fluxes for the period 2000–2017 from atmospheric inverse analyses** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mattie Frazier"
 description: "Mattie Frazier is a Mid-career Biochar researcher at North Carolina State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256866
+date: 2026-09-11T02:38:30.229637
 url: "/cdr-researcher-census/researchers/mattie-frazier-a5108724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 130 |
+| Citations | 131 |
 | Publications | 4 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |

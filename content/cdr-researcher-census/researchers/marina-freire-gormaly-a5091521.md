@@ -1,7 +1,7 @@
 ---
 title: "Marina Freire-Gormaly"
-description: "Marina Freire-Gormaly is a Mid-career DAC researcher at York University in CA. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.572524
+description: "Marina Freire-Gormaly is a Mid-career DAC researcher at York University in CA. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.514392
 url: "/cdr-researcher-census/researchers/marina-freire-gormaly-a5091521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 434 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 453 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A comprehensive review of life cycle assessments of direct air capture and carbon dioxide storage** (2025)
-   37 citations · DAC
+   42 citations · DAC
 
 2. **Life cycle and experimental assessment of solar-driven photothermal desorption for CO2 capture and storage** (2026)
    1 citations · DAC

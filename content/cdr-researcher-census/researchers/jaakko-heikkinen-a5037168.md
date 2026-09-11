@@ -1,7 +1,7 @@
 ---
 title: "Jaakko Heikkinen"
-description: "Jaakko Heikkinen is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 82 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.211957
+description: "Jaakko Heikkinen is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.159977
 url: "/cdr-researcher-census/researchers/jaakko-heikkinen-a5037168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,561 |
-| Publications | 82 |
-| CDR Focus | 7.3% |
+| h-index | 19 |
+| Citations | 1,602 |
+| Publications | 89 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Climate change induces carbon loss of arable mineral soils in boreal conditions** (2022)
-   63 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Chemical composition controls the decomposition of organic amendments and influences the microbial community structure in agricultural soils** (2021)
-   38 citations · Biochar
+   39 citations · Biochar
 
 3. **Soil organic carbon sequestration potential for croplands in Finland over 2021–2040 under the interactive impacts of climate change and agricultural management** (2023)
    21 citations
 
 4. **High organic carbon content constricts the potential for stable organic carbon accrual in mineral agricultural soils in Finland** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 5. **Impact of crop type on the greenhouse gas (GHG) emissions of a rewetted cultivated peatland** (2024)
    7 citations · Soil Carbon

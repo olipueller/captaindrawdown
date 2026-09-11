@@ -1,7 +1,7 @@
 ---
 title: "Justine Barthod"
-description: "Justine Barthod is a Mid-career Soil Carbon researcher at Institut d'écologie et des sciences de l'environnement de Paris in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540825
+description: "Justine Barthod is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.490644
 url: "/cdr-researcher-census/researchers/justine-barthod-a5078380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/justine-barthod-a5078380/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institut d'\u00e9cologie et des sciences de l'environnement de Paris"
+    "name": "Centre National de la Recherche Scientifique"
   },
   "sameAs": "https://openalex.org/A5078380486"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Justine Barthod**  
-Institut d'écologie et des sciences de l'environnement de Paris · 🇫🇷 FR
+Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 465 |
+| Citations | 479 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of decomposition products produced in the presence or absence of epigeic earthworms and minerals on soil carbon stabilization** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

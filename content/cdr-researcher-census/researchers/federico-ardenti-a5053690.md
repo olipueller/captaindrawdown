@@ -1,7 +1,7 @@
 ---
 title: "Federico Ardenti"
-description: "Federico Ardenti is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.571355
+description: "Federico Ardenti is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.512797
 url: "/cdr-researcher-census/researchers/federico-ardenti-a5053690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 435 |
-| Publications | 25 |
-| CDR Focus | 12.0% |
+| Citations | 455 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term C and N sequestration under no-till is governed by biomass production of cover crops rather than differences in grass vs. legume biomass quality** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Potential of conservation tillage, cover crops, and digestate application as integrated C farming practices for processing tomato** (2024)
    8 citations · Soil Carbon

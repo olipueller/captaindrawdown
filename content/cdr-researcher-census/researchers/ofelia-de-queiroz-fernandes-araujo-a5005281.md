@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
-description: "Ofélia de Queiroz Fernandes Araújo is a Senior BECCS researcher at Federal University of Rio de Janeiro in BR. With 205 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.119507
+description: "Ofélia de Queiroz Fernandes Araújo is a Senior BECCS researcher at Federal University of Rio de Janeiro in BR. With 206 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.070127
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 3,543 |
-| Publications | 205 |
-| CDR Focus | 5.4% |
+| h-index | 36 |
+| Citations | 3,593 |
+| Publications | 206 |
+| CDR Focus | 5.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    32 citations · BECCS
 
 3. **Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review** (2022)
-   24 citations · BECCS
+   25 citations · BECCS
 
 4. **Sewage-water treatment with bio-energy production and carbon capture and storage** (2021)
    22 citations · BECCS
@@ -69,7 +69,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    10 citations
 
 7. **Novel air dehydration for life-support systems of manned-spacecraft: Supersonic separator technology** (2022)
-   7 citations
+   8 citations
 
 8. **Sugarcane-based ethanol biorefineries with bioenergy production from bagasse: thermodynamic, economic, and emissions assessments** (2021)
    5 citations · BECCS

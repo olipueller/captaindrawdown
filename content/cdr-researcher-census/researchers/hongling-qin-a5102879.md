@@ -1,7 +1,7 @@
 ---
 title: "Hongling Qin"
 description: "Hongling Qin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.275099
+date: 2026-09-11T02:38:29.224643
 url: "/cdr-researcher-census/researchers/hongling-qin-a5102879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,119 |
+| Citations | 1,134 |
 | Publications | 57 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Rafidah Husen"
 description: "Rafidah Husen is a Senior Biochar researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.552739
+date: 2026-09-11T02:38:29.497192
 url: "/cdr-researcher-census/researchers/rafidah-husen-a5008541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 453 |
+| Citations | 471 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coconut shell and husk biochar: A review of production and activation technology, economic, financial aspect and application** (2022)
-   156 citations · Biochar
+   166 citations · Biochar
 
 ## External Profiles
 

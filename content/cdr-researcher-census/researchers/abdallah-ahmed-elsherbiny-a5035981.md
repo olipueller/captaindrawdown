@@ -1,7 +1,7 @@
 ---
 title: "Abdallah Ahmed Elsherbiny"
-description: "Abdallah Ahmed Elsherbiny is a Mid-career Biochar researcher at Shanghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.143907
+description: "Abdallah Ahmed Elsherbiny is a Mid-career Biochar researcher at Shanghai University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.079970
 url: "/cdr-researcher-census/researchers/abdallah-ahmed-elsherbiny-a5035981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 156 |
+| h-index | 8 |
+| Citations | 167 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of sulfurous gases during microwave pyrolysis of biomass using Cu-Y adsorption** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

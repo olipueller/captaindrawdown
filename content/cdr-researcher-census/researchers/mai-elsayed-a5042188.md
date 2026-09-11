@@ -1,7 +1,7 @@
 ---
 title: "Mai ElSayed"
-description: "Mai ElSayed is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.269476
+description: "Mai ElSayed is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.180515
 url: "/cdr-researcher-census/researchers/mai-elsayed-a5042188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 127 |
-| Publications | 11 |
-| CDR Focus | 18.2% |
+| Citations | 141 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Analysing the techno-economic impact of e-fuels and e-chemicals production for exports and carbon dioxide removal on the energy system of sunbelt countries – Case of Egypt** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 2. **Costs and benefits of afforestation with renewable electricity-based desalination: Case study for Egypt** (2025)
    5 citations · General CDR

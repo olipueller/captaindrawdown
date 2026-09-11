@@ -1,7 +1,7 @@
 ---
 title: "Hanhua Ji"
 description: "Hanhua Ji is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639448
+date: 2026-09-11T02:38:29.594742
 url: "/cdr-researcher-census/researchers/hanhua-ji-a5024011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 375 |
+| Citations | 381 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

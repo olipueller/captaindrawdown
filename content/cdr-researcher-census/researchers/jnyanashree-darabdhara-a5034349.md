@@ -1,7 +1,7 @@
 ---
 title: "Jnyanashree Darabdhara"
 description: "Jnyanashree Darabdhara is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505546
+date: 2026-09-11T02:38:29.445808
 url: "/cdr-researcher-census/researchers/jnyanashree-darabdhara-a5034349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 506 |
+| Citations | 536 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pea Pod–Derived Biochar–Zeolitic Imidazolate Framework Composite for the Photocatalytic Degradation of Two Organic Dyes Crystal Violet and Victoria Blue** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 2. **Metal Oxide-Biochar Nanocomposites for the Effective Removal of Environmental Contaminants** (2022)
    0 citations · Biochar

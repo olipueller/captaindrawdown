@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Li"
 description: "Yongxing Li is an Early-career Ocean CDR researcher at Guangdong Polytechnic Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.709144
+date: 2026-09-11T02:38:29.655723
 url: "/cdr-researcher-census/researchers/yongxing-li-a5067983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 324 |
+| Citations | 338 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   25 citations · Ocean CDR
+   26 citations · Ocean CDR
 
 ## External Profiles
 

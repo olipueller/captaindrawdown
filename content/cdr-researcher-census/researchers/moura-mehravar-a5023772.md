@@ -1,7 +1,7 @@
 ---
 title: "Moura Mehravar"
-description: "Moura Mehravar is a Mid-career Biochar researcher at University of Birmingham in GB. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777295
+description: "Moura Mehravar is a Mid-career Biochar researcher at Heriot-Watt University in GB. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.735670
 url: "/cdr-researcher-census/researchers/moura-mehravar-a5023772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/moura-mehravar-a5023772/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Birmingham"
+    "name": "Heriot-Watt University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2517-4475",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Moura Mehravar**  
-University of Birmingham · 🇬🇧 GB
+Heriot-Watt University · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 284 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 290 |
+| Publications | 39 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Li"
-description: "Ruifeng Li is a Senior Soil Carbon researcher at Shandong University in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.516509
+description: "Ruifeng Li is a Senior Soil Carbon researcher. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.452030
 url: "/cdr-researcher-census/researchers/ruifeng-li-a5100639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ruifeng Li",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ruifeng-li-a5100639/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Shandong University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-3461-6463",
     "https://openalex.org/A5100639944"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Ruifeng Li**  
-Shandong University · 🇨🇳 CN
+**Ruifeng Li**
 
 **Career Stage:** Senior
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 493 |
-| Publications | 41 |
-| CDR Focus | 9.8% |
+| Citations | 529 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Water deficit limits soil organic carbon sequestration under old apple orchards in the loess-covered region** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Variations in Soil Organic Carbon after Farmland Conversion to Apple Orchard** (2024)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "N. Sivakumar"
-description: "N. Sivakumar is a Senior Soil Carbon researcher at Madurai Kamaraj University in IN. With 149 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.127095
+description: "N. Sivakumar is a Senior Soil Carbon researcher at Madurai Kamaraj University in IN. With 149 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.077472
 url: "/cdr-researcher-census/researchers/n-sivakumar-a5046671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 3,269 |
+| h-index | 34 |
+| Citations | 3,326 |
 | Publications | 149 |
 | CDR Focus | 6.0% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Biochar
 
 3. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 4. **Agroforestry - An elixir for soil health management and carbon sequestration** (2025)
    4 citations · General CDR

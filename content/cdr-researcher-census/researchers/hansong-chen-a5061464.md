@@ -1,7 +1,7 @@
 ---
 title: "Hansong Chen"
 description: "Hansong Chen is a Senior Biochar researcher at Center for Drug Evaluation and Research in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.200689
+date: 2026-09-11T02:38:29.146941
 url: "/cdr-researcher-census/researchers/hansong-chen-a5061464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,673 |
+| Citations | 1,734 |
 | Publications | 53 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interaction of biochar with extracellular polymers of resistant bacteria restrains Pb(II) adsorption onto their composite: Macro and micro scale investigations** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Lead stabilization in soil using P-modified biochars derived from kitchen waste** (2022)
    14 citations · Biochar
 
 3. **Arbuscular mycorrhizal fungi and glomalin mediate the effects of microplastics on soil carbon storage** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

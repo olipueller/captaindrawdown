@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Li"
 description: "Hongjie Li is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.666061
+date: 2026-09-11T02:38:29.625687
 url: "/cdr-researcher-census/researchers/hongjie-li-a5031194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 354 |
+| Citations | 358 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

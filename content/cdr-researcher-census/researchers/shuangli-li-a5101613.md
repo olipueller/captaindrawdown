@@ -1,7 +1,7 @@
 ---
 title: "Shuangli Li"
 description: "Shuangli Li is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.517751
+date: 2026-09-11T02:38:29.464071
 url: "/cdr-researcher-census/researchers/shuangli-li-a5101613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 491 |
+| Citations | 509 |
 | Publications | 25 |
 | CDR Focus | 12.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 2. **Carbon Sequestration by Potassium-Modified Bagasse Biochar in Manganese-Contaminated Sugarcane Field Soils** (2024)
    2 citations · Biochar

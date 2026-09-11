@@ -1,7 +1,7 @@
 ---
 title: "Yichun Zhu"
-description: "Yichun Zhu is a Mid-career Biochar researcher at Jiangxi University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.186627
+description: "Yichun Zhu is a Mid-career Biochar researcher at Jiangxi University of Science and Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.134281
 url: "/cdr-researcher-census/researchers/yichun-zhu-a5091504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 145 |
+| h-index | 7 |
+| Citations | 152 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

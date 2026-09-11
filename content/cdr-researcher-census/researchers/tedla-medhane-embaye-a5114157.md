@@ -1,7 +1,7 @@
 ---
 title: "Tedla Medhane Embaye"
-description: "Tedla Medhane Embaye is a Mid-career Biochar researcher at Anglian Water Services (United Kingdom) in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.330987
+description: "Tedla Medhane Embaye is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.186276
 url: "/cdr-researcher-census/researchers/tedla-medhane-embaye-a5114157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tedla-medhane-embaye-a5114157/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Anglian Water Services (United Kingdom)"
+    "name": "Xi'an Jiaotong University"
   },
   "sameAs": "https://openalex.org/A5114157259"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tedla Medhane Embaye**  
-Anglian Water Services (United Kingdom) · 🇬🇧 GB
+Xi'an Jiaotong University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 116 |
+| h-index | 8 |
+| Citations | 140 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of heavy metals distribution and environmental risks in biochar from co-pyrolysis of sewage sludge and mixed municipal waste** (2024)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

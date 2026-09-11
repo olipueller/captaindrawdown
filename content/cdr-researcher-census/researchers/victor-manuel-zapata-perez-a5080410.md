@@ -1,7 +1,7 @@
 ---
 title: "Víctor Manuel Zapata-Pérez"
-description: "Víctor Manuel Zapata-Pérez is a Mid-career Soil Carbon researcher at Universidad de Murcia in ES. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.233337
+description: "Víctor Manuel Zapata-Pérez is a Mid-career Soil Carbon researcher at Universidad de Murcia in ES. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.201550
 url: "/cdr-researcher-census/researchers/victor-manuel-zapata-perez-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 135 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 137 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

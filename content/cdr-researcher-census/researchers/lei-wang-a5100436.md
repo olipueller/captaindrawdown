@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
-description: "Lei Wang is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.681975
+description: "Lei Wang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.615072
 url: "/cdr-researcher-census/researchers/lei-wang-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lei-wang-a5100436/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xiamen University"
+    "name": "Zhejiang A & F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6584-3207",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lei Wang**  
-Xiamen University · 🇨🇳 CN
+Zhejiang A & F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 343 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 366 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

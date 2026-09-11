@@ -1,7 +1,7 @@
 ---
 title: "Matthew Chekwube Enebe"
-description: "Matthew Chekwube Enebe is a Mid-career Soil Carbon researcher at North-West University in ZA. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.243006
+description: "Matthew Chekwube Enebe is a Mid-career Soil Carbon researcher at North-West University in ZA. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.185978
 url: "/cdr-researcher-census/researchers/matthew-chekwube-enebe-a5023408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,312 |
+| h-index | 17 |
+| Citations | 1,387 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The impacts of biochar on carbon sequestration, soil processes, and microbial communities: a review** (2025)
-   36 citations · Biochar
+   42 citations · Biochar
 
 2. **Carbon sequestration and soil responses to soil amendments – A review** (2025)
-   24 citations · General CDR
+   28 citations · General CDR
 
 ## External Profiles
 

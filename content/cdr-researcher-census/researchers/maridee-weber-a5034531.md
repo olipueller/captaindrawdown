@@ -1,7 +1,7 @@
 ---
 title: "Maridee Weber"
-description: "Maridee Weber is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.841042
+description: "Maridee Weber is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.794206
 url: "/cdr-researcher-census/researchers/maridee-weber-a5034531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 251 |
+| h-index | 6 |
+| Citations | 261 |
 | Publications | 19 |
 | CDR Focus | 31.6% |
 | Trajectory | Exiting |
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   199 citations · General CDR
+   202 citations · General CDR
 
 2. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 3. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
    10 citations · Biochar
 
 4. **Potential long-term, global effects of enhancing the domestic terrestrial carbon sink in the United States through no-till and cover cropping** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Carbon neutrality in Malaysia and Kuala Lumpur: insights from stakeholder-driven integrated assessment modeling** (2024)
    6 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Nanamhla Gwedla"
-description: "Nanamhla Gwedla is a Mid-career General CDR researcher at Rhodes University in ZA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.686226
+description: "Nanamhla Gwedla is a Mid-career General CDR researcher at Rhodes University in ZA. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.627379
 url: "/cdr-researcher-census/researchers/nanamhla-gwedla-a5055434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 340 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 7 |
+| Citations | 357 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

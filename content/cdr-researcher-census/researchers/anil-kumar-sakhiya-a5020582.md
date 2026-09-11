@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar Sakhiya"
 description: "Anil Kumar Sakhiya is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 26 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.237932
+date: 2026-09-11T02:38:29.187029
 url: "/cdr-researcher-census/researchers/anil-kumar-sakhiya-a5020582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,339 |
+| Citations | 1,377 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Efficacy of rice straw derived biochar for removal of Pb+2 and Zn+2 from aqueous: Adsorption, thermodynamic and cost analysis** (2022)
-   65 citations · Biochar
+1. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
+   65 citations
 
-2. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
-   64 citations
+2. **Efficacy of rice straw derived biochar for removal of Pb+2 and Zn+2 from aqueous: Adsorption, thermodynamic and cost analysis** (2022)
+   65 citations · Biochar
 
 3. **Copper(II) removal from aqua solution using rice straw derived biochar** (2021)
    19 citations · Biochar

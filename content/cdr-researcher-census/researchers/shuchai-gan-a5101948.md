@@ -1,7 +1,7 @@
 ---
 title: "Shuchai Gan"
-description: "Shuchai Gan is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.251925
+description: "Shuchai Gan is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.194236
 url: "/cdr-researcher-census/researchers/shuchai-gan-a5101948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,245 |
+| h-index | 23 |
+| Citations | 1,321 |
 | Publications | 61 |
 | CDR Focus | 8.2% |
 | Trajectory | Declining |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   25 citations · Ocean CDR
+   26 citations · Ocean CDR
 
-4. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
+4. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
+   8 citations · Soil Carbon
+
+5. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    6 citations · Soil Carbon
-
-5. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
-   5 citations · Soil Carbon
 
 ## External Profiles
 

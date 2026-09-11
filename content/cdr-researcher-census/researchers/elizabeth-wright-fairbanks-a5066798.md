@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Wright-Fairbanks"
-description: "Elizabeth Wright-Fairbanks is a Mid-career Ocean CDR researcher at Rutgers, The State University of New Jersey in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.297198
+description: "Elizabeth Wright-Fairbanks is a Mid-career Ocean CDR researcher at NOAA Ocean Acidification Program. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.271500
 url: "/cdr-researcher-census/researchers/elizabeth-wright-fairbanks-a5066798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/elizabeth-wright-fairbanks-a5066798/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Rutgers, The State University of New Jersey"
+    "name": "NOAA Ocean Acidification Program"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1265-6616",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Elizabeth Wright-Fairbanks**  
-Rutgers, The State University of New Jersey · 🇺🇸 US
+NOAA Ocean Acidification Program
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 122 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 123 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Aldis Butlers"
-description: "Aldis Butlers is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 81 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.813584
+description: "Aldis Butlers is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 98 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.765479
 url: "/cdr-researcher-census/researchers/aldis-butlers-a5019656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 265 |
-| Publications | 81 |
-| CDR Focus | 6.2% |
+| Citations | 275 |
+| Publications | 98 |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 2. **Impact of Former Peat Extraction Field Afforestation on Soil Greenhouse Gas Emissions in Hemiboreal Region** (2023)
-   9 citations
+   10 citations
 
 3. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
    5 citations · Soil Carbon

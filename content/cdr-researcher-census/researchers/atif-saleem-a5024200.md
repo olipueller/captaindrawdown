@@ -1,7 +1,7 @@
 ---
 title: "Atif Saleem"
-description: "Atif Saleem is a Mid-career Biochar researcher at Shaanxi University of Science and Technology in CN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.310278
+description: "Atif Saleem is a Mid-career Biochar researcher at Shaanxi University of Science and Technology in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.257312
 url: "/cdr-researcher-census/researchers/atif-saleem-a5024200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 953 |
+| h-index | 18 |
+| Citations | 985 |
 | Publications | 33 |
 | CDR Focus | 12.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Jerguš Rybár"
-description: "Jerguš Rybár is a Senior Soil Carbon researcher at Technical University of Zvolen in SK. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.723040
+description: "Jerguš Rybár is a Senior Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.675245
 url: "/cdr-researcher-census/researchers/jergus-rybar-a5041933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jergus-rybar-a5041933/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technical University of Zvolen"
+    "name": "Technick\u00e1 univerzita vo Zvolene"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9162-3742",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jerguš Rybár**  
-Technical University of Zvolen ·  SK
+Technická univerzita vo Zvolene ·  SK
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 315 |
+| Citations | 323 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Norway spruce monoculture has lower resilience and carbon sequestration capacity than a more diverse broadleaved forest: A case study in Central Europe** (2025)
-   7 citations
+   8 citations
 
 2. **Norway Spruce Monoculture Has Lower Resilience and Carbon Sequestration Capacity than More Diverse Broadleaved Forest in Central Europe** (2025)
    0 citations · General CDR

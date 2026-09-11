@@ -1,7 +1,7 @@
 ---
 title: "Adebola R. Bamigboye"
 description: "Adebola R. Bamigboye is a Mid-career Soil Carbon researcher at Ekiti State University in NG. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.273184
+date: 2026-09-11T02:38:29.216600
 url: "/cdr-researcher-census/researchers/adebola-r-bamigboye-a5018412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 1,127 |
+| Citations | 1,186 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The global contribution of soil mosses to ecosystem services** (2023)
-   100 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 ## External Profiles
 

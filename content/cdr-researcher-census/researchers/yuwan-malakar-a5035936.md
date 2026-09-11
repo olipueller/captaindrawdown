@@ -1,7 +1,7 @@
 ---
 title: "Yuwan Malakar"
-description: "Yuwan Malakar is a Mid-career General CDR researcher at CSIRO in AU. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.361328
+description: "Yuwan Malakar is a Mid-career General CDR researcher at CSIRO in AU. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.302583
 url: "/cdr-researcher-census/researchers/yuwan-malakar-a5035936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 783 |
-| Publications | 45 |
-| CDR Focus | 13.3% |
+| Citations | 825 |
+| Publications | 46 |
+| CDR Focus | 15.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 2. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
    4 citations · General CDR

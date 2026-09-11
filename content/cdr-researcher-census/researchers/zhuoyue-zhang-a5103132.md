@@ -1,7 +1,7 @@
 ---
 title: "Zhuoyue Zhang"
-description: "Zhuoyue Zhang is a Mid-career Soil Carbon researcher at Zhejiang University of Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.298054
+description: "Zhuoyue Zhang is a Mid-career Soil Carbon researcher at Zhejiang University of Technology in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.249124
 url: "/cdr-researcher-census/researchers/zhuoyue-zhang-a5103132/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,000 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
+| Citations | 1,015 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Ocean CDR
 
 2. **Shifts in biotic and abiotic controls of soil organic carbon mineralization across vegetation types and soil depths in Luya Mountain** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Compositional shifts in arbuscular mycorrhizal fungal communities drive soil carbon sequestration in coastal salt marshes** (2026)
    0 citations · Soil Carbon

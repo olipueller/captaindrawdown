@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Zhang"
-description: "Jianwei Zhang is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849468
+description: "Jianwei Zhang is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.768666
 url: "/cdr-researcher-census/researchers/jianwei-zhang-a5101503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 247 |
+| h-index | 7 |
+| Citations | 274 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Water availability creates global thresholds in multidimensional soil biodiversity and functions** (2023)
-   112 citations
+   119 citations
 
 2. **Phosphorus addition increases microbial necromass by increasing N availability in China: A meta-analysis** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xuefei Yang"
 description: "Xuefei Yang is a Senior Biochar researcher at Changchun Observatory in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.541525
+date: 2026-09-11T02:38:29.496860
 url: "/cdr-researcher-census/researchers/xuefei-yang-a5102601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 464 |
+| Citations | 471 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Efficient removal of anionic Congo red by hickory-chip/peanut-shell biochar and Mg-Al hydrotalcite composites fabricated via modified co-precipitation-hydrothermal and buried carbon pyrolysis approach** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Facile synthesis of ball milled lanthanum oxide doped peanut shell biochar-diatomite composite and its promising removal of various organic pollutants** (2025)
    1 citations · Biochar

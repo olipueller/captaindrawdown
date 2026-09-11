@@ -1,7 +1,7 @@
 ---
 title: "Markus Millinger"
-description: "Markus Millinger is a Mid-career BECCS researcher at RISE Research Institutes of Sweden in SE. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.385663
+description: "Markus Millinger is a Mid-career BECCS researcher at RISE Research Institutes of Sweden in SE. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.334821
 url: "/cdr-researcher-census/researchers/markus-millinger-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 719 |
-| Publications | 66 |
-| CDR Focus | 6.1% |
+| h-index | 17 |
+| Citations | 744 |
+| Publications | 67 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system** (2022)
-   57 citations · BECCS
+   59 citations · BECCS
 
 2. **Diversity of biomass usage pathways to achieve emissions targets in the European energy system** (2025)
-   47 citations · BECCS
+   50 citations · BECCS
 
 3. **Biomass exclusion must be weighed against benefits of carbon supply in European energy system** (2025)
-   6 citations · BECCS
+   7 citations · BECCS
 
 4. **Accounting for carbon capture solvent cost and energy demand in the energy system** (2025)
    4 citations

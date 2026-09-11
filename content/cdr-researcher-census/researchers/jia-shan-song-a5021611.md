@@ -1,7 +1,7 @@
 ---
 title: "Jia-shan SONG"
 description: "Jia-shan SONG is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.084276
+date: 2026-09-11T02:38:30.049408
 url: "/cdr-researcher-census/researchers/jia-shan-song-a5021611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 172 |
+| Citations | 175 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |

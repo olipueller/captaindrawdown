@@ -1,7 +1,7 @@
 ---
 title: "Nuri Baek"
 description: "Nuri Baek is a Mid-career Biochar researcher at Chonnam National University in KR. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.988835
+date: 2026-09-11T02:38:29.906848
 url: "/cdr-researcher-census/researchers/nuri-baek-a5012278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 200 |
+| Citations | 215 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil salinity, fertility and carbon content, and rice yield of salt-affected paddy with different cultivation period in southwestern coastal area of South Korea** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Too much biochar is not better than nothing** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **Biochar loss from rice paddies: A bottomless pit for carbon sequestration?** (2026)
    0 citations · Biochar

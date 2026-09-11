@@ -1,7 +1,7 @@
 ---
 title: "Xuan Liu"
 description: "Xuan Liu is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.513833
+date: 2026-09-11T02:38:29.465452
 url: "/cdr-researcher-census/researchers/xuan-liu-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 496 |
+| Citations | 507 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

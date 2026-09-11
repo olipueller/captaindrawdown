@@ -1,7 +1,7 @@
 ---
 title: "Jeevan Mathew Tharayil"
 description: "Jeevan Mathew Tharayil is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.100846
+date: 2026-09-11T02:38:30.041060
 url: "/cdr-researcher-census/researchers/jeevan-mathew-tharayil-a5032590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 167 |
+| Citations | 177 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable waste valorisation: Novel Areca catechu L. husk biochar for anthraquinone dye adsorption - Characterization, modelling, kinetics, and isotherm studies** (2023)
-   55 citations · Biochar
+   57 citations · Biochar
 
 2. **Optimization of Malachite green adsorption using Palmyra Palm fibre-Derived Biochar: A central composite design approach** (2024)
    9 citations · Biochar

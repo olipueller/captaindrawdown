@@ -1,7 +1,7 @@
 ---
 title: "Michael Windisch"
-description: "Michael Windisch is a Mid-career General CDR researcher at ETH Zurich in CH. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.860620
+description: "Michael Windisch is a Mid-career General CDR researcher at ETH Zurich in CH. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.805734
 url: "/cdr-researcher-census/researchers/michael-windisch-a5062751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 241 |
-| Publications | 23 |
-| CDR Focus | 21.7% |
+| Citations | 255 |
+| Publications | 25 |
+| CDR Focus | 20.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -53,14 +53,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
    3 citations · General CDR
 
-2. **Extreme events and land use changes in the climate crisis** (2024)
+2. **Hysteresis and reversibility of agroecological droughts in response to carbon dioxide removal** (2025)
    2 citations · General CDR
 
-3. **Using regional ESM emulators to assess climate feedbacks to IAMs: The "FASTMIP" experimental protocol** (2024)
+3. **Extreme events and land use changes in the climate crisis** (2024)
    2 citations · General CDR
 
-4. **Hysteresis and reversibility of agroecological droughts in response to carbon dioxide removal** (2025)
-   1 citations · General CDR
+4. **Using regional ESM emulators to assess climate feedbacks to IAMs: The "FASTMIP" experimental protocol** (2024)
+   2 citations · General CDR
 
 5. **Defending climate targets under threat of forest carbon impermanence** (2023)
    0 citations · General CDR

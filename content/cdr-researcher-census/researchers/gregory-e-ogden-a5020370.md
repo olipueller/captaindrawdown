@@ -1,7 +1,7 @@
 ---
 title: "Gregory E. Ogden"
-description: "Gregory E. Ogden is a Senior Biochar researcher at University of Arizona in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.186809
+description: "Gregory E. Ogden is a Senior Biochar researcher at University of Arizona in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.163152
 url: "/cdr-researcher-census/researchers/gregory-e-ogden-a5020370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 |--------|-------|
 | h-index | 5 |
 | Citations | 145 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Valérie Jeanne‐Rose"
 description: "Valérie Jeanne‐Rose is a Senior Ocean CDR researcher at Université des Antilles in GP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.760244
+date: 2026-09-11T02:38:29.724704
 url: "/cdr-researcher-census/researchers/valerie-jeannerose-a5080199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 293 |
+| Citations | 296 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Conversion and valorization of tropical macroalgae** (2024)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

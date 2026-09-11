@@ -1,7 +1,7 @@
 ---
 title: "Yanlong Wang"
-description: "Yanlong Wang is a Senior Soil Carbon researcher at Shandong University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.995784
+description: "Yanlong Wang is a Senior Soil Carbon researcher at Shandong University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.906258
 url: "/cdr-researcher-census/researchers/yanlong-wang-a5057007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 198 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 7 |
+| Citations | 215 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Performance and mechanisms of reactive substrates in constructed wetlands: Emerging contaminant removal and greenhouse gas mitigation—A comprehensive review** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

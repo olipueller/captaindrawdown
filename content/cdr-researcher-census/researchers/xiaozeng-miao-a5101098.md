@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Miao"
-description: "Xiaozeng Miao is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.695367
+description: "Xiaozeng Miao is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.629976
 url: "/cdr-researcher-census/researchers/xiaozeng-miao-a5101098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 334 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 355 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

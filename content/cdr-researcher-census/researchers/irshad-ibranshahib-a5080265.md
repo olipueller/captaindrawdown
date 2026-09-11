@@ -1,7 +1,7 @@
 ---
 title: "Irshad Ibranshahib"
-description: "Irshad Ibranshahib is an Early-career Biochar researcher at Huazhong University of Science and Technology in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.056351
+description: "Irshad Ibranshahib is an Early-career Biochar researcher at Huazhong University of Science and Technology in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.995739
 url: "/cdr-researcher-census/researchers/irshad-ibranshahib-a5080265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 180 |
-| Publications | 1 |
-| CDR Focus | 100.0% |
+| Citations | 191 |
+| Publications | 2 |
+| CDR Focus | 50.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Potential Role of Biochar on Capturing Soil Nutrients, Carbon Sequestration and Managing Environmental Challenges: A Review** (2023)
-   184 citations · Biochar
+   191 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Biswabara Sahu"
-description: "Biswabara Sahu is a Mid-career Soil Carbon researcher at Siksha O Anusandhan University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.354288
+description: "Biswabara Sahu is a Mid-career Soil Carbon researcher at Indian Council for Research on International Economic Relations in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.304481
 url: "/cdr-researcher-census/researchers/biswabara-sahu-a5075526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/biswabara-sahu-a5075526/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Siksha O Anusandhan University"
+    "name": "Indian Council for Research on International Economic Relations"
   },
   "sameAs": "https://openalex.org/A5075526230"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Biswabara Sahu**  
-Siksha O Anusandhan University · 🇮🇳 IN
+Indian Council for Research on International Economic Relations · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 112 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| Citations | 117 |
+| Publications | 18 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

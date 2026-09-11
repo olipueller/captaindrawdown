@@ -1,7 +1,7 @@
 ---
 title: "Azeem Asghar"
-description: "Azeem Asghar is a Mid-career BECCS researcher at Government College University, Faisalabad in PK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.979888
+description: "Azeem Asghar is a Mid-career BECCS researcher at Government College University, Faisalabad in PK. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.944896
 url: "/cdr-researcher-census/researchers/azeem-asghar-a5085156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 203 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 207 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

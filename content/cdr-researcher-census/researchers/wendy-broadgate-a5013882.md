@@ -1,7 +1,7 @@
 ---
 title: "Wendy Broadgate"
-description: "Wendy Broadgate is a Senior General CDR researcher at Future Earth Secretariat in SE. With 44 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.079110
+description: "Wendy Broadgate is a Senior General CDR researcher at Future Earth Secretariat in SE. With 45 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.030987
 url: "/cdr-researcher-census/researchers/wendy-broadgate-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 7,938 |
-| Publications | 44 |
-| CDR Focus | 11.4% |
+| Citations | 8,206 |
+| Publications | 45 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Stockholm to Stockholm: Achieving a safe Earth requires goals that incorporate a just approach** (2021)
    17 citations · General CDR
 
 3. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 4. **Ten New Insights in Climate Science 2025** (2026)
    0 citations · General CDR

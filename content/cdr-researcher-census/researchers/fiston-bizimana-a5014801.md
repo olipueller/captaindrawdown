@@ -1,7 +1,7 @@
 ---
 title: "Fiston Bizimana"
-description: "Fiston Bizimana is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.785882
+description: "Fiston Bizimana is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.713419
 url: "/cdr-researcher-census/researchers/fiston-bizimana-a5014801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 280 |
-| Publications | 23 |
-| CDR Focus | 17.4% |
+| Citations | 302 |
+| Publications | 24 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cereal-Legume Mixed Residue Addition Increases Yield and Reduces Soil Greenhouse Gas Emissions from Fertilized Winter Wheat in the North China Plain** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Potential carbon sequestration promoted by subsoiling: Tracing the fate of exogenous glucose and priming effect in soil aggregates** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Wilfried Rickels"
-description: "Wilfried Rickels is a Senior General CDR researcher at Kiel Institute for the World Economy in DE. With 146 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.163433
+description: "Wilfried Rickels is a Senior General CDR researcher at Kiel Institute for the World Economy in DE. With 149 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.110889
 url: "/cdr-researcher-census/researchers/wilfried-rickels-a5020112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,190 |
-| Publications | 146 |
-| CDR Focus | 19.9% |
+| Citations | 2,280 |
+| Publications | 149 |
+| CDR Focus | 20.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   120 citations · DAC
+   121 citations · DAC
 
-2. **The need for local governance of global commons: The example of blue carbon ecosystems** (2022)
+2. **Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero** (2022)
    46 citations · General CDR
 
-3. **Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero** (2022)
-   45 citations · General CDR
+3. **The need for local governance of global commons: The example of blue carbon ecosystems** (2022)
+   46 citations · General CDR
 
 4. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
    23 citations · General CDR
@@ -66,19 +66,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · Ocean CDR
 
 6. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 7. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
-8. **Future Scenarios of Global Fisheries and Ocean Alkalinity Enhancement Under Socio‐Economic and Climate Pathways** (2025)
+8. **Temporary carbon dioxide removals to offset methane emissions** (2025)
+   6 citations · General CDR
+
+9. **Future Scenarios of Global Fisheries and Ocean Alkalinity Enhancement Under Socio‐Economic and Climate Pathways** (2025)
    5 citations · General CDR
 
-9. **Potential and goal conflicts in reverse auction design for bioenergy with carbon capture and storage (BECCS)** (2024)
+10. **Potential and goal conflicts in reverse auction design for bioenergy with carbon capture and storage (BECCS)** (2024)
    5 citations · BECCS
-
-10. **Temporary carbon dioxide removals to offset methane emissions** (2025)
-   4 citations · General CDR
 
 ## External Profiles
 

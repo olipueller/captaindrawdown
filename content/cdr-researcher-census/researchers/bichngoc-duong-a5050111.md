@@ -1,7 +1,7 @@
 ---
 title: "Bich‐Ngoc Duong"
 description: "Bich‐Ngoc Duong is a Mid-career Biochar researcher at Trường ĐH Nguyễn Tất Thành in VN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.181179
+date: 2026-09-11T02:38:30.100451
 url: "/cdr-researcher-census/researchers/bichngoc-duong-a5050111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 146 |
+| Citations | 160 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

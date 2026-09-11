@@ -1,7 +1,7 @@
 ---
 title: "J. M. S. Tomar"
-description: "J. M. S. Tomar is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.311885
+description: "J. M. S. Tomar is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.254885
 url: "/cdr-researcher-census/researchers/j-m-s-tomar-a5090965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 948 |
+| h-index | 20 |
+| Citations | 993 |
 | Publications | 59 |
 | CDR Focus | 13.6% |
 | Trajectory | Stable |
@@ -54,18 +54,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Tree species traits and soil biochemical properties drive carbon stability and temperature sensitivity of soil aggregates in agroforestry systems of subtropical northeast India** (2025)
    4 citations · Soil Carbon
 
-5. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
-   1 citations · Soil Carbon
+5. **Impact of slope gradient on tree biomass, carbon sequestration, and ecological functions in Rayagada District, Odisha, India** (2025)
+   2 citations · Soil Carbon
 
-6. **Impact of slope gradient on tree biomass, carbon sequestration, and ecological functions in Rayagada District, Odisha, India** (2025)
+6. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
    1 citations · Soil Carbon
 
 7. **CARBON FARMING - THE HEALING LUNGS OF FUTURE AGRICULTURE: A REVIEW** (2023)

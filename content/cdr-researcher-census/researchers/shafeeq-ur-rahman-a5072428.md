@@ -1,7 +1,7 @@
 ---
 title: "Shafeeq Ur Rahman"
-description: "Shafeeq Ur Rahman is a Senior Soil Carbon researcher at Shenzhen University in CN. With 103 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.133332
+description: "Shafeeq Ur Rahman is a Senior Soil Carbon researcher at Shenzhen University in CN. With 105 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.080924
 url: "/cdr-researcher-census/researchers/shafeeq-ur-rahman-a5072428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 27 |
-| Citations | 3,017 |
-| Publications | 103 |
-| CDR Focus | 7.8% |
+| h-index | 28 |
+| Citations | 3,176 |
+| Publications | 105 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   48 citations · General CDR
+   50 citations · General CDR
 
 2. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
    20 citations · Soil Carbon
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Estimating carbon stocks and biomass accumulation in three different agroforestry patterns in the semi-arid region of Pakistan** (2021)
    19 citations · General CDR
 
-4. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
+4. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
    15 citations · General CDR
 
-5. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
-   14 citations · General CDR
+5. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
+   15 citations · General CDR
 
 6. **Enhancing Soil and Atmospheric Carbon Regulation Through Bombax Ceiba-Based Agroforestry in Drylands** (2026)
    1 citations · Soil Carbon
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
    1 citations · Soil Carbon
 
-8. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
-   0 citations · Soil Carbon
+8. **Biomonitoring and bioremediating potential of commonly grown tree species against trace elements with seasonal and site allocation: a region-based study** (2025)
+   1 citations
 
-9. **Biomonitoring and bioremediating potential of commonly grown tree species against trace elements with seasonal and site allocation: a region-based study** (2025)
-   0 citations
+9. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

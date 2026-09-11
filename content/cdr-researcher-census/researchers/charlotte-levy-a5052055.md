@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Levy"
 description: "Charlotte Levy is a Mid-career General CDR researcher at Carbon180 in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.009343
+date: 2026-09-11T02:38:29.960995
 url: "/cdr-researcher-census/researchers/charlotte-levy-a5052055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 194 |
+| Citations | 201 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 33.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   42 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 2. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering

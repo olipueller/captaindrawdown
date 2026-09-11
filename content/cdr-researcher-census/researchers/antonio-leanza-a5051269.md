@@ -1,7 +1,7 @@
 ---
 title: "Antonio Leanza"
-description: "Antonio Leanza is a Mid-career Soil Carbon researcher at Accademia di Belle Arti di Lecce in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.150704
+description: "Antonio Leanza is a Mid-career Soil Carbon researcher at Accademia di Belle Arti di Lecce in IT. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.075702
 url: "/cdr-researcher-census/researchers/antonio-leanza-a5051269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 154 |
+| h-index | 9 |
+| Citations | 168 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

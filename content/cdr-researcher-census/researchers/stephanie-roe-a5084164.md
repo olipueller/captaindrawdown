@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Roe"
-description: "Stephanie Roe is a Mid-career General CDR researcher at WWF Tanzania in TZ. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.158949
+description: "Stephanie Roe is a Mid-career General CDR researcher at WWF Tanzania in TZ. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.105576
 url: "/cdr-researcher-census/researchers/stephanie-roe-a5084164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 2,275 |
+| h-index | 12 |
+| Citations | 2,382 |
 | Publications | 32 |
 | CDR Focus | 21.9% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Considering sustainability thresholds for BECCS in IPCC and biodiversity assessments** (2021)
-   129 citations · BECCS
+   131 citations · BECCS
 
 2. **Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits** (2024)
-   104 citations · General CDR
+   108 citations · General CDR
 
-3. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
-   12 citations · General CDR
+3. **Global and regional hydrological impacts of global forest expansion** (2024)
+   15 citations · General CDR
 
-4. **Global and regional hydrological impacts of global forest expansion** (2024)
-   12 citations · General CDR
+4. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
+   13 citations · General CDR
 
 5. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
    5 citations

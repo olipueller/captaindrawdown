@@ -1,7 +1,7 @@
 ---
 title: "D. Barman"
-description: "D. Barman is a Mid-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.477530
+description: "D. Barman is a Mid-career Soil Carbon researcher at Techno India University in IN. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.430819
 url: "/cdr-researcher-census/researchers/d-barman-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/d-barman-a5080410/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Central Research Institute for Jute and Allied Fibres"
+    "name": "Techno India University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7726-1530",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **D. Barman**  
-Central Research Institute for Jute and Allied Fibres · 🇮🇳 IN
+Techno India University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 549 |
+| Citations | 562 |
 | Publications | 71 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of 28 year old agroforestry systems on soil carbon dynamics in Eastern Himalayas** (2021)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Contribution of Mangrove Ecosystem Services to Local Livelihoods in the Indian Sundarbans** (2024)
-   23 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
    9 citations · Soil Carbon

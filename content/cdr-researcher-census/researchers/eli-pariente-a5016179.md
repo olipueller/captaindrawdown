@@ -1,7 +1,7 @@
 ---
 title: "Elí Pariente"
-description: "Elí Pariente is a Mid-career Soil Carbon researcher at National University Toribio Rodríguez de Mendoza in PE. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.331901
+description: "Elí Pariente is a Mid-career Soil Carbon researcher at National University Toribio Rodríguez de Mendoza in PE. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.257517
 url: "/cdr-researcher-census/researchers/eli-pariente-a5016179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 116 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| h-index | 6 |
+| Citations | 126 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

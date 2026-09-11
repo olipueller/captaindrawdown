@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
-description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher at University of the Philippines Los Baños in PH. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.587778
+description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.534603
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Maria Victoria Migo-Sumagang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of the Philippines Los Ba\u00f1os"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0695-4900",
     "https://openalex.org/A5048614269"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Maria Victoria Migo-Sumagang**  
-University of the Philippines Los Baños · 🇵🇭 PH
+**Maria Victoria Migo-Sumagang**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 419 |
-| Publications | 35 |
-| CDR Focus | 45.7% |
+| Citations | 434 |
+| Publications | 36 |
+| CDR Focus | 44.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Computing optimal carbon dioxide removal portfolios** (2022)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **A multi-period model for optimizing negative emission technology portfolios with economic and carbon value discount rates** (2023)
    27 citations · General CDR
@@ -69,10 +64,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · BECCS
 
 7. **P-graph and Monte Carlo simulation approach for sustainable and risk-managed CDR portfolios** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 8. **Multi-period Carbon Credit Trading Scheme Generation Using Graph-Theoretic Model: Managing Budget and Risk of Carbon Leakage** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 9. **Process integration technique for targeting carbon credit price subsidy** (2024)
    3 citations · General CDR

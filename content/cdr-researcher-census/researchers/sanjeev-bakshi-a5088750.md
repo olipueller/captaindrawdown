@@ -1,7 +1,7 @@
 ---
 title: "Sanjeev Bakshi"
-description: "Sanjeev Bakshi is a Senior Soil Carbon researcher at Diabetes Care and Research Foundation in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.691692
+description: "Sanjeev Bakshi is a Senior Soil Carbon researcher at Indira Gandhi National Tribal University in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.647973
 url: "/cdr-researcher-census/researchers/sanjeev-bakshi-a5088750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sanjeev-bakshi-a5088750/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Diabetes Care and Research Foundation"
+    "name": "Indira Gandhi National Tribal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0683-9179",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sanjeev Bakshi**  
-Diabetes Care and Research Foundation · 🇮🇳 IN
+Indira Gandhi National Tribal University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 337 |
+| Citations | 343 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Growing |

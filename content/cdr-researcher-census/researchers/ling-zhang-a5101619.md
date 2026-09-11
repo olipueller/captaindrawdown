@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhang"
 description: "Ling Zhang is a Mid-career Biochar researcher at Jiangxi Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.380186
+date: 2026-09-11T02:38:30.354953
 url: "/cdr-researcher-census/researchers/ling-zhang-a5101619/"
 layout: "researcher"
 hiddenInHomeList: true

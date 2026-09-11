@@ -1,7 +1,7 @@
 ---
 title: "Agnė Veršulienė"
-description: "Agnė Veršulienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.041307
+description: "Agnė Veršulienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.990733
 url: "/cdr-researcher-census/researchers/agne-versuliene-a5065073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 185 |
+| h-index | 9 |
+| Citations | 193 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biomass of Shoots and Roots of Multicomponent Grasslands and Their Impact on Soil Carbon Accumulation in Arenosol Rich in Stones** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Is it possible to enhance belowground carbon inputs to soil through variety selection? A Case Study in Winter Wheat Using a ¹³CO₂ Multiple-Pulse Labelling Approach** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "José Ángel Moreno-Cabezuelo"
-description: "José Ángel Moreno-Cabezuelo is a Mid-career BECCS researcher at Delaware State University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.858294
+description: "José Ángel Moreno-Cabezuelo is a Mid-career BECCS researcher at Delaware State University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.802749
 url: "/cdr-researcher-census/researchers/jose-angel-moreno-cabezuelo-a5009816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 242 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 8 |
+| Citations | 257 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Recent advances in engineering fast-growing cyanobacterial species for enhanced CO2 fixation** (2024)
-   28 citations · BECCS
+   29 citations · BECCS
 
 ## External Profiles
 

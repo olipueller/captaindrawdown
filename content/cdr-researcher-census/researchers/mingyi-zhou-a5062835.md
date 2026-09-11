@@ -1,7 +1,7 @@
 ---
 title: "Mingyi Zhou"
-description: "Mingyi Zhou is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.321958
+description: "Mingyi Zhou is an Early-career Soil Carbon researcher at Zhejiang University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.274203
 url: "/cdr-researcher-census/researchers/mingyi-zhou-a5062835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mingyi-zhou-a5062835/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5062835147"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Mingyi Zhou**  
-Shenyang Agricultural University · 🇨🇳 CN
+Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Early-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 118 |
-| Publications | 5 |
-| CDR Focus | 60.0% |
+| Citations | 123 |
+| Publications | 6 |
+| CDR Focus | 50.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A Review on Carbon Source and Sink in Arable Land Ecosystems** (2022)
-   56 citations · General CDR
+   57 citations · General CDR
 
 2. **Anthropogenic controls over soil organic carbon distribution from the cultivated lands in Northeast China** (2021)
    30 citations · Soil Carbon

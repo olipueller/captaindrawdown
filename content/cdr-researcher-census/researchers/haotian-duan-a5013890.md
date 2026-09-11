@@ -1,7 +1,7 @@
 ---
 title: "Haotian Duan"
 description: "Haotian Duan is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.289993
+date: 2026-09-11T02:38:30.225946
 url: "/cdr-researcher-census/researchers/haotian-duan-a5013890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
+| Citations | 132 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |

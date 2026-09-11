@@ -1,7 +1,7 @@
 ---
 title: "Ingred Suellen Carvalho Carregosa"
-description: "Ingred Suellen Carvalho Carregosa is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.787763
+description: "Ingred Suellen Carvalho Carregosa is a Mid-career BECCS researcher at Universidade Federal de Sergipe in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.737370
 url: "/cdr-researcher-census/researchers/ingred-suellen-carvalho-carregosa-a5085364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,27 +34,27 @@ Universidade Federal de Sergipe · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 279 |
+| Citations | 289 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Thermovalorization of acerola industrial waste by pyrolysis in a continuous rotary kiln reactor** (2021)
-   19 citations · Biochar
+1. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
+   19 citations · BECCS
 
-2. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   18 citations · BECCS
+2. **Thermovalorization of acerola industrial waste by pyrolysis in a continuous rotary kiln reactor** (2021)
+   19 citations · Biochar
 
 3. **Thermochemical Conversion of Aquatic Weed Biomass in a Rotary Kiln Reactor for Production of Bio-Based Derivatives** (2023)
    1 citations · Biochar

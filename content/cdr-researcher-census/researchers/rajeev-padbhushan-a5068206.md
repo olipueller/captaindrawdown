@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Padbhushan"
-description: "Rajeev Padbhushan is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 79 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.367143
+description: "Rajeev Padbhushan is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 82 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.308633
 url: "/cdr-researcher-census/researchers/rajeev-padbhushan-a5068206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 765 |
-| Publications | 79 |
-| CDR Focus | 7.6% |
+| Citations | 810 |
+| Publications | 82 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   52 citations · General CDR
+   54 citations · General CDR
 
 2. **Hedge and Alder-Based Agroforestry Systems: Potential Interventions to Carbon Sequestration and Better Crop Productivity in Indian Sub-Himalayas** (2022)
-   23 citations · General CDR
+   27 citations · General CDR
 
 3. **Addition of biofertilizers with crop residue in conservation agriculture improves soil carbon sequestration: a long-term field study** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 4. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
-5. **Novel Potassium Management Strategies for Improvement of Soil Health** (2022)
+5. **Soil Carbon Sequestration and Yield Sustainability in the Lowland Terai Region of India** (2025)
    2 citations · Soil Carbon
 
-6. **Soil Carbon Sequestration and Yield Sustainability in the Lowland Terai Region of India** (2025)
-   1 citations · Soil Carbon
+6. **Novel Potassium Management Strategies for Improvement of Soil Health** (2022)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

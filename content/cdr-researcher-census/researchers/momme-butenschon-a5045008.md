@@ -1,7 +1,7 @@
 ---
 title: "Momme Butenschön"
-description: "Momme Butenschön is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 141 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.118864
+description: "Momme Butenschön is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 142 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.069390
 url: "/cdr-researcher-census/researchers/momme-butenschon-a5045008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 31 |
-| Citations | 3,566 |
-| Publications | 141 |
-| CDR Focus | 7.1% |
+| Citations | 3,627 |
+| Publications | 142 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

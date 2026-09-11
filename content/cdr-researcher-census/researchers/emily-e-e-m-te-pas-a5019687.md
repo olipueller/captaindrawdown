@@ -1,7 +1,7 @@
 ---
 title: "Emily E. E. M. te Pas"
 description: "Emily E. E. M. te Pas is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.402494
+date: 2026-09-11T02:38:30.335791
 url: "/cdr-researcher-census/researchers/emily-e-e-m-te-pas-a5019687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 103 |
+| Citations | 110 |
 | Publications | 4 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Assessment of the enhanced weathering potential of different silicate minerals to improve soil quality and sequester CO2** (2023)
-   88 citations · Enhanced Weathering
+   93 citations · Enhanced Weathering
 
 2. **Accounting for retarded weathering products in comparing methods for quantifying carbon dioxide removal in a short-term enhanced weathering study** (2025)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 3. **Enhanced weathering and biochar co-deployment boosts CO2 sequestration through changing soil properties** (2026)
    2 citations · Biochar

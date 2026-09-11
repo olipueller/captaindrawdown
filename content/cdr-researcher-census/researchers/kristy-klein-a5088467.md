@@ -1,7 +1,7 @@
 ---
 title: "Kristy Klein"
 description: "Kristy Klein is a Mid-career Soil Carbon researcher at VA Boston Healthcare System in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048067
+date: 2026-09-11T02:38:30.014376
 url: "/cdr-researcher-census/researchers/kristy-klein-a5088467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 183 |
+| Citations | 186 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

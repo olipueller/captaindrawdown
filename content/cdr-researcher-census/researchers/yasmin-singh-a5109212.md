@@ -1,7 +1,7 @@
 ---
 title: "Yasmin Singh"
-description: "Yasmin Singh is a Senior General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.274949
+description: "Yasmin Singh is a Senior General CDR researcher at Osmania University in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.253928
 url: "/cdr-researcher-census/researchers/yasmin-singh-a5109212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yasmin Singh",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yasmin-singh-a5109212/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Osmania University"
+  },
   "sameAs": "https://openalex.org/A5109212177"
 }
 </script>
 
 ## Profile
 
-**Yasmin Singh**
+**Yasmin Singh**  
+Osmania University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Oak Forests in Arunachal Pradesh Vs Western Himalayas of India: Ecological Importance, Biodiversity, and Climate Change Impacts** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

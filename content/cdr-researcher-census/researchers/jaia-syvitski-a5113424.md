@@ -1,7 +1,7 @@
 ---
 title: "Jaia Syvitski"
-description: "Jaia Syvitski is a Mid-career General CDR researcher at Institute of Arctic and Alpine Research in US. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.646405
+description: "Jaia Syvitski is a Mid-career General CDR researcher at Institute of Arctic and Alpine Research in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.564974
 url: "/cdr-researcher-census/researchers/jaia-syvitski-a5113424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 368 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 405 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

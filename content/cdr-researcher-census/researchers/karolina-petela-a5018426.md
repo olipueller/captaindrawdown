@@ -1,7 +1,7 @@
 ---
 title: "Karolina Petela"
-description: "Karolina Petela is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.029400
+description: "Karolina Petela is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.977112
 url: "/cdr-researcher-census/researchers/karolina-petela-a5018426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 188 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 197 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

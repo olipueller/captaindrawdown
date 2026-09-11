@@ -1,7 +1,7 @@
 ---
 title: "Katerina Georgiou"
-description: "Katerina Georgiou is a Senior Soil Carbon researcher at Oregon State University in US. With 125 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092188
+description: "Katerina Georgiou is a Senior Soil Carbon researcher at Oregon State University in US. With 131 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.041240
 url: "/cdr-researcher-census/researchers/katerina-georgiou-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 33 |
-| Citations | 5,715 |
-| Publications | 125 |
-| CDR Focus | 8.0% |
+| Citations | 6,069 |
+| Publications | 131 |
+| CDR Focus | 7.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global stocks and capacity of mineral-associated soil organic carbon** (2022)
-   883 citations · Soil Carbon
+   921 citations · Soil Carbon
 
 2. **Improved global-scale predictions of soil carbon stocks with Millennial Version 2** (2021)
-   165 citations · Soil Carbon
+   167 citations · Soil Carbon
 
 3. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   121 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 4. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 5. **Model uncertainty obscures major driver of soil carbon** (2024)
    23 citations

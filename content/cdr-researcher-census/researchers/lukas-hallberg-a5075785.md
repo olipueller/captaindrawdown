@@ -1,7 +1,7 @@
 ---
 title: "Lukas Hallberg"
-description: "Lukas Hallberg is a Mid-career Soil Carbon researcher at École Polytechnique Fédérale de Lausanne in CH. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.893607
+description: "Lukas Hallberg is a Mid-career Soil Carbon researcher at École Polytechnique Fédérale de Lausanne in CH. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.808628
 url: "/cdr-researcher-census/researchers/lukas-hallberg-a5075785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 228 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 254 |
+| Publications | 39 |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations
 
 2. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Busy beaver capture carbon? The role of beaver-engineered wetlands in enhancing soil carbon sequestration** (2026)
    0 citations · Soil Carbon

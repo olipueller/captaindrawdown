@@ -1,7 +1,7 @@
 ---
 title: "Sebastian J. E. Krause"
-description: "Sebastian J. E. Krause is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.746180
+description: "Sebastian J. E. Krause is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.677507
 url: "/cdr-researcher-census/researchers/sebastian-j-e-krause-a5004001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sebastian-j-e-krause-a5004001/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Planetary Science Institute"
+    "name": "University of California, Santa Barbara"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5541-3337",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sebastian J. E. Krause**  
-Planetary Science Institute · 🇺🇸 US
+University of California, Santa Barbara · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 300 |
+| h-index | 9 |
+| Citations | 321 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Stable |

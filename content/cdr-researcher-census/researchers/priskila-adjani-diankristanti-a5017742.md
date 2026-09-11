@@ -1,7 +1,7 @@
 ---
 title: "Priskila Adjani Diankristanti"
 description: "Priskila Adjani Diankristanti is a Mid-career DAC researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.028992
+date: 2026-09-11T02:38:29.960106
 url: "/cdr-researcher-census/researchers/priskila-adjani-diankristanti-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 188 |
+| Citations | 201 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Unlocking the potential of microalgae as sustainable bioresources from up to downstream processing: A critical review** (2024)
-   52 citations · BECCS
+   53 citations · BECCS
 
 2. **Direct air capture using halophilic Cyanobacterium aponinum PCC10605 under illumination of light-emitting diodes in marine environment** (2024)
-   6 citations
+   7 citations
 
 3. **Navigating microalgae under dynamic CO2 for waste-to-energy conversion** (2025)
    4 citations

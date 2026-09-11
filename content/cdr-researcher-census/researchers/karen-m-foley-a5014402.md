@@ -1,7 +1,7 @@
 ---
 title: "Karen M. Foley"
 description: "Karen M. Foley is a Mid-career Soil Carbon researcher at Utah State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.412718
+date: 2026-09-11T02:38:30.339389
 url: "/cdr-researcher-census/researchers/karen-m-foley-a5014402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 102 |
+| Citations | 110 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land use drives the distribution of free, physically protected, and chemically protected soil organic carbon storage at a global scale** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

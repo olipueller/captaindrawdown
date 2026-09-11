@@ -1,7 +1,7 @@
 ---
 title: "Idowu Iyabo Olateju"
-description: "Idowu Iyabo Olateju is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.419994
+description: "Idowu Iyabo Olateju is a Mid-career Biochar researcher at Afe Babalola University in NG. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.378353
 url: "/cdr-researcher-census/researchers/idowu-iyabo-olateju-a5014698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Idowu Iyabo Olateju",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/idowu-iyabo-olateju-a5014698/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Afe Babalola University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-8118-781X",
     "https://openalex.org/A5014698534"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Idowu Iyabo Olateju**
+**Idowu Iyabo Olateju**  
+Afe Babalola University ·  NG
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 100 |
+| Citations | 103 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

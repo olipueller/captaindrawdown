@@ -1,7 +1,7 @@
 ---
 title: "Mak Đukan"
-description: "Mak Đukan is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.898134
+description: "Mak Đukan is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.831050
 url: "/cdr-researcher-census/researchers/mak-ukan-a5013904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,24 +34,24 @@ Forschungszentrum Jülich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 226 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| h-index | 9 |
+| Citations | 244 |
+| Publications | 38 |
+| CDR Focus | 13.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 2. **Global strategic deployment of Direct Air Capture technologies** (2026)
    0 citations · DAC

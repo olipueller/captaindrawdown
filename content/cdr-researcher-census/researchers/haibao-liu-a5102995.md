@@ -1,7 +1,7 @@
 ---
 title: "Haibao Liu"
-description: "Haibao Liu is a Senior Biochar researcher at Ludong University in CN. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.344533
+description: "Haibao Liu is a Senior Biochar researcher at Qingdao University of Technology in CN. With 29 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.294787
 url: "/cdr-researcher-census/researchers/haibao-liu-a5102995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haibao-liu-a5102995/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ludong University"
+    "name": "Qingdao University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1145-3470",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haibao Liu**  
-Ludong University · 🇨🇳 CN
+Qingdao University of Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 833 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| h-index | 18 |
+| Citations | 855 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

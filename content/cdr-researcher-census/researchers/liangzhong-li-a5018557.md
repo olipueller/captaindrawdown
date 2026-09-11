@@ -1,7 +1,7 @@
 ---
 title: "Liangzhong Li"
 description: "Liangzhong Li is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.340769
+date: 2026-09-11T02:38:30.203443
 url: "/cdr-researcher-census/researchers/liangzhong-li-a5018557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 114 |
+| Citations | 136 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

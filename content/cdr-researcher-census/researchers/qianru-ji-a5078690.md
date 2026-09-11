@@ -1,7 +1,7 @@
 ---
 title: "Qianru Ji"
 description: "Qianru Ji is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.284603
+date: 2026-09-11T02:38:30.252994
 url: "/cdr-researcher-census/researchers/qianru-ji-a5078690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 125 |
+| Citations | 127 |
 | Publications | 11 |
 | CDR Focus | 54.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Farmland Afforestation by Poplar Shelterbelts Increased Soil Inorganic Carbon but Showed Ambiguous Effects on Soil Organic Carbon as Revealed by Carbon Isotopic Composition: Inter-Fraction and Inter-Site Differences in Northern China** (2025)
    5 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
    2 citations
 
-5. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+5. **Rhizosphere affects the accrual of aggregate-associated soil organic carbon and its fractions across four dominant tree species in Northeast China** (2025)
    2 citations · Soil Carbon
 
-6. **Rhizosphere affects the accrual of aggregate-associated soil organic carbon and its fractions across four dominant tree species in Northeast China** (2025)
-   1 citations · Soil Carbon
+6. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+   2 citations · Soil Carbon
 
 7. **Diverse Litter and Suitable Tree Species Increased Activation Energy for Soil Respiration in Black Soils in China** (2025)
    0 citations · Soil Carbon

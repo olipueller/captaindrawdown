@@ -1,7 +1,7 @@
 ---
 title: "Siqi Wen"
 description: "Siqi Wen is a Mid-career Biochar researcher at Guangxi Medical University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540192
+date: 2026-09-11T02:38:29.480527
 url: "/cdr-researcher-census/researchers/siqi-wen-a5050759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 466 |
+| Citations | 490 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

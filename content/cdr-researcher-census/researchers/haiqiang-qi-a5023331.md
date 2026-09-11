@@ -1,7 +1,7 @@
 ---
 title: "Haiqiang Qi"
 description: "Haiqiang Qi is a Mid-career Biochar researcher at University of Jinan in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.366765
+date: 2026-09-11T02:38:29.321119
 url: "/cdr-researcher-census/researchers/haiqiang-qi-a5023331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 767 |
+| Citations | 781 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cu–Fe–FeC3@nitrogen-doped biochar microsphere catalyst derived from CuFe2O4@chitosan for the efficient removal of amoxicillin through the heterogeneous electro-Fenton process** (2022)
-   66 citations · Biochar
+   68 citations · Biochar
 
 ## External Profiles
 

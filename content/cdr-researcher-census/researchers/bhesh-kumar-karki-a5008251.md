@@ -1,7 +1,7 @@
 ---
 title: "Bhesh Kumar Karki"
-description: "Bhesh Kumar Karki is a Mid-career Biochar researcher at Tribhuvan University in NP. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075253
+description: "Bhesh Kumar Karki is a Mid-career Biochar researcher at Tribhuvan University in NP. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.976707
 url: "/cdr-researcher-census/researchers/bhesh-kumar-karki-a5008251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 174 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| h-index | 9 |
+| Citations | 197 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Amended biochar in constructed wetlands: Roles, challenges, and future directions removing pharmaceuticals and personal care products** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Identifying appropriate low-cost adsorbents from organic waste-derived modified biochars for the removal of pharmaceuticals, personal care products, and residual nutrients in engineered natural systems** (2025)
    4 citations · Biochar

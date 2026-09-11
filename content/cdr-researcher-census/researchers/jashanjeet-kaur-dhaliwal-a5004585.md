@@ -1,7 +1,7 @@
 ---
 title: "Jashanjeet Kaur Dhaliwal"
-description: "Jashanjeet Kaur Dhaliwal is a Senior Soil Carbon researcher at University of Tennessee at Knoxville in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.782904
+description: "Jashanjeet Kaur Dhaliwal is a Senior Soil Carbon researcher at University of Tennessee Health Science Center in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.722798
 url: "/cdr-researcher-census/researchers/jashanjeet-kaur-dhaliwal-a5004585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jashanjeet-kaur-dhaliwal-a5004585/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Tennessee at Knoxville"
+    "name": "University of Tennessee Health Science Center"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3527-033X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jashanjeet Kaur Dhaliwal**  
-University of Tennessee at Knoxville · 🇺🇸 US
+University of Tennessee Health Science Center · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 281 |
-| Publications | 21 |
-| CDR Focus | 14.3% |
+| h-index | 10 |
+| Citations | 297 |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Long‐term cover cropping and nitrogen fertilization impacts on net global warming potential of continuous no‐till cotton cropping system** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

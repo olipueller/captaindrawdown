@@ -1,7 +1,7 @@
 ---
 title: "David Lefebvre"
-description: "David Lefebvre is a Mid-career Biochar researcher at University of British Columbia in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.416165
+description: "David Lefebvre is a Mid-career Biochar researcher. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.364078
 url: "/cdr-researcher-census/researchers/david-lefebvre-a5079413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "David Lefebvre",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-lefebvre-a5079413/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "University of British Columbia"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-0281-8781",
     "https://openalex.org/A5079413902"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**David Lefebvre**  
-University of British Columbia · 🇨🇦 CA
+**David Lefebvre**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 652 |
-| Publications | 17 |
-| CDR Focus | 17.6% |
+| Citations | 675 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biomass residue to carbon dioxide removal: quantifying the global impact of biochar** (2023)
-   101 citations · Biochar
+   103 citations · Biochar
 
 2. **Maximizing Biochar Climate Change Mitigation Impact Through Optimized Logistics** (2025)
    0 citations · Biochar

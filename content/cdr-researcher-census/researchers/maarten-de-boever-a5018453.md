@@ -1,7 +1,7 @@
 ---
 title: "Maarten De Boever"
-description: "Maarten De Boever is a Senior Soil Carbon researcher at Instituut voor Landbouw en Visserijonderzoek in BE. With 54 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.755734
+description: "Maarten De Boever is a Senior Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 56 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.705353
 url: "/cdr-researcher-census/researchers/maarten-de-boever-a5018453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/maarten-de-boever-a5018453/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituut voor Landbouw en Visserijonderzoek"
+    "name": "Vlaams Instituut voor Biotechnologie"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9352-0475",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Maarten De Boever**  
-Instituut voor Landbouw en Visserijonderzoek · 🇧🇪 BE
+Vlaams Instituut voor Biotechnologie · 🇧🇪 BE
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 295 |
-| Publications | 54 |
-| CDR Focus | 5.6% |
+| Citations | 306 |
+| Publications | 56 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   74 citations · General CDR
+   75 citations · General CDR
 
 2. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **D7.2. MANAGEMENT PRACTICES GUIDELINES MANUAL** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Peng Tian"
 description: "Peng Tian is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225604
+date: 2026-09-11T02:38:29.172216
 url: "/cdr-researcher-census/researchers/peng-tian-a5011450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,430 |
+| Citations | 1,479 |
 | Publications | 46 |
 | CDR Focus | 10.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
+1. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
    30 citations · Soil Carbon
 
-2. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   28 citations · Soil Carbon
+2. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
+   30 citations · Soil Carbon
 
 3. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   17 citations
+   18 citations
 
 4. **Greater influences of nitrogen addition on priming effect in forest subsoil than topsoil regardless of incubation warming** (2024)
-   15 citations
+   16 citations
 
 5. **Carbon and nitrogen addition-derived enzyme activities in topsoil but nitrogen availability in subsoil controls the response of soil organic carbon decomposition to warming** (2024)
    6 citations · Soil Carbon
 
 6. **Mycorrhiza‐dependent drivers of the positive rhizosphere effects on the temperature sensitivity of soil microbial respiration in subtropical forests** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 7. **Nitrogen fertilization induces microbial carbon limitation in subtropical soils: new evidence from microbial necromass decomposition** (2025)
    0 citations · Soil Carbon

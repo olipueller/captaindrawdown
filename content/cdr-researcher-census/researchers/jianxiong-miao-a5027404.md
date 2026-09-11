@@ -1,7 +1,7 @@
 ---
 title: "Jianxiong Miao"
-description: "Jianxiong Miao is a Mid-career Biochar researcher at Changzhi University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931233
+description: "Jianxiong Miao is a Mid-career Biochar researcher at Changzhi University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.849867
 url: "/cdr-researcher-census/researchers/jianxiong-miao-a5027404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 214 |
+| h-index | 6 |
+| Citations | 236 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-zeolite modified super sulphate cement as a high-performance, sustainable and high-efficiency CO₂ sequestration cementitious material** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rahmatullah Hashimi"
-description: "Rahmatullah Hashimi is a Mid-career Soil Carbon researcher at The University of Texas at El Paso in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.624846
+description: "Rahmatullah Hashimi is a Mid-career Soil Carbon researcher at The University of Texas at El Paso in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.559252
 url: "/cdr-researcher-census/researchers/rahmatullah-hashimi-a5042532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 386 |
-| Publications | 28 |
-| CDR Focus | 10.7% |
+| Citations | 410 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of no-tillage, mulching, drip irrigation, and nitrogen fertilization on greenhouse gas emissions, soil carbon sequestration, and crop yields in dryland agroecosystems: A meta-analysis** (2026)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Enhancing agroecosystem sustainability: Integrative soil health strategies in regenerative organic soybean production on Andosol in Japan** (2024)
-   5 citations
+   7 citations
 
 4. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
-   5 citations · Biochar
+   7 citations · Biochar
 
 5. **No‐Tillage History and Residue Application Methods Regulate Net Carbon Balance via Contrasting Priming Responses in Andosols** (2026)
-   0 citations
+   1 citations
+
+6. **Tillage, cover crop, and biochar affect crop productivity and soil carbon on Andisols** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

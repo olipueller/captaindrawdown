@@ -1,7 +1,7 @@
 ---
 title: "Laurine D. W. Burdorf"
-description: "Laurine D. W. Burdorf is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.301462
+description: "Laurine D. W. Burdorf is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.250835
 url: "/cdr-researcher-census/researchers/laurine-d-w-burdorf-a5074568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 983 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 1,007 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Chuxin Zhu"
-description: "Chuxin Zhu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.290692
+description: "Chuxin Zhu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.237766
 url: "/cdr-researcher-census/researchers/chuxin-zhu-a5091328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 130 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Vertical Patterns and Influencing Factors of Soil Stoichiometry on Near-Naturally Restored Lands: A Case Study from the Loess Plateau, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
-description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 238 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.074713
+description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 239 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.027190
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 58 |
-| Citations | 9,667 |
-| Publications | 238 |
-| CDR Focus | 8.0% |
+| h-index | 59 |
+| Citations | 9,837 |
+| Publications | 239 |
+| CDR Focus | 8.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   134 citations
+   146 citations
 
-2. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
+2. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
    73 citations · Enhanced Weathering
 
-3. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   71 citations · Enhanced Weathering
+3. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
+   73 citations · Enhanced Weathering
 
 4. **Challenges and opportunities in scaling enhanced weathering for carbon dioxide removal** (2025)
-   15 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 5. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering

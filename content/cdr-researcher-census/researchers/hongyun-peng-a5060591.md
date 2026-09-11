@@ -1,7 +1,7 @@
 ---
 title: "Hongyun Peng"
-description: "Hongyun Peng is a Senior Soil Carbon researcher at Zhejiang University in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.261259
+description: "Hongyun Peng is a Senior Soil Carbon researcher at Zhejiang University in CN. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.209556
 url: "/cdr-researcher-census/researchers/hongyun-peng-a5060591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,189 |
+| h-index | 21 |
+| Citations | 1,225 |
 | Publications | 77 |
-| CDR Focus | 6.5% |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

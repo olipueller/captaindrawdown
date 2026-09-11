@@ -1,7 +1,7 @@
 ---
 title: "Nicholas T. Girkin"
-description: "Nicholas T. Girkin is a Senior Soil Carbon researcher at University of Nottingham in GB. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.199063
+description: "Nicholas T. Girkin is a Senior Soil Carbon researcher at University of Nottingham in GB. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.139516
 url: "/cdr-researcher-census/researchers/nicholas-t-girkin-a5017414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,685 |
-| Publications | 65 |
-| CDR Focus | 7.7% |
+| Citations | 1,828 |
+| Publications | 68 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long‐term zero‐tillage enhances the protection of soil carbon in tropical agriculture** (2021)
-   95 citations · Soil Carbon
+   98 citations · Soil Carbon
 
 2. **Missing the input: the underrepresentation of plant physiology in global soil carbon research** (2025)
    5 citations · Soil Carbon
 
-3. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
+3. **Playing dirty: How soil legacies shape invasive plant dominance and community dynamics** (2025)
+   3 citations
+
+4. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
    2 citations · Soil Carbon
 
-4. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
+5. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
    2 citations
-
-5. **Playing dirty: How soil legacies shape invasive plant dominance and community dynamics** (2025)
-   1 citations
 
 6. **Assessing Peat Surface Motion Using Interferometric Synthetic Aperture Radar (Insar) in the Great Fen Area of Cambridgeshire, UK** (2025)
    1 citations · Soil Carbon

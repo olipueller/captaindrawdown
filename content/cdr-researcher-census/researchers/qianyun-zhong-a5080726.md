@@ -1,7 +1,7 @@
 ---
 title: "Qianyun Zhong"
-description: "Qianyun Zhong is a Mid-career Biochar researcher at Beijing Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.397117
+description: "Qianyun Zhong is a Mid-career Biochar researcher at Beijing Normal-Hong Kong Baptist University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.342261
 url: "/cdr-researcher-census/researchers/qianyun-zhong-a5080726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qianyun-zhong-a5080726/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Normal University"
+    "name": "Beijing Normal-Hong Kong Baptist University"
   },
   "sameAs": "https://openalex.org/A5080726007"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qianyun Zhong**  
-Beijing Normal University · 🇨🇳 CN
+Beijing Normal-Hong Kong Baptist University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 695 |
+| Citations | 724 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

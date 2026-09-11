@@ -1,7 +1,7 @@
 ---
 title: "Y. Elaouzy"
-description: "Y. Elaouzy is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.497889
+description: "Y. Elaouzy is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.438231
 url: "/cdr-researcher-census/researchers/y-elaouzy-a5004864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 518 |
+| h-index | 11 |
+| Citations | 549 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbon capture, utilization and storage in buildings: Analysis of performance, social acceptance, policy measures, and the role of artificial intelligence** (2025)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios** (2025)
-   6 citations · DAC
+   7 citations · DAC
 
 3. **Scalable room temperature aqueous assembly of high CO2 capture performing NbOFFIVE-1-Ni MOF via NiNbOF5·6H2O using DoE-driven optimized synthesis** (2026)
-   0 citations
+   2 citations
 
 4. **Integration of direct air capture with solar tower and chimney power plants: energy, economic and carbon assessments** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 5. **Techno-Economic Evaluation of Direct Air Capture Technology Integrated into Buildings Considering Different Conditions** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Manish Ram"
-description: "Manish Ram is a Mid-career General CDR researcher at Lappeenranta University of Technology in FI. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.118154
+description: "Manish Ram is a Senior General CDR researcher at Lappeenranta University of Technology in FI. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.066448
 url: "/cdr-researcher-census/researchers/manish-ram-a5022314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Manish Ram**  
 Lappeenranta University of Technology ·  FI
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 3,608 |
+| h-index | 20 |
+| Citations | 3,754 |
 | Publications | 34 |
 | CDR Focus | 8.8% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the History and Future of 100% Renewable Energy Systems Research** (2022)
-   564 citations · General CDR
+   582 citations · General CDR
 
 2. **Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals** (2022)
-   139 citations · DAC
+   142 citations · DAC
 
 3. **Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios** (2022)
-   103 citations · DAC
+   106 citations · DAC
 
 ## External Profiles
 

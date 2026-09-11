@@ -1,7 +1,7 @@
 ---
 title: "Xiting Zhang"
-description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Leshan Normal University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.481560
+description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Global Strategy Group in US. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.451924
 url: "/cdr-researcher-census/researchers/xiting-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiting-zhang-a5103025/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leshan Normal University"
+    "name": "Global Strategy Group"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5824-7773",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiting Zhang**  
-Leshan Normal University · 🇨🇳 CN
+Global Strategy Group · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 543 |
-| Publications | 42 |
-| CDR Focus | 16.7% |
+| h-index | 13 |
+| Citations | 529 |
+| Publications | 41 |
+| CDR Focus | 17.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 3. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
-4. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
+4. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
    3 citations · Soil Carbon
 
-5. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
-   2 citations · Soil Carbon
+5. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
+   3 citations · Soil Carbon
 
-6. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   1 citations · Soil Carbon
+6. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+   2 citations · Soil Carbon
 
 7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon

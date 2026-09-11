@@ -1,7 +1,7 @@
 ---
 title: "Kamal Pandey"
-description: "Kamal Pandey is a Mid-career Biochar researcher at Kumaun University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.593142
+description: "Kamal Pandey is a Mid-career Biochar researcher at Kumaun University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.544361
 url: "/cdr-researcher-census/researchers/kamal-pandey-a5063406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 415 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 424 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Emerging Trends of Bioelectricity Production Using Biomass Derived Biochar: Bibliometric Analysis, Research Progress and Technoeconomic Assessment** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

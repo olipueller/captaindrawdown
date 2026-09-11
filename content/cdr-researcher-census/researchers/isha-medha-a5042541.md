@@ -1,7 +1,7 @@
 ---
 title: "Isha Medha"
-description: "Isha Medha is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.516298
+description: "Isha Medha is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.462535
 url: "/cdr-researcher-census/researchers/isha-medha-a5042541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 493 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 511 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Development of Rice Straw-derived Biochar-Bentonite Composite and its Application for in situ Sequestration of Ammonium and Phosphate Ions in the Degraded Mine Soil** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

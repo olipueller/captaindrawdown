@@ -1,7 +1,7 @@
 ---
 title: "Yakun Zhu"
-description: "Yakun Zhu is a Senior Soil Carbon researcher at Ohio State University in US. With 76 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.162653
+description: "Yakun Zhu is a Senior Soil Carbon researcher at Ohio State University in US. With 78 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.111805
 url: "/cdr-researcher-census/researchers/yakun-zhu-a5076534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,208 |
-| Publications | 76 |
-| CDR Focus | 6.6% |
+| Citations | 2,265 |
+| Publications | 78 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global spatially explicit carbon emissions from land-use change over the past six decades (1961–2020)** (2024)
-   79 citations · General CDR
+   82 citations · General CDR
 
 2. **Carbon sequestration in soil and biomass under native and non-native mangrove ecosystems** (2022)
    31 citations · Soil Carbon
 
 3. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   24 citations · General CDR
+   27 citations · General CDR
 
 4. **The climate mitigation of global forestation: Constrained by land availability and policy** (2026)
    0 citations · General CDR

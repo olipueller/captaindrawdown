@@ -1,7 +1,7 @@
 ---
 title: "Cheng-Lin Yang"
-description: "Cheng-Lin Yang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.725476
+description: "Cheng-Lin Yang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.678585
 url: "/cdr-researcher-census/researchers/cheng-lin-yang-a5111171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 313 |
+| h-index | 10 |
+| Citations | 321 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

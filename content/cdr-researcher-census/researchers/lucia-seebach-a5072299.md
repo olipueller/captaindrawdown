@@ -1,7 +1,7 @@
 ---
 title: "Lucia Seebach"
-description: "Lucia Seebach is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783393
+description: "Lucia Seebach is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.739176
 url: "/cdr-researcher-census/researchers/lucia-seebach-a5072299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 281 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 289 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

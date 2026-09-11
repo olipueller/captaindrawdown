@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
-description: "Jing Zhang is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306255
+description: "Jing Zhang is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.250938
 url: "/cdr-researcher-census/researchers/jing-zhang-a5072351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 966 |
+| h-index | 18 |
+| Citations | 1,007 |
 | Publications | 42 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    97 citations · Soil Carbon
 
 2. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   81 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 3. **Accumulation of glomalin-related soil protein benefits to soil carbon sequestration with tropical coastal forest restoration** (2021)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Heiko Prasse"
 description: "Heiko Prasse is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.150506
+date: 2026-09-11T02:38:29.100035
 url: "/cdr-researcher-census/researchers/heiko-prasse-a5022958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 2,459 |
+| Citations | 2,526 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
-| Trajectory | Stable |
+| CDR Focus | 5.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon fluxes controlled by land management and disturbances at a cluster of long-term ecosystem monitoring sites in Central Europe** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 2. **Carbon Fluxes Controlled by Land Management and Disturbances at a Cluster of Long-Term Ecosystem Monitoring Sites in Central Europe** (2024)
    0 citations · Soil Carbon

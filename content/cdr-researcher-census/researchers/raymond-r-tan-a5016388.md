@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
-description: "Raymond R. Tan is an Eminent General CDR researcher at Hefei University of Technology in CN. With 648 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.066530
+description: "Raymond R. Tan is an Eminent General CDR researcher at La Salle University in US. With 649 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.019594
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/raymond-r-tan-a5016388/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hefei University of Technology"
+    "name": "La Salle University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9872-6066",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Raymond R. Tan**  
-Hefei University of Technology · 🇨🇳 CN
+La Salle University · 🇺🇸 US
 
 **Career Stage:** Eminent
 
@@ -43,8 +43,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 66 |
-| Citations | 18,565 |
-| Publications | 648 |
+| Citations | 18,804 |
+| Publications | 649 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
 
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · Enhanced Weathering
 
 3. **Computing optimal carbon dioxide removal portfolios** (2022)
-   30 citations · General CDR
+   31 citations · General CDR
 
 4. **A multi-period model for optimizing negative emission technology portfolios with economic and carbon value discount rates** (2023)
    27 citations · General CDR

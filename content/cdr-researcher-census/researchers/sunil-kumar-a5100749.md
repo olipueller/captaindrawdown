@@ -1,7 +1,7 @@
 ---
 title: "Sunil Kumar"
 description: "Sunil Kumar is a Mid-career Soil Carbon researcher at Teerthanker Mahaveer University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.326683
+date: 2026-09-11T02:38:30.101116
 url: "/cdr-researcher-census/researchers/sunil-kumar-a5100749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 117 |
+| Citations | 160 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
-   51 citations · General CDR
+   71 citations · General CDR
 
 ## External Profiles
 

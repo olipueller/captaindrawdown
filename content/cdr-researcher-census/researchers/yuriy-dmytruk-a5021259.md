@@ -1,7 +1,7 @@
 ---
 title: "Yuriy Dmytruk"
-description: "Yuriy Dmytruk is a Mid-career Soil Carbon researcher at Human Growth Foundation in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.245660
+description: "Yuriy Dmytruk is a Mid-career Soil Carbon researcher at Podillia State University in UA. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.220125
 url: "/cdr-researcher-census/researchers/yuriy-dmytruk-a5021259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuriy-dmytruk-a5021259/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Human Growth Foundation"
+    "name": "Podillia State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3157-0503",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuriy Dmytruk**  
-Human Growth Foundation · 🇺🇸 US
+Podillia State University ·  UA
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 133 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

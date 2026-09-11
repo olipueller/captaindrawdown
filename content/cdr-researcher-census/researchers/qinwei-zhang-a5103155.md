@@ -1,7 +1,7 @@
 ---
 title: "Qinwei Zhang"
-description: "Qinwei Zhang is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.539603
+description: "Qinwei Zhang is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.482733
 url: "/cdr-researcher-census/researchers/qinwei-zhang-a5103155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 466 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 487 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Climate Warming-Driven Changes in the Molecular Composition of Soil Dissolved Organic Matter Across Depth: A Case Study on the Tibetan Plateau** (2023)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Tibetan Plateau grasslands might increase sequestration of microbial necromass carbon under future warming** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

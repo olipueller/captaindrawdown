@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Gao"
-description: "Mingliang Gao is a Mid-career Soil Carbon researcher at Capital Normal University in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.247902
+description: "Mingliang Gao is a Mid-career Soil Carbon researcher at Capital Normal University in CN. With 48 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.197891
 url: "/cdr-researcher-census/researchers/mingliang-gao-a5060100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,273 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 1,295 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of long-term biodegradable film mulching on yield and water productivity of maize in North China Plain** (2024)
-   16 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Cold–Temperate Betula platyphylla Sukaczev Forest Can Provide More Soil Nutrients to Increase Microbial Alpha Diversity and Microbial Necromass Carbon** (2025)
    3 citations · Soil Carbon
 
 3. **Response of soil <scp>CO<sub>2</sub></scp> emissions and water‐carbon use efficiency of winter wheat to different straw returning methods and irrigation scenarios** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

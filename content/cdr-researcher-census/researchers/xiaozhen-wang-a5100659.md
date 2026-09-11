@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhen Wang"
-description: "Xiaozhen Wang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.545773
+description: "Xiaozhen Wang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.481755
 url: "/cdr-researcher-census/researchers/xiaozhen-wang-a5100659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,30 +42,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 461 |
-| Publications | 22 |
-| CDR Focus | 27.3% |
+| h-index | 8 |
+| Citations | 488 |
+| Publications | 23 |
+| CDR Focus | 30.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   224 citations · General CDR
+   232 citations · General CDR
 
 2. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 3. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-6. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
+6. **Deep soil carbon reshapes the assessment of restoration-driven carbon sequestration on the Loess Plateau** (2026)
+   0 citations · Soil Carbon
+
+7. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

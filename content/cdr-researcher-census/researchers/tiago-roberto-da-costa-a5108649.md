@@ -1,7 +1,7 @@
 ---
 title: "TIAGO ROBERTO DA COSTA"
 description: "TIAGO ROBERTO DA COSTA is a Mid-career BECCS researcher at Instituto Federal do Rio Grande do Norte in BR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.011687
+date: 2026-09-11T02:38:29.967857
 url: "/cdr-researcher-census/researchers/tiago-roberto-da-costa-a5108649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 193 |
+| Citations | 199 |
 | Publications | 21 |
 | CDR Focus | 9.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Negative CO2 emissions through iG-CLC of pinus residue in a continuous unit of 0.5 kWth using a natural Mn-based oxygen carrier** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 2. **Low-cost copper ore oxygen carrier for Bio-CLOU systems: performance assessment and potential for negative-carbon bioenergy (BECCS)** (2026)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Klaus Lorenz"
-description: "Klaus Lorenz is a Senior Soil Carbon researcher at The Ohio State University in US. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.087377
+description: "Klaus Lorenz is a Senior Soil Carbon researcher at The Ohio State University in US. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.038355
 url: "/cdr-researcher-census/researchers/klaus-lorenz-a5046739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 6,296 |
-| Publications | 115 |
-| CDR Focus | 8.7% |
+| h-index | 32 |
+| Citations | 6,540 |
+| Publications | 116 |
+| CDR Focus | 8.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    78 citations · Biochar
 
 2. **Biochar as a negative emission technology: A synthesis of field research on greenhouse gas emissions** (2023)
-   70 citations · Biochar
+   72 citations · Biochar
 
 3. **Soil Organic Carbon Sequestration in Terrestrial Biomes of the United States** (2022)
    9 citations · General CDR
@@ -62,10 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Incentivizing Soil Organic Carbon Management in Terrestrial Biomes of the United States of America** (2022)
    5 citations · General CDR
 
-5. **Soil Organic Carbon Sequestration** (2022)
-   4 citations · Soil Carbon
+5. **Soil organic carbon stabilization in forest subsoils: Directions for the research community – Comment on “Biogeochemical limitations of carbon stabilization in forest subsoils” by Patrick Liebmann et al., Journal of Plant Nutrition and Soil Science, 185(1), 35–43 (2022)** (2022)
+   5 citations · Soil Carbon
 
-6. **Soil organic carbon stabilization in forest subsoils: Directions for the research community – Comment on “Biogeochemical limitations of carbon stabilization in forest subsoils” by Patrick Liebmann et al., Journal of Plant Nutrition and Soil Science, 185(1), 35–43 (2022)** (2022)
+6. **Soil Organic Carbon Sequestration** (2022)
    4 citations · Soil Carbon
 
 7. **Effects of Organic Agriculture on the Soil Carbon Stock** (2022)

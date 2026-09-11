@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Zhou"
 description: "Jinfeng Zhou is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.990999
+date: 2026-09-11T02:38:29.938619
 url: "/cdr-researcher-census/researchers/jinfeng-zhou-a5046547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 200 |
+| Citations | 210 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mita Khatun"
 description: "Mita Khatun is a Mid-career Biochar researcher at Khulna University of Engineering & Technology in BD. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.184827
+date: 2026-09-11T02:38:30.161950
 url: "/cdr-researcher-census/researchers/mita-khatun-a5111468/"
 layout: "researcher"
 hiddenInHomeList: true

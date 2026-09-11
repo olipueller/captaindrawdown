@@ -1,7 +1,7 @@
 ---
 title: "Yalong Liu"
 description: "Yalong Liu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043780
+date: 2026-09-11T02:38:29.951042
 url: "/cdr-researcher-census/researchers/yalong-liu-a5078130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 184 |
+| Citations | 205 |
 | Publications | 15 |
 | CDR Focus | 46.7% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Residence time of carbon in paddy soils** (2023)
    18 citations · Soil Carbon

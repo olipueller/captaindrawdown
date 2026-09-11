@@ -1,7 +1,7 @@
 ---
 title: "Erin Meyer"
 description: "Erin Meyer is a Mid-career Soil Carbon researcher at UMass Memorial Health Care in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.978704
+date: 2026-09-11T02:38:29.919388
 url: "/cdr-researcher-census/researchers/erin-meyer-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 204 |
+| Citations | 210 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Food for thought: Making the case for food produced via regenerative agriculture in the battle against non-communicable chronic diseases (NCDs)** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

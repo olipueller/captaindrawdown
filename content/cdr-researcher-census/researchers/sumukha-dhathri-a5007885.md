@@ -1,7 +1,7 @@
 ---
 title: "Sumukha Dhathri"
 description: "Sumukha Dhathri is an Early-career DAC researcher at University of Freiburg in DE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.863699
+date: 2026-09-11T02:38:29.819627
 url: "/cdr-researcher-census/researchers/sumukha-dhathri-a5007885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 240 |
+| Citations | 249 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment** (2021)
-   241 citations · DAC
+   247 citations · DAC
 
 2. **Addendum to: Understanding environmental trade-offs and resource demand of direct air capture technologies through comparative life-cycle assessment** (2023)
    5 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Yonggui Tang"
 description: "Yonggui Tang is a Mid-career Biochar researcher at Institute of New Materials in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.962365
+date: 2026-09-11T02:38:29.861053
 url: "/cdr-researcher-census/researchers/yonggui-tang-a5071809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 210 |
+| Citations | 231 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

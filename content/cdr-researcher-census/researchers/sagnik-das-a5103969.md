@@ -1,7 +1,7 @@
 ---
 title: "Sagnik Das"
-description: "Sagnik Das is a Mid-career Biochar researcher at University of Kassel in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408315
+description: "Sagnik Das is a Mid-career Biochar researcher at University of Kassel in DE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.360398
 url: "/cdr-researcher-census/researchers/sagnik-das-a5103969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 102 |
+| h-index | 6 |
+| Citations | 106 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Titanium oxide–coated coconut husk–derived biochar composite and its application for removal of crystal violet dye** (2022)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

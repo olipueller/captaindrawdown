@@ -1,7 +1,7 @@
 ---
 title: "Aqib Zafar Khan"
-description: "Aqib Zafar Khan is a Mid-career BECCS researcher at Shenzhen University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.512004
+description: "Aqib Zafar Khan is a Mid-career BECCS researcher at Shenzhen University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.460698
 url: "/cdr-researcher-census/researchers/aqib-zafar-khan-a5003175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 497 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 513 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Wastewater-Grown Algal Biomass as Carbon-neutral, Renewable, and Low Water Footprint Feedstock for Clean Energy and Bioplastics** (2024)
-   23 citations · General CDR
+   26 citations · General CDR
 
 2. **Pyrolytic valorization of aquaculture wastewater-grown Mychonastes sp. biomass into renewable fuels and chemicals: Mechanistic insights into a circular bioenergy pathway** (2026)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Traverso"
 description: "Lorenzo Traverso is a Mid-career General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853936
+date: 2026-09-11T02:38:29.828887
 url: "/cdr-researcher-census/researchers/lorenzo-traverso-a5082830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 244 |
+| Citations | 245 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

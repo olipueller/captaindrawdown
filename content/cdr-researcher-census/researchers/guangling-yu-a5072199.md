@@ -1,7 +1,7 @@
 ---
 title: "Guangling Yu"
 description: "Guangling Yu is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.741744
+date: 2026-09-11T02:38:29.674895
 url: "/cdr-researcher-census/researchers/guangling-yu-a5072199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 303 |
+| Citations | 323 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 2. **Soil bacteria mediate organic carbon stability during alpine wetland biogeomorphic succession in the arid region of Central Asia** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Microbial community assembly mediated by soil organic carbon stability in aggregates under long-term enclosure alpine meadows** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiaona Xie"
 description: "Qiaona Xie is a Mid-career Biochar researcher at Zhejiang University of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.683025
+date: 2026-09-11T02:38:29.617414
 url: "/cdr-researcher-census/researchers/qiaona-xie-a5046922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 342 |
+| Citations | 364 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Degradation of typical tetracycline antibiotics in landfill leachate by three-dimensional aerated electrocatalytic reactor (3D-AER): electrode properties, influencing factors and degradation mechanism** (2025)
-   59 citations
+1. **Degradation of leachate and high concentration emerging pollutant tetracycline through electro oxidation** (2025)
+   62 citations
 
-2. **Degradation of leachate and high concentration emerging pollutant tetracycline through electro oxidation** (2025)
-   59 citations
+2. **Degradation of typical tetracycline antibiotics in landfill leachate by three-dimensional aerated electrocatalytic reactor (3D-AER): electrode properties, influencing factors and degradation mechanism** (2025)
+   61 citations
 
 3. **Magnetic coconut shell biochar driven leachate activated sludge system treatment efficiency, antibiotic resistance gene response, and microbial community succession** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

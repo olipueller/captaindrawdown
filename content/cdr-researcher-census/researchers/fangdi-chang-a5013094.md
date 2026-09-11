@@ -1,7 +1,7 @@
 ---
 title: "Fangdi Chang"
-description: "Fangdi Chang is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.583587
+description: "Fangdi Chang is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.497591
 url: "/cdr-researcher-census/researchers/fangdi-chang-a5013094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 424 |
-| Publications | 34 |
-| CDR Focus | 17.6% |
+| h-index | 14 |
+| Citations | 471 |
+| Publications | 35 |
+| CDR Focus | 17.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
-   19 citations
+   20 citations
 
 3. **Green manure roots return drives saline-alkali soil organic carbon accumulation via microbial necromass formation** (2025)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Mitigating soil salinity–alkalinity and reshaping bacterial community to improve soil organic carbon sequestration in the Hetao Irrigation District: a combined approach of organic ameliorant and microbial agents** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Laura Márquez"
 description: "Laura Márquez is a Senior Biochar researcher at Universitat Autònoma de Barcelona in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.082994
+date: 2026-09-11T02:38:30.024454
 url: "/cdr-researcher-census/researchers/laura-marquez-a5103172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 172 |
+| Citations | 182 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term effects of gasification biochar application on soil functions in a Mediterranean agroecosystem: Higher addition rates sequester more carbon but pose a risk to soil faunal communities** (2021)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

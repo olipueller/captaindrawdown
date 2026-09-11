@@ -1,7 +1,7 @@
 ---
 title: "Takanori Kuronuma"
 description: "Takanori Kuronuma is a Mid-career Soil Carbon researcher at Chiba University in JP. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.791429
+date: 2026-09-11T02:38:29.743823
 url: "/cdr-researcher-census/researchers/takanori-kuronuma-a5048597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 277 |
+| Citations | 286 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations
 
 2. **Greenhouse Gas Budget Assessment of Production of Kentucky Bluegrass (Poa pratensis) Sod and Three Herbaceous Landscape Plants** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Annual greenhouse gas fluxes from a thin-layer rooftop lawn** (2025)
    1 citations · Soil Carbon

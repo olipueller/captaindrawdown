@@ -1,7 +1,7 @@
 ---
 title: "Kimber Moreland"
-description: "Kimber Moreland is a Mid-career Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.771487
+description: "Kimber Moreland is a Mid-career Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.714895
 url: "/cdr-researcher-census/researchers/kimber-moreland-a5087020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 287 |
-| Publications | 37 |
-| CDR Focus | 16.2% |
+| Citations | 301 |
+| Publications | 38 |
+| CDR Focus | 15.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 2. **Restoring function: Positive responses of carbon and nitrogen to 20 years of hydrologic restoration in montane meadows** (2022)
    21 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations
 
 6. **Climatic controls on soil and saprock nitrogen distribution and persistence in the Sierra Nevada** (2022)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Soil Organic Matter Dynamics in the Critical Zone** (2024)
    0 citations · Soil Carbon

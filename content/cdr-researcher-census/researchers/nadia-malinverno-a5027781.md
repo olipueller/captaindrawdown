@@ -1,7 +1,7 @@
 ---
 title: "Nadia Malinverno"
-description: "Nadia Malinverno is a Mid-career DAC researcher at Swiss Federal Laboratories for Materials Science and Technology in CH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.025389
+description: "Nadia Malinverno is a Mid-career DAC researcher at Swiss Federal Laboratories for Materials Science and Technology in CH. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.954314
 url: "/cdr-researcher-census/researchers/nadia-malinverno-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 189 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 203 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

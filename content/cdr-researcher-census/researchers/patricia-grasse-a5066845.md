@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
-description: "Patricia Grasse is a Senior Ocean CDR researcher at German Center for Integrative Biodiversity Research in DE. With 107 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198509
+description: "Patricia Grasse is a Senior Ocean CDR researcher at German Center for Integrative Biodiversity Research in DE. With 111 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.148896
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,693 |
-| Publications | 107 |
-| CDR Focus | 7.5% |
+| Citations | 1,716 |
+| Publications | 111 |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   106 citations · General CDR
+   113 citations · General CDR
 
 2. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR

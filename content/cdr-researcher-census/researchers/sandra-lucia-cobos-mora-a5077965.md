@@ -1,7 +1,7 @@
 ---
 title: "Sandra Lucía Cobos Mora"
 description: "Sandra Lucía Cobos Mora is a Mid-career Biochar researcher at Universidad Católica de Cuenca in EC. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.341466
+date: 2026-09-11T02:38:30.314055
 url: "/cdr-researcher-census/researchers/sandra-lucia-cobos-mora-a5077965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 114 |
+| Citations | 115 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

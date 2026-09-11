@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Sugiyama"
-description: "Masahiro Sugiyama is a Senior General CDR researcher at University of Tokyo in JP. With 132 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.143252
+description: "Masahiro Sugiyama is a Senior General CDR researcher at University of Tokyo in JP. With 139 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093838
 url: "/cdr-researcher-census/researchers/masahiro-sugiyama-a5064075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,669 |
-| Publications | 132 |
-| CDR Focus | 5.3% |
+| Citations | 2,713 |
+| Publications | 139 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Residual emissions and carbon removal towards Japan’s net-zero goal: a multi-model analysis** (2024)
-   13 citations · General CDR
+   17 citations · General CDR
 
 2. **Public perception of carbon dioxide removal in three Asian regions** (2024)
    8 citations · General CDR
 
-3. **Public perception of carbon dioxide removal (CDR) and its influencing factors: evidence from a survey in Malaysia** (2024)
-   4 citations · General CDR
+3. **Navigating the obstacles of carbon-negative technologies** (2024)
+   6 citations · General CDR
 
-4. **Navigating the obstacles of carbon-negative technologies** (2024)
+4. **Public perception of carbon dioxide removal (CDR) and its influencing factors: evidence from a survey in Malaysia** (2024)
    4 citations · General CDR
 
 5. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)

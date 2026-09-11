@@ -1,7 +1,7 @@
 ---
 title: "Christopher Taylor"
-description: "Christopher Taylor is a Senior Soil Carbon researcher at University of Manchester in GB. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.960209
+description: "Christopher Taylor is a Senior Soil Carbon researcher at University of Manchester in GB. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.898221
 url: "/cdr-researcher-census/researchers/christopher-taylor-a5011396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 211 |
-| Publications | 29 |
-| CDR Focus | 10.3% |
+| Citations | 218 |
+| Publications | 30 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

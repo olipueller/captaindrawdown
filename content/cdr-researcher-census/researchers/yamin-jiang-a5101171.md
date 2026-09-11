@@ -1,7 +1,7 @@
 ---
 title: "Yamin Jiang"
-description: "Yamin Jiang is a Mid-career Soil Carbon researcher at Hainan University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.258059
+description: "Yamin Jiang is a Mid-career Soil Carbon researcher at Hainan University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.200262
 url: "/cdr-researcher-census/researchers/yamin-jiang-a5101171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 130 |
-| Publications | 21 |
-| CDR Focus | 19.0% |
+| Citations | 137 |
+| Publications | 20 |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Short-term nutrient addition increases soil organic carbon accumulation in tropical forest** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Integrating Regularized Coefficient Optimization and Explainable Machine Learning to Improve Ecosystem Service Valuation** (2026)
    0 citations

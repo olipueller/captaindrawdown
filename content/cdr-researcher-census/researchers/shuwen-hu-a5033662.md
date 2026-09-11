@@ -1,7 +1,7 @@
 ---
 title: "Shuwen Hu"
-description: "Shuwen Hu is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 95 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.141559
+description: "Shuwen Hu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 95 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.092139
 url: "/cdr-researcher-census/researchers/shuwen-hu-a5033662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shuwen-hu-a5033662/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Natural Resources"
+    "name": "China Agricultural University"
   },
   "sameAs": "https://openalex.org/A5033662044"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shuwen Hu**  
-Ministry of Natural Resources · 🇨🇳 CN
+China Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,709 |
+| Citations | 2,757 |
 | Publications | 95 |
 | CDR Focus | 8.4% |
 | Trajectory | Stable |
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   62 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Long-term rice cultivation increases contributions of plant and microbial-derived carbon to soil organic carbon in saline-sodic soils** (2023)
-   53 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    13 citations · Soil Carbon
 
 5. **Artificial utilization of saline-sodic land promotes carbon stock: The importance of large macroaggregates** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Amendment of saline-alkali soils promotes the formation and stability of iron-bound organic carbon** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zhanlei Pan"
 description: "Zhanlei Pan is a Mid-career Soil Carbon researcher at Cotton Research Institute in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728652
+date: 2026-09-11T02:38:29.670906
 url: "/cdr-researcher-census/researchers/zhanlei-pan-a5102481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 311 |
+| Citations | 326 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations · Soil Carbon
 
 2. **Full straw incorporation into a calcareous soil increased N2O emission despite more N2O being reduced to N2 in the winter crop season** (2022)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alpana Singh"
-description: "Alpana Singh is a Mid-career DAC researcher at Rajiv Gandhi Institute of Petroleum Technology in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.770991
+description: "Alpana Singh is a Mid-career DAC researcher at Rajiv Gandhi Institute of Petroleum Technology in IN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.710211
 url: "/cdr-researcher-census/researchers/alpana-singh-a5101904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 288 |
+| h-index | 12 |
+| Citations | 304 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in carbon-based materials for carbon dioxide capture and separation applications** (2025)
-   1 citations · DAC
+   3 citations · DAC
 
 ## External Profiles
 

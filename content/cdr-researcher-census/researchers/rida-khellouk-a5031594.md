@@ -1,7 +1,7 @@
 ---
 title: "Rida Khellouk"
-description: "Rida Khellouk is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.349433
+description: "Rida Khellouk is a Mid-career Soil Carbon researcher at Université Sultan Moulay Slimane in MA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.300642
 url: "/cdr-researcher-census/researchers/rida-khellouk-a5031594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rida Khellouk",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rida-khellouk-a5031594/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universit\u00e9 Sultan Moulay Slimane"
+  },
   "sameAs": "https://openalex.org/A5031594781"
 }
 </script>
 
 ## Profile
 
-**Rida Khellouk**
+**Rida Khellouk**  
+Université Sultan Moulay Slimane ·  MA
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 816 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 832 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

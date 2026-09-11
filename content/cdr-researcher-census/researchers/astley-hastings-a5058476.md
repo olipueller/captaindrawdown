@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
-description: "Astley Hastings is an Eminent BECCS researcher at University of Aberdeen in GB. With 207 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.078326
+description: "Astley Hastings is an Eminent BECCS researcher at University of Aberdeen in GB. With 211 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.030500
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 43 |
-| Citations | 8,262 |
-| Publications | 207 |
-| CDR Focus | 5.3% |
+| Citations | 8,435 |
+| Publications | 211 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   53 citations · BECCS
+   55 citations · BECCS
 
 2. **Soil Organic Carbon Significantly Increases When Perennial Biomass Plantations Are Reverted Back to Annual Arable Crops** (2023)
    20 citations · Soil Carbon
 
 3. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   18 citations · BECCS
+   19 citations · BECCS
 
 4. **Expanding the <i>Miscanthus</i> market in the <scp>UK</scp>: Growers in profile and experience, benefits and drawbacks of the bioenergy crop** (2022)
    18 citations · BECCS
 
 5. **Uncertainty of modelled bioenergy with carbon capture and storage due to variability of input data** (2021)
-   13 citations · BECCS
+   14 citations · BECCS
 
 6. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
    8 citations · General CDR
 
 7. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   4 citations · BECCS
+   6 citations · BECCS
 
 8. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    2 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jatin Kumar"
-description: "Jatin Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316439
+description: "Jatin Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.214617
 url: "/cdr-researcher-census/researchers/jatin-kumar-a5010652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 119 |
-| Publications | 12 |
-| CDR Focus | 25.0% |
+| h-index | 7 |
+| Citations | 134 |
+| Publications | 14 |
+| CDR Focus | 21.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Forest Plantation Soils in Eastern Plateau and Hill Region of India: a Promising Approach Toward Climate Change Mitigation** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Land use and altitudinal variability in biomass and carbon storage potential in mid-hill and sub-humid conditions of north-western Himalayas** (2024)
    3 citations · Soil Carbon
 
 3. **Land use impacts on soil aggregation and carbon storage in the dry temperate himalayas: strategies for sustainable ecosystem management** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
+
+4. **Apple-Based Agroforestry Systems: A Pathway to Economic Growth and Environmental Resilience** (2026)
+   0 citations
 
 ## External Profiles
 

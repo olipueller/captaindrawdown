@@ -1,7 +1,7 @@
 ---
 title: "Jingye Cui"
 description: "Jingye Cui is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.350583
+date: 2026-09-11T02:38:30.244419
 url: "/cdr-researcher-census/researchers/jingye-cui-a5033777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 113 |
+| Citations | 129 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Turning nitrogen vacancy and chemisorption sites by co-doping Na and N into cow dung biochar ultrathin nanosheets for removal of oxytetracycline** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Marjorie Went"
 description: "Marjorie Went is a Senior BECCS researcher at University of California, Berkeley in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.132599
+date: 2026-09-11T02:38:30.090153
 url: "/cdr-researcher-census/researchers/marjorie-went-a5063406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 158 |
+| Citations | 163 |
 | Publications | 9 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

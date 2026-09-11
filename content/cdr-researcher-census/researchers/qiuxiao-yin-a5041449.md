@@ -1,7 +1,7 @@
 ---
 title: "Qiuxiao Yin"
 description: "Qiuxiao Yin is a Senior Soil Carbon researcher at Qingdao University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.273078
+date: 2026-09-11T02:38:30.247678
 url: "/cdr-researcher-census/researchers/qiuxiao-yin-a5041449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 127 |
+| Citations | 128 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

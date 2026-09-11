@@ -1,7 +1,7 @@
 ---
 title: "Jinsheng Xie"
 description: "Jinsheng Xie is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 90 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.142158
+date: 2026-09-11T02:38:29.092756
 url: "/cdr-researcher-census/researchers/jinsheng-xie-a5101023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 2,694 |
+| Citations | 2,749 |
 | Publications | 90 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   45 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Lignin–microbial necromass carbon coupling drives the vertical stratification mechanism of deep soil carbon sequestration in subtropical forests** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
    7 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Lithology-driven microbial succession and functional divergence during subtropical forest restoration** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Javad Barouei"
-description: "Javad Barouei is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.383392
+description: "Javad Barouei is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.334715
 url: "/cdr-researcher-census/researchers/javad-barouei-a5051712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 726 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Citations | 745 |
+| Publications | 38 |
+| CDR Focus | 7.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatiotemporal variation in soil carbon-to-nitrogen and carbon-to-hydrogen ratios: a case study from agricultural farmlands in Southern Texas, USA** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
-2. **Rock powder amendment in enhancing plant-mediated carbon sequestration** (2026)
+2. **Linking soil chemistry to carbon sequestration in agricultural farmlands of southern Texas** (2026)
+   0 citations · Soil Carbon
+
+3. **Rock powder amendment in enhancing plant-mediated carbon sequestration** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

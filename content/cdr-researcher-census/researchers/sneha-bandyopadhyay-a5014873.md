@@ -1,7 +1,7 @@
 ---
 title: "Sneha Bandyopadhyay"
-description: "Sneha Bandyopadhyay is a Mid-career General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.710758
+description: "Sneha Bandyopadhyay is a Mid-career General CDR researcher at North Bengal Agricultural University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.650866
 url: "/cdr-researcher-census/researchers/sneha-bandyopadhyay-a5014873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Sneha Bandyopadhyay",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sneha-bandyopadhyay-a5014873/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "North Bengal Agricultural University"
+  },
   "sameAs": "https://openalex.org/A5014873331"
 }
 </script>
 
 ## Profile
 
-**Sneha Bandyopadhyay**
+**Sneha Bandyopadhyay**  
+North Bengal Agricultural University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 323 |
+| Citations | 341 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -43,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Steering restoration of coal mining degraded ecosystem to achieve sustainable development goal-13 (climate action): United Nations decade of ecosystem restoration (2021–2030)** (2022)
-   47 citations · General CDR
+   49 citations · General CDR
 
 ## External Profiles
 

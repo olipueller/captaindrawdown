@@ -1,7 +1,7 @@
 ---
 title: "Mário Muniz Tagliari"
-description: "Mário Muniz Tagliari is a Mid-career Biochar researcher at Universidade Tecnológica Federal do Paraná in BR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256970
+description: "Mário Muniz Tagliari is a Mid-career Biochar researcher at Universidade Tecnológica Federal do Paraná in BR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.190295
 url: "/cdr-researcher-census/researchers/mario-muniz-tagliari-a5061155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 130 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 139 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

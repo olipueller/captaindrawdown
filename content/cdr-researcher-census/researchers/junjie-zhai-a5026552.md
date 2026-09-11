@@ -1,7 +1,7 @@
 ---
 title: "Junjie Zhai"
 description: "Junjie Zhai is an Early-career General CDR researcher at Lanzhou University of Technology in CN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.896964
+date: 2026-09-11T02:38:29.809182
 url: "/cdr-researcher-census/researchers/junjie-zhai-a5026552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 227 |
+| Citations | 254 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing the effects of China's Three-North Shelter Forest Program over 40 years** (2022)
-   222 citations · General CDR
+   240 citations · General CDR
 
 ## External Profiles
 

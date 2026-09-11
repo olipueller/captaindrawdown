@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Biryol"
-description: "Charlotte Biryol is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.963284
+description: "Charlotte Biryol is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.872026
 url: "/cdr-researcher-census/researchers/charlotte-biryol-a5082826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,26 +43,29 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 210 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 228 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
-   154 citations
+   156 citations
 
 2. **Impacts of Canopy Disturbances by Tree Logging on Soil Biota Increase With Organism Size** (2025)
    2 citations · Soil Carbon
 
-3. **Forest soils can increase climate change mitigation with targeted management** (2023)
+3. **Soil organism body size as an integrative trait to understand soil functioning and resilience** (2026)
    0 citations
 
 4. **Forest soils can increase climate change mitigation with targeted management** (2023)
-   0 citations · General CDR
+   0 citations
 
 5. **Forest soils can increase climate change mitigation with targeted management** (2023)
+   0 citations · General CDR
+
+6. **Forest soils can increase climate change mitigation with targeted management** (2023)
    0 citations
 
 ## External Profiles

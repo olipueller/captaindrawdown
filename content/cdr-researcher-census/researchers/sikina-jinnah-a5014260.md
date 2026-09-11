@@ -1,7 +1,7 @@
 ---
 title: "Sikina Jinnah"
 description: "Sikina Jinnah is a Senior General CDR researcher at University of California, Santa Cruz in US. With 76 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.192170
+date: 2026-09-11T02:38:29.142366
 url: "/cdr-researcher-census/researchers/sikina-jinnah-a5014260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,760 |
+| Citations | 1,791 |
 | Publications | 76 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

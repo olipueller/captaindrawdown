@@ -1,7 +1,7 @@
 ---
 title: "Stephanie La Hoz Theuer"
 description: "Stephanie La Hoz Theuer is a Mid-career General CDR researcher at Cal Poly Humboldt in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595089
+date: 2026-09-11T02:38:29.530759
 url: "/cdr-researcher-census/researchers/stephanie-la-hoz-theuer-a5002620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 413 |
+| Citations | 438 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Emissions trading systems: Trading removals?** (2024)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

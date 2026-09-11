@@ -1,7 +1,7 @@
 ---
 title: "Emílio Berghahn"
 description: "Emílio Berghahn is a Mid-career Biochar researcher at Univates in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398434
+date: 2026-09-11T02:38:30.323552
 url: "/cdr-researcher-census/researchers/emilio-berghahn-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 104 |
+| Citations | 113 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rice plants treated with biochar derived from Spirulina (Arthrospira platensis) optimize resource allocation towards seed production** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

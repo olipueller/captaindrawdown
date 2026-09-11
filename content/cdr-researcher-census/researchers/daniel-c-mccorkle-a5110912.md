@@ -1,7 +1,7 @@
 ---
 title: "Daniel C. McCorkle"
-description: "Daniel C. McCorkle is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 108 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.092868
+description: "Daniel C. McCorkle is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 109 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.044394
 url: "/cdr-researcher-census/researchers/daniel-c-mccorkle-a5110912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,39 +40,39 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 5,621 |
-| Publications | 108 |
-| CDR Focus | 7.4% |
+| Citations | 5,659 |
+| Publications | 109 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
 2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 4. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
 
-5. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
+5. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
+   3 citations
+
+6. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
    2 citations · General CDR
 
-6. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
+7. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
    2 citations · General CDR
 
-7. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   2 citations
-
-8. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
+8. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    2 citations
 
 9. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 10. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
    0 citations · General CDR

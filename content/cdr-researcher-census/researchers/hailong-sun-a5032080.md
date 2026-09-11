@@ -1,7 +1,7 @@
 ---
 title: "Hailong Sun"
-description: "Hailong Sun is a Senior Ocean CDR researcher at Institute of Geochemistry in CN. With 95 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.189423
+description: "Hailong Sun is a Senior Ocean CDR researcher at Institute of Geochemistry in CN. With 96 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.138334
 url: "/cdr-researcher-census/researchers/hailong-sun-a5032080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,799 |
-| Publications | 95 |
-| CDR Focus | 5.3% |
+| h-index | 25 |
+| Citations | 1,846 |
+| Publications | 96 |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 2. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   22 citations · General CDR
+   23 citations · General CDR
 
 3. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
    15 citations · Enhanced Weathering
 
 4. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
-   12 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 5. **Carbon fertilization of autochthonous production in karst surface waters and its role in carbon reduction and eutrophication mitigation—a nature-based solution (NbS)** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

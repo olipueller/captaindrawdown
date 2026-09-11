@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Li"
-description: "Mengyuan Li is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.986353
+description: "Mengyuan Li is a Mid-career Enhanced Weathering researcher at Duke University in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.942640
 url: "/cdr-researcher-census/researchers/mengyuan-li-a5069483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mengyuan Li",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mengyuan-li-a5069483/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Duke University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-1702-1188",
     "https://openalex.org/A5069483908"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Mengyuan Li**
+**Mengyuan Li**  
+Duke University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 201 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 208 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Alkaline earth metal ions affect the dissolution of kaolinite-bearing olivine and its carbon storage effects** (2024)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 ## External Profiles
 

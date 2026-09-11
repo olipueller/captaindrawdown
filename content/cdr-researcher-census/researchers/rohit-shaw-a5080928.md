@@ -1,7 +1,7 @@
 ---
 title: "Rohit Shaw"
 description: "Rohit Shaw is a Mid-career General CDR researcher at Indian Institute of Technology Bombay in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.849658
+date: 2026-09-11T02:38:29.804917
 url: "/cdr-researcher-census/researchers/rohit-shaw-a5080928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 247 |
+| Citations | 256 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The development of carbon capture and storage (CCS) in India: A critical review** (2022)
-   143 citations · General CDR
+   147 citations · General CDR
 
 2. **The development of carbon capture and storage (CCS) in India: A critical review** (2022)
    19 citations

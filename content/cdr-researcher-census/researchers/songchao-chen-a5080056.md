@@ -1,7 +1,7 @@
 ---
 title: "Songchao Chen"
-description: "Songchao Chen is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 274 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.073843
+description: "Songchao Chen is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 284 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.026339
 url: "/cdr-researcher-census/researchers/songchao-chen-a5080056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 55 |
-| Citations | 10,192 |
-| Publications | 274 |
-| CDR Focus | 5.8% |
+| Citations | 10,567 |
+| Publications | 284 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Improving pedotransfer functions for predicting soil mineral associated organic carbon by ensemble machine learning** (2022)
-   78 citations
+   79 citations
 
 2. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 3. **Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation** (2023)
    30 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 9. **Integrating Historical Crop Rotation Changes Into Soil Organic Matter Mapping in the Cropland of Southeastern China** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 10. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
    5 citations · Soil Carbon

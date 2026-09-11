@@ -1,7 +1,7 @@
 ---
 title: "Xuanshuang Zhang"
-description: "Xuanshuang Zhang is an Early-career Soil Carbon researcher at China Pharmaceutical University in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.900042
+description: "Xuanshuang Zhang is an Early-career Soil Carbon researcher at China Pharmaceutical University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.857095
 url: "/cdr-researcher-census/researchers/xuanshuang-zhang-a5088576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 1 |
-| Citations | 226 |
-| Publications | 4 |
-| CDR Focus | 25.0% |
+| h-index | 2 |
+| Citations | 233 |
+| Publications | 5 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

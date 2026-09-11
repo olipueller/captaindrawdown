@@ -1,7 +1,7 @@
 ---
 title: "Anupam Barh"
-description: "Anupam Barh is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 74 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.446879
+description: "Anupam Barh is a Mid-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 76 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.394011
 url: "/cdr-researcher-census/researchers/anupam-barh-a5072589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 598 |
-| Publications | 74 |
-| CDR Focus | 5.4% |
+| Citations | 619 |
+| Publications | 76 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Soil carbon dynamics: a robust indicator for sustainable land use planning in Indian Himalayas** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
    1 citations · Soil Carbon

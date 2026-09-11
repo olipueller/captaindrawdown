@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Nuto Nóbrega"
-description: "Gabriel Nuto Nóbrega is a Senior Soil Carbon researcher at Universidade Federal do Ceará in BR. With 108 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144607
+description: "Gabriel Nuto Nóbrega is a Senior Soil Carbon researcher at Universidade Federal do Ceará in BR. With 109 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093721
 url: "/cdr-researcher-census/researchers/gabriel-nuto-nobrega-a5032388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 2,639 |
-| Publications | 108 |
-| CDR Focus | 6.5% |
+| Citations | 2,715 |
+| Publications | 109 |
+| CDR Focus | 6.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Changes in soil iron biogeochemistry in response to mangrove dieback** (2022)
-   21 citations
+   22 citations
 
 2. **Greenhouse gas emissions and carbon sequestration associated with Integrated Crop–Livestock–Forestry (ICLF) systems** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 3. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Recovery of Soil Processes in Replanted Mangroves: Implications for Soil Functions** (2022)
    9 citations · Soil Carbon

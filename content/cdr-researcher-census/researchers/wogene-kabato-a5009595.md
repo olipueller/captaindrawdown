@@ -1,7 +1,7 @@
 ---
 title: "Wogene Kabato"
-description: "Wogene Kabato is a Mid-career Soil Carbon researcher at Széchenyi István University in HU. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.830945
+description: "Wogene Kabato is an Early-career Soil Carbon researcher at Széchenyi István University in HU. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.701352
 url: "/cdr-researcher-census/researchers/wogene-kabato-a5009595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Wogene Kabato**  
 Széchenyi István University ·  HU
 
-**Career Stage:** Mid-career
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 256 |
-| Publications | 13 |
-| CDR Focus | 23.1% |
+| h-index | 4 |
+| Citations | 308 |
+| Publications | 12 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Towards Climate-Smart Agriculture: Strategies for Sustainable Agricultural Production, Food Security, and Greenhouse Gas Reduction** (2025)
-   179 citations · General CDR
+   198 citations · General CDR
 
 2. **Unveiling the Role of Edaphic Microalgae in Soil Carbon Sequestration: Potential for Agricultural Inoculants in Climate Change Mitigation** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Microalgae-Based Strategies for Soil Health and Crop Productivity: Mechanisms, Challenges, and Pathways to Climate-Resilient Agriculture** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Vadakkeveedu Narayan Amrish"
-description: "Vadakkeveedu Narayan Amrish is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.066928
+description: "Vadakkeveedu Narayan Amrish is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.989382
 url: "/cdr-researcher-census/researchers/vadakkeveedu-narayan-amrish-a5082825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 177 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| h-index | 7 |
+| Citations | 193 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

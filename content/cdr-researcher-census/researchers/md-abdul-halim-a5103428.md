@@ -1,7 +1,7 @@
 ---
 title: "Md. Abdul Halim"
 description: "Md. Abdul Halim is a Senior Soil Carbon researcher at Rural Development Academy, Bangladesh in BD. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.434099
+date: 2026-09-11T02:38:29.379575
 url: "/cdr-researcher-census/researchers/md-abdul-halim-a5103428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 619 |
+| Citations | 642 |
 | Publications | 50 |
-| CDR Focus | 6.0% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Mobilizing Microbes for Bioremediation Strategies in the Context of Climate Change** (2025)
-   4 citations
+   5 citations
 
 3. **CO2 fluxes of vegetation in the Greenbelt of Ontario and increased net ecosystem emissions associated with its removal** (2024)
    4 citations · General CDR
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Biochar enhances methane uptake in engineered green roof substrate** (2026)
    0 citations · Biochar
 
-6. **Short-Term Biochar Effects on Soil Fluxes of Methane, Carbon Dioxide, and Water Vapour in a Tea Agroforestry System** (2025)
+6. **Biochar enhances methane uptake in engineered green roof substrate** (2026)
+   0 citations · Biochar
+
+7. **Short-Term Biochar Effects on Soil Fluxes of Methane, Carbon Dioxide, and Water Vapour in a Tea Agroforestry System** (2025)
    0 citations · Biochar
 
 ## External Profiles

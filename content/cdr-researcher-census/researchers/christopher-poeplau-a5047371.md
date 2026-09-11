@@ -1,7 +1,7 @@
 ---
 title: "Christopher Poeplau"
-description: "Christopher Poeplau is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 207 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.080474
+description: "Christopher Poeplau is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 207 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.031993
 url: "/cdr-researcher-census/researchers/christopher-poeplau-a5047371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 41 |
-| Citations | 7,607 |
+| h-index | 42 |
+| Citations | 7,863 |
 | Publications | 207 |
-| CDR Focus | 7.7% |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   186 citations · Soil Carbon
+   192 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   121 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 3. **Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration** (2023)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 4. **Grassland soil organic carbon stocks along management intensity and warming gradients** (2021)
    59 citations · Soil Carbon
@@ -66,19 +66,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations
 
 6. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 7. **No saturation of soil carbon under long-term extreme manure additions** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 8. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 9. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 10. **Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jie Chen"
-description: "Jie Chen is a Senior Soil Carbon researcher at Huanggang Normal University in CN. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225498
+description: "Jie Chen is a Senior Soil Carbon researcher at Huanggang Normal University in CN. With 63 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.170244
 url: "/cdr-researcher-census/researchers/jie-chen-a5100332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,431 |
+| h-index | 23 |
+| Citations | 1,500 |
 | Publications | 63 |
 | CDR Focus | 6.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Living and Dead Microorganisms in Mediating Soil Carbon Stocks Under Long-Term Fertilization in a Rice-Wheat Rotation** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Successive walnut plantations alter soil carbon quantity and quality by modifying microbial communities and enzyme activities** (2022)
    12 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 4. **Plant Functional Traits Define Microbial Response to Nutrient Availability in Tropical Rainforest Soil** (2025)
-   7 citations
+   8 citations
 
 5. **Long-Term Phosphorus Addition Alleviates Co2 and N2o Emissions Via Altering Soil Microbial Functions in Secondary Rather Primary Tropical Forests** (2022)
    1 citations · Soil Carbon

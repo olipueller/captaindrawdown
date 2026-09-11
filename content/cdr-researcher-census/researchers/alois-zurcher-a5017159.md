@@ -1,7 +1,7 @@
 ---
 title: "Alois Zürcher"
 description: "Alois Zürcher is a Senior Soil Carbon researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.016632
+date: 2026-09-11T02:38:29.984571
 url: "/cdr-researcher-census/researchers/alois-zurcher-a5017159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 192 |
+| Citations | 195 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

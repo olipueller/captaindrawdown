@@ -1,7 +1,7 @@
 ---
 title: "Ileana Frasier"
-description: "Ileana Frasier is a Mid-career Soil Carbon researcher at Instituto Nacional de Tecnologia in BR. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.613098
+description: "Ileana Frasier is a Mid-career Soil Carbon researcher at Centro Científico Tecnológico - Tucumán in AR. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.564103
 url: "/cdr-researcher-census/researchers/ileana-frasier-a5089551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ileana-frasier-a5089551/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituto Nacional de Tecnologia"
+    "name": "Centro Cient\u00edfico Tecnol\u00f3gico - Tucum\u00e1n"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6979-8933",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ileana Frasier**  
-Instituto Nacional de Tecnologia · 🇧🇷 BR
+Centro Científico Tecnológico - Tucumán ·  AR
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 396 |
-| Publications | 36 |
-| CDR Focus | 11.1% |
+| Citations | 406 |
+| Publications | 38 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **From science to practice: The AGSUS protocol for monitoring and certification of sustainable soil management and carbon sequestration** (2024)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **TRUESOIL Project: Understanding Trade-offs and Dynamic Interactions between SOC Stocks and GHG Emissions for Climate Smart Agrisoil Management** (2023)
    0 citations · General CDR

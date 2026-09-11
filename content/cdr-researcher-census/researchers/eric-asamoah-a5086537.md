@@ -1,7 +1,7 @@
 ---
 title: "Eric Asamoah"
-description: "Eric Asamoah is a Mid-career Soil Carbon researcher at ISRIC - World Soil Information in NL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.887042
+description: "Eric Asamoah is a Mid-career Soil Carbon researcher at ISRIC - World Soil Information in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.812981
 url: "/cdr-researcher-census/researchers/eric-asamoah-a5086537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 231 |
+| h-index | 8 |
+| Citations | 252 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Qingxian Kong"
 description: "Qingxian Kong is a Senior Soil Carbon researcher at Tobacco Research Institute in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.449835
+date: 2026-09-11T02:38:29.400257
 url: "/cdr-researcher-census/researchers/qingxian-kong-a5110363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 593 |
+| Citations | 608 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations
 
 2. **Variation in microbial communities and network ecological clusters driven by soil organic carbon in an inshore saline soil amended with hydrochar in Yellow River Delta, China** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jingxiong Zhou"
 description: "Jingxiong Zhou is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.548889
+date: 2026-09-11T02:38:29.483964
 url: "/cdr-researcher-census/researchers/jingxiong-zhou-a5107459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 458 |
+| Citations | 486 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Exiting |
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regional spatial variability of soil organic carbon in 0–5 m depth and its dominant factors** (2023)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Factors controlling the spatial variability of soil aggregates and associated organic carbon across a semi-humid watershed** (2021)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

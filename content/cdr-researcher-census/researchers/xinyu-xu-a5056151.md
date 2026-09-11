@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Xu"
-description: "Xinyu Xu is a Mid-career Soil Carbon researcher at Tokyo University of Technology in JP. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.400122
+description: "Xinyu Xu is a Mid-career Soil Carbon researcher at Tokyo University of Technology in JP. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.338695
 url: "/cdr-researcher-census/researchers/xinyu-xu-a5056151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 690 |
-| Publications | 37 |
-| CDR Focus | 8.1% |
+| Citations | 734 |
+| Publications | 38 |
+| CDR Focus | 7.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   66 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Supplementary original data** (2023)
    0 citations · Soil Carbon

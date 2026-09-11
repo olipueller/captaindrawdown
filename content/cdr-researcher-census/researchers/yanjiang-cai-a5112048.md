@@ -1,7 +1,7 @@
 ---
 title: "Yanjiang Cai"
-description: "Yanjiang Cai is an Eminent Soil Carbon researcher at Zhejiang A&F University in CN. With 169 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.096145
+description: "Yanjiang Cai is an Eminent Soil Carbon researcher at Zhejiang A&F University in CN. With 175 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.045862
 url: "/cdr-researcher-census/researchers/yanjiang-cai-a5112048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 44 |
-| Citations | 5,145 |
-| Publications | 169 |
-| CDR Focus | 5.9% |
+| h-index | 45 |
+| Citations | 5,400 |
+| Publications | 175 |
+| CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   119 citations
+   121 citations
 
 2. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 3. **Patterns and abiotic drivers of soil organic carbon in perennial tea (Camellia sinensis L.) plantation system of China** (2023)
    24 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Nana Luo"
-description: "Nana Luo is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology Hospital in CN. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.296639
+description: "Nana Luo is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology Hospital in CN. With 90 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.241818
 url: "/cdr-researcher-census/researchers/nana-luo-a5038492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,008 |
-| Publications | 89 |
+| Citations | 1,050 |
+| Publications | 90 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects on soil organic carbon accumulation and mineralization of long-term vegetation restoration in Southwest China karst** (2022)
-   53 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Biochar promotes soil aggregate stability and associated organic carbon sequestration and regulates microbial community structures in Mollisols from northeast China** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 3. **The Residue Chemistry Transformation Linked to the Fungi Keystone Taxa during Different Residue Tissues Incorporation into Mollisols in Northeast China** (2024)
    7 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China** (2022)
    5 citations
 
-5. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
-   1 citations · Biochar
+5. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
+   1 citations · Soil Carbon
 
-6. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
-   0 citations · Soil Carbon
+6. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
+   1 citations · Biochar
 
 7. **Comment on egusphere-2022-1084** (2023)
    0 citations · Biochar

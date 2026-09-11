@@ -1,7 +1,7 @@
 ---
 title: "Rose Abramoff"
-description: "Rose Abramoff is a Senior Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 112 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.110914
+description: "Rose Abramoff is a Senior Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 111 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.058401
 url: "/cdr-researcher-census/researchers/rose-abramoff-a5059556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 4,045 |
-| Publications | 112 |
-| CDR Focus | 8.0% |
+| Citations | 4,293 |
+| Publications | 111 |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Global stocks and capacity of mineral-associated soil organic carbon** (2022)
-   883 citations · Soil Carbon
+   921 citations · Soil Carbon
 
 2. **Improved global-scale predictions of soil carbon stocks with Millennial Version 2** (2021)
-   165 citations · Soil Carbon
+   167 citations · Soil Carbon
 
 3. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
-   154 citations
+   156 citations
 
 4. **Model uncertainty obscures major driver of soil carbon** (2024)
    23 citations
 
 5. **Soil carbon offset markets are not a just climate solution** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 6. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   8 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 7. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 8. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
    0 citations · Enhanced Weathering

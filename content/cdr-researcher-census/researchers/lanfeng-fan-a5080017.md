@@ -1,7 +1,7 @@
 ---
 title: "Lan‐Feng Fan"
-description: "Lan‐Feng Fan is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.994325
+description: "Lan‐Feng Fan is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.956842
 url: "/cdr-researcher-census/researchers/lanfeng-fan-a5080017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,10 +40,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 198 |
-| Publications | 19 |
-| CDR Focus | 15.8% |
-| Trajectory | Stable |
+| Citations | 202 |
+| Publications | 20 |
+| CDR Focus | 20.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 3. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
    8 citations · Ocean CDR
+
+4. **Wastewater treatment-induced carbonate chemistry alteration and its implications for ocean alkalinity enhancement** (2026)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

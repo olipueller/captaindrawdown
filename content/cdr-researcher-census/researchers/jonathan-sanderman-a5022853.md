@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Sanderman"
-description: "Jonathan Sanderman is an Eminent Soil Carbon researcher at Woodwell Climate Research Center in US. With 253 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.065401
+description: "Jonathan Sanderman is an Eminent Soil Carbon researcher at Woodwell Climate Research Center in US. With 254 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.018059
 url: "/cdr-researcher-census/researchers/jonathan-sanderman-a5022853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 58 |
-| Citations | 19,747 |
-| Publications | 253 |
-| CDR Focus | 6.3% |
+| Citations | 20,310 |
+| Publications | 254 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   244 citations · General CDR
+   254 citations · General CDR
 
 2. **The global potential for increased storage of carbon on land** (2022)
-   235 citations · General CDR
+   241 citations · General CDR
 
 3. **Crediting agricultural soil carbon sequestration** (2022)
-   203 citations · General CDR
+   211 citations · General CDR
 
 4. **Declines in soil carbon storage under no tillage can be alleviated in the long run** (2022)
    102 citations · Soil Carbon
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 6. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
-   26 citations · General CDR
+   28 citations · General CDR
 
 7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
    24 citations · General CDR
 
-8. **Can Agricultural Management Induced Changes in Soil Organic Carbon Be Detected Using Mid-Infrared Spectroscopy?** (2021)
-   20 citations · Soil Carbon
+8. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
+   20 citations · General CDR
 
-9. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   18 citations · General CDR
+9. **Can Agricultural Management Induced Changes in Soil Organic Carbon Be Detected Using Mid-Infrared Spectroscopy?** (2021)
+   20 citations · Soil Carbon
 
 10. **Comparison of pyrogenic carbon abundance in coarse-textured soil by hydrogen pyrolysis, NMR and dichromate oxidation and MIR-PLSR** (2025)
    6 citations · Biochar

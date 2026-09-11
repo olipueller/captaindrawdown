@@ -1,7 +1,7 @@
 ---
 title: "Abhijit Maiti"
 description: "Abhijit Maiti is a Senior Biochar researcher at Indian Institute of Technology Roorkee in IN. With 83 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.118734
+date: 2026-09-11T02:38:29.069260
 url: "/cdr-researcher-census/researchers/abhijit-maiti-a5056461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,569 |
+| Citations | 3,632 |
 | Publications | 83 |
 | CDR Focus | 7.2% |
 | Trajectory | Stable |
@@ -54,19 +54,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    56 citations · Biochar
 
 2. **A review on biochar composites for soil remediation applications: Comprehensive solution to contemporary challenges** (2023)
-   46 citations · Biochar
+   47 citations · Biochar
 
 3. **Optimized synthesis and characterization of laterite biochar composite for arsenic removal: examining colloidal stability and As(III) oxidation** (2024)
    22 citations · Biochar
 
 4. **Enhanced arsenic immobilization from contaminated soil to crops, carbon sequestration, and soil fertility using laterite Biochar composites** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 5. **Catalytic adsorption of NO2 at low concentration range from indoor environment using Modified-laterite biochar composite** (2025)
    3 citations · Biochar
 
 6. **Comparative Evaluation of Mineral-Modified Biochar: Process Tunability, Characteristics, and Sustainable Application Potential** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

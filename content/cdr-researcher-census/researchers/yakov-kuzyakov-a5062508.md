@@ -1,7 +1,7 @@
 ---
 title: "Yakov Kuzyakov"
-description: "Yakov Kuzyakov is an Eminent Soil Carbon researcher at Georg-August-Universität Göttingen in DE. With 1451 publications and an h-index of 147, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.056920
+description: "Yakov Kuzyakov is an Eminent Soil Carbon researcher at Georg-August-Universität Göttingen in DE. With 1461 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.009464
 url: "/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 147 |
-| Citations | 95,845 |
-| Publications | 1451 |
+| h-index | 150 |
+| Citations | 99,154 |
+| Publications | 1461 |
 | CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial necromass as the source of soil organic carbon in global ecosystems** (2021)
-   936 citations · Soil Carbon
+   967 citations · Soil Carbon
 
 2. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   418 citations · Soil Carbon
+   427 citations · Soil Carbon
 
 3. **Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils** (2022)
-   314 citations · Biochar
+   327 citations · Biochar
 
 4. **Glycoproteins of arbuscular mycorrhiza for soil carbon sequestration: Review of mechanisms and controls** (2021)
-   298 citations
+   300 citations
 
 5. **Increasing contribution of microbial residues to soil organic carbon in grassland restoration chronosequence** (2022)
-   264 citations
+   271 citations
 
 6. **Dual nature of soil structure: The unity of aggregates and pores** (2023)
-   252 citations · Soil Carbon
+   265 citations · Soil Carbon
 
-7. **Inorganic carbon losses by soil acidification jeopardize global efforts on carbon sequestration and climate change mitigation** (2021)
-   221 citations · Soil Carbon
+7. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
+   230 citations · Soil Carbon
 
-8. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
-   218 citations · Soil Carbon
+8. **Inorganic carbon losses by soil acidification jeopardize global efforts on carbon sequestration and climate change mitigation** (2021)
+   223 citations · Soil Carbon
 
 9. **Stoichiometric regulation of priming effects and soil carbon balance by microbial life strategies** (2022)
-   216 citations · Soil Carbon
+   222 citations · Soil Carbon
 
 10. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   214 citations · Soil Carbon
+   219 citations · Soil Carbon
 
 ## External Profiles
 

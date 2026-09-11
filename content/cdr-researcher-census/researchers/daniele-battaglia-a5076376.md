@@ -1,7 +1,7 @@
 ---
 title: "Daniele Battaglia"
-description: "Daniele Battaglia is a Senior Biochar researcher at Western University in CA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423387
+description: "Daniele Battaglia is a Senior Biochar researcher at Western University in CA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.375786
 url: "/cdr-researcher-census/researchers/daniele-battaglia-a5076376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 638 |
+| h-index | 7 |
+| Citations | 651 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

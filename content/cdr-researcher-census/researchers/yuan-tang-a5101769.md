@@ -1,7 +1,7 @@
 ---
 title: "Yuan Tang"
-description: "Yuan Tang is a Senior Biochar researcher at Ministry of Agriculture in CN. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.420947
+description: "Yuan Tang is a Senior Biochar researcher at Ministry of Agriculture in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.373875
 url: "/cdr-researcher-census/researchers/yuan-tang-a5101769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 643 |
-| Publications | 41 |
-| CDR Focus | 9.8% |
+| h-index | 15 |
+| Citations | 655 |
+| Publications | 42 |
+| CDR Focus | 9.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

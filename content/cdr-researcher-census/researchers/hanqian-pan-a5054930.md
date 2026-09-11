@@ -1,7 +1,7 @@
 ---
 title: "Hanqian Pan"
-description: "Hanqian Pan is a Mid-career DAC researcher at Chongqing University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971665
+description: "Hanqian Pan is a Mid-career DAC researcher at Chongqing University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.866244
 url: "/cdr-researcher-census/researchers/hanqian-pan-a5054930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 206 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 8 |
+| Citations | 229 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Emerging porous materials for carbon dioxide adsorptive capture: progress and challenges** (2023)
-   42 citations · DAC
+   46 citations · DAC
 
 ## External Profiles
 

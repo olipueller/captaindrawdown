@@ -1,7 +1,7 @@
 ---
 title: "Jishuai Zhu"
 description: "Jishuai Zhu is a Mid-career Soil Carbon researcher at Jilin University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248511
+date: 2026-09-11T02:38:30.201828
 url: "/cdr-researcher-census/researchers/jishuai-zhu-a5051842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
+| Citations | 137 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Utilizing steel slag carbonation to mitigate soil dispersibility: Dual benefits of carbon sequestration and soil stabilization from industrial solid waste** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

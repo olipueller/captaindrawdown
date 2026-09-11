@@ -1,7 +1,7 @@
 ---
 title: "Usama F. Mahmoud"
-description: "Usama F. Mahmoud is a Senior Biochar researcher at Al-Azhar University in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.806484
+description: "Usama F. Mahmoud is a Senior Biochar researcher at Al-Azhar University in EG. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.768341
 url: "/cdr-researcher-census/researchers/usama-f-mahmoud-a5114041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 269 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 274 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

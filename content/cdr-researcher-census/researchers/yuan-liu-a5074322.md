@@ -1,7 +1,7 @@
 ---
 title: "Yuan Liu"
 description: "Yuan Liu is a Senior Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.156057
+date: 2026-09-11T02:38:29.104674
 url: "/cdr-researcher-census/researchers/yuan-liu-a5074322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,334 |
+| Citations | 2,406 |
 | Publications | 74 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
-   218 citations · Soil Carbon
+   230 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **An antagonistic effect of elevated CO2 and warming on soil N2O emissions related to nitrifier and denitrifier communities in a Chinese wheat field** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon

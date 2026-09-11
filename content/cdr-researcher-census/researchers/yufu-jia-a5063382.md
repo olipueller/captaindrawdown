@@ -1,7 +1,7 @@
 ---
 title: "Yufu Jia"
-description: "Yufu Jia is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.292040
+description: "Yufu Jia is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.235764
 url: "/cdr-researcher-census/researchers/yufu-jia-a5063382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,032 |
+| h-index | 17 |
+| Citations | 1,076 |
 | Publications | 36 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the accumulation efficiency of various microbial carbon components in soils of different minerals** (2021)
-   81 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 2. **Soil organic carbon sourcing variance in the rhizosphere vs. non-rhizosphere of two mycorrhizal tree species** (2022)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

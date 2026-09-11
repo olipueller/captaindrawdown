@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
-description: "J. L. Meshalkina is a Senior Soil Carbon researcher. With 68 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.736551
+description: "J. L. Meshalkina is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 71 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.679907
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "J. L. Meshalkina",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Lomonosov Moscow State University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-1513-2439",
     "https://openalex.org/A5041662498"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**J. L. Meshalkina**
+**J. L. Meshalkina**  
+Lomonosov Moscow State University · 🇷🇺 RU
 
 **Career Stage:** Senior
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 306 |
-| Publications | 68 |
-| CDR Focus | 10.3% |
+| Citations | 320 |
+| Publications | 71 |
+| CDR Focus | 9.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Tiefeng Chen"
-description: "Tiefeng Chen is a Senior Biochar researcher at Nanyang Technological University in SG. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.138633
+description: "Tiefeng Chen is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 60 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.086349
 url: "/cdr-researcher-census/researchers/tiefeng-chen-a5025500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tiefeng-chen-a5025500/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanyang Technological University"
+    "name": "Harbin Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1045-6397",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tiefeng Chen**  
-Nanyang Technological University · 🇸🇬 SG
+Harbin Institute of Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 2,817 |
+| h-index | 25 |
+| Citations | 2,963 |
 | Publications | 60 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

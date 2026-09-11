@@ -1,7 +1,7 @@
 ---
 title: "Changfu Liu"
-description: "Changfu Liu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.235335
+description: "Changfu Liu is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 75 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.182295
 url: "/cdr-researcher-census/researchers/changfu-liu-a5101536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,365 |
+| h-index | 17 |
+| Citations | 1,405 |
 | Publications | 75 |
 | CDR Focus | 8.0% |
 | Trajectory | Exiting |
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 4. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Patterns and Determinants of Lignin and Microbial Necromass Carbon in a Chronosequence of Subtropical Pinus Massoniana Plantations** (2023)
    0 citations · Soil Carbon

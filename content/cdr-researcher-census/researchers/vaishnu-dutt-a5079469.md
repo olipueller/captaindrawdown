@@ -1,7 +1,7 @@
 ---
 title: "Vaishnu Dutt"
-description: "Vaishnu Dutt is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 46 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.289533
+description: "Vaishnu Dutt is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 47 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.225359
 url: "/cdr-researcher-census/researchers/vaishnu-dutt-a5079469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 124 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 132 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Apple-based agroforestry systems for biomass production and carbon sequestration: implication for food security and climate change contemplates in temperate region of Northern Himalaya, India** (2021)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
-2. **Ecosystem services through Agroforestry: A review** (2025)
+2. **Soil Health and Carbon Stock Enhancement through Fruit Tree-based Agroforestry in the Degraded Lands of Central Kashmir Himalayas** (2026)
+   1 citations · Soil Carbon
+
+3. **Ecosystem services through Agroforestry: A review** (2025)
    1 citations · General CDR
-
-3. **Soil Health and Carbon Stock Enhancement through Fruit Tree-based Agroforestry in the Degraded Lands of Central Kashmir Himalayas** (2026)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

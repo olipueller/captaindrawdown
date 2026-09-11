@@ -1,7 +1,7 @@
 ---
 title: "Theodore A. Chavkin"
 description: "Theodore A. Chavkin is a Senior Ocean CDR researcher at University of Wisconsin–Madison in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.252009
+date: 2026-09-11T02:38:29.201408
 url: "/cdr-researcher-census/researchers/theodore-a-chavkin-a5030355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 1,242 |
+| Citations | 1,270 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Cyanobacteria newly isolated from marine volcanic seeps display rapid sinking and robust, high-density growth** (2024)
-   10 citations · General CDR
+   12 citations · General CDR
 
 2. **Techno-economic analysis of an integrated process for cyanobacteria-based nutrient recovery from livestock waste** (2025)
    4 citations

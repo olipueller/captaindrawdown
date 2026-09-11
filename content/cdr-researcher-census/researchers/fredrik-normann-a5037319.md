@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
-description: "Fredrik Normann is a Senior General CDR researcher at Luossavaara-Kiirunavaara Aktiebolag (Sweden) in SE. With 162 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.131972
+description: "Fredrik Normann is a Senior General CDR researcher at Luossavaara-Kiirunavaara Aktiebolag (Sweden) in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.082647
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,061 |
-| Publications | 162 |
-| CDR Focus | 6.2% |
+| h-index | 33 |
+| Citations | 3,116 |
+| Publications | 170 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A techno-economic assessment of CO2 capture in biomass and waste-fired combined heat and power plants – A Swedish case study** (2022)
-   71 citations · BECCS
+   72 citations · BECCS
 
-2. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
+2. **Modeling the development of a carbon capture and transportation infrastructure for Swedish industry** (2023)
+   17 citations · General CDR
+
+3. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
    17 citations · BECCS
-
-3. **Modeling the development of a carbon capture and transportation infrastructure for Swedish industry** (2023)
-   16 citations · General CDR
 
 4. **Cost-optimal CO2 capture and transport infrastructure—A case study of Sweden** (2024)
    13 citations · General CDR

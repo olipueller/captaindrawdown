@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Guo"
-description: "Tengfei Guo is a Mid-career Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.480943
+description: "Tengfei Guo is a Mid-career Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.418726
 url: "/cdr-researcher-census/researchers/tengfei-guo-a5087496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 544 |
-| Publications | 24 |
-| CDR Focus | 25.0% |
+| Citations | 580 |
+| Publications | 25 |
+| CDR Focus | 24.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic amendment strategies differentially regulate microbial carbon use efficiency: A long-term field study integrating microorganism and enzymatic stoichiometry** (2025)
-   16 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Successive walnut plantations alter soil carbon quantity and quality by modifying microbial communities and enzyme activities** (2022)
    12 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Combined Fertilization Could Increase Crop Productivity and Reduce Greenhouse Gas Intensity through Carbon Sequestration under Rice-Wheat Rotation** (2021)
    11 citations · Soil Carbon
 
-5. **Impacts of long-term different fertilization regimes on microbial utilization of straw-derived carbon in greenhouse vegetable soils: insights from its ecophysiological roles and temperature responses** (2024)
-   7 citations · Soil Carbon
+5. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
+   8 citations · Soil Carbon
 
-6. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
-   6 citations · Soil Carbon
+6. **Impacts of long-term different fertilization regimes on microbial utilization of straw-derived carbon in greenhouse vegetable soils: insights from its ecophysiological roles and temperature responses** (2024)
+   7 citations · Soil Carbon
 
 ## External Profiles
 

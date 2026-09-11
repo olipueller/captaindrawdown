@@ -1,7 +1,7 @@
 ---
 title: "Lidia Benedini"
 description: "Lidia Benedini is a Mid-career Biochar researcher at Mental Research Institute in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.200841
+date: 2026-09-11T02:38:30.122549
 url: "/cdr-researcher-census/researchers/lidia-benedini-a5025563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 142 |
+| Citations | 155 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Hydrothermal carbonization and pyrolysis in wetland engineering: Carbon sequestration, phosphorus recovery, and structural characterization of willow-based chars with X-ray μ-computed tomography** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Characteristics of Straw Pyrolysis Bio-Oils from an Updraft Pyrolysis Process** (2026)
    2 citations · Biochar

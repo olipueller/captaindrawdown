@@ -1,7 +1,7 @@
 ---
 title: "Sonali R. Dhokpande"
 description: "Sonali R. Dhokpande is a Mid-career Biochar researcher at Datta Meghe Institute of Higher Education and Research in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.769905
+date: 2026-09-11T02:38:29.701237
 url: "/cdr-researcher-census/researchers/sonali-r-dhokpande-a5023162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 288 |
+| Citations | 308 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review of carbon-based adsorbents for the removal of organic and inorganic components** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Adsorption of heavy metal ions by carbon-based adsorbent using magnetic nitrogen-doped carbon and graphene oxide** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Efficient removal of Cr(VI) ions from industrial wastewater using carbon-based adsorbents functionalized with boronic acid** (2024)
    0 citations · Biochar

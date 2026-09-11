@@ -1,7 +1,7 @@
 ---
 title: "Bofu Zheng"
 description: "Bofu Zheng is a Senior Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636724
+date: 2026-09-11T02:38:29.586579
 url: "/cdr-researcher-census/researchers/bofu-zheng-a5102151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 377 |
+| Citations | 388 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the interrelations and driving factors among typical ecosystem services in the Yangtze river economic Belt, China** (2023)
-   96 citations
+   98 citations
 
 2. **Seasonal flooding wetland expansion would strongly affect soil and sediment organic carbon storage and carbon-nutrient stoichiometry** (2022)
    35 citations · Soil Carbon

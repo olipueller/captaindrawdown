@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Lackman"
-description: "Isabelle Lackman is a Senior Soil Carbon researcher at Sabah Environmental Trust in MY. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.373983
+description: "Isabelle Lackman is a Senior Soil Carbon researcher at Sabah Environmental Trust in MY. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.330343
 url: "/cdr-researcher-census/researchers/isabelle-lackman-a5043321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 750 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 10 |
+| Citations | 756 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

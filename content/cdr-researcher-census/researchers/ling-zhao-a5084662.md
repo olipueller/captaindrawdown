@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhao"
-description: "Ling Zhao is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 174 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.072624
+description: "Ling Zhao is an Eminent Biochar researcher at Shenyang Agricultural University in CN. With 175 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.024967
 url: "/cdr-researcher-census/researchers/ling-zhao-a5084662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ling-zhao-a5084662/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanghai Jiao Tong University"
+    "name": "Shenyang Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3956-5837",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ling Zhao**  
-Shanghai Jiao Tong University · 🇨🇳 CN
+Shenyang Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 
@@ -42,37 +42,37 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 57 |
-| Citations | 11,381 |
-| Publications | 174 |
+| h-index | 58 |
+| Citations | 11,634 |
+| Publications | 175 |
 | CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A sustainable reuse strategy of converting waste activated sludge into biochar for contaminants removal from water: Modifications, applications and perspectives** (2022)
-   155 citations · Biochar
+   160 citations · Biochar
 
 2. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   135 citations · Biochar
+   137 citations · Biochar
 
 3. **Biochar as carbon sequestration material combines with sewage sludge incineration ash to prepare lightweight concrete** (2022)
-   95 citations · Biochar
+   96 citations · Biochar
 
 4. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   93 citations · Biochar
+   95 citations · Biochar
 
 5. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
    81 citations · Biochar
 
 6. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   50 citations · Biochar
+   55 citations · Biochar
 
 7. **Activation of peroxydisulfate by ball-milled α-FeOOH/biochar composite for phenol removal: Component contribution and internal mechanisms** (2021)
    43 citations · Biochar
 
 8. **Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization** (2021)
-   29 citations · Biochar
+   30 citations · Biochar
 
 9. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
    18 citations · Biochar

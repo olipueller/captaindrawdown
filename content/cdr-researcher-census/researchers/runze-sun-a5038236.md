@@ -1,7 +1,7 @@
 ---
 title: "Runze Sun"
-description: "Runze Sun is a Mid-career Biochar researcher at University of Missouri in US. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554708
+description: "Runze Sun is a Mid-career Biochar researcher at University of Missouri in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.457670
 url: "/cdr-researcher-census/researchers/runze-sun-a5038236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 451 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 518 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Pre- and Postapplication Thermal Treatment Strategies for Sorption Enhancement and Reactivation of Biochars for Removal of Per- and Polyfluoroalkyl Substances from Water** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuqi Wei"
-description: "Yuqi Wei is a Senior Soil Carbon researcher at Shanxi University in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348282
+description: "Yuqi Wei is a Senior Soil Carbon researcher at Shanxi University in CN. With 43 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.290413
 url: "/cdr-researcher-census/researchers/yuqi-wei-a5103820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 820 |
-| Publications | 42 |
-| CDR Focus | 7.1% |
+| h-index | 17 |
+| Citations | 869 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Macrofungi promote SOC decomposition and weaken sequestration by modulating soil microbial function in temperate steppe** (2023)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Subsurface leaf and root litter enhance soil carbon formation compared to surface litter: Direct evidence from a <scp> <sup>13</sup> C </scp> ‐labelled incubation experiment** (2025)
    2 citations · Soil Carbon

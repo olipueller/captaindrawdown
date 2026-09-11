@@ -1,7 +1,7 @@
 ---
 title: "Juliana Vantellingen"
 description: "Juliana Vantellingen is a Mid-career Soil Carbon researcher at Landscape Institute in GB. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.983848
+date: 2026-09-11T02:38:29.940482
 url: "/cdr-researcher-census/researchers/juliana-vantellingen-a5027000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 202 |
+| Citations | 209 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

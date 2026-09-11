@@ -1,7 +1,7 @@
 ---
 title: "Shuwei Fang"
 description: "Shuwei Fang is a Senior Biochar researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.398929
+date: 2026-09-11T02:38:30.350111
 url: "/cdr-researcher-census/researchers/shuwei-fang-a5029177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 108 |
 | Publications | 11 |
 | CDR Focus | 27.3% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as carbon sequestration material combines with sewage sludge incineration ash to prepare lightweight concrete** (2022)
-   95 citations · Biochar
+   96 citations · Biochar
 
 2. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
    18 citations · Biochar

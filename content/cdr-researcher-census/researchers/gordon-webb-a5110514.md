@@ -1,7 +1,7 @@
 ---
 title: "Gordon Webb"
 description: "Gordon Webb is a Senior General CDR researcher at The University of Melbourne in AU. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.798091
+date: 2026-09-11T02:38:29.765345
 url: "/cdr-researcher-census/researchers/gordon-webb-a5110514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 273 |
+| Citations | 275 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

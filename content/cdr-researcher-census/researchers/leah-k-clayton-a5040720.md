@@ -1,7 +1,7 @@
 ---
 title: "Leah K. Clayton"
-description: "Leah K. Clayton is an Early-career General CDR researcher at National Audubon Society in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.225512
+description: "Leah K. Clayton is an Early-career BECCS researcher at National Audubon Society in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.162425
 url: "/cdr-researcher-census/researchers/leah-k-clayton-a5040720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,26 +34,29 @@ National Audubon Society · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 136 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 145 |
+| Publications | 12 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nonenergy Biomass Carbon Removal and Storage (BiCRS): Assessing Durability of Nongaseous Carbon Products Across Terrestrial Storage Fates** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
-2. **Near-term Opportunities for BiCRS Pathways to Address the Wildfire Crisis: New Learnings from Early Geospatial Analyses and Field Deployments of Biomass Burial in the US West** (2026)
+2. **Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises** (2026)
+   0 citations · BECCS
+
+3. **Near-term Opportunities for BiCRS Pathways to Address the Wildfire Crisis: New Learnings from Early Geospatial Analyses and Field Deployments of Biomass Burial in the US West** (2026)
    0 citations
 
 ## External Profiles

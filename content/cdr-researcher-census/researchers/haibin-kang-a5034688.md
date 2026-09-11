@@ -1,7 +1,7 @@
 ---
 title: "Haibin Kang"
-description: "Haibin Kang is a Mid-career Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795278
+description: "Haibin Kang is a Mid-career Soil Carbon researcher at The University of Western Australia in AU. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.738531
 url: "/cdr-researcher-census/researchers/haibin-kang-a5034688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haibin-kang-a5034688/",
   "affiliation": {
     "@type": "Organization",
-    "name": "State Forestry and Grassland Administration"
+    "name": "The University of Western Australia"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0547-3056",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haibin Kang**  
-State Forestry and Grassland Administration · 🇨🇳 CN
+The University of Western Australia · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 275 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 289 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

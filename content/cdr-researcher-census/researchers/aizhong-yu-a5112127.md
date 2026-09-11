@@ -1,7 +1,7 @@
 ---
 title: "Aizhong Yu"
-description: "Aizhong Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 112 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.122979
+description: "Aizhong Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 114 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.071096
 url: "/cdr-researcher-census/researchers/aizhong-yu-a5112127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 34 |
-| Citations | 3,412 |
-| Publications | 112 |
-| CDR Focus | 8.9% |
+| h-index | 35 |
+| Citations | 3,555 |
+| Publications | 114 |
+| CDR Focus | 8.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Reducing nitrogen application by 20% under the condition of multiple cropping using green manure after wheat harvesting can mitigate carbon emission without sacrificing maize yield in arid areas** (2023)
    32 citations · Soil Carbon
 
-3. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
-   9 citations · Soil Carbon
+3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
+   10 citations
 
-4. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
-   9 citations
+4. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
+   9 citations · Soil Carbon
 
 5. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
    7 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 7. **A review of mechanisms underlying soil carbon sequestration and enhancement strategies via diversified planting and green manure integration** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 8. **Recent advances in soil carbon sequestration and emission reduction within legume green manure enhanced rotation systems: a review** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 9. **No-tillage with total green manure mulching reduces soil respiration by regulating soil moisture affecting heterotrophic respiration** (2024)
    1 citations · Soil Carbon

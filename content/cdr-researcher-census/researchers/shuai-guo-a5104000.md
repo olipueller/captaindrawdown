@@ -1,7 +1,7 @@
 ---
 title: "Shuai Guo"
 description: "Shuai Guo is a Mid-career Biochar researcher at Nanjing University of Information Science and Technology in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.325520
+date: 2026-09-11T02:38:30.234196
 url: "/cdr-researcher-census/researchers/shuai-guo-a5104000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
+| Citations | 130 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Poonam Panchal"
 description: "Poonam Panchal is a Mid-career Soil Carbon researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.311773
+date: 2026-09-11T02:38:29.253395
 url: "/cdr-researcher-census/researchers/poonam-panchal-a5064242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 948 |
+| Citations | 997 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration by root exudates** (2022)
-   428 citations · Soil Carbon
+   444 citations · Soil Carbon
 
 2. **Organic acids: versatile stress-response roles in plants** (2021)
-   322 citations
+   329 citations
 
 ## External Profiles
 

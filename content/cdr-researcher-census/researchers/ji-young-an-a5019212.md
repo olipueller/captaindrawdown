@@ -1,7 +1,7 @@
 ---
 title: "Ji Young An"
-description: "Ji Young An is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.587535
+description: "Ji Young An is a Mid-career Soil Carbon researcher at Kyushu University in JP. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.539374
 url: "/cdr-researcher-census/researchers/ji-young-an-a5019212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ji-young-an-a5019212/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Gyeongsang National University"
+    "name": "Kyushu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8573-0456",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ji Young An**  
-Gyeongsang National University · 🇰🇷 KR
+Kyushu University · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 420 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| h-index | 11 |
+| Citations | 430 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
-   0 citations
+   1 citations · Soil Carbon
 
 3. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 4. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
    0 citations · Soil Carbon

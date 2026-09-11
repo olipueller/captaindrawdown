@@ -1,7 +1,7 @@
 ---
 title: "Yongfei Ma"
-description: "Yongfei Ma is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.198220
+description: "Yongfei Ma is a Senior Biochar researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.143507
 url: "/cdr-researcher-census/researchers/yongfei-ma-a5102726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Yongfei Ma**  
 Wuhan University of Technology · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,695 |
+| h-index | 20 |
+| Citations | 1,773 |
 | Publications | 41 |
 | CDR Focus | 7.3% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient activation of ferrate (VI) via corncob biochar assisted by electrochemistry for the removal of sulfamethoxazole from water** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Novel insights into ferrate (VI) activation by Mn-modified sludge biochar for sulfamethoxazole degradation: Dominance of hydroxyl group and Mn-O bond in the non-radical pathway** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Ferrate (VI) oxidation of sulfamethoxazole enhanced by magnetized sludge-based biochar: Active sites regulation and degradation mechanism analysis** (2024)
    10 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Shengai Jin"
 description: "Shengai Jin is a Senior Biochar researcher at Qingdao Agricultural University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130012
+date: 2026-09-11T02:38:30.084996
 url: "/cdr-researcher-census/researchers/shengai-jin-a5038768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 159 |
+| Citations | 165 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |

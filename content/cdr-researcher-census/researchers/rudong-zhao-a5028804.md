@@ -1,7 +1,7 @@
 ---
 title: "Rudong Zhao"
-description: "Rudong Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.428243
+description: "Rudong Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.372019
 url: "/cdr-researcher-census/researchers/rudong-zhao-a5028804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 632 |
-| Publications | 38 |
-| CDR Focus | 13.2% |
+| h-index | 14 |
+| Citations | 660 |
+| Publications | 37 |
+| CDR Focus | 13.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -57,12 +57,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 3. **Impact of nitrogen addition on soil organic carbon across ecosystems: Microbial roles and environmental regulation** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-4. **Warming alters the effects of roots and extramatrical mycelia on soil organic carbon and its composition in a Tibetan plateau swamp meadow** (2025)
-   0 citations · Soil Carbon
+4. **Nitrogen addition and precipitation reduction regulate soil organic carbon storage with contrasting mechanisms in subtropical forests** (2025)
+   1 citations · Soil Carbon
 
-5. **Nitrogen addition and precipitation reduction regulate soil organic carbon storage with contrasting mechanisms in subtropical forests** (2025)
+5. **Warming alters the effects of roots and extramatrical mycelia on soil organic carbon and its composition in a Tibetan plateau swamp meadow** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

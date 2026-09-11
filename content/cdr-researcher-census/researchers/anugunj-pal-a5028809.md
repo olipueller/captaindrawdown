@@ -1,7 +1,7 @@
 ---
 title: "Anugunj Pal"
-description: "Anugunj Pal is an Early-career Biochar researcher at National Kaohsiung Marine University in TW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.581356
+description: "Anugunj Pal is an Early-career Biochar researcher at University of Science and Technology in YE. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.527079
 url: "/cdr-researcher-census/researchers/anugunj-pal-a5028809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anugunj-pal-a5028809/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Kaohsiung Marine University"
+    "name": "University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5028809096"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Anugunj Pal**  
-National Kaohsiung Marine University · 🇹🇼 TW
+University of Science and Technology ·  YE
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 426 |
+| Citations | 441 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances on tailored biochar for bioremediation of antibiotics, pesticides and polycyclic aromatic hydrocarbon pollutants from aqueous and solid phases** (2022)
-   97 citations · Biochar
+   98 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jean-Yves Cahurel"
-description: "Jean-Yves Cahurel is a Senior Soil Carbon researcher at Industrieverband Feuerverzinken (Germany) in DE. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.794650
+description: "Jean-Yves Cahurel is a Senior Soil Carbon researcher at Industrieverband Feuerverzinken (Germany) in DE. With 32 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.741389
 url: "/cdr-researcher-census/researchers/jean-yves-cahurel-a5017951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 275 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 287 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

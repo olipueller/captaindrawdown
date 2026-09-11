@@ -1,7 +1,7 @@
 ---
 title: "Chenxu Zhao"
 description: "Chenxu Zhao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.721998
+date: 2026-09-11T02:38:29.659879
 url: "/cdr-researcher-census/researchers/chenxu-zhao-a5103843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 315 |
+| Citations | 334 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
-   30 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

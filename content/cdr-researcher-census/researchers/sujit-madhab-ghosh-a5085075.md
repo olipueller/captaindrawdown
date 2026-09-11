@@ -1,7 +1,7 @@
 ---
 title: "Sujit Madhab Ghosh"
 description: "Sujit Madhab Ghosh is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.433805
+date: 2026-09-11T02:38:29.384408
 url: "/cdr-researcher-census/researchers/sujit-madhab-ghosh-a5085075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 620 |
+| Citations | 634 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A novel approach for estimation of aboveground biomass of a carbon-rich mangrove site in India** (2021)
-   66 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 ## External Profiles
 

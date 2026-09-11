@@ -1,7 +1,7 @@
 ---
 title: "Wen Zhang"
 description: "Wen Zhang is a Senior Soil Carbon researcher at Sichuan Academy of Forestry in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.456734
+date: 2026-09-11T02:38:29.405805
 url: "/cdr-researcher-census/researchers/wen-zhang-a5100681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 582 |
+| Citations | 599 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

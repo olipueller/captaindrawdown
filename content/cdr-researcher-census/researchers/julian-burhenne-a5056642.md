@@ -1,7 +1,7 @@
 ---
 title: "Julian Burhenne"
 description: "Julian Burhenne is an Early-career DAC researcher at Universität Hamburg in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286393
+date: 2026-09-11T02:38:30.244669
 url: "/cdr-researcher-census/researchers/julian-burhenne-a5056642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 124 |
+| Citations | 128 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   120 citations · DAC
+   121 citations · DAC
 
 ## External Profiles
 

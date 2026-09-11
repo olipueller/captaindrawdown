@@ -1,7 +1,7 @@
 ---
 title: "Hongye Pei"
 description: "Hongye Pei is a Mid-career Soil Carbon researcher at China University of Geosciences in CN. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.445329
+date: 2026-09-11T02:38:29.393814
 url: "/cdr-researcher-census/researchers/hongye-pei-a5113939/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 600 |
+| Citations | 620 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Archaeal lipids in soils and sediments: Water impact and consequences for microbial carbon sequestration** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

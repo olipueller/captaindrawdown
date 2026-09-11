@@ -1,7 +1,7 @@
 ---
 title: "Nishat Tasnim"
 description: "Nishat Tasnim is a Mid-career Soil Carbon researcher at Bangladesh University of Engineering and Technology in BD. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.472876
+date: 2026-09-11T02:38:29.403546
 url: "/cdr-researcher-census/researchers/nishat-tasnim-a5066543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 556 |
+| Citations | 602 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |

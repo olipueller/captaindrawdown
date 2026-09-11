@@ -1,7 +1,7 @@
 ---
 title: "Zhaoqiang Han"
-description: "Zhaoqiang Han is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 45 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.217028
+description: "Zhaoqiang Han is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.151953
 url: "/cdr-researcher-census/researchers/zhaoqiang-han-a5065555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,503 |
-| Publications | 45 |
-| CDR Focus | 8.9% |
+| h-index | 21 |
+| Citations | 1,686 |
+| Publications | 46 |
+| CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   118 citations · Biochar
+   123 citations · Biochar
 
 2. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Divergent effects of biochar amendment and replacing mineral fertilizer with manure on soil respiration in a subtropical tea plantation** (2023)
    20 citations · Biochar

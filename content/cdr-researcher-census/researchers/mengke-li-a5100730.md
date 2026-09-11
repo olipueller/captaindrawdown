@@ -1,7 +1,7 @@
 ---
 title: "Mengke Li"
-description: "Mengke Li is a Mid-career Biochar researcher at Xinyang Normal University in CN. With 46 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.277908
+description: "Mengke Li is a Mid-career Biochar researcher at Xiangtan University in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.222766
 url: "/cdr-researcher-census/researchers/mengke-li-a5100730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mengke-li-a5100730/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinyang Normal University"
+    "name": "Xiangtan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8053-7534",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mengke Li**  
-Xinyang Normal University · 🇨🇳 CN
+Xiangtan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,100 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| h-index | 19 |
+| Citations | 1,145 |
+| Publications | 47 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

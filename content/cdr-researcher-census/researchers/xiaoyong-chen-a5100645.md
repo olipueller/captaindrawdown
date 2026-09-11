@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Chen"
-description: "Xiaoyong Chen is a Senior Soil Carbon researcher at Governors State University in US. With 95 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.167137
+description: "Xiaoyong Chen is a Senior Soil Carbon researcher at Governors State University in US. With 94 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.116905
 url: "/cdr-researcher-census/researchers/xiaoyong-chen-a5100645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 2,110 |
-| Publications | 95 |
-| CDR Focus | 6.3% |
+| Citations | 2,175 |
+| Publications | 94 |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil Aggregation, Aggregate Stability, and Associated Soil Organic Carbon in Huron Mountains Forests, Michigan, USA** (2025)
    12 citations · Soil Carbon
 
-2. **Biochar-organic fertilizer synergy drives microbial-mediated C-sequestration and N-cycling in mixed forests toward sustainability** (2025)
+2. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
+   9 citations · Soil Carbon
+
+3. **Biochar-organic fertilizer synergy drives microbial-mediated C-sequestration and N-cycling in mixed forests toward sustainability** (2025)
    6 citations · Biochar
 
-3. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
-   6 citations · Soil Carbon
-
 4. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 5. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
    1 citations · Soil Carbon

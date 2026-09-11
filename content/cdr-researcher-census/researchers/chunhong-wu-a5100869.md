@@ -1,7 +1,7 @@
 ---
 title: "Chunhong Wu"
-description: "Chunhong Wu is a Senior Soil Carbon researcher at Binzhou University in CN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.336404
+description: "Chunhong Wu is a Senior Soil Carbon researcher at Shandong University of Aeronautics in CN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.310011
 url: "/cdr-researcher-census/researchers/chunhong-wu-a5100869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chunhong-wu-a5100869/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Binzhou University"
+    "name": "Shandong University of Aeronautics"
   },
   "sameAs": "https://openalex.org/A5100869904"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Chunhong Wu**  
-Binzhou University · 🇨🇳 CN
+Shandong University of Aeronautics · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 115 |
+| Citations | 116 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
-   1 citations · General CDR
+1. **Modeling Soil Organic Carbon Dynamics Under Two Cropping Modes in Salinized Paddy Fields in the Yellow River Delta** (2025)
+   1 citations · Soil Carbon
 
-2. **Modeling Soil Organic Carbon Dynamics Under Two Cropping Modes in Salinized Paddy Fields in the Yellow River Delta** (2025)
-   0 citations · Soil Carbon
+2. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

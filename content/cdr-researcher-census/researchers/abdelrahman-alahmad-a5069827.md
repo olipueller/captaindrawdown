@@ -1,7 +1,7 @@
 ---
 title: "Abdelrahman Alahmad"
-description: "Abdelrahman Alahmad is a Mid-career Soil Carbon researcher at UniLaSalle in FR. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.527885
+description: "Abdelrahman Alahmad is a Mid-career Soil Carbon researcher at UniLaSalle in FR. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.475120
 url: "/cdr-researcher-census/researchers/abdelrahman-alahmad-a5069827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 479 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 496 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Prebiotics: A Solution for Improving Plant Growth, Soil Health, and Carbon Sequestration?** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Prebiotics' application as an agroecological approach to improve plant growth, soil conditions, and carbon sequestration** (2023)
    0 citations · Soil Carbon

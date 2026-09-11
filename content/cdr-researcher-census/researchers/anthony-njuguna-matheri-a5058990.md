@@ -1,7 +1,7 @@
 ---
 title: "Anthony Njuguna Matheri"
 description: "Anthony Njuguna Matheri is a Mid-career General CDR researcher at University of Johannesburg in ZA. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.403499
+date: 2026-09-11T02:38:29.350887
 url: "/cdr-researcher-census/researchers/anthony-njuguna-matheri-a5058990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 682 |
+| Citations | 706 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

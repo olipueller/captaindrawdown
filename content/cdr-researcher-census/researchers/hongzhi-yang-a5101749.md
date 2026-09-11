@@ -1,7 +1,7 @@
 ---
 title: "Hongzhi Yang"
 description: "Hongzhi Yang is a Senior Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.404016
+date: 2026-09-11T02:38:30.374103
 url: "/cdr-researcher-census/researchers/hongzhi-yang-a5101749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 103 |
+| Citations | 104 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Growing |

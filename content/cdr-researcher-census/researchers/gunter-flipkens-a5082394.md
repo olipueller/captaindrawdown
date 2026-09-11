@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
-description: "Gunter Flipkens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.074090
+description: "Gunter Flipkens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.014826
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 174 |
-| Publications | 17 |
-| CDR Focus | 29.4% |
+| Citations | 185 |
+| Publications | 19 |
+| CDR Focus | 26.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    76 citations · Enhanced Weathering
 
 2. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   43 citations · Enhanced Weathering
+   44 citations · Enhanced Weathering
 
 3. **Acute bioaccumulation and chronic toxicity of olivine in the marine amphipod Gammarus locusta** (2023)
    21 citations · Enhanced Weathering
@@ -63,7 +63,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    10 citations · Enhanced Weathering
 
 5. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2026)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 6. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2025)
    1 citations

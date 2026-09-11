@@ -1,7 +1,7 @@
 ---
 title: "Shaoyan Jiang"
 description: "Shaoyan Jiang is a Mid-career Biochar researcher at Shandong Institute of Business and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.733013
+date: 2026-09-11T02:38:29.687289
 url: "/cdr-researcher-census/researchers/shaoyan-jiang-a5068162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 308 |
+| Citations | 315 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multi-walled carbon nanotubes modified corn straw biochar as high-performance anode in microbial fuel cells** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 2. **Straw-derived macroporous biochar as high-performance anode in microbial fuel cells** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kiana Niazmand"
 description: "Kiana Niazmand is an Early-career Biochar researcher at Lutheran University of Applied Sciences Nuremberg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.248908
+date: 2026-09-11T02:38:30.193294
 url: "/cdr-researcher-census/researchers/kiana-niazmand-a5066438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 131 |
+| Citations | 138 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessing biomass carbon dioxide removal supply chains: System modelling and economic assessment** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

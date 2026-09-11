@@ -1,7 +1,7 @@
 ---
 title: "Zuohe Zhang"
-description: "Zuohe Zhang is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.212905
+description: "Zuohe Zhang is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.176865
 url: "/cdr-researcher-census/researchers/zuohe-zhang-a5055412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 139 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| h-index | 6 |
+| Citations | 142 |
+| Publications | 7 |
+| CDR Focus | 28.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

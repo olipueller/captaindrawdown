@@ -1,7 +1,7 @@
 ---
 title: "Matthias Jordan"
-description: "Matthias Jordan is a Senior BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.529555
+description: "Matthias Jordan is a Senior BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.463762
 url: "/cdr-researcher-census/researchers/matthias-jordan-a5033535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 477 |
+| h-index | 11 |
+| Citations | 509 |
 | Publications | 40 |
-| CDR Focus | 5.0% |
-| Trajectory | Stable |
+| CDR Focus | 7.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany** (2024)
-   11 citations · BECCS
+   13 citations · BECCS
 
 2. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 3. **Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany** (2026)
    0 citations · BECCS

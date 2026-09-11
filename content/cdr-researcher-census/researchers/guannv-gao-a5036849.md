@@ -1,7 +1,7 @@
 ---
 title: "Guannv Gao"
 description: "Guannv Gao is an Early-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.381487
+date: 2026-09-11T02:38:30.315125
 url: "/cdr-researcher-census/researchers/guannv-gao-a5036849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
+| Citations | 115 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Introducing N2-fixing tree species into Eucalyptus plantations promotes soil organic carbon sequestration in aggregates by increasing microbial carbon use efficiency** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Aggregate-associated organic carbon regulates soil organic carbon during conversion from natural forest to Moso bamboo plantations and subsequent regeneration** (2026)
-   0 citations
+   1 citations
 
 3. **Cessation of management for Phyllostachys edulis forests exacerbates soil microbial C limitation and expands particulate and mineral-associated organic carbon pools** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Peina Lu"
 description: "Peina Lu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.626006
+date: 2026-09-11T02:38:29.540796
 url: "/cdr-researcher-census/researchers/peina-lu-a5023246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 385 |
+| Citations | 428 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
-   9 citations
+   10 citations
 
 2. **Diversifying crop rotation improves productivity of oilseed flax by increasing soil carbon sequestration and soil biological health** (2025)
    0 citations · Soil Carbon

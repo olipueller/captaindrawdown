@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Kamire"
-description: "Rebecca Kamire is a Mid-career General CDR researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.735949
+description: "Rebecca Kamire is a Mid-career General CDR researcher at Precision Combustion (United States) in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.696475
 url: "/cdr-researcher-census/researchers/rebecca-kamire-a5038920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rebecca Kamire",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rebecca-kamire-a5038920/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Precision Combustion (United States)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8420-9490",
     "https://openalex.org/A5038920027"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Rebecca Kamire**
+**Rebecca Kamire**  
+Precision Combustion (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 306 |
+| Citations | 310 |
 | Publications | 11 |
-| CDR Focus | 45.5% |
+| CDR Focus | 54.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

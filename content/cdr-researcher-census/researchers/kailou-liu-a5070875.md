@@ -1,7 +1,7 @@
 ---
 title: "Kailou Liu"
-description: "Kailou Liu is a Senior Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 79 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.199985
+description: "Kailou Liu is a Senior Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 80 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.144147
 url: "/cdr-researcher-census/researchers/kailou-liu-a5070875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,679 |
-| Publications | 79 |
-| CDR Focus | 7.6% |
+| h-index | 25 |
+| Citations | 1,768 |
+| Publications | 80 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Long-term manure amendment enhances N2O emissions from acidic soil by alleviating acidification and increasing nitrogen mineralization** (2025)
-   9 citations
+   10 citations
 
 3. **Differences of SOC storage and stability between soil layers influenced by long-term fertilization in a typical paddy soil of Southern China** (2023)
    9 citations · Soil Carbon

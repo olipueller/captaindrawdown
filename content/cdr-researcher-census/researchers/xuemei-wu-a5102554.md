@@ -1,7 +1,7 @@
 ---
 title: "Xuemei Wu"
 description: "Xuemei Wu is a Mid-career Soil Carbon researcher at Chengdu University of Traditional Chinese Medicine in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.423525
+date: 2026-09-11T02:38:30.358276
 url: "/cdr-researcher-census/researchers/xuemei-wu-a5102554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 100 |
+| Citations | 107 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Siyuan Zhai"
-description: "Siyuan Zhai is a Senior Biochar researcher at Yanshan University in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.176836
+description: "Siyuan Zhai is a Senior Biochar researcher at Tianjin University in CN. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.127225
 url: "/cdr-researcher-census/researchers/siyuan-zhai-a5028763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/siyuan-zhai-a5028763/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yanshan University"
+    "name": "Tianjin University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8832-4370",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Siyuan Zhai**  
-Yanshan University · 🇨🇳 CN
+Tianjin University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,976 |
+| h-index | 17 |
+| Citations | 2,003 |
 | Publications | 42 |
-| CDR Focus | 9.5% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

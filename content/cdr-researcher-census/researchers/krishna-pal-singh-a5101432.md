@@ -1,7 +1,7 @@
 ---
 title: "Krishna Pal Singh"
-description: "Krishna Pal Singh is a Senior Biochar researcher at M.J.P. Rohilkhand University in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.351656
+description: "Krishna Pal Singh is a Senior Biochar researcher at M.J.P. Rohilkhand University in IN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.303546
 url: "/cdr-researcher-census/researchers/krishna-pal-singh-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 807 |
+| h-index | 13 |
+| Citations | 822 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive heavy metal remediation mechanisms with insights into CRISPR-Cas9 and biochar innovations** (2025)
-   10 citations · Biochar
+   14 citations · Biochar
 
 2. **Fabrication, Characteristics, and Application of Biochar and Engineered Biochar in the Agriculture Sector** (2025)
    0 citations · Biochar

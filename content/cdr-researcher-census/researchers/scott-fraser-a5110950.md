@@ -1,7 +1,7 @@
 ---
 title: "Scott Fraser"
 description: "Scott Fraser is a Senior Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.546881
+date: 2026-09-11T02:38:29.503296
 url: "/cdr-researcher-census/researchers/scott-fraser-a5110950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 460 |
+| Citations | 465 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

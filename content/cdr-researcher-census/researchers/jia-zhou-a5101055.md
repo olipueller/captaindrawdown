@@ -1,7 +1,7 @@
 ---
 title: "Jia Zhou"
-description: "Jia Zhou is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.384007
+description: "Jia Zhou is a Mid-career Soil Carbon researcher at Xinjiang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.249178
 url: "/cdr-researcher-census/researchers/jia-zhou-a5101055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 128 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ziqiao Zhou"
 description: "Ziqiao Zhou is a Mid-career General CDR researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.535152
+date: 2026-09-11T02:38:29.476504
 url: "/cdr-researcher-census/researchers/ziqiao-zhou-a5084641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 471 |
+| Citations | 494 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    96 citations · General CDR
 
 2. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
-   76 citations · General CDR
+   78 citations · General CDR
 
 ## External Profiles
 

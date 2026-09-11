@@ -1,7 +1,7 @@
 ---
 title: "Neeraj Pant"
-description: "Neeraj Pant is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.701148
+description: "Neeraj Pant is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.685831
 url: "/cdr-researcher-census/researchers/neeraj-pant-a5085795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 330 |
+| h-index | 8 |
+| Citations | 316 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

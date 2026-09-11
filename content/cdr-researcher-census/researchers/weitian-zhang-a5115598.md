@@ -1,7 +1,7 @@
 ---
 title: "Weitian Zhang"
-description: "Weitian Zhang is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.235611
+description: "Weitian Zhang is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.177231
 url: "/cdr-researcher-census/researchers/weitian-zhang-a5115598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 134 |
+| h-index | 5 |
+| Citations | 142 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration in Forest Management Plans Using Advanced Algorithms: A Case Study of Greater Khingan Mountains** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

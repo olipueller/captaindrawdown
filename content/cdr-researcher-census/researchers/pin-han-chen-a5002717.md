@@ -1,7 +1,7 @@
 ---
 title: "Pin-Han Chen"
 description: "Pin-Han Chen is a Mid-career Enhanced Weathering researcher at Providence University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.140450
+date: 2026-09-11T02:38:30.050621
 url: "/cdr-researcher-census/researchers/pin-han-chen-a5002717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 156 |
+| Citations | 174 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |

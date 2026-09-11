@@ -1,7 +1,7 @@
 ---
 title: "Sara Pascual"
-description: "Sara Pascual is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.737612
+description: "Sara Pascual is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.717550
 url: "/cdr-researcher-census/researchers/sara-pascual-a5045109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 305 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| h-index | 8 |
+| Citations | 299 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

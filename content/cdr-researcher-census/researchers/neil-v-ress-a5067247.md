@@ -1,7 +1,7 @@
 ---
 title: "Neil V. Ress"
 description: "Neil V. Ress is an Early-career Biochar researcher at University of Birmingham in GB. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.917430
+date: 2026-09-11T02:38:29.866512
 url: "/cdr-researcher-census/researchers/neil-v-ress-a5067247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 219 |
+| Citations | 229 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hydrogen production in microbial electrolysis cell and reactor digestate valorization for biochar – a noble attempt towards circular economy** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

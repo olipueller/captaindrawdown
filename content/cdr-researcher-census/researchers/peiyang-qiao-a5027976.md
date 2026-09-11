@@ -1,7 +1,7 @@
 ---
 title: "Peiyang Qiao"
-description: "Peiyang Qiao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.334907
+description: "Peiyang Qiao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.290573
 url: "/cdr-researcher-census/researchers/peiyang-qiao-a5027976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 115 |
-| Publications | 10 |
-| CDR Focus | 30.0% |
+| Citations | 119 |
+| Publications | 9 |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

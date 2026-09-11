@@ -1,7 +1,7 @@
 ---
 title: "Fauziah F. Rochman"
 description: "Fauziah F. Rochman is a Mid-career General CDR researcher at National Nuclear Energy Agency of Indonesia in ID. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.498598
+date: 2026-09-11T02:38:29.445702
 url: "/cdr-researcher-census/researchers/fauziah-f-rochman-a5060440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 516 |
+| Citations | 536 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Integrated carbon dioxide capture and nutrient removal from food waste digestate: A microalgae-assisted process in a smart photobioreactor for enhanced environmental performance** (2026)
-   1 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

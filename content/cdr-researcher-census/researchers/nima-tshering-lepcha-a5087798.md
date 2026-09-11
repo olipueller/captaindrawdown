@@ -1,7 +1,7 @@
 ---
 title: "Nima Tshering Lepcha"
-description: "Nima Tshering Lepcha is a Mid-career Soil Carbon researcher at Sikkim University in IN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931699
+description: "Nima Tshering Lepcha is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.888745
 url: "/cdr-researcher-census/researchers/nima-tshering-lepcha-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nima Tshering Lepcha",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nima-tshering-lepcha-a5087798/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Sikkim University"
-  },
   "sameAs": "https://openalex.org/A5087798285"
 }
 </script>
 
 ## Profile
 
-**Nima Tshering Lepcha**  
-Sikkim University · 🇮🇳 IN
+**Nima Tshering Lepcha**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 214 |
-| Publications | 6 |
-| CDR Focus | 50.0% |
+| Citations | 222 |
+| Publications | 7 |
+| CDR Focus | 42.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tongbin Zhu"
-description: "Tongbin Zhu is a Senior Soil Carbon researcher at Chinese Academy of Geological Sciences in CN. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.108018
+description: "Tongbin Zhu is a Senior Soil Carbon researcher at Chinese Academy of Geological Sciences in CN. With 119 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.057232
 url: "/cdr-researcher-census/researchers/tongbin-zhu-a5013664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 4,228 |
-| Publications | 118 |
-| CDR Focus | 6.8% |
+| Citations | 4,345 |
+| Publications | 119 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil pH and precipitation controls on organic carbon retention from organic amendments across soil orders: A meta-analysis** (2025)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Reduced Organic Carbon Content during the Evolvement of Calcareous Soils in Karst Region** (2021)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **The importance of fine root protection in topsoil carbon and nitrogen sequestration following land-use changes on sloping karst ecosystems** (2022)
    15 citations · Soil Carbon
 
-4. **Changes in soil properties shape how microbes mediate soil carbon sequestration under nitrogen addition** (2025)
-   7 citations · Soil Carbon
+4. **Impact of nitrogen addition on soil organic carbon across ecosystems: Microbial roles and environmental regulation** (2025)
+   8 citations · Soil Carbon
 
-5. **Impact of nitrogen addition on soil organic carbon across ecosystems: Microbial roles and environmental regulation** (2025)
-   5 citations · Soil Carbon
+5. **Changes in soil properties shape how microbes mediate soil carbon sequestration under nitrogen addition** (2025)
+   7 citations · Soil Carbon
 
 6. **Increasing plant species diversity stimulates soil microbial necromass nitrogen accumulation in a subtropical forest** (2025)
    3 citations · Soil Carbon

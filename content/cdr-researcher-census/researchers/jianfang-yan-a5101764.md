@@ -1,7 +1,7 @@
 ---
 title: "Jianfang Yan"
-description: "Jianfang Yan is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.451705
+description: "Jianfang Yan is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.409983
 url: "/cdr-researcher-census/researchers/jianfang-yan-a5101764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 590 |
-| Publications | 26 |
-| CDR Focus | 30.8% |
+| h-index | 10 |
+| Citations | 593 |
+| Publications | 25 |
+| CDR Focus | 32.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of anthropogenic disturbances on the carbon sink function of Yangtze River estuary wetlands: A review of performance, process, and mechanism** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 2. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
    26 citations · Ocean CDR
 
 3. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Tidal organic input restricts CO2 sequestration capacity of estuarine wetlands** (2023)
    9 citations · Soil Carbon

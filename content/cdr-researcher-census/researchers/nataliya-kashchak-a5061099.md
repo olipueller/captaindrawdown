@@ -1,7 +1,7 @@
 ---
 title: "Nataliya Kashchak"
 description: "Nataliya Kashchak is a Senior BECCS researcher at Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv in UA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.084818
+date: 2026-09-11T02:38:30.043019
 url: "/cdr-researcher-census/researchers/nataliya-kashchak-a5061099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 172 |
+| Citations | 177 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

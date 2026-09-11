@@ -1,7 +1,7 @@
 ---
 title: "Bai‐Jian Lin"
-description: "Bai‐Jian Lin is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.506506
+description: "Bai‐Jian Lin is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.442797
 url: "/cdr-researcher-census/researchers/baijian-lin-a5084353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 505 |
-| Publications | 17 |
-| CDR Focus | 41.2% |
+| Citations | 542 |
+| Publications | 19 |
+| CDR Focus | 36.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Management‐induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   101 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 3. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 5. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
    29 citations · Soil Carbon
@@ -71,10 +71,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **From growth to decline: The dynamic effects of maize-based cropping systems on soil organic carbon storage in Northeast China** (2025)
    7 citations · Soil Carbon
 
-8. **Management-induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   0 citations · General CDR
+8. **Straw conversion to soil organic carbon: A global quantitative synthesis using isotopic tracers and machine learning** (2026)
+   0 citations
 
 9. **Management-induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
+   0 citations · General CDR
+
+10. **Management-induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

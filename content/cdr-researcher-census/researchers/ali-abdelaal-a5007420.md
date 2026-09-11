@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelaal"
 description: "Ali Abdelaal is a Senior Biochar researcher at Qatar University in QA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331725
+date: 2026-09-11T02:38:29.281922
 url: "/cdr-researcher-census/researchers/ali-abdelaal-a5007420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 867 |
+| Citations | 893 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

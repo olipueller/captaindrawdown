@@ -1,7 +1,7 @@
 ---
 title: "Udayan Singh"
-description: "Udayan Singh is a Senior General CDR researcher at Argonne National Laboratory in US. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.345668
+description: "Udayan Singh is a Senior General CDR researcher at Argonne National Laboratory in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.287981
 url: "/cdr-researcher-census/researchers/udayan-singh-a5009334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 830 |
-| Publications | 60 |
-| CDR Focus | 8.3% |
+| h-index | 18 |
+| Citations | 875 |
+| Publications | 61 |
+| CDR Focus | 8.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Capture or curtail: The potential and performance of direct air capture powered through excess renewable electricity** (2022)
-   29 citations · DAC
+1. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
+   30 citations · BECCS
 
-2. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
-   28 citations · BECCS
+2. **Capture or curtail: The potential and performance of direct air capture powered through excess renewable electricity** (2022)
+   29 citations · DAC
 
 3. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
    5 citations · BECCS

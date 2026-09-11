@@ -1,7 +1,7 @@
 ---
 title: "Vijay Anand K. Gopalakrishnan"
 description: "Vijay Anand K. Gopalakrishnan is a Mid-career Ocean CDR researcher at Central Salt and Marine Chemicals Research Institute in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.151588
+date: 2026-09-11T02:38:30.128868
 url: "/cdr-researcher-census/researchers/vijay-anand-k-gopalakrishnan-a5041076/"
 layout: "researcher"
 hiddenInHomeList: true

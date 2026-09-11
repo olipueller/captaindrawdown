@@ -1,7 +1,7 @@
 ---
 title: "Ashutosh Dwivedi"
 description: "Ashutosh Dwivedi is a Senior Biochar researcher at Bhabha Atomic Research Centre in IN. With 74 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.627057
+date: 2026-09-11T02:38:29.564015
 url: "/cdr-researcher-census/researchers/ashutosh-dwivedi-a5081285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 384 |
+| Citations | 406 |
 | Publications | 74 |
 | CDR Focus | 5.4% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **3D printing with stabilized earth: Material development and effect of carbon sequestration on engineering performance** (2024)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Carbon dioxide sequestration in mortars with excavated soil: Engineering performances and environmental benefits** (2024)
-   16 citations
+   19 citations
 
 3. **Influence of carbon sequestration in natural clay on engineering properties of cement-lime stabilized soil mortars** (2023)
    11 citations · General CDR
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Soil Carbon
 
 5. **Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials: Investigation into Engineering Performance and Resistance Against Acid Attack** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Weichang Gao"
-description: "Weichang Gao is a Senior Soil Carbon researcher at Guizhou Academy of Tobacco Science in CN. With 61 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343958
+description: "Weichang Gao is a Senior Soil Carbon researcher at Guizhou Academy of Tobacco Science in CN. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.285312
 url: "/cdr-researcher-census/researchers/weichang-gao-a5045365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 834 |
-| Publications | 61 |
-| CDR Focus | 8.2% |
+| h-index | 16 |
+| Citations | 881 |
+| Publications | 66 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

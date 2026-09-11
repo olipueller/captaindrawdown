@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Chiti"
-description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 86 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.201336
+description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 89 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.149308
 url: "/cdr-researcher-census/researchers/tommaso-chiti-a5001989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 26 |
-| Citations | 1,663 |
-| Publications | 86 |
-| CDR Focus | 16.3% |
+| h-index | 27 |
+| Citations | 1,706 |
+| Publications | 89 |
+| CDR Focus | 15.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    61 citations · Biochar
 
 2. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   34 citations · General CDR
+   38 citations · General CDR
 
 3. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   27 citations · General CDR
+   30 citations · General CDR
 
 4. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
-   24 citations · General CDR
+   29 citations · General CDR
 
 5. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 6. **Carbon sequestration of hazelnut orchards in central Italy** (2022)
    15 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 8. **Do poplar plantations enhance organic carbon stocks in arable soils? A comprehensive study from Northern Italy** (2024)
-   7 citations
+   8 citations
 
 9. **Soil organic carbon sequestration during secondary forest succession in a Mediterranean area** (2025)
    6 citations · Soil Carbon

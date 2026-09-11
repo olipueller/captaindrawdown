@@ -1,7 +1,7 @@
 ---
 title: "Alexia Dayet"
 description: "Alexia Dayet is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.044362
+date: 2026-09-11T02:38:29.993603
 url: "/cdr-researcher-census/researchers/alexia-dayet-a5045723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 184 |
+| Citations | 192 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Surviving the jungle of soil organic carbon certification standards: an analytic and critical review** (2021)
-   17 citations · General CDR
+   18 citations · General CDR
 
 ## External Profiles
 

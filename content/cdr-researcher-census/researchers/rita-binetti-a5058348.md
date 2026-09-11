@@ -1,7 +1,7 @@
 ---
 title: "Rita Binetti"
 description: "Rita Binetti is a Mid-career Biochar researcher at Discovery Laboratories (United States) in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.771279
+date: 2026-09-11T02:38:29.710594
 url: "/cdr-researcher-census/researchers/rita-binetti-a5058348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 287 |
+| Citations | 303 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

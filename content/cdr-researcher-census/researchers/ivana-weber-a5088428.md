@@ -1,7 +1,7 @@
 ---
 title: "Ivana Weber"
-description: "Ivana Weber is a Mid-career Biochar researcher at University of Split in HR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.350767
+description: "Ivana Weber is a Mid-career Biochar researcher at University of Split in HR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.276184
 url: "/cdr-researcher-census/researchers/ivana-weber-a5088428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 113 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| h-index | 7 |
+| Citations | 123 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Advanced Characterization of Eco-Friendly Cement Composites: Hydration Kinetics, Microstructure, and Mechanical Performance** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

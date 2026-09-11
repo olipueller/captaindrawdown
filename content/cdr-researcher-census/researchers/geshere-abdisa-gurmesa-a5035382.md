@@ -1,7 +1,7 @@
 ---
 title: "Geshere Abdisa Gurmesa"
-description: "Geshere Abdisa Gurmesa is a Mid-career Soil Carbon researcher at Institute of Applied Ecology in CN. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.262476
+description: "Geshere Abdisa Gurmesa is a Mid-career Soil Carbon researcher at Institute of Applied Ecology in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.207657
 url: "/cdr-researcher-census/researchers/geshere-abdisa-gurmesa-a5035382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,36 +43,36 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,182 |
-| Publications | 55 |
-| CDR Focus | 9.1% |
+| Citations | 1,237 |
+| Publications | 58 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   73 citations
+   77 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Dynamics and multi‐annual fate of atmospherically deposited nitrogen in montane tropical forests** (2021)
    36 citations
 
 4. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   2 citations
+   4 citations
 
-6. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
+6. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
+   1 citations · Enhanced Weathering
+
+7. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
    1 citations · Soil Carbon
 
-7. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
+8. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
    0 citations
-
-8. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
-   0 citations · Enhanced Weathering
 
 9. **Potential of land-based terrestrial carbon sinks to mitigate climate change** (2024)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Song Guan"
 description: "Song Guan is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.353577
+date: 2026-09-11T02:38:29.302172
 url: "/cdr-researcher-census/researchers/song-guan-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 802 |
+| Citations | 827 |
 | Publications | 55 |
 | CDR Focus | 14.5% |
 | Trajectory | Stable |
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deep incorporation of corn straw benefits soil organic carbon and microbial community composition in a black soil of Northeast China** (2022)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Unraveling mechanisms of carbon enrichment via straw and biochar application to enhance soil fertility and improve maize yield** (2025)
    23 citations · Biochar
 
 3. **Contrasting effects of straw and straw-derived biochar application on soil organic matter and corn yield in a Chinese Mollisol** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Straw Inputs Improve Soil Hydrophobicity and Enhance Organic Carbon Mineralization** (2023)
    12 citations · Biochar

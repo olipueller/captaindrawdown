@@ -1,7 +1,7 @@
 ---
 title: "Kathryn L. Campbell"
-description: "Kathryn L. Campbell is a Mid-career Soil Carbon researcher at Texas A&M University at Galveston in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.349862
+description: "Kathryn L. Campbell is a Mid-career Soil Carbon researcher at Texas A&M University at Galveston in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.275559
 url: "/cdr-researcher-census/researchers/kathryn-l-campbell-a5014420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 113 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 123 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial Communities Display Key Functional Differences between Reference and Restored Salt Marshes** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

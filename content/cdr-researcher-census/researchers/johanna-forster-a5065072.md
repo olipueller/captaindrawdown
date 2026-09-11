@@ -1,7 +1,7 @@
 ---
 title: "Johanna Forster"
 description: "Johanna Forster is a Senior General CDR researcher at University of East Anglia in GB. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.229190
+date: 2026-09-11T02:38:29.179994
 url: "/cdr-researcher-census/researchers/johanna-forster-a5065072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,398 |
+| Citations | 1,423 |
 | Publications | 56 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -59,11 +59,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
    26 citations · General CDR
 
-4. **Betting on Forests and Soils to Reach Net Zero** (2022)
+4. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
    2 citations · General CDR
 
-5. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
-   1 citations · General CDR
+5. **Betting on Forests and Soils to Reach Net Zero** (2022)
+   2 citations · General CDR
 
 6. **Navigating Net Zero: Analysing Residual Emissions in Long-Term National Climate Strategies** (2024)
    1 citations · General CDR

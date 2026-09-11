@@ -1,7 +1,7 @@
 ---
 title: "Qiang Feng"
-description: "Qiang Feng is a Senior General CDR researcher at Ministry of Ecology and Environment in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.223163
+description: "Qiang Feng is a Senior General CDR researcher at Ministry of Ecology and Environment in CN. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.174761
 url: "/cdr-researcher-census/researchers/qiang-feng-a5100669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,447 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 1,460 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ecosystem Services Supply–Demand Matching and Its Driving Factors: A Case Study of the Shanxi Section of the Yellow River Basin, China** (2023)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **The Effects of Land-Use Change/Conversion on Trade-Offs of Ecosystem Services in Three Precipitation Zones** (2021)
    12 citations · General CDR

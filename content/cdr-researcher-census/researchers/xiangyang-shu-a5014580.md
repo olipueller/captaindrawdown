@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Shu"
-description: "Xiangyang Shu is a Mid-career Soil Carbon researcher at Inner Mongolia University of Science and Technology in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.419364
+description: "Xiangyang Shu is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.349994
 url: "/cdr-researcher-census/researchers/xiangyang-shu-a5014580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiangyang-shu-a5014580/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Inner Mongolia University of Science and Technology"
+    "name": "Ministry of Natural Resources"
   },
   "sameAs": "https://openalex.org/A5014580390"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiangyang Shu**  
-Inner Mongolia University of Science and Technology · 🇨🇳 CN
+Ministry of Natural Resources · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,16 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 646 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Exiting |
+| h-index | 10 |
+| Citations | 708 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Alpine wetland litter decomposition under wet and dry conditions: A comparative study of native vs. standardized litter** (2024)
    7 citations · Soil Carbon
+
+2. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

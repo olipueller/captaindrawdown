@@ -1,7 +1,7 @@
 ---
 title: "Juan Jia"
-description: "Juan Jia is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 90 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.155832
+description: "Juan Jia is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 91 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.103580
 url: "/cdr-researcher-census/researchers/juan-jia-a5082763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,337 |
-| Publications | 90 |
-| CDR Focus | 7.8% |
+| Citations | 2,431 |
+| Publications | 91 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessing the accumulation efficiency of various microbial carbon components in soils of different minerals** (2021)
-   81 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 2. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
-   55 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 3. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   43 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 4. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 5. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Microbial Carbon Accumulation Efficiency in Global Soils Resolved via <sup>13</sup> C‐Glucose Amendment Experiments** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 7. **Microbial Carbon Accumulation Efficiency: Assessing Microbial Carbon Pump Efficiency based on 13C-glucose Amendment Experiment** (2025)
    0 citations · Soil Carbon

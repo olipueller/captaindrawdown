@@ -1,7 +1,7 @@
 ---
 title: "Mariam Tangarfa"
-description: "Mariam Tangarfa is a Mid-career Biochar researcher at Mohammed V University in MA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.259619
+description: "Mariam Tangarfa is a Mid-career Biochar researcher at Mohammed V University in MA. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.211632
 url: "/cdr-researcher-census/researchers/mariam-tangarfa-a5075684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 130 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 135 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Multi-response optimization of the adsorption properties of activated carbon produced from H2SO4 activated sludge: Effects of washing with HCl** (2025)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

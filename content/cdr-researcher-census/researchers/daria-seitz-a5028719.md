@@ -1,7 +1,7 @@
 ---
 title: "Daria Seitz"
-description: "Daria Seitz is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.574336
+description: "Daria Seitz is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.505007
 url: "/cdr-researcher-census/researchers/daria-seitz-a5028719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 432 |
-| Publications | 25 |
-| CDR Focus | 44.0% |
+| Citations | 463 |
+| Publications | 26 |
+| CDR Focus | 42.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   218 citations · General CDR
+   227 citations · General CDR
 
 2. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   105 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 3. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   74 citations · General CDR
+   75 citations · General CDR
 
 4. **Reply letter to Munoz et al. ‘on the importance of time in carbon sequestration in soils and climate change mitigation’—Keep carbon sequestration terminologies consistent and functional** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 5. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Soil carbon-sequestration and climate mitigation – definitions and their implications** (2023)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Cailing Shi"
-description: "Cailing Shi is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.400520
+description: "Cailing Shi is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.274866
 url: "/cdr-researcher-census/researchers/cailing-shi-a5102617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/cailing-shi-a5102617/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University"
+    "name": "Qingdao University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5102617364"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Cailing Shi**  
-Qingdao University · 🇨🇳 CN
+Qingdao University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 123 |
+| Publications | 11 |
+| CDR Focus | 27.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Salinity decreases the soil organic carbon stock while increasing its stability: A case study in the coastal region of China** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Straw mineralization and carbon dioxide emissions in soils with different salinity levels** (2025)
    3 citations · Soil Carbon
+
+3. **Impact of Salinity on Straw Conversion Into Different Soil Organic Carbon Fractions: Evidences From a 13 C ‐Labeling Incubation Experiment** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

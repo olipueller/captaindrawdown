@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Gao"
-description: "Jiacheng Gao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.521629
+description: "Jiacheng Gao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.469899
 url: "/cdr-researcher-census/researchers/jiacheng-gao-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 486 |
-| Publications | 37 |
-| CDR Focus | 8.1% |
+| h-index | 11 |
+| Citations | 502 |
+| Publications | 39 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Desert Abiotic Carbon Sequestration Weakening by Precipitation** (2023)
-   23 citations
+   27 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
    23 citations · Soil Carbon
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Assessment of CO2 fluxes in the hinterland of the Gurbantunggut Desert and its response to climate change** (2025)
    6 citations
 
-5. **Flux Balance and Attribution Analysis of Co2 in Grassland Ecosystems in Xinjiang of China** (2024)
+5. **Dataset Construction of CO2 Flux over Shifting Sand in the Taklimakan Desert and Assessment of Carbon Sequestration Capacity** (2026)
+   0 citations
+
+6. **Flux Balance and Attribution Analysis of Co2 in Grassland Ecosystems in Xinjiang of China** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yuguo Shen"
 description: "Yuguo Shen is a Senior Soil Carbon researcher at Guangzhou Institute of Geochemistry in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.411419
+date: 2026-09-11T02:38:30.351032
 url: "/cdr-researcher-census/researchers/yuguo-shen-a5031689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 102 |
+| Citations | 108 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interlayer organic matter within hydroxy-interlayered clay minerals enhances soil organic carbon stability under long-term organic fertilization** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

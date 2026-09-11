@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
-description: "Jongsoo Shin is a Mid-career General CDR researcher at Woods Hole Oceanographic Institution in US. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.316353
+description: "Jongsoo Shin is a Mid-career General CDR researcher at Woods Hole Oceanographic Institution in US. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.263274
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 924 |
-| Publications | 74 |
-| CDR Focus | 17.6% |
+| Citations | 963 |
+| Publications | 75 |
+| CDR Focus | 16.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Global Cooling Hiatus Driven by an AMOC Overshoot in a Carbon Dioxide Removal Scenario** (2021)
-   76 citations · General CDR
+   77 citations · General CDR
 
-2. **Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario** (2022)
-   39 citations · General CDR
+2. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
+   41 citations · General CDR
 
-3. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
-   38 citations · General CDR
+3. **Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario** (2022)
+   40 citations · General CDR
 
 4. **Centennial Memory of the Arctic Ocean for Future Arctic Climate Recovery in Response to a Carbon Dioxide Removal** (2022)
-   32 citations · General CDR
+   33 citations · General CDR
 
 5. **Hysteretic Behavior of Global to Regional Monsoon Area Under CO<sub>2</sub> Ramp‐Up and Ramp‐Down** (2023)
    20 citations
 
 6. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 7. **General circulation and global heat transport in a quadrupling CO2 pulse experiment** (2022)
    9 citations · General CDR

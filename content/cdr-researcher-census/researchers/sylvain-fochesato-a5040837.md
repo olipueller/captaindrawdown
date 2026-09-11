@@ -1,7 +1,7 @@
 ---
 title: "Sylvain Fochesato"
 description: "Sylvain Fochesato is a Senior Soil Carbon researcher at Bial (Portugal) in PT. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.550834
+date: 2026-09-11T02:38:29.507049
 url: "/cdr-researcher-census/researchers/sylvain-fochesato-a5040837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 456 |
+| Citations | 461 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

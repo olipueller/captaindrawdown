@@ -1,7 +1,7 @@
 ---
 title: "Qingwei Zhou"
-description: "Qingwei Zhou is a Senior Biochar researcher at Hangzhou Dianzi University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.216601
+description: "Qingwei Zhou is a Senior Biochar researcher at Hangzhou Dianzi University in CN. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.164474
 url: "/cdr-researcher-census/researchers/qingwei-zhou-a5101862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,505 |
-| Publications | 49 |
-| CDR Focus | 8.2% |
+| h-index | 21 |
+| Citations | 1,563 |
+| Publications | 51 |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,11 +53,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Biochar as a sustainable additive in fired clay bricks and building blocks: Processing, properties, and performance** (2025)
    5 citations · Biochar
 
-2. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
+2. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
    4 citations · Biochar
 
-3. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
-   1 citations · Biochar
+3. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
+   4 citations · Biochar
 
 4. **Biochar-induced strong microbial carbon limitation prompts organic carbon sequestration and plant growth in antibiotic-contaminated soil** (2025)
    0 citations · Biochar

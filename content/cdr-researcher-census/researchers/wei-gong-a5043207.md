@@ -1,7 +1,7 @@
 ---
 title: "Wei Gong"
-description: "Wei Gong is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 67 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.212170
+description: "Wei Gong is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.161836
 url: "/cdr-researcher-census/researchers/wei-gong-a5043207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,561 |
-| Publications | 67 |
-| CDR Focus | 6.0% |
+| Citations | 1,584 |
+| Publications | 66 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon fractions in the arid valley of the upper reaches of the yangtze river, china** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon mineralization in the arid valley of the upper reaches of Yangtze River, China** (2022)
    8 citations · Soil Carbon

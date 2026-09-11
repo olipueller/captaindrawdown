@@ -1,7 +1,7 @@
 ---
 title: "Marcel Dossow"
-description: "Marcel Dossow is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.746454
+description: "Marcel Dossow is a Mid-career DAC researcher at Bavarian Center for Applied Energy Research in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.629268
 url: "/cdr-researcher-census/researchers/marcel-dossow-a5057048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marcel-dossow-a5057048/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Commonwealth Scientific and Industrial Research Organisation"
+    "name": "Bavarian Center for Applied Energy Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9515-0049",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Marcel Dossow**  
-Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
+Bavarian Center for Applied Energy Research · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 300 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 8 |
+| Citations | 355 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Techno-economic assessment and comparison of Fischer–Tropsch and Methanol-to-Jet processes to produce sustainable aviation fuel via Power-to-Liquid** (2024)
-   86 citations · DAC
+   90 citations · DAC
 
 ## External Profiles
 

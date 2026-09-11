@@ -1,7 +1,7 @@
 ---
 title: "Ricksy Prematuri"
 description: "Ricksy Prematuri is a Mid-career Soil Carbon researcher at IPB University in ID. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920077
+date: 2026-09-11T02:38:29.889353
 url: "/cdr-researcher-census/researchers/ricksy-prematuri-a5017290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 219 |
+| Citations | 222 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Yang"
-description: "Wenliang Yang is a Senior Soil Carbon researcher at Baogang Group (China) in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.290199
+description: "Wenliang Yang is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 43 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.239533
 url: "/cdr-researcher-census/researchers/wenliang-yang-a5102379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenliang-yang-a5102379/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Baogang Group (China)"
+    "name": "University of Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2501-4305",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenliang Yang**  
-Baogang Group (China) · 🇨🇳 CN
+University of Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 1,041 |
-| Publications | 39 |
-| CDR Focus | 7.7% |
+| h-index | 16 |
+| Citations | 1,062 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Conservation tillage exerts diverse pathways to sequester organic carbon in fluvo-aquic soils of the North China Plain** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Nitrogen fertilization drives bacterial turnover versus fungal persistence for straw-derived C and N stabilization in a wheat-maize rotation** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
+
+4. **Soil texture regulates organic carbon sequestration via divergent accumulation pathways of plant- and microbial-derived carbon** (2026)
+   0 citations
 
 ## External Profiles
 

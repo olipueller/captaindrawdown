@@ -1,7 +1,7 @@
 ---
 title: "Zhijing Xue"
-description: "Zhijing Xue is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.265346
+description: "Zhijing Xue is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.220336
 url: "/cdr-researcher-census/researchers/zhijing-xue-a5052989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,171 |
-| Publications | 36 |
-| CDR Focus | 13.9% |
+| h-index | 15 |
+| Citations | 1,163 |
+| Publications | 35 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
-   75 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi hyphal density rather than diversity stimulates microbial necromass accumulation after long-term Robinia pseudoacacia plantations** (2025)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **[Advances in the research of transformation and stabilization of soil organic carbon from plant and microbe].** (2024)
    9 citations · General CDR
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **Long-Term Caragana korshinskii Restoration Enhances SOC Stability but Reduces Sequestration Efficiency over 40 Years in Degraded Loess Soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Differences in the Contribution of Soil Microbial Necromass to Mineral-Associated Organic Carbon (Maoc) Formation During the Transformation Process of Plant Residues to Soil Organic Matter** (2022)
    0 citations

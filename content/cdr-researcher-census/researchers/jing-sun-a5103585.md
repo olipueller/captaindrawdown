@@ -1,7 +1,7 @@
 ---
 title: "Jing Sun"
-description: "Jing Sun is a Mid-career Enhanced Weathering researcher at Tianjin University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745712
+description: "Jing Sun is a Mid-career Enhanced Weathering researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.695315
 url: "/cdr-researcher-census/researchers/jing-sun-a5103585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jing Sun",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jing-sun-a5103585/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Tianjin University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-7040-3727",
     "https://openalex.org/A5103585014"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jing Sun**  
-Tianjin University · 🇨🇳 CN
+**Jing Sun**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 301 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 311 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

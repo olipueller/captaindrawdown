@@ -1,7 +1,7 @@
 ---
 title: "Raimonda Zinkevičienė"
 description: "Raimonda Zinkevičienė is a Mid-career Biochar researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.402004
+date: 2026-09-11T02:38:30.359368
 url: "/cdr-researcher-census/researchers/raimonda-zinkeviciene-a5072468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 107 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

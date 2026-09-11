@@ -1,7 +1,7 @@
 ---
 title: "Weiyu Huang"
-description: "Weiyu Huang is a Senior Soil Carbon researcher at Central South University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347854
+description: "Weiyu Huang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.257195
 url: "/cdr-researcher-census/researchers/weiyu-huang-a5101389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weiyu-huang-a5101389/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Central South University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5101389958"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Weiyu Huang**  
-Central South University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 113 |
+| h-index | 7 |
+| Citations | 126 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wetland restoration enhances soil carbon sequestration in lake ecosystems: Integrating multi-source remote sensing and optimized ensemble machine learning to map soil organic carbon density** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

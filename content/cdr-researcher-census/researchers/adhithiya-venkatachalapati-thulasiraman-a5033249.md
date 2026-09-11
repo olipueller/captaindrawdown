@@ -1,7 +1,7 @@
 ---
 title: "Adhithiya Venkatachalapati Thulasiraman"
-description: "Adhithiya Venkatachalapati Thulasiraman is an Early-career Biochar researcher at RMIT University in AU. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.181465
+description: "Adhithiya Venkatachalapati Thulasiraman is a Mid-career Biochar researcher at RMIT University in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.104088
 url: "/cdr-researcher-census/researchers/adhithiya-venkatachalapati-thulasiraman-a5033249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Adhithiya Venkatachalapati Thulasiraman**  
 RMIT University · 🇦🇺 AU
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 146 |
+| h-index | 5 |
+| Citations | 159 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Gas-Environment-Dependent H₂S Removal over Biosolid-Derived Carbon Materials: Mechanistic Divergence between Biochar and Hydrochar** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Georges Martial Ndzana"
-description: "Georges Martial Ndzana is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.319463
+description: "Georges Martial Ndzana is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.259205
 url: "/cdr-researcher-census/researchers/georges-martial-ndzana-a5075196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 913 |
-| Publications | 34 |
-| CDR Focus | 8.8% |
+| Citations | 979 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon increase via microbial assimilation or soil protection against the priming effect is mediated by the availability of soil N relative to input C** (2024)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Effects of nutrient addition on the composition and chemical characteristics of soil dissolved organic matter in a desert steppe in northern China** (2023)
    11 citations · Soil Carbon
 
 3. **Variations in the quantity and chemical composition of soil dissolved organic matter along a chronosequence of wolfberry plantations in an arid area of Northwest China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Impact of Climate Change on Organic Carbon Stock in Tropical Soils in Sub-Saharan Africa: A Systematic Review** (2026)
    0 citations

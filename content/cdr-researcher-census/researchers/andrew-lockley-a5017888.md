@@ -1,7 +1,7 @@
 ---
 title: "Andrew Lockley"
 description: "Andrew Lockley is a Mid-career Ocean CDR researcher at Film Independent in US. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.664170
+date: 2026-09-11T02:38:29.619835
 url: "/cdr-researcher-census/researchers/andrew-lockley-a5017888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 356 |
+| Citations | 362 |
 | Publications | 43 |
 | CDR Focus | 7.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Use of aircraft in ocean alkalinity enhancement** (2022)
-   30 citations · Ocean CDR
+   32 citations · Ocean CDR
 
 2. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR

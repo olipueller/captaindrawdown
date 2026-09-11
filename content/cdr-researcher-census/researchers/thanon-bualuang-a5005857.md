@@ -1,7 +1,7 @@
 ---
 title: "Thanon Bualuang"
-description: "Thanon Bualuang is a Mid-career Biochar researcher at Mae Fah Luang University in TH. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.309448
+description: "Thanon Bualuang is a Mid-career Biochar researcher at Mae Fah Luang University in TH. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.251097
 url: "/cdr-researcher-census/researchers/thanon-bualuang-a5005857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 120 |
+| h-index | 8 |
+| Citations | 127 |
 | Publications | 21 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Corn waste-derived biochar as a sustainable fine aggregate in pervious concrete for climate-resilient urban pavement applications** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Biochar-Enhanced Pervious Concrete: Exploring its Role as a Low-Carbon Bio-Fine Aggregate and Carbon Removal Approach** (2024)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Asha Paudel"
 description: "Asha Paudel is a Mid-career BECCS researcher at Florida Atlantic University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.036210
+date: 2026-09-11T02:38:29.999034
 url: "/cdr-researcher-census/researchers/asha-paudel-a5050098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 186 |
+| Citations | 190 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

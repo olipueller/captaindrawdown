@@ -1,7 +1,7 @@
 ---
 title: "Qian Wei"
-description: "Qian Wei is a Mid-career Biochar researcher at Central South University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.909199
+description: "Qian Wei is a Mid-career Biochar researcher at Central South University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.849584
 url: "/cdr-researcher-census/researchers/qian-wei-a5028495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 222 |
+| h-index | 6 |
+| Citations | 236 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    25 citations
 
 2. **Co-Fe-N@biochar anode for improvment the electricity generation performance of microbial fuel cell** (2023)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

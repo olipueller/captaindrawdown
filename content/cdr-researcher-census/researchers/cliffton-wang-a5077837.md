@@ -1,7 +1,7 @@
 ---
 title: "Cliffton Wang"
-description: "Cliffton Wang is a Mid-career DAC researcher at University of California System in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.523852
+description: "Cliffton Wang is a Mid-career DAC researcher at University of California, San Francisco in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.416143
 url: "/cdr-researcher-census/researchers/cliffton-wang-a5077837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/cliffton-wang-a5077837/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California System"
+    "name": "University of California, San Francisco"
   },
   "sameAs": "https://openalex.org/A5077837359"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Cliffton Wang**  
-University of California System · 🇺🇸 US
+University of California, San Francisco · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 483 |
+| Citations | 583 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

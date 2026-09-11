@@ -1,7 +1,7 @@
 ---
 title: "Lars Baetcke"
-description: "Lars Baetcke is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.115209
+description: "Lars Baetcke is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.047846
 url: "/cdr-researcher-census/researchers/lars-baetcke-a5006124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 163 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| h-index | 6 |
+| Citations | 175 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Correction: Energy efficiency of future hydrogen-based fuel supply chain routes for Germany’s maritime demand** (2025)
-   0 citations
+1. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
 
-2. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   0 citations · General CDR
+2. **Correction: Energy efficiency of future hydrogen-based fuel supply chain routes for Germany’s maritime demand** (2025)
+   0 citations
 
 ## External Profiles
 

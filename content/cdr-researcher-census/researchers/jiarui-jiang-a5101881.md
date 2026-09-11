@@ -1,7 +1,7 @@
 ---
 title: "Jiarui Jiang"
-description: "Jiarui Jiang is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.289792
+description: "Jiarui Jiang is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.215654
 url: "/cdr-researcher-census/researchers/jiarui-jiang-a5101881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 124 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 134 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

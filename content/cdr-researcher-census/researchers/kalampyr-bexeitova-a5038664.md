@@ -1,7 +1,7 @@
 ---
 title: "Kalampyr Bexeitova"
 description: "Kalampyr Bexeitova is an Early-career Biochar researcher at Satbayev University in KZ. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.361904
+date: 2026-09-11T02:38:30.335496
 url: "/cdr-researcher-census/researchers/kalampyr-bexeitova-a5038664/"
 layout: "researcher"
 hiddenInHomeList: true

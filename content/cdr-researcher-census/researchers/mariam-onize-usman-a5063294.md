@@ -1,7 +1,7 @@
 ---
 title: "Mariam Onize Usman"
-description: "Mariam Onize Usman is an Early-career Biochar researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.194500
+description: "Mariam Onize Usman is an Early-career Biochar researcher at Confluence Life Sciences (United States) in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.116757
 url: "/cdr-researcher-census/researchers/mariam-onize-usman-a5063294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mariam Onize Usman",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mariam-onize-usman-a5063294/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Confluence Life Sciences (United States)"
+  },
   "sameAs": "https://openalex.org/A5063294935"
 }
 </script>
 
 ## Profile
 
-**Mariam Onize Usman**
+**Mariam Onize Usman**  
+Confluence Life Sciences (United States) · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -35,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 143 |
+| Citations | 156 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -43,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review of adsorption techniques for removal of phosphates from wastewater** (2022)
-   129 citations · Biochar
+   133 citations · Biochar
 
 ## External Profiles
 

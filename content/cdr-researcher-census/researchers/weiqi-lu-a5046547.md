@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Lu"
 description: "Weiqi Lu is a Mid-career Soil Carbon researcher at Guizhou University of Finance and Economics in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.094912
+date: 2026-09-11T02:38:30.039843
 url: "/cdr-researcher-census/researchers/weiqi-lu-a5046547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 169 |
+| Citations | 178 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of the Keeling plot approach in quantifying sediment organic matter sources using carbon isotopes and C/N ratios: An example from Xiaowan Reservoir, Lancang River basin, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

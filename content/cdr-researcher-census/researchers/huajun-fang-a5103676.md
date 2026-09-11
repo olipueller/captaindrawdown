@@ -1,7 +1,7 @@
 ---
 title: "Huajun Fang"
-description: "Huajun Fang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.489534
+description: "Huajun Fang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.482534
 url: "/cdr-researcher-census/researchers/huajun-fang-a5103676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 531 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| h-index | 11 |
+| Citations | 487 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

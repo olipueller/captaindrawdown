@@ -1,7 +1,7 @@
 ---
 title: "Jiaqiang Du"
-description: "Jiaqiang Du is a Senior Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.299024
+description: "Jiaqiang Du is a Senior Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.246399
 url: "/cdr-researcher-census/researchers/jiaqiang-du-a5101942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 996 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 17 |
+| Citations | 1,029 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Reducing soil organic carbon mineralization under moderate thinning magnifies the soil carbon sink in a Larix principis-rupprechtii plantation** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

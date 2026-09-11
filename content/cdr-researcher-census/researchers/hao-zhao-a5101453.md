@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhao"
 description: "Hao Zhao is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.302726
+date: 2026-09-11T02:38:29.246618
 url: "/cdr-researcher-census/researchers/hao-zhao-a5101453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 978 |
+| Citations | 1,027 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target** (2023)
-   82 citations · General CDR
+   83 citations · General CDR
 
 2. **The critical role of optimal forest management in China for meeting its wood demand and climate target** (2024)
    0 citations · BECCS

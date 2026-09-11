@@ -1,7 +1,7 @@
 ---
 title: "SP Bhattarai"
 description: "SP Bhattarai is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.161338
+date: 2026-09-11T02:38:30.125842
 url: "/cdr-researcher-census/researchers/sp-bhattarai-a5048942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 151 |
+| Citations | 154 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

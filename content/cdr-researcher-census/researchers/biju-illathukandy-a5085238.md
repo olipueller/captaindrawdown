@@ -1,7 +1,7 @@
 ---
 title: "Biju Illathukandy"
-description: "Biju Illathukandy is a Mid-career General CDR researcher at National Cheng Kung University in TW. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.637842
+description: "Biju Illathukandy is a Mid-career General CDR researcher at Government College Kodanchery in IN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.590866
 url: "/cdr-researcher-census/researchers/biju-illathukandy-a5085238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/biju-illathukandy-a5085238/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Cheng Kung University"
+    "name": "Government College Kodanchery"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6879-5407",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Biju Illathukandy**  
-National Cheng Kung University · 🇹🇼 TW
+Government College Kodanchery · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 376 |
+| Citations | 384 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Zohaib Younas"
-description: "Zohaib Younas is a Mid-career Biochar researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.989033
+description: "Zohaib Younas is a Mid-career Biochar researcher at Al-Ahliyya Amman University in JO. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.895734
 url: "/cdr-researcher-census/researchers/zohaib-younas-a5061882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zohaib-younas-a5061882/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pir Mehr Ali Shah Arid Agriculture University"
+    "name": "Al-Ahliyya Amman University"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-9162-0807",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zohaib Younas**  
-Pir Mehr Ali Shah Arid Agriculture University · 🇵🇰 PK
+Al-Ahliyya Amman University ·  JO
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 200 |
-| Publications | 38 |
-| CDR Focus | 7.9% |
+| h-index | 9 |
+| Citations | 219 |
+| Publications | 46 |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

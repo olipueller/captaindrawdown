@@ -1,7 +1,7 @@
 ---
 title: "Beyhan Y. Amichev"
 description: "Beyhan Y. Amichev is a Senior General CDR researcher at US Department of Agriculture in US. With 35 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332425
+date: 2026-09-11T02:38:29.289947
 url: "/cdr-researcher-census/researchers/beyhan-y-amichev-a5070836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 865 |
+| Citations | 870 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |

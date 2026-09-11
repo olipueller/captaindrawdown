@@ -1,7 +1,7 @@
 ---
 title: "Shobha Jawaheer"
-description: "Shobha Jawaheer is a Senior Soil Carbon researcher at University of Technology, Mauritius in MU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.210452
+description: "Shobha Jawaheer is a Senior Soil Carbon researcher at University of Mauritius in MU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.216391
 url: "/cdr-researcher-census/researchers/shobha-jawaheer-a5007327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shobha-jawaheer-a5007327/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Technology, Mauritius"
+    "name": "University of Mauritius"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6273-9113",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shobha Jawaheer**  
-University of Technology, Mauritius ·  MU
+University of Mauritius ·  MU
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 140 |
+| Citations | 134 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

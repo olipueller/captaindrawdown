@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhou Yuan"
-description: "Xiangzhou Yuan is a Senior Biochar researcher at Southeast University in CN. With 119 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.099351
+description: "Xiangzhou Yuan is a Senior Biochar researcher at Southeast University in CN. With 121 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.048785
 url: "/cdr-researcher-census/researchers/xiangzhou-yuan-a5042621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 4,806 |
-| Publications | 119 |
-| CDR Focus | 5.9% |
+| h-index | 37 |
+| Citations | 5,084 |
+| Publications | 121 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,20 +53,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
    98 citations · Biochar
 
-2. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
-   31 citations · DAC
+2. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
+   32 citations · Biochar
 
-3. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   30 citations · Biochar
+3. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
+   32 citations · DAC
 
 4. **Plasma-modified biochar for energy and environmental sustainability** (2025)
-   10 citations · Biochar
+   15 citations · Biochar
 
 5. **Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective** (2025)
-   9 citations · DAC
+   10 citations · DAC
 
 6. **Sequential carbonization of pig manure biogas residue into engineered biochar for diethyl phthalate removal toward environmental sustainability** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 7. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Djè Daniel Yannick"
 description: "Djè Daniel Yannick is a Mid-career Biochar researcher at Université Nangui Abrogoua in CI. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.276795
+date: 2026-09-11T02:38:30.240728
 url: "/cdr-researcher-census/researchers/dje-daniel-yannick-a5075413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 126 |
+| Citations | 129 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

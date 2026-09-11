@@ -1,7 +1,7 @@
 ---
 title: "Hyungseop Ahn"
 description: "Hyungseop Ahn is a Mid-career DAC researcher at Korea University in KR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971584
+date: 2026-09-11T02:38:29.902992
 url: "/cdr-researcher-census/researchers/hyungseop-ahn-a5024975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 206 |
+| Citations | 216 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -54,13 +54,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    49 citations
 
 2. **A general Energy-Efficient strategy for optimizing CO2 Capture: Designing and harnessing the rapid adsorption kinetics of Amine-Impregnated adsorbents** (2024)
-   14 citations
+   16 citations
 
 3. **Solar-driven integrated device for simultaneous direct air capture and atmospheric water harvesting** (2026)
    3 citations
 
 4. **Heat pump assisted direct air capture system for carbon enrichment in plant factory** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 5. **Engineering self-assembled pellet adsorbents for energy-efficient sub-ambient direct air capture** (2026)
    0 citations · DAC

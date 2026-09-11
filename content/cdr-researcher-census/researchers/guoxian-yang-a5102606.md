@@ -1,7 +1,7 @@
 ---
 title: "Guoxian Yang"
-description: "Guoxian Yang is a Senior Biochar researcher at Qingdao University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.106781
+description: "Guoxian Yang is a Senior Biochar researcher at Qingdao University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.015232
 url: "/cdr-researcher-census/researchers/guoxian-yang-a5102606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 165 |
-| Publications | 16 |
-| CDR Focus | 18.8% |
+| h-index | 7 |
+| Citations | 185 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **In-situ removal of microcystin aeruginosa and microcystin-LR by biochar supported sulfide nZVI via persulfate activation: Performance, mechanism and degradation pathway** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
    7 citations · Soil Carbon

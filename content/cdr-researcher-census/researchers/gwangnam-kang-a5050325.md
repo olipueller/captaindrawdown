@@ -1,7 +1,7 @@
 ---
 title: "Gwangnam Kang"
-description: "Gwangnam Kang is an Early-career Biochar researcher at Hyosung Corporation (South Korea) in KR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.421036
+description: "Gwangnam Kang is an Early-career Biochar researcher at Hyosung Corporation (South Korea) in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.373705
 url: "/cdr-researcher-census/researchers/gwangnam-kang-a5050325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 100 |
+| h-index | 4 |
+| Citations | 104 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive performance of rice husk-derived biochar for nodularin cyanotoxin from aqueous solution: Isotherm, kinetic, regeneration, and column studies** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Prachi Gaur"
 description: "Prachi Gaur is a Mid-career Biochar researcher at Amity University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.024245
+date: 2026-09-11T02:38:30.001579
 url: "/cdr-researcher-census/researchers/prachi-gaur-a5007036/"
 layout: "researcher"
 hiddenInHomeList: true

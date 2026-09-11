@@ -1,7 +1,7 @@
 ---
 title: "Pietra Moraes Borges"
-description: "Pietra Moraes Borges is a Mid-career General CDR researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.659256
+description: "Pietra Moraes Borges is a Mid-career General CDR researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.602987
 url: "/cdr-researcher-census/researchers/pietra-moraes-borges-a5048055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 359 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 375 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

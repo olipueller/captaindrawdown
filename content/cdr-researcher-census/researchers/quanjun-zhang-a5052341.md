@@ -1,7 +1,7 @@
 ---
 title: "Quanjun Zhang"
-description: "Quanjun Zhang is a Senior Soil Carbon researcher. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.054045
+description: "Quanjun Zhang is a Senior Soil Carbon researcher. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.003275
 url: "/cdr-researcher-census/researchers/quanjun-zhang-a5052341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 181 |
+| h-index | 9 |
+| Citations | 189 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hydrologic-induced concentrated soil nutrients and improved plant growth increased carbon storage in a floodplain wetland over wet-dry alternating zones** (2022)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **A dataset of wetland plants and soil carbon, nitrogen, phosphorus, and trace elements under across different elevation gradients in Poyang Lake** (2025)
    1 citations · Soil Carbon

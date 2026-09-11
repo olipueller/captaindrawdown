@@ -1,7 +1,7 @@
 ---
 title: "Jianda Guo"
 description: "Jianda Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226578
+date: 2026-09-11T02:38:30.181965
 url: "/cdr-researcher-census/researchers/jianda-guo-a5112727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 136 |
+| Citations | 141 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fly ash-doped biochar fabricated by pyrolysis and hydrothermal strategies: characteristics and potentialities of carbon sequestration** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

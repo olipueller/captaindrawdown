@@ -1,7 +1,7 @@
 ---
 title: "Liheng Xing"
 description: "Liheng Xing is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.321669
+date: 2026-09-11T02:38:30.263423
 url: "/cdr-researcher-census/researchers/liheng-xing-a5108964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 118 |
+| Citations | 125 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

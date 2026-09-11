@@ -1,7 +1,7 @@
 ---
 title: "Shannan K. Sweet"
 description: "Shannan K. Sweet is a Mid-career Soil Carbon researcher at Cornell University in US. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.425644
+date: 2026-09-11T02:38:29.380170
 url: "/cdr-researcher-census/researchers/shannan-k-sweet-a5076285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 635 |
+| Citations | 641 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · General CDR
 
 2. **Deep compost amendment reduces soil bulk density resulting in improved growth of urban Gymnocladus dioicus trees over time** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

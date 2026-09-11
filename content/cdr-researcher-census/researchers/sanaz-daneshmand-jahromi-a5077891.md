@@ -1,7 +1,7 @@
 ---
 title: "Sanaz Daneshmand-Jahromi"
-description: "Sanaz Daneshmand-Jahromi is a Mid-career General CDR researcher at University of Calgary in CA. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.572608
+description: "Sanaz Daneshmand-Jahromi is a Mid-career General CDR researcher at University of Calgary in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.526903
 url: "/cdr-researcher-census/researchers/sanaz-daneshmand-jahromi-a5077891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 434 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 441 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A Comprehensive Review of Chemical Looping Processes: From Fundamentals to Applications** (2026)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Philip D. Weyman"
-description: "Philip D. Weyman is a Senior Enhanced Weathering researcher at J. Craig Venter Institute in US. With 49 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.194709
+description: "Philip D. Weyman is a Senior Enhanced Weathering researcher at J. Craig Venter Institute in US. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.146330
 url: "/cdr-researcher-census/researchers/philip-d-weyman-a5019645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,38 +43,41 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,733 |
-| Publications | 49 |
-| CDR Focus | 12.2% |
+| Citations | 1,748 |
+| Publications | 55 |
+| CDR Focus | 12.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
-2. **Evidence of microbially accelerated weathering from a laboratory mesocosm experiment with sequential selective dissolution** (2026)
+2. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
+   1 citations · Enhanced Weathering
+
+3. **Author Comment on egusphere-2026-4145: Supplemental Tables and Figures** (2026)
    0 citations · Enhanced Weathering
 
-3. **Microbially Accelerated Weathering for CDR: Reactive Transport Modeling to Quantify Rates and Sinks** (2026)
+4. **Evidence of microbially accelerated weathering from a laboratory mesocosm experiment with sequential selective dissolution** (2026)
    0 citations · Enhanced Weathering
 
-4. **Bacillus subtilis-mediated weathering of basalt revealed through sporulation** (2026)
+5. **Microbially Accelerated Weathering for CDR: Reactive Transport Modeling to Quantify Rates and Sinks** (2026)
    0 citations · Enhanced Weathering
 
-5. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
+6. **Bacillus subtilis-mediated weathering of basalt revealed through sporulation** (2026)
+   0 citations · Enhanced Weathering
+
+7. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
    0 citations
 
-6. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
+8. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
    0 citations · Enhanced Weathering
 
-7. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
-   0 citations · Enhanced Weathering
-
-8. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
+9. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
    0 citations
 
-9. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
+10. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    0 citations
 
 ## External Profiles

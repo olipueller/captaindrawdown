@@ -1,7 +1,7 @@
 ---
 title: "Yinghao Tang"
-description: "Yinghao Tang is a Mid-career Biochar researcher at Boston University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.816191
+description: "Yinghao Tang is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.756055
 url: "/cdr-researcher-census/researchers/yinghao-tang-a5110942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yinghao-tang-a5110942/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Boston University"
+    "name": "Wuhan University of Technology"
   },
   "sameAs": "https://openalex.org/A5110942543"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yinghao Tang**  
-Boston University · 🇺🇸 US
+Wuhan University of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 264 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 279 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Synthesis and characterization of iron-nitrogen-doped biochar catalysts for organic pollutant removal and hexavalent chromium reduction** (2021)
-   83 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

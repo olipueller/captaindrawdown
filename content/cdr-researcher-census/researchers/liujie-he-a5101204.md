@@ -1,7 +1,7 @@
 ---
 title: "Liujie He"
 description: "Liujie He is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012850
+date: 2026-09-11T02:38:29.909909
 url: "/cdr-researcher-census/researchers/liujie-he-a5101204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 193 |
+| Citations | 214 |
 | Publications | 10 |
 | CDR Focus | 30.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the interrelations and driving factors among typical ecosystem services in the Yangtze river economic Belt, China** (2023)
-   96 citations
+   98 citations
 
 2. **Spatial heterogeneity of natural and socio-economic features shape that of ecosystem services. A large-scale study on the Yangtze River economic Belt, China** (2024)
    26 citations · General CDR

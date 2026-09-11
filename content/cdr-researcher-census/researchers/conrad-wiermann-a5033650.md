@@ -1,7 +1,7 @@
 ---
 title: "Conrad Wiermann"
-description: "Conrad Wiermann is a Senior Soil Carbon researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.765717
+description: "Conrad Wiermann is a Senior Soil Carbon researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.734531
 url: "/cdr-researcher-census/researchers/conrad-wiermann-a5033650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,8 +44,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 |--------|-------|
 | h-index | 7 |
 | Citations | 291 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

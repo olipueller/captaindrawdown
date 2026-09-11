@@ -1,7 +1,7 @@
 ---
 title: "Enqing Hou"
-description: "Enqing Hou is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 164 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.078787
+description: "Enqing Hou is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 164 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.029897
 url: "/cdr-researcher-census/researchers/enqing-hou-a5058149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 41 |
-| Citations | 8,238 |
+| h-index | 42 |
+| Citations | 8,536 |
 | Publications | 164 |
 | CDR Focus | 7.9% |
 | Trajectory | Stable |
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   224 citations · Soil Carbon
+   226 citations · Soil Carbon
 
 2. **Phosphorus Supply Increases Nitrogen Transformation Rates and Retention in Soil: A Global Meta‐Analysis** (2022)
-   102 citations · Soil Carbon
+   103 citations · Soil Carbon
 
 3. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 4. **Divergent responses of primary production to increasing precipitation variability in global drylands** (2021)
-   63 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 5. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 6. **Bedrock and climate jointly control the phosphorus status of subtropical forests along two elevational gradients** (2021)
-   30 citations
+   31 citations
 
 7. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar

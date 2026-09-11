@@ -1,7 +1,7 @@
 ---
 title: "Anders Hansson"
-description: "Anders Hansson is an Eminent General CDR researcher at Linköping University in SE. With 177 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.107409
+description: "Anders Hansson is an Eminent General CDR researcher. With 178 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.058158
 url: "/cdr-researcher-census/researchers/anders-hansson-a5043331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Anders Hansson",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anders-hansson-a5043331/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Link\u00f6ping University"
-  },
   "sameAs": "https://openalex.org/A5043331275"
 }
 </script>
 
 ## Profile
 
-**Anders Hansson**  
-Linköping University · 🇸🇪 SE
+**Anders Hansson**
 
 **Career Stage:** Eminent
 
@@ -40,24 +35,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 4,273 |
-| Publications | 177 |
+| Citations | 4,311 |
+| Publications | 178 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C** (2021)
    36 citations · BECCS
 
 3. **What are the potential paths for carbon capture and storage in Sweden? A multi-level assessment of historical and current developments** (2021)
-   33 citations · BECCS
+   34 citations · BECCS
 
 4. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   24 citations · BECCS
+   26 citations · BECCS
 
 5. **Limits to climate action - Narratives of bioenergy with carbon capture and storage** (2021)
    24 citations · BECCS

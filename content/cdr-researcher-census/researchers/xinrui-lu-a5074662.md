@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Lu"
 description: "Xinrui Lu is a Mid-career Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.007505
+date: 2026-09-11T02:38:29.941277
 url: "/cdr-researcher-census/researchers/xinrui-lu-a5074662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 195 |
+| Citations | 209 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

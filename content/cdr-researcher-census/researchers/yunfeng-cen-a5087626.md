@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Cen"
-description: "Yunfeng Cen is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.060844
+description: "Yunfeng Cen is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.009713
 url: "/cdr-researcher-census/researchers/yunfeng-cen-a5087626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 179 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 187 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Vapor pressure deficit dominates dryness stress on forest biomass carbon in China under global warming** (2025)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Effects of soil conservation on the spatial heterogeneity of vegetation carbon sequestration in the Yellow River Basin, China** (2023)
    9 citations · General CDR

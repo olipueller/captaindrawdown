@@ -1,7 +1,7 @@
 ---
 title: "Zhengchen Wang"
-description: "Zhengchen Wang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.957396
+description: "Zhengchen Wang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.863187
 url: "/cdr-researcher-census/researchers/zhengchen-wang-a5018368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 212 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 231 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

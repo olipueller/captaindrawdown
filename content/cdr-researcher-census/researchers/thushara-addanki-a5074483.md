@@ -1,7 +1,7 @@
 ---
 title: "Thushara Addanki"
-description: "Thushara Addanki is a Mid-career DAC researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.982177
+description: "Thushara Addanki is a Mid-career DAC researcher at Technical University of Munich in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.944487
 url: "/cdr-researcher-census/researchers/thushara-addanki-a5074483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Thushara Addanki",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thushara-addanki-a5074483/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Technical University of Munich"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-1123-2523",
     "https://openalex.org/A5074483436"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Thushara Addanki**
+**Thushara Addanki**  
+Technical University of Munich · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 202 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 207 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Chelsey Baker"
 description: "Chelsey Baker is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 88 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.669677
+date: 2026-09-11T02:38:29.614417
 url: "/cdr-researcher-census/researchers/chelsey-baker-a5063486/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 351 |
+| Citations | 366 |
 | Publications | 88 |
 | CDR Focus | 6.8% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Biological Carbon Pump Sequestration Efficiency in the North Atlantic: A Leaky or a Long‐Term Sink?** (2022)
-   44 citations · Ocean CDR
+   46 citations · Ocean CDR
 
 2. **The Impact of Large-Scale Macroalgae Cultivation and Harvesting Strategies on the Marine Carbon Dioxide Removal Efficacy and Marine Biogeochemistry** (2025)
    1 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Weibo Shen"
-description: "Weibo Shen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342234
+description: "Weibo Shen is a Senior Biochar researcher at Institute of Soil and Water Conservation in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.290931
 url: "/cdr-researcher-census/researchers/weibo-shen-a5028717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weibo-shen-a5028717/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Institute of Soil and Water Conservation"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9762-3105",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Weibo Shen**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Institute of Soil and Water Conservation · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 841 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 867 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

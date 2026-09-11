@@ -1,7 +1,7 @@
 ---
 title: "Yuanxia Guo"
 description: "Yuanxia Guo is a Mid-career Biochar researcher at Changchun University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.052625
+date: 2026-09-11T02:38:30.005678
 url: "/cdr-researcher-census/researchers/yuanxia-guo-a5089934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 181 |
+| Citations | 188 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

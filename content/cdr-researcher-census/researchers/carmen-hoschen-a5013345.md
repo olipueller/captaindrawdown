@@ -1,7 +1,7 @@
 ---
 title: "Carmen Höschen"
-description: "Carmen Höschen is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 99 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.129921
+description: "Carmen Höschen is a Senior Soil Carbon researcher at Weihenstephan-Triesdorf University of Applied Sciences in DE. With 101 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.077588
 url: "/cdr-researcher-census/researchers/carmen-hoschen-a5013345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/carmen-hoschen-a5013345/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technical University of Munich"
+    "name": "Weihenstephan-Triesdorf University of Applied Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5774-2062",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Carmen Höschen**  
-Technical University of Munich · 🇩🇪 DE
+Weihenstephan-Triesdorf University of Applied Sciences · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 3,151 |
-| Publications | 99 |
-| CDR Focus | 6.1% |
+| h-index | 26 |
+| Citations | 3,324 |
+| Publications | 101 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microscale carbon distribution around pores and particulate organic matter varies with soil moisture regime** (2022)
-   189 citations · Soil Carbon
+   196 citations · Soil Carbon
 
 2. **Association of fresh low-molecular-weight organic compounds with clay-sized mineral fraction in soils of different organic carbon loading** (2021)
    32 citations
 
 3. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 4. **4D Surface Reconstructions to Study Microscale Structures and Functions in Soil Biogeochemistry** (2021)
    19 citations · Soil Carbon
 
 5. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

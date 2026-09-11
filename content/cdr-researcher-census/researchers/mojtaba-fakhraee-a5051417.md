@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
 description: "Mojtaba Fakhraee is a Senior Ocean CDR researcher at University of Connecticut in US. With 70 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.230999
+date: 2026-09-11T02:38:29.178008
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,386 |
+| Citations | 1,440 |
 | Publications | 70 |
-| CDR Focus | 15.7% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,23 +62,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Enhanced sulfide burial in low-oxygen aquatic environments could offset the carbon footprint of aquaculture production** (2024)
    4 citations
 
-5. **Seaweed farms enhance alkalinity production and carbon capture** (2026)
+5. **Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement** (2026)
+   1 citations · General CDR
+
+6. **In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems** (2026)
    1 citations · Ocean CDR
 
-6. **Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration** (2022)
+7. **Seaweed farms enhance alkalinity production and carbon capture** (2026)
    1 citations · Ocean CDR
 
-7. **Coupling Acid Neutralizationand Resource Recoveryto Scale Ocean Alkalinity Enhancement** (2026)
+8. **Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration** (2022)
+   1 citations · Ocean CDR
+
+9. **Coupling Acid Neutralizationand Resource Recoveryto Scale Ocean Alkalinity Enhancement** (2026)
    0 citations · General CDR
 
-8. **Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement** (2026)
-   0 citations · General CDR
-
-9. **Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction** (2026)
+10. **Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction** (2026)
    0 citations · Enhanced Weathering
-
-10. **In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems** (2026)
-   0 citations · Ocean CDR
 
 ## External Profiles
 

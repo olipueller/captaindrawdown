@@ -1,7 +1,7 @@
 ---
 title: "Xiangyu He"
-description: "Xiangyu He is a Mid-career Soil Carbon researcher at Christian Doppler Laboratory for Thermoelectricity in AT. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.146925
+description: "Xiangyu He is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.099283
 url: "/cdr-researcher-census/researchers/xiangyu-he-a5102368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiangyu-he-a5102368/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Christian Doppler Laboratory for Thermoelectricity"
+    "name": "Qingdao University"
   },
   "sameAs": "https://openalex.org/A5102368414"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiangyu He**  
-Christian Doppler Laboratory for Thermoelectricity · 🇦🇹 AT
+Qingdao University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 155 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 161 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhihao Qiu"
 description: "Zhihao Qiu is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.880598
+date: 2026-09-11T02:38:29.836773
 url: "/cdr-researcher-census/researchers/zhihao-qiu-a5022655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 234 |
+| Citations | 242 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Jingxin Huang"
-description: "Jingxin Huang is a Mid-career Biochar researcher at Hubei University of Science and Technology in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.122700
+description: "Jingxin Huang is a Mid-career Biochar researcher at Hubei University of Science and Technology in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.065185
 url: "/cdr-researcher-census/researchers/jingxin-huang-a5033619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 161 |
+| h-index | 7 |
+| Citations | 171 |
 | Publications | 23 |
 | CDR Focus | 13.0% |
 | Trajectory | Growing |

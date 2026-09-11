@@ -1,7 +1,7 @@
 ---
 title: "Hui Wang"
-description: "Hui Wang is a Mid-career Soil Carbon researcher at Forest Research in GB. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.076744
+description: "Hui Wang is a Mid-career Soil Carbon researcher at Forest Research in GB. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.969632
 url: "/cdr-researcher-census/researchers/hui-wang-a5075235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 174 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 9 |
+| Citations | 199 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

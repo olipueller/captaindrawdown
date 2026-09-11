@@ -1,7 +1,7 @@
 ---
 title: "Mehar U Nisa"
 description: "Mehar U Nisa is a Mid-career Ocean CDR researcher at University of Victoria in CA. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.768265
+date: 2026-09-11T02:38:29.729648
 url: "/cdr-researcher-census/researchers/mehar-u-nisa-a5101658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 289 |
+| Citations | 293 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Mengting Ye"
 description: "Mengting Ye is an Early-career Biochar researcher at University of Shanghai for Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.367772
+date: 2026-09-11T02:38:30.341126
 url: "/cdr-researcher-census/researchers/mengting-ye-a5001178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of humic substances by the synergistic effect of biochar adsorption and activation of persulfate** (2021)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

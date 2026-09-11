@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Zhong"
 description: "Xiaolin Zhong is an Early-career Soil Carbon researcher at Central South University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.395140
+date: 2026-09-11T02:38:30.358831
 url: "/cdr-researcher-census/researchers/xiaolin-zhong-a5064952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
+| Citations | 107 |
 | Publications | 6 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of dissolved organic carbon turnover and microbial communities reconstruction associated with giant reed during the soil-like formation in bauxite residue** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Dynamics of Dissolved Organic Carbon Turnover and Assembly of Core Microbial Communities Mediated by Giant Reed During the Soil-Formation in Bauxite Residue** (2025)
    0 citations · Soil Carbon

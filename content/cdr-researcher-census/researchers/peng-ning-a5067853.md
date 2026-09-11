@@ -1,7 +1,7 @@
 ---
 title: "Peng Ning"
 description: "Peng Ning is a Senior Soil Carbon researcher at China Agricultural University in CN. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.283136
+date: 2026-09-11T02:38:29.230073
 url: "/cdr-researcher-census/researchers/peng-ning-a5067853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,076 |
+| Citations | 1,107 |
 | Publications | 39 |
 | CDR Focus | 12.8% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Soil Labile Organic Carbon and Nitrate Nitrogen are the Main Factors Driving Carbon-Fixing Pathways During Vegetation Restoration in the Loess Plateau, China** (2024)
    1 citations · Soil Carbon

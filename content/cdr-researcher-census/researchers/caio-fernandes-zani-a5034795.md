@@ -1,7 +1,7 @@
 ---
 title: "Caio Fernandes Zani"
 description: "Caio Fernandes Zani is a Mid-career Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.991367
+date: 2026-09-11T02:38:29.941624
 url: "/cdr-researcher-census/researchers/caio-fernandes-zani-a5034795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 199 |
+| Citations | 208 |
 | Publications | 19 |
-| CDR Focus | 31.6% |
+| CDR Focus | 26.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 2. **Diversified crop rotations and organic amendments as strategies for increasing soil carbon storage and stabilisation in UK arable systems** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **The effect of crop rotations on soil** (2022)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Vyacheslav Polyakov"
-description: "Vyacheslav Polyakov is a Senior Soil Carbon researcher at SPBU in RU. With 94 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.277586
+description: "Vyacheslav Polyakov is a Senior Soil Carbon researcher at SPBU in RU. With 96 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.225488
 url: "/cdr-researcher-census/researchers/vyacheslav-polyakov-a5069283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,103 |
-| Publications | 94 |
-| CDR Focus | 6.4% |
+| Citations | 1,131 |
+| Publications | 96 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 2. **Assessments of Organic Carbon Stabilization Using the Spectroscopic Characteristics of Humic Acids Separated from Soils of the Lena River Delta** (2021)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Soil Organic Matter in Urban Areas of the Russian Arctic: A Review** (2023)
    11 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Conventional Tillage Effects on the Physico-Chemical Properties and Organic Matter of Chernozems Using 13C-NMR Spectroscopy** (2022)
    11 citations · Soil Carbon
 
-5. **Distribution of Molecular Weight of Humic Substances Isolated from Soils of Tallgrass Temperate Rainforests (Chernevaya Taiga)** (2022)
+5. **Estimation of Carbon Stocks and Carbon Sequestration Rates in Abandoned Agricultural Soils of Northwest Russia** (2023)
    10 citations · Soil Carbon
 
-6. **Estimation of Carbon Stocks and Carbon Sequestration Rates in Abandoned Agricultural Soils of Northwest Russia** (2023)
-   8 citations · Soil Carbon
+6. **Distribution of Molecular Weight of Humic Substances Isolated from Soils of Tallgrass Temperate Rainforests (Chernevaya Taiga)** (2022)
+   10 citations · Soil Carbon
 
 ## External Profiles
 

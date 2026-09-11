@@ -1,7 +1,7 @@
 ---
 title: "Yoonah Jeong"
-description: "Yoonah Jeong is a Mid-career Biochar researcher at Korea Institute of Civil Engineering and Building Technology in DE. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.442509
+description: "Yoonah Jeong is a Mid-career Biochar researcher at Korea Institute of Civil Engineering and Building Technology in DE. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.381269
 url: "/cdr-researcher-census/researchers/yoonah-jeong-a5051050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 606 |
-| Publications | 38 |
-| CDR Focus | 10.5% |
-| Trajectory | Exiting |
+| Citations | 640 |
+| Publications | 40 |
+| CDR Focus | 12.5% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar Production and Demineralization Characteristics of Food Waste for Fuel Conversion** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Enhancing the potential application of food-waste biochar as a sustainable bio-solid fuel: Analysis of post-treatment and combustion behavior** (2024)
    6 citations · Biochar

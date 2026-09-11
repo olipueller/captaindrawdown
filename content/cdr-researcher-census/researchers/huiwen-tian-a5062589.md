@@ -1,7 +1,7 @@
 ---
 title: "Huiwen Tian"
 description: "Huiwen Tian is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328199
+date: 2026-09-11T02:38:30.269976
 url: "/cdr-researcher-census/researchers/huiwen-tian-a5062589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
+| Citations | 124 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High-Resolution Mapping of Cropland Soil Organic Carbon in Northern China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Satellite Hyperspectral Mapping of Farmland Soil Organic Carbon in Yuncheng Basin Along the Yellow River, China** (2025)
    0 citations · Soil Carbon

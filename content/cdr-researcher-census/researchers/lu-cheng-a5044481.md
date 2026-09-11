@@ -1,7 +1,7 @@
 ---
 title: "Lu Cheng"
-description: "Lu Cheng is a Mid-career General CDR researcher at Central South University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.825759
+description: "Lu Cheng is a Mid-career General CDR researcher at Central South University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.775298
 url: "/cdr-researcher-census/researchers/lu-cheng-a5044481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 259 |
+| h-index | 10 |
+| Citations | 270 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploration of Multi-Element Collaborative Research and Application for Modern Power System Based on Generative Large Models** (2025)
-   5 citations
+   6 citations
 
 2. **Exploration of Multi-Element Collaborative Research and Application for Modern Power System Based on Generative Large Models** (2025)
    0 citations · General CDR

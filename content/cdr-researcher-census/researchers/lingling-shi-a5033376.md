@@ -1,7 +1,7 @@
 ---
 title: "Lingling Shi"
-description: "Lingling Shi is a Senior Soil Carbon researcher at University of Tuebingen in DE. With 137 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.110633
+description: "Lingling Shi is a Senior Soil Carbon researcher at University of Tuebingen in DE. With 140 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.059748
 url: "/cdr-researcher-census/researchers/lingling-shi-a5033376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 4,054 |
-| Publications | 137 |
-| CDR Focus | 5.1% |
+| h-index | 37 |
+| Citations | 4,172 |
+| Publications | 140 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
-3. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
+3. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
+   27 citations · Soil Carbon
+
+4. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
    26 citations · Soil Carbon
 
-4. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
-   25 citations · Soil Carbon
-
 5. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   20 citations
+   21 citations
 
 6. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 7. **Trade-offs between stock and stability: Reversing land-use for soil carbon sequestration in a warming world** (2026)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Thi An Hang Nguyen"
-description: "Thi An Hang Nguyen is a Mid-career Ocean CDR researcher at Vietnam National University, Hanoi in VN. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.254368
+description: "Thi An Hang Nguyen is a Mid-career Ocean CDR researcher at Vietnam National University, Hanoi in VN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203855
 url: "/cdr-researcher-census/researchers/thi-an-hang-nguyen-a5048015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,231 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| h-index | 18 |
+| Citations | 1,255 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of phosphate from aqueous solutions using low-cost modified biochar-packed column: Effect of operational parameters and kinetic study** (2022)
-   26 citations · Biochar
+   30 citations · Biochar
 
 2. **Case studies of algae-based biomaterials for environmental remediation** (2022)
    1 citations · Ocean CDR

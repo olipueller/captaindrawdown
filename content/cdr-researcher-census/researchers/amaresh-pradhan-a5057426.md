@@ -1,7 +1,7 @@
 ---
 title: "Amaresh Pradhan"
-description: "Amaresh Pradhan is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.090933
+description: "Amaresh Pradhan is a Mid-career Soil Carbon researcher at Bastar University in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.049800
 url: "/cdr-researcher-census/researchers/amaresh-pradhan-a5057426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amaresh-pradhan-a5057426/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Agricultural Research Institute"
+    "name": "Bastar University"
   },
   "sameAs": "https://openalex.org/A5057426637"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Amaresh Pradhan**  
-Indian Agricultural Research Institute · 🇮🇳 IN
+Bastar University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 170 |
+| Citations | 175 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

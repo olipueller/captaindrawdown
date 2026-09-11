@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Lipsen"
 description: "Michael S. Lipsen is a Senior Ocean CDR researcher at University of British Columbia in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.909563
+date: 2026-09-11T02:38:29.885891
 url: "/cdr-researcher-census/researchers/michael-s-lipsen-a5058766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 222 |
+| Citations | 223 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |

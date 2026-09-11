@@ -1,7 +1,7 @@
 ---
 title: "Huan Deng"
-description: "Huan Deng is a Senior Biochar researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.059905
+description: "Huan Deng is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.002282
 url: "/cdr-researcher-census/researchers/huan-deng-a5014435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huan-deng-a5014435/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Normal University"
+    "name": "Sichuan Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2446-5254",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Huan Deng**  
-Nanjing Normal University · 🇨🇳 CN
+Sichuan Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 179 |
-| Publications | 19 |
-| CDR Focus | 21.1% |
+| Citations | 189 |
+| Publications | 22 |
+| CDR Focus | 18.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 3. **Unraveling climate–land cover interactions: how SSP–RCP scenarios drive ecosystem service trade-offs in contrasting Yangtze and Yellow River Basins, China** (2026)
-   3 citations · General CDR
+   5 citations · General CDR
 
 4. **Biochar-based composite microspheres embedded with zero-valent iron and soybean oil efficiently remove 1,1,1-trichloroethane and reshape microbial community in simulated groundwater** (2025)
    2 citations · Biochar

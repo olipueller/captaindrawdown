@@ -1,7 +1,7 @@
 ---
 title: "Wenmin Qian"
-description: "Wenmin Qian is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.891167
+description: "Wenmin Qian is a Senior Biochar researcher at Yunnan Institute of Environmental Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.842576
 url: "/cdr-researcher-census/researchers/wenmin-qian-a5046028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenmin-qian-a5046028/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kunming University of Science and Technology"
+    "name": "Yunnan Institute of Environmental Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5912-6909",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Wenmin Qian**  
-Kunming University of Science and Technology · 🇨🇳 CN
+Yunnan Institute of Environmental Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 229 |
+| Citations | 239 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

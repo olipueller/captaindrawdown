@@ -1,7 +1,7 @@
 ---
 title: "Lenka Štěrbová"
 description: "Lenka Štěrbová is a Mid-career Soil Carbon researcher at Czech Academy of Sciences, Global Change Research Institute in CZ. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.026894
+date: 2026-09-11T02:38:29.983348
 url: "/cdr-researcher-census/researchers/lenka-sterbova-a5053524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 189 |
+| Citations | 195 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Selected Aspects of Carbon Stock Assessment in Aboveground Biomass** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

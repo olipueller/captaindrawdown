@@ -1,7 +1,7 @@
 ---
 title: "Ketwalee Kositkanawuth"
 description: "Ketwalee Kositkanawuth is a Mid-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.928414
+date: 2026-09-11T02:38:29.892935
 url: "/cdr-researcher-census/researchers/ketwalee-kositkanawuth-a5061949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 215 |
+| Citations | 220 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Granular waterworks sludge-biochar composites: Characterization and dye removal application** (2022)
-   39 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

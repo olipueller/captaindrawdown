@@ -1,7 +1,7 @@
 ---
 title: "Yves Theoneste Murindangabo"
 description: "Yves Theoneste Murindangabo is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.601663
+date: 2026-09-11T02:38:29.524280
 url: "/cdr-researcher-census/researchers/yves-theoneste-murindangabo-a5071517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 405 |
+| Citations | 443 |
 | Publications | 30 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,15 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characterization, fractionation and untapped potential of phosphate-amended sewage sludge biochar in soil-plant systems** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
-2. **Long‐term protection in grasslands enhances soil carbon storage through reduced disturbance and community trait diversity–environment adaptations** (2026)
+2. **Soil Organic Matter Dynamics in Organic Farming Systems: Assessment Mechanisms and Implications for Sustainable Management** (2025)
+   1 citations · Soil Carbon
+
+3. **Long‐term protection in grasslands enhances soil carbon storage through reduced disturbance and community trait diversity–environment adaptations** (2026)
    0 citations · Soil Carbon
 
-3. **Long-term protection in grasslands enhances soil carbon storage via reduced disturbance and community trait diversity-environment adaptations** (2026)
-   0 citations · Soil Carbon
-
-4. **Soil Organic Matter Dynamics in Organic Farming Systems: Assessment Mechanisms and Implications for Sustainable Management** (2025)
+4. **Long-term protection in grasslands enhances soil carbon storage via reduced disturbance and community trait diversity-environment adaptations** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

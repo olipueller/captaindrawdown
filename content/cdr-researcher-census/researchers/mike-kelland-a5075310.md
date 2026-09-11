@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
 description: "Mike Kelland is a Mid-career General CDR researcher at PPG Industries (United States) in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.327513
+date: 2026-09-11T02:38:29.276381
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 883 |
+| Citations | 911 |
 | Publications | 23 |
 | CDR Focus | 60.9% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   66 citations
+   68 citations
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   47 citations
+   50 citations
 
 3. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Jia Zeng"
-description: "Jia Zeng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.490915
+description: "Jia Zeng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.431869
 url: "/cdr-researcher-census/researchers/jia-zeng-a5031954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 529 |
+| h-index | 14 |
+| Citations | 560 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **P-limitation regulates the accumulation of soil aggregates organic carbon during the restoration of Pinus tabuliformis forest** (2024)
    2 citations · Soil Carbon

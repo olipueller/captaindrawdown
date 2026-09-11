@@ -1,7 +1,7 @@
 ---
 title: "Hirpha Adugna Areti"
-description: "Hirpha Adugna Areti is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.092655
+description: "Hirpha Adugna Areti is a Mid-career Biochar researcher at Haramaya University in ET. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.995648
 url: "/cdr-researcher-census/researchers/hirpha-adugna-areti-a5093974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 169 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 191 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    39 citations
 
 2. **Adsorptive performances and valorization of green synthesized biochar–based activated carbon from banana peel and corn cob composites for the abatement of Cr(VI) from synthetic solutions: Parameters, isotherms, and remediation studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

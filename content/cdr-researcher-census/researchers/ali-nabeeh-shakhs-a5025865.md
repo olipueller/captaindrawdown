@@ -1,7 +1,7 @@
 ---
 title: "Ali Nabeeh Shakhs"
-description: "Ali Nabeeh Shakhs is a Mid-career DAC researcher at North China Electric Power University in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.032373
+description: "Ali Nabeeh Shakhs is a Mid-career DAC researcher at Innovation Research Center in US. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.947338
 url: "/cdr-researcher-census/researchers/ali-nabeeh-shakhs-a5025865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ali-nabeeh-shakhs-a5025865/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North China Electric Power University"
+    "name": "Innovation Research Center"
   },
   "sameAs": "https://openalex.org/A5025865032"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ali Nabeeh Shakhs**  
-North China Electric Power University · 🇨🇳 CN
+Innovation Research Center · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 187 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 206 |
+| Publications | 30 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,16 +56,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 3. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
    1 citations
 
-4. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
-   0 citations
+4. **Structure-dependent ion spatial distribution enables energy-efficient direct air capture using electrochemically modified carbon** (2026)
+   0 citations · DAC
 
 5. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
    0 citations
 
-6. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
+6. **Design and fabrication of structured adsorbents with enhanced mass transfer for direct air CO2 capture** (2026)
    0 citations
 
-7. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
+7. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2026)
+   0 citations
+
+8. **Unraveling the CO2/H2O co-adsorption mechanism: A dynamic study on templated carbons for CO2 capture** (2025)
    0 citations
 
 ## External Profiles

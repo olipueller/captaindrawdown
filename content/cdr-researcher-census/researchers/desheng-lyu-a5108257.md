@@ -1,7 +1,7 @@
 ---
 title: "Desheng Lyu"
-description: "Desheng Lyu is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.120197
+description: "Desheng Lyu is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.063087
 url: "/cdr-researcher-census/researchers/desheng-lyu-a5108257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 162 |
+| h-index | 7 |
+| Citations | 172 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Irrigation Amount and Salinity Levels on Maize (Zea mays L.) Growth, Water Productivity and Carbon Emissions in Arid Region of Northwest China** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

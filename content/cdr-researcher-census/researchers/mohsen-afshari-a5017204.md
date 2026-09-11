@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Afshari"
-description: "Mohsen Afshari is a Mid-career Ocean CDR researcher at University of Houston in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.216724
+description: "Mohsen Afshari is a Mid-career Ocean CDR researcher at University of Houston in US. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.141241
 url: "/cdr-researcher-census/researchers/mohsen-afshari-a5017204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 138 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Citations | 150 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   69 citations · Ocean CDR
+   73 citations · Ocean CDR
 
 2. **Comparative assessment of United States coastal hubs for large scale electrochemical marine carbon dioxide removal** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
-3. **Membraneless Electrochemical Carbon Capture: A Stackable Path to Low-Cost CO₂ Capture from Point Sources and Direct Air** (2025)
+3. **Development of a Membraneless Flow-Through Electrochemical Cell for Direct Ocean Capture** (2026)
+   0 citations · General CDR
+
+4. **Membraneless Electrochemical Carbon Capture: A Stackable Path to Low-Cost CO₂ Capture from Point Sources and Direct Air** (2025)
    0 citations
 
 ## External Profiles

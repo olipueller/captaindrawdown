@@ -1,7 +1,7 @@
 ---
 title: "Michiel Van Tendeloo"
 description: "Michiel Van Tendeloo is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.735742
+date: 2026-09-11T02:38:29.694316
 url: "/cdr-researcher-census/researchers/michiel-van-tendeloo-a5075775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 306 |
+| Citations | 311 |
 | Publications | 22 |
-| CDR Focus | 40.9% |
-| Trajectory | Stable |
+| CDR Focus | 36.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

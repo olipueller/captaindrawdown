@@ -1,7 +1,7 @@
 ---
 title: "Po‐Jen Tseng"
-description: "Po‐Jen Tseng is a Mid-career General CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.617037
+description: "Po‐Jen Tseng is a Mid-career General CDR researcher at Asus (Taiwan) in TW. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.570326
 url: "/cdr-researcher-census/researchers/pojen-tseng-a5026279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pojen-tseng-a5026279/",
   "affiliation": {
     "@type": "Organization",
-    "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+    "name": "Asus (Taiwan)"
   },
   "sameAs": "https://openalex.org/A5026279638"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Po‐Jen Tseng**  
-École Polytechnique Fédérale de Lausanne · 🇨🇭 CH
+Asus (Taiwan) · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 392 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 401 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

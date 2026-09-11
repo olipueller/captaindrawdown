@@ -1,7 +1,7 @@
 ---
 title: "Purity Rima Mbaabu"
 description: "Purity Rima Mbaabu is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.401409
+date: 2026-09-11T02:38:29.354619
 url: "/cdr-researcher-census/researchers/purity-rima-mbaabu-a5088900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 688 |
+| Citations | 700 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **<i>Prosopis juliflora</i> management and grassland restoration in Baringo County, Kenya: Opportunities for soil carbon sequestration and local livelihoods** (2021)
-   25 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

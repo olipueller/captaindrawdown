@@ -1,7 +1,7 @@
 ---
 title: "Ane Gabriele Vaz Souza"
-description: "Ane Gabriele Vaz Souza is a Mid-career Soil Carbon researcher at Universidade Estadual de Goiás in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.318418
+description: "Ane Gabriele Vaz Souza is a Mid-career Soil Carbon researcher at Universidade Estadual Paulista (Unesp) in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.238077
 url: "/cdr-researcher-census/researchers/ane-gabriele-vaz-souza-a5043127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ane-gabriele-vaz-souza-a5043127/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade Estadual de Goi\u00e1s"
+    "name": "Universidade Estadual Paulista (Unesp)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4215-1662",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ane Gabriele Vaz Souza**  
-Universidade Estadual de Goiás · 🇧🇷 BR
+Universidade Estadual Paulista (Unesp) · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 119 |
+| Citations | 130 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

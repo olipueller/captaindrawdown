@@ -1,7 +1,7 @@
 ---
 title: "Mengying Wang"
-description: "Mengying Wang is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.042872
+description: "Mengying Wang is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.982205
 url: "/cdr-researcher-census/researchers/mengying-wang-a5100775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 184 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 195 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tetracycline adsorption on nitrogen-doped furfural residue biochar: Kinetics, thermodynamics and mechanism analysis** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

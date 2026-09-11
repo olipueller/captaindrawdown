@@ -1,7 +1,7 @@
 ---
 title: "Sue Rodway‐Dyer"
 description: "Sue Rodway‐Dyer is a Senior General CDR researcher at University of Bristol in GB. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.776168
+date: 2026-09-11T02:38:29.735116
 url: "/cdr-researcher-census/researchers/sue-rodwaydyer-a5080349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 284 |
+| Citations | 290 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

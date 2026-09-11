@@ -1,7 +1,7 @@
 ---
 title: "Yiyang Ding"
-description: "Yiyang Ding is a Mid-career Biochar researcher at Peking University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.737984
+description: "Yiyang Ding is a Mid-career Biochar researcher at University of Helsinki in FI. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.707406
 url: "/cdr-researcher-census/researchers/yiyang-ding-a5043814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yiyang-ding-a5043814/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Peking University"
+    "name": "University of Helsinki"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6031-1263",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yiyang Ding**  
-Peking University · 🇨🇳 CN
+University of Helsinki ·  FI
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
+| h-index | 10 |
 | Citations | 305 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -53,7 +53,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Effects of biochar on soil carbon pool stability in the Dahurian larch (Larix gmelinii) forest are regulated by the dominant soil microbial ecological strategy** (2024)
    14 citations · Biochar
 
-2. **The Effects of Biochar on Soil Carbon Pool Stability in the Dahurian Larch (Larix Gmelinii) Forest are Regulated by the Soil Microbial Dominant Ecological Strategy** (2024)
+2. **Post-fire pyrocarbon helps restore the climate warming mitigation capacity of Dahurian larch (Larix gmelinii) forest soils** (2026)
+   0 citations
+
+3. **The Effects of Biochar on Soil Carbon Pool Stability in the Dahurian Larch (Larix Gmelinii) Forest are Regulated by the Soil Microbial Dominant Ecological Strategy** (2024)
    0 citations · Biochar
 
 ## External Profiles

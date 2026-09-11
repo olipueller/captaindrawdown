@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abuzar Jaffar"
 description: "Muhammad Abuzar Jaffar is a Mid-career Biochar researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130088
+date: 2026-09-11T02:38:30.097697
 url: "/cdr-researcher-census/researchers/muhammad-abuzar-jaffar-a5028208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 159 |
+| Citations | 161 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

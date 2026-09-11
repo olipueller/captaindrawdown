@@ -1,7 +1,7 @@
 ---
 title: "Kees Teuling"
-description: "Kees Teuling is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.072968
+description: "Kees Teuling is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.017092
 url: "/cdr-researcher-census/researchers/kees-teuling-a5078228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 175 |
-| Publications | 29 |
-| CDR Focus | 6.9% |
+| Citations | 185 |
+| Publications | 30 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Regenerative agriculture - a case study : Application and analyses of regenerative versus conventional agriculture in a case study in De Hoeksche Waard, the Netherlands** (2023)
    1 citations · General CDR
+
+3. **Validation of a new soil bulk density sensor** (2024)
+   0 citations
 
 ## External Profiles
 

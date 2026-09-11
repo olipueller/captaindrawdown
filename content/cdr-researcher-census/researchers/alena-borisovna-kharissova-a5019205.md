@@ -1,7 +1,7 @@
 ---
 title: "Alena Borisovna Kharissova"
 description: "Alena Borisovna Kharissova is a Mid-career General CDR researcher at Universidad Autónoma de Nuevo León in MX. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.180612
+date: 2026-09-11T02:38:30.137658
 url: "/cdr-researcher-census/researchers/alena-borisovna-kharissova-a5019205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 146 |
+| Citations | 151 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon negative footprint materials: A review** (2024)
-   135 citations · General CDR
+   140 citations · General CDR
 
 ## External Profiles
 

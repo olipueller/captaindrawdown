@@ -1,7 +1,7 @@
 ---
 title: "Gary Tarbuck"
 description: "Gary Tarbuck is a Senior Enhanced Weathering researcher at University College London in GB. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249220
+date: 2026-09-11T02:38:29.196647
 url: "/cdr-researcher-census/researchers/gary-tarbuck-a5061449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,262 |
+| Citations | 1,301 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum** (2021)
-   138 citations · Enhanced Weathering
+   139 citations · Enhanced Weathering
 
 2. **Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters** (2021)
    21 citations · Enhanced Weathering

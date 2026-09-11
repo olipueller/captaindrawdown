@@ -1,7 +1,7 @@
 ---
 title: "Zhaolin Du"
-description: "Zhaolin Du is a Mid-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.385963
+description: "Zhaolin Du is a Mid-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.333693
 url: "/cdr-researcher-census/researchers/zhaolin-du-a5036431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 719 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 748 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Machine Learning Integrated with a Causal Pathway Framework Unravels Differential Mechanisms of Biochar-Driven Soil Organic Carbon Dynamics under Cadmium Stress** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Enhanced remediation of cadmium and lead in soil using two-step ball-milled micro zero-valent iron/phosphate/biochar composites: Synthesis, performance, and mechanisms** (2026)
    0 citations · Biochar

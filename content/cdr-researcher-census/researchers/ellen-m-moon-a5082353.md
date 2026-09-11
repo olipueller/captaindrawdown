@@ -1,7 +1,7 @@
 ---
 title: "Ellen M. Moon"
-description: "Ellen M. Moon is a Senior Biochar researcher at Deakin University in AU. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.206516
+description: "Ellen M. Moon is a Senior Biochar researcher at Deakin University in AU. With 56 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.153998
 url: "/cdr-researcher-census/researchers/ellen-m-moon-a5082353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,600 |
-| Publications | 55 |
-| CDR Focus | 9.1% |
+| Citations | 1,662 |
+| Publications | 56 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Comparative analysis of biochar carbon stability methods and implications for carbon credits** (2023)
-   108 citations · Biochar
+   114 citations · Biochar
 
 2. **Comprehensive life cycle assessment of garden organic waste valorisation: A case study in regional Australia** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
 3. **Comparative Analysis of Biochar Carbon Stability Methods and Implications for Carbon Credits** (2023)
    3 citations · Biochar

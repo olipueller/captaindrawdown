@@ -1,7 +1,7 @@
 ---
 title: "Ouda Salem"
 description: "Ouda Salem is a Mid-career DAC researcher at Fraunhofer Institute for Solar Energy Systems in DE. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.853851
+date: 2026-09-11T02:38:29.808713
 url: "/cdr-researcher-census/researchers/ouda-salem-a5049815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 244 |
+| Citations | 254 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Improved Energy Efficiency of Power‐to‐X Processes Using Heat Pumps Towards Mobility Sector Defossilization** (2022)
-   12 citations · DAC
+   13 citations · DAC
 
 ## External Profiles
 

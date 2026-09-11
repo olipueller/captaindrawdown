@@ -1,7 +1,7 @@
 ---
 title: "Aswini Krishnan"
-description: "Aswini Krishnan is a Mid-career Soil Carbon researcher at National Institute of Technology, Puducherry. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.859853
+description: "Aswini Krishnan is a Mid-career Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.821195
 url: "/cdr-researcher-census/researchers/aswini-krishnan-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/aswini-krishnan-a5112504/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Institute of Technology, Puducherry"
+    "name": "SRM Institute of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5112504724"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Aswini Krishnan**  
-National Institute of Technology, Puducherry
+SRM Institute of Science and Technology · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 242 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 249 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Arvind Kumar"
-description: "Arvind Kumar is a Senior General CDR researcher at Maulana Azad National Institute of Technology in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.148485
+description: "Arvind Kumar is a Senior General CDR researcher at Maulana Azad National Institute of Technology in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.037017
 url: "/cdr-researcher-census/researchers/arvind-kumar-a5102839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 154 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 178 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **An in-depth critical review of different carbon capture techniques: Assessing their effectiveness and role in reducing climate change emissions** (2024)
-   53 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

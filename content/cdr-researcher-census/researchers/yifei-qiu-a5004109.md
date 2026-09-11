@@ -1,7 +1,7 @@
 ---
 title: "Yifei Qiu"
-description: "Yifei Qiu is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.379919
+description: "Yifei Qiu is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.320634
 url: "/cdr-researcher-census/researchers/yifei-qiu-a5004109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yifei-qiu-a5004109/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing University"
+    "name": "Harbin Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1016-7042",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yifei Qiu**  
-Nanjing University · 🇨🇳 CN
+Harbin Institute of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 733 |
+| Citations | 781 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic material addition on active soil organic carbon and microbial diversity: A meta-analysis** (2024)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Global patterns of organic carbon transfer and accumulation across the land–ocean continuum constrained by radiocarbon data** (2024)
-   27 citations · Ocean CDR
+   31 citations · Ocean CDR
 
 3. **Global patterns of organic carbon transferand accumulation across the land&amp;#8211;oceancontinuum constrained by radiocarbon data** (2025)
    0 citations

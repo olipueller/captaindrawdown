@@ -1,7 +1,7 @@
 ---
 title: "Abdelaziz Ounas"
-description: "Abdelaziz Ounas is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.693644
+description: "Abdelaziz Ounas is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.638990
 url: "/cdr-researcher-census/researchers/abdelaziz-ounas-a5011585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 335 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 348 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Synthesis and application of biochar and KOH-Activated carbon from olive mill solid waste for polyphenol removal** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

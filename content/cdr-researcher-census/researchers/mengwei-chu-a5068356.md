@@ -1,7 +1,7 @@
 ---
 title: "Mengwei Chu"
 description: "Mengwei Chu is an Early-career Biochar researcher at North Carolina Natural Heritage Program in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.341265
+date: 2026-09-11T02:38:30.272929
 url: "/cdr-researcher-census/researchers/mengwei-chu-a5068356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 114 |
+| Citations | 123 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar affects greenhouse gas emissions in various environments: A critical review** (2022)
-   117 citations · Biochar
+   120 citations · Biochar
 
 ## External Profiles
 

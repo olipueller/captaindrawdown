@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Firdaus Mohamad Yusop"
-description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.309480
+description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.250095
 url: "/cdr-researcher-census/researchers/mohamad-firdaus-mohamad-yusop-a5000466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 957 |
-| Publications | 54 |
-| CDR Focus | 16.7% |
+| h-index | 17 |
+| Citations | 1,012 |
+| Publications | 55 |
+| CDR Focus | 16.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies** (2021)
-   141 citations · Biochar
+   144 citations · Biochar
 
 2. **Conversion of teak wood waste into microwave-irradiated activated carbon for cationic methylene blue dye removal: Optimization and batch studies** (2022)
    71 citations
 
 3. **Single-stage microwave assisted coconut shell based activated carbon for removal of Zn(II) ions from aqueous solution – Optimization and batch studies** (2022)
-   65 citations · Biochar
+   66 citations · Biochar
 
 4. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
    57 citations
@@ -66,13 +66,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    33 citations · Biochar
 
 6. **Preparation of Alpinia galangaStem Based Activated Carbon via Single-step Microwave Irradiation for Cationic Dye Removal** (2021)
-   20 citations · Biochar
+   21 citations · Biochar
 
-7. **Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions** (2024)
-   14 citations · Biochar
+7. **Amoxicillin adsorption onto oil palm trunk‐derived activated carbon: synthesis optimization, modelling of mass transfer and ultrasonic regeneration** (2025)
+   16 citations
 
-8. **Amoxicillin adsorption onto oil palm trunk‐derived activated carbon: synthesis optimization, modelling of mass transfer and ultrasonic regeneration** (2025)
-   12 citations
+8. **Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions** (2024)
+   15 citations · Biochar
 
 9. **Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies** (2023)
    4 citations · Biochar

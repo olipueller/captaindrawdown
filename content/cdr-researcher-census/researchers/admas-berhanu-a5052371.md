@@ -1,7 +1,7 @@
 ---
 title: "Admas Berhanu"
 description: "Admas Berhanu is a Mid-career Soil Carbon researcher at University of New Hampshire in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.013378
+date: 2026-09-11T02:38:29.970876
 url: "/cdr-researcher-census/researchers/admas-berhanu-a5052371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 193 |
+| Citations | 199 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |

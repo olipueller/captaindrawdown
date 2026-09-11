@@ -1,7 +1,7 @@
 ---
 title: "Feifei Wang"
-description: "Feifei Wang is a Senior Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.205350
+description: "Feifei Wang is a Senior Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.155989
 url: "/cdr-researcher-census/researchers/feifei-wang-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 1,613 |
-| Publications | 65 |
-| CDR Focus | 9.2% |
+| h-index | 25 |
+| Citations | 1,642 |
+| Publications | 64 |
+| CDR Focus | 9.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    63 citations · Soil Carbon
 
 2. **Source and stability of soil organic carbon jointly regulate soil carbon pool, but source alteration is more effective in mangrove ecosystem following Spartina alterniflora invasion** (2023)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Effects of different restored vegetation on soil organic carbon pools in subtropic erosive lands: Insights from stable carbon isotopes** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Warming and flooding have different effects on organic carbon stability in mangrove soils** (2023)
    12 citations · Soil Carbon
 
 6. **A machine learning framework for modeling and upscaling mangrove carbon productivity (ML-MCP)** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

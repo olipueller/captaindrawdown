@@ -1,7 +1,7 @@
 ---
 title: "Jian Song"
 description: "Jian Song is a Mid-career DAC researcher at University of Birmingham in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499601
+date: 2026-09-11T02:38:29.451470
 url: "/cdr-researcher-census/researchers/jian-song-a5049788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 514 |
+| Citations | 529 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Mapping innovations in direct air capture: A systematic patent review and literature comparison** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

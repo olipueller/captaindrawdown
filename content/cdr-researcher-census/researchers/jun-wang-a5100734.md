@@ -1,7 +1,7 @@
 ---
 title: "Jun Wang"
-description: "Jun Wang is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404866
+description: "Jun Wang is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.353217
 url: "/cdr-researcher-census/researchers/jun-wang-a5100734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 678 |
-| Publications | 54 |
-| CDR Focus | 7.4% |
+| h-index | 15 |
+| Citations | 703 |
+| Publications | 53 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Differences in the physical protection mechanisms of soil organic carbon with 13C-labeled straw and biochar** (2025)
-   25 citations · Biochar
+   27 citations · Biochar
 
 3. **Mulching practices decreased soil microbial carbon degradation potential under spring maize in the Loess Plateau of China** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
    0 citations · Soil Carbon

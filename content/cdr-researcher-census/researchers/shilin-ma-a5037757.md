@@ -1,7 +1,7 @@
 ---
 title: "Shilin Ma"
-description: "Shilin Ma is a Mid-career Soil Carbon researcher at Sinopec (China) in CN. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331006
+description: "Shilin Ma is a Mid-career Soil Carbon researcher at Sinopec (China) in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.271243
 url: "/cdr-researcher-census/researchers/shilin-ma-a5037757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 870 |
+| h-index | 17 |
+| Citations | 930 |
 | Publications | 45 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Determinants of rhizospheric organic carbon fractions and accumulation in four different vegetations of coastal saline-alkali soils** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Mineral-Solubilizing Microbial Inoculums Promote Robinia Pseudoacacia L. Growth By Optimizing Rhizospheric Soil Microbial Community Structure** (2024)
    5 citations · Soil Carbon

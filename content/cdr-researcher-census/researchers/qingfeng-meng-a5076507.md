@@ -1,7 +1,7 @@
 ---
 title: "Qingfeng Meng"
-description: "Qingfeng Meng is a Mid-career Biochar researcher at Jiangsu University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.452129
+description: "Qingfeng Meng is a Mid-career Biochar researcher at Jiangsu University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.399802
 url: "/cdr-researcher-census/researchers/qingfeng-meng-a5076507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 589 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 609 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Responses of Soil Humus Composition and Humic Acid Structural Characteristics to the Addition of Different Types of Biochar in Phaeozems** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

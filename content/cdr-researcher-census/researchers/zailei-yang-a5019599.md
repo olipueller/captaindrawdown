@@ -1,7 +1,7 @@
 ---
 title: "Zailei Yang"
-description: "Zailei Yang is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.524335
+description: "Zailei Yang is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.494702
 url: "/cdr-researcher-census/researchers/zailei-yang-a5019599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 483 |
-| Publications | 19 |
-| CDR Focus | 21.1% |
+| h-index | 9 |
+| Citations | 474 |
+| Publications | 18 |
+| CDR Focus | 22.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 3. **Soil bacteria mediate organic carbon stability during alpine wetland biogeomorphic succession in the arid region of Central Asia** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Microbial community assembly mediated by soil organic carbon stability in aggregates under long-term enclosure alpine meadows** (2026)
-   0 citations
+   1 citations
 
 5. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
    0 citations · Soil Carbon

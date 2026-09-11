@@ -1,7 +1,7 @@
 ---
 title: "Sanja Mutić"
 description: "Sanja Mutić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.193943
+date: 2026-09-11T02:38:30.099565
 url: "/cdr-researcher-census/researchers/sanja-mutic-a5013462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 144 |
+| Citations | 161 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in the Remediation of Organic Pollutants in Water: A Review of Polycyclic Aromatic Hydrocarbon and Pesticide Removal** (2024)
-   59 citations · Biochar
+   61 citations · Biochar
 
 ## External Profiles
 

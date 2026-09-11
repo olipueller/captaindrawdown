@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Xu"
-description: "Hongwei Xu is a Senior Soil Carbon researcher at Hetao College in CN. With 150 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.134587
+description: "Hongwei Xu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 152 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.083366
 url: "/cdr-researcher-census/researchers/hongwei-xu-a5038496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hongwei-xu-a5038496/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hetao College"
+    "name": "Sichuan Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3628-3378",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hongwei Xu**  
-Hetao College · 🇨🇳 CN
+Sichuan Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 29 |
-| Citations | 2,965 |
-| Publications | 150 |
-| CDR Focus | 6.0% |
+| h-index | 30 |
+| Citations | 3,089 |
+| Publications | 152 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,21 +54,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations
 
 2. **Fertilization effects on soil organic matter chemistry** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Effects of vegetation restoration on soil microbial necromass carbon and organic carbon in grazed and degraded sandy land** (2025)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Heavy Nitrogen Application Rate and Long-Term Duration Decrease the Soil Organic Carbon and Nitrogen Sequestration Rates in Forest Ecosystems** (2024)
    17 citations · Soil Carbon
 
 5. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
-6. **Carbon Sequestration and Stability and Soil Erosion in Forest Ecosystems** (2024)
-   8 citations · Soil Carbon
+6. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
+   9 citations · Soil Carbon
 
-7. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
+7. **Carbon Sequestration and Stability and Soil Erosion in Forest Ecosystems** (2024)
    8 citations · Soil Carbon
 
 8. **Sand dune fixation enhances the contribution of microbial necromass carbon to soil organic carbon: A case study of Mu Us Sandy Land in China** (2025)

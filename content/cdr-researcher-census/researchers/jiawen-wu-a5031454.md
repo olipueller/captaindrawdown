@@ -1,7 +1,7 @@
 ---
 title: "Jiawen Wu"
-description: "Jiawen Wu is a Mid-career Biochar researcher at Shandong Lianxing Energy Group (China) in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.212652
+description: "Jiawen Wu is a Mid-career Biochar researcher at Shandong Lianxing Energy Group (China) in CN. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.159357
 url: "/cdr-researcher-census/researchers/jiawen-wu-a5031454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,549 |
-| Publications | 50 |
-| CDR Focus | 6.0% |
+| Citations | 1,606 |
+| Publications | 49 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Hierarchically porous biochar templated by in situ formed ZnO for rapid Pb2+ and Cd2+ adsorption in wastewater: Experiment and molecular dynamics study** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Eggshell-enhanced biochar with in-situ formed CaO/Ca(OH)2 for efficient removal of Pb2+ and Cd2+ from wastewater: Performance and mechanistic insights** (2024)
    32 citations · Biochar

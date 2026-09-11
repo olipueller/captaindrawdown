@@ -1,7 +1,7 @@
 ---
 title: "Mike C. Rowley"
-description: "Mike C. Rowley is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239120
+description: "Mike C. Rowley is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.185206
 url: "/cdr-researcher-census/researchers/mike-c-rowley-a5045378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 1,333 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 1,390 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Wildfire Produces Transient Minerals: Speciation, Reactivity, and Fate of Iron and Manganese in Surface Soils Post Wildfire** (2025)
-   4 citations
+   5 citations
 
 2. **Reconstructing soil exchangeable calcium and magnesium in central Africa (DRC) during the Late Holocene Rainforest Crisis using a new biomarker lipid tool** (2026)
    0 citations · Soil Carbon
 
 3. **Biomineralisation of inorganic carbon by agroforestry species in East Africa: The oxalate carbonate pathway of fig trees in Samburu County, Kenya** (2026)
    0 citations · Enhanced Weathering
+
+4. **Wildfire Produces Transient Minerals: Speciation, Reactivity, and Fate of Iron and Manganese in Surface Soils Post Wildfire** (2025)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdulkareem Raheem"
-description: "Abdulkareem Raheem is a Mid-career Soil Carbon researcher at Dalhousie University in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611480
+description: "Abdulkareem Raheem is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.537139
 url: "/cdr-researcher-census/researchers/abdulkareem-raheem-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abdulkareem-raheem-a5088988/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dalhousie University"
+    "name": "Jiangsu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9636-7813",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Abdulkareem Raheem**  
-Dalhousie University · 🇨🇦 CA
+Jiangsu University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 397 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| h-index | 11 |
+| Citations | 432 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Unraveling the ecological threads: How invasive alien plants influence soil carbon dynamics** (2024)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
    12 citations · Biochar

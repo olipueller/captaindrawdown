@@ -1,7 +1,7 @@
 ---
 title: "Katsutoshi Taki"
-description: "Katsutoshi Taki is a Senior Soil Carbon researcher at National Science Centre in PL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.087094
+description: "Katsutoshi Taki is a Senior Soil Carbon researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.039392
 url: "/cdr-researcher-census/researchers/katsutoshi-taki-a5075087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Katsutoshi Taki",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/katsutoshi-taki-a5075087/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "National Science Centre"
-  },
   "sameAs": "https://openalex.org/A5075087841"
 }
 </script>
 
 ## Profile
 
-**Katsutoshi Taki**  
-National Science Centre ·  PL
+**Katsutoshi Taki**
 
 **Career Stage:** Senior
 
@@ -40,17 +35,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 171 |
+| Citations | 178 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   5 citations · Soil Carbon
+1. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+   6 citations · Soil Carbon
 
-2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+2. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
 
 ## External Profiles

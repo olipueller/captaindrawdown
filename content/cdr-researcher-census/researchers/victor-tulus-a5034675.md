@@ -1,7 +1,7 @@
 ---
 title: "Víctor Tulus"
 description: "Víctor Tulus is a Mid-career DAC researcher at ETH Zurich in CH. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.181316
+date: 2026-09-11T02:38:29.128911
 url: "/cdr-researcher-census/researchers/victor-tulus-a5034675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,906 |
+| Citations | 1,979 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Human and planetary health implications of negative emissions technologies** (2022)
-   49 citations · BECCS
+   50 citations · BECCS
 
 2. **The role of hydrogen in heavy transport to operate within planetary boundaries** (2021)
    37 citations

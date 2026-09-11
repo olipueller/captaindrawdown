@@ -1,7 +1,7 @@
 ---
 title: "Jorge Federico Miranda-Vélez"
-description: "Jorge Federico Miranda-Vélez is a Mid-career General CDR researcher at Aarhus University in DK. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.333643
+description: "Jorge Federico Miranda-Vélez is a Mid-career General CDR researcher at Aarhus University in DK. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.280605
 url: "/cdr-researcher-census/researchers/jorge-federico-miranda-velez-a5077700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 116 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 122 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

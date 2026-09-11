@@ -1,7 +1,7 @@
 ---
 title: "Erhan Huang"
 description: "Erhan Huang is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592237
+date: 2026-09-11T02:38:29.517953
 url: "/cdr-researcher-census/researchers/erhan-huang-a5076853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 416 |
+| Citations | 451 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

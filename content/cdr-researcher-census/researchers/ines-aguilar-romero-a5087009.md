@@ -1,7 +1,7 @@
 ---
 title: "Inés Aguilar-Romero"
 description: "Inés Aguilar-Romero is a Mid-career Ocean CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.897260
+date: 2026-09-11T02:38:29.850837
 url: "/cdr-researcher-census/researchers/ines-aguilar-romero-a5087009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 227 |
+| Citations | 236 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

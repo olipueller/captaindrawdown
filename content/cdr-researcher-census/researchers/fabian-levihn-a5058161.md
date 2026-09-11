@@ -1,7 +1,7 @@
 ---
 title: "Fabian Levihn"
-description: "Fabian Levihn is a Mid-career General CDR researcher at Stockholm Exergi AB in SE. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.370308
+description: "Fabian Levihn is a Mid-career General CDR researcher at Stockholm Exergi AB in SE. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.325315
 url: "/cdr-researcher-census/researchers/fabian-levihn-a5058161/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 758 |
-| Publications | 38 |
-| CDR Focus | 15.8% |
+| Citations | 768 |
+| Publications | 37 |
+| CDR Focus | 16.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    23 citations
 
 3. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 4. **A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi** (2024)
    12 citations · BECCS

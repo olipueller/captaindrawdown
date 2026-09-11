@@ -1,7 +1,7 @@
 ---
 title: "Annick St‐Denis"
-description: "Annick St‐Denis is a Senior General CDR researcher at Université du Québec à Montréal in CA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.929135
+description: "Annick St‐Denis is a Senior General CDR researcher at Université du Québec à Montréal in CA. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.850225
 url: "/cdr-researcher-census/researchers/annick-stdenis-a5048314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 215 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 236 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

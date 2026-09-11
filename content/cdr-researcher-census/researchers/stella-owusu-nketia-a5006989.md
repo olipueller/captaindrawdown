@@ -1,0 +1,62 @@
+---
+title: "Stella Owusu-Nketia"
+description: "Stella Owusu-Nketia is a Mid-career Biochar researcher at University of Ghana in GH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.386631
+url: "/cdr-researcher-census/researchers/stella-owusu-nketia-a5006989/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Stella Owusu-Nketia",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stella-owusu-nketia-a5006989/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Ghana"
+  },
+  "sameAs": "https://openalex.org/A5006989485"
+}
+</script>
+
+## Profile
+
+**Stella Owusu-Nketia**  
+University of Ghana ·  GH
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 7 |
+| Citations | 102 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Impact of Biochar Application on Soil Physical and Biogeochemical Characteristics: A Review** (2025)
+   8 citations · Biochar
+
+2. **Short‐Term Alteration of Soil Physicochemical Characteristics Induced by Biochar Application on a <i>Ferric Acrisol</i>** (2025)
+   2 citations · Biochar
+
+## External Profiles
+
+- [OpenAlex](https://openalex.org/A5006989485)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

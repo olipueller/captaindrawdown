@@ -1,7 +1,7 @@
 ---
 title: "Nathan Rosenberg"
 description: "Nathan Rosenberg is a Mid-career Soil Carbon researcher at Harvard University Press in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.359797
+date: 2026-09-11T02:38:30.330178
 url: "/cdr-researcher-census/researchers/nathan-rosenberg-a5040564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 111 |
+| Citations | 112 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Policy pathways for perennial agriculture** (2022)
+1. **Farming with Trees: Reforming U.S. Farm Policy to Expand Agroforestry and Mitigate Climate Change** (2021)
+   21 citations
+
+2. **Policy pathways for perennial agriculture** (2022)
    18 citations · General CDR
 
-2. **Farming with Trees: Reforming U.S. Farm Policy to Expand Agroforestry and Mitigate Climate Change** (2021)
+3. **Farming with Trees: Reforming U.S. Farm Policy to Expand Agroforestry and Mitigate Climate Change** (2021)
    2 citations · General CDR
 
 ## External Profiles

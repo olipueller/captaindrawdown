@@ -1,7 +1,7 @@
 ---
 title: "Johnson Christian"
-description: "Johnson Christian is an Early-career Ocean CDR researcher at Marwadi University in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.308709
+description: "Johnson Christian is an Early-career Ocean CDR researcher at Marwadi University in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.233133
 url: "/cdr-researcher-census/researchers/johnson-christian-a5053436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 120 |
+| h-index | 4 |
+| Citations | 130 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ensuring carbon neutrality via algae-based wastewater treatment systems: Progress and future perspectives** (2024)
-   37 citations · Ocean CDR
+   40 citations · Ocean CDR
 
 ## External Profiles
 

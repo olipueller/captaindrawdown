@@ -1,7 +1,7 @@
 ---
 title: "Runkai Chen"
-description: "Runkai Chen is a Mid-career DAC researcher at Chinese PLA General Hospital in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895918
+description: "Runkai Chen is a Mid-career DAC researcher at Chinese PLA General Hospital in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.849015
 url: "/cdr-researcher-census/researchers/runkai-chen-a5077593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,21 +40,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 227 |
-| Publications | 19 |
-| CDR Focus | 15.8% |
+| Citations | 236 |
+| Publications | 20 |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
-   31 citations · DAC
+   32 citations · DAC
 
 2. **Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective** (2025)
-   9 citations · DAC
+   10 citations · DAC
 
 3. **Mapping innovations in direct air capture: A systematic patent review and literature comparison** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Runzhou Li"
-description: "Runzhou Li is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.117231
+description: "Runzhou Li is a Senior Soil Carbon researcher at Xi'an Shiyou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.072575
 url: "/cdr-researcher-census/researchers/runzhou-li-a5015105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/runzhou-li-a5015105/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Science and Technology of China"
+    "name": "Xi'an Shiyou University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6810-6181",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Runzhou Li**  
-University of Science and Technology of China · 🇨🇳 CN
+Xi'an Shiyou University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 163 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 169 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Margot Bligh"
-description: "Margot Bligh is an Early-career Ocean CDR researcher at University of Bremen in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.016985
+description: "Margot Bligh is a Mid-career Ocean CDR researcher at University of Bremen in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.917137
 url: "/cdr-researcher-census/researchers/margot-bligh-a5080023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Margot Bligh**  
 University of Bremen · 🇩🇪 DE
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 191 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 5 |
+| Citations | 210 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fucoid brown algae inject fucoidan carbon into the ocean** (2022)
-   102 citations · Ocean CDR
+   105 citations · Ocean CDR
 
 ## External Profiles
 

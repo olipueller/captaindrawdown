@@ -1,7 +1,7 @@
 ---
 title: "Yang Bai"
-description: "Yang Bai is a Mid-career General CDR researcher at Chongqing University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.118938
+description: "Yang Bai is a Mid-career General CDR researcher at China Shenhua Energy (China) in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.083907
 url: "/cdr-researcher-census/researchers/yang-bai-a5101628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yang-bai-a5101628/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chongqing University"
+    "name": "China Shenhua Energy (China)"
   },
   "sameAs": [
     "https://orcid.org/0009-0002-2923-9472",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yang Bai**  
-Chongqing University · 🇨🇳 CN
+China Shenhua Energy (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 162 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 165 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

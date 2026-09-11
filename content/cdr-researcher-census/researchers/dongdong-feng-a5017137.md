@@ -1,7 +1,7 @@
 ---
 title: "Dongdong Feng"
 description: "Dongdong Feng is a Mid-career Biochar researcher at Lanzhou Jiaotong University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.386108
+date: 2026-09-11T02:38:30.291307
 url: "/cdr-researcher-census/researchers/dongdong-feng-a5017137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 106 |
+| Citations | 119 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   30 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

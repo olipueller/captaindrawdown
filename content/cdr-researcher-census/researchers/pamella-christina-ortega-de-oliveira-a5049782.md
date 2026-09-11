@@ -1,7 +1,7 @@
 ---
 title: "Pamella Christina Ortega de Oliveira"
 description: "Pamella Christina Ortega de Oliveira is a Mid-career Biochar researcher at Universidade Federal Fluminense in BR. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.917628
+date: 2026-09-11T02:38:29.870898
 url: "/cdr-researcher-census/researchers/pamella-christina-ortega-de-oliveira-a5049782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 219 |
+| Citations | 228 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

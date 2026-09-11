@@ -1,7 +1,7 @@
 ---
 title: "Eyerusalem Adehanom Goitom"
 description: "Eyerusalem Adehanom Goitom is an Early-career Soil Carbon researcher at Université du Québec à Montréal in CA. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.365428
+date: 2026-09-11T02:38:30.310365
 url: "/cdr-researcher-census/researchers/eyerusalem-adehanom-goitom-a5069548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 110 |
+| Citations | 116 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Species mixing improves soil properties and enzymatic activities in Chinese fir plantations: A meta-analysis** (2022)
-   113 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 ## External Profiles
 

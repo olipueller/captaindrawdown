@@ -1,7 +1,7 @@
 ---
 title: "Hanzhi Li"
-description: "Hanzhi Li is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.134706
+description: "Hanzhi Li is a Mid-career Soil Carbon researcher at China Rehabilitation Research Center in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.085900
 url: "/cdr-researcher-census/researchers/hanzhi-li-a5103258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanzhi-li-a5103258/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Forestry"
+    "name": "China Rehabilitation Research Center"
   },
   "sameAs": [
     "https://orcid.org/0009-0000-7762-2981",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hanzhi Li**  
-Chinese Academy of Forestry · 🇨🇳 CN
+China Rehabilitation Research Center · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 158 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 165 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

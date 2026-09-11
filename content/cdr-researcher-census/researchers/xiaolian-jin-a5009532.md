@@ -1,7 +1,7 @@
 ---
 title: "Xiaolian Jin"
 description: "Xiaolian Jin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.567499
+date: 2026-09-11T02:38:29.515286
 url: "/cdr-researcher-census/researchers/xiaolian-jin-a5009532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 439 |
+| Citations | 453 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

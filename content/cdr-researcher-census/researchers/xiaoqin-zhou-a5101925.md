@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Zhou"
-description: "Xiaoqin Zhou is a Senior Biochar researcher at Jilin University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012024
+description: "Xiaoqin Zhou is a Senior Biochar researcher at Jilin University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.964561
 url: "/cdr-researcher-census/researchers/xiaoqin-zhou-a5101925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 193 |
+| h-index | 8 |
+| Citations | 200 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Optimization of microalgal hydrothermal carbonization parameters using the response surface method for biochar applications in blast furnaces to reduce carbon emissions** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Optimization of Microalgal Hydrothermal Carbonization Parameters Using the Response Surface Method for Biochar Applications in Blast Furnaces to Reduce Carbon Emissions** (2024)
    2 citations · Biochar

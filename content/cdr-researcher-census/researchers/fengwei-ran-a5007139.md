@@ -1,7 +1,7 @@
 ---
 title: "Fengwei Ran"
-description: "Fengwei Ran is a Mid-career Soil Carbon researcher at Changsha University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.734978
+description: "Fengwei Ran is a Mid-career Soil Carbon researcher at Changsha University of Science and Technology in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.662720
 url: "/cdr-researcher-census/researchers/fengwei-ran-a5007139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 307 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 332 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Sediment organic carbon dynamics response to land use change in diverse watershed anthropogenic activities** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 ## External Profiles
 

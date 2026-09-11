@@ -1,7 +1,7 @@
 ---
 title: "Kimberley K. Mayfield"
 description: "Kimberley K. Mayfield is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.828753
+date: 2026-09-11T02:38:29.783160
 url: "/cdr-researcher-census/researchers/kimberley-k-mayfield-a5108548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 257 |
+| Citations | 266 |
 | Publications | 13 |
 | CDR Focus | 23.1% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon accounting for carbon dioxide removal** (2024)
-   22 citations · General CDR
+   25 citations · General CDR
 
 2. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 3. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
    0 citations · General CDR

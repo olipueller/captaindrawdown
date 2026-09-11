@@ -1,7 +1,7 @@
 ---
 title: "Laura Häkkinen"
 description: "Laura Häkkinen is a Senior Soil Carbon researcher at University of Helsinki in FI. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.108596
+date: 2026-09-11T02:38:30.075354
 url: "/cdr-researcher-census/researchers/laura-hakkinen-a5062566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 165 |
+| Citations | 168 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fungal communities in boreal soils are influenced by land use, agricultural soil management, and depth** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

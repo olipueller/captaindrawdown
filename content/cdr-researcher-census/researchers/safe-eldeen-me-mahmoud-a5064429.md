@@ -1,7 +1,7 @@
 ---
 title: "Safe ELdeen M.E. Mahmoud"
 description: "Safe ELdeen M.E. Mahmoud is a Mid-career Biochar researcher at Universidad de Oviedo in ES. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.848924
+date: 2026-09-11T02:38:29.800787
 url: "/cdr-researcher-census/researchers/safe-eldeen-me-mahmoud-a5064429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 247 |
+| Citations | 258 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal performance of polystyrene microplastics from strongly acidic solutions by two functionalized nanosized biochars derived from low-cost sustainable sources** (2025)
-   19 citations
+   20 citations
 
 2. **Facile Doping and Functionalization of Molybdic Acid into Nanobiochar to Enhance Mercury Ion Removal from Water Systems** (2024)
    3 citations · Biochar

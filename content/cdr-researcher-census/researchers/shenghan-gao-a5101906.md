@@ -1,7 +1,7 @@
 ---
 title: "Shenghan Gao"
 description: "Shenghan Gao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.583680
+date: 2026-09-11T02:38:29.507216
 url: "/cdr-researcher-census/researchers/shenghan-gao-a5101906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 424 |
+| Citations | 461 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Protists regulate microbially mediated organic carbon turnover in soil aggregates** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Repeated labile carbon inputs trigger soil microbial necromass decomposition through increasing microbial diversity and hierarchical interactions** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

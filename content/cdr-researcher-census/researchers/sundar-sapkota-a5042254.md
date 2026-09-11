@@ -1,7 +1,7 @@
 ---
 title: "Sundar Sapkota"
-description: "Sundar Sapkota is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.630786
+description: "Sundar Sapkota is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.567991
 url: "/cdr-researcher-census/researchers/sundar-sapkota-a5042254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 381 |
-| Publications | 21 |
-| CDR Focus | 23.8% |
+| h-index | 9 |
+| Citations | 403 |
+| Publications | 22 |
+| CDR Focus | 22.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation and soil carbon stabilization potential of forest biochar varied with biochar type and characteristics** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Soil aggregates and associated carbon and nitrogen storage in circular grass buffer integrated cropping systems** (2024)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Regulation of surface and sub-surface soil organic carbon sequestration in water-limited landscapes with integration of circular perennial grass buffer strips** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Microbial community responses to feedstock type and modifications determine soil organic carbon sequestration and crop yield in biochar-amended arid soils** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 5. **Regenerative Agriculture for Soil Health and Sustainability in a Changing World** (2026)
    0 citations · Soil Carbon

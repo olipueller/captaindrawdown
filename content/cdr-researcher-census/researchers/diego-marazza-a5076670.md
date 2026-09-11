@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
-description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.375647
+description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 79 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.324994
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 745 |
-| Publications | 76 |
-| CDR Focus | 19.7% |
+| Citations | 769 |
+| Publications | 79 |
+| CDR Focus | 19.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Biochar
 
 3. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 4. **The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework** (2022)
    10 citations · Biochar
@@ -68,11 +68,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 6. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
    2 citations · Soil Carbon
 
-7. **Inclusion of biochar in a C-dynamics model based on observations from a 8 years field experiment** (2021)
-   2 citations · Biochar
+7. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
+   2 citations · General CDR
 
-8. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
-   1 citations · General CDR
+8. **Inclusion of biochar in a C-dynamics model based on observations from a 8 years field experiment** (2021)
+   2 citations · Biochar
 
 9. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar

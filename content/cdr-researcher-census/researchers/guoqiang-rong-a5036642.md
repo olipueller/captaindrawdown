@@ -1,7 +1,7 @@
 ---
 title: "Guoqiang Rong"
-description: "Guoqiang Rong is a Mid-career Biochar researcher at Liaocheng University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.448652
+description: "Guoqiang Rong is a Mid-career Biochar researcher at China Construction Eighth Engineering Division (China) in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.396651
 url: "/cdr-researcher-census/researchers/guoqiang-rong-a5036642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guoqiang-rong-a5036642/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Liaocheng University"
+    "name": "China Construction Eighth Engineering Division (China)"
   },
   "sameAs": "https://openalex.org/A5036642879"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Guoqiang Rong**  
-Liaocheng University · 🇨🇳 CN
+China Construction Eighth Engineering Division (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 595 |
+| Citations | 614 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Exiting |

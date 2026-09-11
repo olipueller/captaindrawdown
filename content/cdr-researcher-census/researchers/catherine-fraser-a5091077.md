@@ -1,7 +1,7 @@
 ---
 title: "Catherine Fraser"
-description: "Catherine Fraser is a Senior DAC researcher at New South Wales Department of Primary Industries in AU. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.163126
+description: "Catherine Fraser is a Senior DAC researcher at World Resources Institute in US. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.113728
 url: "/cdr-researcher-census/researchers/catherine-fraser-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/catherine-fraser-a5091077/",
   "affiliation": {
     "@type": "Organization",
-    "name": "New South Wales Department of Primary Industries"
+    "name": "World Resources Institute"
   },
   "sameAs": "https://openalex.org/A5091077064"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Catherine Fraser**  
-New South Wales Department of Primary Industries · 🇦🇺 AU
+World Resources Institute · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 2,195 |
+| Citations | 2,223 |
 | Publications | 56 |
 | CDR Focus | 5.4% |
 | Trajectory | Exiting |

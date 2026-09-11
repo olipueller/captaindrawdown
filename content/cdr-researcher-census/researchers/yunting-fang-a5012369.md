@@ -1,7 +1,7 @@
 ---
 title: "Yunting Fang"
-description: "Yunting Fang is an Eminent Soil Carbon researcher at Shenyang Aerospace University in CN. With 296 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.072185
+description: "Yunting Fang is an Eminent Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 297 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.024695
 url: "/cdr-researcher-census/researchers/yunting-fang-a5012369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yunting-fang-a5012369/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Aerospace University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7531-546X",
@@ -28,45 +28,45 @@ robots: "index, follow"
 ## Profile
 
 **Yunting Fang**  
-Shenyang Aerospace University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Eminent
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 58 |
-| Citations | 11,837 |
-| Publications | 296 |
-| CDR Focus | 6.4% |
-| Trajectory | Declining |
+| h-index | 59 |
+| Citations | 12,131 |
+| Publications | 297 |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
-   141 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 2. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   73 citations
+   77 citations
 
 3. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   64 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 4. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
 5. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   45 citations · Enhanced Weathering
+   46 citations · Enhanced Weathering
 
 6. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 7. **Dynamics and multi‐annual fate of atmospherically deposited nitrogen in montane tropical forests** (2021)
    36 citations

@@ -1,7 +1,7 @@
 ---
 title: "Arslan Yousaf"
 description: "Arslan Yousaf is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.917328
+date: 2026-09-11T02:38:29.814569
 url: "/cdr-researcher-census/researchers/arslan-yousaf-a5023676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 219 |
+| Citations | 251 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Comprehensive Review of Carbon Capture, Storage, and Reduction Strategies Within the Built Environment** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Multi-scale characterization of acacia gum as an alternative plant-based biopolymer binder for CO2 sequestering earthen soil composites** (2026)
    0 citations

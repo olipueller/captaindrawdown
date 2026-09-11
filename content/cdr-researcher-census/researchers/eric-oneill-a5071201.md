@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
-description: "Eric O’Neill is a Senior BECCS researcher at Princeton University in US. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.224853
+description: "Eric O’Neill is a Senior BECCS researcher at Mansfield University in US. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.175001
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eric-oneill-a5071201/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Princeton University"
+    "name": "Mansfield University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6895-413X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Eric O’Neill**  
-Princeton University · 🇺🇸 US
+Mansfield University · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,433 |
+| h-index | 20 |
+| Citations | 1,458 |
 | Publications | 52 |
 | CDR Focus | 9.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty** (2022)
-   38 citations · BECCS
+   40 citations · BECCS
 
 2. **Available land for cellulosic biofuel production: a supply chain centered comparison** (2024)
    3 citations · BECCS

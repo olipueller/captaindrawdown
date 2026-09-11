@@ -1,7 +1,7 @@
 ---
 title: "Xinhui Han"
-description: "Xinhui Han is an Eminent Soil Carbon researcher at Agriculture and Forestry University in NP. With 174 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.076220
+description: "Xinhui Han is an Eminent Soil Carbon researcher at Agriculture and Forestry University in NP. With 172 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.028272
 url: "/cdr-researcher-census/researchers/xinhui-han-a5042282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 55 |
-| Citations | 9,034 |
-| Publications | 174 |
-| CDR Focus | 7.5% |
+| h-index | 56 |
+| Citations | 9,252 |
+| Publications | 172 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   106 citations · Biochar
+   107 citations · Biochar
 
 2. **The biogeography of soil microbiome potential growth rates** (2024)
-   64 citations
+   71 citations
 
 3. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 5. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 7. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 8. **Changes in Soil Aggregate Carbon Components and Responses to Plant Input during Vegetation Restoration in the Loess Plateau, China** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 9. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-10. **Regulation of photosynthetic carbon fate by plant diversity and nutrients in abandoned farmland on the Loess Plateau** (2024)
-   2 citations · Soil Carbon
+10. **Changes of Soil Aggregate Carbon Components and Responses to Plant Input During Vegetation Restoration in the Loess Plateau,China** (2024)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Greggio"
-description: "Nicolas Greggio is a Senior Biochar researcher at Università degli Studi di Bologna in IT. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249590
+description: "Nicolas Greggio is a Senior Biochar researcher at Università degli Studi di Bologna in IT. With 76 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.196163
 url: "/cdr-researcher-census/researchers/nicolas-greggio-a5073096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,261 |
-| Publications | 75 |
-| CDR Focus | 10.7% |
+| h-index | 21 |
+| Citations | 1,305 |
+| Publications | 76 |
+| CDR Focus | 10.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -62,11 +62,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **LTEP-Biochar** (2022)
    8 citations · Biochar
 
-5. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
-   1 citations · Biochar
+5. **Combining soil microbial communities and greenhouse gas fluxes along a salinity gradient in temperate Mediterranean coastal wetlands** (2026)
+   1 citations · Soil Carbon
 
-6. **Combining soil microbial communities and greenhouse gas fluxes along a salinity gradient in temperate Mediterranean coastal wetlands** (2026)
-   0 citations · Soil Carbon
+6. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
+   1 citations · Biochar
 
 7. **LTEP-Biochar** (2022)
    0 citations · Biochar

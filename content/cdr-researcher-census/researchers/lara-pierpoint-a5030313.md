@@ -1,7 +1,7 @@
 ---
 title: "Lara Pierpoint"
 description: "Lara Pierpoint is a Mid-career General CDR researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.838600
+date: 2026-09-11T02:38:29.792300
 url: "/cdr-researcher-census/researchers/lara-pierpoint-a5030313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 252 |
+| Citations | 262 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Tzu‐Hao Wang"
 description: "Tzu‐Hao Wang is a Mid-career Ocean CDR researcher at National Cheng Kung University in TW. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316336
+date: 2026-09-11T02:38:30.288061
 url: "/cdr-researcher-census/researchers/tzuhao-wang-a5101893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 119 |
+| Citations | 120 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Isotopic evidence for nickel limitation of biological productivity in the ocean** (2023)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 ## External Profiles
 

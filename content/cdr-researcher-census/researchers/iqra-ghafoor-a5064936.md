@@ -1,7 +1,7 @@
 ---
 title: "Iqra Ghafoor"
-description: "Iqra Ghafoor is a Mid-career Soil Carbon researcher at Muhammad Nawaz Shareef University of Agriculture in PK. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745466
+description: "Iqra Ghafoor is a Mid-career Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.682946
 url: "/cdr-researcher-census/researchers/iqra-ghafoor-a5064936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/iqra-ghafoor-a5064936/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Muhammad Nawaz Shareef University of Agriculture"
+    "name": "University of Agriculture Faisalabad"
   },
   "sameAs": "https://openalex.org/A5064936217"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Iqra Ghafoor**  
-Muhammad Nawaz Shareef University of Agriculture · 🇵🇰 PK
+University of Agriculture Faisalabad · 🇵🇰 PK
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 301 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 318 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

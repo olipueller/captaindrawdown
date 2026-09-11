@@ -1,7 +1,7 @@
 ---
 title: "Tommy L. D. Fenster"
-description: "Tommy L. D. Fenster is an Early-career Soil Carbon researcher at ASIS Foundation in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.306555
+description: "Tommy L. D. Fenster is an Early-career Soil Carbon researcher at University of California System in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.199770
 url: "/cdr-researcher-census/researchers/tommy-l-d-fenster-a5075540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tommy-l-d-fenster-a5075540/",
   "affiliation": {
     "@type": "Organization",
-    "name": "ASIS Foundation"
+    "name": "University of California System"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4337-1605",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tommy L. D. Fenster**  
-ASIS Foundation · 🇺🇸 US
+University of California System · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 121 |
-| Publications | 7 |
-| CDR Focus | 28.6% |
+| Citations | 137 |
+| Publications | 9 |
+| CDR Focus | 22.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

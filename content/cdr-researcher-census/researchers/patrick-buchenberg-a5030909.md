@@ -1,7 +1,7 @@
 ---
 title: "Patrick Buchenberg"
 description: "Patrick Buchenberg is an Early-career DAC researcher at Technical University of Munich in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.998463
+date: 2026-09-11T02:38:29.960205
 url: "/cdr-researcher-census/researchers/patrick-buchenberg-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 197 |
+| Citations | 201 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |

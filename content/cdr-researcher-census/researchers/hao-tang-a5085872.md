@@ -1,7 +1,7 @@
 ---
 title: "Hao Tang"
-description: "Hao Tang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.073282
+description: "Hao Tang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.010174
 url: "/cdr-researcher-census/researchers/hao-tang-a5085872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 175 |
-| Publications | 29 |
-| CDR Focus | 17.2% |
+| Citations | 187 |
+| Publications | 31 |
+| CDR Focus | 16.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,12 +57,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Soil Conservation Measures Enhanced Soil Organic Carbon Storage Across China** (2025)
+   5 citations · Soil Carbon
+
+4. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
    3 citations · Soil Carbon
 
-4. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
-   2 citations · Soil Carbon
-
-5. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
+5. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
    2 citations · Soil Carbon
 
 6. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)

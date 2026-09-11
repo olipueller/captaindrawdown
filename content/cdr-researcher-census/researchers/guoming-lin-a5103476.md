@@ -1,7 +1,7 @@
 ---
 title: "Guoming Lin"
-description: "Guoming Lin is a Senior Biochar researcher at National University of Singapore in SG. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.374456
+description: "Guoming Lin is a Senior Biochar researcher at National University of Singapore in SG. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.323368
 url: "/cdr-researcher-census/researchers/guoming-lin-a5103476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 113 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Abdoulaye Fofana Fall"
-description: "Abdoulaye Fofana Fall is a Senior Soil Carbon researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.639356
+description: "Abdoulaye Fofana Fall is a Senior Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.586467
 url: "/cdr-researcher-census/researchers/abdoulaye-fofana-fall-a5080052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Abdoulaye Fofana Fall",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abdoulaye-fofana-fall-a5080052/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institut S\u00e9n\u00e9galais de Recherches Agricoles"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-1211-1336",
     "https://openalex.org/A5080052694"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Abdoulaye Fofana Fall**
+**Abdoulaye Fofana Fall**  
+Institut Sénégalais de Recherches Agricoles ·  SN
 
 **Career Stage:** Senior
 
@@ -37,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 375 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 6 |
+| Citations | 388 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   261 citations · Soil Carbon
+   264 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Laura C. Ganley"
-description: "Laura C. Ganley is a Mid-career Ocean CDR researcher at New England Aquarium in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.927076
+description: "Laura C. Ganley is a Mid-career Ocean CDR researcher at New England Aquarium in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.879418
 url: "/cdr-researcher-census/researchers/laura-c-ganley-a5024697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 216 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 8 |
+| Citations | 225 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

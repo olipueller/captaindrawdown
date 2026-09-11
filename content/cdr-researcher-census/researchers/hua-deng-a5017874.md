@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
 description: "Hua Deng is a Senior Biochar researcher at Guangxi Normal University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.290324
+date: 2026-09-11T02:38:29.236694
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,040 |
+| Citations | 1,073 |
 | Publications | 41 |
 | CDR Focus | 26.8% |
 | Trajectory | Stable |
@@ -51,15 +51,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of magnesium-modified biochar on soil organic carbon mineralization in citrus orchard** (2023)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Effects of Orange Peel Biochar and Cipangopaludina chinensis Shell Powder on Soil Organic Carbon Transformation in Citrus Orchards** (2023)
    19 citations · Biochar
 
-3. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
-   12 citations · Biochar
+3. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
+   13 citations · Biochar
 
-4. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
+4. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
    12 citations · Biochar
 
 5. **Phosphorus-modified biochar regulates CO2 emissions and bacterial communities in an incubation study of manganese-contaminated soils** (2025)

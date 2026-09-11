@@ -1,7 +1,7 @@
 ---
 title: "Tim Hierlemann"
 description: "Tim Hierlemann is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.288244
+date: 2026-09-11T02:38:30.252180
 url: "/cdr-researcher-census/researchers/tim-hierlemann-a5081058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 124 |
+| Citations | 127 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Growing |

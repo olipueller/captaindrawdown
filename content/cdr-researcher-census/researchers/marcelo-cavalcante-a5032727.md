@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Cavalcante"
 description: "Marcelo Cavalcante is a Senior Soil Carbon researcher at Instituto Federal de Educação, Ciência e Tecnologia de Alagoas in BR. With 52 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.389206
+date: 2026-09-11T02:38:30.352576
 url: "/cdr-researcher-census/researchers/marcelo-cavalcante-a5032727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 106 |
+| Citations | 108 |
 | Publications | 52 |
 | CDR Focus | 5.8% |
 | Trajectory | Growing |

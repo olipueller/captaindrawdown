@@ -1,7 +1,7 @@
 ---
 title: "Biao Zhu"
-description: "Biao Zhu is an Eminent Soil Carbon researcher at Peking University in CN. With 380 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.065751
+description: "Biao Zhu is an Eminent Soil Carbon researcher at Peking University in CN. With 385 publications and an h-index of 77, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.018234
 url: "/cdr-researcher-census/researchers/biao-zhu-a5020840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 75 |
-| Citations | 19,510 |
-| Publications | 380 |
-| CDR Focus | 5.3% |
+| h-index | 77 |
+| Citations | 20,269 |
+| Publications | 385 |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Changes in plant inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
-   392 citations · Soil Carbon
+   404 citations · Soil Carbon
 
 2. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   214 citations · Soil Carbon
+   219 citations · Soil Carbon
 
 3. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   161 citations · Soil Carbon
+   167 citations · Soil Carbon
 
 4. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   122 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 5. **Human interventions have enhanced the net ecosystem productivity of farmland in China** (2024)
-   52 citations · General CDR
+   58 citations · General CDR
 
 6. **Degrading poly(lactic acid) microplastic induces priming in agricultural soils** (2025)
-   23 citations
+   26 citations
 
 7. **The patterns of forest soil particulate and mineral associated organic carbon characteristics with latitude and soil depth across eastern China** (2024)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
-8. **Contrasting effects of warming and N deposition on soil microbial functional genes in a subtropical forest** (2021)
+8. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
+   17 citations · Soil Carbon
+
+9. **Contrasting effects of warming and N deposition on soil microbial functional genes in a subtropical forest** (2021)
    17 citations
 
-9. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
-   14 citations · Soil Carbon
-
 10. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

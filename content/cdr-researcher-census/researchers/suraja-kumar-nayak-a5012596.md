@@ -1,7 +1,7 @@
 ---
 title: "Suraja Kumar Nayak"
-description: "Suraja Kumar Nayak is a Mid-career Soil Carbon researcher at Indian Institute of Science Bangalore in IN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.549751
+description: "Suraja Kumar Nayak is a Mid-career Soil Carbon researcher at Kalinga Institute of Social Sciences in IN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.520784
 url: "/cdr-researcher-census/researchers/suraja-kumar-nayak-a5012596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/suraja-kumar-nayak-a5012596/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Science Bangalore"
+    "name": "Kalinga Institute of Social Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7008-2780",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Suraja Kumar Nayak**  
-Indian Institute of Science Bangalore · 🇮🇳 IN
+Kalinga Institute of Social Sciences · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 457 |
+| Citations | 448 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

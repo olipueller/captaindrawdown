@@ -1,7 +1,7 @@
 ---
 title: "Jianyang Gao"
-description: "Jianyang Gao is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.467536
+description: "Jianyang Gao is a Mid-career Soil Carbon researcher at Aluminum Corporation of China (China) in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.383195
 url: "/cdr-researcher-census/researchers/jianyang-gao-a5036318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianyang-gao-a5036318/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University of Science and Technology"
+    "name": "Aluminum Corporation of China (China)"
   },
   "sameAs": [
     "https://orcid.org/0009-0008-4684-3624",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianyang Gao**  
-Qingdao University of Science and Technology · 🇨🇳 CN
+Aluminum Corporation of China (China) · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 565 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| h-index | 12 |
+| Citations | 637 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Dynamics of dissolved organic carbon turnover and microbial communities reconstruction associated with giant reed during the soil-like formation in bauxite residue** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Dynamics of Dissolved Organic Carbon Turnover and Assembly of Core Microbial Communities Mediated by Giant Reed During the Soil-Formation in Bauxite Residue** (2025)
    0 citations · Soil Carbon

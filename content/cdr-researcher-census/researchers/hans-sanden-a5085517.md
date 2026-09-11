@@ -1,7 +1,7 @@
 ---
 title: "Hans Sandén"
-description: "Hans Sandén is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 82 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.200816
+description: "Hans Sandén is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 83 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.146173
 url: "/cdr-researcher-census/researchers/hans-sanden-a5085517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,672 |
-| Publications | 82 |
-| CDR Focus | 9.8% |
+| Citations | 1,751 |
+| Publications | 83 |
+| CDR Focus | 8.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Effects of tree species richness on topsoil carbon and fungal diversity in European planted mixed forests are modulated by environmental conditions** (2025)
    2 citations · Soil Carbon

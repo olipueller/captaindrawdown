@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhao"
-description: "Yuhao Zhao is a Mid-career Enhanced Weathering researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.062505
+description: "Yuhao Zhao is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.011026
 url: "/cdr-researcher-census/researchers/yuhao-zhao-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 
 **Yuhao Zhao**
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -38,7 +38,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 178 |
+| Citations | 186 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

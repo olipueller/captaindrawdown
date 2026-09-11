@@ -1,7 +1,7 @@
 ---
 title: "Cristina Antonini"
 description: "Cristina Antonini is a Mid-career BECCS researcher at ETH Zurich in CH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.295628
+date: 2026-09-11T02:38:29.244088
 url: "/cdr-researcher-census/researchers/cristina-antonini-a5017639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,012 |
+| Citations | 1,043 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

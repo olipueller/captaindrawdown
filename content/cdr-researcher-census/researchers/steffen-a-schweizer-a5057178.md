@@ -1,7 +1,7 @@
 ---
 title: "Steffen A. Schweizer"
-description: "Steffen A. Schweizer is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.145565
+description: "Steffen A. Schweizer is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 130 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.090792
 url: "/cdr-researcher-census/researchers/steffen-a-schweizer-a5057178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 2,596 |
-| Publications | 125 |
-| CDR Focus | 8.8% |
+| Citations | 2,799 |
+| Publications | 130 |
+| CDR Focus | 8.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   121 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 2. **Perspectives from the Fritz‐Scheffer Awardee 2021: Soil organic matter storage and functions determined by patchy and piled‐up arrangements at the microscale** (2022)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
-3. **Moderate pasture intensification enhances soil organic carbon stocks in a degraded Brazilian Ferralsol** (2025)
+3. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
    5 citations · Soil Carbon
 
-4. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   4 citations · Soil Carbon
+4. **Moderate pasture intensification enhances soil organic carbon stocks in a degraded Brazilian Ferralsol** (2025)
+   5 citations · Soil Carbon
 
 5. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

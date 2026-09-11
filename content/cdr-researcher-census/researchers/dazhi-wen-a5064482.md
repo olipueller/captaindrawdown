@@ -1,7 +1,7 @@
 ---
 title: "Dazhi Wen"
-description: "Dazhi Wen is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 101 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.111390
+description: "Dazhi Wen is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 101 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.060470
 url: "/cdr-researcher-census/researchers/dazhi-wen-a5064482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 31 |
-| Citations | 4,021 |
+| h-index | 32 |
+| Citations | 4,122 |
 | Publications | 101 |
 | CDR Focus | 6.9% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 3. **Mechanisms of soil organic carbon stabilization and its response to conversion of primary natural broadleaf forests to secondary forests and plantation forests** (2024)
    24 citations · Soil Carbon
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Soil Carbon
 
 5. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 6. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

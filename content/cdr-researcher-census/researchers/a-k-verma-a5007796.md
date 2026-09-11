@@ -1,7 +1,7 @@
 ---
 title: "A. K. Verma"
 description: "A. K. Verma is a Mid-career Soil Carbon researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.395318
+date: 2026-09-11T02:38:30.353101
 url: "/cdr-researcher-census/researchers/a-k-verma-a5007796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
+| Citations | 108 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Amirreza Silani"
-description: "Amirreza Silani is a Mid-career DAC researcher at Netherlands Organisation for Applied Scientific Research in NL. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.373437
+description: "Amirreza Silani is a Mid-career DAC researcher at Netherlands Organisation for Applied Scientific Research in NL. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.341615
 url: "/cdr-researcher-census/researchers/amirreza-silani-a5090482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 108 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 109 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

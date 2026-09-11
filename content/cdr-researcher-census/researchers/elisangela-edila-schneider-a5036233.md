@@ -1,7 +1,7 @@
 ---
 title: "Elisângela Edila Schneider"
 description: "Elisângela Edila Schneider is a Senior Biochar researcher at Federal University of Santa Catarina in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.065280
+date: 2026-09-11T02:38:30.040107
 url: "/cdr-researcher-census/researchers/elisangela-edila-schneider-a5036233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Brewery-waste biochar for antibiotic removal: Modeling, BAC column enhancement, and microbial analysis** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

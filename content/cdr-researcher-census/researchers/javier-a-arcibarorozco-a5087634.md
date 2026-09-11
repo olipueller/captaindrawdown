@@ -1,7 +1,7 @@
 ---
 title: "Javier A. Arcibar‐Orozco"
-description: "Javier A. Arcibar‐Orozco is a Senior Biochar researcher at CIMAV in MX. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.286370
+description: "Javier A. Arcibar‐Orozco is a Senior Biochar researcher at CIMAV in MX. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.235066
 url: "/cdr-researcher-census/researchers/javier-a-arcibarorozco-a5087634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,058 |
-| Publications | 44 |
-| CDR Focus | 9.1% |
+| Citations | 1,078 |
+| Publications | 46 |
+| CDR Focus | 8.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of anthracene from water by biochar derived amphiphilic carbon dots decorated with chitosan** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Adsorptive Removal of Anthracene from Water by Biochar Derived Amphiphilic Carbon Dots Decorated with Chitosan** (2023)
    1 citations · Biochar

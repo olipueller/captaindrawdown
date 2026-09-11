@@ -1,7 +1,7 @@
 ---
 title: "Sylwia Adamczyk"
-description: "Sylwia Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 73 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.231969
+description: "Sylwia Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 74 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.179872
 url: "/cdr-researcher-census/researchers/sylwia-adamczyk-a5085656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,381 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| Citations | 1,424 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial community attributes supersede plant and soil parameters in predicting fungal necromass decomposition rates in a 12-tree species common garden experiment** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Trophic interactions and microbial-derived carbon in porosphere of arable fields** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Impact of intraspecies variability in Lotus pedunculatus on soil carbon pools under grazing systems** (2025)
    0 citations · Soil Carbon

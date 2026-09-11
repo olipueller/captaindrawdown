@@ -1,7 +1,7 @@
 ---
 title: "Tongshuo Bai"
-description: "Tongshuo Bai is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.232624
+description: "Tongshuo Bai is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.176598
 url: "/cdr-researcher-census/researchers/tongshuo-bai-a5016741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,378 |
-| Publications | 41 |
-| CDR Focus | 12.2% |
+| h-index | 17 |
+| Citations | 1,447 |
+| Publications | 45 |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Form of nitrogen input dominates N effects on root growth and soil aggregation: A meta-analysis** (2021)
-   77 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 2. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   66 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 3. **Climate change drivers alter root controls over litter decomposition in a semi-arid grassland** (2021)
-   47 citations
+   49 citations
 
 4. **Soil pH and precipitation controls on organic carbon retention from organic amendments across soil orders: A meta-analysis** (2025)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 5. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Supplementary original data** (2023)
    0 citations · Soil Carbon

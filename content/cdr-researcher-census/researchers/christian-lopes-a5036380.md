@@ -1,7 +1,7 @@
 ---
 title: "Christian Lopes"
 description: "Christian Lopes is a Mid-career Ocean CDR researcher at University of Toronto in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.513572
+date: 2026-09-11T02:38:29.457019
 url: "/cdr-researcher-census/researchers/christian-lopes-a5036380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 496 |
+| Citations | 519 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

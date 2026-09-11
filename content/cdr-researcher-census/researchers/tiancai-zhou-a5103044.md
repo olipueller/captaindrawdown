@@ -1,7 +1,7 @@
 ---
 title: "Tiancai Zhou"
-description: "Tiancai Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.419879
+description: "Tiancai Zhou is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.365402
 url: "/cdr-researcher-census/researchers/tiancai-zhou-a5103044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tiancai-zhou-a5103044/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Ministry of Education of the People's Republic of China"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3010-1681",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tiancai Zhou**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 645 |
+| Citations | 673 |
 | Publications | 20 |
 | CDR Focus | 15.0% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · General CDR
 
 2. **Short-term grazing exclusion is more conducive to the rate of soil organic carbon stock in alpine grassland of the Tibetan Plateau** (2025)
-   3 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Complex climatic, CO2, and grazing controls on the net primary productivity and carbon stocks in grasslands of the Tibetan Plateau** (2025)
    1 citations · Soil Carbon

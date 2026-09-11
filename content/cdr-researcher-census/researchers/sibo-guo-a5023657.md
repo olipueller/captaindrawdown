@@ -1,7 +1,7 @@
 ---
 title: "Sibo Guo"
-description: "Sibo Guo is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.838036
+description: "Sibo Guo is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.799048
 url: "/cdr-researcher-census/researchers/sibo-guo-a5023657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 253 |
+| h-index | 8 |
+| Citations | 259 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

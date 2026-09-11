@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
-description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.171238
+description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.119509
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,36 +43,36 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 2,060 |
-| Publications | 54 |
-| CDR Focus | 14.8% |
+| Citations | 2,126 |
+| Publications | 55 |
+| CDR Focus | 14.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   162 citations · Enhanced Weathering
+   164 citations · Enhanced Weathering
 
 2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   68 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   55 citations · Enhanced Weathering
+   59 citations · Enhanced Weathering
 
 4. **The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs** (2021)
-   28 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
-5. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
+5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    16 citations · Enhanced Weathering
 
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   15 citations · Enhanced Weathering
+6. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
+   16 citations · Enhanced Weathering
 
 7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    4 citations
 
 8. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 9. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering

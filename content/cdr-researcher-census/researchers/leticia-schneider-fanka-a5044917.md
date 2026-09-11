@@ -1,7 +1,7 @@
 ---
 title: "Letícia Schneider Fanka"
 description: "Letícia Schneider Fanka is a Mid-career General CDR researcher at Universidade Federal do Paraná in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.811937
+date: 2026-09-11T02:38:29.769711
 url: "/cdr-researcher-census/researchers/leticia-schneider-fanka-a5044917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 266 |
+| Citations | 273 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Microalgae-mediated biofixation as an innovative technology for flue gases towards carbon neutrality: A comprehensive review** (2024)
-   38 citations · General CDR
+   39 citations · General CDR
 
 ## External Profiles
 

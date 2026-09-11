@@ -1,7 +1,7 @@
 ---
 title: "D. Sarzhanov"
 description: "D. Sarzhanov is a Mid-career Soil Carbon researcher at Peoples' Friendship University of Russia in RU. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.154002
+date: 2026-09-11T02:38:30.122873
 url: "/cdr-researcher-census/researchers/d-sarzhanov-a5112997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 153 |
+| Citations | 155 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Meso- and Microclimatic Conditions on the CO2 Emission from Soils of the Urban Green Infrastructure of the Moscow Metropolis** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Spatial and Temporal Dynamics of Carbon Dioxide Emission from Al-Fe-Humus Sandy Soils in the Forest-Steppe Zone** (2022)
    5 citations · Soil Carbon

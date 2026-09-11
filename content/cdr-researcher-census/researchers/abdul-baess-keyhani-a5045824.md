@@ -1,7 +1,7 @@
 ---
 title: "Abdul Baess Keyhani"
-description: "Abdul Baess Keyhani is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.377666
+description: "Abdul Baess Keyhani is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.306677
 url: "/cdr-researcher-census/researchers/abdul-baess-keyhani-a5045824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 108 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 117 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatial matching of ecosystem service supply and stakeholder preferences insights for regional management in the Shennongjia forest region, China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Collins Ashianga Orlando"
-description: "Collins Ashianga Orlando is a Mid-career Soil Carbon researcher at Université du Québec à Rimouski in CA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328304
+description: "Collins Ashianga Orlando is a Mid-career Soil Carbon researcher at Université du Québec à Rimouski in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.248546
 url: "/cdr-researcher-census/researchers/collins-ashianga-orlando-a5035524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 128 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of Plant Communities and Ecological Parameters on Soil Organic Carbon Stocks in the Mamora Forest, Morocco** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

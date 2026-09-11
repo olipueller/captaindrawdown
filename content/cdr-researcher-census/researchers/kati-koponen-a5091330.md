@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
-description: "Kati Koponen is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.396264
+description: "Kati Koponen is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.348411
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 696 |
+| h-index | 14 |
+| Citations | 711 |
 | Publications | 52 |
 | CDR Focus | 13.5% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050** (2024)
    6 citations · BECCS
 
-3. **Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets** (2024)
-   3 citations · General CDR
+3. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
+   3 citations · BECCS
 
 4. **Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
-5. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
-   1 citations · BECCS
+5. **Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets** (2024)
+   3 citations · General CDR
 
 6. **District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors** (2025)
    1 citations · DAC

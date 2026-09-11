@@ -1,7 +1,7 @@
 ---
 title: "Fabian Muralter"
 description: "Fabian Muralter is a Mid-career BECCS researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.115489
+date: 2026-09-11T02:38:30.077315
 url: "/cdr-researcher-census/researchers/fabian-muralter-a5032691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 163 |
+| Citations | 167 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

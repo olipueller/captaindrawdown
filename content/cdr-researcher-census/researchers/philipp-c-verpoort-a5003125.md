@@ -1,7 +1,7 @@
 ---
 title: "Philipp C. Verpoort"
-description: "Philipp C. Verpoort is a Mid-career General CDR researcher at Pioneer (United States) in US. With 44 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.504945
+description: "Philipp C. Verpoort is a Mid-career General CDR researcher at Leibniz Association in DE. With 49 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.437429
 url: "/cdr-researcher-census/researchers/philipp-c-verpoort-a5003125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/philipp-c-verpoort-a5003125/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Pioneer (United States)"
+    "name": "Leibniz Association"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1319-5006",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Philipp C. Verpoort**  
-Pioneer (United States) · 🇺🇸 US
+Leibniz Association · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 507 |
-| Publications | 44 |
-| CDR Focus | 6.8% |
+| Citations | 550 |
+| Publications | 49 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring techno-economic landscapes of abatement options for hard-to-electrify sectors** (2025)
-   21 citations · General CDR
+   25 citations · General CDR
 
 2. **Exploring techno-economic landscapes of abatement options for hard-to-electrify sectors** (2024)
    3 citations

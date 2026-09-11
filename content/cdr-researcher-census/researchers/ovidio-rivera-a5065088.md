@@ -1,7 +1,7 @@
 ---
 title: "Ovidio Rivera"
-description: "Ovidio Rivera is a Mid-career Soil Carbon researcher at International Center for Tropical Agriculture in KE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.709242
+description: "Ovidio Rivera is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.659244
 url: "/cdr-researcher-census/researchers/ovidio-rivera-a5065088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ovidio Rivera",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ovidio-rivera-a5065088/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "International Center for Tropical Agriculture"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-4297-8229",
     "https://openalex.org/A5065088110"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Ovidio Rivera**  
-International Center for Tropical Agriculture ·  KE
+**Ovidio Rivera**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 324 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 335 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2024)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2023)
    0 citations

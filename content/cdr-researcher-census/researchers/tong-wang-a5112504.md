@@ -1,7 +1,7 @@
 ---
 title: "Tong Wang"
-description: "Tong Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.026409
+description: "Tong Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.901133
 url: "/cdr-researcher-census/researchers/tong-wang-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 189 |
+| h-index | 9 |
+| Citations | 217 |
 | Publications | 29 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
    3 citations

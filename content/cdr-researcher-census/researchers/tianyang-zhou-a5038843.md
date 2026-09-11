@@ -1,7 +1,7 @@
 ---
 title: "Tianyang Zhou"
-description: "Tianyang Zhou is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.688316
+description: "Tianyang Zhou is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.617505
 url: "/cdr-researcher-census/researchers/tianyang-zhou-a5038843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tianyang Zhou",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tianyang-zhou-a5038843/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Sichuan Agricultural University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-8655-3030",
     "https://openalex.org/A5038843426"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Tianyang Zhou**
+**Tianyang Zhou**  
+Sichuan Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -37,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 339 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 8 |
+| Citations | 364 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Controlled irrigation can mitigate the greenhouse effects of rice paddy fields with long-term straw return and stimulate microbial necromass carbon accumulation** (2024)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

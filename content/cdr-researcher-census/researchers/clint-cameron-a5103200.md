@@ -1,7 +1,7 @@
 ---
 title: "Clint Cameron"
 description: "Clint Cameron is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.318987
+date: 2026-09-11T02:38:29.269615
 url: "/cdr-researcher-census/researchers/clint-cameron-a5103200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 915 |
+| Citations | 938 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

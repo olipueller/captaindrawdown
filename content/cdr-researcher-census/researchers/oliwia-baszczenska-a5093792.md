@@ -1,7 +1,7 @@
 ---
 title: "Oliwia Baszczeńska"
 description: "Oliwia Baszczeńska is a Mid-career DAC researcher at Silesian University of Technology in PL. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408217
+date: 2026-09-11T02:38:30.348069
 url: "/cdr-researcher-census/researchers/oliwia-baszczenska-a5093792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 102 |
+| Citations | 108 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Growing |

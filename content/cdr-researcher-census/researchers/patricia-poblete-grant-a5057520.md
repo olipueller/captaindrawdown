@@ -1,7 +1,7 @@
 ---
 title: "Patricia Poblete-Grant"
-description: "Patricia Poblete-Grant is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.476083
+description: "Patricia Poblete-Grant is a Mid-career Soil Carbon researcher at Universidad de Los Lagos in CL. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.426963
 url: "/cdr-researcher-census/researchers/patricia-poblete-grant-a5057520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/patricia-poblete-grant-a5057520/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidad de La Frontera"
+    "name": "Universidad de Los Lagos"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1166-5847",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Patricia Poblete-Grant**  
-Universidad de La Frontera ·  CL
+Universidad de Los Lagos ·  CL
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 552 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| Citations | 569 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

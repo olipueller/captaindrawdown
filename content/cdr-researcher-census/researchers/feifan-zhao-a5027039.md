@@ -1,7 +1,7 @@
 ---
 title: "Feifan Zhao"
-description: "Feifan Zhao is a Mid-career Biochar researcher at Binzhou University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.584003
+description: "Feifan Zhao is a Mid-career Biochar researcher at Shandong University of Aeronautics in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.499720
 url: "/cdr-researcher-census/researchers/feifan-zhao-a5027039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/feifan-zhao-a5027039/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Binzhou University"
+    "name": "Shandong University of Aeronautics"
   },
   "sameAs": "https://openalex.org/A5027039158"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Feifan Zhao**  
-Binzhou University · 🇨🇳 CN
+Shandong University of Aeronautics · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 423 |
+| h-index | 10 |
+| Citations | 468 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interfacial stabilization of alkali metal oxides on carbon spheres for high-performance CO2 chemisorption** (2025)
-   0 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

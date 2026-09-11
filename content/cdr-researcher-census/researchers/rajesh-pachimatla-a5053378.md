@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Pachimatla"
 description: "Rajesh Pachimatla is a Mid-career BECCS researcher at ASA College in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.092277
+date: 2026-09-11T02:38:30.048122
 url: "/cdr-researcher-census/researchers/rajesh-pachimatla-a5053378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 169 |
+| Citations | 175 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable transition towards biomass-based cement industry: A review** (2022)
-   148 citations · BECCS
+   150 citations · BECCS
 
 ## External Profiles
 

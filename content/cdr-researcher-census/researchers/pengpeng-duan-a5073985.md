@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Duan"
-description: "Pengpeng Duan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.189168
+description: "Pengpeng Duan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 89 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.133807
 url: "/cdr-researcher-census/researchers/pengpeng-duan-a5073985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 1,799 |
-| Publications | 85 |
-| CDR Focus | 5.9% |
+| Citations | 1,897 |
+| Publications | 89 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil** (2021)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Potential Roles of Soil Viruses in Karst Forest Soil Carbon and Nitrogen Cycles** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Tree Species Diversity Suppresses Soil Carbon Priming Effects in a Subtropical Forest** (2026)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "Guifen Lyu"
 description: "Guifen Lyu is an Early-career Biochar researcher at New Jersey Institute of Technology in US. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.357330
+date: 2026-09-11T02:38:30.307932
 url: "/cdr-researcher-census/researchers/guifen-lyu-a5066179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 111 |
+| Citations | 116 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient adsorptive removal of short-chain perfluoroalkyl acids using reed straw-derived biochar (RESCA)** (2021)
-   112 citations · Biochar
+   116 citations · Biochar
 
 ## External Profiles
 

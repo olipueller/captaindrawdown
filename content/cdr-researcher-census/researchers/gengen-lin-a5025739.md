@@ -1,7 +1,7 @@
 ---
 title: "Gengen Lin"
 description: "Gengen Lin is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375578
+date: 2026-09-11T02:38:30.315371
 url: "/cdr-researcher-census/researchers/gengen-lin-a5025739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
+| Citations | 115 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

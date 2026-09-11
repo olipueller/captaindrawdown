@@ -1,7 +1,7 @@
 ---
 title: "Albert C. Brangarí"
-description: "Albert C. Brangarí is a Mid-career Soil Carbon researcher at University of Amsterdam in NL. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.475494
+description: "Albert C. Brangarí is a Mid-career Soil Carbon researcher at University of Amsterdam in NL. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.410474
 url: "/cdr-researcher-census/researchers/albert-c-brangari-a5059186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,29 +43,32 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 553 |
-| Publications | 49 |
-| CDR Focus | 6.1% |
+| Citations | 592 |
+| Publications | 50 |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Plant diversity increases microbial resistance to drought and soil carbon accumulation** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil Microbial Communities Adjust Thermal Traits and Carbon Allocation in Response to Climate Manipulations in Subtropical Forest and Cropland** (2026)
    1 citations
 
-3. **Plant diversity and root depth modulate microbial resistance and resilience to drought** (2026)
-   0 citations
-
-4. **The microbial control of biogeochemistry in thawing soil** (2024)
-   0 citations
-
-5. **Mechanisms controlling the emission and stabilization of carbon during soil drying-rewetting** (2022)
+3. **Perennial cropping systems alter microbial resource limitations and promote soil carbon storage** (2026)
    0 citations · Soil Carbon
 
-6. **Unravelling the processes that govern the emission/sequestration of carbon in soils subjected to moisture changes** (2021)
+4. **Plant diversity and root depth modulate microbial resistance and resilience to drought** (2026)
+   0 citations
+
+5. **The microbial control of biogeochemistry in thawing soil** (2024)
+   0 citations
+
+6. **Mechanisms controlling the emission and stabilization of carbon during soil drying-rewetting** (2022)
+   0 citations · Soil Carbon
+
+7. **Unravelling the processes that govern the emission/sequestration of carbon in soils subjected to moisture changes** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

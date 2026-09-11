@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Min"
-description: "Kaikai Min is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.253561
+description: "Kaikai Min is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.143659
 url: "/cdr-researcher-census/researchers/kaikai-min-a5020506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kaikai-min-a5020506/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Zhejiang A & F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3017-5883",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kaikai Min**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Zhejiang A & F University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 131 |
-| Publications | 11 |
-| CDR Focus | 18.2% |
+| h-index | 8 |
+| Citations | 150 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Factors driving microbial biomass and necromass relationships display ecosystem‐dependent responses** (2024)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Ecotypes shape extracellular enzyme stoichiometries via microbial resource allocation** (2024)
-   10 citations
+   12 citations
 
 3. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   9 citations
+   11 citations
 
 4. **Distinct decomposition dynamics of heterogeneous carbon components in cultivated agricultural soils controlled by flexible microbial substrate utilization strategy** (2025)
    0 citations · Soil Carbon

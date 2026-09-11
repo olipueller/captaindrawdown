@@ -1,7 +1,7 @@
 ---
 title: "Jiejie Lyu"
 description: "Jiejie Lyu is a Mid-career Enhanced Weathering researcher at Fuyang Normal University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.061723
+date: 2026-09-11T02:38:30.020230
 url: "/cdr-researcher-census/researchers/jiejie-lyu-a5083428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 179 |
+| Citations | 184 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Biomimetic Mineralization of Ca-Mg Carbonates: Relevance to Microbial Cells and Extracellular Polymeric Substances** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Anthropogenic acids alter carbon sinks in a temperate karst catchment: Insights from multi-isotopic tracers** (2026)
    1 citations · Enhanced Weathering

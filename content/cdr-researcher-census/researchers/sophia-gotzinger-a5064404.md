@@ -1,7 +1,7 @@
 ---
 title: "Sophia Götzinger"
 description: "Sophia Götzinger is a Mid-career Biochar researcher at Austrian Agency for Health and Food Safety in AT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.318893
+date: 2026-09-11T02:38:30.206654
 url: "/cdr-researcher-census/researchers/sophia-gotzinger-a5064404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 119 |
+| Citations | 136 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Xueqi Sun"
-description: "Xueqi Sun is a Mid-career Soil Carbon researcher at Guangzhou Quality Supervision, Inspection and Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272658
+description: "Xueqi Sun is a Mid-career Soil Carbon researcher at Guangzhou Quality Supervision, Inspection and Research Institute in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.200070
 url: "/cdr-researcher-census/researchers/xueqi-sun-a5054183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 127 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 137 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **[Responses of soil microbial carbon use efficiency to short-term nitrogen addition in <i>Castanopsis fabri</i> forest].** (2022)
    2 citations · Soil Carbon

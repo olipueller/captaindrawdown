@@ -1,7 +1,7 @@
 ---
 title: "Arthur Vienne"
-description: "Arthur Vienne is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611216
+description: "Arthur Vienne is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 56 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.544873
 url: "/cdr-researcher-census/researchers/arthur-vienne-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 397 |
-| Publications | 51 |
-| CDR Focus | 56.9% |
+| Citations | 423 |
+| Publications | 56 |
+| CDR Focus | 55.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   140 citations · Enhanced Weathering
+   141 citations · Enhanced Weathering
 
 2. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   123 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 3. **Exploring the synergy of enhanced weathering and <i>Bacillus subtilis</i>: A promising strategy for sustainable agriculture** (2024)
    27 citations · Enhanced Weathering
@@ -71,14 +71,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells** (2023)
    13 citations · Enhanced Weathering
 
-8. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
+8. **Effects of basalt and biochar addition on base cations and trace metals in plants and soil in an urban field trial** (2026)
+   6 citations · Biochar
+
+9. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering
 
-9. **Effects of basalt and biochar addition on base cations and trace metals in plants and soil in an urban field trial** (2026)
-   4 citations · Biochar
-
-10. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
-   3 citations · Enhanced Weathering
+10. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
+   5 citations · Enhanced Weathering
 
 ## External Profiles
 

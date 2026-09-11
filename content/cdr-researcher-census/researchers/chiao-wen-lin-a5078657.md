@@ -1,7 +1,7 @@
 ---
 title: "Chiao-Wen Lin"
-description: "Chiao-Wen Lin is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.712352
+description: "Chiao-Wen Lin is a Mid-career Soil Carbon researcher at National Chung Hsing University in TW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.651198
 url: "/cdr-researcher-census/researchers/chiao-wen-lin-a5078657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chiao-wen-lin-a5078657/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Sun Yat-sen University"
+    "name": "National Chung Hsing University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1874-1339",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chiao-Wen Lin**  
-National Sun Yat-sen University · 🇹🇼 TW
+National Chung Hsing University · 🇹🇼 TW
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 322 |
-| Publications | 28 |
-| CDR Focus | 14.3% |
+| h-index | 12 |
+| Citations | 341 |
+| Publications | 29 |
+| CDR Focus | 13.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Effects of Pneumatophore Density on Methane Emissions in Mangroves** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Tidal influence on carbon dioxide and methane fluxes from tree stems and soils in mangrove forests** (2024)
-   12 citations · General CDR
+   16 citations · General CDR
 
 4. **Exploring Spatial and Temporal Variations in Stem-Mediated Greenhouse Gas Emissions from Different Species of Mangroves** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 5. **Comment on egusphere-2024-533** (2024)
    0 citations

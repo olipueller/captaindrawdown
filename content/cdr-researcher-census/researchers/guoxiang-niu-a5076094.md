@@ -1,7 +1,7 @@
 ---
 title: "Guoxiang Niu"
-description: "Guoxiang Niu is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.738514
+description: "Guoxiang Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.671012
 url: "/cdr-researcher-census/researchers/guoxiang-niu-a5076094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guoxiang-niu-a5076094/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Botanical Garden"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5149-9241",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Guoxiang Niu**  
-Beijing Botanical Garden · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 305 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Citations | 326 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 3. **Nitrogen addition decouples the microbial necro-mass from soil organic carbon formation in a temperate grassland** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

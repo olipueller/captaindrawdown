@@ -1,7 +1,7 @@
 ---
 title: "Marija Galić"
-description: "Marija Galić is a Senior Soil Carbon researcher. With 53 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.004575
+description: "Marija Galić is a Senior Soil Carbon researcher at University of Zagreb in HR. With 51 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.971881
 url: "/cdr-researcher-census/researchers/marija-galic-a5029613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Marija Gali\u0107",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/marija-galic-a5029613/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Zagreb"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8143-3761",
     "https://openalex.org/A5029613246"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Marija Galić**
+**Marija Galić**  
+University of Zagreb ·  HR
 
 **Career Stage:** Senior
 
@@ -37,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 195 |
-| Publications | 53 |
-| CDR Focus | 11.3% |
+| h-index | 7 |
+| Citations | 198 |
+| Publications | 51 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Balance of Miscanthus Biomass from Rhizomes and Seedlings** (2022)
-   10 citations · BECCS
+   11 citations · BECCS
 
 2. **Comparing the Grain Yields and Other Properties of Old and New Wheat Cultivars** (2023)
    3 citations · General CDR

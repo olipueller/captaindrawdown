@@ -1,7 +1,7 @@
 ---
 title: "Rafael A. Martinez‐Feria"
 description: "Rafael A. Martinez‐Feria is a Mid-career BECCS researcher at Pivot Bio (United States) in US. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.207195
+date: 2026-09-11T02:38:29.156318
 url: "/cdr-researcher-census/researchers/rafael-a-martinezferia-a5012900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,594 |
+| Citations | 1,641 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty** (2022)
-   38 citations · BECCS
+   40 citations · BECCS
 
 2. **Global warming intensity of biofuel derived from switchgrass grown on marginal land in Michigan** (2023)
    21 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Maryam Yousaf"
 description: "Maryam Yousaf is a Mid-career Biochar researcher at University of Kentucky in US. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.306607
+date: 2026-09-11T02:38:29.252208
 url: "/cdr-researcher-census/researchers/maryam-yousaf-a5086387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 965 |
+| Citations | 1,000 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of rapid CO2 utilizing microbial ecosystem onto the novel &amp; porous FPUF@nZVI@TAC@ASP hybrid for green coal desulphurization** (2021)
-   47 citations
+   48 citations
 
 2. **Recent developments in carbon nitride for enhanced photocatalytic carbon dioxide reduction: A review** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 3. **Engineered biochar from lignocellulosic biomass: Structure-property guided design for targeted contaminant removal in wastewater** (2025)
    1 citations · Biochar

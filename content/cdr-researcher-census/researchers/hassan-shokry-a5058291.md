@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
-description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 97 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.149690
+description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 99 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.098978
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 2,483 |
-| Publications | 97 |
-| CDR Focus | 7.2% |
+| h-index | 26 |
+| Citations | 2,555 |
+| Publications | 99 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels** (2022)
-   115 citations · Biochar
+   118 citations · Biochar
 
 2. **Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels** (2023)
    47 citations · Biochar
 
 3. **Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 4. **Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar** (2024)
    21 citations · Biochar

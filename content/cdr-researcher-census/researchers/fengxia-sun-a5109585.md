@@ -1,7 +1,7 @@
 ---
 title: "Fengxia Sun"
-description: "Fengxia Sun is a Senior Biochar researcher at State Forestry and Grassland Administration in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.507166
+description: "Fengxia Sun is a Senior Biochar researcher. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.532341
 url: "/cdr-researcher-census/researchers/fengxia-sun-a5109585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Fengxia Sun",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fengxia-sun-a5109585/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "State Forestry and Grassland Administration"
-  },
   "sameAs": "https://openalex.org/A5109585939"
 }
 </script>
 
 ## Profile
 
-**Fengxia Sun**  
-State Forestry and Grassland Administration · 🇨🇳 CN
+**Fengxia Sun**
 
 **Career Stage:** Senior
 
@@ -40,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 504 |
+| Citations | 436 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

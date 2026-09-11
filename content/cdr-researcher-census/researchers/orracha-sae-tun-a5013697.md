@@ -1,7 +1,7 @@
 ---
 title: "Orracha Sae-Tun"
 description: "Orracha Sae-Tun is a Mid-career Soil Carbon researcher at Kasetsart University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.708782
+date: 2026-09-11T02:38:29.646046
 url: "/cdr-researcher-census/researchers/orracha-sae-tun-a5013697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 324 |
+| Citations | 344 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   121 citations · Soil Carbon
+   126 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   27 citations
+   29 citations
 
 4. **Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass** (2022)
    1 citations · Soil Carbon

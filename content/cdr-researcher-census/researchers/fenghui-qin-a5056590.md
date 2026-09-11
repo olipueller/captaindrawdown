@@ -1,7 +1,7 @@
 ---
 title: "Fenghui Qin"
 description: "Fenghui Qin is an Early-career Biochar researcher at Lanzhou University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.276499
+date: 2026-09-11T02:38:30.198166
 url: "/cdr-researcher-census/researchers/fenghui-qin-a5056590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
+| Citations | 137 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Milkiyas Ahmed"
-description: "Milkiyas Ahmed is a Mid-career Soil Carbon researcher at Jimma University in ET. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.053509
+description: "Milkiyas Ahmed is a Mid-career Soil Carbon researcher at Jimma University in ET. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996204
 url: "/cdr-researcher-census/researchers/milkiyas-ahmed-a5032307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 181 |
+| h-index | 10 |
+| Citations | 191 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Biochar‐based fertilizers increase crop yields in acidic tropical soils** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

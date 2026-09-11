@@ -1,7 +1,7 @@
 ---
 title: "Hengji Qin"
 description: "Hengji Qin is a Mid-career Biochar researcher at Hohai University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.379703
+date: 2026-09-11T02:38:30.333173
 url: "/cdr-researcher-census/researchers/hengji-qin-a5059309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
+| Citations | 111 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of Pb2+ and Cd2+ in Agricultural Water by Potassium Permanganate and Nitric Acid-Modified Coconut Shell Biochar** (2023)
-   29 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

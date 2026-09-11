@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Zhang"
-description: "Wenjun Zhang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.046692
+description: "Wenjun Zhang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.969717
 url: "/cdr-researcher-census/researchers/wenjun-zhang-a5087497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 183 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| h-index | 8 |
+| Citations | 199 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil organic matter enhances urease-mediated microbially induced carbonate precipitation: Dual benefits for inorganic carbon sequestration and cadmium immobilization** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Sequestration of Soil Organic and Inorganic Carbon by Dual-Enzymatically Induced Carbonate Precipitation** (2025)
    2 citations · Soil Carbon

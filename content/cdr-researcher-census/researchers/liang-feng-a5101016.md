@@ -1,7 +1,7 @@
 ---
 title: "Liang Feng"
-description: "Liang Feng is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.426548
+description: "Liang Feng is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.361819
 url: "/cdr-researcher-census/researchers/liang-feng-a5101016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 634 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 683 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **An improved carbon fixation management strategy into the crop–soil ecosystem by using biomass ash as the medium** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

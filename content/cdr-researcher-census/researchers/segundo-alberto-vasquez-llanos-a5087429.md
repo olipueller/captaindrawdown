@@ -1,7 +1,7 @@
 ---
 title: "Segundo Alberto Vásquez Llanos"
-description: "Segundo Alberto Vásquez Llanos is a Mid-career Biochar researcher at Universidad Nacional Pedro Ruíz Gallo in PE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.380536
+description: "Segundo Alberto Vásquez Llanos is a Mid-career Biochar researcher. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.318888
 url: "/cdr-researcher-census/researchers/segundo-alberto-vasquez-llanos-a5087429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Segundo Alberto V\u00e1squez Llanos",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/segundo-alberto-vasquez-llanos-a5087429/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universidad Nacional Pedro Ru\u00edz Gallo"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-3937-9674",
     "https://openalex.org/A5087429589"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Segundo Alberto Vásquez Llanos**  
-Universidad Nacional Pedro Ruíz Gallo ·  PE
+**Segundo Alberto Vásquez Llanos**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 114 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Manquan Zhao"
-description: "Manquan Zhao is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.191099
+description: "Manquan Zhao is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.100608
 url: "/cdr-researcher-census/researchers/manquan-zhao-a5111196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 144 |
-| Publications | 9 |
-| CDR Focus | 44.4% |
+| Citations | 160 |
+| Publications | 10 |
+| CDR Focus | 40.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
-   25 citations · Biochar
+   27 citations · Biochar
 
 2. **Magnetic mesoporous corncob biochar for tetracycline adsorption: 2D-FTIR-COS analysis and quantitative mechanistic insight** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Unveiling the critical role of functional groups in pristine biochar for photocatalytic Cr(VI) remediation under visible light** (2025)
    5 citations · Biochar

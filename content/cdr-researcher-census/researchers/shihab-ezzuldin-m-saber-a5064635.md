@@ -1,7 +1,7 @@
 ---
 title: "Shihab Ezzuldin M. Saber"
-description: "Shihab Ezzuldin M. Saber is a Mid-career Biochar researcher. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.602949
+description: "Shihab Ezzuldin M. Saber is a Mid-career Biochar researcher at University of Mosul in IQ. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.550723
 url: "/cdr-researcher-census/researchers/shihab-ezzuldin-m-saber-a5064635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Shihab Ezzuldin M. Saber",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shihab-ezzuldin-m-saber-a5064635/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Mosul"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-9345-288X",
     "https://openalex.org/A5064635730"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Shihab Ezzuldin M. Saber**
+**Shihab Ezzuldin M. Saber**  
+University of Mosul ·  IQ
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 404 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 418 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

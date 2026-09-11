@@ -1,7 +1,7 @@
 ---
 title: "Mahdis Sadat"
 description: "Mahdis Sadat is a Mid-career Soil Carbon researcher at University of Tehran in IR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.709342
+date: 2026-09-11T02:38:29.666748
 url: "/cdr-researcher-census/researchers/mahdis-sadat-a5110310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 324 |
+| Citations | 329 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Paloma Campos"
-description: "Paloma Campos is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.510116
+description: "Paloma Campos is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.454093
 url: "/cdr-researcher-census/researchers/paloma-campos-a5014465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,24 +42,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 500 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
+| h-index | 12 |
+| Citations | 525 |
+| Publications | 39 |
+| CDR Focus | 12.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar ageing in polluted soils and trace elements immobilisation in a 2-year field experiment** (2021)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Suitability of Volcanic Ash, Rice Husk Ash, Green Compost and Biochar as Amendments for a Mediterranean Alkaline Soil** (2023)
    15 citations · Biochar
 
 3. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
-4. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
+4. **From Agro-Livestock Residues to Functional Soil Amendments: Responses in Contrasting Iberian Soils** (2026)
+   0 citations · Biochar
+
+5. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "A.B. Danie Roy"
 description: "A.B. Danie Roy is a Mid-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.711937
+date: 2026-09-11T02:38:29.648780
 url: "/cdr-researcher-census/researchers/ab-danie-roy-a5079688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 322 |
+| Citations | 342 |
 | Publications | 49 |
 | CDR Focus | 8.2% |
 | Trajectory | Growing |

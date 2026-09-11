@@ -1,7 +1,7 @@
 ---
 title: "Xingming Zheng"
 description: "Xingming Zheng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.102283
+date: 2026-09-11T02:38:30.045798
 url: "/cdr-researcher-census/researchers/xingming-zheng-a5100333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 167 |
+| Citations | 176 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of soil organic carbon by combining hyperspectral and radar remote sensing to reduce coupling effects of soil surface moisture and roughness** (2024)
-   41 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 ## External Profiles
 

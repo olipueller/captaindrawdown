@@ -1,7 +1,7 @@
 ---
 title: "Nitya Singh"
 description: "Nitya Singh is a Senior Biochar researcher. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.352003
+date: 2026-09-11T02:38:30.308499
 url: "/cdr-researcher-census/researchers/nitya-singh-a5100869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 112 |
+| Citations | 116 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

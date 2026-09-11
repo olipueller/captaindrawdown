@@ -1,7 +1,7 @@
 ---
 title: "Joseph Tamale"
-description: "Joseph Tamale is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.423440
+description: "Joseph Tamale is a Mid-career Soil Carbon researcher at University of Augsburg in DE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.389249
 url: "/cdr-researcher-census/researchers/joseph-tamale-a5065675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Joseph Tamale",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joseph-tamale-a5065675/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Augsburg"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2104-7409",
     "https://openalex.org/A5065675946"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Joseph Tamale**
+**Joseph Tamale**  
+University of Augsburg · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 100 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 102 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

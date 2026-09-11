@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
-description: "Jian Wang is a Senior Biochar researcher at Jiangsu Provincial Water Survey & Design Institute (China) in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.207814
+description: "Jian Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.147437
 url: "/cdr-researcher-census/researchers/jian-wang-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jian-wang-a5100729/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangsu Provincial Water Survey & Design Institute (China)"
+    "name": "Nanjing Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4333-6404",
@@ -28,30 +28,33 @@ robots: "index, follow"
 ## Profile
 
 **Jian Wang**  
-Jiangsu Provincial Water Survey & Design Institute (China) · 🇨🇳 CN
+Nanjing Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 140 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 149 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar remediated algae debris polluted surface sediment: Microbial community inhibited methane fluxes and improved water quality** (2025)
    4 citations · Biochar
+
+2. **Glomalin related soil protein enhances the capacity of PAH natural attenuation in soils through modulation of soil organic matter and microbiota** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

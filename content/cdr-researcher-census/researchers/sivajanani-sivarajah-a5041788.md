@@ -1,7 +1,7 @@
 ---
 title: "Sivajanani Sivarajah"
-description: "Sivajanani Sivarajah is a Mid-career Soil Carbon researcher at Center for Northern Studies in CA. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.252790
+description: "Sivajanani Sivarajah is a Mid-career Soil Carbon researcher at Center for Northern Studies in CA. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.190607
 url: "/cdr-researcher-census/researchers/sivajanani-sivarajah-a5041788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 131 |
-| Publications | 11 |
-| CDR Focus | 18.2% |
+| h-index | 3 |
+| Citations | 139 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 2. **How composition of constructed soils impacts their short-term carbon dynamics in urban green spaces: A scoping review** (2026)
    0 citations · Soil Carbon

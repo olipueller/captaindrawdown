@@ -1,7 +1,7 @@
 ---
 title: "Milan Wang"
-description: "Milan Wang is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.447192
+description: "Milan Wang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.394889
 url: "/cdr-researcher-census/researchers/milan-wang-a5075926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/milan-wang-a5075926/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guangdong Academy of Sciences"
+    "name": "Sun Yat-sen University"
   },
   "sameAs": "https://openalex.org/A5075926082"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Milan Wang**  
-Guangdong Academy of Sciences · 🇨🇳 CN
+Sun Yat-sen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 598 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 618 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Towards a better understanding of the role of Fe cycling in soil for carbon stabilization and degradation** (2022)
-   202 citations · Soil Carbon
+   205 citations · Soil Carbon
 
 ## External Profiles
 

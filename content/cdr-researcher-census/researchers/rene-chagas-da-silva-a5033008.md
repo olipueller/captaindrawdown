@@ -1,7 +1,7 @@
 ---
 title: "Renê Chagas da Silva"
-description: "Renê Chagas da Silva is a Mid-career Biochar researcher at Universidade Federal de Viçosa in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.403913
+description: "Renê Chagas da Silva is a Mid-career Biochar researcher at Universidade Federal de Viçosa in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.342566
 url: "/cdr-researcher-census/researchers/rene-chagas-da-silva-a5033008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 103 |
+| h-index | 7 |
+| Citations | 109 |
 | Publications | 15 |
 | CDR Focus | 13.3% |
 | Trajectory | Growing |

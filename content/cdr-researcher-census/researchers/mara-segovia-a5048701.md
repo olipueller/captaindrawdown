@@ -1,7 +1,7 @@
 ---
 title: "Marı́a Segovia"
 description: "Marı́a Segovia is a Senior Ocean CDR researcher at Universidad de Malaga in ES. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.269104
+date: 2026-09-11T02:38:29.219522
 url: "/cdr-researcher-census/researchers/mara-segovia-a5048701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,150 |
+| Citations | 1,166 |
 | Publications | 58 |
 | CDR Focus | 5.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement (OAE) does not cause cellular stress in a phytoplankton community of the subtropical Atlantic Ocean** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **Ocean alkalinity enhancement using sodium carbonate salts does not lead to measurable changes in Fe dynamics in a mesocosm experiment** (2024)
    6 citations · Ocean CDR

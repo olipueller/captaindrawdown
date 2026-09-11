@@ -1,7 +1,7 @@
 ---
 title: "Poonam Khatri"
-description: "Poonam Khatri is a Senior BECCS researcher at Institute of Chemical Technology in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.666316
+description: "Poonam Khatri is a Senior BECCS researcher at Forest Products Laboratory in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.587478
 url: "/cdr-researcher-census/researchers/poonam-khatri-a5102851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/poonam-khatri-a5102851/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Chemical Technology"
+    "name": "Forest Products Laboratory"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0504-5198",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Poonam Khatri**  
-Institute of Chemical Technology · 🇮🇳 IN
+Forest Products Laboratory · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -42,19 +42,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 354 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| h-index | 9 |
+| Citations | 387 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Integrated environmental and economic assessments of producing energy crops with cover crops for simultaneous use as biofuel feedstocks and animal fodder** (2022)
-   8 citations · BECCS
+   9 citations · BECCS
+
+3. **Recent progress in molecular and omics based approaches to strengthen phytoremediation efficiency** (2026)
+   0 citations
 
 ## External Profiles
 

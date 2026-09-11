@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Panda"
-description: "Dibyajyoti Panda is a Mid-career Soil Carbon researcher at Indian Institute of Technology BHU in IN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.369040
+description: "Dibyajyoti Panda is a Mid-career Soil Carbon researcher at Banaras Hindu University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.318371
 url: "/cdr-researcher-census/researchers/dibyajyoti-panda-a5111224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dibyajyoti-panda-a5111224/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Technology BHU"
+    "name": "Banaras Hindu University"
   },
   "sameAs": "https://openalex.org/A5111224600"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Dibyajyoti Panda**  
-Indian Institute of Technology BHU · 🇮🇳 IN
+Banaras Hindu University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 109 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 114 |
+| Publications | 15 |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Temporal Effects of Conservation Agriculture-Based Rice–Wheat Cropping System on Soil Aggregation and Organic Carbon Dynamics in Northwestern Indo-Gangetic Plains** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Short Term Changes in Soil Chemical Properties under Different Organic Management Protocols** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Jones"
 description: "Andrew R. Jones is a Mid-career Soil Carbon researcher at Charles Sturt University in AU. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.471150
+date: 2026-09-11T02:38:29.414701
 url: "/cdr-researcher-census/researchers/andrew-r-jones-a5066631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 558 |
+| Citations | 586 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Supplementing Enhanced Weathering With Organic Amendments Accelerates the Net Climate Benefit of Soil Amendments in Rangeland Soils** (2025)
-   13 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 2. **Fungal endophytes influence soil organic carbon and nitrogen fractions promoting carbon sequestration and improving grain yield in soybean** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

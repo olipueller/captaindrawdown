@@ -1,7 +1,7 @@
 ---
 title: "Atika Waqar"
 description: "Atika Waqar is a Mid-career Biochar researcher at Government College University, Lahore in PK. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.920672
+date: 2026-09-11T02:38:29.886906
 url: "/cdr-researcher-census/researchers/atika-waqar-a5110510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 219 |
+| Citations | 223 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

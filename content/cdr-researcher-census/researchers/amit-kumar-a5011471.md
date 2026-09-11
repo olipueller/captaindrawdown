@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
-description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177627
+description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 83 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.122571
 url: "/cdr-researcher-census/researchers/amit-kumar-a5011471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,965 |
-| Publications | 82 |
-| CDR Focus | 11.0% |
+| Citations | 2,073 |
+| Publications | 83 |
+| CDR Focus | 10.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
-   218 citations · Soil Carbon
+   230 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   116 citations · Soil Carbon
+   119 citations · Soil Carbon
 
-3. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
-   41 citations · Biochar
+3. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
+   44 citations · Soil Carbon
 
-4. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   39 citations · Soil Carbon
+4. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
+   42 citations · Biochar
 
 5. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
    33 citations · Soil Carbon
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Three source-partitioning of CO2 fluxes based on a dual-isotope approach to investigate interactions between soil organic carbon, glucose and straw** (2021)
    18 citations · Soil Carbon
 
-8. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
-   4 citations · Soil Carbon
+8. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
+   5 citations · Soil Carbon
 
-9. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
-   3 citations · Soil Carbon
+9. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
+   4 citations · Soil Carbon
 
 10. **Climate Change and Forest Fires: Ecosystem Vulnerability and Resilience** (2025)
    0 citations

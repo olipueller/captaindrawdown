@@ -1,7 +1,7 @@
 ---
 title: "Markus Steffens"
-description: "Markus Steffens is a Senior Soil Carbon researcher at Research institute of organic agriculture FiBL in CH. With 140 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.107895
+description: "Markus Steffens is a Senior Soil Carbon researcher at Research institute of organic agriculture FiBL in CH. With 139 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.058047
 url: "/cdr-researcher-census/researchers/markus-steffens-a5045363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 36 |
-| Citations | 4,244 |
-| Publications | 140 |
+| Citations | 4,315 |
+| Publications | 139 |
 | CDR Focus | 5.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   195 citations · General CDR
+   203 citations · General CDR
 
 2. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   130 citations · Soil Carbon
+   133 citations · Soil Carbon
 
 3. **Fertilizer quality and labile soil organic matter fractions are vital for organic carbon sequestration in temperate arable soils within a long-term trial in Switzerland** (2022)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 4. **Quality of bio‐based fertilizers is decisive for improving soil quality in Europe—A meta‐analysis** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Long-term effects of biochar application on soil quality and yields under field conditions in Switzerland** (2024)
    1 citations · Biochar

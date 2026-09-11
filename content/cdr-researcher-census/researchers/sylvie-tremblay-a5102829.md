@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Tremblay"
-description: "Sylvie Tremblay is a Senior Soil Carbon researcher at Ministry of Natural Resources and Wildlife in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.743978
+description: "Sylvie Tremblay is a Senior Soil Carbon researcher at Ministère des Ressources naturelles et des Forêts (Québec) in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.707874
 url: "/cdr-researcher-census/researchers/sylvie-tremblay-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sylvie-tremblay-a5102829/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Natural Resources and Wildlife"
+    "name": "Minist\u00e8re des Ressources naturelles et des For\u00eats (Qu\u00e9bec)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9507-3688",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sylvie Tremblay**  
-Ministry of Natural Resources and Wildlife · 🇨🇦 CA
+Ministère des Ressources naturelles et des Forêts (Québec) · 🇨🇦 CA
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 302 |
+| Citations | 305 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |

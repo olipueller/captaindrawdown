@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Döetterl"
-description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zürich in CH. With 205 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.099604
+description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zürich in CH. With 212 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.049743
 url: "/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 4,761 |
-| Publications | 205 |
-| CDR Focus | 5.9% |
+| Citations | 4,938 |
+| Publications | 212 |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   121 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 2. **Sorption and desorption of organic matter in soils as affected by phosphate** (2021)
-   95 citations · Soil Carbon
+   96 citations · Soil Carbon
 
 3. **A landscape-scale view of soil organic matter dynamics** (2025)
-   57 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 4. **The six rights of how and when to test for soil C saturation** (2024)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 5. **Soil organic matter turnover rates increase to match increased inputs in grazed grasslands** (2021)
-   30 citations
+   31 citations
 
-6. **The six rights of how and when to test for soil C saturation** (2023)
-   7 citations
+6. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
+   12 citations · Enhanced Weathering
 
 7. **The Known Unknowns of Petrogenic Organic Carbon in Soils** (2025)
+   7 citations · Soil Carbon
+
+8. **The six rights of how and when to test for soil C saturation** (2023)
+   7 citations
+
+9. **Factors controlling <scp>SOC</scp> stability in colluvial soils under contrasting climate and soil weathering conditions** (2022)
    6 citations · Soil Carbon
 
-8. **Factors controlling <scp>SOC</scp> stability in colluvial soils under contrasting climate and soil weathering conditions** (2022)
-   6 citations · Soil Carbon
-
-9. **Soil greenhouse gas fluxes following conversion of tropical forests to fertilizer-based sugarcane systems in northwestern Uganda** (2022)
+10. **Soil greenhouse gas fluxes following conversion of tropical forests to fertilizer-based sugarcane systems in northwestern Uganda** (2022)
    4 citations · Soil Carbon
-
-10. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
-   2 citations · Soil Carbon
 
 ## External Profiles
 

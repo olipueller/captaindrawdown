@@ -1,7 +1,7 @@
 ---
 title: "Hong-Xuan Duan"
 description: "Hong-Xuan Duan is an Early-career Soil Carbon researcher at Fonctionnement et Conduite des Systèmes de Culture Tropicaux et Méditerranéens in FR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.389313
+date: 2026-09-11T02:38:30.294256
 url: "/cdr-researcher-census/researchers/hong-xuan-duan-a5113418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 106 |
+| Citations | 119 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Tracing Rhizodeposition Contributions to Soil Organic Carbon under Long-Term Tillage in a Wheat–Maize System Using Stable Isotope Labeling** (2025)
    1 citations · Soil Carbon
+
+3. **Divergent formation pathways of soil particulate and mineral-associated organic carbon across soil depths under conservation tillage** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

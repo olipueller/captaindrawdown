@@ -1,7 +1,7 @@
 ---
 title: "Julie A. Fowler"
-description: "Julie A. Fowler is a Mid-career Soil Carbon researcher at Colorado State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795373
+description: "Julie A. Fowler is a Mid-career Soil Carbon researcher at Colorado State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.740471
 url: "/cdr-researcher-census/researchers/julie-a-fowler-a5033297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 275 |
-| Publications | 14 |
-| CDR Focus | 14.3% |
+| Citations | 288 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Pile burns as a proxy for high severity wildfire impacts on soil microbiomes** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Pile Burns as a Proxy for High Severity Wildfire Impacts on Soil Microbiomes** (2024)
    0 citations · Soil Carbon

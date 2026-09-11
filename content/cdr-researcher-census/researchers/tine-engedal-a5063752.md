@@ -1,7 +1,7 @@
 ---
 title: "Tine Engedal"
-description: "Tine Engedal is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662905
+description: "Tine Engedal is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.598197
 url: "/cdr-researcher-census/researchers/tine-engedal-a5063752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 357 |
-| Publications | 23 |
-| CDR Focus | 21.7% |
+| h-index | 9 |
+| Citations | 379 |
+| Publications | 24 |
+| CDR Focus | 20.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Quantifying cover crop-derived above- and belowground carbon inputs including rhizodeposition** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Modelling the impacts of cover crops on soil C stocks and N dynamics using Daisy: Model evaluation and scenario analysis** (2025)
    7 citations · Soil Carbon

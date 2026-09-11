@@ -1,7 +1,7 @@
 ---
 title: "Greg Avery"
-description: "Greg Avery is a Mid-career Soil Carbon researcher at Museum of the Rockies in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.451049
+description: "Greg Avery is a Mid-career Soil Carbon researcher at Museum of the Rockies in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.393284
 url: "/cdr-researcher-census/researchers/greg-avery-a5013190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 591 |
+| h-index | 7 |
+| Citations | 621 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Potential long-term, global effects of enhancing the domestic terrestrial carbon sink in the United States through no-till and cover cropping** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mengchun Gao"
-description: "Mengchun Gao is an Early-career Biochar researcher at Ocean University of China in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.269284
+description: "Mengchun Gao is a Mid-career Biochar researcher at Ocean University of China in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.179761
 url: "/cdr-researcher-census/researchers/mengchun-gao-a5111230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Mengchun Gao**  
 Ocean University of China · 🇨🇳 CN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 128 |
+| h-index | 5 |
+| Citations | 142 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

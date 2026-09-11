@@ -1,7 +1,7 @@
 ---
 title: "Amita Khatri"
-description: "Amita Khatri is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.827009
+description: "Amita Khatri is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.786463
 url: "/cdr-researcher-census/researchers/amita-khatri-a5012824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 258 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 265 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Valorization of agriculture residues into novel mesoporous surface engineered (ZnO@RHBC) nanocomposites for sustainable sequestration of hexavalent chromium from electroplating industrial wastewater** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

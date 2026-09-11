@@ -1,7 +1,7 @@
 ---
 title: "Maoxue Zhang"
-description: "Maoxue Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.745381
+description: "Maoxue Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.682679
 url: "/cdr-researcher-census/researchers/maoxue-zhang-a5083003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 301 |
+| h-index | 8 |
+| Citations | 318 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect on greenhouse gas emissions (CH4 and N2O) of straw mulching or its incorporation in farmland ecosystems in China** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 ## External Profiles
 

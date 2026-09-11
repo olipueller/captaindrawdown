@@ -1,7 +1,7 @@
 ---
 title: "Hafiz Muhammad Mazhar Abbas"
-description: "Hafiz Muhammad Mazhar Abbas is a Mid-career Soil Carbon researcher at Hainan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.976228
+description: "Hafiz Muhammad Mazhar Abbas is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.850569
 url: "/cdr-researcher-census/researchers/hafiz-muhammad-mazhar-abbas-a5111137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hafiz-muhammad-mazhar-abbas-a5111137/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hainan University"
+    "name": "Sun Yat-sen University"
   },
   "sameAs": "https://openalex.org/A5111137655"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hafiz Muhammad Mazhar Abbas**  
-Hainan University · 🇨🇳 CN
+Sun Yat-sen University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 205 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| h-index | 7 |
+| Citations | 236 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

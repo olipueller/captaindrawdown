@@ -1,7 +1,7 @@
 ---
 title: "Anis Ahmed Mirza"
 description: "Anis Ahmed Mirza is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.383019
+date: 2026-09-11T02:38:30.305331
 url: "/cdr-researcher-census/researchers/anis-ahmed-mirza-a5110785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 107 |
+| Citations | 117 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

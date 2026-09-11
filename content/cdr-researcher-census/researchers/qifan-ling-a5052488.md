@@ -1,7 +1,7 @@
 ---
 title: "Qifan Ling"
-description: "Qifan Ling is a Mid-career Biochar researcher at Jiangsu University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.787580
+description: "Qifan Ling is a Mid-career Biochar researcher at Jiangsu University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.692554
 url: "/cdr-researcher-census/researchers/qifan-ling-a5052488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 279 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 312 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A mechanism study of methylene blue adsorption on seaweed biomass derived carbon: From macroscopic to microscopic scale** (2023)
-   89 citations · Biochar
+   93 citations · Biochar
 
 2. **Recent advances and challenges in the hydrothermal carbonization of livestock manure for hydrochar production: A review** (2026)
    1 citations

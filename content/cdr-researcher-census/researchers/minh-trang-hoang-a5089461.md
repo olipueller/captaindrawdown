@@ -1,7 +1,7 @@
 ---
 title: "Minh Trang Hoang"
 description: "Minh Trang Hoang is a Mid-career Biochar researcher at Vietnam National University, Hanoi in VN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.834587
+date: 2026-09-11T02:38:29.808225
 url: "/cdr-researcher-census/researchers/minh-trang-hoang-a5089461/"
 layout: "researcher"
 hiddenInHomeList: true

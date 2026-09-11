@@ -1,7 +1,7 @@
 ---
 title: "Daryoush Sanaei"
-description: "Daryoush Sanaei is a Mid-career Biochar researcher at Baqiyatallah University of Medical Sciences in IR. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331473
+description: "Daryoush Sanaei is a Mid-career Biochar researcher at Tehran University of Medical Sciences in IR. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.283911
 url: "/cdr-researcher-census/researchers/daryoush-sanaei-a5056549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daryoush-sanaei-a5056549/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Baqiyatallah University of Medical Sciences"
+    "name": "Tehran University of Medical Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9855-3222",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Daryoush Sanaei**  
-Baqiyatallah University of Medical Sciences ·  IR
+Tehran University of Medical Sciences ·  IR
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 868 |
-| Publications | 33 |
-| CDR Focus | 12.1% |
+| h-index | 13 |
+| Citations | 888 |
+| Publications | 34 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Adsorptive removal of anthracene from water by biochar derived amphiphilic carbon dots decorated with chitosan** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Alum sludge-driven electro-phytoremediation in constructed wetlands: a novel approach for sustainable nutrient removal** (2025)
    1 citations

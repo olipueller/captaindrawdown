@@ -1,7 +1,7 @@
 ---
 title: "Xuejiao Yue"
 description: "Xuejiao Yue is an Early-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.146205
+date: 2026-09-11T02:38:30.109631
 url: "/cdr-researcher-census/researchers/xuejiao-yue-a5052874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 155 |
+| Citations | 158 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors shaping soil organic carbon stocks in grass covered orchards across China: A meta-analysis** (2021)
-   79 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiong‐Xin Peng"
 description: "Xiong‐Xin Peng is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.756628
+date: 2026-09-11T02:38:29.691389
 url: "/cdr-researcher-census/researchers/xiongxin-peng-a5041530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 295 |
+| Citations | 313 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

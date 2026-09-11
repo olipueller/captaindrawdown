@@ -1,7 +1,7 @@
 ---
 title: "Heehyang Kim"
 description: "Heehyang Kim is a Mid-career General CDR researcher at Ulsan National Institute of Science and Technology in KR. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317337
+date: 2026-09-11T02:38:29.263640
 url: "/cdr-researcher-census/researchers/heehyang-kim-a5018824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 922 |
+| Citations | 960 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Exiting |

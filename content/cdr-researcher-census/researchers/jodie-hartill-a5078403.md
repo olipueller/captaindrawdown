@@ -1,7 +1,7 @@
 ---
 title: "Jodie Hartill"
-description: "Jodie Hartill is a Mid-career Soil Carbon researcher at Natural England in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.270241
+description: "Jodie Hartill is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.228470
 url: "/cdr-researcher-census/researchers/jodie-hartill-a5078403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jodie Hartill",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jodie-hartill-a5078403/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Natural England"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-9013-0268",
     "https://openalex.org/A5078403871"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jodie Hartill**  
-Natural England · 🇬🇧 GB
+**Jodie Hartill**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 127 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 131 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

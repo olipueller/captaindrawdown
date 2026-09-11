@@ -1,7 +1,7 @@
 ---
 title: "Paweł P. Ziemiański"
-description: "Paweł P. Ziemiański is a Senior DAC researcher at Energetic Materials and Products Incorporation (United States) in US. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.838969
+description: "Paweł P. Ziemiański is a Senior DAC researcher at Medical Components (United States) in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.792624
 url: "/cdr-researcher-census/researchers/pawe-p-ziemianski-a5060620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pawe-p-ziemianski-a5060620/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Energetic Materials and Products Incorporation (United States)"
+    "name": "Medical Components (United States)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8913-857X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Paweł P. Ziemiański**  
-Energetic Materials and Products Incorporation (United States) · 🇺🇸 US
+Medical Components (United States) · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -42,19 +42,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 252 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 7 |
+| Citations | 262 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Hydrophobic Silica Gels and Aerogels for Direct Air Capture: Hybrid Grafting To Suppress Water Uptake and Capillary Condensation** (2025)
-   5 citations
+   7 citations
 
 2. **Circular and athermal atmospheric CO <sub>2</sub> capture by food waste-derived amyloid sorbents** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 3. **A Scale-Consistent Adsorption Model for Polymer-Based Adsorbents in Direct Air Capture** (2026)
    1 citations · DAC

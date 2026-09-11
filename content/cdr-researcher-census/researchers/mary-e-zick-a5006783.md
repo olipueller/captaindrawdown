@@ -1,7 +1,7 @@
 ---
 title: "Mary E. Zick"
 description: "Mary E. Zick is a Mid-career DAC researcher at Cornell University in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.568913
+date: 2026-09-11T02:38:29.498826
 url: "/cdr-researcher-census/researchers/mary-e-zick-a5006783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 437 |
+| Citations | 469 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Capturing carbon dioxide from air with charged-sorbents** (2024)
-   172 citations
+   182 citations
 
 2. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   58 citations
+   59 citations
 
 3. **Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal–Organic Framework** (2025)
    14 citations · DAC
 
 4. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   11 citations
+   12 citations
 
 5. **Carbon Capture Beyond Amines: CO<sub>2</sub> Sorption at Nucleophilic Oxygen Sites in Materials** (2022)
    10 citations · DAC

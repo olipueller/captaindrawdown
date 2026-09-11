@@ -1,7 +1,7 @@
 ---
 title: "Israt Jahan Irin"
 description: "Israt Jahan Irin is a Mid-career Soil Carbon researcher at Khulna Agricultural University in BD. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.702130
+date: 2026-09-11T02:38:29.665537
 url: "/cdr-researcher-census/researchers/israt-jahan-irin-a5022032/"
 layout: "researcher"
 hiddenInHomeList: true

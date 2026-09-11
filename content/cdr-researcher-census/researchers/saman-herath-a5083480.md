@@ -1,7 +1,7 @@
 ---
 title: "Saman Herath"
-description: "Saman Herath is a Mid-career Soil Carbon researcher at Uva Wellassa University in LK. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.360224
+description: "Saman Herath is a Mid-career Soil Carbon researcher at Uva Wellassa University in LK. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.269673
 url: "/cdr-researcher-census/researchers/saman-herath-a5083480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 111 |
+| h-index | 8 |
+| Citations | 124 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus addition increases microbial necromass by increasing N availability in China: A meta-analysis** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Greater variation of soil organic carbon in limestone- than shale-based soil along soil depth in a subtropical coniferous forest within a karst faulted basin of China** (2024)
    8 citations · Soil Carbon

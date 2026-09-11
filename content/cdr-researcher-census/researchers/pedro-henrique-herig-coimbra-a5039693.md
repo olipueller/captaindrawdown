@@ -1,7 +1,7 @@
 ---
 title: "Pedro-Henrique Herig-Coimbra"
 description: "Pedro-Henrique Herig-Coimbra is an Early-career General CDR researcher at AgroParisTech in FR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.100751
+date: 2026-09-11T02:38:30.040875
 url: "/cdr-researcher-census/researchers/pedro-henrique-herig-coimbra-a5039693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 167 |
+| Citations | 177 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |

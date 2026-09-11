@@ -1,7 +1,7 @@
 ---
 title: "Shivesh Kishore Karan"
-description: "Shivesh Kishore Karan is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.388191
+description: "Shivesh Kishore Karan is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.336232
 url: "/cdr-researcher-census/researchers/shivesh-kishore-karan-a5041123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 715 |
-| Publications | 33 |
-| CDR Focus | 12.1% |
+| Citations | 740 |
+| Publications | 35 |
+| CDR Focus | 11.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   53 citations · Biochar
+   54 citations · Biochar
 
 2. **Simultaneous carbon storage in arable land and anthropogenic products (CSAAP): Demonstrating an integrated concept towards well below 2°C** (2022)
    18 citations · General CDR

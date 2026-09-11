@@ -1,7 +1,7 @@
 ---
 title: "Chengyang Guan"
-description: "Chengyang Guan is a Mid-career Soil Carbon researcher at Fudan University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.388999
+description: "Chengyang Guan is a Mid-career Soil Carbon researcher at Fudan University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.305013
 url: "/cdr-researcher-census/researchers/chengyang-guan-a5046586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 106 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 6 |
+| Citations | 117 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 3. **Revealing the driving mechanisms of ecosystem services supply and demand relationships in a coastal city: A geospatial machine learning approach** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

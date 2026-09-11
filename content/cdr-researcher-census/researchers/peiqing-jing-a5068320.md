@@ -1,7 +1,7 @@
 ---
 title: "Peiqing Jing"
-description: "Peiqing Jing is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.098175
+description: "Peiqing Jing is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.034995
 url: "/cdr-researcher-census/researchers/peiqing-jing-a5068320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 168 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 179 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

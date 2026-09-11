@@ -1,7 +1,7 @@
 ---
 title: "Julius Wesche"
-description: "Julius Wesche is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.008271
+description: "Julius Wesche is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.947120
 url: "/cdr-researcher-census/researchers/julius-wesche-a5030449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 194 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 206 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 2. **Gigaton gear – policy insights for scaling up the global deployment of direct air carbon capture and sequestration technology (DACCS)** (2024)
    3 citations · DAC
+
+3. **Configurational Innovation Systems: Transition Dynamics and Actor Strategies in the German Heat System** (2021)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fengxia Hu"
 description: "Fengxia Hu is a Mid-career Soil Carbon researcher at Shanghai Lixin University of Accounting and Finance in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.475579
+date: 2026-09-11T02:38:29.414613
 url: "/cdr-researcher-census/researchers/fengxia-hu-a5039713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 553 |
+| Citations | 587 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

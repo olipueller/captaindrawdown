@@ -1,7 +1,7 @@
 ---
 title: "Ejeong Baik"
 description: "Ejeong Baik is a Mid-career General CDR researcher at Stanford University in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.633935
+date: 2026-09-11T02:38:29.597265
 url: "/cdr-researcher-census/researchers/ejeong-baik-a5031086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 378 |
+| Citations | 379 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

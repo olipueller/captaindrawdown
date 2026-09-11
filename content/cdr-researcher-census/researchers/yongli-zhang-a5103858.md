@@ -1,7 +1,7 @@
 ---
 title: "Yongli Zhang"
-description: "Yongli Zhang is a Mid-career Biochar researcher at Tiangong University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.141884
+description: "Yongli Zhang is a Mid-career Biochar researcher at Anhui Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.069060
 url: "/cdr-researcher-census/researchers/yongli-zhang-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yongli-zhang-a5103858/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tiangong University"
+    "name": "Anhui Academy of Agricultural Sciences"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-7813-2182",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yongli Zhang**  
-Tiangong University · 🇨🇳 CN
+Anhui Academy of Agricultural Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 156 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 170 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

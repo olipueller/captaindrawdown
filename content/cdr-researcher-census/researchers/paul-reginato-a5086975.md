@@ -1,7 +1,7 @@
 ---
 title: "Paul Reginato"
 description: "Paul Reginato is a Mid-career General CDR researcher at Broad Institute in US. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.289145
+date: 2026-09-11T02:38:29.234688
 url: "/cdr-researcher-census/researchers/paul-reginato-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 1,046 |
+| Citations | 1,081 |
 | Publications | 42 |
-| CDR Focus | 16.7% |
+| CDR Focus | 19.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   66 citations · DAC
+   69 citations · DAC
 
 2. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations
@@ -62,16 +62,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Design, TEA, and LCA of reactor-based bio-enhanced rock weathering** (2024)
    0 citations · Enhanced Weathering
 
-5. **Executive Summary: Part 1: Roadmap for biotech in industrial CDR using aqueous solutions** (2023)
+5. **Problem Statement: Measuring CO2 exchange rates in small solvent volumes** (2023)
+   0 citations · DAC
+
+6. **Executive Summary: Part 1: Roadmap for biotech in industrial CDR using aqueous solutions** (2023)
    0 citations · BECCS
 
-6. **Problem Statement: Techno-economic analysis to guide development of bio-enhanced DAC** (2023)
+7. **Problem Statement: Techno-economic analysis to guide development of bio-enhanced DAC** (2023)
    0 citations · General CDR
 
-7. **Introduction: Roadmap for impact of biotechnology in carbon dioxide removal** (2023)
+8. **Introduction: Roadmap for impact of biotechnology in carbon dioxide removal** (2023)
    0 citations · General CDR
 
-8. **Part 1: Industrial CDR using aqueous solvents** (2023)
+9. **Part 1: Industrial CDR using aqueous solvents** (2023)
    0 citations · General CDR
 
 ## External Profiles

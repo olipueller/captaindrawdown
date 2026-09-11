@@ -1,7 +1,7 @@
 ---
 title: "Katherine Hornbostel"
 description: "Katherine Hornbostel is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.388089
+date: 2026-09-11T02:38:29.327414
 url: "/cdr-researcher-census/researchers/katherine-hornbostel-a5112901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 715 |
+| Citations | 762 |
 | Publications | 28 |
 | CDR Focus | 21.4% |
 | Trajectory | Declining |
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    23 citations · Ocean CDR
 
 3. **Parametric simulations of hierarchical core–shell MOF materials for direct air capture** (2023)
-   15 citations
+   16 citations
 
 4. **Flexible carbon capture using MOF fixed bed adsorbers at an NGCC plant** (2023)
    12 citations
@@ -68,14 +68,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **Demonstration of Direct Ocean Carbon Capture Using Hollow Fiber Membrane Contactors** (2023)
    2 citations · Ocean CDR
 
-7. **Direct ocean carbon capture using membrane contactors** (2022)
+7. **Investigation of a Hybrid Carbon Capture System at a NGCC Power Plant That Performs Direct Air Capture During Off-Peak Hours** (2024)
+   1 citations · DAC
+
+8. **Direct ocean carbon capture using membrane contactors** (2022)
    1 citations · Ocean CDR
 
-8. **A Comparative Review of terrestrial and marine carbon dioxide removal (CDR) methods** (2025)
+9. **A Comparative Review of terrestrial and marine carbon dioxide removal (CDR) methods** (2025)
    0 citations · BECCS
-
-9. **Investigation of a Hybrid Carbon Capture System at a NGCC Power Plant That Performs Direct Air Capture During Off-Peak Hours** (2024)
-   0 citations · DAC
 
 10. **Core-Shell Metal-Organic-Frameworks for Direct Air Capture** (2022)
    0 citations

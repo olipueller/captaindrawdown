@@ -1,7 +1,7 @@
 ---
 title: "Juan Xue"
-description: "Juan Xue is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.967760
+description: "Juan Xue is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.900768
 url: "/cdr-researcher-census/researchers/juan-xue-a5102112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/juan-xue-a5102112/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sichuan University"
+    "name": "Ministry of Natural Resources"
   },
   "sameAs": "https://openalex.org/A5102112518"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Juan Xue**  
-Sichuan University · 🇨🇳 CN
+Ministry of Natural Resources · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 208 |
-| Publications | 11 |
-| CDR Focus | 36.4% |
+| Citations | 217 |
+| Publications | 12 |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nutrient limitations drive microbial carbon use efficiency and soil carbon sequestration in grassland restoration** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
    2 citations · Soil Carbon

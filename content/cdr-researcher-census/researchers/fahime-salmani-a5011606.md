@@ -1,7 +1,7 @@
 ---
 title: "Fahime Salmani"
-description: "Fahime Salmani is a Mid-career General CDR researcher at Gyeongguk National University in KR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.014106
+description: "Fahime Salmani is a Mid-career General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.959658
 url: "/cdr-researcher-census/researchers/fahime-salmani-a5011606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Fahime Salmani",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fahime-salmani-a5011606/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Gyeongguk National University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-9696-8395",
     "https://openalex.org/A5011606287"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Fahime Salmani**  
-Gyeongguk National University · 🇰🇷 KR
+**Fahime Salmani**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 192 |
+| Citations | 201 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

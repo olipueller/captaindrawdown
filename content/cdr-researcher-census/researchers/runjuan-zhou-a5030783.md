@@ -1,7 +1,7 @@
 ---
 title: "Runjuan Zhou"
 description: "Runjuan Zhou is a Mid-career Biochar researcher at Anhui Polytechnic University in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.452322
+date: 2026-09-11T02:38:29.393729
 url: "/cdr-researcher-census/researchers/runjuan-zhou-a5030783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 588 |
+| Citations | 620 |
 | Publications | 37 |
 | CDR Focus | 5.4% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of metronidazole by Cu2O-modified biochar via sunlight-mediated peracetic acid activation: Performance investigation and mechanism revelation** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Unveiling the superior adsorptive performance and stability of mushroom-derived biochar for the removal of p-aminoazobenzene from real and synthetic water samples: Insights from experiments and simulations** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

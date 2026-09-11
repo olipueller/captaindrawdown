@@ -1,7 +1,7 @@
 ---
 title: "Sagar Gautam"
-description: "Sagar Gautam is a Mid-career Soil Carbon researcher at Sandia National Laboratories California in US. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.487355
+description: "Sagar Gautam is a Mid-career Soil Carbon researcher at Sandia National Laboratories California in US. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.438461
 url: "/cdr-researcher-census/researchers/sagar-gautam-a5054737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 535 |
-| Publications | 68 |
-| CDR Focus | 13.2% |
+| Citations | 549 |
+| Publications | 72 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Impact of soil erosion on soil organic carbon loss and its implications for carbon neutrality** (2025)
    3 citations · Soil Carbon
 
-6. **Harnessing the Power of Machine Learning and Omics to Identify Environmental Regulation on Microbial Functional Composition for Soil C, N, and P Cycling** (2025)
+6. **Enhancing soil carbon storage in water-limited environments with multispecies cover cropping: Insights from DayCent® model simulation** (2026)
    1 citations · Soil Carbon
 
-7. **Enhancing soil carbon storage in water-limited environments with multispecies cover cropping: Insights from DayCent® model simulation** (2026)
-   0 citations · Soil Carbon
+7. **Harnessing the Power of Machine Learning and Omics to Identify Environmental Regulation on Microbial Functional Composition for Soil C, N, and P Cycling** (2025)
+   1 citations · Soil Carbon
 
 8. **Machine learning and process-based modeling of spatiotemporal changes in active layer thickness across Alaska** (2025)
    0 citations

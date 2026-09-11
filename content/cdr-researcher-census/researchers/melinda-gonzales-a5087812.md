@@ -1,7 +1,7 @@
 ---
 title: "Melinda Gonzales"
 description: "Melinda Gonzales is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.070063
+date: 2026-09-11T02:38:30.013361
 url: "/cdr-researcher-census/researchers/melinda-gonzales-a5087812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 176 |
+| Citations | 186 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |

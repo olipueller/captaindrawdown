@@ -1,7 +1,7 @@
 ---
 title: "Shiming Tang"
-description: "Shiming Tang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.315473
+description: "Shiming Tang is a Senior Soil Carbon researcher at Anhui Medical University in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.259886
 url: "/cdr-researcher-census/researchers/shiming-tang-a5029286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shiming-tang-a5029286/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Anhui Medical University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0234-6721",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shiming Tang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Anhui Medical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 930 |
-| Publications | 60 |
-| CDR Focus | 6.7% |
+| h-index | 20 |
+| Citations | 978 |
+| Publications | 61 |
+| CDR Focus | 6.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    35 citations · Soil Carbon
 
 2. **Land use shapes the microbial community structure by altering soil aggregates and dissolved organic matter components** (2024)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Influence of Initial Soil Organic Carbon in Grassland on the Sensitivity of Carbon Changes to Climate After Grassland‐to‐Cropland Conversion** (2025)
    7 citations · Soil Carbon

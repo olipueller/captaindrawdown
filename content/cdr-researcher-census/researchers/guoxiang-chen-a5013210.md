@@ -1,7 +1,7 @@
 ---
 title: "Guoxiang Chen"
-description: "Guoxiang Chen is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.047624
+description: "Guoxiang Chen is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.986935
 url: "/cdr-researcher-census/researchers/guoxiang-chen-a5013210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 183 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 194 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Bulk Density, Aggregates, Carbon Stabilization, Nutrients and Vegetation Traits as Affected by Manure Gradients Regimes Under Alpine Meadows of Qinghai–Tibetan Plateau Ecosystem** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

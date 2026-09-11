@@ -1,7 +1,7 @@
 ---
 title: "Yang Liu"
 description: "Yang Liu is a Mid-career Soil Carbon researcher at Shanghai Institute of Quality Inspection and Technical Research in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.959162
+date: 2026-09-11T02:38:29.835430
 url: "/cdr-researcher-census/researchers/yang-liu-a5102595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 211 |
+| Citations | 242 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ectomycorrhizal fungi and biochar promote soil recalcitrant carbon increases under arsenic stress** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Tree age affects carbon sequestration potential via altering soil bacterial community composition and function** (2024)
    16 citations · Soil Carbon

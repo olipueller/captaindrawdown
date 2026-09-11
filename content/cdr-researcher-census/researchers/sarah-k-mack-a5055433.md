@@ -1,7 +1,7 @@
 ---
 title: "Sarah K. Mack"
 description: "Sarah K. Mack is a Senior Soil Carbon researcher at University of Stuttgart in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.568563
+date: 2026-09-11T02:38:29.518633
 url: "/cdr-researcher-census/researchers/sarah-k-mack-a5055433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 438 |
+| Citations | 450 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **A blue carbon pilot project: Lessons learned** (2022)
-   11 citations · General CDR
+1. **Status and Challenges of Wetlands in Carbon Markets** (2021)
+   12 citations · General CDR
 
-2. **Status and Challenges of Wetlands in Carbon Markets** (2021)
+2. **A blue carbon pilot project: Lessons learned** (2022)
    11 citations · General CDR
 
 ## External Profiles

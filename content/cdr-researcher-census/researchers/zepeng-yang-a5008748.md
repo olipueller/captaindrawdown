@@ -1,7 +1,7 @@
 ---
 title: "Zepeng Yang"
-description: "Zepeng Yang is a Mid-career Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.640610
+description: "Zepeng Yang is a Mid-career Soil Carbon researcher at China Academy of Space Technology in CN. With 55 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.575804
 url: "/cdr-researcher-census/researchers/zepeng-yang-a5008748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zepeng-yang-a5008748/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China University of Petroleum, Beijing"
+    "name": "China Academy of Space Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6805-0213",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zepeng Yang**  
-China University of Petroleum, Beijing · 🇨🇳 CN
+China Academy of Space Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 374 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| Citations | 398 |
+| Publications | 55 |
+| CDR Focus | 5.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Year-to-year variation in organic fertilization effects on soil carbon stabilization and microbial networks** (2025)
-   5 citations
+   7 citations
 
 2. **No-tillage enhances soil organic carbon and methane-oxidizing bacteria to mitigate methane emissions in an oilseed rape-rice system** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Integrated high-temperature CO2 capture and conversion over mixed CaO-NaAlO2 bifunctional sorbent-catalyst using a passivation strategy** (2025)
    3 citations · General CDR

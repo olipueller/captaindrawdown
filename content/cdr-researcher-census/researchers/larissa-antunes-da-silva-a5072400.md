@@ -1,7 +1,7 @@
 ---
 title: "Larissa Antunes da Silva"
 description: "Larissa Antunes da Silva is an Early-career Soil Carbon researcher at Universidade de São Paulo in BR. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.405083
+date: 2026-09-11T02:38:30.314772
 url: "/cdr-researcher-census/researchers/larissa-antunes-da-silva-a5072400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 103 |
+| Citations | 115 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

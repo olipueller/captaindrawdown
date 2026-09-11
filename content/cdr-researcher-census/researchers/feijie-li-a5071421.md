@@ -1,7 +1,7 @@
 ---
 title: "Feijie Li"
 description: "Feijie Li is a Mid-career Biochar researcher at Rural Resources in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.246838
+date: 2026-09-11T02:38:30.183307
 url: "/cdr-researcher-census/researchers/feijie-li-a5071421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 132 |
+| Citations | 141 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Returning low C/N crop straw to the paddy field can achieve the dual benefits of reduced methane emissions and enhanced yield stability** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

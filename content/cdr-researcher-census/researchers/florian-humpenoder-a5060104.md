@@ -1,7 +1,7 @@
 ---
 title: "Florian Humpenöder"
-description: "Florian Humpenöder is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 168 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.064763
+description: "Florian Humpenöder is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 174 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.017459
 url: "/cdr-researcher-census/researchers/florian-humpenoder-a5060104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 51 |
-| Citations | 21,735 |
-| Publications | 168 |
-| CDR Focus | 7.1% |
+| h-index | 52 |
+| Citations | 22,375 |
+| Publications | 174 |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 2. **Carbon dioxide removal technologies are not born equal** (2021)
-   125 citations · BECCS
+   126 citations · BECCS
 
 3. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
 
 4. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   46 citations · BECCS
+   48 citations · BECCS
 
 5. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 6. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 7. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
    12 citations · General CDR
 
-8. **ENGAGE Global Scenarios** (2021)
-   6 citations
+8. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   6 citations · BECCS
 
-9. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   4 citations · BECCS
+9. **ENGAGE Global Scenarios** (2021)
+   6 citations
 
 10. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
    3 citations · General CDR

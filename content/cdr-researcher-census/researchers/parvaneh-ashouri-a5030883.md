@@ -1,7 +1,7 @@
 ---
 title: "Parvaneh Ashouri"
-description: "Parvaneh Ashouri is a Mid-career Soil Carbon researcher at Agricultural Research & Education Organization in IR. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.112779
+description: "Parvaneh Ashouri is a Mid-career Soil Carbon researcher at Agricultural Research & Education Organization in IR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.053018
 url: "/cdr-researcher-census/researchers/parvaneh-ashouri-a5030883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 164 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 5 |
+| Citations | 174 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

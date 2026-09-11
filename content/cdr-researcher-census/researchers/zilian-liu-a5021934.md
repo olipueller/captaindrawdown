@@ -1,7 +1,7 @@
 ---
 title: "Zilian Liu"
-description: "Zilian Liu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 48 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.808509
+description: "Zilian Liu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.726100
 url: "/cdr-researcher-census/researchers/zilian-liu-a5021934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 268 |
+| h-index | 10 |
+| Citations | 295 |
 | Publications | 48 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 3. **Endogenous Fe-Al self-doped biochar derived from rubber sludge for effective peroxymonosulfate activation: Dominant role of 1O2 and electron transfer** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

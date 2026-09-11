@@ -1,7 +1,7 @@
 ---
 title: "Xiangjun Lu"
-description: "Xiangjun Lu is a Senior Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.354499
+description: "Xiangjun Lu is a Senior Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.289050
 url: "/cdr-researcher-census/researchers/xiangjun-lu-a5100897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 112 |
+| h-index | 6 |
+| Citations | 120 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial and temporal variations of net ecosystem productivity in Xinjiang Autonomous Region, China based on remote sensing** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

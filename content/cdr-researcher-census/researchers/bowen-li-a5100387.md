@@ -1,7 +1,7 @@
 ---
 title: "Bowen Li"
-description: "Bowen Li is a Mid-career Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.262653
+description: "Bowen Li is a Mid-career Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.339143
 url: "/cdr-researcher-census/researchers/bowen-li-a5100387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 129 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 110 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

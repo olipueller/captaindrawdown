@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Olivier Goyette"
-description: "Jean‐Olivier Goyette is a Mid-career Soil Carbon researcher at Bureau de Coopération Interuniversitaire in CA. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.432998
+description: "Jean‐Olivier Goyette is a Mid-career Soil Carbon researcher at Bureau de Coopération Interuniversitaire in CA. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.384502
 url: "/cdr-researcher-census/researchers/jeanolivier-goyette-a5029060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 622 |
+| h-index | 11 |
+| Citations | 634 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Above and belowground carbon stocks among organic soil wetland types, accounting for peat bathymetry** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

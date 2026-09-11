@@ -1,7 +1,7 @@
 ---
 title: "Kamal Choudhary"
-description: "Kamal Choudhary is a Mid-career Soil Carbon researcher at Jamia Hamdard in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.013207
+description: "Kamal Choudhary is a Mid-career Soil Carbon researcher at Jamia Hamdard in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.962453
 url: "/cdr-researcher-census/researchers/kamal-choudhary-a5043958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 193 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 201 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Changes in soil organic carbon pools after 15 years of Conservation Agriculture in rice (Oryza sativa)-wheat (Triticum aestivum) cropping system of eastern Indo-Gangetic plains** (2023)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

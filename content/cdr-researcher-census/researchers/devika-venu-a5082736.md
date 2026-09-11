@@ -1,7 +1,7 @@
 ---
 title: "Devika Venu"
 description: "Devika Venu is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.351838
+date: 2026-09-11T02:38:30.296878
 url: "/cdr-researcher-census/researchers/devika-venu-a5082736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 112 |
+| Citations | 118 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of iron loaded jackfruit peel biochar through microwave heating as a stable and active heterogenous Fenton catalyst for dye degradation** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

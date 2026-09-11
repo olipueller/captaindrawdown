@@ -1,7 +1,7 @@
 ---
 title: "Zilun Gou"
-description: "Zilun Gou is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.013461
+description: "Zilun Gou is a Mid-career Soil Carbon researcher at Chinese Academy of Engineering in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.951645
 url: "/cdr-researcher-census/researchers/zilun-gou-a5045420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zilun-gou-a5045420/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Research Academy of Environmental Sciences"
+    "name": "Chinese Academy of Engineering"
   },
   "sameAs": [
     "https://orcid.org/0009-0006-5998-0033",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Zilun Gou**  
-Chinese Research Academy of Environmental Sciences · 🇨🇳 CN
+Chinese Academy of Engineering · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 193 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 205 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatiotemporal Heterogeneity of Surface Soil Organic Carbon in China: Novel Insights from Interpretable Machine Learning Coupled with Google Earth Engine** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

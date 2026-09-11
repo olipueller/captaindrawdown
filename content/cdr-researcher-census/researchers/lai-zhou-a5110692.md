@@ -1,7 +1,7 @@
 ---
 title: "Lai Zhou"
-description: "Lai Zhou is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.678166
+description: "Lai Zhou is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.632057
 url: "/cdr-researcher-census/researchers/lai-zhou-a5110692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lai-zhou-a5110692/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China University of Mining and Technology"
+    "name": "Ministry of Education of the People's Republic of China"
   },
   "sameAs": "https://openalex.org/A5110692855"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Lai Zhou**  
-China University of Mining and Technology · 🇨🇳 CN
+Ministry of Education of the People's Republic of China · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 346 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 354 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

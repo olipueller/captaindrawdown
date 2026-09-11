@@ -1,7 +1,7 @@
 ---
 title: "Xiaoguang Ouyang"
-description: "Xiaoguang Ouyang is a Mid-career Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.170113
+description: "Xiaoguang Ouyang is a Senior Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.117482
 url: "/cdr-researcher-census/researchers/xiaoguang-ouyang-a5085789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Xiaoguang Ouyang**  
 Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 2,079 |
+| h-index | 20 |
+| Citations | 2,166 |
 | Publications | 61 |
 | CDR Focus | 8.2% |
 | Trajectory | Growing |
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
    22 citations · Soil Carbon
 
-2. **Exploring soil carbon drivers across natural mangroves, restored mangroves, and tidal flats: Implications for subtropical coastal carbon management** (2025)
-   14 citations · Soil Carbon
+2. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
+   15 citations · Soil Carbon
 
-3. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   12 citations · Soil Carbon
+3. **Exploring soil carbon drivers across natural mangroves, restored mangroves, and tidal flats: Implications for subtropical coastal carbon management** (2025)
+   15 citations · Soil Carbon
 
 4. **Differential carbon stocks and burial rates in natural versus planted mangrove forests under varied hydrogeomorphic conditions** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Introduction** (2022)
    1 citations · General CDR

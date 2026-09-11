@@ -1,7 +1,7 @@
 ---
 title: "Dominic Yellezuome"
-description: "Dominic Yellezuome is a Senior Biochar researcher at University of Mines and Technology in GH. With 53 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.211602
+description: "Dominic Yellezuome is a Senior Biochar researcher at University of Mines and Technology in GH. With 57 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.158015
 url: "/cdr-researcher-census/researchers/dominic-yellezuome-a5042988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,562 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| Citations | 1,626 |
+| Publications | 57 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

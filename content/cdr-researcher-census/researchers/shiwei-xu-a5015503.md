@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Xu"
 description: "Shiwei Xu is a Senior Biochar researcher at Shanghai Ocean University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.310193
+date: 2026-09-11T02:38:30.240400
 url: "/cdr-researcher-census/researchers/shiwei-xu-a5015503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 120 |
+| Citations | 129 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

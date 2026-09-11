@@ -1,7 +1,7 @@
 ---
 title: "Rupert Stuart-Smith"
-description: "Rupert Stuart-Smith is a Mid-career General CDR researcher at University of Oxford in GB. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.240562
+description: "Rupert Stuart-Smith is a Mid-career General CDR researcher at University of Oxford in GB. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.187905
 url: "/cdr-researcher-census/researchers/rupert-stuart-smith-a5045187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,324 |
-| Publications | 49 |
-| CDR Focus | 10.2% |
+| Citations | 1,371 |
+| Publications | 50 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · General CDR
 
 2. **Law, justice and the role of courts in changing the social superstructure narrative in climate litigation** (2023)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Climate overshoot legacy: Distinguishing transient biophysical change from irreversible socioeconomic loss** (2026)
    0 citations · General CDR

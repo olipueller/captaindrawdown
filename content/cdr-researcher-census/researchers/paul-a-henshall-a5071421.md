@@ -1,7 +1,7 @@
 ---
 title: "Paul A. Henshall"
 description: "Paul A. Henshall is a Mid-career Soil Carbon researcher at Forest Research in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895726
+date: 2026-09-11T02:38:29.868920
 url: "/cdr-researcher-census/researchers/paul-a-henshall-a5071421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 228 |
+| Citations | 229 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |

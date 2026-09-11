@@ -1,7 +1,7 @@
 ---
 title: "Ruth Falkenberg"
 description: "Ruth Falkenberg is a Mid-career General CDR researcher at University of Vienna in AT. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.863319
+date: 2026-09-11T02:38:29.826057
 url: "/cdr-researcher-census/researchers/ruth-falkenberg-a5009728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 241 |
+| Citations | 247 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Jining Zhang"
-description: "Jining Zhang is a Senior Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.151233
+description: "Jining Zhang is a Senior Soil Carbon researcher at Shanghai Academy of Agricultural Sciences in CN. With 106 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.100380
 url: "/cdr-researcher-census/researchers/jining-zhang-a5051152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 2,437 |
-| Publications | 100 |
-| CDR Focus | 8.0% |
+| h-index | 23 |
+| Citations | 2,498 |
+| Publications | 106 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 7. **Composting and Pyrolysis Strategies to Manage Flammulina velutipes Residue and Base Waste Based on the Biodegradability and Carbon Sequestration Potential** (2023)
-   1 citations · Biochar
+   2 citations · Biochar
 
 8. **Biochar Mitigates Root Exudate-Induced Priming of Native SOC Decomposition via Soil Phosphorus Availability and Microbial Structure** (2026)
    0 citations · Biochar

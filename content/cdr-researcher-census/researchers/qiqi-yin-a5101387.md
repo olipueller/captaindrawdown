@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Yin"
-description: "Qiqi Yin is a Mid-career Soil Carbon researcher at Minzu University of China in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.126963
+description: "Qiqi Yin is a Mid-career Soil Carbon researcher at Minzu University of China in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.052650
 url: "/cdr-researcher-census/researchers/qiqi-yin-a5101387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 160 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 174 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effect of organic material addition on active soil organic carbon and microbial diversity: A meta-analysis** (2024)
-   72 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 ## External Profiles
 

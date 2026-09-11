@@ -1,7 +1,7 @@
 ---
 title: "Vinod Prasad Khanduri"
-description: "Vinod Prasad Khanduri is a Senior Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 97 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.325146
+description: "Vinod Prasad Khanduri is a Senior Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 103 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.267982
 url: "/cdr-researcher-census/researchers/vinod-prasad-khanduri-a5082455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,42 +43,42 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 891 |
-| Publications | 97 |
-| CDR Focus | 5.2% |
+| Citations | 944 |
+| Publications | 103 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   21 citations
+   27 citations
 
 2. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Carbon Sequestration Potential of Different Land Use Sectors of Western Himalaya** (2021)
    18 citations
 
 4. **Tree diversity, carbon sequestration and production potential of Oryza sativa L. in traditional agroforestry systems of Garhwal Himalaya, India** (2025)
-   9 citations · General CDR
+   11 citations · General CDR
 
 5. **Effect of altitudes and aspects on carbon sequestration potential of Quercus floribunda forests of Garhwal Himalayas** (2024)
    9 citations · Soil Carbon
 
 6. **From forest to future: A sustainable perspective on bamboo’s nexus with biodiversity, indigenous knowledge, ecological resilience, and current status in Northeast India** (2025)
-   3 citations
+   4 citations
 
 7. **Harnessing Soil Ecosystem Services for Achieving Soil-Based SDGs in Indian Himalaya** (2023)
    3 citations · General CDR
 
 8. **Carbon sequestration potential of Alnus nepalensis at different land use systems and elevations of Gyalshing Forest Division, Sikkim, Eastern Himalaya, India** (2025)
-   1 citations
+   2 citations
 
-9. **Himalayan altitude gradient drives divergent carbon storage: conifer biomass peaks, broadleaf soils stabilize** (2026)
-   0 citations · Soil Carbon
+9. **Altitudinal gradient and anthropogenic disturbance alter soil quality index and biomass carbon in Banj Oak (Quercus leucotrichophora) forests of Garhwal Himalaya, India** (2026)
+   0 citations
 
-10. **Assessment of carbon stocks and soil carbon pools in temperate oak forests of the Garhwal Himalaya, India** (2026)
-   0 citations · Soil Carbon
+10. **Tree Biomass and Carbon Sequestration in Traditional Agroforestry Systems of Western Himalaya** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Layla M. San Emeterio"
-description: "Layla M. San Emeterio is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.820294
+description: "Layla M. San Emeterio is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.763698
 url: "/cdr-researcher-census/researchers/layla-m-san-emeterio-a5028514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 262 |
+| h-index | 9 |
+| Citations | 276 |
 | Publications | 51 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Evolution of Maize Compost in a Mediterranean Agricultural Soil: Implications for Carbon Sequestration** (2023)
    8 citations
 
-2. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
-   2 citations · Biochar
+2. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
+   2 citations · Soil Carbon
 
-3. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   0 citations · Soil Carbon
+3. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
+   2 citations · Biochar
 
 4. **Turnover of soil organic matter and microbial biomass under C3-C4 vegetation change: implications for carbon sequestration in Mediterranean agricultural soils.** (2023)
    0 citations · Soil Carbon

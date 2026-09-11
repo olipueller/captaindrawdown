@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Chang"
 description: "Qingqing Chang is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.791975
+date: 2026-09-11T02:38:29.736143
 url: "/cdr-researcher-census/researchers/qingqing-chang-a5101086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 277 |
+| Citations | 290 |
 | Publications | 28 |
 | CDR Focus | 10.7% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Process‐Based Model Integrating Remote Sensing Data for Evaluating Ecosystem Services** (2021)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Reference carbon cycle dataset for typical Chinese forests via colocated observations and data assimilation** (2021)
    32 citations · Soil Carbon

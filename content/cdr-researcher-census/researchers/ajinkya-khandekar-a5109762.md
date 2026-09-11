@@ -1,7 +1,7 @@
 ---
 title: "Ajinkya Khandekar"
 description: "Ajinkya Khandekar is an Early-career Biochar researcher at University of Mumbai in IN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.931040
+date: 2026-09-11T02:38:29.855673
 url: "/cdr-researcher-census/researchers/ajinkya-khandekar-a5109762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 214 |
+| Citations | 233 |
 | Publications | 6 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review of carbon-based adsorbents for the removal of organic and inorganic components** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Adsorption of heavy metal ions by carbon-based adsorbent using magnetic nitrogen-doped carbon and graphene oxide** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Efficient removal of Cr(VI) ions from industrial wastewater using carbon-based adsorbents functionalized with boronic acid** (2024)
    0 citations · Biochar

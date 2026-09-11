@@ -1,7 +1,7 @@
 ---
 title: "Christopher Varela"
-description: "Christopher Varela is a Mid-career General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.459817
+description: "Christopher Varela is a Mid-career General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.400153
 url: "/cdr-researcher-census/researchers/christopher-varela-a5018363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 576 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| Citations | 608 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

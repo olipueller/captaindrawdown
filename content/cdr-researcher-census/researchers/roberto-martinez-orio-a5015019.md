@@ -1,7 +1,7 @@
 ---
 title: "Roberto Martínez-Orío"
 description: "Roberto Martínez-Orío is a Mid-career General CDR researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.256251
+date: 2026-09-11T02:38:30.207723
 url: "/cdr-researcher-census/researchers/roberto-martinez-orio-a5015019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 130 |
+| Citations | 135 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Hubs and clusters approach to unlock the development of carbon capture and storage – Case study in Spain** (2021)
-   97 citations · General CDR
+   101 citations · General CDR
 
 ## External Profiles
 

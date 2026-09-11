@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
-description: "Raphael Apeaning is a Mid-career General CDR researcher at Stony Brook University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.720753
+description: "Raphael Apeaning is a Mid-career General CDR researcher at King Abdullah Petroleum Studies and Research Center in SA. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.665691
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/raphael-apeaning-a5030827/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Stony Brook University"
+    "name": "King Abdullah Petroleum Studies and Research Center"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9318-1546",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Raphael Apeaning**  
-Stony Brook University · 🇺🇸 US
+King Abdullah Petroleum Studies and Research Center · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 315 |
-| Publications | 20 |
-| CDR Focus | 45.0% |
+| Citations | 329 |
+| Publications | 24 |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

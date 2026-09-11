@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
-description: "Dandan Huang is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 80 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.209404
+description: "Dandan Huang is a Senior Soil Carbon researcher at Chongqing University in CN. With 82 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.157267
 url: "/cdr-researcher-census/researchers/dandan-huang-a5032376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dandan-huang-a5032376/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong Agricultural University"
+    "name": "Chongqing University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0630-5994",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dandan Huang**  
-Shandong Agricultural University · 🇨🇳 CN
+Chongqing University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,575 |
-| Publications | 80 |
-| CDR Focus | 6.2% |
+| Citations | 1,633 |
+| Publications | 82 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

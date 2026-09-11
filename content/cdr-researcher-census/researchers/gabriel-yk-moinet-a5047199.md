@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Y.K. Moinet"
-description: "Gabriel Y.K. Moinet is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.280380
+description: "Gabriel Y.K. Moinet is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.226129
 url: "/cdr-researcher-census/researchers/gabriel-yk-moinet-a5047199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,089 |
-| Publications | 54 |
-| CDR Focus | 7.4% |
+| Citations | 1,127 |
+| Publications | 56 |
+| CDR Focus | 8.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon for soils, not soils for carbon** (2023)
-   240 citations · General CDR
+   242 citations · General CDR
 
 2. **The challenge of selecting an appropriate soil organic carbon simulation model: A comprehensive global review and validation assessment** (2023)
-   60 citations · General CDR
+   63 citations · General CDR
 
 3. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
    11 citations · General CDR
@@ -59,10 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Large underestimations of warming-induced soil carbon emissions from oversimplistic Q10 indicator** (2025)
    5 citations
 
-5. **Grounding carbon farming, or how to break the market logic and promote the cocreation of farming systems** (2025)
+5. **SOC storage in coffee production systems - Robust assessment methods, available evidence and research gaps** (2026)
    0 citations · General CDR
 
-6. **Rethinking soil carbon research: beyond the mitigation-centric narrative** (2025)
+6. **Knowledge gaps, research strategies and robust assessment methods for soil organic carbon storage in coffee production systems** (2026)
+   0 citations · Soil Carbon
+
+7. **Grounding carbon farming, or how to break the market logic and promote the cocreation of farming systems** (2025)
+   0 citations · General CDR
+
+8. **Rethinking soil carbon research: beyond the mitigation-centric narrative** (2025)
    0 citations · General CDR
 
 ## External Profiles

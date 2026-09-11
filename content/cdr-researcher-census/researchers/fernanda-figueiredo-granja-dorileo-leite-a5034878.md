@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Figueiredo Granja Dorilêo Leite"
-description: "Fernanda Figueiredo Granja Dorilêo Leite is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707630
+description: "Fernanda Figueiredo Granja Dorilêo Leite is a Mid-career Soil Carbon researcher at Universidade Federal Fluminense in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.652678
 url: "/cdr-researcher-census/researchers/fernanda-figueiredo-granja-dorileo-leite-a5034878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Fernanda Figueiredo Granja Doril\u00eao Leite",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fernanda-figueiredo-granja-dorileo-leite-a5034878/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universidade Federal Fluminense"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-9004-6413",
     "https://openalex.org/A5034878407"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Fernanda Figueiredo Granja Dorilêo Leite**
+**Fernanda Figueiredo Granja Dorilêo Leite**  
+Universidade Federal Fluminense · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -38,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 325 |
-| Publications | 18 |
-| CDR Focus | 27.8% |
+| Citations | 340 |
+| Publications | 19 |
+| CDR Focus | 26.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration, greenhouse gas emissions, and water pollution under different tillage practices** (2022)
-   113 citations · Soil Carbon
+   115 citations · Soil Carbon
 
 2. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   69 citations · General CDR
+   72 citations · General CDR
 
 3. **Greenhouse gas emissions and carbon sequestration associated with Integrated Crop–Livestock–Forestry (ICLF) systems** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 4. **Land use change effect on organic matter dynamics and soil carbon sequestration in the Brazilian Cerrado: A study case in Mato Grosso do Sul state (Midwest-Brazil)** (2024)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Qihui Xu"
-description: "Qihui Xu is a Mid-career Biochar researcher at Yancheng Teachers University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.530634
+description: "Qihui Xu is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.474453
 url: "/cdr-researcher-census/researchers/qihui-xu-a5102961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qihui-xu-a5102961/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yancheng Teachers University"
+    "name": "Harbin Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-4933-3535",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Qihui Xu**  
-Yancheng Teachers University · 🇨🇳 CN
+Harbin Institute of Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 476 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 496 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

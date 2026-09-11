@@ -1,7 +1,7 @@
 ---
 title: "Pedro Paulo de C. Teixeira"
 description: "Pedro Paulo de C. Teixeira is a Mid-career Enhanced Weathering researcher at Technical University of Munich in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.509584
+date: 2026-09-11T02:38:29.440963
 url: "/cdr-researcher-census/researchers/pedro-paulo-de-c-teixeira-a5059196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 501 |
+| Citations | 546 |
 | Publications | 17 |
 | CDR Focus | 11.8% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Mateus Schreiner Garcez Lopes"
 description: "Mateus Schreiner Garcez Lopes is a Senior General CDR researcher at National Nuclear Energy Commission in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.568016
+date: 2026-09-11T02:38:29.526703
 url: "/cdr-researcher-census/researchers/mateus-schreiner-garcez-lopes-a5089392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 438 |
+| Citations | 441 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

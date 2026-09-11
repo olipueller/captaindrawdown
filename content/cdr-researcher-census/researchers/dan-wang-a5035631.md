@@ -1,7 +1,7 @@
 ---
 title: "Dan Wang"
-description: "Dan Wang is a Mid-career Enhanced Weathering researcher at University of Science and Technology Liaoning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332506
+description: "Dan Wang is a Mid-career Enhanced Weathering researcher at Hebei GEO University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.276111
 url: "/cdr-researcher-census/researchers/dan-wang-a5035631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dan-wang-a5035631/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Science and Technology Liaoning"
+    "name": "Hebei GEO University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0437-2381",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dan Wang**  
-University of Science and Technology Liaoning · 🇨🇳 CN
+Hebei GEO University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,16 +42,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 865 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 11 |
+| Citations | 912 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Insight into the impact of biogeochemical reactions of groundwater nitrogen on chemical weathering and carbon cycling** (2024)
-   20 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 ## External Profiles
 

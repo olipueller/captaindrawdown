@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
-description: "Jun Meng is an Eminent Biochar researcher at China Institute of Atomic Energy in CN. With 174 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.084489
+description: "Jun Meng is an Eminent Biochar researcher at Shenyang Agricultural University in CN. With 173 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.036247
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jun-meng-a5100619/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Institute of Atomic Energy"
+    "name": "Shenyang Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7241-637X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jun Meng**  
-China Institute of Atomic Energy · 🇨🇳 CN
+Shenyang Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 46 |
-| Citations | 6,778 |
-| Publications | 174 |
-| CDR Focus | 5.7% |
+| h-index | 47 |
+| Citations | 6,942 |
+| Publications | 173 |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term effects of biochar amendment on soil aggregate stability and biological binding agents in brown earth** (2021)
-   130 citations · Biochar
+   131 citations · Biochar
 
 2. **Responses of soil respiration and C sequestration efficiency to biochar amendment in maize field of Northeast China** (2022)
    55 citations · Biochar
 
 3. **Responses of microbial necromass carbon and microbial community structure to straw- and straw-derived biochar in brown earth soil of Northeast China** (2022)
-   51 citations · Biochar
+   53 citations · Biochar
 
 4. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
    23 citations · Biochar
@@ -75,10 +75,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 9. **Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 10. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

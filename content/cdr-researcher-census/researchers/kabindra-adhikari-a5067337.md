@@ -1,7 +1,7 @@
 ---
 title: "Kabindra Adhikari"
-description: "Kabindra Adhikari is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 113 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.106902
+description: "Kabindra Adhikari is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 116 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.056352
 url: "/cdr-researcher-census/researchers/kabindra-adhikari-a5067337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 29 |
-| Citations | 4,298 |
-| Publications | 113 |
-| CDR Focus | 7.1% |
+| Citations | 4,414 |
+| Publications | 116 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 3. **Soil assessment in Denmark: Towards soil functional mapping and beyond** (2023)
-   26 citations
+   27 citations
 
 4. **Soil carbon sequestration potential of cultivated lands and its controlling factors in China** (2023)
    25 citations · Soil Carbon
 
 5. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon
@@ -71,10 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Soil health and nutrient dynamics in pasturelands: A decadal study on the effects of alternative vs. prevailing grazing management** (2025)
    2 citations · Soil Carbon
 
-8. **Prediction and mapping of soil organic carbon stock via large datasets coupled with pedotransfer functions** (2025)
-   0 citations · Soil Carbon
+8. **Dynamics of soil carbon stock in response to land use conversion in European woodland and shrubland in the last decade** (2025)
+   1 citations · Soil Carbon
 
-9. **Dynamics of soil carbon stock in response to land use conversion in European woodland and shrubland in the last decade** (2025)
+9. **Prediction and mapping of soil organic carbon stock via large datasets coupled with pedotransfer functions** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

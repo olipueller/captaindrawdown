@@ -1,7 +1,7 @@
 ---
 title: "N. C. Nandi"
-description: "N. C. Nandi is a Senior Enhanced Weathering researcher at Bangladesh Council of Scientific and Industrial Research in BD. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.347527
+description: "N. C. Nandi is a Senior Enhanced Weathering researcher at Bangladesh Council of Scientific and Industrial Research in BD. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.323928
 url: "/cdr-researcher-census/researchers/n-c-nandi-a5113688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,14 +41,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 |--------|-------|
 | h-index | 4 |
 | Citations | 113 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Major, trace, and rare earth element geochemistry of the Kuakata beach sand, Bangladesh: Implications for provenance, weathering, tectonic setting and heavy metal contamination** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

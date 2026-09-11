@@ -1,7 +1,7 @@
 ---
 title: "Kelechi E. Anyaoha"
-description: "Kelechi E. Anyaoha is a Mid-career Biochar researcher at Technische Universität Dresden in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.735225
+description: "Kelechi E. Anyaoha is a Mid-career Biochar researcher at Technologiezentrum Dresden (Germany) in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.693567
 url: "/cdr-researcher-census/researchers/kelechi-e-anyaoha-a5075264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kelechi-e-anyaoha-a5075264/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technische Universit\u00e4t Dresden"
+    "name": "Technologiezentrum Dresden (Germany)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8286-6064",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kelechi E. Anyaoha**  
-Technische Universität Dresden · 🇩🇪 DE
+Technologiezentrum Dresden (Germany) · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 307 |
+| Citations | 312 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Yizhu Wu"
-description: "Yizhu Wu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.332488
+description: "Yizhu Wu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.247383
 url: "/cdr-researcher-census/researchers/yizhu-wu-a5038313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 116 |
+| h-index | 7 |
+| Citations | 128 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Modulation of greenhouse gas emissions and soil organic carbon in rice paddies through various crop rotation systems combined with water-saving irrigation: Insights into soil bacterial composition and functional alterations** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

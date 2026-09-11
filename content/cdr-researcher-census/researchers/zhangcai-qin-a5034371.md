@@ -1,7 +1,7 @@
 ---
 title: "Zhangcai Qin"
-description: "Zhangcai Qin is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 149 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.090766
+description: "Zhangcai Qin is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 161 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.039698
 url: "/cdr-researcher-census/researchers/zhangcai-qin-a5034371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 36 |
-| Citations | 5,829 |
-| Publications | 149 |
-| CDR Focus | 8.1% |
+| h-index | 37 |
+| Citations | 6,194 |
+| Publications | 161 |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Global spatially explicit carbon emissions from land-use change over the past six decades (1961–2020)** (2024)
-   79 citations · General CDR
+   82 citations · General CDR
 
 2. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Carbon sequestration in soil and biomass under native and non-native mangrove ecosystems** (2022)
    31 citations · Soil Carbon
 
 4. **Building soil to reduce climate change impacts on global crop yield** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   24 citations · General CDR
+   27 citations · General CDR
 
 6. **Sustainable bioenergy contributes to cost-effective climate change mitigation in China** (2024)
-   18 citations · BECCS
+   19 citations · BECCS
 
 7. **Asynchronous Methane and Carbon Dioxide Fluxes Drive Temporal Variability of Mangrove Blue Carbon Sequestration** (2024)
-   17 citations
+   18 citations
 
 8. **Methane and nitrous oxide emissions and related microbial communities from mangrove stems on Qi'ao Island, Pearl River Estuary in China** (2024)
    13 citations

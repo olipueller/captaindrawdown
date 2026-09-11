@@ -1,7 +1,7 @@
 ---
 title: "Huabing Zheng"
 description: "Huabing Zheng is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.083626
+date: 2026-09-11T02:38:30.052385
 url: "/cdr-researcher-census/researchers/huabing-zheng-a5112279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 172 |
+| Citations | 174 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |

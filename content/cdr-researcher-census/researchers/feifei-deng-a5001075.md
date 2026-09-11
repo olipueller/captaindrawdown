@@ -1,7 +1,7 @@
 ---
 title: "Feifei Deng"
 description: "Feifei Deng is a Senior Enhanced Weathering researcher at National Oceanography Centre in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.312189
+date: 2026-09-11T02:38:29.262874
 url: "/cdr-researcher-census/researchers/feifei-deng-a5001075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 947 |
+| Citations | 965 |
 | Publications | 31 |
 | CDR Focus | 19.4% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Impact of Basalt Rock Powder on Ryegrass Growth and Nutrition on Sandy and Loamy Acid Soils** (2025)
-   3 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 2. **Enhanced Rock Weathering field trials at an upland grassland, Wales, UK: an assessment of carbon dioxide removal and ecological co-benefits.** (2025)
    0 citations · Enhanced Weathering

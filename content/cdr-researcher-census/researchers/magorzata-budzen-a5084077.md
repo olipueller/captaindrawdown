@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Budzeń"
 description: "Małgorzata Budzeń is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.128308
+date: 2026-09-11T02:38:30.083087
 url: "/cdr-researcher-census/researchers/magorzata-budzen-a5084077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 160 |
+| Citations | 166 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of moisture content variation on dielectric properties of seeds of multipurpose species in 20 MHz-3 GHz frequency range** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

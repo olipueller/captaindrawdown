@@ -1,7 +1,7 @@
 ---
 title: "Ayooluwa Tomiwa Akintola"
 description: "Ayooluwa Tomiwa Akintola is a Mid-career Biochar researcher at Media and Process Technology (United States) in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.397614
+date: 2026-09-11T02:38:30.354338
 url: "/cdr-researcher-census/researchers/ayooluwa-tomiwa-akintola-a5027954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 104 |
+| Citations | 107 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving Pharmaceuticals Removal at Wastewater Treatment Plants Using Biochar: A Review** (2023)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

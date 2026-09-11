@@ -1,7 +1,7 @@
 ---
 title: "Łukasz Musielok"
-description: "Łukasz Musielok is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.576314
+description: "Łukasz Musielok is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.529570
 url: "/cdr-researcher-census/researchers/ukasz-musielok-a5078498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 431 |
-| Publications | 38 |
-| CDR Focus | 15.8% |
+| Citations | 439 |
+| Publications | 39 |
+| CDR Focus | 12.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,19 +53,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Impact of vegetation type on the content and spectroscopic properties of soil organic matter in the subalpine zone of the Bieszczady Mountains (Eastern Carpathians)** (2024)
    4 citations · Soil Carbon
 
-2. **Soil type matters: forest succession and soil organic matter stability in the Gorce Mountains (S Poland)** (2026)
-   0 citations · Soil Carbon
+2. **Stabilization of organic matter in topsoils under different tundra vegetation in Central Spitsbergen (high Arctic)** (2026)
+   1 citations · Soil Carbon
 
-3. **Stabilization of organic matter in topsoils under different tundra vegetation in Central Spitsbergen (high Arctic)** (2026)
+3. **Soil type matters: forest succession and soil organic matter stability in the Gorce Mountains (S Poland)** (2026)
    0 citations · Soil Carbon
 
 4. **Stabilization of organic matter in topsoils under different tundra vegetation in central Spitsbergen (High Arctic)** (2025)
+   0 citations
+
+5. **Stabilization of organic matter in topsoils under different tundra vegetation in central Spitsbergen (High Arctic)** (2025)
    0 citations · Soil Carbon
 
-5. **Change in soil organic carbon content in European mountain forests based on LUCAS soil databases 2009-2018** (2023)
+6. **Change in soil organic carbon content in European mountain forests based on LUCAS soil databases 2009-2018** (2023)
    0 citations · General CDR
 
-6. **The role of soil-forming processes and changes in land cover in the storage and stabilization of soil organic carbon - preliminary results from the Carpathians (Southern Poland)** (2023)
+7. **The role of soil-forming processes and changes in land cover in the storage and stabilization of soil organic carbon - preliminary results from the Carpathians (Southern Poland)** (2023)
    0 citations · General CDR
 
 ## External Profiles

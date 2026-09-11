@@ -1,7 +1,7 @@
 ---
 title: "Jin-Ju Yun"
-description: "Jin-Ju Yun is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.702830
+description: "Jin-Ju Yun is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.650467
 url: "/cdr-researcher-census/researchers/jin-ju-yun-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 329 |
-| Publications | 40 |
-| CDR Focus | 5.0% |
+| Citations | 341 |
+| Publications | 41 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
+1. **Effect of Different Type of Organic Matter Application on Rice Yield and Soil Organic Carbon Stock in Paddy Soil** (2024)
+   3 citations · Soil Carbon
+
+2. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
    1 citations · Soil Carbon
 
-2. **Effects of Food Waste-Mixed Pellet Compost on Soil Carbon Form and Growth of Kimchi Cabbage (Brassica rapa L.) in Upland Field** (2025)
+3. **Effects of Food Waste-Mixed Pellet Compost on Soil Carbon Form and Growth of Kimchi Cabbage (Brassica rapa L.) in Upland Field** (2025)
    0 citations · Biochar
 
 ## External Profiles

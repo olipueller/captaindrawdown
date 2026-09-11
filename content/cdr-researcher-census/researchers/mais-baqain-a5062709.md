@@ -1,7 +1,7 @@
 ---
 title: "Mais Baqain"
 description: "Mais Baqain is a Mid-career BECCS researcher at Tallinn University of Technology in EE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911539
+date: 2026-09-11T02:38:29.860743
 url: "/cdr-researcher-census/researchers/mais-baqain-a5062709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 221 |
+| Citations | 231 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

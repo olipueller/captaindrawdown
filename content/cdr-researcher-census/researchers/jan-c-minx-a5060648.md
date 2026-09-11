@@ -1,7 +1,7 @@
 ---
 title: "Jan C. Minx"
-description: "Jan C. Minx is an Eminent General CDR researcher at University of Leeds in GB. With 264 publications and an h-index of 74, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.062219
+description: "Jan C. Minx is an Eminent General CDR researcher at University of Leeds in GB. With 266 publications and an h-index of 74, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.015130
 url: "/cdr-researcher-census/researchers/jan-c-minx-a5060648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,39 +43,39 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 74 |
-| Citations | 30,092 |
-| Publications | 264 |
-| CDR Focus | 6.4% |
+| Citations | 31,125 |
+| Publications | 266 |
+| CDR Focus | 7.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   86 citations
+   91 citations
 
 2. **Quantifying global carbon dioxide removal deployment** (2023)
    57 citations · DAC
 
 3. **Technological innovation enables low cost climate change mitigation** (2023)
-   54 citations · General CDR
+   56 citations · General CDR
 
 4. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    47 citations · General CDR
 
-5. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
-   41 citations · General CDR
+5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
+   45 citations · General CDR
 
-6. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+6. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
+   42 citations · General CDR
 
 7. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+   36 citations · General CDR
 
 8. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 9. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 10. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR

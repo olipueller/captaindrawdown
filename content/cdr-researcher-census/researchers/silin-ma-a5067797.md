@@ -1,7 +1,7 @@
 ---
 title: "Silin Ma"
 description: "Silin Ma is a Mid-career Soil Carbon researcher at Oklahoma State Department of Health in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.695544
+date: 2026-09-11T02:38:29.599197
 url: "/cdr-researcher-census/researchers/silin-ma-a5067797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 334 |
+| Citations | 378 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Protists regulate microbially mediated organic carbon turnover in soil aggregates** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Repeated labile carbon inputs trigger soil microbial necromass decomposition through increasing microbial diversity and hierarchical interactions** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

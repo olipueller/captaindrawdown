@@ -1,7 +1,7 @@
 ---
 title: "Jader Alean"
 description: "Jader Alean is a Senior Biochar researcher at Popular University of Cesar in CO. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.995605
+date: 2026-09-11T02:38:29.915119
 url: "/cdr-researcher-census/researchers/jader-alean-a5063444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 198 |
+| Citations | 211 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Experimental strategy for the preparation of adsorbent materials from torrefied palm kernel shell oriented to CO2 capture** (2024)
-   10 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

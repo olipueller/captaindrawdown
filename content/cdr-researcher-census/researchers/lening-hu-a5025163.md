@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
-description: "Lening Hu is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.637752
+description: "Lening Hu is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.562273
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 376 |
-| Publications | 48 |
-| CDR Focus | 35.4% |
+| h-index | 13 |
+| Citations | 407 |
+| Publications | 52 |
+| CDR Focus | 32.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effects of magnesium-modified biochar on soil organic carbon mineralization in citrus orchard** (2023)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Effects of Orange Peel Biochar and Cipangopaludina chinensis Shell Powder on Soil Organic Carbon Transformation in Citrus Orchards** (2023)
    19 citations · Biochar
 
-3. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
+3. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
+   13 citations · Biochar
+
+4. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
    12 citations · Biochar
 
-4. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
-   12 citations · Biochar
-
-5. **Effects of Biochar on Soil Organic Carbon Mineralization in Citrus Orchards** (2024)
+5. **Improving soil carbon sequestration stability in Siraitia grosvenorii farmland through co-application of rice straw and its biochar** (2024)
    11 citations · Biochar
 
-6. **Improving soil carbon sequestration stability in Siraitia grosvenorii farmland through co-application of rice straw and its biochar** (2024)
-   10 citations · Biochar
+6. **Effects of Biochar on Soil Organic Carbon Mineralization in Citrus Orchards** (2024)
+   11 citations · Biochar
 
 7. **Phosphorus-modified biochar regulates CO2 emissions and bacterial communities in an incubation study of manganese-contaminated soils** (2025)
    7 citations · Biochar
 
 8. **Bamboo charcoal application altered the mineralization process of soil organic carbon in different succession stages of karst forest land** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 9. **Potential of Calcium-Modified Biochar for Soil Nutrient and Carbon Sequestration in Citrus Orchards** (2024)
    4 citations · Biochar
 
-10. **Carbon Sequestration by Potassium-Modified Bagasse Biochar in Manganese-Contaminated Sugarcane Field Soils** (2024)
-   2 citations · Biochar
+10. **Influence of Lithology on the Stability of Organic Carbon in Typical Soils of Karst in Northwest China** (2024)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Djasmine Mastisya Saharudin"
 description: "Djasmine Mastisya Saharudin is an Early-career General CDR researcher at University of Manchester in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.974646
+date: 2026-09-11T02:38:29.903109
 url: "/cdr-researcher-census/researchers/djasmine-mastisya-saharudin-a5071508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 205 |
+| Citations | 216 |
 | Publications | 6 |
 | CDR Focus | 66.7% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Environmental sustainability of negative emissions technologies: A review** (2022)
-   105 citations · General CDR
+   106 citations · General CDR
 
 2. **Biochar from agricultural wastes: Environmental sustainability, economic viability and the potential as a negative emissions technology in Malaysia** (2024)
-   54 citations · Biochar
+   56 citations · Biochar
 
 3. **Bioenergy with carbon capture and storage (BECSS): Life cycle environmental and economic assessment of electricity generated from palm oil wastes** (2023)
-   43 citations · BECCS
+   46 citations · BECCS
 
 4. **Building with biomass using tropical timber as a negative emissions technology (NET): Sustainability assessment, comparison with other bio-based NETs and their potential in Malaysia** (2025)
    1 citations · BECCS

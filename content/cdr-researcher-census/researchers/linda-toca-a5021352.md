@@ -1,7 +1,7 @@
 ---
 title: "Linda Toča"
 description: "Linda Toča is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.123721
+date: 2026-09-11T02:38:30.054144
 url: "/cdr-researcher-census/researchers/linda-toca-a5021352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 161 |
+| Citations | 174 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Aasif Ali Gatoo"
 description: "Aasif Ali Gatoo is a Mid-career Soil Carbon researcher at Department of Forestry in MW. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.413140
+date: 2026-09-11T02:38:30.345496
 url: "/cdr-researcher-census/researchers/aasif-ali-gatoo-a5020309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 102 |
+| Citations | 109 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Sigit D. Sasmito"
-description: "Sigit D. Sasmito is a Senior Soil Carbon researcher at James Cook University in AU. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.129527
+description: "Sigit D. Sasmito is a Senior Soil Carbon researcher at James Cook University in AU. With 79 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.078505
 url: "/cdr-researcher-census/researchers/sigit-d-sasmito-a5039454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 3,171 |
+| h-index | 23 |
+| Citations | 3,294 |
 | Publications | 79 |
 | CDR Focus | 8.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   244 citations · General CDR
+   254 citations · General CDR
 
 2. **Carbon Stock and CO2 Fluxes in Various Land Covers in Karang Gading and Langkat Timur Laut Wildlife Reserve, North Sumatra, Indonesia** (2023)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Weicheng Li"
-description: "Weicheng Li is a Senior Biochar researcher at East China University of Science and Technology in CN. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.615049
+description: "Weicheng Li is a Senior Biochar researcher at Anhui Agricultural University in CN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.559139
 url: "/cdr-researcher-census/researchers/weicheng-li-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weicheng-li-a5101816/",
   "affiliation": {
     "@type": "Organization",
-    "name": "East China University of Science and Technology"
+    "name": "Anhui Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7123-7721",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Weicheng Li**  
-East China University of Science and Technology · 🇨🇳 CN
+Anhui Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 394 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 410 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Magnetic mesoporous corncob biochar for tetracycline adsorption: 2D-FTIR-COS analysis and quantitative mechanistic insight** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Unveiling the critical role of functional groups in pristine biochar for photocatalytic Cr(VI) remediation under visible light** (2025)
    5 citations · Biochar

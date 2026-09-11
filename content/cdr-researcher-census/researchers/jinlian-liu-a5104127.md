@@ -1,7 +1,7 @@
 ---
 title: "Jinlian Liu"
-description: "Jinlian Liu is a Mid-career Soil Carbon researcher at Chongqing Academy of Forestry in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.502555
+description: "Jinlian Liu is a Mid-career Soil Carbon researcher at Chongqing Academy of Forestry in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.445099
 url: "/cdr-researcher-census/researchers/jinlian-liu-a5104127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 511 |
-| Publications | 17 |
-| CDR Focus | 17.6% |
+| h-index | 10 |
+| Citations | 537 |
+| Publications | 18 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The increased soil aggregate stability and aggregate-associated carbon by farmland use change in a karst region of Southwest China** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Afforestation influences soil organic carbon and its fractions associated with aggregates in a karst region of Southwest China** (2021)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 3. **Effects of Water-Level Fluctuation on Soil Aggregates and Aggregate-Associated Organic Carbon in the Water-Level Fluctuation Zone of the Three Gorges Reservoir, China** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

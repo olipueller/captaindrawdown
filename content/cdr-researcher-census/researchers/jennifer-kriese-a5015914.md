@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kriese"
-description: "Jennifer Kriese is a Mid-career Soil Carbon researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.834333
+description: "Jennifer Kriese is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.782869
 url: "/cdr-researcher-census/researchers/jennifer-kriese-a5015914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jennifer Kriese",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jennifer-kriese-a5015914/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-0369-5819",
     "https://openalex.org/A5015914275"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jennifer Kriese**  
-Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) · 🇩🇪 DE
+**Jennifer Kriese**
 
 **Career Stage:** Mid-career
 
@@ -43,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 255 |
+| Citations | 267 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hedgerow map of Bavaria, Germany, based on orthophotos and convolutional neural networks** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

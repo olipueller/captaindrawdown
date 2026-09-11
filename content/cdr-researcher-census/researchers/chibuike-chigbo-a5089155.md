@@ -1,7 +1,7 @@
 ---
 title: "Chibuike Chigbo"
 description: "Chibuike Chigbo is a Mid-career Soil Carbon researcher at Northern Alberta Institute of Technology in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.761034
+date: 2026-09-11T02:38:29.727248
 url: "/cdr-researcher-census/researchers/chibuike-chigbo-a5089155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 293 |
+| Citations | 295 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Kammann"
-description: "Claudia Kammann is an Eminent Biochar researcher at Hochschule Geisenheim University in DE. With 197 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.069526
+description: "Claudia Kammann is an Eminent Biochar researcher at Hochschule Geisenheim University in DE. With 195 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.022445
 url: "/cdr-researcher-census/researchers/claudia-kammann-a5061014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,39 +43,39 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 56 |
-| Citations | 15,001 |
-| Publications | 197 |
-| CDR Focus | 10.7% |
+| Citations | 15,369 |
+| Publications | 195 |
+| CDR Focus | 10.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   895 citations · Biochar
+   923 citations · Biochar
 
 2. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   464 citations · Biochar
+   480 citations · Biochar
 
 3. **Potential of Land‐Neutral Negative Emissions Through Biochar Sequestration** (2022)
-   31 citations · Biochar
+   33 citations · Biochar
 
 4. **Acidified manure and nitrogen-enriched biochar showed short-term agronomic benefits on cotton–wheat cropping systems under alkaline arid field conditions** (2023)
    20 citations · Biochar
 
 5. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 6. **Biochar Permanence—A Policy Commentary** (2025)
    12 citations · Biochar
 
 7. **Biochar for durable carbon removal: soil erosion reduction as a key mechanism** (2026)
+   8 citations · Biochar
+
+8. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    7 citations · Biochar
 
-8. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
+9. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
-
-9. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
-   6 citations · Biochar
 
 10. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    3 citations · Biochar

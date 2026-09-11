@@ -1,7 +1,7 @@
 ---
 title: "Benshuai Yan"
 description: "Benshuai Yan is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.543654
+date: 2026-09-11T02:38:29.485176
 url: "/cdr-researcher-census/researchers/benshuai-yan-a5068890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 463 |
+| Citations | 485 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of organic and chemical fertilizers promoted the accumulation of soil organic carbon in farmland on the Loess Plateau** (2022)
-   20 citations
+   21 citations
 
 2. **Long‐Term Nitrogen and Phosphorus Fertilization Promote Organic Carbon Sequestration in Agricultural Soils by Regulating Crop Root Exudates and Carbon Functional Gene Abundance** (2025)
    3 citations · Soil Carbon

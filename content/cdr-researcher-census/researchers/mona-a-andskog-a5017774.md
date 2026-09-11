@@ -1,7 +1,7 @@
 ---
 title: "Mona A. Andskog"
-description: "Mona A. Andskog is a Mid-career Ocean CDR researcher at Southern Cross University in AU. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085300
+description: "Mona A. Andskog is a Mid-career Ocean CDR researcher at Southern Cross University in AU. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.033284
 url: "/cdr-researcher-census/researchers/mona-a-andskog-a5017774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 171 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| h-index | 5 |
+| Citations | 179 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fucoid brown algae inject fucoidan carbon into the ocean** (2022)
-   102 citations · Ocean CDR
+   105 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuo Wang"
-description: "Shuo Wang is a Senior Soil Carbon researcher at Jiangnan University in CN. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.222889
+description: "Shuo Wang is a Senior Soil Carbon researcher at Jiangnan University in CN. With 71 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.174326
 url: "/cdr-researcher-census/researchers/shuo-wang-a5101852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 23 |
-| Citations | 1,450 |
-| Publications | 72 |
-| CDR Focus | 8.3% |
+| Citations | 1,463 |
+| Publications | 71 |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Ocean CDR
 
 2. **Unveiling the top-down control of soil viruses over microbial communities and soil organic carbon cycling: A review** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Necessity of stirring for outdoor microalgal-bacterial granular sludge process** (2023)
-   15 citations
+   17 citations
 
 4. **Soil viruses reduce greenhouse gas emissions and promote microbial necromass accrual** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Synergistic enhancement of sewage contaminants removal and crop growth through wood chip biochar associate with microbial nutrient stimulants from sludge anaerobic digestate** (2026)
    0 citations · Biochar

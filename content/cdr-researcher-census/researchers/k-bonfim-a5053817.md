@@ -1,7 +1,7 @@
 ---
 title: "K. Bonfim"
 description: "K. Bonfim is a Senior General CDR researcher at Brazilian Agricultural Research Corporation in BR. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.669386
+date: 2026-09-11T02:38:29.630700
 url: "/cdr-researcher-census/researchers/k-bonfim-a5053817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 352 |
+| Citations | 355 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

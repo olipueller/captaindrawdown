@@ -1,7 +1,7 @@
 ---
 title: "Shrey K. Patel"
-description: "Shrey K. Patel is an Early-career DAC researcher at Indian Institute of Technology Madras in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.408012
+description: "Shrey K. Patel is an Early-career DAC researcher at University of Pennsylvania in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.327662
 url: "/cdr-researcher-census/researchers/shrey-k-patel-a5102900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shrey-k-patel-a5102900/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Technology Madras"
+    "name": "University of Pennsylvania"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8135-6946",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shrey K. Patel**  
-Indian Institute of Technology Madras · 🇮🇳 IN
+University of Pennsylvania · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 102 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 112 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Review on the Recent Scientific and Commercial Progress on the Direct Air Capture Technology to Manage Atmospheric CO<sub>2</sub> Concentrations and Future Perspectives** (2023)
-   90 citations · DAC
+   95 citations · DAC
 
 2. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations

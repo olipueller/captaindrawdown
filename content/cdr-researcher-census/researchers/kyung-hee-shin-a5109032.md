@@ -1,7 +1,7 @@
 ---
 title: "Kyung-Hee Shin"
 description: "Kyung-Hee Shin is a Mid-career Soil Carbon researcher at Korea Environment Institute in KR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.836086
+date: 2026-09-11T02:38:29.805098
 url: "/cdr-researcher-census/researchers/kyung-hee-shin-a5109032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 254 |
+| Citations | 256 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of potential topsoil organic carbon loss due to industrial complex development: Implications for topsoil conservation in South Korea** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

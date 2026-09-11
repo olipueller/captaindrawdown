@@ -1,7 +1,7 @@
 ---
 title: "Marzia Traverso"
 description: "Marzia Traverso is a Mid-career DAC researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.011212
+date: 2026-09-11T02:38:29.951805
 url: "/cdr-researcher-census/researchers/marzia-traverso-a5042653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 193 |
+| Citations | 204 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Zefang Shen"
-description: "Zefang Shen is a Mid-career Soil Carbon researcher at Curtin University in AU. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.429447
+description: "Zefang Shen is a Mid-career Soil Carbon researcher at Curtin University in AU. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.370219
 url: "/cdr-researcher-census/researchers/zefang-shen-a5059979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 629 |
+| h-index | 13 |
+| Citations | 664 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How much organic carbon could the soil store? The carbon sequestration potential of Australian soil** (2023)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Deep learning of the particulate and mineral-associated organic carbon fractions using a compositional transform and mid-infrared spectroscopy** (2025)
    13 citations · General CDR

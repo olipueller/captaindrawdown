@@ -1,7 +1,7 @@
 ---
 title: "Khatereh Nobaharan"
 description: "Khatereh Nobaharan is a Mid-career Biochar researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537551
+date: 2026-09-11T02:38:29.484403
 url: "/cdr-researcher-census/researchers/khatereh-nobaharan-a5047508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 468 |
+| Citations | 485 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Phosphorus Removal from Wastewater: The Potential Use of Biochar and the Key Controlling Factors** (2021)
-   123 citations · Biochar
+   124 citations · Biochar
 
 2. **Removal of pharmaceuticals and personal care products from water and wastewater through biological processes: an overview** (2022)
    7 citations

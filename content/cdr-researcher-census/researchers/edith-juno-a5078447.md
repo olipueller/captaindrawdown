@@ -1,7 +1,7 @@
 ---
 title: "Edith Juno"
-description: "Edith Juno is a Mid-career General CDR researcher at National Wildlife Federation in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417337
+description: "Edith Juno is a Mid-career General CDR researcher at National Wildlife Federation in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.380864
 url: "/cdr-researcher-census/researchers/edith-juno-a5078447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 101 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 103 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

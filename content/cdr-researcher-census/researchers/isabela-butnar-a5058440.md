@@ -1,7 +1,7 @@
 ---
 title: "Isabela Butnar"
-description: "Isabela Butnar is a Senior General CDR researcher at University College, London in GB. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.187749
+description: "Isabela Butnar is a Senior General CDR researcher at University College, London in GB. With 104 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.131064
 url: "/cdr-researcher-census/researchers/isabela-butnar-a5058440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,813 |
-| Publications | 56 |
-| CDR Focus | 17.9% |
-| Trajectory | Stable |
+| h-index | 22 |
+| Citations | 1,941 |
+| Publications | 104 |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon accounting of negative emissions technologies integrated in the life cycle of spirulina supplements** (2023)
-   10 citations · BECCS
+   12 citations · BECCS
 
 2. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
    8 citations · General CDR
@@ -59,26 +59,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Economic feasibility of low-carbon ethylene, propylene and jet fuel production** (2025)
    6 citations · General CDR
 
-4. **Can UK traditional cider production achieve net zero greenhouse gas emissions by 2050? A prospective life cycle assessment of transition pathways** (2026)
+4. **Accounting for non-equivalence of carbon emissions and removals in meeting national net zero emissions targets in the United Kingdom** (2026)
+   0 citations
+
+5. **Can UK traditional cider production achieve net zero greenhouse gas emissions by 2050? A prospective life cycle assessment of transition pathways** (2026)
    0 citations · Biochar
 
-5. **Alignment of Sustainable Development Goals in the Voluntary Carbon Market: Socio-ecological benefits and barriers for achieving climate goals and net zero** (2026)
+6. **Alignment of Sustainable Development Goals in the Voluntary Carbon Market: Socio-ecological benefits and barriers for achieving climate goals and net zero** (2026)
    0 citations · General CDR
 
-6. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
+7. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
    0 citations · DAC
 
-7. **Geological Net Zero as policy to address the non-inequivalence of carbon emissions and removals in meeting national zero-emission targets in the United Kingdom ** (2026)
+8. **Geological Net Zero as policy to address the non-inequivalence of carbon emissions and removals in meeting national zero-emission targets in the United Kingdom ** (2026)
    0 citations · General CDR
 
-8. **Alignment of international standards for carbon dioxide removal (CDR) using Carbon Capture and Storage (CCS): Comparative analysis of the EU Carbon Removal and Carbon Farming (CRCF) Regulation against the Integrity Council for the Voluntary Carbon Market (ICVCM) and Article 6.4 of the Paris Agreement** (2025)
+9. **Alignment of international standards for carbon dioxide removal (CDR) using Carbon Capture and Storage (CCS): Comparative analysis of the EU Carbon Removal and Carbon Farming (CRCF) Regulation against the Integrity Council for the Voluntary Carbon Market (ICVCM) and Article 6.4 of the Paris Agreement** (2025)
    0 citations · BECCS
 
-9. **Economic Feasibility of Low-Carbon Ethylene, Propylene and Jet Fuel Production** (2024)
+10. **Economic Feasibility of Low-Carbon Ethylene, Propylene and Jet Fuel Production** (2024)
    0 citations · General CDR
-
-10. **Carbon Accounting of Negative Emissions Technologies Integrated in the Life Cycle of Spirulina Supplements** (2023)
-   0 citations · BECCS
 
 ## External Profiles
 

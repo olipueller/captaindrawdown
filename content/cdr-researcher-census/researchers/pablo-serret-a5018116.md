@@ -1,7 +1,7 @@
 ---
 title: "Pablo Serret"
-description: "Pablo Serret is a Senior Ocean CDR researcher at Universidad de Vigo in ES. With 79 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.178970
+description: "Pablo Serret is a Senior Ocean CDR researcher at Universidad de Vigo in ES. With 80 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.130144
 url: "/cdr-researcher-census/researchers/pablo-serret-a5018116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 1,944 |
-| Publications | 79 |
-| CDR Focus | 5.1% |
-| Trajectory | Exiting |
+| Citations | 1,958 |
+| Publications | 80 |
+| CDR Focus | 6.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -59,7 +59,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
-4. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
+4. **Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem** (2026)
+   0 citations · Ocean CDR
+
+5. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

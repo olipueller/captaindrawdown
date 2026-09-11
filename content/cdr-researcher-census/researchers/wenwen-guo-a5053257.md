@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Guo"
 description: "Wenwen Guo is a Mid-career Biochar researcher at Tibet University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.642789
+date: 2026-09-11T02:38:29.564310
 url: "/cdr-researcher-census/researchers/wenwen-guo-a5053257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 372 |
+| Citations | 406 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    49 citations · Biochar
 
 2. **Global Critical Drought Thresholds of Terrestrial Carbon Sink–Source Transition** (2025)
-   24 citations
+   29 citations
 
 ## External Profiles
 

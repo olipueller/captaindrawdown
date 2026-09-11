@@ -1,7 +1,7 @@
 ---
 title: "Qinggui Wang"
 description: "Qinggui Wang is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 112 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.149233
+date: 2026-09-11T02:38:29.102228
 url: "/cdr-researcher-census/researchers/qinggui-wang-a5064902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,495 |
+| Citations | 2,468 |
 | Publications | 112 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
+1. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
    30 citations · Soil Carbon
 
-2. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   28 citations · Soil Carbon
+2. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
+   30 citations · Soil Carbon
 
 3. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 5. **Exogenous Organic C Inputs Profit Soil C Sequestration Under Different Long-Term N Addition Levels in a Boreal Forest** (2023)
    6 citations · Soil Carbon
@@ -69,7 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
+
+8. **Vertical stratification of microbial necromass carbon and soil organic carbon fractions during natural secondary succession in temperate forests** (2026)
+   0 citations
 
 ## External Profiles
 

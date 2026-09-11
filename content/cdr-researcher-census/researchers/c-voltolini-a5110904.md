@@ -1,7 +1,7 @@
 ---
 title: "C. Voltolini"
-description: "C. Voltolini is a Senior General CDR researcher at Ecological Society of America in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.198750
+description: "C. Voltolini is a Senior General CDR researcher at University of Siena in IT. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.146785
 url: "/cdr-researcher-census/researchers/c-voltolini-a5110904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/c-voltolini-a5110904/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ecological Society of America"
+    "name": "University of Siena"
   },
   "sameAs": "https://openalex.org/A5110904992"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **C. Voltolini**  
-Ecological Society of America · 🇺🇸 US
+University of Siena · 🇮🇹 IT
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 142 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 149 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

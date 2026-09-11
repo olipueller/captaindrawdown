@@ -1,7 +1,7 @@
 ---
 title: "Jingyi Feng"
-description: "Jingyi Feng is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423502
+description: "Jingyi Feng is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.344542
 url: "/cdr-researcher-census/researchers/jingyi-feng-a5101829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 638 |
-| Publications | 47 |
-| CDR Focus | 10.6% |
+| h-index | 16 |
+| Citations | 720 |
+| Publications | 48 |
+| CDR Focus | 10.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations
 
 2. **Goethite introduction strengthens balck soil carbon sequestration under various water management conditions and its microbial mechanisms** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Mechanistic elucidation of citric acid-modified biochar-mediated atrazine degradation and drift risk mitigation in maize rhizosphere soil** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 4. **Effects of Severe Wind Erosion on <scp>SOC</scp> Pools Under Different Long‐Term Land Use Types on Arid Sandy Soil** (2025)
    1 citations · Soil Carbon

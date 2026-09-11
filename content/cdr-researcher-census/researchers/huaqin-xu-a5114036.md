@@ -1,7 +1,7 @@
 ---
 title: "Huaqin Xu"
-description: "Huaqin Xu is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.691411
+description: "Huaqin Xu is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.636867
 url: "/cdr-researcher-census/researchers/huaqin-xu-a5114036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 337 |
-| Publications | 23 |
-| CDR Focus | 13.0% |
+| h-index | 11 |
+| Citations | 350 |
+| Publications | 24 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

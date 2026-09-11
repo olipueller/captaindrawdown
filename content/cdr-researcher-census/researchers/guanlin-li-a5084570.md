@@ -1,7 +1,7 @@
 ---
 title: "Guanlin Li"
-description: "Guanlin Li is a Mid-career Soil Carbon researcher at Changchun University of Science and Technology in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.503022
+description: "Guanlin Li is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.424587
 url: "/cdr-researcher-census/researchers/guanlin-li-a5084570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/guanlin-li-a5084570/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Changchun University of Science and Technology"
+    "name": "Jiangsu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9952-1150",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Guanlin Li**  
-Changchun University of Science and Technology · 🇨🇳 CN
+Jiangsu University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 510 |
-| Publications | 30 |
-| CDR Focus | 13.3% |
+| h-index | 12 |
+| Citations | 572 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Soil Carbon
 
 2. **Unraveling the ecological threads: How invasive alien plants influence soil carbon dynamics** (2024)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
    12 citations · Biochar
 
 4. **Biochar and iron minerals facilitate the reduction of pollution and sequestration of carbon in chloramphenicol-contaminated soil under dry conditions** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

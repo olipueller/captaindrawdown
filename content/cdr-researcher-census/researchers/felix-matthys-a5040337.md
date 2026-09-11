@@ -1,7 +1,7 @@
 ---
 title: "Felix Matthys"
 description: "Felix Matthys is a Mid-career General CDR researcher at Instituto Tecnológico Autónomo de México in MX. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.172695
+date: 2026-09-11T02:38:30.129627
 url: "/cdr-researcher-census/researchers/felix-matthys-a5040337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 148 |
+| Citations | 153 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

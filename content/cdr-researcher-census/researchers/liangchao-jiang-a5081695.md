@@ -1,7 +1,7 @@
 ---
 title: "Liangchao Jiang"
-description: "Liangchao Jiang is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.104619
+description: "Liangchao Jiang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.065650
 url: "/cdr-researcher-census/researchers/liangchao-jiang-a5081695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liangchao-jiang-a5081695/",
   "affiliation": {
     "@type": "Organization",
-    "name": "First Affiliated Hospital of Xi'an Jiaotong University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6511-2332",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Liangchao Jiang**  
-First Affiliated Hospital of Xi'an Jiaotong University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 166 |
-| Publications | 22 |
-| CDR Focus | 18.2% |
+| Citations | 171 |
+| Publications | 25 |
+| CDR Focus | 16.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon formation in grassland ecosystems: Higher efficiency of roots than shoots and rhizodeposition** (2025)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Labile carbon inputs offset nitrogen-induced soil aggregate destabilization via enhanced growth of saprophytic fungi in a meadow steppe** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Greater soil microbial biomass loss at low frequency of N addition in an Inner Mongolia grassland** (2022)
    12 citations · Soil Carbon

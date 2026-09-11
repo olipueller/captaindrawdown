@@ -1,7 +1,7 @@
 ---
 title: "Zhenjie Zhang"
 description: "Zhenjie Zhang is a Mid-career Biochar researcher at Xinjiang Institute of Engineering in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.712121
+date: 2026-09-11T02:38:29.661069
 url: "/cdr-researcher-census/researchers/zhenjie-zhang-a5110181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 322 |
+| Citations | 333 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |

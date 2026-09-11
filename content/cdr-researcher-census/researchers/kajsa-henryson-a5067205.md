@@ -1,7 +1,7 @@
 ---
 title: "Kajsa Henryson"
 description: "Kajsa Henryson is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.843764
+date: 2026-09-11T02:38:29.795271
 url: "/cdr-researcher-census/researchers/kajsa-henryson-a5067205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 250 |
+| Citations | 261 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

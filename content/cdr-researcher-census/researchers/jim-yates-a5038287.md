@@ -1,7 +1,7 @@
 ---
 title: "Jim Yates"
 description: "Jim Yates is a Senior General CDR researcher at The Nature Conservancy in US. With 24 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.608640
+date: 2026-09-11T02:38:29.557622
 url: "/cdr-researcher-census/researchers/jim-yates-a5038287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 399 |
+| Citations | 411 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advancing carbon monitoring technologies in forests and woody crops: a review for carbon farming** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 2. **The complexity of carbon flow of the terrestrial biosphere: challenging questions and new scale of observations** (2024)
    0 citations · General CDR

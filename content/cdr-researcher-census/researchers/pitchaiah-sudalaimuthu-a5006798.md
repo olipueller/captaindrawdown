@@ -1,7 +1,7 @@
 ---
 title: "Pitchaiah Sudalaimuthu"
-description: "Pitchaiah Sudalaimuthu is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.934388
+description: "Pitchaiah Sudalaimuthu is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.845563
 url: "/cdr-researcher-census/researchers/pitchaiah-sudalaimuthu-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 213 |
+| h-index | 9 |
+| Citations | 238 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Plastic waste as an alternative sustainable fuel in internal combustion (IC) engines – A comprehensive review** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

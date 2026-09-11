@@ -1,7 +1,7 @@
 ---
 title: "Ana Pereira"
-description: "Ana Pereira is a Mid-career DAC researcher at Universidade do Porto in PT. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.620787
+description: "Ana Pereira is a Mid-career DAC researcher at Universidade do Porto in PT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.562057
 url: "/cdr-researcher-census/researchers/ana-pereira-a5039779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 390 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 407 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Current Developments of Carbon Capture Storage and/or Utilization–Looking for Net-Zero Emissions Defined in the Paris Agreement** (2021)
-   102 citations · DAC
+   103 citations · DAC
 
 ## External Profiles
 

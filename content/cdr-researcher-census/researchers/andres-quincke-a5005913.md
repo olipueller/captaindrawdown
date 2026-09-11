@@ -1,7 +1,7 @@
 ---
 title: "Andrés Quincke"
-description: "Andrés Quincke is a Senior Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.576121
+description: "Andrés Quincke is a Senior Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.527368
 url: "/cdr-researcher-census/researchers/andres-quincke-a5005913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 431 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 441 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Carbon stocks and potential sequestration of Uruguayan soils: a road map to a comprehensive characterization of temporal and spatial changes to assess carbon footprint** (2023)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Carbon stocks and potential sequestration of Uruguayan soils. A road map to a comprehensive characterization of temporal and spatial changes to assess Carbon footprint** (2022)
    5 citations

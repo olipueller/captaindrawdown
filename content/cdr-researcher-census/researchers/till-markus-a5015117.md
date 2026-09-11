@@ -1,7 +1,7 @@
 ---
 title: "Till Markus"
-description: "Till Markus is a Senior General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.324687
+description: "Till Markus is a Senior General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 67 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.322518
 url: "/cdr-researcher-census/researchers/till-markus-a5015117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 892 |
-| Publications | 68 |
-| CDR Focus | 11.8% |
+| h-index | 15 |
+| Citations | 778 |
+| Publications | 67 |
+| CDR Focus | 11.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,15 +63,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · DAC
 
 5. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
-6. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+6. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
+
+7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    1 citations
 
-7. **Entnahme von Kohlendioxid aus der Atmosphäre durch Anpassungen in der landwirtschaftlichen Landnutzung: Eine Analyse des geltenden Rechtsrahmens in Deutschland** (2025)
-   0 citations · General CDR
-
-8. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+8. **Entnahme von Kohlendioxid aus der Atmosphäre durch Anpassungen in der landwirtschaftlichen Landnutzung: Eine Analyse des geltenden Rechtsrahmens in Deutschland** (2025)
    0 citations · General CDR
 
 9. **Land-Use Implications of Carbon Dioxide Removal: An Emerging Legal Issue?** (2024)

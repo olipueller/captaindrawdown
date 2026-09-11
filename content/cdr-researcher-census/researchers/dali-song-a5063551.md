@@ -1,7 +1,7 @@
 ---
 title: "Dali Song"
-description: "Dali Song is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.207094
+description: "Dali Song is a Mid-career Soil Carbon researcher at Environment and Plant Protection Research Institute in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.154179
 url: "/cdr-researcher-census/researchers/dali-song-a5063551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dali-song-a5063551/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Agricultural Resources and Regional Planning"
+    "name": "Environment and Plant Protection Research Institute"
   },
   "sameAs": "https://openalex.org/A5063551562"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Dali Song**  
-Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
+Environment and Plant Protection Research Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,596 |
-| Publications | 30 |
-| CDR Focus | 13.3% |
+| Citations | 1,658 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Living and Dead Microorganisms in Mediating Soil Carbon Stocks Under Long-Term Fertilization in a Rice-Wheat Rotation** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Distribution Characteristics of Microbial Residues within Aggregates of Fluvo-Aquic Soil under Biochar Application** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **Combined Fertilization Could Increase Crop Productivity and Reduce Greenhouse Gas Intensity through Carbon Sequestration under Rice-Wheat Rotation** (2021)
    11 citations · Soil Carbon

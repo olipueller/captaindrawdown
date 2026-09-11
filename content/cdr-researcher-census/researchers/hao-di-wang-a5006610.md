@@ -1,7 +1,7 @@
 ---
 title: "Hao-Di Wang"
 description: "Hao-Di Wang is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.216924
+date: 2026-09-11T02:38:30.171424
 url: "/cdr-researcher-census/researchers/hao-di-wang-a5006610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 138 |
+| Citations | 143 |
 | Publications | 2 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving soil aggregates stability and soil organic carbon sequestration by no-till and legume-based crop rotations in the North China Plain** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 ## External Profiles
 

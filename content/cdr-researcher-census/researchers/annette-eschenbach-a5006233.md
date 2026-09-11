@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
 description: "Annette Eschenbach is a Senior Biochar researcher at Universität Hamburg in DE. With 127 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249117
+date: 2026-09-11T02:38:29.198991
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 1,264 |
+| Citations | 1,284 |
 | Publications | 127 |
 | CDR Focus | 9.4% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    32 citations · Soil Carbon
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    3 citations · Biochar

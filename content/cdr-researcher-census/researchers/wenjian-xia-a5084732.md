@@ -1,7 +1,7 @@
 ---
 title: "Wenjian Xia"
 description: "Wenjian Xia is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.387704
+date: 2026-09-11T02:38:30.293112
 url: "/cdr-researcher-census/researchers/wenjian-xia-a5084732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 106 |
+| Citations | 119 |
 | Publications | 5 |
 | CDR Focus | 40.0% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term manure substitution regimes on soil organic carbon composition in a red paddy soil of southern China** (2022)
-   71 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Heavy metal contamination threats carbon sequestration of paddy soils with an attenuated microbial anabolism** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhaobin Mu"
 description: "Zhaobin Mu is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.486612
+date: 2026-09-11T02:38:29.427944
 url: "/cdr-researcher-census/researchers/zhaobin-mu-a5083681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 536 |
+| Citations | 568 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

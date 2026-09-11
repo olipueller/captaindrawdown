@@ -1,7 +1,7 @@
 ---
 title: "Yutian Xiao"
 description: "Yutian Xiao is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.034149
+date: 2026-09-11T02:38:29.993338
 url: "/cdr-researcher-census/researchers/yutian-xiao-a5090072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 187 |
+| Citations | 192 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

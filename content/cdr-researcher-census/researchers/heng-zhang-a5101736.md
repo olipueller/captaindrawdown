@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
-description: "Heng Zhang is a Senior Soil Carbon researcher at Tongji University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.492294
+description: "Heng Zhang is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.441470
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/heng-zhang-a5101736/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tongji University"
+    "name": "University of Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1272-6880",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Heng Zhang**  
-Tongji University · 🇨🇳 CN
+University of Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 527 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 545 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

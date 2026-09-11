@@ -1,7 +1,7 @@
 ---
 title: "Yizhou Yuan"
 description: "Yizhou Yuan is a Mid-career Soil Carbon researcher at Xi'an International Studies University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.361037
+date: 2026-09-11T02:38:30.326471
 url: "/cdr-researcher-census/researchers/yizhou-yuan-a5067901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 111 |
+| Citations | 113 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Allometric Growth and Carbon Sequestration of Young Kandelia obovata Plantations in a Constructed Urban Costal Wetland in Haicang Bay, Southeast China** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

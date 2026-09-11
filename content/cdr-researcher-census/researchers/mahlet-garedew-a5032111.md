@@ -1,7 +1,7 @@
 ---
 title: "Mahlet Garedew"
-description: "Mahlet Garedew is a Mid-career General CDR researcher at Center for Brooklyn History in US. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.277185
+description: "Mahlet Garedew is a Mid-career General CDR researcher at Yale University in US. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.224350
 url: "/cdr-researcher-census/researchers/mahlet-garedew-a5032111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mahlet-garedew-a5032111/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Center for Brooklyn History"
+    "name": "Yale University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4518-7417",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mahlet Garedew**  
-Center for Brooklyn History · 🇺🇸 US
+Yale University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,105 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 1,135 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Bing-Yang Ding"
 description: "Bing-Yang Ding is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.371357
+date: 2026-09-11T02:38:29.323966
 url: "/cdr-researcher-census/researchers/bing-yang-ding-a5112071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 756 |
+| Citations | 774 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The six-year decomposition of coarse woody debris drives shifts in soil fungal communities in subtropical forests** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

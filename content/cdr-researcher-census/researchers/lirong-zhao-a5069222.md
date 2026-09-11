@@ -1,7 +1,7 @@
 ---
 title: "Lirong Zhao"
-description: "Lirong Zhao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.146562
+description: "Lirong Zhao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.079436
 url: "/cdr-researcher-census/researchers/lirong-zhao-a5069222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 155 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 6 |
+| Citations | 167 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

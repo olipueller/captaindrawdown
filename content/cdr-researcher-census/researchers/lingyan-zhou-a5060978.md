@@ -1,7 +1,7 @@
 ---
 title: "Lingyan Zhou"
-description: "Lingyan Zhou is a Senior Soil Carbon researcher at East China Normal University in CN. With 141 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.099973
+description: "Lingyan Zhou is a Senior Soil Carbon researcher at East China Normal University in CN. With 144 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.049997
 url: "/cdr-researcher-census/researchers/lingyan-zhou-a5060978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 4,745 |
-| Publications | 141 |
-| CDR Focus | 7.8% |
+| Citations | 4,923 |
+| Publications | 144 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,19 +57,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 3. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Similar carbon accumulation rates with distinct drivers in two temperate forest restoration approaches** (2025)
+5. **Shoot litter outweighs root inputs in building soil organic carbon during Spartina alterniflora invasion in a coastal wetland** (2026)
+   2 citations · Soil Carbon
+
+6. **Similar carbon accumulation rates with distinct drivers in two temperate forest restoration approaches** (2025)
    1 citations · Soil Carbon
 
-6. **Biochar Mitigates Root Exudate-Induced Priming of Native SOC Decomposition via Soil Phosphorus Availability and Microbial Structure** (2026)
+7. **Biochar Mitigates Root Exudate-Induced Priming of Native SOC Decomposition via Soil Phosphorus Availability and Microbial Structure** (2026)
    0 citations · Biochar
-
-7. **Shoot litter outweighs root inputs in building soil organic carbon during Spartina alterniflora invasion in a coastal wetland** (2026)
-   0 citations · Soil Carbon
 
 8. **Similar Carbon Accumulation Rate But with Different Drivers between Two Restoration Approaches in a Temperate Forest** (2024)
    0 citations · Soil Carbon

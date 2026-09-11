@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
-description: "Yan Yang is a Senior Biochar researcher at Minzu University of China in CN. With 124 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.100226
+description: "Yan Yang is a Senior Biochar researcher at Minzu University of China in CN. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.050193
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 4,741 |
+| h-index | 36 |
+| Citations | 4,907 |
 | Publications | 124 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content** (2022)
-   262 citations · Biochar
+   268 citations · Biochar
 
 2. **Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon** (2023)
-   121 citations · Biochar
+   125 citations · Biochar
 
 3. **Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature** (2021)
    85 citations · Biochar
 
 4. **Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging** (2022)
-   72 citations · Biochar
+   74 citations · Biochar
 
 5. **Effect of Fe and Al ions on the production of biochar from agricultural biomass: Properties, stability and adsorption efficiency of biochar** (2021)
-   57 citations · Biochar
+   59 citations · Biochar
 
 6. **The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization** (2022)
    8 citations · Biochar

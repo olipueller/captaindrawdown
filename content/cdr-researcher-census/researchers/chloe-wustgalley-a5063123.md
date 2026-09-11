@@ -1,7 +1,7 @@
 ---
 title: "Chloé Wüst‐Galley"
-description: "Chloé Wüst‐Galley is a Senior Soil Carbon researcher at Agroscope in CH. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.225404
+description: "Chloé Wüst‐Galley is a Senior Soil Carbon researcher at Agroscope in CH. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.175560
 url: "/cdr-researcher-census/researchers/chloe-wustgalley-a5063123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,431 |
+| h-index | 15 |
+| Citations | 1,454 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration potential bounded by population growth, land availability, food production, and climate change** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 2. **Modelling CO2 and CH4 fluxes from a Rice Crop grown on Organic Soils in Temperate Climate** (2024)
    0 citations · Soil Carbon

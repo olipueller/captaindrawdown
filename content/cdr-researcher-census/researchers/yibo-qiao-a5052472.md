@@ -1,7 +1,7 @@
 ---
 title: "Yibo Qiao"
-description: "Yibo Qiao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.657355
+description: "Yibo Qiao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.596096
 url: "/cdr-researcher-census/researchers/yibo-qiao-a5052472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 361 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 380 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Does continuous straw returning keep China farmland soil organic carbon continued increase? A meta-analysis** (2021)
-   232 citations · Soil Carbon
+   236 citations · Soil Carbon
 
 2. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 ## External Profiles
 

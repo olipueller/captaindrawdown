@@ -1,7 +1,7 @@
 ---
 title: "Nico Bauer"
-description: "Nico Bauer is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 204 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.066123
+description: "Nico Bauer is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 208 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.018696
 url: "/cdr-researcher-census/researchers/nico-bauer-a5055801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 55 |
-| Citations | 19,005 |
-| Publications | 204 |
-| CDR Focus | 8.8% |
-| Trajectory | Growing |
+| h-index | 56 |
+| Citations | 19,531 |
+| Publications | 208 |
+| CDR Focus | 8.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   554 citations · General CDR
+   571 citations · General CDR
 
 2. **Carbon dioxide removal technologies are not born equal** (2021)
-   125 citations · BECCS
+   126 citations · BECCS
 
 3. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
    119 citations · BECCS
 
 4. **Alternative carbon price trajectories can avoid excessive carbon removal** (2021)
-   111 citations · General CDR
+   113 citations · General CDR
 
 5. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   46 citations · BECCS
+   48 citations · BECCS
 
 6. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 7. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
    25 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    21 citations · BECCS
 
 9. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   13 citations · General CDR
+   15 citations · General CDR
 
 10. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Yan Chang-rong"
-description: "Yan Chang-rong is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.211246
+description: "Yan Chang-rong is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.180039
 url: "/cdr-researcher-census/researchers/yan-chang-rong-a5102240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 140 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 142 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

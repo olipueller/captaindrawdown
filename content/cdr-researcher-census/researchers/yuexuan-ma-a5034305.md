@@ -1,7 +1,7 @@
 ---
 title: "Yuexuan Ma"
-description: "Yuexuan Ma is a Senior Soil Carbon researcher. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.630238
+description: "Yuexuan Ma is a Senior Soil Carbon researcher. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.539279
 url: "/cdr-researcher-census/researchers/yuexuan-ma-a5034305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,8 +34,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 382 |
+| h-index | 11 |
+| Citations | 430 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

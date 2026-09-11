@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
 description: "Shweta Rawat is a Mid-career Biochar researcher at Chatham House in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.806579
+date: 2026-09-11T02:38:29.763590
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5029715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 269 |
+| Citations | 276 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on biochar composites for soil remediation applications: Comprehensive solution to contemporary challenges** (2023)
-   46 citations · Biochar
+   47 citations · Biochar
 
 ## External Profiles
 

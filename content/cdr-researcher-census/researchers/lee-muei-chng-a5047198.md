@@ -1,7 +1,7 @@
 ---
 title: "Lee Muei Chng"
-description: "Lee Muei Chng is a Mid-career Ocean CDR researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.727905
+description: "Lee Muei Chng is a Mid-career Ocean CDR researcher at Universiti Tunku Abdul Rahman in MY. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.685368
 url: "/cdr-researcher-census/researchers/lee-muei-chng-a5047198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Lee Muei Chng",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lee-muei-chng-a5047198/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universiti Tunku Abdul Rahman"
+  },
   "sameAs": "https://openalex.org/A5047198575"
 }
 </script>
 
 ## Profile
 
-**Lee Muei Chng**
+**Lee Muei Chng**  
+Universiti Tunku Abdul Rahman · 🇲🇾 MY
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 311 |
+| Citations | 316 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

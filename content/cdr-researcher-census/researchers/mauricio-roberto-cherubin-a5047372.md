@@ -1,7 +1,7 @@
 ---
 title: "Maurício Roberto Cherubin"
-description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 306 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.081187
+description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 317 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.032681
 url: "/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 50 |
-| Citations | 7,476 |
-| Publications | 306 |
-| CDR Focus | 13.4% |
+| h-index | 51 |
+| Citations | 7,763 |
+| Publications | 317 |
+| CDR Focus | 12.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   119 citations
+   122 citations
 
 2. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   52 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **Soil health in Latin America and the Caribbean** (2025)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 4. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   24 citations · General CDR
+   25 citations · General CDR
 
-5. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
-   16 citations · General CDR
+5. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
+   17 citations · Soil Carbon
 
-6. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
-   15 citations · Soil Carbon
+6. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
+   17 citations · General CDR
 
 7. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 8. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
-   12 citations · General CDR
+   13 citations · General CDR
 
 9. **Quantity, quality and physical protection of soil carbon associated with sugarcane straw removal in southern Brazil** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
    11 citations · BECCS

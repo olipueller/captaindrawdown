@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Nakao"
-description: "Atsushi Nakao is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 140 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.230312
+description: "Atsushi Nakao is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 141 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.181082
 url: "/cdr-researcher-census/researchers/atsushi-nakao-a5038863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,391 |
-| Publications | 140 |
-| CDR Focus | 7.9% |
+| h-index | 23 |
+| Citations | 1,413 |
+| Publications | 141 |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,13 +53,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 1. **Controls on soil organic carbon across soil depths in tropical and temperate non-volcanic regions** (2025)
    6 citations · Soil Carbon
 
-2. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan** (2025)
+2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+   6 citations · Soil Carbon
+
+3. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan** (2025)
    5 citations · Enhanced Weathering
 
-3. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   5 citations · Soil Carbon
-
-4. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+4. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
 
 5. **The potential of enhanced rock weathering for CO2 removal and soil organic carbon storage via organo-mineral aggregation: the trade-off induced by basaltic rock particle size** (2026)

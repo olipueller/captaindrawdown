@@ -1,7 +1,7 @@
 ---
 title: "Federica Conti"
 description: "Federica Conti is a Mid-career General CDR researcher at Aalborg University in DK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.505235
+date: 2026-09-11T02:38:29.455310
 url: "/cdr-researcher-census/researchers/federica-conti-a5001749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 507 |
+| Citations | 522 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Systematical analysis of sludge treatment and disposal technologies for carbon footprint reduction** (2022)
-   66 citations · General CDR
+   67 citations · General CDR
 
 ## External Profiles
 

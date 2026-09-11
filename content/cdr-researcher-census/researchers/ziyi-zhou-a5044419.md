@@ -1,7 +1,7 @@
 ---
 title: "Ziyi Zhou"
 description: "Ziyi Zhou is a Mid-career Biochar researcher at Shandong Normal University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.969133
+date: 2026-09-11T02:38:29.890772
 url: "/cdr-researcher-census/researchers/ziyi-zhou-a5044419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 207 |
+| Citations | 221 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Wen Zhuang"
-description: "Wen Zhuang is a Senior Enhanced Weathering researcher at Shandong University in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.183880
+description: "Wen Zhuang is a Senior Enhanced Weathering researcher at Shandong University in CN. With 72 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.132778
 url: "/cdr-researcher-census/researchers/wen-zhuang-a5017591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,861 |
-| Publications | 71 |
-| CDR Focus | 7.0% |
+| Citations | 1,921 |
+| Publications | 72 |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential capture and conversion of CO2 from oceanwater through mineral carbonation** (2023)
-   34 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
    15 citations · Enhanced Weathering
@@ -62,10 +62,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
    4 citations · Enhanced Weathering
 
-5. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
+5. **Manganese Oxide-Mediated Reactions with Olivine Dissolution Products: A Double-Edged Sword for Ocean Alkalinity Enhancement** (2026)
+   0 citations · Ocean CDR
+
+6. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
    0 citations
 
-6. **Sustainable Carbon Sequestration Via Olivine Based Ocean Alkalinity Enhancement in the East and South China Sea: Adhering to Environmental Norms for Nickel and Chromium** (2024)
+7. **Sustainable Carbon Sequestration Via Olivine Based Ocean Alkalinity Enhancement in the East and South China Sea: Adhering to Environmental Norms for Nickel and Chromium** (2024)
    0 citations · General CDR
 
 ## External Profiles

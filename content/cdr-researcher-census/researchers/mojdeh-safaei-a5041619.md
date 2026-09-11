@@ -1,7 +1,7 @@
 ---
 title: "Mojdeh Safaei"
-description: "Mojdeh Safaei is a Mid-career Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.179057
+description: "Mojdeh Safaei is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.066655
 url: "/cdr-researcher-census/researchers/mojdeh-safaei-a5041619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Mojdeh Safaei",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mojdeh-safaei-a5041619/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Justus-Liebig-Universit\u00e4t Gie\u00dfen"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-6509-8307",
     "https://openalex.org/A5041619361"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Mojdeh Safaei**  
-Justus-Liebig-Universität Gießen · 🇩🇪 DE
+**Mojdeh Safaei**
 
 **Career Stage:** Mid-career
 
@@ -42,16 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 147 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 8 |
+| Citations | 171 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of urban green space types and historical Land Use/ Land Cover on soil health: Implications for sustainable management** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

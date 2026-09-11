@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
-description: "KeChrist Obileke is a Mid-career BECCS researcher at University of Fort Hare in ZA. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.157938
+description: "KeChrist Obileke is a Mid-career BECCS researcher at University of Fort Hare in ZA. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.104574
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 19 |
-| Citations | 2,294 |
-| Publications | 55 |
-| CDR Focus | 5.5% |
+| Citations | 2,407 |
+| Publications | 56 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Minimizing carbon footprint via microalgae as a biological capture** (2021)
-   324 citations · General CDR
+   327 citations · General CDR
 
 2. **Enhancing carbon neutrality: the role of biomass in CO2 uptake** (2024)
-   8 citations · BECCS
+   9 citations · BECCS
 
 3. **Sustainability evaluation of current biogas upgrading techniques** (2024)
    2 citations · BECCS

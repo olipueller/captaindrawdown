@@ -1,7 +1,7 @@
 ---
 title: "Annett Pollex"
-description: "Annett Pollex is a Mid-career Biochar researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.527611
+description: "Annett Pollex is a Mid-career Biochar researcher. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.482442
 url: "/cdr-researcher-census/researchers/annett-pollex-a5042321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 479 |
+| h-index | 11 |
+| Citations | 487 |
 | Publications | 30 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar‐based fertilizers increase crop yields in acidic tropical soils** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 2. **Biochar for soil application: quality assurance prerequisites, agronomic benefits, carbon sequestration potential and incentive systems** (2024)
    0 citations · Biochar

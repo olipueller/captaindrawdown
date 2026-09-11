@@ -1,7 +1,7 @@
 ---
 title: "Xiaoge Wu"
-description: "Xiaoge Wu is a Senior Biochar researcher at Ministry of Agriculture in ID. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.213010
+description: "Xiaoge Wu is a Senior Biochar researcher at Xi'an Institute of Optics and Precision Mechanics in CN. With 54 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.161522
 url: "/cdr-researcher-census/researchers/xiaoge-wu-a5101461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaoge-wu-a5101461/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture"
+    "name": "Xi'an Institute of Optics and Precision Mechanics"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7092-8977",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaoge Wu**  
-Ministry of Agriculture · 🇮🇩 ID
+Xi'an Institute of Optics and Precision Mechanics · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,544 |
-| Publications | 51 |
-| CDR Focus | 5.9% |
+| Citations | 1,584 |
+| Publications | 54 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ultrasonic Activated Biochar and Its Removal of Harmful Substances in Environment** (2022)
-   45 citations · Biochar
+   47 citations · Biochar
 
 2. **<i>Microcystis aeruginosa</i> removal by the combination of ultrasound and TiO<sub>2</sub>/biochar** (2021)
    10 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jiacong Zhou"
-description: "Jiacong Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.663972
+description: "Jiacong Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.587068
 url: "/cdr-researcher-census/researchers/jiacong-zhou-a5103958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 356 |
-| Publications | 40 |
-| CDR Focus | 12.5% |
+| Citations | 387 |
+| Publications | 42 |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 3. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Soil organic carbon storage from biochar addition falls over time: a perspective of shifts in soil extracellular enzyme activity** (2025)
    2 citations · Biochar
@@ -68,10 +68,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
    1 citations
 
-7. **The Effect of Soil Physical Structure on Surface Soil Carbon and Nitrogen Content Across Land Use Types** (2024)
+7. **Perennial crops enhance the association between microbial biomass and soil organic carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-8. **The Effect of Soil Physical Structure on Soil Carbon and Nitrogen Sequestration Across Land Use Types** (2024)
+8. **The Effect of Soil Physical Structure on Surface Soil Carbon and Nitrogen Content Across Land Use Types** (2024)
+   0 citations · Soil Carbon
+
+9. **The Effect of Soil Physical Structure on Soil Carbon and Nitrogen Sequestration Across Land Use Types** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

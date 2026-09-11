@@ -1,7 +1,7 @@
 ---
 title: "Pierre Celestin Ndayisaba"
-description: "Pierre Celestin Ndayisaba is a Mid-career Soil Carbon researcher at Rwanda Agriculture Board in RW. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.795195
+description: "Pierre Celestin Ndayisaba is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.723024
 url: "/cdr-researcher-census/researchers/pierre-celestin-ndayisaba-a5090399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Pierre Celestin Ndayisaba",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pierre-celestin-ndayisaba-a5090399/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Rwanda Agriculture Board"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-8400-9146",
     "https://openalex.org/A5090399545"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Pierre Celestin Ndayisaba**  
-Rwanda Agriculture Board ·  RW
+**Pierre Celestin Ndayisaba**
 
 **Career Stage:** Mid-career
 
@@ -43,15 +38,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 275 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 297 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Push-pull technology improves carbon stocks in rainfed smallholder agriculture in Western Kenya** (2022)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

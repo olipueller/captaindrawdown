@@ -1,7 +1,7 @@
 ---
 title: "Zhonghua Zhang"
-description: "Zhonghua Zhang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.224557
+description: "Zhonghua Zhang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 70 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.176950
 url: "/cdr-researcher-census/researchers/zhonghua-zhang-a5100786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 19 |
-| Citations | 1,435 |
-| Publications | 71 |
-| CDR Focus | 5.6% |
+| h-index | 20 |
+| Citations | 1,445 |
+| Publications | 70 |
+| CDR Focus | 5.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon

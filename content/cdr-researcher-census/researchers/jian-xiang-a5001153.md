@@ -1,7 +1,7 @@
 ---
 title: "Jian Xiang"
-description: "Jian Xiang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.239821
+description: "Jian Xiang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.187367
 url: "/cdr-researcher-census/researchers/jian-xiang-a5001153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,331 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| Citations | 1,375 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

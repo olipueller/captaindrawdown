@@ -1,7 +1,7 @@
 ---
 title: "Xinqi Yuan"
-description: "Xinqi Yuan is a Mid-career Soil Carbon researcher at Harbin University of Science and Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540732
+description: "Xinqi Yuan is a Mid-career Soil Carbon researcher at Harbin University of Science and Technology in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.462817
 url: "/cdr-researcher-census/researchers/xinqi-yuan-a5007313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 465 |
+| h-index | 11 |
+| Citations | 511 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil microbe-mediated carbon, nitrogen and phosphorus cycling during spontaneous succession in abandoned Pb Zn mining areas** (2024)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

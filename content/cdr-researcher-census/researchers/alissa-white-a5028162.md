@@ -1,7 +1,7 @@
 ---
 title: "Alissa White"
-description: "Alissa White is a Mid-career Soil Carbon researcher at University of Vermont in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.704050
+description: "Alissa White is a Mid-career Soil Carbon researcher at University of Vermont in US. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.639997
 url: "/cdr-researcher-census/researchers/alissa-white-a5028162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 328 |
+| h-index | 10 |
+| Citations | 348 |
 | Publications | 21 |
 | CDR Focus | 19.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Spatial mapping and predictive modeling of soil organic carbon stocks in Vermont agricultural lands using machine learning and environmental variables** (2025)
-   13 citations · General CDR
+1. **Resilient Soils for Resilient Farms: An Integrative Approach to Assess, Promote, and Value Soil Health for Small- and Medium-Size Farms** (2022)
+   14 citations · General CDR
 
-2. **Resilient Soils for Resilient Farms: An Integrative Approach to Assess, Promote, and Value Soil Health for Small- and Medium-Size Farms** (2022)
+2. **Spatial mapping and predictive modeling of soil organic carbon stocks in Vermont agricultural lands using machine learning and environmental variables** (2025)
    13 citations · General CDR
 
 3. **Measuring the Supply of Ecosystem Services from Alternative Soil and Nutrient Management Practices: A Transdisciplinary, Field-Scale Approach** (2021)

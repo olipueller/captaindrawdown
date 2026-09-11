@@ -1,7 +1,7 @@
 ---
 title: "Nishu Goyal"
-description: "Nishu Goyal is an Early-career Biochar researcher at University of Petroleum and Energy Studies in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012176
+description: "Nishu Goyal is an Early-career Biochar researcher at Universidad Politécnica de El Salvador in SV. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.952628
 url: "/cdr-researcher-census/researchers/nishu-goyal-a5083664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nishu-goyal-a5083664/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Petroleum and Energy Studies"
+    "name": "Universidad Polit\u00e9cnica de El Salvador"
   },
   "sameAs": "https://openalex.org/A5083664604"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Nishu Goyal**  
-University of Petroleum and Energy Studies · 🇮🇳 IN
+Universidad Politécnica de El Salvador ·  SV
 
 **Career Stage:** Early-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 193 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 204 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A critical review on biochar production from pine wastes, upgradation techniques, environmental sustainability, and challenges** (2023)
-   84 citations · Biochar
+   85 citations · Biochar
 
 ## External Profiles
 

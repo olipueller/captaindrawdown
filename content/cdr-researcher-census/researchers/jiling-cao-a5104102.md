@@ -1,7 +1,7 @@
 ---
 title: "Jiling Cao"
 description: "Jiling Cao is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.466512
+date: 2026-09-11T02:38:29.423893
 url: "/cdr-researcher-census/researchers/jiling-cao-a5104102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 566 |
+| Citations | 574 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

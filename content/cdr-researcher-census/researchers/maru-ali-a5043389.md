@@ -1,7 +1,7 @@
 ---
 title: "Maru Ali"
 description: "Maru Ali is a Mid-career Biochar researcher at University of Ghana in GH. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.251847
+date: 2026-09-11T02:38:30.214164
 url: "/cdr-researcher-census/researchers/maru-ali-a5043389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 131 |
+| Citations | 134 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimisation of Charcoal and Sago (Metroxylon sagu) Bark Ash to Improve Phosphorus Availability in Acidic Soils** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

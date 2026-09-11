@@ -1,7 +1,7 @@
 ---
 title: "Spyridon E. Detsikas"
 description: "Spyridon E. Detsikas is a Mid-career Soil Carbon researcher at Harokopio University of Athens in GR. With 82 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.149707
+date: 2026-09-11T02:38:30.105457
 url: "/cdr-researcher-census/researchers/spyridon-e-detsikas-a5046275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 154 |
+| Citations | 159 |
 | Publications | 82 |
 | CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Greek National Map of Soil Organic Carbon** (2021)
-   2 citations · General CDR
+1. **Soil organic carbon sequestration potential dynamics in saline and sodic soils in Greece** (2023)
+   2 citations · Soil Carbon
 
-2. **Soil organic carbon sequestration potential dynamics in saline and sodic soils in Greece** (2023)
-   1 citations · Soil Carbon
+2. **Greek National Map of Soil Organic Carbon** (2021)
+   2 citations · General CDR
 
 3. **Mapping the soil organic carbon sequestration potential of Greek agricultural soils** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Till Strunge"
 description: "Till Strunge is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.581056
+date: 2026-09-11T02:38:29.518991
 url: "/cdr-researcher-census/researchers/till-strunge-a5036779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 426 |
+| Citations | 449 |
 | Publications | 30 |
 | CDR Focus | 13.3% |
 | Trajectory | Exiting |
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
    16 citations · General CDR
 
-2. **An Open-Source Toolkit to Design and Evaluate Net-Zero Pathways for Industrial Clusters** (2022)
-   4 citations · General CDR
+2. **Perception of carbon capture and utilization - a framing analysis of German-speaking media** (2024)
+   4 citations · DAC
 
-3. **Perception of carbon capture and utilization - a framing analysis of German-speaking media** (2024)
-   3 citations · DAC
+3. **An Open-Source Toolkit to Design and Evaluate Net-Zero Pathways for Industrial Clusters** (2022)
+   4 citations · General CDR
 
 4. **Marginal Cost Curves Show Least-Cost, Full Decarbonisation of European Cement Includes CO2 Capture and Storage, Alternative Clinkers, and Carbon Dioxide Removal** (2024)
    2 citations · General CDR

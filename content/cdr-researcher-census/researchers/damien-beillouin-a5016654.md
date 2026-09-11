@@ -1,7 +1,7 @@
 ---
 title: "Damien Beillouin"
-description: "Damien Beillouin is a Mid-career Soil Carbon researcher at CIRAD in FR. With 76 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.131721
+description: "Damien Beillouin is a Mid-career Soil Carbon researcher at CIRAD in FR. With 78 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.076072
 url: "/cdr-researcher-census/researchers/damien-beillouin-a5016654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 3,080 |
-| Publications | 76 |
-| CDR Focus | 7.9% |
+| h-index | 19 |
+| Citations | 3,367 |
+| Publications | 78 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · General CDR
 
 2. **Legume-rice rotations increase rice yields and carbon sequestration potential globally** (2025)
-   49 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 3. **Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis** (2026)
    1 citations · Biochar

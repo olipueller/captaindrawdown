@@ -1,7 +1,7 @@
 ---
 title: "Kamil Azmi Tohiran"
-description: "Kamil Azmi Tohiran is a Mid-career Soil Carbon researcher at Malaysian Palm Oil Board in MY. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.554128
+description: "Kamil Azmi Tohiran is a Mid-career Soil Carbon researcher at Malaysian Palm Oil Board in MY. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.496411
 url: "/cdr-researcher-census/researchers/kamil-azmi-tohiran-a5067112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 452 |
-| Publications | 30 |
-| CDR Focus | 10.0% |
+| Citations | 472 |
+| Publications | 31 |
+| CDR Focus | 9.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Time to Revisit Oil Palm-Livestock Integration in the Wake of United Nations Sustainable Development Goals (SDGs)** (2021)
-   27 citations · General CDR
+   28 citations · General CDR
 
 2. **The integration of cattle grazing activities as potential best sustainable practices for weeding operations in oil palm plantations.** (2023)
    5 citations · Soil Carbon
 
 3. **Sustainable integrated oil-palm livestock practice to enhance soil organic matter and carbon sequestration potential** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

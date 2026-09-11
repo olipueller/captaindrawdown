@@ -1,7 +1,7 @@
 ---
 title: "Aurich Jeltsch‐Thömmes"
 description: "Aurich Jeltsch‐Thömmes is a Mid-career General CDR researcher at University of Bern in CH. With 71 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.242153
+date: 2026-09-11T02:38:29.186181
 url: "/cdr-researcher-census/researchers/aurich-jeltschthommes-a5060949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,317 |
+| Citations | 1,386 |
 | Publications | 71 |
-| CDR Focus | 7.0% |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

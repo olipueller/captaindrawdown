@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Kaushal"
-description: "Priyanka Kaushal is a Senior Biochar researcher at Chandigarh University in IN. With 126 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146418
+description: "Priyanka Kaushal is a Senior Biochar researcher at Chandigarh University in IN. With 127 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.095214
 url: "/cdr-researcher-census/researchers/priyanka-kaushal-a5046805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,578 |
-| Publications | 126 |
+| Citations | 2,676 |
+| Publications | 127 |
 | CDR Focus | 6.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar production and its environmental applications: Recent developments and machine learning insights** (2023)
-   89 citations · Biochar
+   92 citations · Biochar
 
-2. **Efficacy of rice straw derived biochar for removal of Pb+2 and Zn+2 from aqueous: Adsorption, thermodynamic and cost analysis** (2022)
+2. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
+   65 citations
+
+3. **Efficacy of rice straw derived biochar for removal of Pb+2 and Zn+2 from aqueous: Adsorption, thermodynamic and cost analysis** (2022)
    65 citations · Biochar
-
-3. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
-   64 citations
 
 4. **Copper(II) removal from aqua solution using rice straw derived biochar** (2021)
    19 citations · Biochar
@@ -65,11 +65,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 5. **Carbon sequestration in soil from paddy straw derived biochar in India** (2022)
    3 citations · Biochar
 
-6. **Assessment of Sugarcane Residues Derived Biochar for Carbon Sequestration in the Soil in India** (2022)
+6. **Techno-economic and emission impact evaluation of crop residues-biochar system for carbon sequestration** (2025)
    2 citations · Biochar
 
-7. **Techno-economic and emission impact evaluation of crop residues-biochar system for carbon sequestration** (2025)
-   1 citations · Biochar
+7. **Assessment of Sugarcane Residues Derived Biochar for Carbon Sequestration in the Soil in India** (2022)
+   2 citations · Biochar
 
 8. **Turning Sugarcane Field Residues into High-Value Adsorbents: CO₂ Activation, PAH Removal Efficiency, and Implications for Low-Carbon Resource Cycles.** (2026)
    0 citations · Biochar

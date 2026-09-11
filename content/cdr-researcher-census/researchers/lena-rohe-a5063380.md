@@ -1,7 +1,7 @@
 ---
 title: "Lena Rohe"
-description: "Lena Rohe is a Senior Soil Carbon researcher. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.321802
+description: "Lena Rohe is a Senior Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.270181
 url: "/cdr-researcher-census/researchers/lena-rohe-a5063380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Lena Rohe",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lena-rohe-a5063380/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Johann Heinrich von Th\u00fcnen-Institut"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6378-0612",
     "https://openalex.org/A5063380613"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Lena Rohe**
+**Lena Rohe**  
+Johann Heinrich von Thünen-Institut · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 899 |
+| Citations | 935 |
 | Publications | 55 |
 | CDR Focus | 5.5% |
 | Trajectory | Stable |

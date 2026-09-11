@@ -1,7 +1,7 @@
 ---
 title: "Cleuciane Tillvitz do Nascimento"
 description: "Cleuciane Tillvitz do Nascimento is an Early-career BECCS researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.144237
+date: 2026-09-11T02:38:30.111759
 url: "/cdr-researcher-census/researchers/cleuciane-tillvitz-do-nascimento-a5075063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 155 |
+| Citations | 157 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

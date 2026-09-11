@@ -1,7 +1,7 @@
 ---
 title: "Reetashree Bordoloi"
 description: "Reetashree Bordoloi is a Mid-career Soil Carbon researcher at Gauhati University in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.715343
+date: 2026-09-11T02:38:29.673729
 url: "/cdr-researcher-census/researchers/reetashree-bordoloi-a5051907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 319 |
+| Citations | 324 |
 | Publications | 14 |
 | CDR Focus | 21.4% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Above ground biomass carbon assessment using field, satellite data and model based integrated approach to predict the carbon sequestration potential of major land use sector of Arunachal Himalaya, India** (2021)
-   28 citations · General CDR
+   29 citations · General CDR
 
 2. **Biomass, carbon stock and soil physicochemical properties in plantation of East Siang district, Arunachal Pradesh, India** (2021)
    21 citations · Soil Carbon

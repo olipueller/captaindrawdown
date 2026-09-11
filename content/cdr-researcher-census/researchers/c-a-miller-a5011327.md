@@ -1,7 +1,7 @@
 ---
 title: "C. A. Miller"
-description: "C. A. Miller is a Senior Ocean CDR researcher at Universiteit Utrecht in NL. With 89 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.152452
+description: "C. A. Miller is a Senior Ocean CDR researcher at Universiteit Utrecht in NL. With 88 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.103255
 url: "/cdr-researcher-census/researchers/c-a-miller-a5011327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,404 |
-| Publications | 89 |
-| CDR Focus | 5.6% |
+| Citations | 2,439 |
+| Publications | 88 |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,16 +53,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 1. **The alkalinity generation potential of olivine and oyster shell for laboratory experiments: testing the effects of ocean alkalinity enhancement** (2025)
    3 citations · Ocean CDR
 
-2. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
+2. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement** (2026)
+   1 citations · General CDR
+
+3. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
    0 citations · Enhanced Weathering
 
-3. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
+4. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
    0 citations · Enhanced Weathering
 
-4. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
-
-5. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement** (2026)
+5. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster (Magallana gigas), raising caution for ocean alkalinity enhancement** (2026)
    0 citations · General CDR
 
 6. **Keeping tabs on ocean alkalinity enhancement: effects of olivine dissolution on the embryonic and larval development of the Pacific oyster Magallana gigas  ** (2025)

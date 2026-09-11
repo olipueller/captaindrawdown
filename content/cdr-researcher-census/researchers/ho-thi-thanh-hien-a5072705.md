@@ -1,7 +1,7 @@
 ---
 title: "Hồ Thị Thanh Hiền"
 description: "Hồ Thị Thanh Hiền is a Mid-career Biochar researcher at Van Lang University in VN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.703269
+date: 2026-09-11T02:38:29.641825
 url: "/cdr-researcher-census/researchers/ho-thi-thanh-hien-a5072705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 329 |
+| Citations | 347 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for soil remediation: A comprehensive review of current research on pollutant removal** (2023)
-   170 citations · Biochar
+   174 citations · Biochar
 
 ## External Profiles
 

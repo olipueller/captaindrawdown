@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Meng"
-description: "Weiwei Meng is a Senior Biochar researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.039722
+description: "Weiwei Meng is a Senior Biochar researcher at Shandong Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.002659
 url: "/cdr-researcher-census/researchers/weiwei-meng-a5100962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 185 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 189 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

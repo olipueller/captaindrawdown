@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gong"
-description: "Yuan Gong is a Senior Soil Carbon researcher at Chuzhou University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.177407
+description: "Yuan Gong is a Senior Soil Carbon researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.147887
 url: "/cdr-researcher-census/researchers/yuan-gong-a5058531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Yuan Gong",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuan-gong-a5058531/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Chuzhou University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-1338-2939",
     "https://openalex.org/A5058531350"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Yuan Gong**  
-Chuzhou University · 🇨🇳 CN
+**Yuan Gong**
 
 **Career Stage:** Senior
 
@@ -42,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 147 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 6 |
+| Citations | 149 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zixuan Zhou"
 description: "Zixuan Zhou is a Mid-career Soil Carbon researcher at Shanghai Advanced Research Institute in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.376392
+date: 2026-09-11T02:38:29.319993
 url: "/cdr-researcher-census/researchers/zixuan-zhou-a5081184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 744 |
+| Citations | 783 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainable management of biogas slurry discharge in biogas engineering: As a chemical fertilizer substitute for garlic cultivation** (2024)
-   5 citations
+   6 citations
 
 2. **Changes in four-dimensional carbon sinks in forest ecosystems: Evidence from the Heilongjiang Province of China** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xia Zeng"
-description: "Xia Zeng is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.403411
+description: "Xia Zeng is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.358096
 url: "/cdr-researcher-census/researchers/xia-zeng-a5112322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 682 |
+| h-index | 13 |
+| Citations | 692 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nitrogen-phosphorus codoped biochar prepared from tannic acid for degradation of trace antibiotics in wastewater** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

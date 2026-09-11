@@ -1,7 +1,7 @@
 ---
 title: "Boqiang Gao"
-description: "Boqiang Gao is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.203166
+description: "Boqiang Gao is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.149869
 url: "/cdr-researcher-census/researchers/boqiang-gao-a5042156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,641 |
+| h-index | 19 |
+| Citations | 1,704 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |

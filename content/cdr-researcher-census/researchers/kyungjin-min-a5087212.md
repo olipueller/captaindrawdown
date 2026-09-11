@@ -1,7 +1,7 @@
 ---
 title: "Kyungjin Min"
-description: "Kyungjin Min is a Senior Soil Carbon researcher at Seoul National University of Science and Technology in KR. With 62 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.305014
+description: "Kyungjin Min is a Senior Soil Carbon researcher at Seoul National University of Science and Technology in KR. With 63 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.249403
 url: "/cdr-researcher-census/researchers/kyungjin-min-a5087212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 968 |
-| Publications | 62 |
-| CDR Focus | 6.5% |
+| Citations | 1,014 |
+| Publications | 63 |
+| CDR Focus | 6.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Active microbial biomass decreases, but microbial growth potential remains similar across soil depth profiles under deeply-vs. shallow-rooted plants** (2021)
-   45 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **What’s Soil Got to Do with Climate Change?** (2022)
    17 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Katja Kozjek"
 description: "Katja Kozjek is a Mid-career Soil Carbon researcher at Lund University in SE. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.762887
+date: 2026-09-11T02:38:29.720162
 url: "/cdr-researcher-census/researchers/katja-kozjek-a5033208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 292 |
+| Citations | 298 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial gene activity in straw residue amendments reveals carbon sequestration mechanisms in agricultural soils** (2023)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mirco Barbero"
 description: "Mirco Barbero is an Early-career Soil Carbon researcher at European Commission in BE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.153572
+date: 2026-09-11T02:38:30.118695
 url: "/cdr-researcher-census/researchers/mirco-barbero-a5046944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 153 |
+| Citations | 156 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil priorities in the European Union** (2022)
-   153 citations · General CDR
+   158 citations · General CDR
 
 ## External Profiles
 

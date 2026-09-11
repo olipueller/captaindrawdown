@@ -1,7 +1,7 @@
 ---
 title: "Xin-Di Liao"
 description: "Xin-Di Liao is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.722404
+date: 2026-09-11T02:38:29.664970
 url: "/cdr-researcher-census/researchers/xin-di-liao-a5022830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 315 |
+| Citations | 330 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of the oversized microplastic pollution layer on soil aggregates and organic carbon at different soil depths** (2023)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Effects of the Oversized Microplastic Pollution Layer on Soil Aggregates and Organic Carbon at Different Soil Depths** (2022)
    5 citations · Soil Carbon

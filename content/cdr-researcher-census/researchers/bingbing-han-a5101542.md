@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Han"
-description: "Bingbing Han is a Senior Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.572692
+description: "Bingbing Han is a Senior Soil Carbon researcher at Southwest University in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.472909
 url: "/cdr-researcher-census/researchers/bingbing-han-a5101542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bingbing-han-a5101542/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University of Traditional Chinese Medicine"
+    "name": "Southwest University"
   },
   "sameAs": [
     "https://orcid.org/0009-0007-6783-8149",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Bingbing Han**  
-Shandong University of Traditional Chinese Medicine · 🇨🇳 CN
+Southwest University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 434 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| Citations | 498 |
+| Publications | 48 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   46 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

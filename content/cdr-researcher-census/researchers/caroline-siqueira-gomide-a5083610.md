@@ -1,7 +1,7 @@
 ---
 title: "Caroline Siqueira Gomide"
 description: "Caroline Siqueira Gomide is a Senior Enhanced Weathering researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.354675
+date: 2026-09-11T02:38:30.320734
 url: "/cdr-researcher-census/researchers/caroline-siqueira-gomide-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
+| Citations | 114 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The combination of crushed rock and organic matter enhances the capture of inorganic carbon in tropical soils** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 2. **Rock Dusts: A Silent Revolution for Soil Nutrition and Climate Protection** (2026)
    0 citations · General CDR

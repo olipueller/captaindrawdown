@@ -1,7 +1,7 @@
 ---
 title: "P. S. Yadava"
-description: "P. S. Yadava is a Senior Soil Carbon researcher. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.347046
+description: "P. S. Yadava is a Senior Soil Carbon researcher at Manipur University in IN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.301552
 url: "/cdr-researcher-census/researchers/p-s-yadava-a5084718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "P. S. Yadava",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/p-s-yadava-a5084718/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Manipur University"
+  },
   "sameAs": "https://openalex.org/A5084718874"
 }
 </script>
 
 ## Profile
 
-**P. S. Yadava**
+**P. S. Yadava**  
+Manipur University · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 825 |
+| Citations | 829 |
 | Publications | 37 |
 | CDR Focus | 8.1% |
 | Trajectory | Exiting |

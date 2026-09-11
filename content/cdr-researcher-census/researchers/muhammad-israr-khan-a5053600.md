@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Israr Khan"
-description: "Muhammad Israr Khan is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.370083
+description: "Muhammad Israr Khan is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.315200
 url: "/cdr-researcher-census/researchers/muhammad-israr-khan-a5053600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 759 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 793 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

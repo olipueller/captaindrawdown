@@ -1,7 +1,7 @@
 ---
 title: "Jie Lian"
-description: "Jie Lian is a Mid-career Soil Carbon researcher at Shenzhen Technology University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.655042
+description: "Jie Lian is a Mid-career Soil Carbon researcher at Shenzhen Technology University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.595853
 url: "/cdr-researcher-census/researchers/jie-lian-a5050607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 363 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 381 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shuaiqi Yao"
 description: "Shuaiqi Yao is a Senior Biochar researcher at Nankai University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.991918
+date: 2026-09-11T02:38:29.917438
 url: "/cdr-researcher-census/researchers/shuaiqi-yao-a5101681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 199 |
+| Citations | 210 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

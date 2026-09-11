@@ -1,7 +1,7 @@
 ---
 title: "Syed Mubashar Hussain Gardazi"
-description: "Syed Mubashar Hussain Gardazi is a Mid-career Soil Carbon researcher at University of Azad Jammu and Kashmir in PK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331375
+description: "Syed Mubashar Hussain Gardazi is a Mid-career Soil Carbon researcher at University of Azad Jammu and Kashmir in PK. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.287757
 url: "/cdr-researcher-census/researchers/syed-mubashar-hussain-gardazi-a5057944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 869 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 876 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Tongwei Ke"
 description: "Tongwei Ke is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.198840
+date: 2026-09-11T02:38:30.133848
 url: "/cdr-researcher-census/researchers/tongwei-ke-a5004677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 142 |
+| Citations | 152 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of phytochrome using rice straw-derived biochar: Adsorption performance, mechanisms, and practical applications** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

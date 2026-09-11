@@ -1,7 +1,7 @@
 ---
 title: "Zunji Jian"
-description: "Zunji Jian is a Mid-career Soil Carbon researcher at China Three Gorges University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.364579
+description: "Zunji Jian is a Mid-career Soil Carbon researcher at China Three Gorges University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.310927
 url: "/cdr-researcher-census/researchers/zunji-jian-a5059596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 774 |
+| h-index | 14 |
+| Citations | 804 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **The Carbon Neutral Potential of Forests in the Yangtze River Economic Belt of China** (2022)
    10 citations · General CDR
 
 3. **Impact of pine wilt disease infection on multiple ecosystem services and their trade-offs in subtropical Masson pine forests** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Impact of Pine Wilt Disease Infection on Multiple Ecosystem Services and Their Trade-Offs in Subtropical Masson Pine Forests** (2024)
    1 citations · General CDR

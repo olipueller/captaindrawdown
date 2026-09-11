@@ -1,7 +1,7 @@
 ---
 title: "Gabriel William Dias Ferreira"
 description: "Gabriel William Dias Ferreira is a Mid-career Soil Carbon researcher at Colorado State University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.275501
+date: 2026-09-11T02:38:29.221167
 url: "/cdr-researcher-census/researchers/gabriel-william-dias-ferreira-a5068090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 1,117 |
+| Citations | 1,158 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis shows that planting nitrogen-fixing species increases soil organic carbon stock** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Long-term Impacts of Tillage and Cover Cropping on Soil Organic Carbon and Carbon Oxidizable Fractions in a Tropical Sandy Soil** (2024)
    5 citations · Soil Carbon

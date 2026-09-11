@@ -1,7 +1,7 @@
 ---
 title: "Raj Kumar"
-description: "Raj Kumar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 153 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.371995
+description: "Raj Kumar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 151 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.331198
 url: "/cdr-researcher-census/researchers/raj-kumar-a5065810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,36 +42,39 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 755 |
-| Publications | 153 |
-| CDR Focus | 5.2% |
+| h-index | 13 |
+| Citations | 754 |
+| Publications | 151 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   119 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Agroforestry for controlling soil erosion and enhancing system productivity in ravine lands of Western India under climate change scenario** (2022)
-   94 citations · Soil Carbon
+   95 citations · Soil Carbon
 
 3. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
-   32 citations · General CDR
+   36 citations · General CDR
 
 4. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    16 citations · Soil Carbon
 
 5. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
-   6 citations · General CDR
+   7 citations · General CDR
 
 6. **Utilization of Saline and Other Poor-Quality Waters to Sustain Agroforestry Production** (2023)
    3 citations · Soil Carbon
 
-7. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
+7. **Divergent models of biomass accumulation, carbon sequestration, and carbon credit potential in reclaimed sodic lands** (2026)
+   2 citations · Soil Carbon
+
+8. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
    1 citations · Soil Carbon
 
-8. **Biomass production and carbon storage across slope aspects and altitudes in Western Himalaya: A case study of Pinus roxburghii forests in the fire-vulnerable region** (2025)
+9. **Biomass production and carbon storage across slope aspects and altitudes in Western Himalaya: A case study of Pinus roxburghii forests in the fire-vulnerable region** (2025)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Houssam Bouaboula"
 description: "Houssam Bouaboula is an Early-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.935025
+date: 2026-09-11T02:38:29.876775
 url: "/cdr-researcher-census/researchers/houssam-bouaboula-a5030517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 212 |
+| Citations | 226 |
 | Publications | 8 |
-| CDR Focus | 62.5% |
+| CDR Focus | 50.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects** (2024)
-   109 citations · DAC
+   115 citations · DAC
 
 2. **Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions** (2025)
-   26 citations · General CDR
+   29 citations · General CDR
 
 3. **Life cycle assessment of electrochemical pH-swing direct air capture** (2025)
-   7 citations · DAC
+   8 citations · DAC
 
 4. **Life Cycle Assessment of Electrochemical Ph-Swing Direct Air Capture** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 5. **Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Luise Brandt"
-description: "Luise Brandt is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.067174
+description: "Luise Brandt is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.939987
 url: "/cdr-researcher-census/researchers/luise-brandt-a5048047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 177 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 209 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Formation of mineral‐associated organic matter in temperate soils is primarily controlled by mineral type and modified by land use and management intensity** (2023)
-   70 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 ## External Profiles
 

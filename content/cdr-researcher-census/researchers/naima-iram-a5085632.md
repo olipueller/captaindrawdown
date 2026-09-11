@@ -1,7 +1,7 @@
 ---
 title: "Naima Iram"
 description: "Naima Iram is a Mid-career Soil Carbon researcher at Griffith University in AU. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.707004
+date: 2026-09-11T02:38:29.628264
 url: "/cdr-researcher-census/researchers/naima-iram-a5085632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 325 |
+| Citations | 356 |
 | Publications | 27 |
 | CDR Focus | 25.9% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   63 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Climate change mitigation and improvement of water quality from the restoration of a subtropical coastal wetland** (2022)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
    31 citations · Soil Carbon

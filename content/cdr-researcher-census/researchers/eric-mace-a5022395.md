@@ -1,7 +1,7 @@
 ---
 title: "Éric Macé"
-description: "Éric Macé is a Mid-career Ocean CDR researcher at Adaptation et Diversité en Milieu Marin in FR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.820388
+description: "Éric Macé is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.783796
 url: "/cdr-researcher-census/researchers/eric-mace-a5022395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eric-mace-a5022395/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Adaptation et Diversit\u00e9 en Milieu Marin"
+    "name": "Centre National de la Recherche Scientifique"
   },
   "sameAs": "https://openalex.org/A5022395677"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Éric Macé**  
-Adaptation et Diversité en Milieu Marin · 🇫🇷 FR
+Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 262 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 266 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

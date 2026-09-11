@@ -1,7 +1,7 @@
 ---
 title: "Ziye Wei"
-description: "Ziye Wei is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.926489
+description: "Ziye Wei is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.870796
 url: "/cdr-researcher-census/researchers/ziye-wei-a5008043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ziye-wei-a5008043/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Tech University"
+    "name": "Nanjing Forestry University"
   },
   "sameAs": "https://openalex.org/A5008043181"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ziye Wei**  
-Nanjing Tech University · 🇨🇳 CN
+Nanjing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 216 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 228 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mg/Al-layered double hydroxide modified biochar for simultaneous removal phosphate and nitrate from aqueous solution** (2021)
-   57 citations · Biochar
+   60 citations · Biochar
 
 ## External Profiles
 

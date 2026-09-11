@@ -1,7 +1,7 @@
 ---
 title: "Emily Warner"
-description: "Emily Warner is a Senior Soil Carbon researcher at Leverhulme Trust in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.783004
+description: "Emily Warner is a Senior Soil Carbon researcher at Leverhulme Trust in GB. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.706100
 url: "/cdr-researcher-census/researchers/emily-warner-a5082671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 281 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 306 |
+| Publications | 36 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · General CDR
 
 2. **Advancing nature‐based solutions through enhanced soil health monitoring in the United Kingdom** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **The effect of forest establishment on biodiversity and ecosystem function** (2021)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Antoine Rogeau"
-description: "Antoine Rogeau is a Mid-career General CDR researcher at Université Paris Sciences et Lettres in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.702366
+description: "Antoine Rogeau is a Mid-career General CDR researcher at École Nationale Supérieure des Mines de Paris in FR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.642333
 url: "/cdr-researcher-census/researchers/antoine-rogeau-a5084209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/antoine-rogeau-a5084209/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Paris Sciences et Lettres"
+    "name": "\u00c9cole Nationale Sup\u00e9rieure des Mines de Paris"
   },
   "sameAs": [
     "https://orcid.org/0009-0006-6912-9445",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Antoine Rogeau**  
-Université Paris Sciences et Lettres · 🇫🇷 FR
+École Nationale Supérieure des Mines de Paris · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 329 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
+| Citations | 346 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Decarbonisation modelling for key industrial sectors focusing on process changes in a cost-optimised pathway** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **Industry Decarbonisation Bottom-Up Modelling in a Cost Optimised Trajectory** (2024)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Weiming Yan"
-description: "Weiming Yan is a Senior Soil Carbon researcher at Shenzhen University in CN. With 68 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.123195
+description: "Weiming Yan is a Senior Soil Carbon researcher at Shenzhen University in CN. With 69 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.072160
 url: "/cdr-researcher-census/researchers/weiming-yan-a5021282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 3,407 |
-| Publications | 68 |
-| CDR Focus | 7.4% |
+| Citations | 3,515 |
+| Publications | 69 |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   90 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Shifts in the fungal community promote soil carbon accumulation in microaggregates during long‐term secondary succession** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Antagonistic and synergistic interactions dominate GHGs fluxes, soil properties and yield responses to biochar and N addition** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Impact of vegetation restoration on soil organic carbon fractions: A global meta-analysis** (2025)
    6 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 6. **Fungal community shifts driven by soil substrate availability govern microbial carbon use efficiency across an elevation gradient in the Qinling Mountains, China** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

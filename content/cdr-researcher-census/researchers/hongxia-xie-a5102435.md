@@ -1,7 +1,7 @@
 ---
 title: "Hongxia Xie"
 description: "Hongxia Xie is a Senior Soil Carbon researcher at Hangzhou City University. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.127318
+date: 2026-09-11T02:38:30.085627
 url: "/cdr-researcher-census/researchers/hongxia-xie-a5102435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 160 |
+| Citations | 165 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |

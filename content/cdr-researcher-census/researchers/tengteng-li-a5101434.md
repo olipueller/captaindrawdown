@@ -1,7 +1,7 @@
 ---
 title: "Tengteng Li"
-description: "Tengteng Li is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.380012
+description: "Tengteng Li is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.332586
 url: "/cdr-researcher-census/researchers/tengteng-li-a5101434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tengteng-li-a5101434/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Botanical Garden"
+    "name": "German Centre for Integrative Biodiversity Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7973-4979",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tengteng Li**  
-South China Botanical Garden · 🇨🇳 CN
+German Centre for Integrative Biodiversity Research · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 733 |
-| Publications | 19 |
-| CDR Focus | 26.3% |
+| Citations | 750 |
+| Publications | 20 |
+| CDR Focus | 30.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
@@ -66,6 +66,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations
 
 6. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
+   1 citations · Soil Carbon
+
+7. **Tree Diversity Reshapes Soil Carbon Formation before Carbon Accumulation during Early Afforestation** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

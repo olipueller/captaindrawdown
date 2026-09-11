@@ -1,7 +1,7 @@
 ---
 title: "Zi-Xi Liu"
 description: "Zi-Xi Liu is an Early-career Soil Carbon researcher at China Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.757497
+date: 2026-09-11T02:38:29.696612
 url: "/cdr-researcher-census/researchers/zi-xi-liu-a5081130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 294 |
+| Citations | 310 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of soil warming and straw return on soil organic matter and greenhouse gas fluxes in winter wheat seasons in the North China Plain** (2022)
-   84 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 ## External Profiles
 

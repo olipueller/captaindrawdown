@@ -1,7 +1,7 @@
 ---
 title: "Jinshan Lian"
 description: "Jinshan Lian is an Early-career Soil Carbon researcher at University of Liège in BE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.204990
+date: 2026-09-11T02:38:30.148108
 url: "/cdr-researcher-census/researchers/jinshan-lian-a5054670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 141 |
+| Citations | 149 |
 | Publications | 6 |
 | CDR Focus | 50.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilization affected microbial carbon use efficiency and microbial resource limitations via root exudates** (2024)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Root processes counteract the suppression of nitrogen-induced priming effects by enhancing microbial activity and catabolism in greenhouse vegetable production systems** (2025)
    1 citations · Soil Carbon

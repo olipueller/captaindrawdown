@@ -1,7 +1,7 @@
 ---
 title: "Gabin Piton"
-description: "Gabin Piton is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.493708
+description: "Gabin Piton is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.434062
 url: "/cdr-researcher-census/researchers/gabin-piton-a5043179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gabin-piton-a5043179/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Centre National de la Recherche Scientifique"
+    "name": "Centre de Coop\u00e9ration Internationale en Recherche Agronomique pour le D\u00e9veloppement"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6036-5787",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gabin Piton**  
-Centre National de la Recherche Scientifique · 🇫🇷 FR
+Centre de Coopération Internationale en Recherche Agronomique pour le Développement · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 525 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| h-index | 13 |
+| Citations | 557 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger is a Mid-career General CDR researcher at Perspectives Climate Research gGmbH in DE. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317735
+description: "Matthias Honegger is a Mid-career General CDR researcher at Perspectives Climate Research gGmbH in DE. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.267538
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,33 +43,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 921 |
-| Publications | 55 |
-| CDR Focus | 30.9% |
+| Citations | 946 |
+| Publications | 57 |
+| CDR Focus | 29.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Who Is Paying for Carbon Dioxide Removal? Designing Policy Instruments for Mobilizing Negative Emissions Technologies** (2021)
-   90 citations · General CDR
+   92 citations · General CDR
 
 2. **Is carbon dioxide removal ‘mitigation of climate change’?** (2021)
-   57 citations · General CDR
+   58 citations · General CDR
 
 3. **International carbon markets for carbon dioxide removal** (2023)
-   51 citations · General CDR
+   52 citations · General CDR
 
 4. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   44 citations · General CDR
+   45 citations · General CDR
 
 5. **Toward the effective and fair funding of CO2 removal technologies** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 6. **Review of Economics and Policies of Carbon Dioxide Removal** (2025)
    14 citations · BECCS
 
 7. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 8. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR

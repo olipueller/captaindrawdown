@@ -1,7 +1,7 @@
 ---
 title: "Purbasha Mistry"
 description: "Purbasha Mistry is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.137544
+date: 2026-09-11T02:38:30.069529
 url: "/cdr-researcher-census/researchers/purbasha-mistry-a5072236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 157 |
+| Citations | 170 |
 | Publications | 17 |
 | CDR Focus | 23.5% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   84 citations
+   89 citations
 
 2. **Factors Regulating the Potential for Freshwater Mineral Soil Wetlands to Function as Natural Climate Solutions** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Technical note: Comparison of radiometric techniques for estimating recent organic carbon sequestration rates in inland wetland soils** (2024)
    3 citations

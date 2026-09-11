@@ -1,7 +1,7 @@
 ---
 title: "Manu Pant"
 description: "Manu Pant is an Early-career Biochar researcher at Graphic Era University in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662312
+date: 2026-09-11T02:38:29.601476
 url: "/cdr-researcher-census/researchers/manu-pant-a5004327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 357 |
+| Citations | 376 |
 | Publications | 3 |
 | CDR Focus | 33.3% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Use of biomass-derived biochar in wastewater treatment and power production: A promising solution for a sustainable environment** (2022)
-   190 citations · Biochar
+   192 citations · Biochar
 
 ## External Profiles
 

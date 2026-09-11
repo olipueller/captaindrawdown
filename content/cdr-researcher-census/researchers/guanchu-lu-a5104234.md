@@ -1,7 +1,7 @@
 ---
 title: "Guanchu Lu"
-description: "Guanchu Lu is a Mid-career DAC researcher at Chinese University of Hong Kong, Shenzhen in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.810276
+description: "Guanchu Lu is a Mid-career DAC researcher at Chinese University of Hong Kong, Shenzhen in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.724409
 url: "/cdr-researcher-census/researchers/guanchu-lu-a5104234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 267 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 10 |
+| Citations | 296 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **An energy-efficient cyclic amine system developed for carbon capture from both flue gas and air** (2024)
-   21 citations · DAC
+   22 citations · DAC
 
 ## External Profiles
 

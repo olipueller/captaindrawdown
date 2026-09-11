@@ -1,7 +1,7 @@
 ---
 title: "Yaqi Sheng"
-description: "Yaqi Sheng is a Senior Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.310113
+description: "Yaqi Sheng is a Senior Biochar researcher at Zhejiang University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.262527
 url: "/cdr-researcher-census/researchers/yaqi-sheng-a5073057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yaqi-sheng-a5073057/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Medical Sciences & Peking Union Medical College"
+    "name": "Zhejiang University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1711-9177",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yaqi Sheng**  
-Chinese Academy of Medical Sciences & Peking Union Medical College · 🇨🇳 CN
+Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 954 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 968 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

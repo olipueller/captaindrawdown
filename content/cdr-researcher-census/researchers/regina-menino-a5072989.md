@@ -1,7 +1,7 @@
 ---
 title: "Regina Menino"
-description: "Regina Menino is a Senior BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.792641
+description: "Regina Menino is a Senior BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.751886
 url: "/cdr-researcher-census/researchers/regina-menino-a5072989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 277 |
-| Publications | 30 |
-| CDR Focus | 6.7% |
+| Citations | 282 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

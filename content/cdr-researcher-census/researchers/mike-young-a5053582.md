@@ -1,7 +1,7 @@
 ---
 title: "Mike Young"
 description: "Mike Young is a Senior DAC researcher at Structural Timber Innovation Company (New Zealand) in NZ. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.982271
+date: 2026-09-11T02:38:29.957203
 url: "/cdr-researcher-census/researchers/mike-young-a5053582/"
 layout: "researcher"
 hiddenInHomeList: true

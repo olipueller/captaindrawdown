@@ -1,7 +1,7 @@
 ---
 title: "Alison Thieme"
-description: "Alison Thieme is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.861886
+description: "Alison Thieme is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.797369
 url: "/cdr-researcher-census/researchers/alison-thieme-a5071434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 241 |
+| h-index | 8 |
+| Citations | 260 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations
 
 2. **Spaceborne imaging spectroscopy enables carbon trait estimation in cover crop and cash crop residues** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Satellite Remote Sensing Analysis to Support Winter Cover Crop Conservation Program Management in Maryland, USA** (2024)
    2 citations · General CDR

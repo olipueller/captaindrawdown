@@ -1,7 +1,7 @@
 ---
 title: "Karan Pinto"
 description: "Karan Pinto is a Mid-career General CDR researcher at Terra Quantum (Switzerland) in CH. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.252171
+date: 2026-09-11T02:38:30.177143
 url: "/cdr-researcher-census/researchers/karan-pinto-a5073136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 131 |
+| Citations | 142 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Quantum Algorithms Applied to Satellite Mission Planning for Earth Observation** (2023)
-   59 citations · General CDR
+   64 citations · General CDR
 
 2. **Quantum algorithms applied to satellite mission planning for Earth observation** (2023)
    1 citations · General CDR

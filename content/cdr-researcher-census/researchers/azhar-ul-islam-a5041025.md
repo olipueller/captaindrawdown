@@ -1,7 +1,7 @@
 ---
 title: "Azhar Ul Islam"
 description: "Azhar Ul Islam is a Mid-career Biochar researcher at COMSATS University Islamabad in PK. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.218098
+date: 2026-09-11T02:38:30.172470
 url: "/cdr-researcher-census/researchers/azhar-ul-islam-a5041025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 138 |
+| Citations | 143 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

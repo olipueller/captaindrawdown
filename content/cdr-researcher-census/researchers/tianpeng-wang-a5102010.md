@@ -1,7 +1,7 @@
 ---
 title: "Tianpeng Wang"
 description: "Tianpeng Wang is a Mid-career General CDR researcher at Tsinghua University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.717479
+date: 2026-09-11T02:38:29.648419
 url: "/cdr-researcher-census/researchers/tianpeng-wang-a5102010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 317 |
+| Citations | 342 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing CCS development uncertainties in China's energy system aligned with carbon neutrality** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **Earth system responses under a global 2 °C-target scenario aligned with China’s carbon neutrality pledge** (2025)
    4 citations · General CDR

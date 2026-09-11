@@ -1,7 +1,7 @@
 ---
 title: "Chun Fang"
 description: "Chun Fang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975942
+date: 2026-09-11T02:38:29.891411
 url: "/cdr-researcher-census/researchers/chun-fang-a5046005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 205 |
+| Citations | 221 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term ditch-buried straw return increases functionality of soil microbial communities** (2021)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 ## External Profiles
 

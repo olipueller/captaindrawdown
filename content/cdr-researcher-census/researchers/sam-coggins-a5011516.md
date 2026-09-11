@@ -1,7 +1,7 @@
 ---
 title: "Sam Coggins"
 description: "Sam Coggins is a Senior Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.913291
+date: 2026-09-11T02:38:29.882979
 url: "/cdr-researcher-census/researchers/sam-coggins-a5011516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 221 |
+| Citations | 224 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial interkingdom associations across soil depths reveal network connectivity and keystone taxa linked to soil fine-fraction carbon content** (2021)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 ## External Profiles
 

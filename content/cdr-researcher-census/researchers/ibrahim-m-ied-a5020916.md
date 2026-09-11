@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim M. Ied"
-description: "Ibrahim M. Ied is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.316093
+description: "Ibrahim M. Ied is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.268012
 url: "/cdr-researcher-census/researchers/ibrahim-m-ied-a5020916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 119 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 124 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Paleoenvironmental Conditions and Factors Controlling Organic Carbon Accumulation during the Jurassic–Early Cretaceous, Egypt: Organic and Inorganic Geochemical Approach** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

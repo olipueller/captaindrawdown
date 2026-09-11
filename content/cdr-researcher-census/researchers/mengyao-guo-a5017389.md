@@ -1,7 +1,7 @@
 ---
 title: "Mengyao Guo"
-description: "Mengyao Guo is an Early-career Soil Carbon researcher at Taiyuan University of Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.285212
+description: "Mengyao Guo is a Mid-career Soil Carbon researcher at Taiyuan University of Science and Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.042618
 url: "/cdr-researcher-census/researchers/mengyao-guo-a5017389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mengyao-guo-a5017389/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Taiyuan University of Technology"
+    "name": "Taiyuan University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5017389388"
 }
@@ -25,9 +25,9 @@ robots: "index, follow"
 ## Profile
 
 **Mengyao Guo**  
-Taiyuan University of Technology · 🇨🇳 CN
+Taiyuan University of Science and Technology · 🇨🇳 CN
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 125 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| h-index | 5 |
+| Citations | 177 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancement joint fertilization efficacy of straw and nitrogen fertilizer on soil quality and seedcotton yield for sustainable cotton farming** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

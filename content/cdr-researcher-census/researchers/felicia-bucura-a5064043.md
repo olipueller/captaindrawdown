@@ -1,7 +1,7 @@
 ---
 title: "Felicia Bucura"
-description: "Felicia Bucura is a Mid-career Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.780870
+description: "Felicia Bucura is a Mid-career Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.726546
 url: "/cdr-researcher-census/researchers/felicia-bucura-a5064043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 282 |
+| h-index | 10 |
+| Citations | 295 |
 | Publications | 46 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Thermochemical processing of agricultural waste into biochar with potential application for coal mining degraded soils** (2025)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Biochar for Soil Fertility and Climate Mitigation: Review on Feedstocks, Pyrolysis Conditions, Functional Properties, and Applications with Emerging AI Integration** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 3. **Comparative multifactor optimization of biochar from pyrolysis and gasification: A Taguchi – ANOVA - RSM framework for climate-resilient soil applications** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tongchuan Li"
-description: "Tongchuan Li is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.272474
+description: "Tongchuan Li is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 49 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.220460
 url: "/cdr-researcher-census/researchers/tongchuan-li-a5027832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,132 |
+| h-index | 22 |
+| Citations | 1,162 |
 | Publications | 49 |
 | CDR Focus | 10.2% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors controlling deep-profile soil organic carbon and water storage following Robinia pseudoacacia afforestation of the Loess Plateau in China** (2022)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Soil macroaggregates determine soil organic carbon in the natural grasslands of the Loess Plateau** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Review of Managing Soil Organic C Sequestration from Vegetation Restoration on the Loess Plateau** (2023)
-   20 citations · General CDR
+   22 citations · General CDR
 
 4. **Forest expansion on cropland on China’s Loess Plateau facilitates C sequestration by increasing microbial-derived but not plant-derived carbohydrates** (2022)
-   13 citations
+   14 citations
 
 5. **Forest management practices can increase the soil organic carbon sequestration potential of <i>Robinia pseudoacacia</i> plantations in the Loess Plateau** (2025)
    1 citations · Soil Carbon

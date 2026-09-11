@@ -1,7 +1,7 @@
 ---
 title: "Shike Geng"
-description: "Shike Geng is a Mid-career General CDR researcher at Zhongda Hospital Southeast University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.551785
+description: "Shike Geng is a Mid-career General CDR researcher at Second Affiliated Hospital of Zhejiang University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.508303
 url: "/cdr-researcher-census/researchers/shike-geng-a5045661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shike-geng-a5045661/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhongda Hospital Southeast University"
+    "name": "Second Affiliated Hospital of Zhejiang University"
   },
   "sameAs": "https://openalex.org/A5045661832"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Shike Geng**  
-Zhongda Hospital Southeast University · 🇨🇳 CN
+Second Affiliated Hospital of Zhejiang University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 455 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 460 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

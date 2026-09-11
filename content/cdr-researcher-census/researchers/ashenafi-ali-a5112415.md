@@ -1,7 +1,7 @@
 ---
 title: "Ashenafi Ali"
-description: "Ashenafi Ali is a Mid-career Soil Carbon researcher at Addis Ababa University in ET. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.057652
+description: "Ashenafi Ali is a Mid-career Soil Carbon researcher at Addis Ababa University in ET. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.982600
 url: "/cdr-researcher-census/researchers/ashenafi-ali-a5112415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 180 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Citations | 195 |
+| Publications | 29 |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modeling long-term attainable soil organic carbon sequestration across the highlands of Ethiopia** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Interactive Web Tool for Mapping Soil Organic Carbon Dynamics** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jiyong Kim"
-description: "Jiyong Kim is a Mid-career Biochar researcher at Fraunhofer Institute for Applied Polymer Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.420955
+description: "Jiyong Kim is a Mid-career Biochar researcher at Fraunhofer Institute for Applied Polymer Research in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.322977
 url: "/cdr-researcher-census/researchers/jiyong-kim-a5049243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 100 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 113 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Improving Spent Coffee Biochar for Effective Organic Contaminant Removal from Aqueous Media** (2025)
-   11 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Chaoui"
-description: "Ayoub Chaoui is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.793118
+description: "Ayoub Chaoui is a Mid-career Biochar researcher at Universidade do Porto in PT. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.692728
 url: "/cdr-researcher-census/researchers/ayoub-chaoui-a5010862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ayoub-chaoui-a5010862/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Ibn Zohr"
+    "name": "Universidade do Porto"
   },
   "sameAs": [
     "https://orcid.org/0009-0003-4029-6854",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ayoub Chaoui**  
-Université Ibn Zohr ·  MA
+Universidade do Porto · 🇵🇹 PT
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 276 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 11 |
+| Citations | 312 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

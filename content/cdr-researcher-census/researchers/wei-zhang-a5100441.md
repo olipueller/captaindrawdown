@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.454952
+date: 2026-09-11T02:38:29.406495
 url: "/cdr-researcher-census/researchers/wei-zhang-a5100441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 584 |
+| Citations | 598 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Exiting |

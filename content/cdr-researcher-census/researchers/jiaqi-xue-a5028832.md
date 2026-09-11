@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Xue"
-description: "Jiaqi Xue is a Mid-career Biochar researcher at Beijing Institute of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.730779
+description: "Jiaqi Xue is a Mid-career Biochar researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.666176
 url: "/cdr-researcher-census/researchers/jiaqi-xue-a5028832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jiaqi Xue",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jiaqi-xue-a5028832/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Beijing Institute of Technology"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-1235-9729",
     "https://openalex.org/A5028832989"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Jiaqi Xue**  
-Beijing Institute of Technology · 🇨🇳 CN
+**Jiaqi Xue**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 309 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 329 |
+| Publications | 10 |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

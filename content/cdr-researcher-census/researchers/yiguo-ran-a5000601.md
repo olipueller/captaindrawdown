@@ -1,7 +1,7 @@
 ---
 title: "Yiguo Ran"
 description: "Yiguo Ran is a Mid-career Soil Carbon researcher at Chongqing Institute of Green and Intelligent Technology in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.571251
+date: 2026-09-11T02:38:29.513593
 url: "/cdr-researcher-census/researchers/yiguo-ran-a5000601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 435 |
+| Citations | 454 |
 | Publications | 20 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intense wet-dry cycles weakened the carbon sequestration of soil aggregates in the riparian zone** (2022)
-   52 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Ameliorating soil structure for the reservoir riparian: The influences of land use and dam-triggered flooding on soil aggregates** (2021)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Enhanced priming effect in agricultural soils driven by high-quality exogenous organic carbon additions: A meta-analysis** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Flooding increases plant-derived carbon accumulation in soils of aquatic-terrestrial ecotone** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

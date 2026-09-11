@@ -1,7 +1,7 @@
 ---
 title: "Siamak Sheykhha"
 description: "Siamak Sheykhha is a Mid-career DAC researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.619295
+date: 2026-09-11T02:38:29.581536
 url: "/cdr-researcher-census/researchers/siamak-sheykhha-a5039535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 391 |
+| Citations | 392 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

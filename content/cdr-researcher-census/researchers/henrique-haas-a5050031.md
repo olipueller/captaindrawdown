@@ -1,7 +1,7 @@
 ---
 title: "Henrique Haas"
-description: "Henrique Haas is a Mid-career General CDR researcher at Columbia University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328409
+description: "Henrique Haas is a Mid-career General CDR researcher at New Mexico State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.275462
 url: "/cdr-researcher-census/researchers/henrique-haas-a5050031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/henrique-haas-a5050031/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Columbia University"
+    "name": "New Mexico State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4943-0012",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Henrique Haas**  
-Columbia University · 🇺🇸 US
+New Mexico State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 117 |
+| Citations | 123 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |

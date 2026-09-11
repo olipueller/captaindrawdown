@@ -1,7 +1,7 @@
 ---
 title: "Tess Blom"
 description: "Tess Blom is a Mid-career General CDR researcher at Delft University of Technology in NL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.030172
+date: 2026-09-11T02:38:29.973799
 url: "/cdr-researcher-census/researchers/tess-blom-a5020076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 188 |
+| Citations | 198 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The embodied carbon emissions of lettuce production in vertical farming, greenhouse horticulture, and open-field farming in the Netherlands** (2022)
-   124 citations · General CDR
+   126 citations · General CDR
 
 ## External Profiles
 

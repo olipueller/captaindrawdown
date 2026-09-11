@@ -1,7 +1,7 @@
 ---
 title: "Fangshi Jiang"
-description: "Fangshi Jiang is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.450041
+description: "Fangshi Jiang is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.414427
 url: "/cdr-researcher-census/researchers/fangshi-jiang-a5044812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 593 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 11 |
+| Citations | 587 |
+| Publications | 35 |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

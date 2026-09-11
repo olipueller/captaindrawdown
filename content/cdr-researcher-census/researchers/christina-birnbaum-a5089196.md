@@ -1,7 +1,7 @@
 ---
 title: "Christina Birnbaum"
-description: "Christina Birnbaum is a Mid-career Soil Carbon researcher at University of Southern Queensland in AU. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.565875
+description: "Christina Birnbaum is a Mid-career Soil Carbon researcher at University of Southern Queensland in AU. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.515014
 url: "/cdr-researcher-census/researchers/christina-birnbaum-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 440 |
-| Publications | 55 |
-| CDR Focus | 7.3% |
+| Citations | 453 |
+| Publications | 54 |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

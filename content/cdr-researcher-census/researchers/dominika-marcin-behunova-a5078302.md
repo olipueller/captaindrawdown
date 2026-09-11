@@ -1,7 +1,7 @@
 ---
 title: "Dominika Marcin Behunová"
 description: "Dominika Marcin Behunová is a Mid-career Biochar researcher. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.103557
+date: 2026-09-11T02:38:30.061228
 url: "/cdr-researcher-census/researchers/dominika-marcin-behunova-a5078302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 166 |
+| Citations | 172 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New perception of Zn(II) and Mn(II) removal mechanism on sustainable sunflower biochar from alkaline batteries contaminated water** (2021)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **NOVEL PERCEPTION OF Zn(II) AND Mn(II) REMOVAL MECHANISM ON SUSTAINABLE SUNFLOWER BIOCHAR FROM ALKALINE BATTERIES CONTAMINATED WATER** (2021)
    0 citations · Biochar

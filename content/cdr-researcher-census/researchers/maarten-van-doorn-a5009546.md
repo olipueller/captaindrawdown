@@ -1,7 +1,7 @@
 ---
 title: "Maarten van Doorn"
-description: "Maarten van Doorn is a Mid-career Soil Carbon researcher at NutriLeads (Netherlands) in NL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.171046
+description: "Maarten van Doorn is a Mid-career Soil Carbon researcher at NutriLeads (Netherlands) in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.098455
 url: "/cdr-researcher-census/researchers/maarten-van-doorn-a5009546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 149 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 161 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

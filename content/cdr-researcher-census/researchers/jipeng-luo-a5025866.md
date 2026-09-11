@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Luo"
-description: "Jipeng Luo is a Senior Soil Carbon researcher at Zhejiang University in CN. With 61 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.159754
+description: "Jipeng Luo is a Senior Soil Carbon researcher at Indiana University Bloomington in CN. With 58 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.107513
 url: "/cdr-researcher-census/researchers/jipeng-luo-a5025866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jipeng-luo-a5025866/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Zhejiang University"
+    "name": "Indiana University Bloomington"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1106-6887",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jipeng Luo**  
-Zhejiang University · 🇨🇳 CN
+Indiana University Bloomington · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 2,258 |
-| Publications | 61 |
-| CDR Focus | 6.6% |
+| h-index | 29 |
+| Citations | 2,340 |
+| Publications | 58 |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

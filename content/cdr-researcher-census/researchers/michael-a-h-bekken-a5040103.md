@@ -1,7 +1,7 @@
 ---
 title: "Michael A. H. Bekken"
 description: "Michael A. H. Bekken is a Mid-career Soil Carbon researcher at University of Wisconsin System in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.365743
+date: 2026-09-11T02:38:30.298306
 url: "/cdr-researcher-census/researchers/michael-a-h-bekken-a5040103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 110 |
+| Citations | 118 |
 | Publications | 20 |
 | CDR Focus | 15.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Strategies for reducing inputs and emissions in turfgrass systems** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **Estimated energy use and greenhouse gas emissions associated with golf course turfgrass maintenance in the Northern USA** (2021)
    22 citations · General CDR

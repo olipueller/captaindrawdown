@@ -1,7 +1,7 @@
 ---
 title: "Lorenz Keyßer"
-description: "Lorenz Keyßer is a Mid-career General CDR researcher at University of Lausanne in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.194354
+description: "Lorenz Keyßer is a Mid-career General CDR researcher at University of Lausanne in CH. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.141106
 url: "/cdr-researcher-census/researchers/lorenz-keyer-a5001022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 1,736 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 1,802 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **1.5 °C degrowth scenarios suggest the need for new mitigation pathways** (2021)
-   325 citations · General CDR
+   327 citations · General CDR
 
 ## External Profiles
 

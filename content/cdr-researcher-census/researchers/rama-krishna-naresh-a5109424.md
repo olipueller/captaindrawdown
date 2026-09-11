@@ -1,7 +1,7 @@
 ---
 title: "Rama Krishna Naresh"
 description: "Rama Krishna Naresh is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.423073
+date: 2026-09-11T02:38:30.393927
 url: "/cdr-researcher-census/researchers/rama-krishna-naresh-a5109424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 100 |
+| Citations | 101 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

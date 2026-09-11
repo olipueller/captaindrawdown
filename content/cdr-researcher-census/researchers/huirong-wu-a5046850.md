@@ -1,7 +1,7 @@
 ---
 title: "Huirong Wu"
 description: "Huirong Wu is a Mid-career Soil Carbon researcher at Nantong University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.521172
+date: 2026-09-11T02:38:29.477617
 url: "/cdr-researcher-census/researchers/huirong-wu-a5046850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 487 |
+| Citations | 493 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

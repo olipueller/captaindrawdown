@@ -1,7 +1,7 @@
 ---
 title: "Linqiao Jia"
-description: "Linqiao Jia is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.137826
+description: "Linqiao Jia is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.075443
 url: "/cdr-researcher-census/researchers/linqiao-jia-a5081615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 157 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 168 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Mineral-associated organic carbon predicts the variations in microbial biomass and specific enzyme activities in a subtropical forest** (2023)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

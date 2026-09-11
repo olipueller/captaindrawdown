@@ -1,7 +1,7 @@
 ---
 title: "Shijie Guo"
 description: "Shijie Guo is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.929305
+date: 2026-09-11T02:38:29.888831
 url: "/cdr-researcher-census/researchers/shijie-guo-a5011930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 215 |
+| Citations | 222 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

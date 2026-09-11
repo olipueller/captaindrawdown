@@ -1,7 +1,7 @@
 ---
 title: "Gongjing Zhang"
 description: "Gongjing Zhang is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.741382
+date: 2026-09-11T02:38:29.674688
 url: "/cdr-researcher-census/researchers/gongjing-zhang-a5079392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 303 |
+| Citations | 323 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Dramatic attenuation of continental weathering during the Ediacaran-Cambrian transition: Implications for the climatic-oceanic-biological co-evolution** (2021)
-   52 citations · Enhanced Weathering
+   53 citations · Enhanced Weathering
 
 2. **Controls on Organic Matter Accumulation from an Upper Slope Section on the Early Cambrian Yangtze Platform, South China** (2023)
    8 citations

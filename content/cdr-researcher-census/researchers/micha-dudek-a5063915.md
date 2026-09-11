@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
-description: "Michał Dudek is a Mid-career Biochar researcher at Geological Institute in RU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.833181
+description: "Michał Dudek is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.754328
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/micha-dudek-a5063915/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Geological Institute"
+    "name": "Wroc\u0142aw University of Environmental and Life Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9410-5131",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michał Dudek**  
-Geological Institute · 🇷🇺 RU
+Wrocław University of Environmental and Life Sciences ·  PL
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 255 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 280 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   15 citations
+   19 citations
 
 2. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
    7 citations · Biochar

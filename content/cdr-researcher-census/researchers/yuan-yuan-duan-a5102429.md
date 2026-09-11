@@ -1,7 +1,7 @@
 ---
 title: "Yuan Yuan Duan"
-description: "Yuan Yuan Duan is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.381870
+description: "Yuan Yuan Duan is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.310190
 url: "/cdr-researcher-census/researchers/yuan-yuan-duan-a5102429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 107 |
+| h-index | 8 |
+| Citations | 116 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

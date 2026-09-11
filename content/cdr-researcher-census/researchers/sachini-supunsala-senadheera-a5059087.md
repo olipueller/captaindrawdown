@@ -1,7 +1,7 @@
 ---
 title: "Sachini Supunsala Senadheera"
-description: "Sachini Supunsala Senadheera is a Mid-career Biochar researcher at Korea University in KR. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.366039
+description: "Sachini Supunsala Senadheera is a Mid-career Biochar researcher at Korea University in KR. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.300077
 url: "/cdr-researcher-census/researchers/sachini-supunsala-senadheera-a5059087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 769 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| Citations | 835 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    31 citations · Biochar
 
 2. **Plasma-modified biochar for energy and environmental sustainability** (2025)
-   10 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

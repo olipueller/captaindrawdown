@@ -1,7 +1,7 @@
 ---
 title: "Fernando Zancan"
-description: "Fernando Zancan is a Senior General CDR researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.100561
+description: "Fernando Zancan is a Senior BECCS researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.074328
 url: "/cdr-researcher-census/researchers/fernando-zancan-a5003278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,18 +26,18 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 167 |
+| Citations | 168 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

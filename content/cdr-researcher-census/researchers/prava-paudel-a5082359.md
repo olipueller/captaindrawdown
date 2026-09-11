@@ -1,7 +1,7 @@
 ---
 title: "Prava Paudel"
 description: "Prava Paudel is a Mid-career Biochar researcher at Purbanchal University in NP. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.649395
+date: 2026-09-11T02:38:29.601938
 url: "/cdr-researcher-census/researchers/prava-paudel-a5082359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 366 |
+| Citations | 376 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application: A sustainable approach to improve soil health** (2023)
-   254 citations · Biochar
+   256 citations · Biochar
 
 ## External Profiles
 

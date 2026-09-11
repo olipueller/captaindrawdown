@@ -1,7 +1,7 @@
 ---
 title: "Ding Hou"
 description: "Ding Hou is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.465525
+date: 2026-09-11T02:38:29.418281
 url: "/cdr-researcher-census/researchers/ding-hou-a5012481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 567 |
+| Citations | 580 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced adsorption of bisphenol A in using N-doped biochar from corn kernel wastes via multiple adsorption sites** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

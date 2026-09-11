@@ -1,7 +1,7 @@
 ---
 title: "Kristen R. Schell"
-description: "Kristen R. Schell is a Mid-career General CDR researcher at Carleton University in CA. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.540422
+description: "Kristen R. Schell is a Mid-career General CDR researcher at Carleton University in CA. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.482176
 url: "/cdr-researcher-census/researchers/kristen-r-schell-a5088558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 465 |
-| Publications | 42 |
-| CDR Focus | 7.1% |
+| Citations | 487 |
+| Publications | 43 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    18 citations · DAC
 
 2. **Impact of direct air capture process flexibility and response to ambient conditions in net-zero transition of the power grid** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **Laying the foundations for negative emissions technologies: insights from a workshop** (2024)
-   0 citations · General CDR
+   1 citations · General CDR
 
 4. **Modeling the Maximization of Waste Heat Use in a Liquid Solvent Direct Air Capture Plant Through Hydrogen Production** (2024)
    0 citations

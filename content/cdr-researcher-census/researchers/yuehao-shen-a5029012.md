@@ -1,7 +1,7 @@
 ---
 title: "Yuehao Shen"
 description: "Yuehao Shen is an Early-career Biochar researcher at Tianjin University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.148847
+date: 2026-09-11T02:38:30.096873
 url: "/cdr-researcher-census/researchers/yuehao-shen-a5029012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 154 |
+| Citations | 161 |
 | Publications | 3 |
 | CDR Focus | 66.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of magnetic biochar-supported Fe-Cu bimetallic catalyst from pulp and paper mill wastes for the Fenton-like removal of rhodamine B dye** (2023)
-   48 citations · Biochar
+   50 citations · Biochar
 
 2. **Synthesis of magnetic nZVI@biochar catalyst from acid precipitated black liquor and Fenton sludge and its application for Fenton-like removal of rhodamine B dye** (2022)
    47 citations · Biochar

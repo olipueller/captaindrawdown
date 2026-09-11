@@ -1,7 +1,7 @@
 ---
 title: "Owais Shah"
 description: "Owais Shah is an Early-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.404107
+date: 2026-09-11T02:38:30.329182
 url: "/cdr-researcher-census/researchers/owais-shah-a5015289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 103 |
+| Citations | 112 |
 | Publications | 1 |
 | CDR Focus | 100.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of Biochar for Improving Physical, Chemical, and Hydrological Soil Properties: A Systematic Review** (2022)
-   106 citations · Biochar
+   112 citations · Biochar
 
 ## External Profiles
 

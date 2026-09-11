@@ -1,7 +1,7 @@
 ---
 title: "Fungmin Liew"
-description: "Fungmin Liew is a Mid-career General CDR researcher. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.158837
+description: "Fungmin Liew is a Mid-career General CDR researcher. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.108957
 url: "/cdr-researcher-census/researchers/fungmin-liew-a5040676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 2,276 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 2,314 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Addendum: Carbon-negative production of acetone and isopropanol by gas fermentation at industrial pilot scale** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

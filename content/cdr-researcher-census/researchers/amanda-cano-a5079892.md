@@ -1,7 +1,7 @@
 ---
 title: "Amanda Cano"
 description: "Amanda Cano is a Mid-career Soil Carbon researcher at Tetra Tech (United States) in US. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.444261
+date: 2026-09-11T02:38:29.403244
 url: "/cdr-researcher-census/researchers/amanda-cano-a5079892/"
 layout: "researcher"
 hiddenInHomeList: true

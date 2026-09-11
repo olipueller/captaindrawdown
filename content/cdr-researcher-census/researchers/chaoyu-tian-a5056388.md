@@ -1,7 +1,7 @@
 ---
 title: "Chaoyu Tian"
-description: "Chaoyu Tian is a Mid-career Biochar researcher at Xiangtan University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777094
+description: "Chaoyu Tian is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.729949
 url: "/cdr-researcher-census/researchers/chaoyu-tian-a5056388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chaoyu-tian-a5056388/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xiangtan University"
+    "name": "Anhui University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4668-110X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chaoyu Tian**  
-Xiangtan University · 🇨🇳 CN
+Anhui University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 284 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 293 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

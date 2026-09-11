@@ -1,7 +1,7 @@
 ---
 title: "Asma Sarwer"
 description: "Asma Sarwer is an Early-career BECCS researcher at COMSATS University Islamabad in PK. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.557526
+date: 2026-09-11T02:38:29.492685
 url: "/cdr-researcher-census/researchers/asma-sarwer-a5000091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 448 |
+| Citations | 476 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Algal biomass valorization for biofuel production and carbon sequestration: a review** (2022)
-   366 citations · BECCS
+   376 citations · BECCS
 
 ## External Profiles
 

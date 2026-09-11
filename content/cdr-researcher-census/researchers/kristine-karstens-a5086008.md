@@ -1,7 +1,7 @@
 ---
 title: "Kristine Karstens"
-description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.448427
+description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.391804
 url: "/cdr-researcher-census/researchers/kristine-karstens-a5086008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 595 |
-| Publications | 49 |
-| CDR Focus | 14.3% |
+| Citations | 622 |
+| Publications | 54 |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,23 +59,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    1 citations · General CDR
 
-4. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-5. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
+
+6. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+   0 citations · BECCS
+
+7. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-6. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
+8. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
    0 citations · General CDR
 
-7. **Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time** (2024)
+9. **Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time** (2024)
    0 citations · General CDR
 
-8. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
+10. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    0 citations
-
-9. **Full reply on RC1** (2021)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

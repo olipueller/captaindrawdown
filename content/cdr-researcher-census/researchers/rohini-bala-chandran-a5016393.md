@@ -1,7 +1,7 @@
 ---
 title: "Rohini Bala Chandran"
-description: "Rohini Bala Chandran is a Mid-career Ocean CDR researcher at University of Michigan in US. With 102 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.372523
+description: "Rohini Bala Chandran is a Mid-career Ocean CDR researcher at University of Michigan in US. With 105 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.321235
 url: "/cdr-researcher-census/researchers/rohini-bala-chandran-a5016393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 753 |
-| Publications | 102 |
-| CDR Focus | 7.8% |
+| Citations | 780 |
+| Publications | 105 |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Demand-side flexibility enables cost savings in a reversible pH-swing electrochemical process for oceanic CO2 removal** (2024)
-   8 citations · DAC
+   9 citations · DAC
 
 2. **Modeling and Performance Projections of a Dual-Purpose CO<sub>2</sub> Capture and Energy Storage Device from Oceanwater** (2023)
    1 citations · DAC

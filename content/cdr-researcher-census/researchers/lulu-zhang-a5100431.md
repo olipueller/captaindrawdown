@@ -1,7 +1,7 @@
 ---
 title: "Lulu Zhang"
-description: "Lulu Zhang is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537003
+description: "Lulu Zhang is a Mid-career Soil Carbon researcher at Hebei University of Science and Technology in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.476119
 url: "/cdr-researcher-census/researchers/lulu-zhang-a5100431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lulu-zhang-a5100431/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong Normal University"
+    "name": "Hebei University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7209-5879",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lulu Zhang**  
-Shandong Normal University · 🇨🇳 CN
+Hebei University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 469 |
-| Publications | 31 |
-| CDR Focus | 16.1% |
+| h-index | 13 |
+| Citations | 495 |
+| Publications | 32 |
+| CDR Focus | 15.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   25 citations · Ocean CDR
+   26 citations · Ocean CDR
 
 4. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 5. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    6 citations · Soil Carbon

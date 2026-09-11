@@ -1,7 +1,7 @@
 ---
 title: "Hanshuang Zhao"
-description: "Hanshuang Zhao is a Mid-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.907232
+description: "Hanshuang Zhao is a Mid-career Ocean CDR researcher at East China University of Science and Technology in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.835732
 url: "/cdr-researcher-census/researchers/hanshuang-zhao-a5048037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanshuang-zhao-a5048037/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "East China University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5048037326"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hanshuang Zhao**  
-Chinese Academy of Sciences · 🇨🇳 CN
+East China University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 223 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 242 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Fate and carbon sequestration potential of sunken macroalgae in coastal oceans from long-term microbial degradation perspective** (2025)
-   14 citations · Ocean CDR
+   15 citations · Ocean CDR
 
 ## External Profiles
 

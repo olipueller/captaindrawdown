@@ -1,7 +1,7 @@
 ---
 title: "Yanxing Dou"
-description: "Yanxing Dou is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 31 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.165719
+description: "Yanxing Dou is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 31 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.112046
 url: "/cdr-researcher-census/researchers/yanxing-dou-a5046356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 2,129 |
+| h-index | 19 |
+| Citations | 2,261 |
 | Publications | 31 |
 | CDR Focus | 19.4% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increasing contribution of microbial residues to soil organic carbon in grassland restoration chronosequence** (2022)
-   264 citations
+   271 citations
 
 2. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
-   75 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 3. **Importance of soil labile organic carbon fractions in shaping microbial community after vegetation restoration** (2022)
-   50 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 4. **[Advances in the research of transformation and stabilization of soil organic carbon from plant and microbe].** (2024)
    9 citations · General CDR
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Distinct Roles of Forest Stand Types in Regulating Soil Organic Carbon Stability Across Depths** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 8. **Editorial: Climate change and soil microbial control of carbon sequestration** (2025)
    0 citations · General CDR

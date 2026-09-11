@@ -1,7 +1,7 @@
 ---
 title: "Fenghao Liu"
-description: "Fenghao Liu is a Mid-career General CDR researcher at Tongji University in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130176
+description: "Fenghao Liu is a Mid-career General CDR researcher at Tongji University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.065376
 url: "/cdr-researcher-census/researchers/fenghao-liu-a5079651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 159 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 171 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

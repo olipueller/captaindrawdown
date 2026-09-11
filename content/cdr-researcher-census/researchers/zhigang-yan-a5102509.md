@@ -1,7 +1,7 @@
 ---
 title: "Zhigang Yan"
-description: "Zhigang Yan is a Senior Soil Carbon researcher at China University of Mining and Technology in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249929
+description: "Zhigang Yan is a Senior Soil Carbon researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.157474
 url: "/cdr-researcher-census/researchers/zhigang-yan-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 1,257 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 1,632 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Drivers and regional heterogeneity of cropland net ecosystem productivity across China’s three major plains** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

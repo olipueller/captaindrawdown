@@ -1,7 +1,7 @@
 ---
 title: "Angyan Ren"
 description: "Angyan Ren is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.735146
+date: 2026-09-11T02:38:29.678774
 url: "/cdr-researcher-census/researchers/angyan-ren-a5089690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 307 |
+| Citations | 321 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

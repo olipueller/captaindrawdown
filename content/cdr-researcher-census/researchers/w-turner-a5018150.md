@@ -1,7 +1,7 @@
 ---
 title: "W. Turner"
-description: "W. Turner is a Mid-career Enhanced Weathering researcher at UNDO Carbon in GB. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.119872
+description: "W. Turner is a Mid-career Enhanced Weathering researcher at UNDO Carbon in GB. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.069003
 url: "/cdr-researcher-census/researchers/w-turner-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 3,542 |
-| Publications | 33 |
-| CDR Focus | 15.2% |
+| Citations | 3,640 |
+| Publications | 34 |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   47 citations
+   50 citations
 
 2. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    2 citations · Enhanced Weathering

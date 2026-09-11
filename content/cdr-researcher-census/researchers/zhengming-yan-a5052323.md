@@ -1,7 +1,7 @@
 ---
 title: "Zhengming Yan"
 description: "Zhengming Yan is an Early-career Soil Carbon researcher at Nanjing Forestry University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.405637
+date: 2026-09-11T02:38:30.338359
 url: "/cdr-researcher-census/researchers/zhengming-yan-a5052323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 103 |
+| Citations | 110 |
 | Publications | 6 |
 | CDR Focus | 33.3% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Accumulation of soil microbial extracellular and cellular residues during forest rewilding: Implications for soil carbon stabilization in older plantations** (2023)
-   53 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Forest development induces soil aggregate formation and stabilization: Implications for sequestration of soil carbon and nitrogen** (2024)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

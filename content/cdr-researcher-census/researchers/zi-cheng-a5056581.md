@@ -1,7 +1,7 @@
 ---
 title: "Zi Cheng"
 description: "Zi Cheng is a Mid-career Biochar researcher at Hebei University of Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.024664
+date: 2026-09-11T02:38:29.951722
 url: "/cdr-researcher-census/researchers/zi-cheng-a5056581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 189 |
+| Citations | 204 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into the mechanisms of ball-milled biochar addition on soil tetracycline degradation enhancement: Physicochemical properties and microbial community structure** (2021)
-   77 citations · Biochar
+   78 citations · Biochar
 
 ## External Profiles
 

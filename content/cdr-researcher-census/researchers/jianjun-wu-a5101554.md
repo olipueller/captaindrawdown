@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Wu"
-description: "Jianjun Wu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.392392
+description: "Jianjun Wu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.373528
 url: "/cdr-researcher-census/researchers/jianjun-wu-a5101554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 105 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| h-index | 5 |
+| Citations | 104 |
+| Publications | 6 |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tetracycline adsorption on nitrogen-doped furfural residue biochar: Kinetics, thermodynamics and mechanism analysis** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

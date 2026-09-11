@@ -1,7 +1,7 @@
 ---
 title: "S. S. Rattan"
 description: "S. S. Rattan is a Senior Biochar researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.304766
+date: 2026-09-11T02:38:30.282622
 url: "/cdr-researcher-census/researchers/s-s-rattan-a5033368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Continuous Incorporation of Rice Residue and Its Biochar for 8 Years Promotes Potassium Availability, Soil Functionality and Crop Productivity Under Rice‐Wheat System in North‐Western India** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

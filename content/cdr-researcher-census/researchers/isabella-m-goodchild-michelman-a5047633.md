@@ -1,7 +1,7 @@
 ---
 title: "Isabella M. Goodchild-Michelman"
 description: "Isabella M. Goodchild-Michelman is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.085104
+date: 2026-09-11T02:38:30.020584
 url: "/cdr-researcher-census/researchers/isabella-m-goodchild-michelman-a5047633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 172 |
+| Citations | 184 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Cyanobacteria newly isolated from marine volcanic seeps display rapid sinking and robust, high-density growth** (2024)
-   10 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

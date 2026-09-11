@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Lu"
-description: "Xinrui Lu is a Senior Soil Carbon researcher at Donghua University in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.490204
+description: "Xinrui Lu is a Senior Soil Carbon researcher at Donghua University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.466082
 url: "/cdr-researcher-census/researchers/xinrui-lu-a5103176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 530 |
-| Publications | 34 |
-| CDR Focus | 11.8% |
+| Citations | 506 |
+| Publications | 33 |
+| CDR Focus | 12.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar promotes soil aggregate stability and associated organic carbon sequestration and regulates microbial community structures in Mollisols from northeast China** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **Coupling of Biochar and Manure Improves Soil Carbon Pool Stability, Pore Structure, and Microbial Diversity** (2025)
-   15 citations · Biochar
+   16 citations · Biochar
 
 3. **The Residue Chemistry Transformation Linked to the Fungi Keystone Taxa during Different Residue Tissues Incorporation into Mollisols in Northeast China** (2024)
    7 citations · Soil Carbon

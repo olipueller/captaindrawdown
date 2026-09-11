@@ -1,7 +1,7 @@
 ---
 title: "Maxwell Pisciotta"
 description: "Maxwell Pisciotta is a Mid-career General CDR researcher at University of Pennsylvania in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.283884
+date: 2026-09-11T02:38:29.226733
 url: "/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 1,072 |
+| Citations | 1,124 |
 | Publications | 21 |
 | CDR Focus | 38.1% |
 | Trajectory | Growing |
@@ -51,27 +51,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   700 citations · DAC
+   715 citations · DAC
 
 2. **Atmospheric methane removal: a research agenda** (2021)
-   125 citations · General CDR
+   128 citations · General CDR
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
+   62 citations · General CDR
 
 4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 5. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
-   4 citations · DAC
+   8 citations · DAC
 
 6. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
+   2 citations · DAC
+
+7. **Evaluating Thermal Efficiency and Economic Impacts in Supplying Energy Demands for Direct Air Capture** (2025)
    1 citations · DAC
 
-7. **A Multifaceted Approach to CO2 Emissions Reductions and Removals** (2024)
-   0 citations · DAC
-
-8. **Evaluating Thermal Efficiency and Economic Impacts in Supplying Energy Demands for Direct Air Capture** (2025)
+8. **A Multifaceted Approach to CO2 Emissions Reductions and Removals** (2024)
    0 citations · DAC
 
 9. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)

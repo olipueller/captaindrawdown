@@ -1,7 +1,7 @@
 ---
 title: "Meisam Rezaei"
 description: "Meisam Rezaei is a Mid-career Biochar researcher at Soil and Water Research Institute (SWRI), Agricultural Research, Education and Extension Organization (AREEO) in IR. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.303228
+date: 2026-09-11T02:38:29.248822
 url: "/cdr-researcher-census/researchers/meisam-rezaei-a5076660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 978 |
+| Citations | 1,017 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

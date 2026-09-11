@@ -1,7 +1,7 @@
 ---
 title: "Yash P. Dang"
-description: "Yash P. Dang is a Senior Soil Carbon researcher at The University of Queensland in AU. With 155 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.105187
+description: "Yash P. Dang is a Senior Soil Carbon researcher at The University of Queensland in AU. With 161 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.054454
 url: "/cdr-researcher-census/researchers/yash-p-dang-a5013229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 38 |
-| Citations | 4,400 |
-| Publications | 155 |
-| CDR Focus | 11.0% |
+| Citations | 4,588 |
+| Publications | 161 |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   96 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   48 citations · General CDR
+   54 citations · General CDR
 
 3. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
-4. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
-   33 citations · Soil Carbon
+4. **Soil Organic Carbon Estimation via Remote Sensing and Machine Learning Techniques: Global Topic Modeling and Research Trend Exploration** (2024)
+   34 citations · General CDR
 
-5. **Soil Organic Carbon Estimation via Remote Sensing and Machine Learning Techniques: Global Topic Modeling and Research Trend Exploration** (2024)
-   31 citations · General CDR
+5. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
+   34 citations · Soil Carbon
 
 6. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 7. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
    29 citations · Soil Carbon

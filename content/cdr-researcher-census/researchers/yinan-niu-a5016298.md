@@ -1,7 +1,7 @@
 ---
 title: "Yinan Niu"
-description: "Yinan Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.174049
+description: "Yinan Niu is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.118035
 url: "/cdr-researcher-census/researchers/yinan-niu-a5016298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yinan-niu-a5016298/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Agricultural Sciences"
+    "name": "Hebei Agricultural University"
   },
   "sameAs": "https://openalex.org/A5016298782"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yinan Niu**  
-Chinese Academy of Agricultural Sciences · 🇨🇳 CN
+Hebei Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 148 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 156 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

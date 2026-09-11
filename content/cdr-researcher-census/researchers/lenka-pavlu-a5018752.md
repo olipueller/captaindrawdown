@@ -1,7 +1,7 @@
 ---
 title: "Lenka Pavlů"
-description: "Lenka Pavlů is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 78 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.268456
+description: "Lenka Pavlů is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.218681
 url: "/cdr-researcher-census/researchers/lenka-pavlu-a5018752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,155 |
-| Publications | 78 |
-| CDR Focus | 6.4% |
+| Citations | 1,174 |
+| Publications | 80 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Changes in the Composition of Soil Organic Matter after the Transformation of Natural Beech Stands into Spruce Monoculture** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Tree species influence soil carbon quality but not total storage across horizons: European beech on Dystric Cambisol and Norway spruce on Entic Podzol** (2026)
    0 citations · Soil Carbon

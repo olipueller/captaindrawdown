@@ -1,7 +1,7 @@
 ---
 title: "Xinchun Lu"
-description: "Xinchun Lu is a Senior Soil Carbon researcher at Zhejiang Normal University in CN. With 78 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.201781
+description: "Xinchun Lu is a Senior Soil Carbon researcher at Zhejiang Normal University in CN. With 78 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.143275
 url: "/cdr-researcher-census/researchers/xinchun-lu-a5101465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 25 |
-| Citations | 1,658 |
+| h-index | 26 |
+| Citations | 1,774 |
 | Publications | 78 |
 | CDR Focus | 9.0% |
 | Trajectory | Stable |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   53 citations
+   56 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
    32 citations · Soil Carbon
 
 3. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
    18 citations · Biochar

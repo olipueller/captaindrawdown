@@ -1,7 +1,7 @@
 ---
 title: "Yuanliu Hu"
-description: "Yuanliu Hu is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.841919
+description: "Yuanliu Hu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.777454
 url: "/cdr-researcher-census/researchers/yuanliu-hu-a5019683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuanliu-hu-a5019683/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Botanical Garden"
+    "name": "Guangxi University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4137-225X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuanliu Hu**  
-South China Botanical Garden · 🇨🇳 CN
+Guangxi University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 251 |
-| Publications | 23 |
-| CDR Focus | 21.7% |
+| Citations | 269 |
+| Publications | 24 |
+| CDR Focus | 20.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Increased interactions between iron oxides and organic carbon under acid deposition drive large increases in soil organic carbon in a tropical forest in southern China** (2022)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after 20-Year Afforestation of Mangrove Plantations on Qi’ao Island, Southern China** (2023)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Grigorios Dedes"
 description: "Grigorios Dedes is a Mid-career BECCS researcher at National Technical University of Athens in GR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.915211
+date: 2026-09-11T02:38:29.870618
 url: "/cdr-researcher-census/researchers/grigorios-dedes-a5043083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 220 |
+| Citations | 228 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Indirect gasification of residual biomass coupled with sorption-enhanced water-gas shift: A cost-effective platform for negative CO2 emissions and climate-positive hydrogen** (2022)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

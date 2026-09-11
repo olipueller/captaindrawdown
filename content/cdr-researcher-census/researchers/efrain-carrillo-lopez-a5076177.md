@@ -1,7 +1,7 @@
 ---
 title: "Efraín Carrillo-López"
-description: "Efraín Carrillo-López is a Mid-career Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.754542
+description: "Efraín Carrillo-López is a Mid-career Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.699692
 url: "/cdr-researcher-census/researchers/efrain-carrillo-lopez-a5076177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 296 |
-| Publications | 12 |
-| CDR Focus | 16.7% |
+| Citations | 309 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   40 citations · General CDR
+   41 citations · General CDR
 
 2. **Soil organic matter fractions in the topsoil and subsoil of woody crop systems: Impact of reduced tillage plus cover crops under rainfed semi-arid Mediterranean conditions** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jitendra Ahirwal"
-description: "Jitendra Ahirwal is a Senior Soil Carbon researcher at University of Allahabad in IN. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177979
+description: "Jitendra Ahirwal is a Senior Soil Carbon researcher at University of Allahabad in IN. With 59 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.127122
 url: "/cdr-researcher-census/researchers/jitendra-ahirwal-a5007419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 1,962 |
-| Publications | 61 |
-| CDR Focus | 8.2% |
+| Citations | 2,004 |
+| Publications | 59 |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Evaluating the Role of Community-Managed Forest in Carbon Sequestration and Climate Change Mitigation of Tripura, India** (2021)
    24 citations
 
-4. **Variability of carbon stored in inland freshwater wetland in Northeast India** (2022)
-   15 citations · Soil Carbon
+4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
+   16 citations · Soil Carbon
 
-5. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
-   13 citations · Soil Carbon
+5. **Variability of carbon stored in inland freshwater wetland in Northeast India** (2022)
+   15 citations · Soil Carbon
 
 6. **Soil carbon dynamics under extreme climate events in agroecosystem** (2025)
    0 citations · General CDR

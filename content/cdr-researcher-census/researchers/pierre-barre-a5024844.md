@@ -1,7 +1,7 @@
 ---
 title: "Pierre Barré"
 description: "Pierre Barré is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.705622
+date: 2026-09-11T02:38:29.661862
 url: "/cdr-researcher-census/researchers/pierre-barre-a5024844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 327 |
+| Citations | 333 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **From organo-mineral interactions to soil and carbon policies: bridging science and policy for soil health and climate action** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

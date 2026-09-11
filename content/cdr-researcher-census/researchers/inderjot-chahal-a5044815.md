@@ -1,7 +1,7 @@
 ---
 title: "Inderjot Chahal"
-description: "Inderjot Chahal is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.386061
+description: "Inderjot Chahal is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.326033
 url: "/cdr-researcher-census/researchers/inderjot-chahal-a5044815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 719 |
-| Publications | 30 |
-| CDR Focus | 13.3% |
+| Citations | 766 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Long-term effects of crop rotation, tillage, and fertilizer nitrogen on soil health indicators and crop productivity in a temperate climate** (2021)
-   137 citations · Soil Carbon
+   138 citations · Soil Carbon
 
 2. **Influence of cover crops at the four spheres: A review of ecosystem services, potential barriers, and future directions for North America** (2022)
-   116 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 3. **Maximizing soil organic carbon stocks under cover cropping: insights from long-term agricultural experiments in North America** (2023)
-   60 citations · General CDR
+   62 citations · General CDR
 
 4. **Comparison of equivalent soil mass approaches to estimate soil organic carbon stocks under long-term tillage** (2024)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 ## External Profiles
 

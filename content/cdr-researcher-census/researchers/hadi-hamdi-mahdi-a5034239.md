@@ -1,7 +1,7 @@
 ---
 title: "Hadi Hamdi Mahdi"
 description: "Hadi Hamdi Mahdi is a Mid-career Biochar researcher at Universiti Teknologi MARA System in MY. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.243067
+date: 2026-09-11T02:38:30.197099
 url: "/cdr-researcher-census/researchers/hadi-hamdi-mahdi-a5034239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 132 |
+| Citations | 137 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Stable |

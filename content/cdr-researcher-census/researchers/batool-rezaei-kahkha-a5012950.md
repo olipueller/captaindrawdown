@@ -1,7 +1,7 @@
 ---
 title: "Batool Rezaei Kahkha"
 description: "Batool Rezaei Kahkha is a Mid-career Biochar researcher at Zabol University of Medical Sciences in IR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.287445
+date: 2026-09-11T02:38:30.262350
 url: "/cdr-researcher-census/researchers/batool-rezaei-kahkha-a5012950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 124 |
+| Citations | 125 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

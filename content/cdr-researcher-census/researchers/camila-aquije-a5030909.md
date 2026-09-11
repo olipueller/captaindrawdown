@@ -1,7 +1,7 @@
 ---
 title: "Camila Aquije"
 description: "Camila Aquije is an Early-career Biochar researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.339456
+date: 2026-09-11T02:38:30.290282
 url: "/cdr-researcher-census/researchers/camila-aquije-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 114 |
+| Citations | 119 |
 | Publications | 3 |
-| CDR Focus | 100.0% |
+| CDR Focus | 66.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Biomass residue to carbon dioxide removal: quantifying the global impact of biochar** (2023)
-   101 citations · Biochar
+   103 citations · Biochar
 
 2. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
    15 citations · Biochar

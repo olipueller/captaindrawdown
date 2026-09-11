@@ -1,7 +1,7 @@
 ---
 title: "Rajni Yadav"
-description: "Rajni Yadav is a Mid-career Biochar researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.183429
+description: "Rajni Yadav is a Mid-career Biochar researcher at Institute of Ecology and Botany in HU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.085811
 url: "/cdr-researcher-census/researchers/rajni-yadav-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rajni Yadav",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rajni-yadav-a5101194/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Institute of Ecology and Botany"
+  },
   "sameAs": "https://openalex.org/A5101194921"
 }
 </script>
 
 ## Profile
 
-**Rajni Yadav**
+**Rajni Yadav**  
+Institute of Ecology and Botany ·  HU
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 146 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| Citations | 165 |
+| Publications | 14 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

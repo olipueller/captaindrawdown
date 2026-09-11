@@ -1,7 +1,7 @@
 ---
 title: "Jianni Sun"
 description: "Jianni Sun is a Mid-career Soil Carbon researcher at Shandong University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.805472
+date: 2026-09-11T02:38:29.776471
 url: "/cdr-researcher-census/researchers/jianni-sun-a5076426/"
 layout: "researcher"
 hiddenInHomeList: true

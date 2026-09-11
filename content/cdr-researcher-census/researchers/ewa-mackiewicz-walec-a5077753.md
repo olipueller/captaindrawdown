@@ -1,7 +1,7 @@
 ---
 title: "Ewa Mackiewicz-Walec"
 description: "Ewa Mackiewicz-Walec is a Mid-career Soil Carbon researcher at University of Warmia and Mazury in Olsztyn in PL. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012537
+date: 2026-09-11T02:38:29.955173
 url: "/cdr-researcher-census/researchers/ewa-mackiewicz-walec-a5077753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 193 |
+| Citations | 203 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Effect of Spring Barley Fertilization on the Content of Polycyclic Aromatic Hydrocarbons, Microbial Counts and Enzymatic Activity in Soil** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yibo Lan"
 description: "Yibo Lan is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.609722
+date: 2026-09-11T02:38:29.545093
 url: "/cdr-researcher-census/researchers/yibo-lan-a5109744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 398 |
+| Citations | 423 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of typical artificial carbon materials from biomass in environmental remediation and improvement: A review** (2021)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Artificial Humic Acid Mediated Carbon–Iron Coupling to Promote Carbon Sequestration** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

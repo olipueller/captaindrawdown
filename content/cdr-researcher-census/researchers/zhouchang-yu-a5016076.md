@@ -1,7 +1,7 @@
 ---
 title: "Zhouchang Yu"
 description: "Zhouchang Yu is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.142863
+date: 2026-09-11T02:38:30.072211
 url: "/cdr-researcher-census/researchers/zhouchang-yu-a5016076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 156 |
+| Citations | 169 |
 | Publications | 13 |
 | CDR Focus | 38.5% |
 | Trajectory | Declining |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
    12 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 4. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Soil Labile Organic Carbon and Nitrate Nitrogen are the Main Factors Driving Carbon-Fixing Pathways During Vegetation Restoration in the Loess Plateau, China** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "F Holden"
 description: "F Holden is an Early-career Enhanced Weathering researcher at James Cook University in AU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.175790
+date: 2026-09-11T02:38:30.111285
 url: "/cdr-researcher-census/researchers/f-holden-a5113302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 147 |
+| Citations | 157 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **In-field carbon dioxide removal via weathering of crushed basalt applied to acidic tropical agricultural soil** (2024)
-   28 citations
+   35 citations
 
 2. **Comment on ‘CO2 removal with enhanced wollastonite weathering in acidic and calcareous soils’** (2025)
    1 citations · Enhanced Weathering

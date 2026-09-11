@@ -1,7 +1,7 @@
 ---
 title: "Jasmin Cooper"
-description: "Jasmin Cooper is a Senior DAC researcher at Imperial College London in GB. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.337489
+description: "Jasmin Cooper is a Senior DAC researcher at Imperial College London in GB. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.265624
 url: "/cdr-researcher-census/researchers/jasmin-cooper-a5019075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 854 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| h-index | 17 |
+| Citations | 953 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    29 citations · BECCS
 
 2. **Life cycle assessment of negative emission technologies for effectiveness in carbon sequestration** (2022)
-   21 citations · DAC
+   23 citations · DAC
 
 ## External Profiles
 

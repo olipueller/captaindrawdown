@@ -1,7 +1,7 @@
 ---
 title: "Neelancherry Remya"
-description: "Neelancherry Remya is a Senior Biochar researcher at Indian Institute of Technology Bhubaneswar in IN. With 94 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177185
+description: "Neelancherry Remya is a Senior Biochar researcher at Indian Institute of Technology Bhubaneswar in IN. With 95 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.125537
 url: "/cdr-researcher-census/researchers/neelancherry-remya-a5085981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,970 |
-| Publications | 94 |
-| CDR Focus | 6.4% |
+| Citations | 2,029 |
+| Publications | 95 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Biochar from microwave co-pyrolysis of food waste and polyethylene using different microwave susceptors – Production, modification and application for metformin removal** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Multifaceted application of modified biochar for water and wastewater treatment** (2024)
    18 citations · Biochar

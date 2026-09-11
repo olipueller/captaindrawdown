@@ -1,7 +1,7 @@
 ---
 title: "Ben Kolosz"
-description: "Ben Kolosz is a Mid-career General CDR researcher at University of Hull in GB. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.433236
+description: "Ben Kolosz is a Mid-career General CDR researcher at University of Hull in GB. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.376951
 url: "/cdr-researcher-census/researchers/ben-kolosz-a5065553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 621 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 14 |
+| Citations | 647 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Scalable mesoporous biochars from bagasse waste for Cu (II) removal: Process optimisation, kinetics and techno-economic analysis** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR

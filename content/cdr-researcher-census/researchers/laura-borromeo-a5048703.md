@@ -1,7 +1,7 @@
 ---
 title: "Laura Borromeo"
 description: "Laura Borromeo is a Mid-career Ocean CDR researcher at University of Milano-Bicocca in IT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.815834
+date: 2026-09-11T02:38:29.773738
 url: "/cdr-researcher-census/researchers/laura-borromeo-a5048703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 264 |
+| Citations | 271 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

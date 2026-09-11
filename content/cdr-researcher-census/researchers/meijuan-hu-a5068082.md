@@ -1,7 +1,7 @@
 ---
 title: "Meijuan Hu"
 description: "Meijuan Hu is a Mid-career Ocean CDR researcher at Shanghai Ocean University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.083547
+date: 2026-09-11T02:38:30.041915
 url: "/cdr-researcher-census/researchers/meijuan-hu-a5068082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 172 |
+| Citations | 177 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Ren Jiajia"
 description: "Ren Jiajia is a Senior Biochar researcher. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.702752
+date: 2026-09-11T02:38:29.657484
 url: "/cdr-researcher-census/researchers/ren-jiajia-a5014157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 329 |
+| Citations | 336 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar co-pyrolyzed from peanut shells and maize straw improved soil biochemical properties, rice yield, and reduced cadmium mobilization and accumulation by rice: Biogeochemical investigations** (2024)
-   39 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

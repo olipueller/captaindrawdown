@@ -1,7 +1,7 @@
 ---
 title: "Qiao Cui"
-description: "Qiao Cui is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.241610
+description: "Qiao Cui is a Mid-career Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.157362
 url: "/cdr-researcher-census/researchers/qiao-cui-a5107369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qiao-cui-a5107369/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Northwest Institute of Eco-Environment and Resources"
   },
   "sameAs": "https://openalex.org/A5107369678"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qiao Cui**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Northwest Institute of Eco-Environment and Resources · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 133 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 147 |
+| Publications | 18 |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

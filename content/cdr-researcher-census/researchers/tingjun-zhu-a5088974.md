@@ -1,7 +1,7 @@
 ---
 title: "Ting‐Jun Zhu"
 description: "Ting‐Jun Zhu is a Mid-career Biochar researcher at National Yunlin University of Science and Technology in TW. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.069103
+date: 2026-09-11T02:38:30.018838
 url: "/cdr-researcher-census/researchers/tingjun-zhu-a5088974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 176 |
+| Citations | 184 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

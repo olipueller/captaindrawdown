@@ -1,7 +1,7 @@
 ---
 title: "Anastasia V. Vasilchenko"
-description: "Anastasia V. Vasilchenko is a Senior Soil Carbon researcher at University of Tyumen in RU. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.638313
+description: "Anastasia V. Vasilchenko is a Senior Soil Carbon researcher at University of Tyumen in RU. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.583552
 url: "/cdr-researcher-census/researchers/anastasia-v-vasilchenko-a5039874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 376 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 391 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

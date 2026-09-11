@@ -1,7 +1,7 @@
 ---
 title: "Rafał Chudy"
 description: "Rafał Chudy is a Mid-career General CDR researcher at Forest Research Institute in HU. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.649097
+date: 2026-09-11T02:38:29.608825
 url: "/cdr-researcher-census/researchers/rafa-chudy-a5059240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 367 |
+| Citations | 372 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |

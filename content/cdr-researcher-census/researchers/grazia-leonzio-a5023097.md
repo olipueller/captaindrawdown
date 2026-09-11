@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
-description: "Grazia Leonzio is a Senior DAC researcher at University of Cagliari in IT. With 83 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.163905
+description: "Grazia Leonzio is a Senior DAC researcher at University of Cagliari in IT. With 83 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.111583
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 27 |
-| Citations | 2,178 |
+| h-index | 28 |
+| Citations | 2,267 |
 | Publications | 83 |
 | CDR Focus | 9.6% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A Comparative Study of Different Sorbents in the Context of Direct Air Capture (DAC): Evaluation of Key Performance Indicators and Comparisons** (2022)
-   88 citations
+   91 citations
 
 2. **Environmental performance of different sorbents used for direct air capture** (2022)
-   63 citations · DAC
+   65 citations · DAC
 
 3. **Analysis of Technologies for Carbon Dioxide Capture from the Air** (2022)
-   43 citations · DAC
+   44 citations · DAC
 
 4. **Innovative Process Integrating Air Source Heat Pumps and Direct Air Capture Processes** (2022)
-   28 citations · DAC
+   30 citations · DAC
 
 5. **Modelling and analysis of direct air capture systems in different locations** (2022)
    9 citations · DAC
@@ -69,7 +69,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    5 citations · BECCS
 
 7. **Sustainability analysis of electrochemical direct air capture technologies** (2025)
-   3 citations · DAC
+   4 citations · DAC
 
 8. **A global sensitivity analysis for a bipolar membrane electrodialysis capturing carbon dioxide from the air** (2025)
    2 citations

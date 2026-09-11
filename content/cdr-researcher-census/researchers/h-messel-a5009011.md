@@ -1,7 +1,7 @@
 ---
 title: "H Messel"
 description: "H Messel is a Mid-career General CDR researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.502340
+date: 2026-09-11T02:38:29.461509
 url: "/cdr-researcher-census/researchers/h-messel-a5009011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 511 |
+| Citations | 512 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Unknown |
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Spatiotemporal climate trends and policy assessment in Ethiopia’s Lake Tana Basin amid global carbon dioxide emissions** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

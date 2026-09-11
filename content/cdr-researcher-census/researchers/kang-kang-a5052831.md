@@ -1,7 +1,7 @@
 ---
 title: "Kang Kang"
-description: "Kang Kang is a Mid-career Biochar researcher at Lakehead University in CA. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.351060
+description: "Kang Kang is a Mid-career Biochar researcher at Lakehead University in CA. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.291938
 url: "/cdr-researcher-census/researchers/kang-kang-a5052831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 810 |
-| Publications | 43 |
-| CDR Focus | 9.3% |
+| h-index | 16 |
+| Citations | 864 |
+| Publications | 45 |
+| CDR Focus | 8.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Comparison of Oil-Seed Shell Biomass-Based Biochar for the Removal of Anionic Dyes—Characterization and Adsorption Efficiency Studies** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **Sustained methane production enhancement by magnetic biochar and its recovery in semi-continuous anaerobic digestion with varying substrate C/N ratios** (2025)
    20 citations · Biochar

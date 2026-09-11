@@ -1,7 +1,7 @@
 ---
 title: "Haiming Tang"
-description: "Haiming Tang is a Senior Soil Carbon researcher at 湖南省土壤肥料研究所 in CN. With 139 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.185833
+description: "Haiming Tang is a Senior Soil Carbon researcher at 湖南省土壤肥料研究所 in CN. With 138 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.135313
 url: "/cdr-researcher-census/researchers/haiming-tang-a5086949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,839 |
-| Publications | 139 |
+| Citations | 1,883 |
+| Publications | 138 |
 | CDR Focus | 5.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Effects of long-term organic matter application on soil carbon accumulation and nitrogen use efficiency in a double-cropping rice field** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Effects of fertilizer practice on fungal and actinobacterial cellulolytic community with different humified particle-size fractions in double-cropping field** (2021)
    19 citations · Soil Carbon

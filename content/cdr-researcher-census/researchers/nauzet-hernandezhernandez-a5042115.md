@@ -1,7 +1,7 @@
 ---
 title: "Nauzet Hernández‐Hernández"
 description: "Nauzet Hernández‐Hernández is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.589043
+date: 2026-09-11T02:38:29.535313
 url: "/cdr-researcher-census/researchers/nauzet-hernandezhernandez-a5042115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 418 |
+| Citations | 433 |
 | Publications | 48 |
 | CDR Focus | 10.4% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    42 citations · General CDR
 
 2. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   20 citations · Ocean CDR
+   22 citations · Ocean CDR
 
 3. **Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement** (2024)
    6 citations · General CDR

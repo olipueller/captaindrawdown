@@ -1,7 +1,7 @@
 ---
 title: "Alexander MacIsaac"
-description: "Alexander MacIsaac is a Mid-career General CDR researcher at Simon Fraser University in CA. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.718419
+description: "Alexander MacIsaac is a Mid-career General CDR researcher at Simon Fraser University in CA. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.672421
 url: "/cdr-researcher-census/researchers/alexander-macisaac-a5090215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 316 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Citations | 324 |
+| Publications | 28 |
+| CDR Focus | 10.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
-   89 citations · General CDR
+   92 citations · General CDR
 
 2. **Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario** (2021)
    15 citations · General CDR

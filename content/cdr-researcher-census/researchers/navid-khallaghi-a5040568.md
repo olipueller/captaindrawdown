@@ -1,7 +1,7 @@
 ---
 title: "Navid Khallaghi"
 description: "Navid Khallaghi is a Mid-career BECCS researcher at University of Manchester in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.650541
+date: 2026-09-11T02:38:29.600225
 url: "/cdr-researcher-census/researchers/navid-khallaghi-a5040568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 365 |
+| Citations | 377 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Techno-economic and environmental assessment of staged oxy-co-firing of biomass-derived syngas and natural gas** (2021)
-   37 citations · BECCS
+   38 citations · BECCS
 
 ## External Profiles
 

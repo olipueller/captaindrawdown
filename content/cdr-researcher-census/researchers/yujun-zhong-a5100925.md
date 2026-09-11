@@ -1,7 +1,7 @@
 ---
 title: "Yujun Zhong"
-description: "Yujun Zhong is a Mid-career Soil Carbon researcher at Shaoxing University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.614572
+description: "Yujun Zhong is a Mid-career Soil Carbon researcher at Shaoxing University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.571649
 url: "/cdr-researcher-census/researchers/yujun-zhong-a5100925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 395 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 401 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Soil viruses reduce greenhouse gas emissions and promote microbial necromass accrual** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

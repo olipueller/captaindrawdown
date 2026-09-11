@@ -1,7 +1,7 @@
 ---
 title: "Pongpipat Anantanasakul"
 description: "Pongpipat Anantanasakul is a Mid-career Soil Carbon researcher at Mahidol University in TH. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.280310
+date: 2026-09-11T02:38:30.238178
 url: "/cdr-researcher-census/researchers/pongpipat-anantanasakul-a5073608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 126 |
+| Citations | 130 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mangrove species distribution across soil texture gradients in Benoa Bay and Nusa Lembongan, Bali Province, Indonesia** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

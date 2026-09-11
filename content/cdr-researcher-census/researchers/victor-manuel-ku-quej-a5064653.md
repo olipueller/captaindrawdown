@@ -1,7 +1,7 @@
 ---
 title: "Víctor Manuel Kú-Quej"
-description: "Víctor Manuel Kú-Quej is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.309904
+description: "Víctor Manuel Kú-Quej is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.260921
 url: "/cdr-researcher-census/researchers/victor-manuel-ku-quej-a5064653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/victor-manuel-ku-quej-a5064653/",
   "affiliation": {
     "@type": "Organization",
-    "name": "El Colegio de la Frontera Sur"
+    "name": "Autonomous University of Campeche"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0311-3521",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Víctor Manuel Kú-Quej**  
-El Colegio de la Frontera Sur · 🇲🇽 MX
+Autonomous University of Campeche · 🇲🇽 MX
 
 **Career Stage:** Mid-career
 
@@ -43,14 +43,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 957 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 976 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Organic carbon stock between different grain sizes in Arenosols from the coastal dunes of Campeche Bay, Mexico** (2025)
+1. **Carbon balance of tropical semi-evergreen forests along a secondary succession in the Yucatan Peninsula, Mexico** (2026)
+   0 citations
+
+2. **Organic carbon stock between different grain sizes in Arenosols from the coastal dunes of Campeche Bay, Mexico** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Alyami"
-description: "Sarah Alyami is a Mid-career DAC researcher at Imam Abdulrahman Bin Faisal University in SA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.911265
+description: "Sarah Alyami is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.812402
 url: "/cdr-researcher-census/researchers/sarah-alyami-a5012952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sarah-alyami-a5012952/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Imam Abdulrahman Bin Faisal University"
+    "name": "King Fahd University of Petroleum and Minerals"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1379-7234",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sarah Alyami**  
-Imam Abdulrahman Bin Faisal University · 🇸🇦 SA
+King Fahd University of Petroleum and Minerals · 🇸🇦 SA
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 221 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 252 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

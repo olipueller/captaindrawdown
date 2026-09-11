@@ -1,7 +1,7 @@
 ---
 title: "Ying‐Pin Huang"
-description: "Ying‐Pin Huang is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.470813
+description: "Ying‐Pin Huang is a Senior Biochar researcher at Tainan University of Technology in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.424691
 url: "/cdr-researcher-census/researchers/yingpin-huang-a5076246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yingpin-huang-a5076246/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Industrial Technology Research Institute"
+    "name": "Tainan University of Technology"
   },
   "sameAs": "https://openalex.org/A5076246384"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ying‐Pin Huang**  
-Industrial Technology Research Institute · 🇹🇼 TW
+Tainan University of Technology · 🇹🇼 TW
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 559 |
+| Citations | 572 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

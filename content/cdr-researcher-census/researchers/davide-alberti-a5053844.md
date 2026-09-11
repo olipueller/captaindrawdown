@@ -1,7 +1,7 @@
 ---
 title: "Davide Alberti"
 description: "Davide Alberti is a Mid-career General CDR researcher at A2A (Italy) in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.396587
+date: 2026-09-11T02:38:30.348258
 url: "/cdr-researcher-census/researchers/davide-alberti-a5053844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 104 |
+| Citations | 108 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Application of Intercooling to the CO<sub>2</sub> Removal Section of an Italian Waste-To-Energy Plant** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

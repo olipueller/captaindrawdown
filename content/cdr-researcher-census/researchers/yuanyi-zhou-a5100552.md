@@ -1,7 +1,7 @@
 ---
 title: "Yuanyi Zhou"
-description: "Yuanyi Zhou is a Mid-career Biochar researcher at Jinan University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.331642
+description: "Yuanyi Zhou is a Mid-career Biochar researcher at Sichuan University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.282828
 url: "/cdr-researcher-census/researchers/yuanyi-zhou-a5100552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuanyi-zhou-a5100552/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jinan University"
+    "name": "Sichuan University"
   },
   "sameAs": "https://openalex.org/A5100552675"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuanyi Zhou**  
-Jinan University · 🇨🇳 CN
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 867 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 890 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

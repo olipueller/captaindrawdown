@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Yan Tao"
-description: "Hong‐Yan Tao is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.234666
+description: "Hong‐Yan Tao is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.216276
 url: "/cdr-researcher-census/researchers/hongyan-tao-a5064549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 1,368 |
-| Publications | 55 |
-| CDR Focus | 9.1% |
+| Citations | 1,189 |
+| Publications | 53 |
+| CDR Focus | 9.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cereal-legume intercropping stimulates straw decomposition and promotes soil organic carbon stability** (2025)
-   30 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Priming effects of nZVI on carbon sequestration and iron uptake are positively mediated by AM fungus in semiarid agricultural soils** (2023)
    13 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 4. **Moss-dominated biocrust-based biodiversity enhances carbon sequestration via water interception and plant-soil-microbe interactions** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Environmental and Economic Impacts of Biodegradable Plastic Film Mulching on Rainfed Maize: Evaluations on Sustainability and Productivity** (2022)
    6 citations · Soil Carbon

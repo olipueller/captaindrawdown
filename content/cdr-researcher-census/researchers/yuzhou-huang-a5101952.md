@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Huang"
-description: "Yuzhou Huang is a Mid-career Biochar researcher at Ministry of Natural Resources in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.345476
+description: "Yuzhou Huang is a Mid-career Biochar researcher at Central South University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.292658
 url: "/cdr-researcher-census/researchers/yuzhou-huang-a5101952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuzhou-huang-a5101952/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Natural Resources"
+    "name": "Central South University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9613-7973",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuzhou Huang**  
-Ministry of Natural Resources · 🇨🇳 CN
+Central South University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 831 |
-| Publications | 26 |
-| CDR Focus | 7.7% |
+| Citations | 862 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Iron-doped biochar boosting salt marsh blue carbon via regulation of microbial metabolism and intensified mineral-associated organic carbon** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Biochar Promotes Carbon Storage and Reduces Global Warming Potential in Salt Marsh on a Century Scale** (2023)
    0 citations · Biochar

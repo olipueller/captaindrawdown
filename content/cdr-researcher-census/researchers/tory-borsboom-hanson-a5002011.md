@@ -1,7 +1,7 @@
 ---
 title: "Tory Borsboom-Hanson"
 description: "Tory Borsboom-Hanson is a Mid-career General CDR researcher at University of British Columbia in CA. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.883800
+date: 2026-09-11T02:38:29.844247
 url: "/cdr-researcher-census/researchers/tory-borsboom-hanson-a5002011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 232 |
+| Citations | 238 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon-neutral fuels and chemicals: Economic analysis of renewable syngas pathways via CO2 electrolysis** (2021)
-   53 citations · General CDR
+   56 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dapinder Deep Singh"
-description: "Dapinder Deep Singh is a Mid-career Soil Carbon researcher at Uttarakhand Open University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.860215
+description: "Dapinder Deep Singh is a Mid-career Soil Carbon researcher at Guru Angad Dev Veterinary and Animal Sciences University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.830654
 url: "/cdr-researcher-census/researchers/dapinder-deep-singh-a5108737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dapinder-deep-singh-a5108737/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Uttarakhand Open University"
+    "name": "Guru Angad Dev Veterinary and Animal Sciences University"
   },
   "sameAs": "https://openalex.org/A5108737294"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Dapinder Deep Singh**  
-Uttarakhand Open University · 🇮🇳 IN
+Guru Angad Dev Veterinary and Animal Sciences University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 242 |
+| Citations | 245 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

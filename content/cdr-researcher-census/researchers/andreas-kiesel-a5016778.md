@@ -1,7 +1,7 @@
 ---
 title: "Andreas Kiesel"
-description: "Andreas Kiesel is a Senior BECCS researcher at University of Hohenheim in DE. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.177512
+description: "Andreas Kiesel is a Senior BECCS researcher at University of Hohenheim in DE. With 62 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.125946
 url: "/cdr-researcher-census/researchers/andreas-kiesel-a5016778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 1,967 |
-| Publications | 61 |
-| CDR Focus | 11.5% |
+| Citations | 2,020 |
+| Publications | 62 |
+| CDR Focus | 11.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   53 citations · BECCS
+   55 citations · BECCS
 
 2. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
    20 citations · General CDR
 
 3. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   18 citations · BECCS
+   19 citations · BECCS
 
 4. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
    8 citations · Soil Carbon

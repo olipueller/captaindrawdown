@@ -1,7 +1,7 @@
 ---
 title: "Kevin R. Cope"
 description: "Kevin R. Cope is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.249006
+date: 2026-09-11T02:38:29.198177
 url: "/cdr-researcher-census/researchers/kevin-r-cope-a5013415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 1,265 |
+| Citations | 1,293 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intraspecific variability in plant and soil chemical properties in a common garden plantation of the energy crop Populus** (2024)
-   4 citations · BECCS
+   5 citations · BECCS
 
 2. **Intraspecies variability in plant and soil chemical properties in a common garden plantation of the energy crop <i>Populus</i>** (2023)
    0 citations · General CDR

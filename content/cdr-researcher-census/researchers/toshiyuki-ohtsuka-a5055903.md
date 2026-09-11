@@ -1,7 +1,7 @@
 ---
 title: "Toshiyuki Ohtsuka"
-description: "Toshiyuki Ohtsuka is a Senior Soil Carbon researcher at Gifu University in JP. With 93 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.113756
+description: "Toshiyuki Ohtsuka is a Senior Soil Carbon researcher at Gifu University in JP. With 94 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.063127
 url: "/cdr-researcher-census/researchers/toshiyuki-ohtsuka-a5055903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 3,854 |
-| Publications | 93 |
-| CDR Focus | 5.4% |
+| Citations | 3,952 |
+| Publications | 94 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

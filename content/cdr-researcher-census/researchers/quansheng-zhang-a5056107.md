@@ -1,7 +1,7 @@
 ---
 title: "Quan‐Sheng Zhang"
 description: "Quan‐Sheng Zhang is an Early-career Ocean CDR researcher at Yantai University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.781999
+date: 2026-09-11T02:38:29.717463
 url: "/cdr-researcher-census/researchers/quansheng-zhang-a5056107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 281 |
+| Citations | 299 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Kelp aquaculture in China: a retrospective and future prospects** (2021)
-   171 citations · Ocean CDR
+   173 citations · Ocean CDR
 
 ## External Profiles
 

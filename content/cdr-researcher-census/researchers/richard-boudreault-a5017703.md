@@ -1,7 +1,7 @@
 ---
 title: "Richard Boudreault"
-description: "Richard Boudreault is a Mid-career General CDR researcher at Université de Sherbrooke in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.265168
+description: "Richard Boudreault is a Mid-career General CDR researcher at Applied Nanotech (United States) in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.158161
 url: "/cdr-researcher-census/researchers/richard-boudreault-a5017703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/richard-boudreault-a5017703/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 de Sherbrooke"
+    "name": "Applied Nanotech (United States)"
   },
   "sameAs": "https://openalex.org/A5017703946"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Richard Boudreault**  
-Université de Sherbrooke · 🇨🇦 CA
+Applied Nanotech (United States) · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 128 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 146 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Substantial carbon removal capacity of Taiga reforestation and afforestation at Canada’s boreal edge** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

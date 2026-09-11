@@ -1,7 +1,7 @@
 ---
 title: "Jinyi Liu"
-description: "Jinyi Liu is a Mid-career Biochar researcher at Hainan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.390378
+description: "Jinyi Liu is a Mid-career Biochar researcher at Hainan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.331349
 url: "/cdr-researcher-census/researchers/jinyi-liu-a5087657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 106 |
+| h-index | 7 |
+| Citations | 112 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step template-free pyrolysis for biochar: Biomass organs control porosity and high-performance for methylene blue removal from water** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

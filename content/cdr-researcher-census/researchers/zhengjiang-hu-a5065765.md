@@ -1,7 +1,7 @@
 ---
 title: "Zhengjiang Hu"
-description: "Zhengjiang Hu is a Mid-career Biochar researcher at Agricultural Information Institute in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.161147
+description: "Zhengjiang Hu is a Mid-career Biochar researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.996117
 url: "/cdr-researcher-census/researchers/zhengjiang-hu-a5065765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhengjiang-hu-a5065765/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agricultural Information Institute"
+    "name": "Commonwealth Scientific and Industrial Research Organisation"
   },
   "sameAs": "https://openalex.org/A5065765057"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Zhengjiang Hu**  
-Agricultural Information Institute · 🇨🇳 CN
+Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 151 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| h-index | 7 |
+| Citations | 191 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Tianping Gao"
 description: "Tianping Gao is a Mid-career Soil Carbon researcher at State Key Laboratory of Crop Biology. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.775200
+date: 2026-09-11T02:38:29.736055
 url: "/cdr-researcher-census/researchers/tianping-gao-a5069748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 285 |
+| Citations | 290 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |

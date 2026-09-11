@@ -1,7 +1,7 @@
 ---
 title: "Meiniu Yang"
-description: "Meiniu Yang is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.061548
+description: "Meiniu Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.013566
 url: "/cdr-researcher-census/researchers/meiniu-yang-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/meiniu-yang-a5077000/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Ecology and Geography"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5077000694"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Meiniu Yang**  
-Institute of Ecology and Geography ·  MD
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 179 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| Citations | 186 |
+| Publications | 10 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

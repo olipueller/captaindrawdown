@@ -1,7 +1,7 @@
 ---
 title: "Yingbo Gao"
-description: "Yingbo Gao is a Mid-career Soil Carbon researcher at Hebei Medical University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404005
+description: "Yingbo Gao is a Mid-career Soil Carbon researcher at Hebei Medical University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.351686
 url: "/cdr-researcher-census/researchers/yingbo-gao-a5112216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 681 |
-| Publications | 23 |
-| CDR Focus | 8.7% |
+| Citations | 705 |
+| Publications | 24 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimizing straw return to enhance grain production and approach carbon neutrality in the intensive cropping systems** (2025)
-   24 citations · General CDR
+   25 citations · General CDR
 
 2. **Optimal straw management co‐benefits crop yield and soil carbon sequestration of intensive farming systems** (2023)
    11 citations · Soil Carbon

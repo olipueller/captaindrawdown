@@ -1,7 +1,7 @@
 ---
 title: "Jia Liang"
 description: "Jia Liang is a Mid-career Soil Carbon researcher at Hohai University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.102827
+date: 2026-09-11T02:38:30.050260
 url: "/cdr-researcher-census/researchers/jia-liang-a5075036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 167 |
+| Citations | 175 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

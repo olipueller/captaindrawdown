@@ -1,7 +1,7 @@
 ---
 title: "Jinjing Zhang"
-description: "Jinjing Zhang is a Senior Soil Carbon researcher at Shenyang University of Technology in CN. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.167844
+description: "Jinjing Zhang is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.117371
 url: "/cdr-researcher-census/researchers/jinjing-zhang-a5101530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinjing-zhang-a5101530/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang University of Technology"
+    "name": "Jilin Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5443-1354",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jinjing Zhang**  
-Shenyang University of Technology · 🇨🇳 CN
+Jilin Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 2,106 |
+| Citations | 2,166 |
 | Publications | 92 |
 | CDR Focus | 5.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   39 citations · Biochar
+   43 citations · Biochar
 
 2. **Rice Straw Biochar is More Beneficial to Soil Organic Carbon Accumulation and Stabilization than Rice Straw and Rice Straw Ash** (2023)
    11 citations · Biochar
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 5. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 6. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2024)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Oindrila Roy"
 description: "Oindrila Roy is a Senior Soil Carbon researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.130617
+date: 2026-09-11T02:38:30.052838
 url: "/cdr-researcher-census/researchers/oindrila-roy-a5077226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 159 |
+| Citations | 174 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   120 citations · General CDR
+   131 citations · General CDR
 
 ## External Profiles
 

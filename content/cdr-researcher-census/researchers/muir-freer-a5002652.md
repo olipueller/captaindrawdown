@@ -1,7 +1,7 @@
 ---
 title: "Muir Freer"
 description: "Muir Freer is a Mid-career BECCS researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.351405
+date: 2026-09-11T02:38:30.291124
 url: "/cdr-researcher-census/researchers/muir-freer-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
+| Citations | 119 |
 | Publications | 11 |
 | CDR Focus | 36.4% |
 | Trajectory | Exiting |
@@ -54,10 +54,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    23 citations · BECCS
 
 2. **Putting Bioenergy With Carbon Capture and Storage in a Spatial Context: What Should Go Where?** (2022)
-   17 citations · BECCS
+   18 citations · BECCS
 
 3. **Co-deployment of bioenergy with carbon capture and storage in the UK: Growth or gridlock?** (2024)
-   13 citations · BECCS
+   15 citations · BECCS
 
 4. **Carbon-Efficient Transportation via Spatially Explicit Modelling of Large-Scale Bioenergy with Carbon Capture and Storage Supply Chains** (2022)
    0 citations · BECCS

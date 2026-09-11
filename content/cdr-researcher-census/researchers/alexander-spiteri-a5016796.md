@@ -1,7 +1,7 @@
 ---
 title: "Alexander Spiteri"
 description: "Alexander Spiteri is a Mid-career DAC researcher. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.629326
+date: 2026-09-11T02:38:29.589086
 url: "/cdr-researcher-census/researchers/alexander-spiteri-a5016796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 382 |
+| Citations | 385 |
 | Publications | 12 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |

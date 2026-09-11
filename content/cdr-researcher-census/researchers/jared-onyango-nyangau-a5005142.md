@@ -1,7 +1,7 @@
 ---
 title: "Jared Onyango Nyangáu"
-description: "Jared Onyango Nyangáu is a Mid-career Biochar researcher at Aarhus University in DK. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.622087
+description: "Jared Onyango Nyangáu is a Mid-career Biochar researcher at Aarhus University in DK. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.566344
 url: "/cdr-researcher-census/researchers/jared-onyango-nyangau-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 389 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Citations | 404 |
+| Publications | 26 |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    29 citations · Soil Carbon
 
 2. **Adsorption mechanisms of sulfamethoxazole and trimethoprim using phosphoric acid activated white-rot fungus biochar** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 3. **Carbon sequestration in the soil by one and two-step anaerobic digestion of biomass for biogas** (2022)
    0 citations · BECCS

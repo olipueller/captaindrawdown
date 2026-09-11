@@ -1,7 +1,7 @@
 ---
 title: "Mathias Haunost"
-description: "Mathias Haunost is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404409
+description: "Mathias Haunost is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.355640
 url: "/cdr-researcher-census/researchers/mathias-haunost-a5029845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 679 |
-| Publications | 30 |
-| CDR Focus | 16.7% |
+| h-index | 13 |
+| Citations | 697 |
+| Publications | 31 |
+| CDR Focus | 12.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   10 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 2. **Growth response of <i>Emiliania huxleyi</i> to ocean alkalinity enhancement** (2025)
-   10 citations · General CDR
+   14 citations · General CDR
 
 3. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
    8 citations · General CDR

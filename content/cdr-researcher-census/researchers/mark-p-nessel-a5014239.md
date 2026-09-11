@@ -1,7 +1,7 @@
 ---
 title: "Mark P. Nessel"
-description: "Mark P. Nessel is a Mid-career Soil Carbon researcher at Rutgers, The State University of New Jersey in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.905450
+description: "Mark P. Nessel is a Mid-career Soil Carbon researcher at Oklahoma State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.853197
 url: "/cdr-researcher-census/researchers/mark-p-nessel-a5014239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mark-p-nessel-a5014239/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Rutgers, The State University of New Jersey"
+    "name": "Oklahoma State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9028-0143",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mark P. Nessel**  
-Rutgers, The State University of New Jersey · 🇺🇸 US
+Oklahoma State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 224 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 235 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

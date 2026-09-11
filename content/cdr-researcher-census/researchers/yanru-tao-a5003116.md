@@ -1,7 +1,7 @@
 ---
 title: "Yanru Tao"
-description: "Yanru Tao is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.770007
+description: "Yanru Tao is a Mid-career Biochar researcher at Chinese Research Academy of Environmental Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.705736
 url: "/cdr-researcher-census/researchers/yanru-tao-a5003116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanru-tao-a5003116/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao University of Science and Technology"
+    "name": "Chinese Research Academy of Environmental Sciences"
   },
   "sameAs": "https://openalex.org/A5003116110"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yanru Tao**  
-Qingdao University of Science and Technology · 🇨🇳 CN
+Chinese Research Academy of Environmental Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 288 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| Citations | 306 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

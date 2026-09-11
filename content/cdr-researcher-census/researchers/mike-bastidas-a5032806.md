@@ -1,7 +1,7 @@
 ---
 title: "Mike Bastidas"
-description: "Mike Bastidas is a Mid-career Soil Carbon researcher at University of Houston in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.375022
+description: "Mike Bastidas is a Mid-career Soil Carbon researcher at Bioversity International in CO. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.314244
 url: "/cdr-researcher-census/researchers/mike-bastidas-a5032806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mike-bastidas-a5032806/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Houston"
+    "name": "Bioversity International"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5926-1318",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mike Bastidas**  
-University of Houston · 🇺🇸 US
+Bioversity International ·  CO
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 108 |
-| Publications | 22 |
-| CDR Focus | 13.6% |
+| Citations | 115 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

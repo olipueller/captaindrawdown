@@ -1,7 +1,7 @@
 ---
 title: "Simone Marzeddu"
 description: "Simone Marzeddu is a Mid-career Biochar researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.601292
+date: 2026-09-11T02:38:29.538442
 url: "/cdr-researcher-census/researchers/simone-marzeddu-a5053325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 405 |
+| Citations | 431 |
 | Publications | 21 |
 | CDR Focus | 19.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on the Removal of Carbamazepine from Aqueous Solution by Using Activated Carbon and Biochar** (2021)
-   86 citations · Biochar
+   89 citations · Biochar
 
 2. **A Life Cycle Assessment of an Energy-Biochar Chain Involving a Gasification Plant in Italy** (2021)
    62 citations · Biochar

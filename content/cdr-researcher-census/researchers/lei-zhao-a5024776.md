@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhao"
-description: "Lei Zhao is a Mid-career Biochar researcher at Wenzhou University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.203606
+description: "Lei Zhao is a Mid-career Biochar researcher at Wenzhou University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.198528
 url: "/cdr-researcher-census/researchers/lei-zhao-a5024776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 141 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| h-index | 7 |
+| Citations | 137 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhanced adsorption of bisphenol A in using N-doped biochar from corn kernel wastes via multiple adsorption sites** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

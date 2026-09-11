@@ -1,7 +1,7 @@
 ---
 title: "Meiling Man"
 description: "Meiling Man is a Mid-career Soil Carbon researcher at University of Toronto in CA. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.458674
+date: 2026-09-11T02:38:29.399604
 url: "/cdr-researcher-census/researchers/meiling-man-a5056537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 579 |
+| Citations | 610 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deciphering the Complex Interactions between Litter Inputs and Microbial Responses in Modulating Long-Term Soil Organic Matter Dynamics** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Three Decades of Litter Manipulation Distinctly Shifts Soil Organic Matter Composition and Constrains Soil Carbon Sequestration in Temperate Forest Soils** (2026)
    0 citations · Soil Carbon

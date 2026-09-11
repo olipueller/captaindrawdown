@@ -1,7 +1,7 @@
 ---
 title: "Barira Shoukat Hafiza"
 description: "Barira Shoukat Hafiza is a Mid-career Biochar researcher at International Atomic Energy Agency in AT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.097113
+date: 2026-09-11T02:38:30.048570
 url: "/cdr-researcher-census/researchers/barira-shoukat-hafiza-a5041097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 168 |
+| Citations | 175 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

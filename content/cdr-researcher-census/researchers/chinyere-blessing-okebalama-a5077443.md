@@ -1,7 +1,7 @@
 ---
 title: "Chinyere Blessing Okebalama"
 description: "Chinyere Blessing Okebalama is a Mid-career Biochar researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.716520
+date: 2026-09-11T02:38:29.668012
 url: "/cdr-researcher-census/researchers/chinyere-blessing-okebalama-a5077443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 318 |
+| Citations | 328 |
 | Publications | 28 |
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Reapplication of biochar, sewage waste water, and NPK fertilizers affects soil fertility, aggregate stability, and carbon and nitrogen in dry-stable aggregates of semi-arid soil** (2022)
-   27 citations
+   28 citations
 
 2. **Dry-Aggregate Stability and Soil Nutrients Responses to Reapplication of Biochar and Organic/Inorganic Fertilizers in Urban Vegetable Production** (2022)
    6 citations · Biochar

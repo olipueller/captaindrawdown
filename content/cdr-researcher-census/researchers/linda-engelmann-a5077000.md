@@ -1,7 +1,7 @@
 ---
 title: "Linda Engelmann"
-description: "Linda Engelmann is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.148228
+description: "Linda Engelmann is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.067781
 url: "/cdr-researcher-census/researchers/linda-engelmann-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 154 |
-| Publications | 18 |
-| CDR Focus | 11.1% |
+| h-index | 8 |
+| Citations | 170 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Never Forget – The importance of acceptance in the production and introduction of alternative fuels** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Perceived benefits and barriers of direct air carbon capture and storage: Applying a holistic perspective among German citizens using structural equation modeling** (2025)
    3 citations · DAC

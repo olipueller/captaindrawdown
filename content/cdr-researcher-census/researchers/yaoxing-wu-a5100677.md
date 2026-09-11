@@ -1,7 +1,7 @@
 ---
 title: "Yaoxing Wu"
-description: "Yaoxing Wu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043414
+description: "Yaoxing Wu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.958022
 url: "/cdr-researcher-census/researchers/yaoxing-wu-a5100677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 184 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| h-index | 8 |
+| Citations | 202 |
+| Publications | 28 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Positive effects of species mixing on biodiversity of understory plant communities and soil health in forest plantations** (2025)
-   45 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Differential effects of biochar and straw incorporation on soil organic carbon: A case study on paddy cultivation in Northeast China** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

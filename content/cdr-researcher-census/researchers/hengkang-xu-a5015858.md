@@ -1,7 +1,7 @@
 ---
 title: "Hengkang Xu"
-description: "Hengkang Xu is a Mid-career Soil Carbon researcher at Beijing Academy of Agricultural and Forestry Sciences in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.719664
+description: "Hengkang Xu is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.655135
 url: "/cdr-researcher-census/researchers/hengkang-xu-a5015858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hengkang-xu-a5015858/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Beijing Academy of Agricultural and Forestry Sciences"
+    "name": "Beijing Academy of Agriculture and Forestry Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5705-5617",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hengkang Xu**  
-Beijing Academy of Agricultural and Forestry Sciences · 🇨🇳 CN
+Beijing Academy of Agriculture and Forestry Sciences · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 316 |
+| h-index | 11 |
+| Citations | 338 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil nitrogen and climate drive the positive effect of biological soil crusts on soil organic carbon sequestration in drylands: A Meta-analysis** (2021)
-   76 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 2. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
    14 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Saeed"
-description: "Qudsia Saeed is a Senior Soil Carbon researcher at Nishtar Medical College and Hospital in PK. With 39 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.161935
+description: "Qudsia Saeed is a Senior Soil Carbon researcher at Nishtar Medical College and Hospital in PK. With 41 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.110597
 url: "/cdr-researcher-census/researchers/qudsia-saeed-a5037031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,211 |
-| Publications | 39 |
-| CDR Focus | 10.3% |
+| Citations | 2,283 |
+| Publications | 41 |
+| CDR Focus | 9.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    88 citations · Soil Carbon
 
 2. **Manure replacing synthetic fertilizer improves crop yield sustainability and reduces carbon footprint under winter wheat–summer maize cropping system** (2024)
-   36 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 3. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
    22 citations · Biochar

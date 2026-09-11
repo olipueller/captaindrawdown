@@ -1,7 +1,7 @@
 ---
 title: "Amanda Ronix"
-description: "Amanda Ronix is a Mid-career Biochar researcher at Forest Science and Research Institute in BR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.351901
+description: "Amanda Ronix is a Mid-career Biochar researcher at Forest Science and Research Institute in BR. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.304019
 url: "/cdr-researcher-census/researchers/amanda-ronix-a5021142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 806 |
+| h-index | 11 |
+| Citations | 821 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Growing |

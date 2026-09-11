@@ -1,7 +1,7 @@
 ---
 title: "Weizhuo Zhang"
-description: "Weizhuo Zhang is a Mid-career Biochar researcher at Shenzhen University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.748354
+description: "Weizhuo Zhang is a Mid-career Biochar researcher at Shenzhen University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.684019
 url: "/cdr-researcher-census/researchers/weizhuo-zhang-a5045695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 299 |
-| Publications | 7 |
-| CDR Focus | 42.9% |
+| h-index | 6 |
+| Citations | 317 |
+| Publications | 9 |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Application potential analysis of biochar as a carbon capture material in cementitious composites: A review** (2022)
-   124 citations · Biochar
+   126 citations · Biochar
 
 2. **A new approach to CO2 capture and sequestration: A novel carbon capture artificial aggregates made from biochar and municipal waste incineration bottom ash** (2023)
-   62 citations · Biochar
+   63 citations · Biochar
 
 3. **Exploring the carbon capture and sequestration performance of biochar-artificial aggregate using a new method** (2022)
-   52 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jyotsna Kaushal"
-description: "Jyotsna Kaushal is a Senior Biochar researcher at Chitkara University in IN. With 98 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.132318
+description: "Jyotsna Kaushal is a Senior Biochar researcher at Chitkara University in IN. With 99 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.082439
 url: "/cdr-researcher-census/researchers/jyotsna-kaushal-a5004193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,8 +43,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 3,047 |
-| Publications | 98 |
+| Citations | 3,127 |
+| Publications | 99 |
 | CDR Focus | 5.1% |
 | Trajectory | Declining |
 
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    32 citations · Biochar
 
 2. **Encapsulated cobalt-doped coconut husk biochar (Co@CHBc) for the remediation of anionic dye from wastewater** (2024)
-   7 citations · Biochar
+   9 citations · Biochar
 
 3. **Bryophyllum pinnatum activated biochar for competent removal of fluoride from water: sorption and equilibrium studies** (2024)
    5 citations · Biochar
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Biochar
 
 5. **Brief overview of biochar as carbon sequestration, its synthetic techniques, kinetic and equilibrium studies** (2023)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chengzhu Liu"
-description: "Chengzhu Liu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.326183
+description: "Chengzhu Liu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.265216
 url: "/cdr-researcher-census/researchers/chengzhu-liu-a5004500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 887 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 954 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    108 citations · Soil Carbon
 
 2. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
-   55 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 ## External Profiles
 

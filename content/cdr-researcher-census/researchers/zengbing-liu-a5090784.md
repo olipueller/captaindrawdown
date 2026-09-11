@@ -1,7 +1,7 @@
 ---
 title: "Zengbing Liu"
 description: "Zengbing Liu is a Senior Soil Carbon researcher at Improvement Service in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.277793
+date: 2026-09-11T02:38:29.221915
 url: "/cdr-researcher-census/researchers/zengbing-liu-a5090784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,102 |
+| Citations | 1,151 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Heavy metal contamination threats carbon sequestration of paddy soils with an attenuated microbial anabolism** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **The impact of fertilization on the health of paddy soil: pathways and prospects for fertility regulation based on microbial communities** (2026)
    0 citations · Soil Carbon

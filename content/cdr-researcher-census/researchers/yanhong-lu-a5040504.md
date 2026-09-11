@@ -1,7 +1,7 @@
 ---
 title: "Yanhong Lu"
-description: "Yanhong Lu is a Senior Soil Carbon researcher at Google (United States) in US. With 111 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.103482
+description: "Yanhong Lu is a Senior Soil Carbon researcher at Kai Biotech (South Korea) in KR. With 113 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.053759
 url: "/cdr-researcher-census/researchers/yanhong-lu-a5040504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yanhong-lu-a5040504/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Google (United States)"
+    "name": "Kai Biotech (South Korea)"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3059-5589",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yanhong Lu**  
-Google (United States) · 🇺🇸 US
+Kai Biotech (South Korea) · 🇰🇷 KR
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 36 |
-| Citations | 4,577 |
-| Publications | 111 |
-| CDR Focus | 5.4% |
+| Citations | 4,668 |
+| Publications | 113 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    90 citations
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
-   38 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   22 citations
+   23 citations
 
 4. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Dongping Shen"
 description: "Dongping Shen is a Mid-career Soil Carbon researcher at Tongliao Academy of Agricultural Sciences in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.542473
+date: 2026-09-11T02:38:29.492581
 url: "/cdr-researcher-census/researchers/dongping-shen-a5102371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 464 |
+| Citations | 477 |
 | Publications | 22 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimal production strategies for balancing yield enhancement, carbon sequestration, and soil greenhouse gas flux regulation in Chinese maize systems under straw return and organic fertilizer application** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Optimal Production Strategies for Balancing Yield Enhancement, Carbon Sequestration, and Greenhouse Gas Mitigation in Chinese Maize Systems Under Straw Return and Organic Fertilizer Application** (2025)
    0 citations · Soil Carbon

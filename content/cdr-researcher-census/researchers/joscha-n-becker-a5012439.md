@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
-description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 77 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.229923
+description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 77 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.177364
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 1,394 |
+| h-index | 17 |
+| Citations | 1,442 |
 | Publications | 77 |
 | CDR Focus | 13.0% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    32 citations · Soil Carbon
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Kalyani Chepuri"
 description: "Kalyani Chepuri is a Mid-career Soil Carbon researcher at Jawaharlal Nehru Technological University, Hyderabad in IN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.963560
+date: 2026-09-11T02:38:29.898397
 url: "/cdr-researcher-census/researchers/kalyani-chepuri-a5089101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 210 |
+| Citations | 218 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environmental Conservation for Sustainable Agriculture** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Topsoil Regeneration and Bio-sequestration** (2024)
    0 citations · Soil Carbon

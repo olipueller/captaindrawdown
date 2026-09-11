@@ -1,7 +1,7 @@
 ---
 title: "Weikun Sun"
-description: "Weikun Sun is a Senior Biochar researcher at Nanchang University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.191000
+description: "Weikun Sun is a Senior Biochar researcher at Tianjin University of Technology and Education in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.121047
 url: "/cdr-researcher-census/researchers/weikun-sun-a5101059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/weikun-sun-a5101059/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanchang University"
+    "name": "Tianjin University of Technology and Education"
   },
   "sameAs": "https://openalex.org/A5101059142"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Weikun Sun**  
-Nanchang University · 🇨🇳 CN
+Tianjin University of Technology and Education · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 144 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 155 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Ultra-high selective removal of Congo red and Ciprofloxacin using unusual LDO modified biochar: Influence of emerging pollutants and application attempts** (2024)
-   31 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xianlei Fan"
-description: "Xianlei Fan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.484473
+description: "Xianlei Fan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.422797
 url: "/cdr-researcher-census/researchers/xianlei-fan-a5043015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 538 |
+| h-index | 11 |
+| Citations | 575 |
 | Publications | 32 |
 | CDR Focus | 12.5% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
    10 citations · General CDR

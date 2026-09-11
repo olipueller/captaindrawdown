@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. McDonald"
-description: "Sarah E. McDonald is a Mid-career Soil Carbon researcher at United States Naval Research Laboratory in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.729515
+description: "Sarah E. McDonald is a Mid-career Soil Carbon researcher at United States Naval Research Laboratory in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.678259
 url: "/cdr-researcher-census/researchers/sarah-e-mcdonald-a5029651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 310 |
-| Publications | 19 |
-| CDR Focus | 21.1% |
+| Citations | 321 |
+| Publications | 20 |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   73 citations · General CDR
+   74 citations · General CDR
 
 2. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   31 citations · General CDR
+   32 citations · General CDR
 
 3. **Managed grazing incrementally increased soil organic carbon amid larger temporal trends in a temperate pasture system** (2025)
    7 citations · Soil Carbon

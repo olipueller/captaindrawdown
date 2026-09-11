@@ -1,7 +1,7 @@
 ---
 title: "Holly Rosencranz"
-description: "Holly Rosencranz is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.214589
+description: "Holly Rosencranz is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.169824
 url: "/cdr-researcher-census/researchers/holly-rosencranz-a5068517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 139 |
+| h-index | 6 |
+| Citations | 144 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Food for thought: Making the case for food produced via regenerative agriculture in the battle against non-communicable chronic diseases (NCDs)** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

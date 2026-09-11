@@ -1,7 +1,7 @@
 ---
 title: "Vitharuch Yuthawong"
 description: "Vitharuch Yuthawong is a Mid-career Biochar researcher at Kasetsart University in TH. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.242961
+date: 2026-09-11T02:38:30.212241
 url: "/cdr-researcher-census/researchers/vitharuch-yuthawong-a5074245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 132 |
+| Citations | 134 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of catalytic ozonation catalyzed by TiO2 activated carbon and biochar on dissolved organic matter removal and disinfection by-product formations investigated by Orbitrap mass spectrometry** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

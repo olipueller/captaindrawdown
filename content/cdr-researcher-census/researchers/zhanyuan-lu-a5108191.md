@@ -1,7 +1,7 @@
 ---
 title: "Zhanyuan Lu"
-description: "Zhanyuan Lu is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.347388
+description: "Zhanyuan Lu is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.291140
 url: "/cdr-researcher-census/researchers/zhanyuan-lu-a5108191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,26 +43,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 824 |
-| Publications | 54 |
-| CDR Focus | 13.0% |
+| Citations | 867 |
+| Publications | 55 |
+| CDR Focus | 12.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Bibliometric analysis of research trends in agricultural soil organic carbon components from 2000 to 2023** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Organic amendments effects on soil aggregation and carbon sequestration in saline‐alkaline croplands in China** (2023)
-   10 citations · Biochar
+   11 citations · Biochar
 
-3. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
-   1 citations · Soil Carbon
+3. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
+   2 citations · General CDR
 
-4. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   1 citations · General CDR
+4. **Effects of Tillage Methods on Carbon and Nitrogen Sequestration and Soil Microbial Stoichiometric Equilibrium in a Black Soil Farmland with Full Return of Straw to the Field** (2025)
+   2 citations · Soil Carbon
 
-5. **Effects of Tillage Methods on Carbon and Nitrogen Sequestration and Soil Microbial Stoichiometric Equilibrium in a Black Soil Farmland with Full Return of Straw to the Field** (2025)
+5. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
    1 citations · Soil Carbon
 
 6. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)

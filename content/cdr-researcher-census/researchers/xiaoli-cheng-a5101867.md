@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Cheng"
-description: "Xiaoli Cheng is an Eminent Soil Carbon researcher at Yunnan University in CN. With 183 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.080205
+description: "Xiaoli Cheng is an Eminent Soil Carbon researcher at Yunnan University in CN. With 184 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.032126
 url: "/cdr-researcher-census/researchers/xiaoli-cheng-a5101867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,31 +42,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 47 |
-| Citations | 7,697 |
-| Publications | 183 |
+| h-index | 48 |
+| Citations | 7,854 |
+| Publications | 184 |
 | CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nitrogen availability and mineral particles contributed fungal necromass to the newly formed stable carbon pool in the alpine areas of Southwest China** (2022)
-   71 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Increased soil organic carbon response to fertilization is associated with increasing microbial carbon use efficiency: Data synthesis** (2022)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 3. **Changes in soil organic carbon and nitrogen pool sizes, dynamics, and biochemical stability during ∼160 years natural vegetation restoration on the Loess Plateau, China** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 4. **Natural revegetation over ∼ 160 years alters carbon and nitrogen sequestration and stabilization in soil organic matter on the Loess Plateau of China** (2022)
    33 citations · Soil Carbon
 
 5. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Warming inhibits new soil organic carbon formation with higher bacterial necromass contribution** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 7. **Shifts and drivers in soil carbon and nitrogen sequestration and stabilization along a 2100-m altitudinal gradient from temperate forests to alpine shrub meadow** (2025)
    1 citations · Soil Carbon

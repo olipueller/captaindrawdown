@@ -1,7 +1,7 @@
 ---
 title: "Sabolč Pap"
-description: "Sabolč Pap is a Senior Biochar researcher at University of the Highlands and Islands in GB. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.154319
+description: "Sabolč Pap is a Senior Biochar researcher at University of the Highlands and Islands in GB. With 72 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.104109
 url: "/cdr-researcher-census/researchers/sabolc-pap-a5083748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,371 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| Citations | 2,420 |
+| Publications | 72 |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

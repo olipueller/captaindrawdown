@@ -1,7 +1,7 @@
 ---
 title: "Carl‐Friedrich Schleussner"
-description: "Carl‐Friedrich Schleussner is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 369 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.071191
+description: "Carl‐Friedrich Schleussner is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 380 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.023405
 url: "/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,34 +42,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 56 |
-| Citations | 13,385 |
-| Publications | 369 |
-| CDR Focus | 6.5% |
+| h-index | 57 |
+| Citations | 13,792 |
+| Publications | 380 |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   159 citations · General CDR
+   170 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   121 citations · General CDR
+   123 citations · General CDR
 
 3. **A prudent planetary limit for geologic carbon storage** (2025)
-   70 citations · General CDR
+   79 citations · General CDR
 
 4. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
-   43 citations · General CDR
+   44 citations · General CDR
 
 5. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   42 citations · General CDR
+   43 citations · General CDR
 
 6. **Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets** (2021)
    37 citations · General CDR
 
 7. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   34 citations · General CDR
+   36 citations · General CDR
 
 8. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR

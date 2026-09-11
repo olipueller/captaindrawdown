@@ -1,7 +1,7 @@
 ---
 title: "Jing‐Hua Tzeng"
-description: "Jing‐Hua Tzeng is a Mid-career Biochar researcher at Clemson University in US. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.327088
+description: "Jing‐Hua Tzeng is a Mid-career Biochar researcher at Clemson University in US. With 29 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.274720
 url: "/cdr-researcher-census/researchers/jinghua-tzeng-a5042389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 884 |
+| h-index | 18 |
+| Citations | 915 |
 | Publications | 29 |
 | CDR Focus | 6.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Systematic optimization of biochars derived from corn wastes, pineapple leaf, and sugarcane bagasse for Cu(II) adsorption through response surface methodology** (2023)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Systematic Optimization of Agricultural Wastes Derived Biochars for Cu(Ii) Adsorption Through Response Surface Methodology** (2023)
    0 citations · Biochar

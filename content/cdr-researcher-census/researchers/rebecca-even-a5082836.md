@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Even"
-description: "Rebecca Even is a Mid-career Soil Carbon researcher at Colorado State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.522343
+description: "Rebecca Even is a Mid-career Soil Carbon researcher at Colorado State University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.447853
 url: "/cdr-researcher-census/researchers/rebecca-even-a5082836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 485 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 534 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · General CDR
 
 2. **Depth impacts on the aggregate-mediated mechanisms of root carbon stabilization in soil: Trade-off between MAOM and POM pathways** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

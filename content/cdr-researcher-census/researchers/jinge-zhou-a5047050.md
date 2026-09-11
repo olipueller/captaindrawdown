@@ -1,7 +1,7 @@
 ---
 title: "Jinge Zhou"
-description: "Jinge Zhou is a Mid-career Soil Carbon researcher at Wuhan Institute of Virology in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.428905
+description: "Jinge Zhou is a Mid-career Soil Carbon researcher at Wuhan Institute of Virology in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.352812
 url: "/cdr-researcher-census/researchers/jinge-zhou-a5047050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 631 |
-| Publications | 34 |
-| CDR Focus | 38.2% |
+| Citations | 704 |
+| Publications | 36 |
+| CDR Focus | 36.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   91 citations · General CDR
+   97 citations · General CDR
 
-2. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   39 citations
+2. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
+   43 citations · Soil Carbon
 
-3. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+3. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
+   41 citations
 
 4. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 5. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
    33 citations · Soil Carbon
@@ -69,16 +69,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 7. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 8. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   25 citations · Ocean CDR
+   26 citations · Ocean CDR
 
 9. **Nitrogen deposition in low-phosphorus tropical forests benefits soil C sequestration but not stabilization** (2022)
    15 citations · Soil Carbon
 
 10. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bayleigh E. Benner"
-description: "Bayleigh E. Benner is a Mid-career Ocean CDR researcher at Johnson & Wales University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.860307
+description: "Bayleigh E. Benner is a Mid-career Ocean CDR researcher at Johnson & Wales University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.832553
 url: "/cdr-researcher-census/researchers/bayleigh-e-benner-a5069663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 242 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 244 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

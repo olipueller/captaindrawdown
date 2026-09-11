@@ -1,7 +1,7 @@
 ---
 title: "G. Lyketsos Constantine"
 description: "G. Lyketsos Constantine is a Mid-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.786910
+date: 2026-09-11T02:38:29.748783
 url: "/cdr-researcher-census/researchers/g-lyketsos-constantine-a5102375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 1 |
-| Citations | 279 |
+| Citations | 283 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Exiting |

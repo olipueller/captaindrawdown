@@ -1,7 +1,7 @@
 ---
 title: "Paul P.J. Gaffney"
-description: "Paul P.J. Gaffney is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.414192
+description: "Paul P.J. Gaffney is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.358296
 url: "/cdr-researcher-census/researchers/paul-pj-gaffney-a5037063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 656 |
+| h-index | 14 |
+| Citations | 691 |
 | Publications | 54 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Biochar
 
 3. **Restoration recovers plant diversity but changes species composition and biomass allocation in an alpine peatland** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Designing a biochar-based pretreatment method for distillery effluents entering constructed wetlands** (2024)
    9 citations · Biochar

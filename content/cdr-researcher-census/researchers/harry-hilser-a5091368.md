@@ -1,7 +1,7 @@
 ---
 title: "Harry Hilser"
-description: "Harry Hilser is a Mid-career General CDR researcher at Total (France) in FR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.286490
+description: "Harry Hilser is a Mid-career General CDR researcher at Total (France) in FR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.244764
 url: "/cdr-researcher-census/researchers/harry-hilser-a5091368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 124 |
+| h-index | 7 |
+| Citations | 128 |
 | Publications | 19 |
 | CDR Focus | 21.1% |
 | Trajectory | Exiting |

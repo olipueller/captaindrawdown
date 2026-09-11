@@ -1,7 +1,7 @@
 ---
 title: "Simon Zech"
-description: "Simon Zech is a Mid-career Soil Carbon researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg Department Mathematik in DE. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.932400
+description: "Simon Zech is a Mid-career Soil Carbon researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg Department Mathematik in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.876130
 url: "/cdr-researcher-census/researchers/simon-zech-a5062020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 214 |
+| h-index | 5 |
+| Citations | 227 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

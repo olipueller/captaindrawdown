@@ -1,7 +1,7 @@
 ---
 title: "Zhan Shi"
-description: "Zhan Shi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.646987
+description: "Zhan Shi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.573792
 url: "/cdr-researcher-census/researchers/zhan-shi-a5076914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 368 |
-| Publications | 35 |
-| CDR Focus | 14.3% |
+| h-index | 11 |
+| Citations | 399 |
+| Publications | 36 |
+| CDR Focus | 13.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biogas slurry purification-lettuce growth nexus: Nutrients absorption and pollutants removal** (2023)
-   23 citations
+   24 citations
 
 2. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Optimizing fertilization strategies for low-carbon agriculture: Balancing greenhouse gas mitigation, soil health, and productivity** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 5. **Converting agricultural by-products into a carbon-neutral CO2 capture system: Biomass-ash-enhanced biogas slurry for plant and soil carbon sequestration** (2026)
    2 citations · Soil Carbon

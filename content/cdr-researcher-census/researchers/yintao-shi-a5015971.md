@@ -1,7 +1,7 @@
 ---
 title: "Yintao Shi"
 description: "Yintao Shi is a Mid-career Biochar researcher at Wuhan Textile University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075053
+date: 2026-09-11T02:38:29.995480
 url: "/cdr-researcher-census/researchers/yintao-shi-a5015971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 174 |
+| Citations | 191 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancement of peroxymonosulfate activation by humic acid-modified sludge biochar: Role of singlet oxygen and electron transfer pathway** (2023)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

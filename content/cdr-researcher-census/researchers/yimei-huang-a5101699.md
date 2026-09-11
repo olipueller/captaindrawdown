@@ -1,7 +1,7 @@
 ---
 title: "Yimei Huang"
-description: "Yimei Huang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 84 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.138015
+description: "Yimei Huang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 85 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.092634
 url: "/cdr-researcher-census/researchers/yimei-huang-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 28 |
-| Citations | 2,821 |
-| Publications | 84 |
-| CDR Focus | 9.5% |
+| Citations | 2,752 |
+| Publications | 85 |
+| CDR Focus | 9.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
-   205 citations · Soil Carbon
+   209 citations · Soil Carbon
 
 2. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
-   145 citations · Soil Carbon
+   150 citations · Soil Carbon
 
 3. **Belowground allocation and fate of tree assimilates in plant–soil–microorganisms system: 13C labeling and tracing under field conditions** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 4. **Composition and contribution of Stipa bungeana root exudates to soil organic carbon fractions in the Loess Plateau** (2023)
    15 citations · Soil Carbon
 
 5. **Microplastics from conventional and biodegradable mulch films alter microbial necromass accumulation and organic carbon sequestration in farmland soils** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 6. **Rice-maize rotation alters soil carbon dynamics in saline-alkaline soils of Ningxia province, northwest China** (2025)
    6 citations · Soil Carbon

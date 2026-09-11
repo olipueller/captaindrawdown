@@ -1,7 +1,7 @@
 ---
 title: "Xiuqing Nie"
 description: "Xiuqing Nie is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.425263
+date: 2026-09-11T02:38:29.374910
 url: "/cdr-researcher-census/researchers/xiuqing-nie-a5101908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 636 |
+| Citations | 654 |
 | Publications | 39 |
 | CDR Focus | 10.3% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Biophysical controls on the interannual variation in carbon fluxes of a natural oak forest** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Fine root length density and production surpass root exudates to shape soil aggregate stability in a warm-temperate natural oak forest under multi-year drought conditions** (2025)
    0 citations · General CDR

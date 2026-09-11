@@ -1,7 +1,7 @@
 ---
 title: "Karl-Johan Jansson"
 description: "Karl-Johan Jansson is a Senior Soil Carbon researcher at National Food Administration in SE. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.328598
+date: 2026-09-11T02:38:30.306268
 url: "/cdr-researcher-census/researchers/karl-johan-jansson-a5061780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temporal changes in soil organic carbon and other near‐surface soil properties under native tallgrass prairie in the Arkansas River Valley** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

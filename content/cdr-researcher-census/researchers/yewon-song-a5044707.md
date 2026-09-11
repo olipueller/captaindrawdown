@@ -1,7 +1,7 @@
 ---
 title: "Yewon Song"
 description: "Yewon Song is a Mid-career DAC researcher at Nanyang Technological University in SG. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.372828
+date: 2026-09-11T02:38:29.323779
 url: "/cdr-researcher-census/researchers/yewon-song-a5044707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 751 |
+| Citations | 774 |
 | Publications | 29 |
 | CDR Focus | 13.8% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Market-pull, technology-push, and regulatory stringency determinants: All in need in firms' decisions for large-scale demonstration of direct air capture technologies** (2023)
-   10 citations · DAC
+   12 citations · DAC
 
 2. **Korea’s Policy Direction on the Research &amp; Development of Direct Air Carbon Capture and Storage (DACCS) Technologies : Focusing on DAC technologies** (2022)
    10 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Damien Landais"
-description: "Damien Landais is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.274768
+description: "Damien Landais is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.224841
 url: "/cdr-researcher-census/researchers/damien-landais-a5001123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,119 |
-| Publications | 46 |
-| CDR Focus | 6.5% |
+| Citations | 1,133 |
+| Publications | 50 |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Additive effects of basalt enhanced weathering and biochar co-application on carbon sequestration, soil nutrient status and plant performance in a mesocosm experiment** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Assessing the effects of green algae biochar and basalt for enhanced weathering on soil carbon sequestration and associated co-benefits in agroecosystems** (2025)
    0 citations · Biochar

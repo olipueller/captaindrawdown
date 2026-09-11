@@ -1,7 +1,7 @@
 ---
 title: "Rongjun Bian"
 description: "Rongjun Bian is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 120 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.083924
+date: 2026-09-11T02:38:29.035671
 url: "/cdr-researcher-census/researchers/rongjun-bian-a5072829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 40 |
-| Citations | 6,882 |
+| Citations | 7,041 |
 | Publications | 120 |
 | CDR Focus | 16.7% |
 | Trajectory | Growing |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China** (2022)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Long-term elevated CO2 and warming enhance microbial necromass carbon accumulation in a paddy soil** (2021)
-   54 citations
+   56 citations
 
 4. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
    47 citations · Soil Carbon
 
 5. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
-   34 citations · Biochar
+   37 citations · Biochar
 
 6. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
    26 citations · Biochar
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Biochar
 
 8. **An antagonistic effect of elevated CO2 and warming on soil N2O emissions related to nitrifier and denitrifier communities in a Chinese wheat field** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 9. **Biochar improves soil organic carbon sequestration potential in the topsoil and subsoil of a paddy field** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 10. **Crop Residue Biochar Rather Than Manure and Straw Return Provided Short Term Synergism Among Grain Production, Carbon Sequestration, and Greenhouse Gas Emission Reduction in a Paddy Under Rice‐Wheat Rotation** (2024)
    10 citations · Biochar

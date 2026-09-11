@@ -1,7 +1,7 @@
 ---
 title: "Yi-Te Chiang"
 description: "Yi-Te Chiang is a Mid-career Soil Carbon researcher at National Taiwan Normal University in TW. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.636816
+date: 2026-09-11T02:38:29.588221
 url: "/cdr-researcher-census/researchers/yi-te-chiang-a5063691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 377 |
+| Citations | 386 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Stable |

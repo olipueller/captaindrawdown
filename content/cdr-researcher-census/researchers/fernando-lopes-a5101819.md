@@ -1,7 +1,7 @@
 ---
 title: "Fernando Lopes"
-description: "Fernando Lopes is a Mid-career Soil Carbon researcher at Universidade dos Açores in PT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.846247
+description: "Fernando Lopes is a Mid-career Soil Carbon researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.819183
 url: "/cdr-researcher-census/researchers/fernando-lopes-a5101819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fernando-lopes-a5101819/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade dos A\u00e7ores"
+    "name": "Universidade Estadual de Campinas (UNICAMP)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3059-1011",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Fernando Lopes**  
-Universidade dos Açores · 🇵🇹 PT
+Universidade Estadual de Campinas (UNICAMP) · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 249 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 250 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

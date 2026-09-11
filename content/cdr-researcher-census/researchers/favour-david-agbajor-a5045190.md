@@ -1,7 +1,7 @@
 ---
 title: "Favour David Agbajor"
-description: "Favour David Agbajor is a Mid-career General CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.579974
+description: "Favour David Agbajor is a Mid-career General CDR researcher at Deakin University in AU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.521606
 url: "/cdr-researcher-census/researchers/favour-david-agbajor-a5045190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Favour David Agbajor",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/favour-david-agbajor-a5045190/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Deakin University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-8699-2845",
     "https://openalex.org/A5045190852"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Favour David Agbajor**
+**Favour David Agbajor**  
+Deakin University · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 428 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 447 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

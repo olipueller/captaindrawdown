@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
-description: "Niklas von der Aßen is a Senior General CDR researcher at RWTH Aachen University in DE. With 109 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.148562
+description: "Niklas von der Aßen is a Senior DAC researcher at RWTH Aachen University in DE. With 115 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.097721
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,30 +34,30 @@ RWTH Aachen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 2,503 |
-| Publications | 109 |
-| CDR Focus | 9.2% |
+| h-index | 21 |
+| Citations | 2,579 |
+| Publications | 115 |
+| CDR Focus | 9.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Environmental process optimisation of an adsorption-based direct air carbon capture and storage system** (2024)
-   43 citations · DAC
+   48 citations · DAC
 
 2. **A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal** (2024)
-   21 citations · DAC
+   23 citations · DAC
 
 3. **Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage** (2025)
-   20 citations · DAC
+   21 citations · DAC
 
 4. **Eliciting laypeople's mental models and risk perceptions of direct air carbon capture and storage: Implications for effective risk communication** (2024)
    16 citations · DAC
@@ -71,13 +71,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models** (2025)
    1 citations · General CDR
 
-8. **Dataset for the Article: "A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models"** (2026)
+8. **Gradient-based nonlinear model predictive control enabling demand-side management for adsorption-based direct air carbon capture** (2026)
    0 citations · DAC
 
-9. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
+9. **Dataset for the Article: "A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models"** (2026)
    0 citations · DAC
 
-10. **Control Strategies to Optimize Adsorption-Based Direct Air Capture under Varying Weather Conditions** (2025)
+10. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Nermina Saronjic"
 description: "Nermina Saronjic is a Mid-career Soil Carbon researcher at BOKU University in AT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.217158
+date: 2026-09-11T02:38:30.180793
 url: "/cdr-researcher-census/researchers/nermina-saronjic-a5077145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 138 |
+| Citations | 141 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

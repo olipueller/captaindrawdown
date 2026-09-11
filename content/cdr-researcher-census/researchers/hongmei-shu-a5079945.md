@@ -1,7 +1,7 @@
 ---
 title: "Hongmei Shu"
-description: "Hongmei Shu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.715085
+description: "Hongmei Shu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.668092
 url: "/cdr-researcher-census/researchers/hongmei-shu-a5079945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 319 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 328 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Straw return increases crop production by improving soil organic carbon sequestration and soil aggregation in a long-term wheat–cotton cropping system** (2023)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

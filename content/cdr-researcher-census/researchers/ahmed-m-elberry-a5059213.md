@@ -1,7 +1,7 @@
 ---
 title: "Ahmed M. Elberry"
 description: "Ahmed M. Elberry is a Mid-career BECCS researcher at Energy Transitions (United Kingdom) in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.402841
+date: 2026-09-11T02:38:29.346384
 url: "/cdr-researcher-census/researchers/ahmed-m-elberry-a5059213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 683 |
+| Citations | 716 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Decarbonizing the Dutch industrial sector: between maintaining domestic production and partial relocation** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

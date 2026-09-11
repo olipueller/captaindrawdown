@@ -1,7 +1,7 @@
 ---
 title: "Melissa Meléndez"
 description: "Melissa Meléndez is a Senior Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.666991
+date: 2026-09-11T02:38:29.623287
 url: "/cdr-researcher-census/researchers/melissa-melendez-a5014645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 353 |
+| Citations | 359 |
 | Publications | 25 |
 | CDR Focus | 12.0% |
 | Trajectory | Growing |

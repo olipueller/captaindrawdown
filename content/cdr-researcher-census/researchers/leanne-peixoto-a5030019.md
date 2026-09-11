@@ -1,7 +1,7 @@
 ---
 title: "Leanne Peixoto"
-description: "Leanne Peixoto is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.232370
+description: "Leanne Peixoto is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.173551
 url: "/cdr-researcher-census/researchers/leanne-peixoto-a5030019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 23 |
-| Citations | 1,379 |
+| h-index | 25 |
+| Citations | 1,471 |
 | Publications | 70 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based crop diversification reinforces soil health and carbon storage driven by microbial biomass and aggregates** (2023)
-   101 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
    86 citations · Soil Carbon
 
 3. **Frequent carbon input primes decomposition of decadal soil organic matter** (2022)
-   62 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 4. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
    36 citations · Soil Carbon
 
 5. **Cover crop biomass production as a predictor of nitrogen fertilizer replacement value - legumes secure positive effects** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Nitrogen and phosphorus co‐limit mineralization of labile carbon in deep subsoil** (2021)
    11 citations · Soil Carbon
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 8. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 9. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 10. **Legume-Based Crop Diversification Reinforces Soil Health and Carbon Storage: Aggregates Mechanisms and Quantitative Evaluation** (2023)
    1 citations · Soil Carbon

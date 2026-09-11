@@ -1,7 +1,7 @@
 ---
 title: "Mingxiang Xu"
-description: "Mingxiang Xu is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation Chinese Academy of Sciences and Ministry of Water Resources in CN. With 99 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.135126
+description: "Mingxiang Xu is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation Chinese Academy of Sciences and Ministry of Water Resources in CN. With 100 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.084992
 url: "/cdr-researcher-census/researchers/mingxiang-xu-a5030533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 30 |
-| Citations | 2,961 |
-| Publications | 99 |
-| CDR Focus | 10.1% |
+| Citations | 3,038 |
+| Publications | 100 |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon stock and sequestration of planted and natural forests along climate gradient in water-limited area: A synthesis in the China's Loess plateau** (2023)
-   32 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Impacts of species mixture on soil nitrogen stocks in the Loess Plateau of China** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Biomass carbon stock and allocation of planted and natural forests in the Loess Plateau of China** (2024)
-   18 citations · General CDR
+   20 citations · General CDR
 
 4. **Long-term light grazing does not change soil organic carbon stability and stock in biocrust layer in the hilly regions of drylands** (2023)
    9 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 8. **Organic-to-inorganic carbon conversion as a potential pathway for soil carbon sequestration in revegetated soils of the Loess Plateau** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 9. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
    0 citations · Soil Carbon

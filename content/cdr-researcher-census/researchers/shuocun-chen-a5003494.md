@@ -1,7 +1,7 @@
 ---
 title: "Shuocun Chen"
-description: "Shuocun Chen is an Early-career Soil Carbon researcher at Duke University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.296095
+description: "Shuocun Chen is an Early-career Soil Carbon researcher at Duke University in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.232325
 url: "/cdr-researcher-census/researchers/shuocun-chen-a5003494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 123 |
-| Publications | 10 |
-| CDR Focus | 20.0% |
+| Citations | 131 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

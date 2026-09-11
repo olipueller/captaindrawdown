@@ -1,7 +1,7 @@
 ---
 title: "Bo Liang"
 description: "Bo Liang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.737810
+date: 2026-09-11T02:38:29.658813
 url: "/cdr-researcher-census/researchers/bo-liang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 305 |
+| Citations | 335 |
 | Publications | 34 |
-| CDR Focus | 8.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Life Cycle Assessment of Pyrolysis Carbonization and Application Processes of Sugarcane Bagasse** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Reed Biochar by Microwave-Assisted Pyrolysis For The Removal of Tetracycline In Water** (2024)
    0 citations · Biochar

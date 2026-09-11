@@ -1,7 +1,7 @@
 ---
 title: "Enlei Liang"
-description: "Enlei Liang is a Mid-career Biochar researcher at Tianjin University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.805998
+description: "Enlei Liang is a Mid-career Biochar researcher at Tianjin University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.756161
 url: "/cdr-researcher-census/researchers/enlei-liang-a5070472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 269 |
-| Publications | 9 |
-| CDR Focus | 22.2% |
+| h-index | 8 |
+| Citations | 279 |
+| Publications | 11 |
+| CDR Focus | 18.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Magnetite-loaded rice husk biochar promoted the denitrification performance of Aquabacterium sp. XL4 under low carbon to nitrogen ratio: Optimization and mechanism** (2022)
-   70 citations · Biochar
+   72 citations · Biochar
 
 2. **Nano iron tetroxide-modified rice husk biochar promoted Feammox performance of Klebsiella sp. FC61 and synergistically removed Ni2+ and ciprofloxacin** (2023)
    30 citations · Biochar

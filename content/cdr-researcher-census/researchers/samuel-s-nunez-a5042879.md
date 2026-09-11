@@ -1,7 +1,7 @@
 ---
 title: "Samuel S. Núñez"
 description: "Samuel S. Núñez is a Mid-career Biochar researcher at University of Alicante in ES. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.221097
+date: 2026-09-11T02:38:30.167261
 url: "/cdr-researcher-census/researchers/samuel-s-nunez-a5042879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 137 |
+| Citations | 144 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Revalorization of Posidonia oceanica Waste for the Thermochemical Production of Biochar** (2022)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

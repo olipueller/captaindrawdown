@@ -1,7 +1,7 @@
 ---
 title: "Kevin Keys"
 description: "Kevin Keys is a Senior General CDR researcher at Government of Nova Scotia in CA. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.827859
+date: 2026-09-11T02:38:29.790596
 url: "/cdr-researcher-census/researchers/kevin-keys-a5000874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 258 |
+| Citations | 264 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |

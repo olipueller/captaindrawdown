@@ -1,7 +1,7 @@
 ---
 title: "Huailin Zhang"
 description: "Huailin Zhang is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.777527
+date: 2026-09-11T02:38:29.726834
 url: "/cdr-researcher-census/researchers/huailin-zhang-a5005727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 284 |
+| Citations | 295 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Insights into soil carbon metabolism and carbon sequestration capacity under organic fertilizer substitution model** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

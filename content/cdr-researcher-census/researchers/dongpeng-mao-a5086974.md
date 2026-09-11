@@ -1,7 +1,7 @@
 ---
 title: "Dongpeng Mao"
-description: "Dongpeng Mao is a Mid-career Biochar researcher at Jilin University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.304285
+description: "Dongpeng Mao is a Mid-career Biochar researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.218641
 url: "/cdr-researcher-census/researchers/dongpeng-mao-a5086974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Dongpeng Mao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dongpeng-mao-a5086974/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Jilin University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-5663-895X",
     "https://openalex.org/A5086974192"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Dongpeng Mao**  
-Jilin University · 🇨🇳 CN
+**Dongpeng Mao**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 121 |
-| Publications | 8 |
-| CDR Focus | 25.0% |
+| Citations | 133 |
+| Publications | 9 |
+| CDR Focus | 22.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

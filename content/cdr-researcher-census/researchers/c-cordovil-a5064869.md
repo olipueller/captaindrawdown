@@ -1,7 +1,7 @@
 ---
 title: "C. Cordovil"
-description: "C. Cordovil is a Mid-career Biochar researcher at University of Lisbon in PT. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.578835
+description: "C. Cordovil is a Mid-career Biochar researcher at University of Lisbon in PT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.539862
 url: "/cdr-researcher-census/researchers/c-cordovil-a5064869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,8 +44,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 |--------|-------|
 | h-index | 7 |
 | Citations | 429 |
-| Publications | 27 |
-| CDR Focus | 11.1% |
+| Publications | 23 |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Rosa M. Carbonell-Bojollo"
 description: "Rosa M. Carbonell-Bojollo is a Senior Soil Carbon researcher at Instituto Andaluz de Investigación y Formación Agraria Pesquera Alimentaria y de la Producción Ecológica. Centro Alameda del Obispo. in ES. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.293243
+date: 2026-09-11T02:38:29.244976
 url: "/cdr-researcher-census/researchers/rosa-m-carbonell-bojollo-a5027532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,021 |
+| Citations | 1,041 |
 | Publications | 46 |
 | CDR Focus | 8.7% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover Crop Contributions to Improve the Soil Nitrogen and Carbon Sequestration in Almond Orchards (SW Spain)** (2021)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Global Trends in Conservation Agriculture and Climate Change Research: A Bibliometric Analysis** (2025)
    11 citations · General CDR

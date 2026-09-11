@@ -1,7 +1,7 @@
 ---
 title: "Shengxian Chen"
-description: "Shengxian Chen is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.922008
+description: "Shengxian Chen is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.852651
 url: "/cdr-researcher-census/researchers/shengxian-chen-a5032151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 218 |
+| h-index | 10 |
+| Citations | 235 |
 | Publications | 35 |
 | CDR Focus | 11.4% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil net carbon balance depends on soil C: N: P stoichiometry** (2024)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Shelterbelt farmland-afforestation induced SOC accrual with higher temperature stability: Cross-sites 1 m soil profiles analysis in NE China** (2021)
    23 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 4. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon

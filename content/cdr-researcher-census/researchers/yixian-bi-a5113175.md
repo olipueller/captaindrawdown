@@ -1,7 +1,7 @@
 ---
 title: "Yixian Bi"
 description: "Yixian Bi is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.654847
+date: 2026-09-11T02:38:29.600912
 url: "/cdr-researcher-census/researchers/yixian-bi-a5113175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 363 |
+| Citations | 377 |
 | Publications | 16 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Macrofungi promote SOC decomposition and weaken sequestration by modulating soil microbial function in temperate steppe** (2023)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Subsurface leaf and root litter enhance soil carbon formation compared to surface litter: Direct evidence from a <scp> <sup>13</sup> C </scp> ‐labelled incubation experiment** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "David J. Beerling"
-description: "David J. Beerling is an Eminent Enhanced Weathering researcher at Leverhulme Trust in GB. With 509 publications and an h-index of 97, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.061790
+description: "David J. Beerling is an Eminent Enhanced Weathering researcher at Leverhulme Trust in GB. With 515 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.014806
 url: "/cdr-researcher-census/researchers/david-j-beerling-a5073877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 97 |
-| Citations | 33,885 |
-| Publications | 509 |
-| CDR Focus | 10.2% |
+| h-index | 99 |
+| Citations | 35,484 |
+| Publications | 515 |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   162 citations · Enhanced Weathering
+   164 citations · Enhanced Weathering
 
 2. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   156 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 3. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   134 citations
+   146 citations
 
 4. **Technologies to deliver food and climate security through agriculture** (2021)
    111 citations · General CDR
 
 5. **Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits** (2024)
-   104 citations · General CDR
+   108 citations · General CDR
 
 6. **Increased carbon capture by a silicate-treated forested watershed affected by acid deposition** (2021)
-   94 citations · Enhanced Weathering
+   95 citations · Enhanced Weathering
 
 7. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
-   85 citations · Enhanced Weathering
+   87 citations · Enhanced Weathering
 
 8. **Legume–microbiome interactions unlock mineral nutrients in regrowing tropical forests** (2021)
    78 citations · Enhanced Weathering
 
 9. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   71 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 10. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   68 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 ## External Profiles
 

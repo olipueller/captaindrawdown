@@ -1,7 +1,7 @@
 ---
 title: "Nóra Szarka"
 description: "Nóra Szarka is a Senior General CDR researcher at University of Calgary in CA. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.385482
+date: 2026-09-11T02:38:29.337861
 url: "/cdr-researcher-census/researchers/nora-szarka-a5024277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 719 |
+| Citations | 736 |
 | Publications | 52 |
 | CDR Focus | 9.6% |
 | Trajectory | Stable |
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 2. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   6 citations
+   7 citations
 
 3. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 4. **Dynamics of bio-based carbon dioxide removal in Germany** (2023)
    3 citations · BECCS

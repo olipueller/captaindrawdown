@@ -1,7 +1,7 @@
 ---
 title: "Xianjin Qi"
 description: "Xianjin Qi is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.730953
+date: 2026-09-11T02:38:29.683819
 url: "/cdr-researcher-census/researchers/xianjin-qi-a5101638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 309 |
+| Citations | 317 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ growth of corn straw followed by carbonization with Co-ZIF: A novel acid-resistant magnetic adsorbent for efficient arsenic purification** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

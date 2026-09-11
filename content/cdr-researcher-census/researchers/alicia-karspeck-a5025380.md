@@ -1,7 +1,7 @@
 ---
 title: "Alicia Karspeck"
 description: "Alicia Karspeck is a Senior Ocean CDR researcher. With 73 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.116154
+date: 2026-09-11T02:38:29.066663
 url: "/cdr-researcher-census/researchers/alicia-karspeck-a5025380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,15 +38,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 26 |
-| Citations | 3,701 |
+| Citations | 3,749 |
 | Publications | 73 |
-| CDR Focus | 6.8% |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   51 citations · Ocean CDR
+   57 citations · Ocean CDR
 
 2. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
    9 citations · General CDR

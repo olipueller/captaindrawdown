@@ -1,7 +1,7 @@
 ---
 title: "Davoud Rouzaneh"
-description: "Davoud Rouzaneh is a Mid-career Soil Carbon researcher at Agricultural Sciences and Natural Resources University of Khuzestan. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.043903
+description: "Davoud Rouzaneh is a Mid-career Soil Carbon researcher at Ramin Agriculture and Natural Resources University of Khouzestan in IR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.989493
 url: "/cdr-researcher-census/researchers/davoud-rouzaneh-a5063639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/davoud-rouzaneh-a5063639/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Agricultural Sciences and Natural Resources University of Khuzestan"
+    "name": "Ramin Agriculture and Natural Resources University of Khouzestan"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8211-898X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Davoud Rouzaneh**  
-Agricultural Sciences and Natural Resources University of Khuzestan
+Ramin Agriculture and Natural Resources University of Khouzestan ·  IR
 
 **Career Stage:** Mid-career
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 184 |
-| Publications | 8 |
-| CDR Focus | 12.5% |
+| Citations | 193 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Applying conservation agriculture practices as a strategy to control soil erosion and carbon sequestration** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuting Chen"
-description: "Yuting Chen is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.827166
+description: "Yuting Chen is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.775400
 url: "/cdr-researcher-census/researchers/yuting-chen-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuting-chen-a5100436/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sichuan Agricultural University"
+    "name": "Nanjing University of Chinese Medicine"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3171-5845",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuting Chen**  
-Sichuan Agricultural University · 🇨🇳 CN
+Nanjing University of Chinese Medicine · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 258 |
-| Publications | 24 |
-| CDR Focus | 8.3% |
+| Citations | 270 |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in paddy field and its simultaneous mineralization to supply available nutrients for the crops are affected by no-tillage with straw management: A meta-analysis** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Rice-Fish Co-Culture Promotes Soil Carbon Sequestration Through Alterations in Soil Microbial Community Structure** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

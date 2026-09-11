@@ -1,7 +1,7 @@
 ---
 title: "Junji Yuan"
-description: "Junji Yuan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 81 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.146541
+description: "Junji Yuan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.094677
 url: "/cdr-researcher-census/researchers/junji-yuan-a5013164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 27 |
-| Citations | 2,575 |
-| Publications | 81 |
-| CDR Focus | 7.4% |
-| Trajectory | Stable |
+| Citations | 2,694 |
+| Publications | 85 |
+| CDR Focus | 8.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Field-aged biochar enhances soil organic carbon by increasing recalcitrant organic carbon fractions and making microbial communities more conducive to carbon sequestration** (2022)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
-   68 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 3. **Biogeochemical consequences of marine fisheries and aquaculture** (2025)
-   34 citations · Ocean CDR
+   38 citations · Ocean CDR
 
 4. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
    9 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **Interplay between saltmarsh carbon burial and lateral exchange in coastal wetlands: The role of biomorphodynamic feedback** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 7. **Divergent stabilization pathways shape soil carbon sequestration efficiency in restored forests and grasslands** (2026)
    0 citations · Soil Carbon

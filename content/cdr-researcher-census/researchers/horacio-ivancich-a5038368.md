@@ -1,7 +1,7 @@
 ---
 title: "Horacio Ivancich"
 description: "Horacio Ivancich is a Mid-career Soil Carbon researcher at US Forest Service in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.859947
+date: 2026-09-11T02:38:29.821371
 url: "/cdr-researcher-census/researchers/horacio-ivancich-a5038368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 242 |
+| Citations | 249 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon density and sequestration in the temperate forests of northern Patagonia, Argentina** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

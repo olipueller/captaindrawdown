@@ -1,7 +1,7 @@
 ---
 title: "Qinyang Li"
-description: "Qinyang Li is a Mid-career Biochar researcher at China Leather and Footwear Industry Research Institute in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.302696
+description: "Qinyang Li is a Mid-career Biochar researcher at Aesthetic Surgery Center in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.249273
 url: "/cdr-researcher-census/researchers/qinyang-li-a5066612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qinyang-li-a5066612/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Leather and Footwear Industry Research Institute"
+    "name": "Aesthetic Surgery Center"
   },
   "sameAs": "https://openalex.org/A5066612406"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Qinyang Li**  
-China Leather and Footwear Industry Research Institute · 🇨🇳 CN
+Aesthetic Surgery Center · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 122 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 128 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

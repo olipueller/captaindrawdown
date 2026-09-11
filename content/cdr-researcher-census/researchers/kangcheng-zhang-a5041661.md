@@ -1,7 +1,7 @@
 ---
 title: "Kangcheng Zhang"
 description: "Kangcheng Zhang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.495219
+date: 2026-09-11T02:38:29.431022
 url: "/cdr-researcher-census/researchers/kangcheng-zhang-a5041661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 523 |
+| Citations | 561 |
 | Publications | 19 |
 | CDR Focus | 15.8% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   66 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   17 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Supplementary original data** (2023)
    0 citations · Soil Carbon

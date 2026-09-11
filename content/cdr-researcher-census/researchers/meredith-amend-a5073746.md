@@ -1,7 +1,7 @@
 ---
 title: "Meredith Amend"
-description: "Meredith Amend is a Mid-career General CDR researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.762983
+description: "Meredith Amend is a Mid-career General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.718201
 url: "/cdr-researcher-census/researchers/meredith-amend-a5073746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,16 +37,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 292 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 299 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Addressing uncertainty and bias in land use, land use change, and forestry greenhouse gas inventories** (2022)
-   57 citations · General CDR
+   58 citations · General CDR
 
 ## External Profiles
 

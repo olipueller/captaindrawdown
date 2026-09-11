@@ -1,7 +1,7 @@
 ---
 title: "Xingyao Ye"
-description: "Xingyao Ye is a Senior Biochar researcher at National University of Singapore in SG. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.209711
+description: "Xingyao Ye is a Senior Biochar researcher at National University of Singapore in SG. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.155056
 url: "/cdr-researcher-census/researchers/xingyao-ye-a5037832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 1,572 |
+| h-index | 15 |
+| Citations | 1,650 |
 | Publications | 39 |
 | CDR Focus | 5.1% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into novel phosphorus-doped biochar for tetracycline removal: Non-radical oxidation and adsorption** (2024)
-   9 citations · Biochar
+   11 citations · Biochar
 
 2. **Synergistic Adsorption and Degradation of Florfenicol for Water Remediation by Double-Layer Core–Shell Fe0/Fe3C-Based Biochar Without External Oxidants** (2026)
    0 citations · Biochar

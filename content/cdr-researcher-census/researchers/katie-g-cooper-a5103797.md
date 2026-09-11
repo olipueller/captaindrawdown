@@ -1,7 +1,7 @@
 ---
 title: "Katie G. Cooper"
 description: "Katie G. Cooper is a Senior DAC researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.314380
+date: 2026-09-11T02:38:30.276763
 url: "/cdr-researcher-census/researchers/katie-g-cooper-a5103797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 119 |
+| Citations | 122 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

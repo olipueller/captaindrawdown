@@ -1,7 +1,7 @@
 ---
 title: "Melanie Brunn"
-description: "Melanie Brunn is a Mid-career Soil Carbon researcher at Koblenz University of Applied Sciences in DE. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.469090
+description: "Melanie Brunn is a Mid-career Soil Carbon researcher at Koblenz University of Applied Sciences in DE. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.412251
 url: "/cdr-researcher-census/researchers/melanie-brunn-a5025678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 562 |
-| Publications | 41 |
-| CDR Focus | 14.6% |
-| Trajectory | Stable |
+| Citations | 590 |
+| Publications | 42 |
+| CDR Focus | 11.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Experimental drought increased the belowground sink strength towards higher topsoil organic carbon stocks in a temperate mature forest** (2023)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Tree carbon allocation to root exudates: implications for carbon budgets, soil sequestration and drought response** (2025)
-   26 citations · General CDR
+   27 citations · General CDR
 
 3. **Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment** (2025)
    22 citations · Soil Carbon

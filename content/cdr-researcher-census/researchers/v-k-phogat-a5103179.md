@@ -1,7 +1,7 @@
 ---
 title: "V. K. Phogat"
 description: "V. K. Phogat is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.057852
+date: 2026-09-11T02:38:30.028715
 url: "/cdr-researcher-census/researchers/v-k-phogat-a5103179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 180 |
+| Citations | 181 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

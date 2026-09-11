@@ -1,7 +1,7 @@
 ---
 title: "Brendan P. Harrison"
-description: "Brendan P. Harrison is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.971081
+description: "Brendan P. Harrison is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.899237
 url: "/cdr-researcher-census/researchers/brendan-p-harrison-a5073085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 206 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 217 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

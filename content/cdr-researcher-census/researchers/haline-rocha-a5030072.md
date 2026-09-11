@@ -1,7 +1,7 @@
 ---
 title: "Haline Rocha"
 description: "Haline Rocha is a Mid-career General CDR researcher at Universidade de São Paulo in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.419896
+date: 2026-09-11T02:38:30.360179
 url: "/cdr-researcher-census/researchers/haline-rocha-a5030072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 100 |
+| Citations | 106 |
 | Publications | 13 |
 | CDR Focus | 15.4% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Hydrocarbon indication in Rio Bonito Formation sandstone: Implication for CO2 storage in São Paulo, Brazil** (2023)
-   9 citations · BECCS
+   10 citations · BECCS
 
 2. **Developments and Evolution of CCUS Technologies: A Review** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

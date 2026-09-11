@@ -1,7 +1,7 @@
 ---
 title: "Manuel Paulo Cunha"
-description: "Manuel Paulo Cunha is a Senior General CDR researcher at Instituto Superior da Maia in PT. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.140671
+description: "Manuel Paulo Cunha is a Senior General CDR researcher at Instituto Superior da Maia in PT. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.141429
 url: "/cdr-researcher-census/researchers/manuel-paulo-cunha-a5064882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 156 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| h-index | 3 |
+| Citations | 150 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

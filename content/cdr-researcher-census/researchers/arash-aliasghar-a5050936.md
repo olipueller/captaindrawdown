@@ -1,7 +1,7 @@
 ---
 title: "Arash Aliasghar"
-description: "Arash Aliasghar is a Mid-career Biochar researcher at Stevens Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.221182
+description: "Arash Aliasghar is a Mid-career Biochar researcher at Stevens Institute of Technology in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.167579
 url: "/cdr-researcher-census/researchers/arash-aliasghar-a5050936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 137 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 144 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ammavajjala Sesha Sai Raghuram"
 description: "Ammavajjala Sesha Sai Raghuram is a Mid-career Biochar researcher at Birla Institute of Technology and Science - Hyderabad Campus in IN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.997099
+date: 2026-09-11T02:38:29.945739
 url: "/cdr-researcher-census/researchers/ammavajjala-sesha-sai-raghuram-a5014440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 198 |
+| Citations | 207 |
 | Publications | 31 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon Sequestration Capacity of Stabilized Soft Clays with Recycled Binders** (2023)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Enhancing Expansive Clay Stabilization Through Steel Slag-Based Carbon Sequestration** (2025)
    0 citations · Biochar

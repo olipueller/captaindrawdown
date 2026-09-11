@@ -1,7 +1,7 @@
 ---
 title: "Gülru Bulkan"
 description: "Gülru Bulkan is a Mid-career General CDR researcher at Swedish University of Agricultural Sciences in SE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.848572
+date: 2026-09-11T02:38:29.824366
 url: "/cdr-researcher-census/researchers/gulru-bulkan-a5004444/"
 layout: "researcher"
 hiddenInHomeList: true

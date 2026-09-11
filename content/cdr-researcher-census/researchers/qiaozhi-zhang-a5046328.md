@@ -1,7 +1,7 @@
 ---
 title: "Qiaozhi Zhang"
 description: "Qiaozhi Zhang is a Mid-career Biochar researcher at National University of Singapore in SG. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.497385
+date: 2026-09-11T02:38:29.436073
 url: "/cdr-researcher-census/researchers/qiaozhi-zhang-a5046328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 519 |
+| Citations | 553 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient microwave-assisted mineralization of oxytetracycline driven by persulfate and hypochlorite over Cu-biochar catalyst** (2023)
-   45 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

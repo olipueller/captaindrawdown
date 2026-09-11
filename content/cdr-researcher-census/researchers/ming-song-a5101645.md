@@ -1,7 +1,7 @@
 ---
 title: "Ming Song"
 description: "Ming Song is a Mid-career Biochar researcher at Xiamen University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226485
+date: 2026-09-11T02:38:30.121241
 url: "/cdr-researcher-census/researchers/ming-song-a5101645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 136 |
+| Citations | 155 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |

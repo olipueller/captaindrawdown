@@ -1,7 +1,7 @@
 ---
 title: "T. Dhannia"
 description: "T. Dhannia is a Senior Biochar researcher at Cochin University of Science and Technology in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.049207
+date: 2026-09-11T02:38:30.005767
 url: "/cdr-researcher-census/researchers/t-dhannia-a5023735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 182 |
+| Citations | 188 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

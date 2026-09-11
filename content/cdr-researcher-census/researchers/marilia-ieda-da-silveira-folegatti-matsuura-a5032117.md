@@ -1,7 +1,7 @@
 ---
 title: "Marília Ieda da Silveira Folegatti Matsuura"
-description: "Marília Ieda da Silveira Folegatti Matsuura is a Mid-career BECCS researcher at Brazilian Agricultural Research Corporation in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.332175
+description: "Marília Ieda da Silveira Folegatti Matsuura is a Mid-career BECCS researcher at Brazilian Agricultural Research Corporation in BR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.304052
 url: "/cdr-researcher-census/researchers/marilia-ieda-da-silveira-folegatti-matsuura-a5032117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 116 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 117 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    11 citations · BECCS
 
 2. **Energy–environmental nexus in green hydrogen-assisted conversion of second-crop canola to sustainable aviation fuel: Toward low-carbon bioenergy systems** (2026)
-   4 citations
+   5 citations
 
 ## External Profiles
 

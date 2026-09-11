@@ -1,7 +1,7 @@
 ---
 title: "Thaksina Poyai"
 description: "Thaksina Poyai is a Mid-career Biochar researcher at Chulalongkorn University in TH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.226389
+date: 2026-09-11T02:38:30.185705
 url: "/cdr-researcher-census/researchers/thaksina-poyai-a5025306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 136 |
+| Citations | 140 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

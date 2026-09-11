@@ -1,7 +1,7 @@
 ---
 title: "Xuezhen Sun"
-description: "Xuezhen Sun is a Senior Soil Carbon researcher at Xuzhou Medical College in CN. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.290443
+description: "Xuezhen Sun is a Senior Soil Carbon researcher at Xuzhou Medical College in CN. With 62 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.240490
 url: "/cdr-researcher-census/researchers/xuezhen-sun-a5101662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 1,040 |
+| h-index | 18 |
+| Citations | 1,057 |
 | Publications | 62 |
 | CDR Focus | 8.1% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Long-term cotton stubble return and subsoiling improve soil organic carbon by changing the stability and organic carbon of soil aggregates in coastal saline fields** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Long-term conservation tillage increase cotton rhizosphere sequestration of soil organic carbon by changing specific microbial CO2 fixation pathways in coastal saline soil** (2024)
    13 citations · Biochar

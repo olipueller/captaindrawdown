@@ -1,7 +1,7 @@
 ---
 title: "Phakphum Paluang"
-description: "Phakphum Paluang is a Mid-career Biochar researcher at Chiang Mai University in TH. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.334538
+description: "Phakphum Paluang is a Mid-career Biochar researcher at Chiang Mai University in TH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.265597
 url: "/cdr-researcher-census/researchers/phakphum-paluang-a5086451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 116 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 125 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhijun Cao"
 description: "Zhijun Cao is a Senior Soil Carbon researcher at Jinggangshan University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.427592
+date: 2026-09-11T02:38:29.380788
 url: "/cdr-researcher-census/researchers/zhijun-cao-a5100844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 633 |
+| Citations | 641 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Growing |

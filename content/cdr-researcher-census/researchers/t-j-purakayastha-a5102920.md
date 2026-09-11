@@ -1,7 +1,7 @@
 ---
 title: "T. J. Purakayastha"
-description: "T. J. Purakayastha is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.144230
+description: "T. J. Purakayastha is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.093973
 url: "/cdr-researcher-census/researchers/t-j-purakayastha-a5102920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/t-j-purakayastha-a5102920/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Agricultural Research Institute"
+    "name": "Indian Agricultural Statistics Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1763-3766",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **T. J. Purakayastha**  
-Indian Agricultural Research Institute · 🇮🇳 IN
+Indian Agricultural Statistics Research Institute · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,644 |
-| Publications | 66 |
-| CDR Focus | 10.6% |
+| Citations | 2,707 |
+| Publications | 68 |
+| CDR Focus | 10.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar aided priming of carbon and nutrient availability in three soil orders of India** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Role of Biochar on Greenhouse Gas Emissions and Carbon Sequestration in Soil: Opportunities for Mitigating Climate Change** (2021)
    14 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 4. **Exploring soil organic carbon fractions, stocks, and carbon management index across land uses in subtropical ecosystems of Tripura, India** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Variability in soil organic carbon pools in different land use systems in the north-eastern region of India** (2024)
    3 citations · Soil Carbon

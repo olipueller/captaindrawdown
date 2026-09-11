@@ -1,7 +1,7 @@
 ---
 title: "Yisau Adelaja Odusote"
 description: "Yisau Adelaja Odusote is a Senior Biochar researcher at Federal University of Technology Akure in NG. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.329818
+date: 2026-09-11T02:38:29.278751
 url: "/cdr-researcher-census/researchers/yisau-adelaja-odusote-a5037450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 875 |
+| Citations | 904 |
 | Publications | 37 |
 | CDR Focus | 10.8% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   121 citations · Biochar
+   122 citations · Biochar
 
 2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   91 citations · Biochar
+   93 citations · Biochar
 
 3. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
-   58 citations · Biochar
+   59 citations · Biochar
 
 4. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
    4 citations · Biochar

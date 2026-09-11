@@ -1,7 +1,7 @@
 ---
 title: "Mark Kelly"
 description: "Mark Kelly is a Mid-career DAC researcher at Trinity College Dublin in IE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.796200
+date: 2026-09-11T02:38:29.701041
 url: "/cdr-researcher-census/researchers/mark-kelly-a5101518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 274 |
+| Citations | 308 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Life cycle CO2e intensity of power-to-liquid sustainable aviation fuel scenarios and specific use cases** (2025)
-   11 citations · DAC
+   14 citations · DAC
 
 ## External Profiles
 

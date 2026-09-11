@@ -1,7 +1,7 @@
 ---
 title: "Valeria Cafaro"
 description: "Valeria Cafaro is a Mid-career Soil Carbon researcher at National Research Council in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.203858
+date: 2026-09-11T02:38:30.117652
 url: "/cdr-researcher-census/researchers/valeria-cafaro-a5092661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 141 |
+| Citations | 156 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Fertilizers and Bio-Waste for Sustainable Soil Management to Support Crops and Control Greenhouse Gas Emissions in Mediterranean Agroecosystems: A Review** (2024)
-   49 citations · General CDR
+   54 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shahid Shuja Shafai"
-description: "Shahid Shuja Shafai is a Mid-career Soil Carbon researcher at Lovely Professional University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.166947
+description: "Shahid Shuja Shafai is a Mid-career Soil Carbon researcher at Lovely Professional University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.123087
 url: "/cdr-researcher-census/researchers/shahid-shuja-shafai-a5049917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 150 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 155 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Soil Bulk Density Estimation by a Novel Pedotransfer Function Tailored on Hilly Terrains** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
+
+2. **Terrain attributes and seasonal Sentinel-2 covariates for machine learning-based digital mapping of soil organic carbon fractions in a Himalayan watershed** (2026)
+   0 citations
+
+3. **Topographic and Climatic Determinants of Soil Organic Carbon Across Landscapes: A Meta‐Analysis** (2026)
+   0 citations
 
 ## External Profiles
 

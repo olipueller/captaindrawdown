@@ -1,7 +1,7 @@
 ---
 title: "Gang Tang"
-description: "Gang Tang is a Senior General CDR researcher at The University of Melbourne in AU. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.530287
+description: "Gang Tang is a Senior General CDR researcher at The University of Melbourne in AU. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.478809
 url: "/cdr-researcher-census/researchers/gang-tang-a5050677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 477 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 492 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

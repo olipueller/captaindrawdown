@@ -1,7 +1,7 @@
 ---
 title: "Cosmas Chinedu Uche"
 description: "Cosmas Chinedu Uche is a Mid-career Soil Carbon researcher at Federal University of Technology Owerri in NG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.813035
+date: 2026-09-11T02:38:29.754805
 url: "/cdr-researcher-census/researchers/cosmas-chinedu-uche-a5036098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 266 |
+| Citations | 280 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Stable |

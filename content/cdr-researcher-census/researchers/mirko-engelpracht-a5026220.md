@@ -1,7 +1,7 @@
 ---
 title: "Mirko Engelpracht"
 description: "Mirko Engelpracht is a Mid-career DAC researcher at RWTH Aachen University in DE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.151703
+date: 2026-09-11T02:38:30.073959
 url: "/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 153 |
+| Citations | 168 |
 | Publications | 30 |
-| CDR Focus | 20.0% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Environmental process optimisation of an adsorption-based direct air carbon capture and storage system** (2024)
-   43 citations · DAC
+   48 citations · DAC
 
 2. **A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal** (2024)
-   21 citations · DAC
+   23 citations · DAC
 
 3. **Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage** (2025)
-   20 citations · DAC
+   21 citations · DAC
 
 4. **Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?** (2023)
    0 citations · DAC

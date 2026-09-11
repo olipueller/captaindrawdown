@@ -1,7 +1,7 @@
 ---
 title: "Jungang Yang"
-description: "Jungang Yang is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.368437
+description: "Jungang Yang is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.281558
 url: "/cdr-researcher-census/researchers/jungang-yang-a5026355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 109 |
-| Publications | 27 |
-| CDR Focus | 7.4% |
+| h-index | 6 |
+| Citations | 121 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Hydroxyl Radical‐Driven Oxidation as a Key Pathway for Greenhouse Gas Production During Soil Drying–Rewetting** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Nitrogen input drives carbon flow in desert ecosystems: mechanisms of photosynthetic carbon allocation response to nitrogen deposition** (2026)
    0 citations · Soil Carbon

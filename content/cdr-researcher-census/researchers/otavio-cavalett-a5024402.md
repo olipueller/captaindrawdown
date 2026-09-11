@@ -1,7 +1,7 @@
 ---
 title: "Otávio Cavalett"
-description: "Otávio Cavalett is an Eminent General CDR researcher at Global Services (Slovakia) in SK. With 113 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.086818
+description: "Otávio Cavalett is an Eminent General CDR researcher at Laboratório Nacional de Ciência e Tecnologia do Bioetanol in BR. With 117 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.038111
 url: "/cdr-researcher-census/researchers/otavio-cavalett-a5024402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/otavio-cavalett-a5024402/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Global Services (Slovakia)"
+    "name": "Laborat\u00f3rio Nacional de Ci\u00eancia e Tecnologia do Bioetanol"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4805-2881",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Otávio Cavalett**  
-Global Services (Slovakia) ·  SK
+Laboratório Nacional de Ciência e Tecnologia do Bioetanol · 🇧🇷 BR
 
 **Career Stage:** Eminent
 
@@ -42,10 +42,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 44 |
-| Citations | 6,418 |
-| Publications | 113 |
-| CDR Focus | 5.3% |
+| h-index | 45 |
+| Citations | 6,584 |
+| Publications | 117 |
+| CDR Focus | 5.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    94 citations · BECCS
 
 2. **Climate change impacts of e-fuels for aviation in Europe under present-day conditions and future policy scenarios** (2023)
-   75 citations · DAC
+   77 citations · DAC
 
 3. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 4. **LCA and negative emission potential of retrofitted cement plants under oxyfuel conditions at high biogenic fuel shares** (2022)
-   49 citations · BECCS
+   50 citations · BECCS
 
 5. **Climate change mitigation potentials of biofuels produced from perennial crops and natural regrowth on abandoned and degraded cropland in Nordic countries** (2022)
-   43 citations · BECCS
+   44 citations · BECCS
 
 6. **Advanced technologies for electricity production in the sugarcane value chain are a strategic option in a carbon reward policy context** (2021)
    21 citations · BECCS

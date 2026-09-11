@@ -1,7 +1,7 @@
 ---
 title: "Lorie Hamelin"
-description: "Lorie Hamelin is a Senior General CDR researcher at INSA Toulouse in FR. With 153 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.115919
+description: "Lorie Hamelin is a Senior General CDR researcher at INSA Toulouse in FR. With 157 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.065114
 url: "/cdr-researcher-census/researchers/lorie-hamelin-a5085714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 32 |
-| Citations | 3,718 |
-| Publications | 153 |
-| CDR Focus | 7.2% |
+| Citations | 3,812 |
+| Publications | 157 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   53 citations · General CDR
+   54 citations · General CDR
 
 2. **From hemp grown on carbon-vulnerable lands to long-lasting bio-based products: Uncovering trade-offs between overall environmental impacts, sequestration in soil, and dynamic influences on global temperature** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 3. **Simultaneous carbon storage in arable land and anthropogenic products (CSAAP): Demonstrating an integrated concept towards well below 2°C** (2022)
    18 citations · General CDR
 
 4. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 5. **Converting carbon vulnerable lands to wood plantations for use as building materials: Overall environmental performance and time-dependent assessment of carbon dioxide removals** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 6. **A generalizable framework for spatially explicit exploration of soil organic carbon sequestration on global marginal land** (2022)
    3 citations · General CDR

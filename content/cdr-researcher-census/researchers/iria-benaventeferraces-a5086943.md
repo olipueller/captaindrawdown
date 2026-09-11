@@ -1,7 +1,7 @@
 ---
 title: "Iria Benavente‐Ferraces"
-description: "Iria Benavente‐Ferraces is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.491275
+description: "Iria Benavente‐Ferraces is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.422202
 url: "/cdr-researcher-census/researchers/iria-benaventeferraces-a5086943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 528 |
-| Publications | 22 |
-| CDR Focus | 9.1% |
+| Citations | 575 |
+| Publications | 23 |
+| CDR Focus | 8.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

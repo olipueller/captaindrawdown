@@ -1,7 +1,7 @@
 ---
 title: "Yuxing Ding"
-description: "Yuxing Ding is a Mid-career DAC researcher at State Key Laboratory of Chemical Engineering in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.014457
+description: "Yuxing Ding is a Mid-career DAC researcher at East China University of Science and Technology in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.956932
 url: "/cdr-researcher-census/researchers/yuxing-ding-a5044224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuxing-ding-a5044224/",
   "affiliation": {
     "@type": "Organization",
-    "name": "State Key Laboratory of Chemical Engineering"
+    "name": "East China University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5044224043"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuxing Ding**  
-State Key Laboratory of Chemical Engineering · 🇨🇳 CN
+East China University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 192 |
+| Citations | 202 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

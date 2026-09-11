@@ -1,7 +1,7 @@
 ---
 title: "Ishita Mishra"
-description: "Ishita Mishra is a Mid-career Soil Carbon researcher at Indian Institute of Technology BHU in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.382709
+description: "Ishita Mishra is a Mid-career Soil Carbon researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.330410
 url: "/cdr-researcher-census/researchers/ishita-mishra-a5040773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ishita-mishra-a5040773/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Institute of Technology BHU"
+    "name": "Govind Ballabh Pant University of Agriculture and Technology"
   },
   "sameAs": "https://openalex.org/A5040773514"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Ishita Mishra**  
-Indian Institute of Technology BHU · 🇮🇳 IN
+Govind Ballabh Pant University of Agriculture and Technology · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 112 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Agroforestry Systems: A Pathway to Resilient and Productive Landscapes** (2024)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

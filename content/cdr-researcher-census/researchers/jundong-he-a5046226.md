@@ -1,7 +1,7 @@
 ---
 title: "Jundong He"
 description: "Jundong He is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.279081
+date: 2026-09-11T02:38:30.236481
 url: "/cdr-researcher-census/researchers/jundong-he-a5046226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 126 |
+| Citations | 130 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Defining Important Areas for Ecosystem Conservation in Qinghai Province under the Policy of Ecological Red Line** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

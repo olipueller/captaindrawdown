@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Qiu"
-description: "Shaojun Qiu is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 77 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.120528
+description: "Shaojun Qiu is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 77 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.069876
 url: "/cdr-researcher-census/researchers/shaojun-qiu-a5102707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 33 |
-| Citations | 3,526 |
+| h-index | 35 |
+| Citations | 3,602 |
 | Publications | 77 |
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   169 citations · Soil Carbon
+   172 citations · Soil Carbon
 
 2. **Responses of soil aggregation and aggregate-associated carbon and nitrogen in black soil to different long-term fertilization regimes** (2021)
    45 citations · Soil Carbon

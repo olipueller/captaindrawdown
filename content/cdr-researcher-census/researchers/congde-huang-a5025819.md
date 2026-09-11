@@ -1,7 +1,7 @@
 ---
 title: "Congde Huang"
-description: "Congde Huang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.303130
+description: "Congde Huang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 74 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.238421
 url: "/cdr-researcher-census/researchers/congde-huang-a5025819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 16 |
-| Citations | 978 |
-| Publications | 73 |
-| CDR Focus | 5.5% |
+| h-index | 17 |
+| Citations | 1,066 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microbial necromass under global change and implications for soil organic matter** (2023)
-   159 citations · Soil Carbon
+   164 citations · Soil Carbon
 
 2. **Nitrogen addition increases microbial necromass in croplands and bacterial necromass in forests: A global meta-analysis** (2021)
-   138 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 3. **Microbial necromass underpins long-term soil carbon stability and ecosystem carbon persistence in pine reforestations** (2026)
    2 citations · Soil Carbon

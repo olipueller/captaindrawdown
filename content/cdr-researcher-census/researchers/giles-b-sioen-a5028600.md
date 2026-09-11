@@ -1,7 +1,7 @@
 ---
 title: "Giles B. Sioen"
 description: "Giles B. Sioen is a Mid-career General CDR researcher at Sustainable Innovation (Sweden) in SE. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.376045
+date: 2026-09-11T02:38:29.309907
 url: "/cdr-researcher-census/researchers/giles-b-sioen-a5028600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 744 |
+| Citations | 806 |
 | Publications | 38 |
 | CDR Focus | 10.5% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   45 citations · General CDR
+   46 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Reviews and syntheses: Current perspectives on biosphere research 2024–2025 – eight findings from ecology, sociology, and economics** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 4. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

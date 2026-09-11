@@ -1,7 +1,7 @@
 ---
 title: "Brooke A. Eastman"
-description: "Brooke A. Eastman is a Mid-career Soil Carbon researcher at West Virginia University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.824590
+description: "Brooke A. Eastman is a Mid-career Soil Carbon researcher at West Virginia University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.772959
 url: "/cdr-researcher-census/researchers/brooke-a-eastman-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 260 |
+| h-index | 7 |
+| Citations | 272 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |

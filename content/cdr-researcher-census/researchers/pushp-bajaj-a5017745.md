@@ -1,7 +1,7 @@
 ---
 title: "Pushp Bajaj"
 description: "Pushp Bajaj is a Mid-career General CDR researcher at National Maritime Foundation in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.339106
+date: 2026-09-11T02:38:29.292826
 url: "/cdr-researcher-census/researchers/pushp-bajaj-a5017745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 848 |
+| Citations | 860 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

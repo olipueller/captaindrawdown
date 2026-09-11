@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Borg Dahl"
 description: "Mathilde Borg Dahl is a Mid-career Soil Carbon researcher at University of Greifswald in DE. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.488941
+date: 2026-09-11T02:38:29.441377
 url: "/cdr-researcher-census/researchers/mathilde-borg-dahl-a5020370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 532 |
+| Citations | 545 |
 | Publications | 35 |
 | CDR Focus | 5.7% |
 | Trajectory | Stable |

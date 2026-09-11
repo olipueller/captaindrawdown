@@ -1,7 +1,7 @@
 ---
 title: "Ilman Nuran Zaini"
-description: "Ilman Nuran Zaini is a Senior BECCS researcher at KTH Royal Institute of Technology in SE. With 58 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.182134
+description: "Ilman Nuran Zaini is a Senior BECCS researcher at KTH Royal Institute of Technology in SE. With 56 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.131336
 url: "/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 28 |
-| Citations | 1,895 |
-| Publications | 58 |
-| CDR Focus | 6.9% |
+| h-index | 29 |
+| Citations | 1,940 |
+| Publications | 56 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Reforming processes for syngas production: A mini-review on the current status, challenges, and prospects for biomass conversion to fuels** (2022)
-   129 citations · BECCS
+   131 citations · BECCS
 
 2. **Decarbonising the iron and steel industries: Production of carbon-negative direct reduced iron by using biosyngas** (2023)
-   55 citations · BECCS
+   57 citations · BECCS
 
 3. **Novel carbon-negative methane production via integrating anaerobic digestion and pyrolysis of organic fraction of municipal solid waste** (2021)
-   44 citations · BECCS
+   45 citations · BECCS
 
 4. **Renewable hydrogen production from the organic fraction of municipal solid waste through a novel carbon-negative process concept** (2022)
    39 citations · BECCS

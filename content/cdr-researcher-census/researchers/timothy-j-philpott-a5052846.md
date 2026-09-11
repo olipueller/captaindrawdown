@@ -1,7 +1,7 @@
 ---
 title: "Timothy J. Philpott"
-description: "Timothy J. Philpott is a Mid-career Soil Carbon researcher at Government of British Columbia in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.773430
+description: "Timothy J. Philpott is a Mid-career Soil Carbon researcher at Government of British Columbia in CA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.711476
 url: "/cdr-researcher-census/researchers/timothy-j-philpott-a5052846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 286 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 303 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

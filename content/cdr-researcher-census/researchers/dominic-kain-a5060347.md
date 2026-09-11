@@ -1,7 +1,7 @@
 ---
 title: "Dominic Kain"
-description: "Dominic Kain is a Senior Soil Carbon researcher at Housing Quality Network (United Kingdom) in GB. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.854642
+description: "Dominic Kain is a Senior Soil Carbon researcher at Seqwater in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.823527
 url: "/cdr-researcher-census/researchers/dominic-kain-a5060347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dominic-kain-a5060347/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Housing Quality Network (United Kingdom)"
+    "name": "Seqwater"
   },
   "sameAs": "https://openalex.org/A5060347604"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Dominic Kain**  
-Housing Quality Network (United Kingdom) · 🇬🇧 GB
+Seqwater · 🇦🇺 AU
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 244 |
+| Citations | 248 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

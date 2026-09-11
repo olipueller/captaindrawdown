@@ -1,7 +1,7 @@
 ---
 title: "Chongtham Tania"
-description: "Chongtham Tania is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.279918
+description: "Chongtham Tania is a Mid-career Biochar researcher at ICAR Research Complex for NEH Region in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.243892
 url: "/cdr-researcher-census/researchers/chongtham-tania-a5029722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,23 +31,26 @@ ICAR Research Complex for NEH Region · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 126 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| h-index | 7 |
+| Citations | 129 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Seasonal variation in biomass production and carbon stock under Semialata (Flemingia semialata): Based agroforestry systems** (2026)
+1. **Soil Health Management Under Drought: Carbon Sequestration, Microbiome, and Structural Resilience** (2026)
+   0 citations · Biochar
+
+2. **Seasonal variation in biomass production and carbon stock under Semialata (Flemingia semialata): Based agroforestry systems** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

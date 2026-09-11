@@ -1,7 +1,7 @@
 ---
 title: "Kafula Chisanga"
 description: "Kafula Chisanga is a Mid-career Soil Carbon researcher at University of Zambia in ZM. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.327983
+date: 2026-09-11T02:38:30.259243
 url: "/cdr-researcher-census/researchers/kafula-chisanga-a5056384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 117 |
+| Citations | 126 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
-   6 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

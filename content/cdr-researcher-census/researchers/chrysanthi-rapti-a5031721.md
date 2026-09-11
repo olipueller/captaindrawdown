@@ -1,7 +1,7 @@
 ---
 title: "Chrysanthi Rapti"
 description: "Chrysanthi Rapti is a Mid-career General CDR researcher at University College London in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.902595
+date: 2026-09-11T02:38:29.859976
 url: "/cdr-researcher-census/researchers/chrysanthi-rapti-a5031721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 224 |
+| Citations | 231 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Resilient tree-planting strategies for carbon dioxide removal under compounding climate and economic uncertainties** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

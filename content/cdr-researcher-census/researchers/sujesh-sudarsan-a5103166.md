@@ -1,7 +1,7 @@
 ---
 title: "Sujesh Sudarsan"
 description: "Sujesh Sudarsan is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855635
+date: 2026-09-11T02:38:29.731649
 url: "/cdr-researcher-census/researchers/sujesh-sudarsan-a5103166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 244 |
+| Citations | 293 |
 | Publications | 18 |
 | CDR Focus | 5.6% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of magnetic biochar using Bauhinia variegata leaves through one-pot hydrothermal process to degrade malachite green dye by Fenton-like catalysis** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

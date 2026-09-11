@@ -1,7 +1,7 @@
 ---
 title: "Christoph Rosinger"
-description: "Christoph Rosinger is a Senior Soil Carbon researcher at University of Cologne in DE. With 79 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.242418
+description: "Christoph Rosinger is a Senior Soil Carbon researcher at University of Cologne in DE. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.184700
 url: "/cdr-researcher-census/researchers/christoph-rosinger-a5035283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,316 |
-| Publications | 79 |
-| CDR Focus | 13.9% |
+| Citations | 1,393 |
+| Publications | 82 |
+| CDR Focus | 13.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   121 citations · Soil Carbon
+   126 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
-3. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   27 citations
+3. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
+   29 citations · Soil Carbon
 
-4. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   26 citations · Soil Carbon
+4. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
+   29 citations
 
 5. **Potential for agricultural recycling of struvite and zeolites to improve soil microbial physiology and mitigate CO2 emissions** (2024)
    13 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Giulio Buffo"
 description: "Giulio Buffo is a Mid-career DAC researcher at Politecnico di Torino in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.623280
+date: 2026-09-11T02:38:29.570231
 url: "/cdr-researcher-census/researchers/giulio-buffo-a5038077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 387 |
+| Citations | 401 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **CO2 from direct air capture as carbon feedstock for Fischer-Tropsch chemicals and fuels: Energy and economic analysis** (2021)
-   120 citations · DAC
+   121 citations · DAC
 
 ## External Profiles
 

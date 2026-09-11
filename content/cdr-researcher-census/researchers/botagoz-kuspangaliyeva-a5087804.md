@@ -1,7 +1,7 @@
 ---
 title: "Botagoz Kuspangaliyeva"
-description: "Botagoz Kuspangaliyeva is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.147261
+description: "Botagoz Kuspangaliyeva is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.095289
 url: "/cdr-researcher-census/researchers/botagoz-kuspangaliyeva-a5087804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 155 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 162 |
+| Publications | 11 |
+| CDR Focus | 27.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Influence of Transition Metal Ion Contaminants on the Performance of Amine-Based Solid Sorbents in Direct Air Capture** (2026)
-   2 citations · DAC
+   3 citations · DAC
 
 2. **Stability of Metal–OrganicFramework-SupportedAmines under Exposure to Ozone Generated from Air** (2026)
    0 citations · DAC

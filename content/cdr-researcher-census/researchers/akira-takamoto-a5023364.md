@@ -1,7 +1,7 @@
 ---
 title: "Akira Takamoto"
-description: "Akira Takamoto is a Mid-career Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.077781
+description: "Akira Takamoto is a Mid-career Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.025577
 url: "/cdr-researcher-census/researchers/akira-takamoto-a5023364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 174 |
-| Publications | 21 |
-| CDR Focus | 9.5% |
+| Citations | 182 |
+| Publications | 22 |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   5 citations · Soil Carbon
+1. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+   6 citations · Soil Carbon
 
-2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+2. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
 
 ## External Profiles

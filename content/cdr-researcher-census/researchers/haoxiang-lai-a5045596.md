@@ -1,7 +1,7 @@
 ---
 title: "Haoxiang Lai"
-description: "Haoxiang Lai is a Mid-career General CDR researcher at IIT@MIT in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.930596
+description: "Haoxiang Lai is a Mid-career General CDR researcher at Massachusetts Institute of Technology in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.820143
 url: "/cdr-researcher-census/researchers/haoxiang-lai-a5045596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haoxiang-lai-a5045596/",
   "affiliation": {
     "@type": "Organization",
-    "name": "IIT@MIT"
+    "name": "Massachusetts Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0009-0001-8771-0763",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haoxiang Lai**  
-IIT@MIT · 🇺🇸 US
+Massachusetts Institute of Technology · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 214 |
+| Citations | 249 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Techno-economic analysis and life-cycle assessment of methanol synthesis plants using renewable hydrogen and carbon dioxide feedstocks** (2025)
-   32 citations · General CDR
+   36 citations · General CDR
 
 ## External Profiles
 

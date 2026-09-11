@@ -1,7 +1,7 @@
 ---
 title: "Xiwen Shao"
-description: "Xiwen Shao is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.424616
+description: "Xiwen Shao is a Mid-career Soil Carbon researcher at Jilin Agricultural University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.358481
 url: "/cdr-researcher-census/researchers/xiwen-shao-a5023511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiwen-shao-a5023511/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jilin Academy of Agricultural Sciences"
+    "name": "Jilin Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2352-7959",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiwen Shao**  
-Jilin Academy of Agricultural Sciences · 🇨🇳 CN
+Jilin Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 637 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 691 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

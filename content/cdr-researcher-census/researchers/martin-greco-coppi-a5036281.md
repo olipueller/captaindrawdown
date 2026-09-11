@@ -1,7 +1,7 @@
 ---
 title: "Martin Greco-Coppi"
-description: "Martin Greco-Coppi is a Mid-career General CDR researcher at Technische Universität Darmstadt in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.118842
+description: "Martin Greco-Coppi is a Mid-career General CDR researcher at Technische Universität Darmstadt in DE. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.044182
 url: "/cdr-researcher-census/researchers/martin-greco-coppi-a5036281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 162 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| h-index | 8 |
+| Citations | 176 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Efficient CO2 capture from lime production by an indirectly heated carbonate looping process** (2021)
-   39 citations
+   40 citations
 
 2. **Efficient CO2 Capture from Lime Production by an Indirectly Heated Carbonate Looping Process** (2021)
    8 citations · General CDR

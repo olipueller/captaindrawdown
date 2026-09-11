@@ -1,7 +1,7 @@
 ---
 title: "Wenying Chen"
-description: "Wenying Chen is a Senior General CDR researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.332629
+description: "Wenying Chen is a Senior General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.290116
 url: "/cdr-researcher-census/researchers/wenying-chen-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,10 +37,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 865 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 870 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

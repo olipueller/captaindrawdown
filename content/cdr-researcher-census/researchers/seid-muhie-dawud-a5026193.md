@@ -1,7 +1,7 @@
 ---
 title: "Seid Muhie Dawud"
-description: "Seid Muhie Dawud is a Mid-career Soil Carbon researcher at Wollo University in ET. With 32 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.138137
+description: "Seid Muhie Dawud is a Mid-career Soil Carbon researcher at Wollo University in ET. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.087687
 url: "/cdr-researcher-census/researchers/seid-muhie-dawud-a5026193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 2,820 |
-| Publications | 32 |
-| CDR Focus | 9.4% |
+| Citations | 2,886 |
+| Publications | 33 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

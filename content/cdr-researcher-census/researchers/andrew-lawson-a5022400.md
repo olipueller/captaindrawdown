@@ -1,7 +1,7 @@
 ---
 title: "Andrew Lawson"
 description: "Andrew Lawson is a Senior Soil Carbon researcher. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.474812
+date: 2026-09-11T02:38:29.431961
 url: "/cdr-researcher-census/researchers/andrew-lawson-a5022400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,7 +38,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 554 |
+| Citations | 560 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Social-Ecological System of Farmers’ Current Soil Carbon Management in Australian Grazing Lands** (2023)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Lessons learned from farmers’ experience of soil carbon management practices in grazing regimes of Australia** (2023)
    7 citations · Soil Carbon

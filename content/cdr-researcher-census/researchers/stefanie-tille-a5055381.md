@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Tille"
-description: "Stefanie Tille is a Senior Soil Carbon researcher at Deutsches Elektronen-Synchrotron DESY in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.489220
+description: "Stefanie Tille is a Senior Soil Carbon researcher at Max Planck Society in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.446258
 url: "/cdr-researcher-census/researchers/stefanie-tille-a5055381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stefanie-tille-a5055381/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Deutsches Elektronen-Synchrotron DESY"
+    "name": "Max Planck Society"
   },
   "sameAs": "https://openalex.org/A5055381879"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Stefanie Tille**  
-Deutsches Elektronen-Synchrotron DESY · 🇩🇪 DE
+Max Planck Society · 🇩🇪 DE
 
 **Career Stage:** Senior
 
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 532 |
+| Citations | 536 |
 | Publications | 11 |
 | CDR Focus | 18.2% |
 | Trajectory | Growing |

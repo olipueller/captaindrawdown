@@ -1,7 +1,7 @@
 ---
 title: "Savankumar Patel"
-description: "Savankumar Patel is a Senior Biochar researcher at RMIT University in AU. With 51 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.199762
+description: "Savankumar Patel is a Senior Biochar researcher at RMIT University in AU. With 51 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.148540
 url: "/cdr-researcher-census/researchers/savankumar-patel-a5049310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,28 +42,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,681 |
+| h-index | 23 |
+| Citations | 1,720 |
 | Publications | 51 |
-| CDR Focus | 11.8% |
+| CDR Focus | 13.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Production of H2 and CNM from biogas decomposition using biosolids-derived biochar and the application of the CNM-coated biochar for PFAS adsorption** (2023)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Enhancing the pyrolytic conversion of biosolids to value-added products via mild acid pre-treatment** (2023)
-   23 citations · Biochar
+   24 citations · Biochar
 
 3. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
    13 citations · Biochar
 
 4. **Enhancing energy efficiency and by-product quality of anaerobic co-digestion of food and garden waste: hybridisation with thermochemical conversion to create a sustainable circular economy** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 5. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 6. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar

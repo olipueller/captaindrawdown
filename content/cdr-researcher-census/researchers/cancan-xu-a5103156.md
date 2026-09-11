@@ -1,7 +1,7 @@
 ---
 title: "Cancan Xu"
 description: "Cancan Xu is a Senior Biochar researcher at Nanchang University in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.207487
+date: 2026-09-11T02:38:29.157010
 url: "/cdr-researcher-census/researchers/cancan-xu-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,591 |
+| Citations | 1,635 |
 | Publications | 51 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

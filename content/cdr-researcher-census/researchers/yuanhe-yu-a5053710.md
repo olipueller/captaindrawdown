@@ -1,7 +1,7 @@
 ---
 title: "Yuanhe Yu"
-description: "Yuanhe Yu is a Mid-career Soil Carbon researcher at Southwest Forestry University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.753403
+description: "Yuanhe Yu is a Mid-career Soil Carbon researcher at Southwest Forestry University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.715312
 url: "/cdr-researcher-census/researchers/yuanhe-yu-a5053710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 297 |
-| Publications | 20 |
-| CDR Focus | 5.0% |
+| Citations | 301 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

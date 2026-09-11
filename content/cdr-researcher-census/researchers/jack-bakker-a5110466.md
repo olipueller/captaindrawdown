@@ -1,7 +1,7 @@
 ---
 title: "Jack Bakker"
 description: "Jack Bakker is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.391229
+date: 2026-09-11T02:38:30.341533
 url: "/cdr-researcher-census/researchers/jack-bakker-a5110466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 105 |
+| Citations | 109 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Exiting |

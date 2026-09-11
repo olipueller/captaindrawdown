@@ -1,7 +1,7 @@
 ---
 title: "Yassir Makkawi"
 description: "Yassir Makkawi is a Senior Biochar researcher at American University of Sharjah in AE. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.235458
+date: 2026-09-11T02:38:29.182665
 url: "/cdr-researcher-census/researchers/yassir-makkawi-a5018909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,364 |
+| Citations | 1,404 |
 | Publications | 61 |
 | CDR Focus | 9.8% |
 | Trajectory | Stable |
@@ -62,11 +62,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Co-Pyrolysis of Date Palm Waste and <i>Salicornia Bigelovii</i>: Insights for Bioenergy Development in Arid and Semi-Arid Regions** (2024)
    3 citations · BECCS
 
-5. **Pyrolysis of anaerobically digested and undigested sewage sludge: Comparative assessment of product quality, emissions, and carbon sequestration** (2025)
+5. **Solar-thermal-assisted biomass pyrolysis in an inclined tubular reactor with fluidization-like behavior: Experiments, CFD modeling, and scale-up analysis** (2026)
    1 citations · Biochar
 
-6. **Solar-thermal-assisted biomass pyrolysis in an inclined tubular reactor with fluidization-like behavior: Experiments, CFD modeling, and scale-up analysis** (2026)
-   0 citations · Biochar
+6. **Pyrolysis of anaerobically digested and undigested sewage sludge: Comparative assessment of product quality, emissions, and carbon sequestration** (2025)
+   1 citations · Biochar
 
 ## External Profiles
 

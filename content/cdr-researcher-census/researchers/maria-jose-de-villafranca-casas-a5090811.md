@@ -1,7 +1,7 @@
 ---
 title: "Maria Jose de Villafranca Casas"
 description: "Maria Jose de Villafranca Casas is a Mid-career General CDR researcher at NewClimate Institute in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.697614
+date: 2026-09-11T02:38:29.649792
 url: "/cdr-researcher-census/researchers/maria-jose-de-villafranca-casas-a5090811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 332 |
+| Citations | 341 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Twenty years of climate policy: G20 coverage and gaps** (2021)
-   109 citations · General CDR
+   110 citations · General CDR
 
 ## External Profiles
 

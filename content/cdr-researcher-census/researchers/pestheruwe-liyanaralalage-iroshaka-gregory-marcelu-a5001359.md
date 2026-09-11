@@ -1,7 +1,7 @@
 ---
 title: "Pestheruwe Liyanaralalage Iroshaka Gregory Marcelus Cooray"
 description: "Pestheruwe Liyanaralalage Iroshaka Gregory Marcelus Cooray is a Mid-career Soil Carbon researcher at University of the Sunshine Coast in AU. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.272028
+date: 2026-09-11T02:38:30.224941
 url: "/cdr-researcher-census/researchers/pestheruwe-liyanaralalage-iroshaka-gregory-marcelu-a5001359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 127 |
+| Citations | 132 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and intertidal zonation drive variability in the carbon stocks of Sri Lankan mangrove forests** (2021)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 ## External Profiles
 

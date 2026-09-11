@@ -1,7 +1,7 @@
 ---
 title: "Kate M. Buckeridge"
-description: "Kate M. Buckeridge is a Senior Soil Carbon researcher at Luxembourg Institute of Science and Technology in LU. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.134061
+description: "Kate M. Buckeridge is a Senior Soil Carbon researcher at Luxembourg Institute of Science and Technology in LU. With 43 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.083874
 url: "/cdr-researcher-census/researchers/kate-m-buckeridge-a5081527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 2,982 |
-| Publications | 44 |
-| CDR Focus | 15.9% |
+| Citations | 3,078 |
+| Publications | 43 |
+| CDR Focus | 16.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Deconstructing the microbial necromass continuum to inform soil carbon sequestration** (2022)
-   294 citations · General CDR
+   302 citations · General CDR
 
 2. **Microbial necromass under global change and implications for soil organic matter** (2023)
-   159 citations · Soil Carbon
+   164 citations · Soil Carbon
 
 3. **Microbial necromass carbon and nitrogen persistence are decoupled in agricultural grassland soils** (2022)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 4. **Glucoproteins in particulate and mineral-associated organic matter pools during grassland restoration** (2024)
    9 citations · Soil Carbon
 
 5. **Soil stoichiometric C/N and nitrogen availability jointly shape fungal and bacterial necromass carbon accumulation across ecosystems** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Microbial Traits, Necromass Accumulation, and Soil Carbon Persistence are Shaped by Oil Palm-based Agroforestry in the Amazon** (2026)
    0 citations · Soil Carbon

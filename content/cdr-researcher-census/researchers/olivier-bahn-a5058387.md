@@ -1,7 +1,7 @@
 ---
 title: "Olivier Bahn"
 description: "Olivier Bahn is a Senior General CDR researcher at HEC Montréal in CA. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.209145
+date: 2026-09-11T02:38:29.159235
 url: "/cdr-researcher-census/researchers/olivier-bahn-a5058387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,577 |
+| Citations | 1,608 |
 | Publications | 107 |
-| CDR Focus | 8.4% |
+| CDR Focus | 7.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **The role of hydrogen in a net-zero emission economy under alternative policy scenarios** (2023)
-   99 citations · General CDR
+   102 citations · General CDR
 
 2. **Impact of Biogenic Carbon Neutrality Assumption for Achieving a Net-Zero Emission Target: Insights from a Techno-Economic Analysis** (2023)
    28 citations · General CDR
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · DAC
 
 4. **Modeling hydrogen markets: Energy system model development status and decarbonization scenario results** (2024)
-   11 citations · DAC
+   12 citations · DAC
 
 5. **Robust Enough? Exploring Temperature-Constrained Energy Transition Pathways under Climate Uncertainty** (2021)
    5 citations · General CDR

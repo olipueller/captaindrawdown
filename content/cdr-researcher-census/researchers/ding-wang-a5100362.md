@@ -1,7 +1,7 @@
 ---
 title: "Ding Wang"
-description: "Ding Wang is a Senior Soil Carbon researcher at Southwest University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.553211
+description: "Ding Wang is a Senior Soil Carbon researcher at Wuhan Polytechnic University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.500532
 url: "/cdr-researcher-census/researchers/ding-wang-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ding-wang-a5100362/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southwest University"
+    "name": "Wuhan Polytechnic University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4609-9176",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ding Wang**  
-Southwest University · 🇨🇳 CN
+Wuhan Polytechnic University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 453 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 468 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Intercropping enhances stable soil organic carbon pool through macroaggregate protection and biochemical recalcitrance interactions** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Differential microbial responses enhance soil organic carbon under long-term nitrogen fertilization** (2025)
    2 citations · Soil Carbon

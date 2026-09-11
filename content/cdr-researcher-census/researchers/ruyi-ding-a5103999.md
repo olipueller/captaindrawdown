@@ -1,7 +1,7 @@
 ---
 title: "Ruyi Ding"
-description: "Ruyi Ding is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.417772
+description: "Ruyi Ding is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.319668
 url: "/cdr-researcher-census/researchers/ruyi-ding-a5103999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,22 +39,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 101 |
-| Publications | 10 |
-| CDR Focus | 50.0% |
+| h-index | 6 |
+| Citations | 114 |
+| Publications | 11 |
+| CDR Focus | 45.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 4. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    6 citations · Soil Carbon

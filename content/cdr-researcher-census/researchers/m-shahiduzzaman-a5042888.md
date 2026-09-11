@@ -1,7 +1,7 @@
 ---
 title: "M Shahiduzzaman"
 description: "M Shahiduzzaman is a Senior Biochar researcher at Bangladesh Agricultural University in BD. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.326987
+date: 2026-09-11T02:38:29.284564
 url: "/cdr-researcher-census/researchers/m-shahiduzzaman-a5042888/"
 layout: "researcher"
 hiddenInHomeList: true

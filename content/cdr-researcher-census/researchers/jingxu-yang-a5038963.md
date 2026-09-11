@@ -1,7 +1,7 @@
 ---
 title: "Jingxu Yang"
-description: "Jingxu Yang is a Mid-career Biochar researcher at Sichuan University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.691042
+description: "Jingxu Yang is a Mid-career Biochar researcher at Sichuan University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.636669
 url: "/cdr-researcher-census/researchers/jingxu-yang-a5038963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 337 |
+| h-index | 11 |
+| Citations | 350 |
 | Publications | 28 |
 | CDR Focus | 10.7% |
 | Trajectory | Growing |
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    1 citations · Biochar
 
 3. **Valorization of penicillin mycelial residue via wet-process phosphoric acid: Nutrient recovery, carbon sequestration, and antibiotic adsorption mechanism** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Rasse"
-description: "Daniel P. Rasse is an Eminent Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 146 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.070237
+description: "Daniel P. Rasse is an Eminent Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 147 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.023080
 url: "/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 43 |
-| Citations | 13,886 |
-| Publications | 146 |
-| CDR Focus | 6.2% |
+| Citations | 14,183 |
+| Publications | 147 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 2. **Biochar Permanence—A Policy Commentary** (2025)
    12 citations · Biochar

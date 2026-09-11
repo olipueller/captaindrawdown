@@ -1,7 +1,7 @@
 ---
 title: "Guiyao Zhou"
-description: "Guiyao Zhou is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 163 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.104323
+description: "Guiyao Zhou is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 169 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.051768
 url: "/cdr-researcher-census/researchers/guiyao-zhou-a5100769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 35 |
-| Citations | 4,525 |
-| Publications | 163 |
-| CDR Focus | 9.8% |
+| h-index | 37 |
+| Citations | 4,810 |
+| Publications | 169 |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The global contribution of soil mosses to ecosystem services** (2023)
-   100 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 2. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Temperature and Rainfall Patterns Constrain the Multidimensional Rewilding of Global Forests** (2022)
    45 citations · Soil Carbon
@@ -63,22 +63,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 5. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Meta-analysis shows that microplastics affect ecosystem services in terrestrial environments** (2024)
-   14 citations
+   16 citations
 
 7. **Root traits regulate the capacity of the rhizosphere to support multiple ecosystem services under intercropping and phosphorus fertilization** (2024)
    14 citations · Soil Carbon
 
 8. **Soil Protist Diversity and Biotic Interactions Shape Ecosystem Functions Under Climate Change** (2026)
-   4 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 9. **Soil microbial networks mediate long‐term effects of nitrogen fertilization on ecosystem multiservices** (2025)
    4 citations · Soil Carbon
 
 10. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

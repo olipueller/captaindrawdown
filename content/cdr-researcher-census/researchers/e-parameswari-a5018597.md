@@ -1,7 +1,7 @@
 ---
 title: "E. Parameswari"
-description: "E. Parameswari is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 125 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.254964
+description: "E. Parameswari is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 127 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.192769
 url: "/cdr-researcher-census/researchers/e-parameswari-a5018597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 1,230 |
-| Publications | 125 |
-| CDR Focus | 7.2% |
+| Citations | 1,334 |
+| Publications | 127 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A review on biochar’s effect on soil properties and crop growth** (2023)
-   142 citations · Biochar
+   150 citations · Biochar
 
 2. **Organo-monomers coated slow-release fertilizers: Current understanding and future prospects** (2024)
-   21 citations
+   23 citations
 
 3. **Harnessing regenerative agriculture for climate change mitigation: a comprehensive review and meta-analysis** (2025)
-   6 citations · General CDR
+   9 citations · General CDR
 
 4. **Silicon Fertilization for Carbon Sequestration Through PhytOC Production in Plants** (2024)
    6 citations

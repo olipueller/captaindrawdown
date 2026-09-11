@@ -1,7 +1,7 @@
 ---
 title: "Lidia Marcińska-Mazur"
 description: "Lidia Marcińska-Mazur is a Mid-career Soil Carbon researcher at AGH University of Krakow in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.354191
+date: 2026-09-11T02:38:30.298506
 url: "/cdr-researcher-census/researchers/lidia-marcinska-mazur-a5076269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 112 |
+| Citations | 118 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic/inorganic composites as soil amendments on the biomass productivity and root architecture of spring wheat and rapeseed** (2023)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xuehui Jia"
-description: "Xuehui Jia is a Mid-career Biochar researcher at Guangxi University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.126098
+description: "Xuehui Jia is a Mid-career Biochar researcher at Guangxi University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.011750
 url: "/cdr-researcher-census/researchers/xuehui-jia-a5090912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 160 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 9 |
+| Citations | 186 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Synthesis of corncob biochar with high surface area by <scp>KOH</scp> activation for <scp>VOC</scp> adsorption: effect of <scp>KOH</scp> addition method** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuai Liu"
 description: "Shuai Liu is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 24 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.299595
+date: 2026-09-11T02:38:29.247442
 url: "/cdr-researcher-census/researchers/shuai-liu-a5107907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 994 |
+| Citations | 1,024 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -53,10 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon
 
-2. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
-   1 citations · Soil Carbon
+2. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
+   2 citations · Soil Carbon
 
-3. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
+3. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

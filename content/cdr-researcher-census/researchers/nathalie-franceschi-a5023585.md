@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Franceschi"
 description: "Nathalie Franceschi is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.594171
+date: 2026-09-11T02:38:29.552579
 url: "/cdr-researcher-census/researchers/nathalie-franceschi-a5023585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 414 |
+| Citations | 417 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |

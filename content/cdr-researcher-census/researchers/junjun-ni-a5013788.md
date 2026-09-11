@@ -1,7 +1,7 @@
 ---
 title: "Junjun Ni"
-description: "Junjun Ni is an Early-career Biochar researcher at Southeast University in BD. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.341361
+description: "Junjun Ni is an Early-career Biochar researcher at Southeast University in BD. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.262653
 url: "/cdr-researcher-census/researchers/junjun-ni-a5013788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 114 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 125 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

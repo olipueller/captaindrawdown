@@ -1,7 +1,7 @@
 ---
 title: "Sayan Das"
-description: "Sayan Das is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.748263
+description: "Sayan Das is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.676029
 url: "/cdr-researcher-census/researchers/sayan-das-a5074312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,29 +43,32 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 299 |
-| Publications | 32 |
-| CDR Focus | 6.2% |
+| Citations | 322 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Physicochemical characterization of biological and synthetic forms of two lipid A-based TLR4 agonists** (2023)
-   16 citations
+   17 citations
 
 2. **Development of a nano-emulsion based multivalent protein subunit vaccine against Pseudomonas aeruginosa** (2024)
-   7 citations
+   8 citations
 
 3. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2025)
    3 citations
 
 4. **Enhancing protective efficacy and immunogenicity of hemagglutinin-based influenza vaccine utilizing adjuvants developed by BECC** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
-5. **Optimizing an avian influenza vaccine using a novel Bacterial Enzymatic Combinatorial Chemistry (BECC) TLR4 adjuvant** (2026)
+5. **Comparative immunogenicity and protective efficacy of BECC438 and BECC470 adjuvants in a vaccine formulation against Pseudomonas aeruginosa** (2026)
    0 citations
 
-6. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2024)
+6. **Optimizing an avian influenza vaccine using a novel Bacterial Enzymatic Combinatorial Chemistry (BECC) TLR4 adjuvant** (2026)
+   0 citations
+
+7. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2024)
    0 citations · BECCS
 
 ## External Profiles

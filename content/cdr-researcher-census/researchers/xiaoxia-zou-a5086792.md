@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Zou"
-description: "Xiaoxia Zou is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.265217
+description: "Xiaoxia Zou is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.211471
 url: "/cdr-researcher-census/researchers/xiaoxia-zou-a5086792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,171 |
-| Publications | 51 |
-| CDR Focus | 7.8% |
+| Citations | 1,215 |
+| Publications | 52 |
+| CDR Focus | 9.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Exploration of the optimal low-carbon peanut rotation system in South China** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Peanut-Based Rotation Systems Improve Soil Quality by Enhancing Carbon Sequestration and Aggregate Stability** (2025)
    1 citations · Soil Carbon

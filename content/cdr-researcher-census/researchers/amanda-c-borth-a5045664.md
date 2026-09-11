@@ -1,7 +1,7 @@
 ---
 title: "Amanda C. Borth"
-description: "Amanda C. Borth is a Mid-career General CDR researcher at Outcomes Research Consortium in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.384601
+description: "Amanda C. Borth is a Mid-career General CDR researcher at George Mason University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.327395
 url: "/cdr-researcher-census/researchers/amanda-c-borth-a5045664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amanda-c-borth-a5045664/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Outcomes Research Consortium"
+    "name": "George Mason University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1583-3219",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Amanda C. Borth**  
-Outcomes Research Consortium · 🇺🇸 US
+George Mason University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 106 |
-| Publications | 15 |
-| CDR Focus | 26.7% |
+| Citations | 112 |
+| Publications | 13 |
+| CDR Focus | 30.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

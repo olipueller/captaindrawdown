@@ -1,7 +1,7 @@
 ---
 title: "Duanyang Yuan"
 description: "Duanyang Yuan is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.278669
+date: 2026-09-11T02:38:30.215238
 url: "/cdr-researcher-census/researchers/duanyang-yuan-a5025682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 126 |
+| Citations | 134 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil microbe-mediated carbon, nitrogen and phosphorus cycling during spontaneous succession in abandoned Pb Zn mining areas** (2024)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

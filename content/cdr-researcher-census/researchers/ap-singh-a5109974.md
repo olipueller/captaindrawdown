@@ -1,7 +1,7 @@
 ---
 title: "AP Singh"
-description: "AP Singh is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.178626
+description: "AP Singh is a Senior Soil Carbon researcher at University of Agricultural Sciences, Bangalore in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.131997
 url: "/cdr-researcher-census/researchers/ap-singh-a5109974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ap-singh-a5109974/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu"
+    "name": "University of Agricultural Sciences, Bangalore"
   },
   "sameAs": "https://openalex.org/A5109974898"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **AP Singh**  
-Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu · 🇮🇳 IN
+University of Agricultural Sciences, Bangalore · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 147 |
+| h-index | 7 |
+| Citations | 153 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · General CDR
 
 2. **Agroforestry for climate resilience: A holistic and sustainable approach for India: A comprehensive review** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dimitar Z. Epihov"
-description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.531837
+description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at Instituto de Bioquímica Vegetal y Fotosíntesis in ES. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.459563
 url: "/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sheffield"
+    "name": "Instituto de Bioqu\u00edmica Vegetal y Fotos\u00edntesis"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5711-5480",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dimitar Z. Epihov**  
-University of Sheffield · 🇬🇧 GB
+Instituto de Bioquímica Vegetal y Fotosíntesis · 🇪🇸 ES
 
 **Career Stage:** Mid-career
 
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 475 |
+| Citations | 514 |
 | Publications | 32 |
 | CDR Focus | 62.5% |
 | Trajectory | Stable |
@@ -51,22 +51,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   134 citations
+   146 citations
 
 2. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
-   85 citations · Enhanced Weathering
+   87 citations · Enhanced Weathering
 
 3. **Legume–microbiome interactions unlock mineral nutrients in regrowing tropical forests** (2021)
    78 citations · Enhanced Weathering
 
 4. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   66 citations
+   68 citations
 
 5. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   55 citations · Enhanced Weathering
+   59 citations · Enhanced Weathering
 
 6. **Iron Chelation in Soil: Scalable Biotechnology for Accelerating Carbon Dioxide Removal by Enhanced Rock Weathering** (2024)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 7. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering

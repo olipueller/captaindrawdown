@@ -1,7 +1,7 @@
 ---
 title: "Kateřina Brožová"
-description: "Kateřina Brožová is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.095114
+description: "Kateřina Brožová is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.963342
 url: "/cdr-researcher-census/researchers/katerina-brozova-a5010454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 169 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 201 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Conventional and microwave-assisted pyrolysis biochars: comparative mechanistic insights, structural evolution, and environmental remediation applications** (2026)
-   8 citations · Biochar
+   14 citations · Biochar
 
 2. **Engineered biochar for microplastic remediation in aquatic environments: Interfacial mechanisms, modification strategies, and future perspectives** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

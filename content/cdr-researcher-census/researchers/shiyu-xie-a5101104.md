@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Xie"
-description: "Shiyu Xie is a Senior Biochar researcher at Nanjing University of Chinese Medicine in CN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.883193
+description: "Shiyu Xie is a Senior Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.809708
 url: "/cdr-researcher-census/researchers/shiyu-xie-a5101104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shiyu-xie-a5101104/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing University of Chinese Medicine"
+    "name": "Beijing University of Posts and Telecommunications"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7689-9356",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shiyu Xie**  
-Nanjing University of Chinese Medicine · 🇨🇳 CN
+Beijing University of Posts and Telecommunications · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 233 |
-| Publications | 38 |
-| CDR Focus | 5.3% |
+| h-index | 9 |
+| Citations | 254 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

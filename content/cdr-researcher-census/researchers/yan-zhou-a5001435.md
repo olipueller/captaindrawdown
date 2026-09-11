@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhou"
-description: "Yan Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.348677
+description: "Yan Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.299888
 url: "/cdr-researcher-census/researchers/yan-zhou-a5001435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 14 |
-| Citations | 819 |
+| h-index | 15 |
+| Citations | 836 |
 | Publications | 42 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilizer postponing promotes soil organic carbon sequestration in paddy soils by accelerating lignin degradation and increasing microbial necromass** (2022)
-   84 citations · Soil Carbon
+   89 citations · Soil Carbon
 
 2. **Long-term straw returning improved soil nitrogen sequestration by accelerating the accumulation of amino acid nitrogen** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Long-term straw return increases fungal residual contribution to soil microaggregate nitrogen pool: An eco-enzymatic stoichiometric study** (2024)
    16 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 5. **Reduced basal and increased topdressing fertilizer rate combined with straw incorporation improves rice yield stability and soil organic carbon sequestration in a rice–wheat system** (2022)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Long-Term Straw Returning Improved Soil Nitrogen Sequestration by Accelerating the Accumulation of Amino Acid Nitrogen Derived from Microbial Metabolism** (2023)
    0 citations · Soil Carbon

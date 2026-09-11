@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Raza"
-description: "Sajjad Raza is a Senior Soil Carbon researcher at University of Nottingham in GB. With 72 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.116931
+description: "Sajjad Raza is a Senior Soil Carbon researcher at University of Nottingham in GB. With 72 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.065549
 url: "/cdr-researcher-census/researchers/sajjad-raza-a5103073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 24 |
-| Citations | 3,663 |
+| h-index | 25 |
+| Citations | 3,801 |
 | Publications | 72 |
 | CDR Focus | 6.9% |
 | Trajectory | Growing |
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Inorganic carbon losses by soil acidification jeopardize global efforts on carbon sequestration and climate change mitigation** (2021)
-   221 citations · Soil Carbon
+   223 citations · Soil Carbon
 
 2. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
-   50 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
-   50 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 4. **Soil inorganic carbon sequestration through alkalinity regeneration using biologically induced weathering of rock powder and biochar** (2022)
-   27 citations · Biochar
+   29 citations · Biochar
 
 5. **Missing the input: the underrepresentation of plant physiology in global soil carbon research** (2025)
    5 citations · Soil Carbon

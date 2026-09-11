@@ -1,7 +1,7 @@
 ---
 title: "Mercy Ilbay-Yupa"
 description: "Mercy Ilbay-Yupa is a Mid-career General CDR researcher at Universidad Técnica de Cotopaxi in EC. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.064560
+date: 2026-09-11T02:38:30.014076
 url: "/cdr-researcher-census/researchers/mercy-ilbay-yupa-a5001349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 178 |
+| Citations | 186 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Integrating community knowledge into nature-based solutions for the sustainability of water ecosystem services: insight from local communities in Ecuador** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

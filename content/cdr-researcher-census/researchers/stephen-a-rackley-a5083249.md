@@ -1,7 +1,7 @@
 ---
 title: "Stephen A. Rackley"
 description: "Stephen A. Rackley is a Senior Ocean CDR researcher at Milton Keynes Hospital in GB. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.611025
+date: 2026-09-11T02:38:29.562846
 url: "/cdr-researcher-census/researchers/stephen-a-rackley-a5083249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 397 |
+| Citations | 406 |
 | Publications | 44 |
 | CDR Focus | 6.8% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Magnesium hydroxide addition reduces aqueous carbon dioxide in wastewater discharged to the ocean** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **Planetary Technologies' Groundbreaking Marine Carbon Dioxide Removal (mCDR) Project in Halifax, and the Emergence of Halifax as a Global mCDR Hub** (2024)
    4 citations · General CDR

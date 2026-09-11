@@ -1,7 +1,7 @@
 ---
 title: "Abreham Berta Aneseyee"
-description: "Abreham Berta Aneseyee is a Mid-career Soil Carbon researcher at Unversity Wolkite in ET. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.221412
+description: "Abreham Berta Aneseyee is a Mid-career Soil Carbon researcher at Unversity Wolkite in ET. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.167706
 url: "/cdr-researcher-census/researchers/abreham-berta-aneseyee-a5069415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 1,468 |
-| Publications | 37 |
-| CDR Focus | 5.4% |
+| Citations | 1,525 |
+| Publications | 38 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

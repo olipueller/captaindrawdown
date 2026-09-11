@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Ding"
-description: "Xiaodong Ding is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 96 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.123470
+description: "Xiaodong Ding is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 98 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.073568
 url: "/cdr-researcher-census/researchers/xiaodong-ding-a5069460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaodong-ding-a5069460/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qingdao Agricultural University"
+    "name": "Northeast Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3554-5855",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaodong Ding**  
-Qingdao Agricultural University · 🇨🇳 CN
+Northeast Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 34 |
-| Citations | 3,401 |
-| Publications | 96 |
-| CDR Focus | 11.5% |
+| Citations | 3,481 |
+| Publications | 98 |
+| CDR Focus | 12.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic fertilization increased soil organic carbon stability and sequestration by improving aggregate stability and iron oxide transformation in saline-alkaline soil** (2022)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 2. **Straw incorporation and nitrogen fertilization enhance soil carbon sequestration by altering soil aggregate and microbial community composition in saline-alkali soil** (2023)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Response of soil organic carbon stability and sequestration to long-term phosphorus application: insight from a 9-year field experiment in saline alkaline paddy soil** (2023)
    15 citations · Soil Carbon
 
 4. **The response of soil organic carbon sequestration to organic materials addition in saline-alkali soil: from the perspective of soil aggregate structure and organic carbon component** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
    7 citations · Soil Carbon
 
 6. **Laccase Promotes the Formation of Fe-OM Complexes by Catalyzing the Polymerization of OM in Coastal Saline-Alkaline Soil** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 7. **Response of the Stabilization of Organic Carbon to Straw Incorporation and Nitrogen Application: Evidence from Carbon Fractions and Bacterial Survival Strategies** (2025)
    2 citations · Soil Carbon

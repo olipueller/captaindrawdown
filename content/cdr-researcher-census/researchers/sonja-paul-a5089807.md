@@ -1,7 +1,7 @@
 ---
 title: "Sonja Paul"
-description: "Sonja Paul is a Senior Soil Carbon researcher. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.343771
+description: "Sonja Paul is a Senior Soil Carbon researcher. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.297006
 url: "/cdr-researcher-census/researchers/sonja-paul-a5089807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 835 |
-| Publications | 33 |
-| CDR Focus | 6.1% |
+| Citations | 846 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

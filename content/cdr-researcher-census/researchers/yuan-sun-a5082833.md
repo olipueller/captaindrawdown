@@ -1,7 +1,7 @@
 ---
 title: "Yuan Sun"
-description: "Yuan Sun is a Senior Soil Carbon researcher at Tongji University in CN. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.258483
+description: "Yuan Sun is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.203097
 url: "/cdr-researcher-census/researchers/yuan-sun-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yuan-sun-a5082833/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tongji University"
+    "name": "Institute of Soil and Water Conservation"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8970-0684",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yuan Sun**  
-Tongji University · 🇨🇳 CN
+Institute of Soil and Water Conservation · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,207 |
-| Publications | 51 |
-| CDR Focus | 7.8% |
+| h-index | 19 |
+| Citations | 1,259 |
+| Publications | 52 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · Soil Carbon
 
 3. **Rising global temperatures reduce soil microbial diversity over the long term** (2025)
-   19 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 4. **Phosphorus fertilization enhances terrestrial carbon cycling in phosphorus-deficient ecosystems** (2023)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Sarrouf"
 description: "Stephanie Sarrouf is a Mid-career Ocean CDR researcher at Northeastern University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.180515
+date: 2026-09-11T02:38:30.111862
 url: "/cdr-researcher-census/researchers/stephanie-sarrouf-a5025867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 146 |
+| Citations | 157 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 17.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -56,11 +56,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Electrochemical ocean iron fertilization and alkalinity enhancement approach toward CO2 sequestration** (2024)
    8 citations · General CDR
 
-3. **Design and Implementation of Iron-Based Electrochemical System for Simultaneous Carbon Capture and Hydrogen Gas Recovery** (2024)
-   0 citations · Ocean CDR
+3. **In-Situ Hydrogen Peroxide Formation and Persulfate Activation Over Banana Peel-Derived Biochar Cathode for Electrochemical Water Treatment in a Flow Reactor** (2023)
+   1 citations · Biochar
 
-4. **In-Situ Hydrogen Peroxide Formation and Persulfate Activation Over Banana Peel-Derived Biochar Cathode for Electrochemical Water Treatment in a Flow Reactor** (2023)
-   0 citations · Biochar
+4. **Design and Implementation of Iron-Based Electrochemical System for Simultaneous Carbon Capture and Hydrogen Gas Recovery** (2024)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

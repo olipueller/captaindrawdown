@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Du"
-description: "Yunfeng Du is a Senior Soil Carbon researcher at Changzhou No.2 People's Hospital in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.728890
+description: "Yunfeng Du is a Senior Soil Carbon researcher at Nanjing Traditional Chinese Medicine Hospital in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.682047
 url: "/cdr-researcher-census/researchers/yunfeng-du-a5085225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yunfeng-du-a5085225/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Changzhou No.2 People's Hospital"
+    "name": "Nanjing Traditional Chinese Medicine Hospital"
   },
   "sameAs": [
     "https://orcid.org/0009-0004-3664-8674",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yunfeng Du**  
-Changzhou No.2 People's Hospital · 🇨🇳 CN
+Nanjing Traditional Chinese Medicine Hospital · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 311 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 319 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

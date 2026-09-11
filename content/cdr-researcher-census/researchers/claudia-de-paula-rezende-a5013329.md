@@ -1,7 +1,7 @@
 ---
 title: "Cláudia de Paula Rezende"
 description: "Cláudia de Paula Rezende is a Senior Soil Carbon researcher at Comissão Executiva do Plano da Lavoura Cacaueira - Ceplac in BR. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.365245
+date: 2026-09-11T02:38:29.319232
 url: "/cdr-researcher-census/researchers/claudia-de-paula-rezende-a5013329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 773 |
+| Citations | 784 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |

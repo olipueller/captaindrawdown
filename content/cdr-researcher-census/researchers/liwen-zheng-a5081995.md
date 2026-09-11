@@ -1,7 +1,7 @@
 ---
 title: "Liwen Zheng"
-description: "Liwen Zheng is a Senior Ocean CDR researcher at Shandong University in CN. With 43 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.631444
+description: "Liwen Zheng is a Senior Ocean CDR researcher at Shandong University of Science and Technology in CN. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.577143
 url: "/cdr-researcher-census/researchers/liwen-zheng-a5081995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liwen-zheng-a5081995/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Shandong University of Science and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6535-4171",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Liwen Zheng**  
-Shandong University · 🇨🇳 CN
+Shandong University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 380 |
-| Publications | 43 |
-| CDR Focus | 14.0% |
+| h-index | 10 |
+| Citations | 396 |
+| Publications | 44 |
+| CDR Focus | 11.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

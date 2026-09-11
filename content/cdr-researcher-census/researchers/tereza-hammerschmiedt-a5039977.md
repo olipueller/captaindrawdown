@@ -1,7 +1,7 @@
 ---
 title: "Tereza Hammerschmiedt"
 description: "Tereza Hammerschmiedt is a Senior Soil Carbon researcher at Mendel University Brno in CZ. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.210925
+date: 2026-09-11T02:38:29.156440
 url: "/cdr-researcher-census/researchers/tereza-hammerschmiedt-a5039977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 1,567 |
+| Citations | 1,639 |
 | Publications | 77 |
 | CDR Focus | 7.8% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon-enriched organic amendments differently affect the soil chemical, biological properties and plant biomass in a cultivation time-dependent manner** (2022)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
    13 citations · Soil Carbon

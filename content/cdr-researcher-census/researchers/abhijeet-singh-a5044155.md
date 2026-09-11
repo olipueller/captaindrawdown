@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Singh"
-description: "Abhijeet Singh is a Mid-career Enhanced Weathering researcher at Uppsala University in SE. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.423744
+description: "Abhijeet Singh is a Mid-career Enhanced Weathering researcher at Uppsala University in SE. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.366433
 url: "/cdr-researcher-census/researchers/abhijeet-singh-a5044155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 637 |
-| Publications | 48 |
-| CDR Focus | 16.7% |
+| Citations | 671 |
+| Publications | 49 |
+| CDR Focus | 16.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 2. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 3. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations

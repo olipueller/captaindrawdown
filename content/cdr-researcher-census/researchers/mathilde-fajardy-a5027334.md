@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
 description: "Mathilde Fajardy is a Mid-career BECCS researcher at University of Cambridge in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.209004
+date: 2026-09-11T02:38:29.159474
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 1,578 |
+| Citations | 1,605 |
 | Publications | 39 |
 | CDR Focus | 17.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world** (2021)
-   134 citations · BECCS
+   135 citations · BECCS
 
 2. **Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options** (2021)
    59 citations · BECCS

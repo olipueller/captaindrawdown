@@ -1,7 +1,7 @@
 ---
 title: "Joris Tulumello"
-description: "Joris Tulumello is a Mid-career Soil Carbon researcher at Altran (France) in FR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975836
+description: "Joris Tulumello is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.939890
 url: "/cdr-researcher-census/researchers/joris-tulumello-a5034596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/joris-tulumello-a5034596/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Altran (France)"
+    "name": "Centre National de la Recherche Scientifique"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4867-4445",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Joris Tulumello**  
-Altran (France) · 🇫🇷 FR
+Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 205 |
-| Publications | 20 |
-| CDR Focus | 10.0% |
+| Citations | 209 |
+| Publications | 21 |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

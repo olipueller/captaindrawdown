@@ -1,7 +1,7 @@
 ---
 title: "Peggy Rimmelin-Maury"
 description: "Peggy Rimmelin-Maury is a Senior Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.818611
+date: 2026-09-11T02:38:29.779839
 url: "/cdr-researcher-census/researchers/peggy-rimmelin-maury-a5112214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 263 |
+| Citations | 268 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |

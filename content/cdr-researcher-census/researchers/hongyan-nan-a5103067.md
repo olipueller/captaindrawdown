@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Nan"
-description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.171857
+description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.118433
 url: "/cdr-researcher-census/researchers/hongyan-nan-a5103067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 22 |
-| Citations | 2,053 |
-| Publications | 44 |
-| CDR Focus | 15.9% |
+| Citations | 2,146 |
+| Publications | 46 |
+| CDR Focus | 15.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   135 citations · Biochar
+   137 citations · Biochar
 
 2. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   50 citations · Biochar
+   55 citations · Biochar
 
-3. **How does ball-milling elevate biochar as a value-added peroxydisulfate activator for antibiotics removal?** (2024)
-   46 citations · Biochar
+3. **Unlocking the potential of element-doped biochar: from tailored synthesis to multifunctional applications in environment and energy** (2025)
+   47 citations · Biochar
 
-4. **Unlocking the potential of element-doped biochar: from tailored synthesis to multifunctional applications in environment and energy** (2025)
-   39 citations · Biochar
+4. **How does ball-milling elevate biochar as a value-added peroxydisulfate activator for antibiotics removal?** (2024)
+   47 citations · Biochar
 
 5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
    4 citations

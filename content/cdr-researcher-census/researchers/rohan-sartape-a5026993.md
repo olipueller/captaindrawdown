@@ -1,7 +1,7 @@
 ---
 title: "Rohan Sartape"
-description: "Rohan Sartape is a Mid-career General CDR researcher at University of Illinois Chicago in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.592516
+description: "Rohan Sartape is a Mid-career General CDR researcher at University of Illinois Chicago in US. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.516864
 url: "/cdr-researcher-census/researchers/rohan-sartape-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 415 |
-| Publications | 34 |
-| CDR Focus | 5.9% |
+| Citations | 451 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Role of Intermolecular Interactions in Deep Eutectic Solvents for CO <sub>2</sub> Capture: Vibrational Spectroscopy and Quantum Chemical Studies** (2024)
-   21 citations
+   24 citations
 
 2. **Trends and limits of CO2 capture in solid and liquid sorbents at standard conditions** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Role of intermolecular interactions in Deep Eutectic solvents for CO2 capture: Vibrational spectroscopy and quantum chemical studies** (2024)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Huating Jiang"
-description: "Huating Jiang is a Mid-career Biochar researcher at East China University of Science and Technology in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.361936
+description: "Huating Jiang is a Mid-career Biochar researcher at East China University of Science and Technology in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.304879
 url: "/cdr-researcher-census/researchers/huating-jiang-a5079594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 781 |
+| h-index | 14 |
+| Citations | 818 |
 | Publications | 33 |
 | CDR Focus | 6.1% |
 | Trajectory | Stable |

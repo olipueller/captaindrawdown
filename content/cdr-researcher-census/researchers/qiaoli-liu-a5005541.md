@@ -1,7 +1,7 @@
 ---
 title: "Qiaoli Liu"
 description: "Qiaoli Liu is a Mid-career Soil Carbon researcher at Jiangxi Academy of Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.067446
+date: 2026-09-11T02:38:30.013461
 url: "/cdr-researcher-census/researchers/qiaoli-liu-a5005541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 177 |
+| Citations | 186 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Exiting |

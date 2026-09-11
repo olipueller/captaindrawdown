@@ -1,7 +1,7 @@
 ---
 title: "Dongyan Jin"
-description: "Dongyan Jin is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.469851
+description: "Dongyan Jin is a Mid-career Soil Carbon researcher at Agricultural Information Institute in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.421399
 url: "/cdr-researcher-census/researchers/dongyan-jin-a5063194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dongyan-jin-a5063194/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Harbin Institute of Technology"
+    "name": "Agricultural Information Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5644-0369",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dongyan Jin**  
-Harbin Institute of Technology · 🇨🇳 CN
+Agricultural Information Institute · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 561 |
-| Publications | 15 |
-| CDR Focus | 13.3% |
+| Citations | 576 |
+| Publications | 16 |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

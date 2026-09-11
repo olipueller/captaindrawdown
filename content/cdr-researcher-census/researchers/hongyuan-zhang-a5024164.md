@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Zhang"
-description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.212412
+description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 81 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.156910
 url: "/cdr-researcher-census/researchers/hongyuan-zhang-a5024164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,37 +42,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 22 |
-| Citations | 1,558 |
-| Publications | 80 |
-| CDR Focus | 10.0% |
+| h-index | 23 |
+| Citations | 1,636 |
+| Publications | 81 |
+| CDR Focus | 9.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   49 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
-   46 citations
+   48 citations
 
 3. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
-   19 citations
+   20 citations
 
 4. **Green manure roots return drives saline-alkali soil organic carbon accumulation via microbial necromass formation** (2025)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 5. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon
 
 7. **The accumulation of fungal not bacterial residue carbon is management-dependent under conventional and organic practices in apple-orchard soil** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 9. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
    0 citations · Soil Carbon

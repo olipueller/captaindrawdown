@@ -1,7 +1,7 @@
 ---
 title: "Jintao Wang"
-description: "Jintao Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.444458
+description: "Jintao Wang is a Senior Soil Carbon researcher at Shandong University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.392919
 url: "/cdr-researcher-census/researchers/jintao-wang-a5100660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jintao-wang-a5100660/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Shandong University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5361-4191",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jintao Wang**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Shandong University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 602 |
-| Publications | 39 |
-| CDR Focus | 5.1% |
+| Citations | 621 |
+| Publications | 40 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Biochar promoted halophyte growth and enhanced soil carbon stock in a coastal salt-affected soil** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

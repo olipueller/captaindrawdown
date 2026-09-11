@@ -1,7 +1,7 @@
 ---
 title: "Bahareh Bicharanloo"
 description: "Bahareh Bicharanloo is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.680563
+date: 2026-09-11T02:38:29.613995
 url: "/cdr-researcher-census/researchers/bahareh-bicharanloo-a5068050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 344 |
+| Citations | 367 |
 | Publications | 19 |
 | CDR Focus | 21.1% |
 | Trajectory | Growing |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus Supply Increases Nitrogen Transformation Rates and Retention in Soil: A Global Meta‐Analysis** (2022)
-   102 citations · Soil Carbon
+   103 citations · Soil Carbon
 
-2. **Nitrogen availability alters the contribution of ex-vivo and in-vivo pathways to carbon formation in particulate- and mineral-associated organic matter** (2026)
+2. **Enhanced stabilisation of soil carbon via arbuscular mycorrhizal fungi and biochar** (2025)
+   4 citations · Biochar
+
+3. **Nitrogen availability alters the contribution of ex-vivo and in-vivo pathways to carbon formation in particulate- and mineral-associated organic matter** (2026)
    2 citations · Soil Carbon
-
-3. **Enhanced stabilisation of soil carbon via arbuscular mycorrhizal fungi and biochar** (2025)
-   2 citations · Biochar
 
 4. **Influence of biochar, compost, and their combination on carbon mineralisation and the priming effect in low-carbon soil: an incubation experiment** (2025)
    1 citations · Biochar

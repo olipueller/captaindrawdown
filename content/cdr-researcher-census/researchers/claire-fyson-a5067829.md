@@ -1,7 +1,7 @@
 ---
 title: "Claire Fyson"
 description: "Claire Fyson is a Mid-career General CDR researcher at Climate Analytics in DE. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.283025
+date: 2026-09-11T02:38:29.230743
 url: "/cdr-researcher-census/researchers/claire-fyson-a5067829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 1,077 |
+| Citations | 1,104 |
 | Publications | 23 |
 | CDR Focus | 21.7% |
 | Trajectory | Exiting |
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    37 citations · General CDR
 
 3. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 4. **Sharing the burden of carbon dioxide removal&amp;#160;** (2022)
    0 citations · General CDR

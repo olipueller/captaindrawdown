@@ -1,7 +1,7 @@
 ---
 title: "Hend Elsawey"
-description: "Hend Elsawey is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.914202
+description: "Hend Elsawey is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.875958
 url: "/cdr-researcher-census/researchers/hend-elsawey-a5057053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 221 |
+| h-index | 5 |
+| Citations | 227 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Growing |

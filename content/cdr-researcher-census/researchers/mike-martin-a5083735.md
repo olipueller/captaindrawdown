@@ -1,7 +1,7 @@
 ---
 title: "Mike Martin"
 description: "Mike Martin is a Mid-career BECCS researcher at Hampton Roads Sanitation District in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.198505
+date: 2026-09-11T02:38:30.167072
 url: "/cdr-researcher-census/researchers/mike-martin-a5083735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 142 |
+| Citations | 144 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Uncertainty of modelled bioenergy with carbon capture and storage due to variability of input data** (2021)
-   13 citations · BECCS
+   14 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Huyong Qin"
-description: "Huyong Qin is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.066257
+description: "Huyong Qin is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.913231
 url: "/cdr-researcher-census/researchers/huyong-qin-a5101344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 177 |
-| Publications | 13 |
-| CDR Focus | 46.2% |
+| h-index | 6 |
+| Citations | 212 |
+| Publications | 14 |
+| CDR Focus | 35.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   61 citations · Biochar
+   66 citations · Biochar
 
 2. **Investigation of the properties and sustainability of modified biochar-doped cement-based composite** (2024)
-   52 citations · Biochar
+   56 citations · Biochar
 
 3. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 4. **Investigation of the CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior of alkali-modified biochar components in cement composites** (2025)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Tongji Guo"
 description: "Tongji Guo is a Mid-career Soil Carbon researcher at Jiangxi University of Finance and Economics in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.187514
+date: 2026-09-11T02:38:30.160125
 url: "/cdr-researcher-census/researchers/tongji-guo-a5011481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 145 |
+| Citations | 146 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Urjashi Bhattacharya"
-description: "Urjashi Bhattacharya is a Mid-career General CDR researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.555015
+description: "Urjashi Bhattacharya is a Mid-career General CDR researcher at Bihar Agricultural University in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.488915
 url: "/cdr-researcher-census/researchers/urjashi-bhattacharya-a5108517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/urjashi-bhattacharya-a5108517/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bidhan Chandra Krishi Viswavidyalaya"
+    "name": "Bihar Agricultural University"
   },
   "sameAs": "https://openalex.org/A5108517255"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Urjashi Bhattacharya**  
-Bidhan Chandra Krishi Viswavidyalaya · 🇮🇳 IN
+Bihar Agricultural University · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 451 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 5 |
+| Citations | 481 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

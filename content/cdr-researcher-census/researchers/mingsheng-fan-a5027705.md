@@ -1,7 +1,7 @@
 ---
 title: "Mingsheng Fan"
-description: "Mingsheng Fan is a Senior Soil Carbon researcher at China Agricultural University in CN. With 75 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.075277
+description: "Mingsheng Fan is a Senior Soil Carbon researcher at Quzhou University in CN. With 75 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.027624
 url: "/cdr-researcher-census/researchers/mingsheng-fan-a5027705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mingsheng-fan-a5027705/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Agricultural University"
+    "name": "Quzhou University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2369-8961",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mingsheng Fan**  
-China Agricultural University · 🇨🇳 CN
+Quzhou University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 37 |
-| Citations | 9,421 |
+| h-index | 38 |
+| Citations | 9,648 |
 | Publications | 75 |
 | CDR Focus | 5.3% |
 | Trajectory | Declining |
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global crop production increase by soil organic carbon** (2023)
-   289 citations · General CDR
+   294 citations · General CDR
 
 2. **Not all soil carbon is created equal: Labile and stable pools under nitrogen input** (2024)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Maize straw-based organic amendments and nitrogen fertilizer effects on soil and aggregate-associated carbon and nitrogen** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 4. **Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability** (2025)
    0 citations · Soil Carbon

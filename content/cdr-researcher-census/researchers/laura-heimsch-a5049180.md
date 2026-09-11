@@ -1,7 +1,7 @@
 ---
 title: "Laura Heimsch"
-description: "Laura Heimsch is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.277569
+description: "Laura Heimsch is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.252291
 url: "/cdr-researcher-census/researchers/laura-heimsch-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Laura Heimsch",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/laura-heimsch-a5049180/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Finnish Meteorological Institute"
+  },
   "sameAs": "https://openalex.org/A5049180333"
 }
 </script>
 
 ## Profile
 
-**Laura Heimsch**
+**Laura Heimsch**  
+Finnish Meteorological Institute ·  FI
 
 **Career Stage:** Mid-career
 
@@ -35,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 126 |
-| Publications | 24 |
-| CDR Focus | 20.8% |
+| Citations | 127 |
+| Publications | 26 |
+| CDR Focus | 19.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

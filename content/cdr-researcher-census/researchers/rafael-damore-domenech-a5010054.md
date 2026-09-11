@@ -1,7 +1,7 @@
 ---
 title: "Rafael d’Amore-Domenech"
-description: "Rafael d’Amore-Domenech is a Mid-career General CDR researcher at Universidad Politécnica de Madrid in ES. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.394799
+description: "Rafael d’Amore-Domenech is a Mid-career General CDR researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.346282
 url: "/cdr-researcher-census/researchers/rafael-damore-domenech-a5010054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rafael d\u2019Amore-Domenech",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rafael-damore-domenech-a5010054/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Universidad Polit\u00e9cnica de Madrid"
-  },
   "sameAs": [
     "https://orcid.org/0000-0003-2535-3016",
     "https://openalex.org/A5010054601"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Rafael d’Amore-Domenech**  
-Universidad Politécnica de Madrid · 🇪🇸 ES
+**Rafael d’Amore-Domenech**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 700 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
+| Citations | 716 |
+| Publications | 27 |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Peiyuan Deng"
 description: "Peiyuan Deng is a Mid-career Biochar researcher at Zhengzhou Normal University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.886199
+date: 2026-09-11T02:38:29.824661
 url: "/cdr-researcher-census/researchers/peiyuan-deng-a5054390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 231 |
+| Citations | 247 |
 | Publications | 18 |
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    33 citations · Biochar
 
 2. **Unveiling mechanisms of nZVI-biochar enhanced nitrogen removal in constructed wetlands: Microbial community assembly** (2025)
-   3 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

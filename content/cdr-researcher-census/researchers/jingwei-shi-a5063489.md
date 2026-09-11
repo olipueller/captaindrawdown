@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Shi"
-description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317966
+description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.256480
 url: "/cdr-researcher-census/researchers/jingwei-shi-a5063489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,30 +43,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 921 |
-| Publications | 31 |
-| CDR Focus | 25.8% |
+| Citations | 987 |
+| Publications | 34 |
+| CDR Focus | 26.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   102 citations
+   105 citations
 
-2. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   77 citations · Soil Carbon
+2. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   83 citations · Soil Carbon
 
-3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   76 citations · Soil Carbon
+3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   81 citations · Soil Carbon
 
 4. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 7. **Nitrogen‐Fixing Woody Plants Sequester More Soil Mineral‐Associated Carbon and Lose Less Particulate Carbon Than Herbs Post Vegetation Restoration** (2026)
    0 citations · Soil Carbon

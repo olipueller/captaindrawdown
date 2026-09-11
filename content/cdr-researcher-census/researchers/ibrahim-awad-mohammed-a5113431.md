@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Awad Mohammed"
 description: "Ibrahim Awad Mohammed is a Mid-career Biochar researcher at University of Kirkuk in IQ. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.776073
+date: 2026-09-11T02:38:29.734834
 url: "/cdr-researcher-census/researchers/ibrahim-awad-mohammed-a5113431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 285 |
+| Citations | 291 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

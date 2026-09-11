@@ -1,7 +1,7 @@
 ---
 title: "Dominik Heß"
 description: "Dominik Heß is an Early-career General CDR researcher at Applied Materials (United Kingdom) in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.378270
+date: 2026-09-11T02:38:30.312537
 url: "/cdr-researcher-census/researchers/dominik-he-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 107 |
+| Citations | 115 |
 | Publications | 11 |
 | CDR Focus | 45.5% |
 | Trajectory | Stable |
@@ -59,17 +59,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **A Novel Approach to Electrochemical Direct Air Capture Using Aqueous <scp>l</scp>-Arginine Amino Acid Solutions as an Absorption Solvent: Proof-of-Concept and Technoeconomics** (2025)
    6 citations
 
-4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   1 citations
+4. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   2 citations · General CDR
 
-5. **Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems** (2026)
-   0 citations · DAC
+5. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+   1 citations
 
 6. **Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems** (2026)
    0 citations · DAC
 
-7. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   0 citations · General CDR
+7. **Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems** (2026)
+   0 citations · DAC
 
 8. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    0 citations

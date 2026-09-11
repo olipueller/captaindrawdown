@@ -1,7 +1,7 @@
 ---
 title: "L. E. Ellerbroek"
-description: "L. E. Ellerbroek is a Mid-career Soil Carbon researcher at eLEAF in NL. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.404777
+description: "L. E. Ellerbroek is a Mid-career Soil Carbon researcher at eLEAF in NL. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.360372
 url: "/cdr-researcher-census/researchers/l-e-ellerbroek-a5029800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 679 |
+| h-index | 13 |
+| Citations | 687 |
 | Publications | 36 |
 | CDR Focus | 5.6% |
 | Trajectory | Stable |

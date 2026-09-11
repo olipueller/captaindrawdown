@@ -1,7 +1,7 @@
 ---
 title: "Linchuan Fang"
-description: "Linchuan Fang is an Eminent Soil Carbon researcher at 中科院水土保持研究所 in CN. With 207 publications and an h-index of 70, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.070568
+description: "Linchuan Fang is an Eminent Soil Carbon researcher at 中科院水土保持研究所 in CN. With 211 publications and an h-index of 71, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.022956
 url: "/cdr-researcher-census/researchers/linchuan-fang-a5004716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 70 |
-| Citations | 13,630 |
-| Publications | 207 |
-| CDR Focus | 6.3% |
+| h-index | 71 |
+| Citations | 14,193 |
+| Publications | 211 |
+| CDR Focus | 6.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   161 citations · Soil Carbon
+   167 citations · Soil Carbon
 
 2. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   122 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 3. **Crop residue return achieves environmental mitigation and enhances grain yield: a global meta-analysis** (2023)
-   117 citations · Soil Carbon
+   120 citations · Soil Carbon
 
-4. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   96 citations
+4. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
+   102 citations · Soil Carbon
 
-5. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   90 citations · Soil Carbon
+5. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
+   100 citations
 
 6. **Heavy metal pollution increases soil microbial carbon limitation: Evidence from ecological enzyme stoichiometry** (2021)
-   69 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 7. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   60 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 8. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
    60 citations · Soil Carbon
 
 9. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
-   57 citations
+   58 citations
 
-10. **Effects of inorganic and organic fertilizers on CO2 and CH4 fluxes from tea plantation soil** (2021)
-   34 citations
+10. **Multifaceted Links Between Microbial Carbon Use Efficiency and Soil Organic Carbon Sequestration** (2025)
+   34 citations · Soil Carbon
 
 ## External Profiles
 

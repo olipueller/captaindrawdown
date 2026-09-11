@@ -1,7 +1,7 @@
 ---
 title: "Shuli Wei"
-description: "Shuli Wei is a Mid-career Soil Carbon researcher at Shandong University of Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.259095
+description: "Shuli Wei is a Mid-career Soil Carbon researcher at Shandong University of Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.157275
 url: "/cdr-researcher-census/researchers/shuli-wei-a5108144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 130 |
-| Publications | 15 |
-| CDR Focus | 26.7% |
+| Citations | 147 |
+| Publications | 16 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
-   1 citations · Soil Carbon
+1. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
+   2 citations · General CDR
 
-2. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   1 citations · General CDR
+2. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
+   1 citations · Soil Carbon
 
 3. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)
    0 citations · Soil Carbon

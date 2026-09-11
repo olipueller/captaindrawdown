@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Zhu"
-description: "Xiaohong Zhu is a Senior Biochar researcher at University of California, Berkeley in US. With 91 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.127765
+description: "Xiaohong Zhu is a Senior Biochar researcher at University of California, Berkeley in US. With 96 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.074006
 url: "/cdr-researcher-census/researchers/xiaohong-zhu-a5039299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,27 +42,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 32 |
-| Citations | 3,230 |
-| Publications | 91 |
-| CDR Focus | 7.7% |
+| h-index | 34 |
+| Citations | 3,459 |
+| Publications | 96 |
+| CDR Focus | 7.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Cold-bonded biochar-cement lightweight aggregates for evaporation-enhanced permeable bricks** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Scaling biochar solutions for urban carbon dioxide removal** (2024)
    17 citations · Biochar
 
 3. **Enhancing interface adhesion of 3D printable concrete by biochar integration** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
-4. **Thermal insulation of biochar-cement composites** (2026)
-   0 citations · Biochar
+4. **Biochar-modified alkali-activated slag** (2026)
+   1 citations · Biochar
 
-5. **Biochar-modified alkali-activated slag** (2026)
+5. **Thermal insulation of biochar-cement composites** (2026)
    0 citations · Biochar
 
 6. **Durability concerns of biochar in low-carbon concrete** (2026)

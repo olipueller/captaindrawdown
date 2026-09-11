@@ -1,7 +1,7 @@
 ---
 title: "Warwick Badgery"
-description: "Warwick Badgery is a Senior Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 130 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.160962
+description: "Warwick Badgery is a Senior Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 131 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.109180
 url: "/cdr-researcher-census/researchers/warwick-badgery-a5059656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,239 |
-| Publications | 130 |
-| CDR Focus | 5.4% |
+| Citations | 2,305 |
+| Publications | 131 |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   73 citations · General CDR
+   74 citations · General CDR
 
 2. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   31 citations · General CDR
+   32 citations · General CDR
 
 3. **Making soil carbon credits work for climate change mitigation** (2024)
    23 citations · General CDR
 
 4. **Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Managed grazing incrementally increased soil organic carbon amid larger temporal trends in a temperate pasture system** (2025)
    7 citations · Soil Carbon

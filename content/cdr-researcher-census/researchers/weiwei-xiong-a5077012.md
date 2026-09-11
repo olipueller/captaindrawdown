@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Xiong"
-description: "Weiwei Xiong is a Senior General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.553563
+description: "Weiwei Xiong is a Senior General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.413383
 url: "/cdr-researcher-census/researchers/weiwei-xiong-a5077012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 452 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
+| Citations | 588 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Kanwal"
-description: "Qudsia Kanwal is a Senior General CDR researcher at King Abdullah University of Science and Technology in SA. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342459
+description: "Qudsia Kanwal is a Senior General CDR researcher at King Abdullah University of Science and Technology in SA. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.426043
 url: "/cdr-researcher-census/researchers/qudsia-kanwal-a5015018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 841 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 571 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **CO₂ sequestration pathways in cementitious materials: Mechanisms, material synergies, and deployment challenges for low-carbon construction** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **EMBRACING NATURE: SUSTAINABLE SOLUTIONS FOR CLIMATE CHANGE MITIGATION AND WATER CONSERVATION** (2024)
    0 citations · General CDR

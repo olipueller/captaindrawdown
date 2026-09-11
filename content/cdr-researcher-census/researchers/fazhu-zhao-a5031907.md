@@ -1,7 +1,7 @@
 ---
 title: "Fazhu Zhao"
-description: "Fazhu Zhao is a Senior Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.095864
+description: "Fazhu Zhao is an Eminent Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.046741
 url: "/cdr-researcher-census/researchers/fazhu-zhao-a5031907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Fazhu Zhao**  
 Northwest University · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Eminent
 
 ## CDR Specialization
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 39 |
-| Citations | 5,184 |
+| h-index | 40 |
+| Citations | 5,348 |
 | Publications | 103 |
 | CDR Focus | 8.7% |
 | Trajectory | Growing |
@@ -48,34 +48,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   64 citations
+   71 citations
 
 2. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **Long-Term Chemical and Organic Fertilization Differently Affect Soil Aggregates and Associated Carbon and Nitrogen in the Loess Plateau of China** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Mechanisms of cover crop-derived carbon sequestration in winter wheat fields: Insights from 13C labeling** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Mulching practices decreased soil microbial carbon degradation potential under spring maize in the Loess Plateau of China** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-7. **Regulation of Microbial Necromass Carbon in Restoring Alpine Meadows: Key Roles of Soil Properties and Fungal Network Stability** (2026)
+7. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+   1 citations
+
+8. **Regulation of Microbial Necromass Carbon in Restoring Alpine Meadows: Key Roles of Soil Properties and Fungal Network Stability** (2026)
    0 citations · Soil Carbon
 
-8. **Divergent Microbial and Enzymatic Drivers Regulate Particulate and Mineral-Associated Organic Carbon During Alpine Meadow Restoration** (2026)
+9. **Divergent Microbial and Enzymatic Drivers Regulate Particulate and Mineral-Associated Organic Carbon During Alpine Meadow Restoration** (2026)
    0 citations · Soil Carbon
 
-9. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+10. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
    0 citations · Soil Carbon
-
-10. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   0 citations
 
 ## External Profiles
 

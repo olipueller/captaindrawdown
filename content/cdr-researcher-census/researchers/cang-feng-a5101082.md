@@ -1,7 +1,7 @@
 ---
 title: "Cang Feng"
 description: "Cang Feng is a Mid-career Biochar researcher at Tongji University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.903503
+date: 2026-09-11T02:38:29.870703
 url: "/cdr-researcher-census/researchers/cang-feng-a5101082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 224 |
+| Citations | 228 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficiency and mechanism of the degradation of ciprofloxacin by the oxidation of peroxymonosulfate under the catalysis of a Fe3O4/N co-doped sludge biochar** (2023)
-   56 citations · Biochar
+   57 citations · Biochar
 
 2. **Adsorption and oxidation of ciprofloxacin by a novel layered double hydroxides modified sludge biochar** (2022)
    38 citations · Biochar

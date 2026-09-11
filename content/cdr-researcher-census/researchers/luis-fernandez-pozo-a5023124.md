@@ -1,7 +1,7 @@
 ---
 title: "Luís Fernández-Pozo"
 description: "Luís Fernández-Pozo is a Mid-career Soil Carbon researcher at Universidad de Extremadura in ES. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.588443
+date: 2026-09-11T02:38:29.536206
 url: "/cdr-researcher-census/researchers/luis-fernandez-pozo-a5023124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 419 |
+| Citations | 433 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Change in Land Use Affects Soil Organic Carbon Dynamics and Distribution in Tropical Systems** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Influence of Mediterranean shrublands management on soil carbon sequestration** (2025)
    1 citations · Soil Carbon

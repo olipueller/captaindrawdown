@@ -1,7 +1,7 @@
 ---
 title: "Haoan Luan"
-description: "Haoan Luan is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.298935
+description: "Haoan Luan is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.244416
 url: "/cdr-researcher-census/researchers/haoan-luan-a5021588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 996 |
+| h-index | 19 |
+| Citations | 1,042 |
 | Publications | 49 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Living and Dead Microorganisms in Mediating Soil Carbon Stocks Under Long-Term Fertilization in a Rice-Wheat Rotation** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Successive walnut plantations alter soil carbon quantity and quality by modifying microbial communities and enzyme activities** (2022)
    12 citations · Soil Carbon

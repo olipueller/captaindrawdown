@@ -1,7 +1,7 @@
 ---
 title: "Edward Missanjo"
-description: "Edward Missanjo is a Senior Soil Carbon researcher at University of Namibia in NA. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.558282
+description: "Edward Missanjo is a Senior Soil Carbon researcher at University of Namibia in NA. With 59 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.515480
 url: "/cdr-researcher-census/researchers/edward-missanjo-a5045012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 448 |
+| h-index | 12 |
+| Citations | 453 |
 | Publications | 59 |
 | CDR Focus | 5.1% |
 | Trajectory | Growing |

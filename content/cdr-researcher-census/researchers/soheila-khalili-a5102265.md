@@ -1,7 +1,7 @@
 ---
 title: "Soheila Khalili"
-description: "Soheila Khalili is a Mid-career Soil Carbon researcher at University of Surrey in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.682851
+description: "Soheila Khalili is a Mid-career Soil Carbon researcher at University of Surrey in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.589177
 url: "/cdr-researcher-census/researchers/soheila-khalili-a5102265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 342 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 385 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

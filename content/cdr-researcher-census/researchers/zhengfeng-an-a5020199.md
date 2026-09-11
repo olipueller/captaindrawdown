@@ -1,7 +1,7 @@
 ---
 title: "Zhengfeng An"
-description: "Zhengfeng An is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.312489
+description: "Zhengfeng An is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.251643
 url: "/cdr-researcher-census/researchers/zhengfeng-an-a5020199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 947 |
-| Publications | 56 |
-| CDR Focus | 12.5% |
+| h-index | 19 |
+| Citations | 1,004 |
+| Publications | 57 |
+| CDR Focus | 12.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Resource availability enhances positive tree functional diversity effects on carbon and nitrogen accrual in natural forests** (2024)
-   41 citations · General CDR
+   43 citations · General CDR
 
 2. **Soil organic matter stability in forest and cropland components of two agroforestry systems in western Canada** (2023)
    28 citations · Soil Carbon
 
 3. **Effects of co-applied biochar and plant growth-promoting bacteria on soil carbon mineralization and nutrient availability under two nitrogen addition rates** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Canola straw biochars produced under different pyrolysis temperatures and nitrapyrin independently affected cropland soil nitrous oxide emissions** (2021)
    10 citations · Biochar
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 9. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
-   0 citations
+   1 citations
 
 ## External Profiles
 

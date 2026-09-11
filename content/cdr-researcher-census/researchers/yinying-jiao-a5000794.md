@@ -1,7 +1,7 @@
 ---
 title: "Yinying Jiao"
 description: "Yinying Jiao is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.342133
+date: 2026-09-11T02:38:29.288996
 url: "/cdr-researcher-census/researchers/yinying-jiao-a5000794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 842 |
+| Citations | 872 |
 | Publications | 33 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

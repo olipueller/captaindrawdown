@@ -1,7 +1,7 @@
 ---
 title: "Tanya Oliver"
 description: "Tanya Oliver is a Senior DAC researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.683908
+date: 2026-09-11T02:38:29.645375
 url: "/cdr-researcher-census/researchers/tanya-oliver-a5046628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,7 +35,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 341 |
+| Citations | 344 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |

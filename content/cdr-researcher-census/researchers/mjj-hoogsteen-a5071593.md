@@ -1,7 +1,7 @@
 ---
 title: "M.J.J. Hoogsteen"
-description: "M.J.J. Hoogsteen is a Mid-career Soil Carbon researcher at National Institute for Public Health and the Environment in NL. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.435098
+description: "M.J.J. Hoogsteen is a Mid-career Soil Carbon researcher at National Institute for Public Health and the Environment in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.380004
 url: "/cdr-researcher-census/researchers/mjj-hoogsteen-a5071593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 618 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| h-index | 5 |
+| Citations | 642 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

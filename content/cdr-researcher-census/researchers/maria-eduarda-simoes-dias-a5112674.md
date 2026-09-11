@@ -1,7 +1,7 @@
 ---
 title: "Maria Eduarda Simões Dias"
 description: "Maria Eduarda Simões Dias is a Mid-career Biochar researcher at Universidade Federal de São Carlos in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.086147
+date: 2026-09-11T02:38:30.027270
 url: "/cdr-researcher-census/researchers/maria-eduarda-simoes-dias-a5112674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 171 |
+| Citations | 181 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

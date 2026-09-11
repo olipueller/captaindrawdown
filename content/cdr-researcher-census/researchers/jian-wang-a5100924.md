@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
-description: "Jian Wang is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.843130
+description: "Jian Wang is a Mid-career Biochar researcher at Sichuan University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.779065
 url: "/cdr-researcher-census/researchers/jian-wang-a5100924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jian-wang-a5100924/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Aerospace University"
+    "name": "Sichuan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5006-1130",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jian Wang**  
-Shenyang Aerospace University · 🇨🇳 CN
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 250 |
-| Publications | 26 |
-| CDR Focus | 11.5% |
+| Citations | 268 |
+| Publications | 27 |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

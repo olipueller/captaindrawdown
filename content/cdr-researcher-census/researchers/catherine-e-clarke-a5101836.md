@@ -1,7 +1,7 @@
 ---
 title: "Catherine E. Clarke"
 description: "Catherine E. Clarke is a Senior Soil Carbon researcher at Stellenbosch University in ZA. With 67 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.406039
+date: 2026-09-11T02:38:29.354740
 url: "/cdr-researcher-census/researchers/catherine-e-clarke-a5101836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 675 |
+| Citations | 700 |
 | Publications | 67 |
 | CDR Focus | 9.0% |
 | Trajectory | Declining |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Oxalate and oxalotrophy: an environmental perspective** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Calcareous termite mounds in South Africa are ancient carbon reservoirs** (2024)
    17 citations · Enhanced Weathering

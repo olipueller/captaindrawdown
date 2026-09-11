@@ -1,7 +1,7 @@
 ---
 title: "Loreto Suárez"
 description: "Loreto Suárez is a Mid-career DAC researcher at Instituto Nacional del Carbón in ES. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.428429
+date: 2026-09-11T02:38:29.386039
 url: "/cdr-researcher-census/researchers/loreto-suarez-a5030435/"
 layout: "researcher"
 hiddenInHomeList: true

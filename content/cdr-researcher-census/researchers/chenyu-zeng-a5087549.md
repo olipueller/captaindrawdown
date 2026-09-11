@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zeng"
-description: "Chenyu Zeng is a Mid-career Biochar researcher at Guangxi University of Science and Technology in CN. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.488105
+description: "Chenyu Zeng is a Mid-career Biochar researcher at Guangxi University of Science and Technology in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.418185
 url: "/cdr-researcher-census/researchers/chenyu-zeng-a5087549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 534 |
+| h-index | 13 |
+| Citations | 580 |
 | Publications | 47 |
 | CDR Focus | 6.4% |
 | Trajectory | Exiting |
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient activation of ferrate (VI) via corncob biochar assisted by electrochemistry for the removal of sulfamethoxazole from water** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Novel insights into ferrate (VI) activation by Mn-modified sludge biochar for sulfamethoxazole degradation: Dominance of hydroxyl group and Mn-O bond in the non-radical pathway** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Ferrate (VI) oxidation of sulfamethoxazole enhanced by magnetized sludge-based biochar: Active sites regulation and degradation mechanism analysis** (2024)
    10 citations · Biochar

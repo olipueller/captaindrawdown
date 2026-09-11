@@ -1,7 +1,7 @@
 ---
 title: "A.L. Villanueva Perales"
 description: "A.L. Villanueva Perales is a Senior BECCS researcher at Universidad de Sevilla in ES. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.317426
+date: 2026-09-11T02:38:29.269159
 url: "/cdr-researcher-census/researchers/al-villanueva-perales-a5047884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 922 |
+| Citations | 938 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

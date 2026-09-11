@@ -1,7 +1,7 @@
 ---
 title: "Kelly Eurek"
-description: "Kelly Eurek is a Mid-career DAC researcher at National Laboratory of the Rockies in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.742986
+description: "Kelly Eurek is an Early-career DAC researcher at National Laboratory of the Rockies in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.250894
 url: "/cdr-researcher-census/researchers/kelly-eurek-a5101684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -27,7 +27,7 @@ robots: "index, follow"
 **Kelly Eurek**  
 National Laboratory of the Rockies · 🇺🇸 US
 
-**Career Stage:** Mid-career
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -39,10 +39,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 302 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| h-index | 2 |
+| Citations | 127 |
+| Publications | 3 |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

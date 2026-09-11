@@ -1,7 +1,7 @@
 ---
 title: "Rasesh Pokharel"
 description: "Rasesh Pokharel is a Mid-career Enhanced Weathering researcher at Utrecht University in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.813457
+date: 2026-09-11T02:38:29.772134
 url: "/cdr-researcher-census/researchers/rasesh-pokharel-a5007022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 265 |
+| Citations | 272 |
 | Publications | 17 |
-| CDR Focus | 35.3% |
+| CDR Focus | 29.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

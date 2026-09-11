@@ -1,7 +1,7 @@
 ---
 title: "Geng Sun"
 description: "Geng Sun is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.000236
+date: 2026-09-11T02:38:29.953601
 url: "/cdr-researcher-census/researchers/geng-sun-a5035621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 197 |
+| Citations | 204 |
 | Publications | 15 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
-   2 citations · Soil Carbon
+1. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
+   3 citations
 
-2. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
-   2 citations
+2. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
+   2 citations · Soil Carbon
 
 3. **The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes** (2025)
    2 citations · Soil Carbon

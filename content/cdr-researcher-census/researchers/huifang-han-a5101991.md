@@ -1,7 +1,7 @@
 ---
 title: "Huifang Han"
-description: "Huifang Han is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.593771
+description: "Huifang Han is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.549059
 url: "/cdr-researcher-census/researchers/huifang-han-a5101991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/huifang-han-a5101991/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong Agricultural University"
+    "name": "Ministry of Agriculture"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9600-0125",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Huifang Han**  
-Shandong Agricultural University · 🇨🇳 CN
+Ministry of Agriculture ·  EE
 
 **Career Stage:** Mid-career
 
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 414 |
+| Citations | 420 |
 | Publications | 23 |
-| CDR Focus | 8.7% |
-| Trajectory | Exiting |
+| CDR Focus | 13.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Enhancing the coupling coordination of soil–crop systems by optimising soil properties and crop production via subsoiling** (2024)
    11 citations · Soil Carbon
+
+3. **Long-term subsoiling enhanced soil organic carbon sequestration via macropore optimization and iron-aluminum oxides enrichment** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

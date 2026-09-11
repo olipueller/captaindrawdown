@@ -1,7 +1,7 @@
 ---
 title: "Daniel Peprah-Manu"
-description: "Daniel Peprah-Manu is a Mid-career Biochar researcher at Coventry University in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.218365
+description: "Daniel Peprah-Manu is a Mid-career Biochar researcher at Coventry University in GB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.154444
 url: "/cdr-researcher-census/researchers/daniel-peprah-manu-a5076065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 138 |
+| h-index | 6 |
+| Citations | 147 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Exiting |

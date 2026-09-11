@@ -1,7 +1,7 @@
 ---
 title: "Taliehsadat Alebrahim"
 description: "Taliehsadat Alebrahim is a Mid-career DAC researcher at University at Buffalo, State University of New York in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.013714
+date: 2026-09-11T02:38:29.963208
 url: "/cdr-researcher-census/researchers/taliehsadat-alebrahim-a5037202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 193 |
+| Citations | 201 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Polyamines with reactive CO <sub>2</sub> diffusion for carbon capture: the obvious and the unexpected** (2026)
-   0 citations · DAC
+   3 citations · DAC
 
 ## External Profiles
 

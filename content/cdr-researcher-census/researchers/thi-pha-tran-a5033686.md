@@ -1,7 +1,7 @@
 ---
 title: "Thị Pha Tran"
-description: "Thị Pha Tran is a Mid-career Biochar researcher at Thai Nguyen University of Agriculture and Forestry in VN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.975103
+description: "Thị Pha Tran is a Mid-career Biochar researcher at Agriculture and Forestry University in NP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.939388
 url: "/cdr-researcher-census/researchers/thi-pha-tran-a5033686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thi-pha-tran-a5033686/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Thai Nguyen University of Agriculture and Forestry"
+    "name": "Agriculture and Forestry University"
   },
   "sameAs": "https://openalex.org/A5033686222"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Thị Pha Tran**  
-Thai Nguyen University of Agriculture and Forestry · 🇻🇳 VN
+Agriculture and Forestry University ·  NP
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 205 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| Citations | 209 |
+| Publications | 7 |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

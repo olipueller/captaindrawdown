@@ -1,7 +1,7 @@
 ---
 title: "Hua Feng"
-description: "Hua Feng is a Senior Soil Carbon researcher at Southwest University in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.869265
+description: "Hua Feng is a Senior Soil Carbon researcher at Zunyi Medical University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.841391
 url: "/cdr-researcher-census/researchers/hua-feng-a5102203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hua-feng-a5102203/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Southwest University"
+    "name": "Zunyi Medical University"
   },
   "sameAs": "https://openalex.org/A5102203959"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hua Feng**  
-Southwest University · 🇨🇳 CN
+Zunyi Medical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 239 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 240 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

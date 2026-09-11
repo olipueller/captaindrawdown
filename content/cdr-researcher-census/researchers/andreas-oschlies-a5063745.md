@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
-description: "Andreas Oschlies is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 738 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.063335
+description: "Andreas Oschlies is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 754 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.016177
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,25 +42,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 75 |
-| Citations | 26,159 |
-| Publications | 738 |
-| CDR Focus | 6.9% |
+| h-index | 76 |
+| Citations | 26,578 |
+| Publications | 754 |
+| CDR Focus | 7.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   82 citations · Ocean CDR
+   84 citations · Ocean CDR
 
 2. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   62 citations · General CDR
+   67 citations · General CDR
 
 3. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   41 citations · General CDR
+   44 citations · General CDR
 
 4. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   38 citations · General CDR
+   39 citations · General CDR
 
 5. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    38 citations · General CDR

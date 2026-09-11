@@ -1,7 +1,7 @@
 ---
 title: "Xianyu Yao"
-description: "Xianyu Yao is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.754350
+description: "Xianyu Yao is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.689974
 url: "/cdr-researcher-census/researchers/xianyu-yao-a5085361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 296 |
-| Publications | 34 |
-| CDR Focus | 14.7% |
+| h-index | 11 |
+| Citations | 314 |
+| Publications | 37 |
+| CDR Focus | 13.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

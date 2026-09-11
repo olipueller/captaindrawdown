@@ -1,7 +1,7 @@
 ---
 title: "Kai Song"
 description: "Kai Song is a Mid-career Biochar researcher at Xihua University in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.752042
+date: 2026-09-11T02:38:29.714385
 url: "/cdr-researcher-census/researchers/kai-song-a5101397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 297 |
+| Citations | 301 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced removal of tetracycline using three-dimensional electrochemical system with Fe/N/S co-doped coffee grounds biochar particle electrodes: Performance and mechanism** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

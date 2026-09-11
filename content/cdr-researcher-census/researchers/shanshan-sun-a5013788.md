@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Sun"
-description: "Shanshan Sun is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.496282
+description: "Shanshan Sun is a Senior Soil Carbon researcher at Qiqihar Medical University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.446782
 url: "/cdr-researcher-census/researchers/shanshan-sun-a5013788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shanshan-sun-a5013788/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanghai Jiao Tong University"
+    "name": "Qiqihar Medical University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4190-8897",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shanshan Sun**  
-Shanghai Jiao Tong University · 🇨🇳 CN
+Qiqihar Medical University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 521 |
-| Publications | 25 |
-| CDR Focus | 8.0% |
+| Citations | 535 |
+| Publications | 26 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tracing the electron transfer behavior driven by hydrophyte-derived carbon materials empowered autotrophic denitrification in iron-based constructed wetlands: Efficacy and enhancement mechanism** (2025)
-   62 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Synergistic Nitrogen and Phosphorus Elimination via Iron–Carbon Micro-Electrolysis in Constructed Wetlands Treating Low-Pollution Water** (2025)
    3 citations · Biochar

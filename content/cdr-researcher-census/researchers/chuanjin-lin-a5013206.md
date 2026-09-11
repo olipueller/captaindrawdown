@@ -1,7 +1,7 @@
 ---
 title: "Chuanjin Lin"
 description: "Chuanjin Lin is a Mid-career Soil Carbon researcher at Tongji University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.855382
+date: 2026-09-11T02:38:29.793473
 url: "/cdr-researcher-census/researchers/chuanjin-lin-a5013206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 244 |
+| Citations | 262 |
 | Publications | 23 |
 | CDR Focus | 8.7% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microscopic mechanism of organic carbon sequestration and redox properties influenced by iron (Oxyhydr)oxides** (2025)
-   23 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Effect of low-crystallinity Fe (Oxyhydr)oxides on dissolved organic matter-mediated Cr(VI) reductive immobilization and concurrent carbon sequestration** (2026)
    0 citations · Soil Carbon

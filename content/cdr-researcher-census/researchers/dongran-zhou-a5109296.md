@@ -1,7 +1,7 @@
 ---
 title: "Dongran Zhou"
-description: "Dongran Zhou is a Senior Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.982965
+description: "Dongran Zhou is a Senior Soil Carbon researcher at Guizhou University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.918581
 url: "/cdr-researcher-census/researchers/dongran-zhou-a5109296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 202 |
-| Publications | 15 |
-| CDR Focus | 20.0% |
+| h-index | 9 |
+| Citations | 210 |
+| Publications | 16 |
+| CDR Focus | 18.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

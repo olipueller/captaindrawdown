@@ -1,7 +1,7 @@
 ---
 title: "Verónica Benavente"
 description: "Verónica Benavente is a Mid-career Biochar researcher at RISE Processum AB in SE. With 20 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.271026
+date: 2026-09-11T02:38:29.220216
 url: "/cdr-researcher-census/researchers/veronica-benavente-a5020402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,142 |
+| Citations | 1,163 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Comparative characterisation and phytotoxicity assessment of biochar and hydrochar derived from municipal wastewater microalgae biomass** (2023)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Synergistic valorisation of wastewater microalgae: Sulphuric acid-assisted phosphorus recovery and enhanced electrochemical performance of biochar for supercapacitors** (2024)
-   24 citations · Biochar
+   25 citations · Biochar
 
 3. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
    2 citations · Biochar

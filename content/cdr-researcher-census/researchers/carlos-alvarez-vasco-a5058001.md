@@ -1,7 +1,7 @@
 ---
 title: "Carlos Álvarez-Vasco"
 description: "Carlos Álvarez-Vasco is a Mid-career BECCS researcher at Icesi University in CO. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.296431
+date: 2026-09-11T02:38:29.243624
 url: "/cdr-researcher-census/researchers/carlos-alvarez-vasco-a5058001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,009 |
+| Citations | 1,044 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Exiting |

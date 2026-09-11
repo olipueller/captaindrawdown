@@ -1,7 +1,7 @@
 ---
 title: "Johannes Haus"
-description: "Johannes Haus is a Senior BECCS researcher at BASF (Germany) in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.917225
+description: "Johannes Haus is a Senior BECCS researcher at BASF (Germany) in DE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.887253
 url: "/cdr-researcher-census/researchers/johannes-haus-a5051405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 219 |
+| h-index | 10 |
+| Citations | 222 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **High Volatile Conversion in a Chemical Looping Combustion System with Three Different Biomasses** (2022)
-   4 citations · BECCS
+   5 citations · BECCS
 
 ## External Profiles
 

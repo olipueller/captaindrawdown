@@ -1,7 +1,7 @@
 ---
 title: "Tom C. Kaspar"
-description: "Tom C. Kaspar is a Senior BECCS researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.711465
+description: "Tom C. Kaspar is a Senior BECCS researcher at National Laboratory for Agriculture and the Environment in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.675910
 url: "/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 |--------|-------|
 | h-index | 7 |
 | Citations | 322 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

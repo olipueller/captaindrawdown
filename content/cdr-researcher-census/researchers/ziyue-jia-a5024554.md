@@ -1,7 +1,7 @@
 ---
 title: "Ziyue Jia"
-description: "Ziyue Jia is a Mid-career BECCS researcher at Beijing Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.601385
+description: "Ziyue Jia is a Mid-career BECCS researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.548386
 url: "/cdr-researcher-census/researchers/ziyue-jia-a5024554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Ziyue Jia",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ziyue-jia-a5024554/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Beijing Jiaotong University"
-  },
   "sameAs": "https://openalex.org/A5024554262"
 }
 </script>
 
 ## Profile
 
-**Ziyue Jia**  
-Beijing Jiaotong University · 🇨🇳 CN
+**Ziyue Jia**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 405 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 420 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

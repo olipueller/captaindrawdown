@@ -1,7 +1,7 @@
 ---
 title: "Arka Rudra"
 description: "Arka Rudra is a Mid-career Biochar researcher at Aarhus University in DK. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.346511
+date: 2026-09-11T02:38:29.290731
 url: "/cdr-researcher-census/researchers/arka-rudra-a5091328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,26 +43,29 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 826 |
+| Citations | 867 |
 | Publications | 66 |
-| CDR Focus | 7.6% |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Assessing biochar's permanence: An inertinite benchmark** (2023)
-   75 citations · Biochar
+   77 citations · Biochar
 
 2. **Pyrolysis of macroalgae: Insight into product yields and biochar morphology and stability** (2024)
    21 citations · Biochar
 
 3. **micro-Raman indicates biochar has similar stability and structural features as natural fusinite and semifusinite** (2025)
-   19 citations · Biochar
+   20 citations · Biochar
 
 4. **Assessing Biochar's Permanence: An Inertinite Benchmark** (2023)
    5 citations · Biochar
 
-5. **Quantifying Inertinite Carbon in Biochar** (2025)
+5. **The hydrogen puzzle in rock-enhanced biochar: Pyrogenic coating, mineral redox and pore accessibility** (2026)
+   0 citations · Biochar
+
+6. **Quantifying Inertinite Carbon in Biochar** (2025)
    0 citations · Biochar
 
 ## External Profiles

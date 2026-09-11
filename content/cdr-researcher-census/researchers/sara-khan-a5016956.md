@@ -1,7 +1,7 @@
 ---
 title: "Sara Khan"
 description: "Sara Khan is a Mid-career BECCS researcher at Western University in CA. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.985237
+date: 2026-09-11T02:38:29.873716
 url: "/cdr-researcher-census/researchers/sara-khan-a5016956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 201 |
+| Citations | 227 |
 | Publications | 7 |
 | CDR Focus | 14.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Comparative techno-environmental analysis of grey, blue, green/yellow and pale-blue hydrogen production** (2025)
-   90 citations · BECCS
+   93 citations · BECCS
 
 ## External Profiles
 

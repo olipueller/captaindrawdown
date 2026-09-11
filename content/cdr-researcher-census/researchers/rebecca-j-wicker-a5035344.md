@@ -1,7 +1,7 @@
 ---
 title: "Rebecca J. Wicker"
 description: "Rebecca J. Wicker is a Senior BECCS researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.360007
+date: 2026-09-11T02:38:29.306078
 url: "/cdr-researcher-census/researchers/rebecca-j-wicker-a5035344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 787 |
+| Citations | 816 |
 | Publications | 9 |
 | CDR Focus | 22.2% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Arne Poyda"
-description: "Arne Poyda is a Mid-career Soil Carbon researcher at Ministry of the Environment in JP. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.336542
+description: "Arne Poyda is a Mid-career Soil Carbon researcher at Ministry of the Environment in JP. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.281221
 url: "/cdr-researcher-census/researchers/arne-poyda-a5019124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 856 |
-| Publications | 50 |
-| CDR Focus | 10.0% |
+| Citations | 895 |
+| Publications | 54 |
+| CDR Focus | 9.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 3. **Incorporating leys in arable systems as a mitigation strategy to reduce soil organic carbon losses during land-use change** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Assessing the effects of no-till on SOC dynamics throughout the soil profile after grassland renovation and conversion to silage maize** (2022)
    2 citations · Soil Carbon

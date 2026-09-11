@@ -1,7 +1,7 @@
 ---
 title: "Steven L. Dowhower"
-description: "Steven L. Dowhower is a Senior Soil Carbon researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.969874
+description: "Steven L. Dowhower is a Senior Soil Carbon researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.942845
 url: "/cdr-researcher-census/researchers/steven-l-dowhower-a5112813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -35,15 +35,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 207 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 208 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Evaluating the impacts of alternative grazing management practices on soil carbon sequestration and soil health indicators** (2022)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

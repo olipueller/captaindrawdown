@@ -1,7 +1,7 @@
 ---
 title: "Wenping Yin"
-description: "Wenping Yin is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.383291
+description: "Wenping Yin is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.270243
 url: "/cdr-researcher-census/researchers/wenping-yin-a5078933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 107 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| h-index | 6 |
+| Citations | 124 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Drivers and regional heterogeneity of cropland net ecosystem productivity across China’s three major plains** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

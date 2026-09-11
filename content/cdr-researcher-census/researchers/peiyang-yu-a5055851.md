@@ -1,7 +1,7 @@
 ---
 title: "Peiyang Yu"
 description: "Peiyang Yu is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.774038
+date: 2026-09-11T02:38:29.727005
 url: "/cdr-researcher-census/researchers/peiyang-yu-a5055851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 286 |
+| Citations | 295 |
 | Publications | 8 |
 | CDR Focus | 25.0% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regulation of biophysical drivers on carbon and water fluxes over a warm-temperate plantation in northern China** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Carbon exchange of forest plantations: global patterns and biophysical drivers** (2023)
    13 citations · General CDR

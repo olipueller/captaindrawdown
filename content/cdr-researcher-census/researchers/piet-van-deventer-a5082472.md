@@ -1,7 +1,7 @@
 ---
 title: "Piet van Deventer"
-description: "Piet van Deventer is a Senior Soil Carbon researcher at North-West University in ZA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.895818
+description: "Piet van Deventer is a Senior Soil Carbon researcher at North-West University in ZA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.848497
 url: "/cdr-researcher-census/researchers/piet-van-deventer-a5082472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 228 |
+| h-index | 6 |
+| Citations | 237 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Exiting |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   116 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 ## External Profiles
 

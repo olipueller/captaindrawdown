@@ -1,7 +1,7 @@
 ---
 title: "Yingya Wang"
-description: "Yingya Wang is a Mid-career Biochar researcher at Zhejiang Wanli University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.972003
+description: "Yingya Wang is a Mid-career Biochar researcher at Zhejiang Wanli University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.911350
 url: "/cdr-researcher-census/researchers/yingya-wang-a5064528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 206 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 213 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

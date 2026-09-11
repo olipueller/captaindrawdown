@@ -1,7 +1,7 @@
 ---
 title: "Hassna Founoune-Mboup"
-description: "Hassna Founoune-Mboup is a Senior Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662635
+description: "Hassna Founoune-Mboup is a Senior Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.605145
 url: "/cdr-researcher-census/researchers/hassna-founoune-mboup-a5042698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 357 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 374 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   261 citations · Soil Carbon
+   264 citations · Soil Carbon
 
 ## External Profiles
 

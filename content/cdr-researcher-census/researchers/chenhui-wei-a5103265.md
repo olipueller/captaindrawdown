@@ -1,7 +1,7 @@
 ---
 title: "Chenhui Wei"
 description: "Chenhui Wei is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.788684
+date: 2026-09-11T02:38:29.740553
 url: "/cdr-researcher-census/researchers/chenhui-wei-a5103265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 279 |
+| Citations | 288 |
 | Publications | 16 |
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Performance of multiscale landscape metrics as indicators of soil C, N, P, and physicochemical properties of NFV in ML reaches of Yellow River Basin, China** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

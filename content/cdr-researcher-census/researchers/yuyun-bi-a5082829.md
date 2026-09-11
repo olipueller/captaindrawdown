@@ -1,7 +1,7 @@
 ---
 title: "Yuyun Bi"
 description: "Yuyun Bi is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.443996
+date: 2026-09-11T02:38:29.398559
 url: "/cdr-researcher-census/researchers/yuyun-bi-a5082829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 14 |
-| Citations | 603 |
+| Citations | 611 |
 | Publications | 27 |
 | CDR Focus | 7.4% |
 | Trajectory | Growing |

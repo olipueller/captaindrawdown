@@ -1,7 +1,7 @@
 ---
 title: "Jessica Reyes Rojas"
 description: "Jessica Reyes Rojas is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.218545
+date: 2026-09-11T02:38:30.154910
 url: "/cdr-researcher-census/researchers/jessica-reyes-rojas-a5014653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 138 |
+| Citations | 147 |
 | Publications | 19 |
 | CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Local diversity of soil forming processes in the semi-arid tropics and its environmental drivers: An example from Otavi Mountains, northern Namibia** (2024)
+1. **Review of Soil Threats and Soil‐Related Ecosystem Services European Maps: Can We Use Them to Study Their Relationships?** (2025)
    5 citations · Soil Carbon
 
-2. **Review of Soil Threats and Soil‐Related Ecosystem Services European Maps: Can We Use Them to Study Their Relationships?** (2025)
-   4 citations · Soil Carbon
+2. **Local diversity of soil forming processes in the semi-arid tropics and its environmental drivers: An example from Otavi Mountains, northern Namibia** (2024)
+   5 citations · Soil Carbon
 
 ## External Profiles
 

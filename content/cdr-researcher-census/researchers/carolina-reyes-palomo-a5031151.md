@@ -1,7 +1,7 @@
 ---
 title: "Carolina Reyes-Palomo"
-description: "Carolina Reyes-Palomo is a Mid-career General CDR researcher at University of Córdoba in ES. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.571465
+description: "Carolina Reyes-Palomo is a Mid-career General CDR researcher at Universidad Católica de Córdoba in AR. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.508131
 url: "/cdr-researcher-census/researchers/carolina-reyes-palomo-a5031151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/carolina-reyes-palomo-a5031151/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of C\u00f3rdoba"
+    "name": "Universidad Cat\u00f3lica de C\u00f3rdoba"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0907-7448",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Carolina Reyes-Palomo**  
-University of Córdoba · 🇪🇸 ES
+Universidad Católica de Córdoba ·  AR
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 435 |
-| Publications | 31 |
-| CDR Focus | 6.5% |
+| Citations | 460 |
+| Publications | 33 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration offsets a large share of GHG emissions in dehesa cattle production** (2022)
-   47 citations · General CDR
+   48 citations · General CDR
 
 2. **Free-range acorn feeding results in negative carbon footprint of Iberian pig production in the dehesa agro-forestry system** (2023)
-   23 citations
+   24 citations
 
 3. **Management of sheep and goats for a negative carbon footprint in extensive production systems** (2025)
    0 citations · General CDR

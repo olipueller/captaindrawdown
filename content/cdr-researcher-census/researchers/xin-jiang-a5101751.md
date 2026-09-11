@@ -1,7 +1,7 @@
 ---
 title: "Xin Jiang"
 description: "Xin Jiang is a Senior Soil Carbon researcher at Chongqing Technology and Business University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.769024
+date: 2026-09-11T02:38:29.711659
 url: "/cdr-researcher-census/researchers/xin-jiang-a5101751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 289 |
+| Citations | 303 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Control of soil organic carbon under karst landforms: A case study of Guizhou Province, in southwest China** (2022)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Effects of land use type on soil organic carbon in different soil types** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Christiana P. Huss"
 description: "Christiana P. Huss is an Early-career Soil Carbon researcher at University of Georgia in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.845324
+date: 2026-09-11T02:38:29.791348
 url: "/cdr-researcher-census/researchers/christiana-p-huss-a5091859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 249 |
+| Citations | 263 |
 | Publications | 4 |
 | CDR Focus | 25.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Benefits and Risks of Intercropping for Crop Resilience and Pest Management** (2022)
-   251 citations · Soil Carbon
+   258 citations · Soil Carbon
 
 ## External Profiles
 

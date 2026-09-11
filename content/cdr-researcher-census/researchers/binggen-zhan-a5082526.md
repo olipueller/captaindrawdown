@@ -1,7 +1,7 @@
 ---
 title: "Binggen Zhan"
-description: "Binggen Zhan is a Senior Biochar researcher at Hefei University of Technology in CN. With 93 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.284610
+description: "Binggen Zhan is a Senior Biochar researcher at Hefei University of Technology in CN. With 95 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.216856
 url: "/cdr-researcher-census/researchers/binggen-zhan-a5082526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,25 +39,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 18 |
-| Citations | 1,068 |
-| Publications | 93 |
-| CDR Focus | 7.5% |
-| Trajectory | Stable |
+| h-index | 20 |
+| Citations | 1,185 |
+| Publications | 95 |
+| CDR Focus | 6.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   61 citations · Biochar
+   66 citations · Biochar
 
 2. **Investigation of the properties and sustainability of modified biochar-doped cement-based composite** (2024)
-   52 citations · Biochar
+   56 citations · Biochar
 
 3. **Utilization of biochar to enhance the sustainability of accelerated carbonation-cured cement-based materials: Effect of biochar dual-particle-size gradation on mechanical properties and carbon sequestration** (2025)
    16 citations · Biochar
 
 4. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 5. **Investigation of the CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior of alkali-modified biochar components in cement composites** (2025)
    5 citations · Biochar

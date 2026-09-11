@@ -1,7 +1,7 @@
 ---
 title: "Dexin Wu"
-description: "Dexin Wu is a Mid-career Biochar researcher at Hangzhou Dianzi University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.982753
+description: "Dexin Wu is a Mid-career Biochar researcher at Hangzhou Dianzi University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.950506
 url: "/cdr-researcher-census/researchers/dexin-wu-a5042575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 3 |
-| Citations | 202 |
+| h-index | 4 |
+| Citations | 205 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
-   1 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

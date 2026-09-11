@@ -1,7 +1,7 @@
 ---
 title: "Jess Sustarich"
 description: "Jess Sustarich is a Mid-career BECCS researcher at Sandia National Laboratories California in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.651815
+date: 2026-09-11T02:38:29.605453
 url: "/cdr-researcher-census/researchers/jess-sustarich-a5064016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 364 |
+| Citations | 373 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

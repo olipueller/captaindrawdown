@@ -1,7 +1,7 @@
 ---
 title: "Phung-Ngoc-Thao Ho"
-description: "Phung-Ngoc-Thao Ho is an Early-career Ocean CDR researcher at National Kaohsiung University of Science and Technology. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.340286
+description: "Phung-Ngoc-Thao Ho is an Early-career Ocean CDR researcher at National Kaohsiung University of Science and Technology in TW. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.313164
 url: "/cdr-researcher-census/researchers/phung-ngoc-thao-ho-a5110959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Phung-Ngoc-Thao Ho**  
-National Kaohsiung University of Science and Technology
+National Kaohsiung University of Science and Technology · 🇹🇼 TW
 
 **Career Stage:** Early-career
 
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 114 |
+| Citations | 115 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |

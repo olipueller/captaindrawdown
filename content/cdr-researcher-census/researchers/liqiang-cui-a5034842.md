@@ -1,7 +1,7 @@
 ---
 title: "Liqiang Cui"
-description: "Liqiang Cui is a Mid-career Biochar researcher at Spinal Research in GB. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.400007
+description: "Liqiang Cui is a Mid-career Biochar researcher at Mianyang Central Hospital in CN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.349726
 url: "/cdr-researcher-census/researchers/liqiang-cui-a5034842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/liqiang-cui-a5034842/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Spinal Research"
+    "name": "Mianyang Central Hospital"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3601-7264",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Liqiang Cui**  
-Spinal Research · 🇬🇧 GB
+Mianyang Central Hospital · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 690 |
-| Publications | 44 |
-| CDR Focus | 6.8% |
+| Citations | 709 |
+| Publications | 45 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

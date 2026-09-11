@@ -1,7 +1,7 @@
 ---
 title: "Sandy Wilmot"
-description: "Sandy Wilmot is an Early-career Soil Carbon researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.188163
+description: "Sandy Wilmot is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.151759
 url: "/cdr-researcher-census/researchers/sandy-wilmot-a5029517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,7 +22,7 @@ robots: "index, follow"
 
 **Sandy Wilmot**
 
-**Career Stage:** Early-career
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -35,10 +35,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 145 |
+| Citations | 148 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
-| Trajectory | Unknown |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

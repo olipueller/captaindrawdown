@@ -1,7 +1,7 @@
 ---
 title: "Liqun Cai"
-description: "Liqun Cai is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 105 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.204999
+description: "Liqun Cai is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 110 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.153283
 url: "/cdr-researcher-census/researchers/liqun-cai-a5110749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 21 |
-| Citations | 1,615 |
-| Publications | 105 |
-| CDR Focus | 8.6% |
+| h-index | 22 |
+| Citations | 1,672 |
+| Publications | 110 |
+| CDR Focus | 8.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    192 citations · Biochar
 
 2. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Effects of Different Straw Incorporation Amounts on Soil Organic Carbon, Microbial Biomass, and Enzyme Activities in Dry-Crop Farmland** (2024)
    25 citations · Soil Carbon
 
 4. **Effects of Biochar on the Soil Carbon Cycle in Agroecosystems: An Promising Way to Increase the Carbon Pool in Dryland** (2021)
-   15 citations · Biochar
+   17 citations · Biochar
 
 5. **Effect of different biochar application rates on soil organic carbon in the semi-arid Loess Plateau, China** (2021)
    8 citations · Biochar
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Responses of Soil Aggregate Stability and SOC to Different Tillage Modes and Straw Input Level** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 8. **Soil organic carbon (SOC) and soil aggregate stability as effected by returned farmland to forestland or grassland in the Loess Plateau Centre Gansu region of China** (2024)
    0 citations · Soil Carbon

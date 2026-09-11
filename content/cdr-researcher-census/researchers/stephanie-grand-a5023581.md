@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Grand"
 description: "Stéphanie Grand is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.149574
+date: 2026-09-11T02:38:29.096653
 url: "/cdr-researcher-census/researchers/stephanie-grand-a5023581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 18 |
-| Citations | 2,486 |
+| Citations | 2,607 |
 | Publications | 54 |
 | CDR Focus | 16.7% |
 | Trajectory | Stable |
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential accumulation of toxic trace elements in soils during enhanced rock weathering** (2023)
-   88 citations · Enhanced Weathering
+   91 citations · Enhanced Weathering
 
 2. **Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
-3. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
-   6 citations · Enhanced Weathering
+3. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
+   7 citations · Enhanced Weathering
 
-4. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
-   4 citations · Enhanced Weathering
+4. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
+   7 citations · Enhanced Weathering
 
 5. **Basaltic rock powder addition increases soil macrofauna but shows limited impact on microbial communities: insights from a temperate field trial** (2026)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Tobi Moriaque Akplo"
-description: "Tobi Moriaque Akplo is a Mid-career Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.021896
+description: "Tobi Moriaque Akplo is a Mid-career Soil Carbon researcher at Ministère de l’Environnement et du Développement Durable in SN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.952539
 url: "/cdr-researcher-census/researchers/tobi-moriaque-akplo-a5088787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tobi-moriaque-akplo-a5088787/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institut S\u00e9n\u00e9galais de Recherches Agricoles"
+    "name": "Minist\u00e8re de l\u2019Environnement et du D\u00e9veloppement Durable"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5668-7855",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tobi Moriaque Akplo**  
-Institut Sénégalais de Recherches Agricoles ·  SN
+Ministère de l’Environnement et du Développement Durable ·  SN
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 190 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Citations | 204 |
+| Publications | 31 |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

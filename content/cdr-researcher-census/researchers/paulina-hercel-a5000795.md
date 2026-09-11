@@ -1,7 +1,7 @@
 ---
 title: "Paulina Hercel"
 description: "Paulina Hercel is a Mid-career Biochar researcher at Institute of Fluid Flow-Machinery in PL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.075345
+date: 2026-09-11T02:38:30.018743
 url: "/cdr-researcher-census/researchers/paulina-hercel-a5000795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 174 |
+| Citations | 184 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conversion of waste biomass to designed and tailored activated chars with valuable properties for adsorption and electrochemical applications** (2023)
-   25 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

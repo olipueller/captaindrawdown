@@ -1,7 +1,7 @@
 ---
 title: "Minghui Pan"
-description: "Minghui Pan is a Mid-career BECCS researcher at Zhejiang University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.605441
+description: "Minghui Pan is a Mid-career BECCS researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.546506
 url: "/cdr-researcher-census/researchers/minghui-pan-a5054373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Minghui Pan",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/minghui-pan-a5054373/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Zhejiang University"
-  },
   "sameAs": "https://openalex.org/A5054373571"
 }
 </script>
 
 ## Profile
 
-**Minghui Pan**  
-Zhejiang University · 🇨🇳 CN
+**Minghui Pan**
 
 **Career Stage:** Mid-career
 
@@ -40,9 +35,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 402 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 422 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

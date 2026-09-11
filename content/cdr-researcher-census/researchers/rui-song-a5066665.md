@@ -1,7 +1,7 @@
 ---
 title: "Rui Song"
-description: "Rui Song is a Mid-career General CDR researcher at Central South University of Forestry and Technology in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.326447
+description: "Rui Song is a Mid-career General CDR researcher at Central South University of Forestry and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.283441
 url: "/cdr-researcher-census/researchers/rui-song-a5066665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 117 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 121 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

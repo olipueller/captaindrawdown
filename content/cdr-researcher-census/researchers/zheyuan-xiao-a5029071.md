@@ -1,7 +1,7 @@
 ---
 title: "Zheyuan Xiao"
-description: "Zheyuan Xiao is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.138599
+description: "Zheyuan Xiao is a Mid-career Soil Carbon researcher at The University of Texas at Austin in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.076094
 url: "/cdr-researcher-census/researchers/zheyuan-xiao-a5029071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Zheyuan Xiao",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zheyuan-xiao-a5029071/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The University of Texas at Austin"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-0776-4508",
     "https://openalex.org/A5029071726"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Zheyuan Xiao**
+**Zheyuan Xiao**  
+The University of Texas at Austin · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 157 |
+| Citations | 168 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Exiting |
@@ -46,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Nano-Bubble Irrigation on the Yield and Greenhouse Gas Warming Potential of Greenhouse Tomatoes** (2023)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

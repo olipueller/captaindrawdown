@@ -1,7 +1,7 @@
 ---
 title: "Neal Stolpe"
 description: "Neal Stolpe is a Senior Soil Carbon researcher at University of Concepción in CL. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.450768
+date: 2026-09-11T02:38:29.406841
 url: "/cdr-researcher-census/researchers/neal-stolpe-a5074269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 591 |
+| Citations | 597 |
 | Publications | 50 |
 | CDR Focus | 8.0% |
 | Trajectory | Declining |

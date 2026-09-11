@@ -1,7 +1,7 @@
 ---
 title: "Jichao Tang"
 description: "Jichao Tang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.012266
+date: 2026-09-11T02:38:29.947852
 url: "/cdr-researcher-census/researchers/jichao-tang-a5060268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 193 |
+| Citations | 206 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Current status of carbon neutrality in Chinese rice fields (2002–2017) and strategies for its achievement** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

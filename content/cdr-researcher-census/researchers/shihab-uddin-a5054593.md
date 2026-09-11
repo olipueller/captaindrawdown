@@ -1,7 +1,7 @@
 ---
 title: "Shihab Uddin"
-description: "Shihab Uddin is a Mid-career Biochar researcher at Bangladesh Agricultural University in BD. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.562051
+description: "Shihab Uddin is a Mid-career Biochar researcher at Bangladesh Agricultural University in BD. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.503049
 url: "/cdr-researcher-census/researchers/shihab-uddin-a5054593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 444 |
-| Publications | 36 |
-| CDR Focus | 5.6% |
+| h-index | 16 |
+| Citations | 465 |
+| Publications | 37 |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

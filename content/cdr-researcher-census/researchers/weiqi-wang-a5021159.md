@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Wang"
-description: "Weiqi Wang is an Eminent Soil Carbon researcher at Fujian Normal University in CN. With 182 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.081653
+description: "Weiqi Wang is an Eminent Soil Carbon researcher at Fujian Normal University in CN. With 184 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.033270
 url: "/cdr-researcher-census/researchers/weiqi-wang-a5021159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,43 +42,43 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 43 |
-| Citations | 7,394 |
-| Publications | 182 |
-| CDR Focus | 17.6% |
+| h-index | 44 |
+| Citations | 7,606 |
+| Publications | 184 |
+| CDR Focus | 17.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   157 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
    137 citations · Soil Carbon
 
 3. **Soil carbon sequestration by agroforestry systems in China: A meta-analysis** (2021)
-   87 citations · General CDR
+   88 citations · General CDR
 
 4. **Effects of nitrogen-enriched biochar on rice growth and yield, iron dynamics, and soil carbon storage and emissions: A tool to improve sustainable rice cultivation** (2021)
-   70 citations · Biochar
+   72 citations · Biochar
 
 5. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
-6. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+6. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
    57 citations · Soil Carbon
 
-7. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   56 citations · Soil Carbon
+7. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
+   57 citations · Soil Carbon
 
 8. **Archaea and their interactions with bacteria in a karst ecosystem** (2023)
    46 citations
 
 9. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
-   45 citations · Biochar
+   46 citations · Biochar
 
-10. **Combined slag and biochar amendments to subtropical paddy soils lead to a short-term change of bacteria community structure and rise of soil organic carbon** (2022)
-   32 citations · Biochar
+10. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
+   33 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Huajie Diao"
-description: "Huajie Diao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.747331
+description: "Huajie Diao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.693210
 url: "/cdr-researcher-census/researchers/huajie-diao-a5056396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 300 |
-| Publications | 35 |
-| CDR Focus | 5.7% |
+| Citations | 312 |
+| Publications | 34 |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Extreme Wetness Reduces Soil Microbial Residue Carbon More Substantially Than Extreme Drought Across Grassland Ecosystems** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Factors controlling the contributions of bacterial and fungal residue carbon to soil organic carbon in grassland ecosystems** (2024)
    11 citations · Soil Carbon
 
 3. **Interactive effects of nitrogen addition and drought on soil microbial carbon use efficiency in saline–alkaline grasslands of northern China** (2025)
-   7 citations
+   8 citations
 
 ## External Profiles
 

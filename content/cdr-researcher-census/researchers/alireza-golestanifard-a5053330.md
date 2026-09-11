@@ -1,7 +1,7 @@
 ---
 title: "Alireza Golestanifard"
 description: "Alireza Golestanifard is a Mid-career Soil Carbon researcher at BOKU University in AT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.222354
+date: 2026-09-11T02:38:30.163380
 url: "/cdr-researcher-census/researchers/alireza-golestanifard-a5053330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 137 |
+| Citations | 145 |
 | Publications | 14 |
 | CDR Focus | 14.3% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **Carbon sequestration potential and fractionation in soils after conversion of cultivated land to hedgerows** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chihiro Haga"
 description: "Chihiro Haga is a Mid-career Soil Carbon researcher at Osaka University in JP. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.483785
+date: 2026-09-11T02:38:29.432668
 url: "/cdr-researcher-census/researchers/chihiro-haga-a5010695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 538 |
+| Citations | 558 |
 | Publications | 40 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Anne Boehm"
-description: "Anne Boehm is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.355749
+description: "Anne Boehm is a Mid-career Soil Carbon researcher at Leibniz Institute for Solid State and Materials Research in DE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.316725
 url: "/cdr-researcher-census/researchers/anne-boehm-a5048153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Anne Boehm",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/anne-boehm-a5048153/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Leibniz Institute for Solid State and Materials Research"
+  },
   "sameAs": "https://openalex.org/A5048153023"
 }
 </script>
 
 ## Profile
 
-**Anne Boehm**
+**Anne Boehm**  
+Leibniz Institute for Solid State and Materials Research · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 112 |
+| Citations | 115 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Stable |

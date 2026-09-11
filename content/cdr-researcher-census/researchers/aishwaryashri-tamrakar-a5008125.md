@@ -1,7 +1,7 @@
 ---
 title: "Aishwaryashri Tamrakar"
 description: "Aishwaryashri Tamrakar is a Mid-career General CDR researcher at Pandit Ravishankar Shukla University in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.168573
+date: 2026-09-11T02:38:30.089887
 url: "/cdr-researcher-census/researchers/aishwaryashri-tamrakar-a5008125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 149 |
+| Citations | 163 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

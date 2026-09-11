@@ -1,7 +1,7 @@
 ---
 title: "Fanlong Kong"
-description: "Fanlong Kong is a Senior Biochar researcher at Qingdao University in CN. With 95 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.140993
+description: "Fanlong Kong is a Senior Soil Carbon researcher at Qingdao University in CN. With 95 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.091045
 url: "/cdr-researcher-census/researchers/fanlong-kong-a5101777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,16 +34,16 @@ Qingdao University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 34 |
-| Citations | 2,736 |
+| Citations | 2,792 |
 | Publications | 95 |
 | CDR Focus | 6.3% |
 | Trajectory | Exiting |
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improvements in physicochemical and nutrient properties of sewage sludge biochar by the co-pyrolysis with organic additives** (2021)
-   53 citations · Biochar
+   54 citations · Biochar
 
 2. **Plant invasion reshapes the latitudinal pattern of soil microbial necromass and its contribution to soil organic carbon in coastal wetlands** (2022)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **In-situ removal of microcystin aeruginosa and microcystin-LR by biochar supported sulfide nZVI via persulfate activation: Performance, mechanism and degradation pathway** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 4. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
    7 citations · Soil Carbon
@@ -70,6 +70,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 7. **In-Situ Removal of Microcystin Aeruginosa and Microcystin-Lr by Biochar Supported Sulfide Nzvi Via Persulfate Activation: Performance, Mechanism and Degradation Pathway** (2024)
    0 citations · Biochar
+
+8. **Plant Invasion Threatens Coastal Blue Carbon Sequestration** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jin Hua Li"
-description: "Jin Hua Li is a Senior Soil Carbon researcher at Lanzhou University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.499161
+description: "Jin Hua Li is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.449630
 url: "/cdr-researcher-census/researchers/jin-hua-li-a5101729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jin-hua-li-a5101729/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Lanzhou University"
+    "name": "Gansu Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3338-2925",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jin Hua Li**  
-Lanzhou University · 🇨🇳 CN
+Gansu Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 515 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
-| Trajectory | Stable |
+| h-index | 12 |
+| Citations | 532 |
+| Publications | 19 |
+| CDR Focus | 15.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of nitrogen and phosphorus fertilization on soil organic matter priming and net carbon balance in alpine meadows** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Planting of nitrogen-fixing shrubs promote soil carbon sequestration by increasing mineral-associated organic fraction** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Forestation enhances soil organic carbon sequestration with divergent coupling mechanisms along aridity gradients** (2026)
    0 citations · Soil Carbon

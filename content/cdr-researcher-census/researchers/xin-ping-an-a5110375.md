@@ -1,7 +1,7 @@
 ---
 title: "Xin-Ping An"
-description: "Xin-Ping An is a Senior Soil Carbon researcher at Universiti Putra Malaysia in MY. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.311365
+description: "Xin-Ping An is a Senior Soil Carbon researcher at Universiti Putra Malaysia in MY. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.257617
 url: "/cdr-researcher-census/researchers/xin-ping-an-a5110375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 120 |
+| h-index | 5 |
+| Citations | 126 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

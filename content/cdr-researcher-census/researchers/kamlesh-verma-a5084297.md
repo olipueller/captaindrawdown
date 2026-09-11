@@ -1,7 +1,7 @@
 ---
 title: "Kamlesh Verma"
-description: "Kamlesh Verma is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.477038
+description: "Kamlesh Verma is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.417721
 url: "/cdr-researcher-census/researchers/kamlesh-verma-a5084297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 550 |
-| Publications | 54 |
-| CDR Focus | 9.3% |
+| Citations | 581 |
+| Publications | 53 |
+| CDR Focus | 9.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Climate Resilient Agroforestry Systems for Sustainable Land Use and Livelihood** (2024)
-   38 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
    11 citations · General CDR
 
 3. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
-   6 citations · General CDR
+   7 citations · General CDR
 
 4. **Assessing the soil organic carbon stability and greenhouse gases mitigation in rice-wheat system: Seventeen-years assessment of tillage and residue management** (2025)
    5 citations · Soil Carbon

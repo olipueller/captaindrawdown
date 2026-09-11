@@ -1,7 +1,7 @@
 ---
 title: "Yeray Santana‐Falcón"
-description: "Yeray Santana‐Falcón is a Mid-career General CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.203063
+description: "Yeray Santana‐Falcón is a Mid-career General CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.151425
 url: "/cdr-researcher-census/researchers/yeray-santanafalcon-a5004922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 11 |
-| Citations | 1,641 |
+| h-index | 12 |
+| Citations | 1,691 |
 | Publications | 45 |
 | CDR Focus | 8.9% |
 | Trajectory | Exiting |

@@ -1,7 +1,7 @@
 ---
 title: "Suman Dutta"
-description: "Suman Dutta is a Senior General CDR researcher at Ramakrishna Mission Vivekananda Educational and Research Institute in IN. With 118 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.300647
+description: "Suman Dutta is a Senior General CDR researcher at Ramakrishna Mission Vivekananda Educational and Research Institute in IN. With 119 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.221809
 url: "/cdr-researcher-census/researchers/suman-dutta-a5102895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,27 +42,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 988 |
-| Publications | 118 |
-| CDR Focus | 5.1% |
+| h-index | 18 |
+| Citations | 1,153 |
+| Publications | 119 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   25 citations · General CDR
+   31 citations · General CDR
 
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
-   20 citations · General CDR
+   22 citations · General CDR
 
 3. **Mangroves in the Anthropocene: A global synthesis of carbon storage, biodiversity, and coastal resilience under climate and anthropogenic stressors** (2026)
-   10 citations · General CDR
+   15 citations · General CDR
 
-4. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
-   1 citations · General CDR
+4. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
+   3 citations · General CDR
 
-5. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
+5. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
    1 citations · General CDR
 
 6. **Long-term organic and conventional management differentially regulate root–shoot biomass allocation and yield–quality trade-offs in mustard (Brassica juncea L.) genotypes** (2026)

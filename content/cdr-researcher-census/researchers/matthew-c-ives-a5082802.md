@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Ives"
-description: "Matthew C. Ives is a Senior General CDR researcher at University of Oxford  in GB. With 53 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.170839
+description: "Matthew C. Ives is a Senior General CDR researcher at University of Oxford  in GB. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.117999
 url: "/cdr-researcher-census/researchers/matthew-c-ives-a5082802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 20 |
-| Citations | 2,070 |
-| Publications | 53 |
-| CDR Focus | 5.7% |
+| Citations | 2,151 |
+| Publications | 52 |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Upstream decarbonization through a carbon takeback obligation: An affordable backstop climate policy** (2021)
-   58 citations · General CDR
+   59 citations · General CDR
 
 2. **Is there still a case for Carbon Takeback or Carbon Removal Obligations in a world of low renewable energy costs?** (2022)
    0 citations · General CDR

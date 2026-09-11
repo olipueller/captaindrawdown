@@ -1,7 +1,7 @@
 ---
 title: "Paul J. Morris"
-description: "Paul J. Morris is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.178554
+description: "Paul J. Morris is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.129713
 url: "/cdr-researcher-census/researchers/paul-j-morris-a5108189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 13 |
-| Citations | 1,946 |
+| h-index | 14 |
+| Citations | 1,965 |
 | Publications | 24 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **The case for ocean iron fertilization field trials** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Marine CDR science meets social science – organizing the next generation of ocean iron fertilization field studies** (2025)
    0 citations · General CDR

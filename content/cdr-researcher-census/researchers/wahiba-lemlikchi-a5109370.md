@@ -1,7 +1,7 @@
 ---
 title: "Wahiba Lemlikchi"
 description: "Wahiba Lemlikchi is a Mid-career Biochar researcher at University of Algiers Benyoucef Benkhedda in DZ. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.158801
+date: 2026-09-11T02:38:30.111026
 url: "/cdr-researcher-census/researchers/wahiba-lemlikchi-a5109370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 152 |
+| Citations | 158 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

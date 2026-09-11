@@ -1,7 +1,7 @@
 ---
 title: "Shivani Ranjan"
 description: "Shivani Ranjan is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.643841
+date: 2026-09-11T02:38:29.559555
 url: "/cdr-researcher-census/researchers/shivani-ranjan-a5067267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 13 |
-| Citations | 371 |
+| Citations | 410 |
 | Publications | 42 |
 | CDR Focus | 11.9% |
 | Trajectory | Declining |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of 36 years of integrated nutrient management on soil carbon sequestration, environmental footprint and agronomic productivity of wheat under rice-wheat cropping system** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 3. **Trash Amended with Trichoderma Effects on Cane Yield, Soil Carbon Dynamics, and Enzymatic Activities under Plant–Ratoon System of Sugarcane in Calcareous Soil** (2024)
    13 citations · Soil Carbon

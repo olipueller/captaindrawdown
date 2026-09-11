@@ -1,7 +1,7 @@
 ---
 title: "Achiraya Chaichaloempreecha"
-description: "Achiraya Chaichaloempreecha is a Mid-career General CDR researcher at Mahidol University in TH. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.967199
+description: "Achiraya Chaichaloempreecha is a Mid-career General CDR researcher at National Institute for Environmental Studies in JP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.903237
 url: "/cdr-researcher-census/researchers/achiraya-chaichaloempreecha-a5090720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/achiraya-chaichaloempreecha-a5090720/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Mahidol University"
+    "name": "National Institute for Environmental Studies"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2712-5981",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Achiraya Chaichaloempreecha**  
-Mahidol University · 🇹🇭 TH
+National Institute for Environmental Studies · 🇯🇵 JP
 
 **Career Stage:** Mid-career
 
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 208 |
-| Publications | 16 |
-| CDR Focus | 31.2% |
+| Citations | 216 |
+| Publications | 20 |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   26 citations · General CDR
+   27 citations · General CDR
 
 3. **Thailand’s mid-century greenhouse gas emission pathways to achieve the 2 degrees Celsius target** (2022)
    25 citations · General CDR

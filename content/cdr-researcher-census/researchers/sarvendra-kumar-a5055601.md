@@ -1,7 +1,7 @@
 ---
 title: "Sarvendra Kumar"
-description: "Sarvendra Kumar is a Senior Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.410636
+description: "Sarvendra Kumar is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 74 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.357380
 url: "/cdr-researcher-census/researchers/sarvendra-kumar-a5055601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sarvendra-kumar-a5055601/",
   "affiliation": {
     "@type": "Organization",
-    "name": "SRM Institute of Science and Technology"
+    "name": "Indian Agricultural Statistics Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4759-4611",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sarvendra Kumar**  
-SRM Institute of Science and Technology · 🇮🇳 IN
+Indian Agricultural Statistics Research Institute · 🇮🇳 IN
 
 **Career Stage:** Senior
 
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 666 |
-| Publications | 72 |
-| CDR Focus | 5.6% |
+| Citations | 694 |
+| Publications | 74 |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Restricting depletion of soil organic carbon by amending <scp>nutrient‐N</scp> input to soils** (2021)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Impact of Conservation Agriculture on Soil Carbon Sequestration under a Rice (Oryza sativa)-Wheat (Triticum aestivum)-Mungbean (Vigna radiata) Cropping System in the Indo-Gangetic Plains** (2024)
    2 citations · Soil Carbon

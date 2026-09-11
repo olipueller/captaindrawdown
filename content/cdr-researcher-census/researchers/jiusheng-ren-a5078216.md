@@ -1,7 +1,7 @@
 ---
 title: "Jiusheng Ren"
 description: "Jiusheng Ren is a Senior Soil Carbon researcher at East China University of Technology in CN. With 46 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.902233
+date: 2026-09-11T02:38:29.828111
 url: "/cdr-researcher-census/researchers/jiusheng-ren-a5078216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 225 |
+| Citations | 246 |
 | Publications | 46 |
 | CDR Focus | 6.5% |
 | Trajectory | Growing |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of nitrogen addition on soil organic carbon across ecosystems: Microbial roles and environmental regulation** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Elevated salinity decreases soil microbial CO2-fixation rates and alters carbon fixation pathway in wetlands of Songnen Plain** (2024)
    0 citations · Soil Carbon

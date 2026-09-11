@@ -1,7 +1,7 @@
 ---
 title: "Abibatou Ndiaye"
 description: "Abibatou Ndiaye is an Early-career Soil Carbon researcher at Cheikh Anta Diop University in SN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.752582
+date: 2026-09-11T02:38:29.703481
 url: "/cdr-researcher-census/researchers/abibatou-ndiaye-a5022689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 297 |
+| Citations | 307 |
 | Publications | 2 |
 | CDR Focus | 50.0% |
 | Trajectory | Stable |
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   261 citations · Soil Carbon
+   264 citations · Soil Carbon
 
 ## External Profiles
 

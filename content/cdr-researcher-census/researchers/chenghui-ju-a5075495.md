@@ -1,7 +1,7 @@
 ---
 title: "Chenghui Ju"
 description: "Chenghui Ju is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.358100
+date: 2026-09-11T02:38:29.300562
 url: "/cdr-researcher-census/researchers/chenghui-ju-a5075495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 793 |
+| Citations | 832 |
 | Publications | 20 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unveiling Pervasive Soil Microbial P Limitation in Terrestrial Ecosystems Worldwide** (2024)
-   20 citations
+   24 citations
 
 2. **Soil organic carbon regulation from chemistry in top- but microbial community in subsoil in eastern coastal China poplar plantations** (2023)
    3 citations · Soil Carbon
 
 3. **Unexpected responses of SOC decomposition and its temperature sensitivity to plant invasion across soil layers: Implications for plantation understory management** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Long-term N addition decreases microbial carbon use efficiency in poplar plantations in eastern coastal China** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

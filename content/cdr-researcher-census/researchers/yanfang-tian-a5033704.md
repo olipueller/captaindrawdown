@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Tian"
 description: "Yanfang Tian is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.623016
+date: 2026-09-11T02:38:29.565364
 url: "/cdr-researcher-census/researchers/yanfang-tian-a5033704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 388 |
+| Citations | 405 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Stable |
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   103 citations
+   104 citations
 
 2. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 ## External Profiles
 

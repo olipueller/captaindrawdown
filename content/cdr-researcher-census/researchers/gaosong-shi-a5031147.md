@@ -1,7 +1,7 @@
 ---
 title: "Gaosong Shi"
-description: "Gaosong Shi is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.662802
+description: "Gaosong Shi is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.569778
 url: "/cdr-researcher-census/researchers/gaosong-shi-a5031147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Gaosong Shi",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gaosong-shi-a5031147/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Sun Yat-sen University"
-  },
   "sameAs": [
     "https://orcid.org/0009-0008-1185-3152",
     "https://openalex.org/A5031147226"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Gaosong Shi**  
-Sun Yat-sen University · 🇨🇳 CN
+**Gaosong Shi**
 
 **Career Stage:** Mid-career
 
@@ -43,9 +38,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 357 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 402 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

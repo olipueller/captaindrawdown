@@ -1,7 +1,7 @@
 ---
 title: "Enoch Ofosu"
-description: "Enoch Ofosu is a Mid-career Soil Carbon researcher at University of Waterloo in CA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.249757
+description: "Enoch Ofosu is a Mid-career Soil Carbon researcher at University of Waterloo in CA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.197365
 url: "/cdr-researcher-census/researchers/enoch-ofosu-a5062518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 131 |
-| Publications | 17 |
-| CDR Focus | 11.8% |
+| Citations | 137 |
+| Publications | 19 |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **Substantial carbon removal capacity of Taiga reforestation and afforestation at Canada’s boreal edge** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

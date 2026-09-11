@@ -1,7 +1,7 @@
 ---
 title: "Faisal Mehmood"
-description: "Faisal Mehmood is a Mid-career Biochar researcher. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.279950
+description: "Faisal Mehmood is a Mid-career Biochar researcher at China Agricultural University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.222857
 url: "/cdr-researcher-census/researchers/faisal-mehmood-a5015742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Faisal Mehmood",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/faisal-mehmood-a5015742/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "China Agricultural University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6639-811X",
     "https://openalex.org/A5015742881"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Faisal Mehmood**
+**Faisal Mehmood**  
+China Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -38,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 16 |
-| Citations | 1,090 |
+| Citations | 1,145 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

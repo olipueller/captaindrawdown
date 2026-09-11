@@ -1,7 +1,7 @@
 ---
 title: "K. Umamaheswari"
-description: "K. Umamaheswari is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.355828
+description: "K. Umamaheswari is a Mid-career Soil Carbon researcher at Indian Institute of Technology Tirupati in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.326790
 url: "/cdr-researcher-census/researchers/k-umamaheswari-a5101566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "K. Umamaheswari",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/k-umamaheswari-a5101566/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Indian Institute of Technology Tirupati"
+  },
   "sameAs": "https://openalex.org/A5101566248"
 }
 </script>
 
 ## Profile
 
-**K. Umamaheswari**
+**K. Umamaheswari**  
+Indian Institute of Technology Tirupati · 🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -35,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
+| Citations | 113 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Growing |

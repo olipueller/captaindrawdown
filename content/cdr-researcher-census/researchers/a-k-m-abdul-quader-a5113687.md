@@ -1,7 +1,7 @@
 ---
 title: "A. K. M. Abdul Quader"
 description: "A. K. M. Abdul Quader is a Senior General CDR researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.176094
+date: 2026-09-11T02:38:30.153444
 url: "/cdr-researcher-census/researchers/a-k-m-abdul-quader-a5113687/"
 layout: "researcher"
 hiddenInHomeList: true

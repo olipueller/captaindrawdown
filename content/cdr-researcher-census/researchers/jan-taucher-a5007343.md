@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
-description: "Jan Taucher is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.170255
+description: "Jan Taucher is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 110 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.118781
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 25 |
-| Citations | 2,078 |
-| Publications | 106 |
-| CDR Focus | 10.4% |
+| Citations | 2,139 |
+| Publications | 110 |
+| CDR Focus | 10.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   150 citations · General CDR
+   154 citations · General CDR
 
 2. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
    42 citations · General CDR
 
-3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
+3. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
+   25 citations · General CDR
+
+4. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
-4. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   23 citations · General CDR
-
 5. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 6. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2025)
    8 citations · General CDR

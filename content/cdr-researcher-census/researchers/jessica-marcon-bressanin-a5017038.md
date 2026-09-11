@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Marcon Bressanin"
 description: "Jéssica Marcon Bressanin is a Mid-career BECCS researcher at Instituto de Tecnologia de Pernambuco in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.794446
+date: 2026-09-11T02:38:29.736956
 url: "/cdr-researcher-census/researchers/jessica-marcon-bressanin-a5017038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 275 |
+| Citations | 289 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |

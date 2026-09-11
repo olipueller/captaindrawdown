@@ -1,7 +1,7 @@
 ---
 title: "Yalu Zhang"
 description: "Yalu Zhang is a Mid-career Soil Carbon researcher at Inner Mongolia University of Finance and Economics in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.240776
+date: 2026-09-11T02:38:30.199877
 url: "/cdr-researcher-census/researchers/yalu-zhang-a5077994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 133 |
+| Citations | 137 |
 | Publications | 18 |
 | CDR Focus | 27.8% |
 | Trajectory | Stable |
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Soil C:N:P Stoichiometry Succession and Land Use Effect after Intensive Reclamation: A Case Study on Yangtze River Flood Plain** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Responses of Soil Organic/Inorganic Carbon Concentrations in the Lower Yangtze River to Soil Development and Land Use** (2025)
    1 citations · Soil Carbon

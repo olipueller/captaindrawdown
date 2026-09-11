@@ -1,7 +1,7 @@
 ---
 title: "Khatab Abdalla"
-description: "Khatab Abdalla is a Mid-career Soil Carbon researcher at National Centre for Research in SD. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.440564
+description: "Khatab Abdalla is a Mid-career Soil Carbon researcher at National Centre for Research in SD. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.383546
 url: "/cdr-researcher-census/researchers/khatab-abdalla-a5079796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 610 |
+| h-index | 13 |
+| Citations | 636 |
 | Publications | 38 |
 | CDR Focus | 18.4% |
 | Trajectory | Stable |
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term continuous farmyard manure application increases soil carbon when combined with mineral fertilizers due to lower priming effects** (2022)
-   66 citations
+   70 citations
 
 2. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   49 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 3. **Controlled Grazing of Maize Residues Increased Carbon Sequestration in No-Tillage System: A Case of a Smallholder Farm in South Africa** (2021)
    13 citations
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Moderate Drought Constrains Crop Growth Without Altering Soil Organic Carbon Dynamics in Perennial Cup‐Plant and Silage Maize** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Trade-offs between stock and stability: Reversing land-use for soil carbon sequestration in a warming world** (2026)
    2 citations · Soil Carbon

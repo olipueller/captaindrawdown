@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Milin"
-description: "Sylvie Milin is a Senior Soil Carbon researcher at Biologie du Fruit et Pathologie in FR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.559215
+description: "Sylvie Milin is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.507416
 url: "/cdr-researcher-census/researchers/sylvie-milin-a5064405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sylvie-milin-a5064405/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Biologie du Fruit et Pathologie"
+    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
   },
   "sameAs": "https://openalex.org/A5064405150"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Sylvie Milin**  
-Biologie du Fruit et Pathologie · 🇫🇷 FR
+Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement · 🇫🇷 FR
 
 **Career Stage:** Senior
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 447 |
+| h-index | 8 |
+| Citations | 461 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Exiting |

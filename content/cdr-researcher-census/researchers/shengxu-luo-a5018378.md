@@ -1,7 +1,7 @@
 ---
 title: "Shengxu Luo"
-description: "Shengxu Luo is a Senior Biochar researcher at Hainan University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.776927
+description: "Shengxu Luo is a Senior Biochar researcher at Hainan University in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.712601
 url: "/cdr-researcher-census/researchers/shengxu-luo-a5018378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,8 +39,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 9 |
-| Citations | 284 |
+| h-index | 10 |
+| Citations | 302 |
 | Publications | 32 |
 | CDR Focus | 6.2% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    16 citations · Biochar
 
 2. **Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

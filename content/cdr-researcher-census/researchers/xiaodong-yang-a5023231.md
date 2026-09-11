@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Yang"
-description: "Xiaodong Yang is a Senior Biochar researcher at Yangzhou University in CN. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.153565
+description: "Xiaodong Yang is a Senior Biochar researcher at Shihezi University in CN. With 68 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.102111
 url: "/cdr-researcher-census/researchers/xiaodong-yang-a5023231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaodong-yang-a5023231/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yangzhou University"
+    "name": "Shihezi University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8869-4809",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaodong Yang**  
-Yangzhou University · 🇨🇳 CN
+Shihezi University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
@@ -43,21 +43,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 17 |
-| Citations | 2,380 |
-| Publications | 67 |
-| CDR Focus | 7.5% |
+| Citations | 2,468 |
+| Publications | 68 |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Efficient removal of cationic malachite green using co-pyrolyzed corn straw biochar-montmorillonite composites** (2025)
    14 citations · Biochar
 
 3. **Efficient removal of anionic Congo red by hickory-chip/peanut-shell biochar and Mg-Al hydrotalcite composites fabricated via modified co-precipitation-hydrothermal and buried carbon pyrolysis approach** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Facile synthesis of ball milled lanthanum oxide doped peanut shell biochar-diatomite composite and its promising removal of various organic pollutants** (2025)
    1 citations · Biochar

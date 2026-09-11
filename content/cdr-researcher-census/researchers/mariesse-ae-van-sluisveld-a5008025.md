@@ -1,7 +1,7 @@
 ---
 title: "Mariësse A.E. van Sluisveld"
-description: "Mariësse A.E. van Sluisveld is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 36 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.164696
+description: "Mariësse A.E. van Sluisveld is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 37 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.114714
 url: "/cdr-researcher-census/researchers/mariesse-ae-van-sluisveld-a5008025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 21 |
-| Citations | 2,152 |
-| Publications | 36 |
-| CDR Focus | 8.3% |
+| Citations | 2,214 |
+| Publications | 37 |
+| CDR Focus | 8.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   100 citations · General CDR
+   108 citations · General CDR
 
 2. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
-   48 citations · General CDR
+   54 citations · General CDR
 
 3. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
    1 citations · General CDR

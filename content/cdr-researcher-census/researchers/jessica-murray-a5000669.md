@@ -1,7 +1,7 @@
 ---
 title: "Jessica Murray"
-description: "Jessica Murray is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.769320
+description: "Jessica Murray is a Mid-career Soil Carbon researcher at Utah State University in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.728694
 url: "/cdr-researcher-census/researchers/jessica-murray-a5000669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Jessica Murray",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jessica-murray-a5000669/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Utah State University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-1128-1007",
     "https://openalex.org/A5000669611"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Jessica Murray**
+**Jessica Murray**  
+Utah State University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -38,15 +43,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 289 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 294 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Land use drives the distribution of free, physically protected, and chemically protected soil organic carbon storage at a global scale** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

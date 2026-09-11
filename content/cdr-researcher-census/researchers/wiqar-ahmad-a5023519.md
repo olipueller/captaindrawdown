@@ -1,7 +1,7 @@
 ---
 title: "Wiqar Ahmad"
-description: "Wiqar Ahmad is a Senior Biochar researcher at Northwest General Hospital and Research Center in PK. With 75 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.221030
+description: "Wiqar Ahmad is a Senior Biochar researcher at Northwest General Hospital and Research Center in PK. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.169731
 url: "/cdr-researcher-census/researchers/wiqar-ahmad-a5023519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,469 |
-| Publications | 75 |
+| Citations | 1,506 |
+| Publications | 76 |
 | CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Advances and prospects of biochar in improving soil fertility, biochemical quality, and environmental applications** (2023)
-   158 citations · Biochar
+   166 citations · Biochar
 
 2. **Biochar particle size coupled with biofertilizer enhances soil carbon-nitrogen microbial pools and CO2 sequestration in lentil** (2023)
    18 citations · Biochar

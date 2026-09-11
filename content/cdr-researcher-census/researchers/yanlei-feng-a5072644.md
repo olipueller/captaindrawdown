@@ -1,7 +1,7 @@
 ---
 title: "Yanlei Feng"
 description: "Yanlei Feng is a Mid-career General CDR researcher at IIT@MIT in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.730362
+date: 2026-09-11T02:38:29.672221
 url: "/cdr-researcher-census/researchers/yanlei-feng-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 309 |
+| Citations | 324 |
 | Publications | 32 |
 | CDR Focus | 9.4% |
 | Trajectory | Exiting |

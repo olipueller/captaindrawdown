@@ -1,7 +1,7 @@
 ---
 title: "František Zažímal"
 description: "František Zažímal is a Mid-career Biochar researcher at Masaryk University in CZ. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.073818
+date: 2026-09-11T02:38:29.994687
 url: "/cdr-researcher-census/researchers/frantisek-zazimal-a5040004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 175 |
+| Citations | 192 |
 | Publications | 34 |
 | CDR Focus | 5.9% |
 | Trajectory | Stable |

@@ -1,7 +1,7 @@
 ---
 title: "Fantaw Yimer"
-description: "Fantaw Yimer is a Senior Soil Carbon researcher at Hawassa University in ET. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.163651
+description: "Fantaw Yimer is a Senior Soil Carbon researcher at Hawassa University in ET. With 66 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.113974
 url: "/cdr-researcher-census/researchers/fantaw-yimer-a5076055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 24 |
-| Citations | 2,184 |
-| Publications | 65 |
-| CDR Focus | 6.2% |
+| Citations | 2,221 |
+| Publications | 66 |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,12 +54,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Biochar
 
 2. **Exploring compost production potential and its economic benefits and greenhouse gas mitigation in Addis Ababa, Ethiopia** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Effect of Bamboo Plantation and Adjacent Land Uses on Soil Organic Carbon Stock in Sidama Highlands, Ethiopia** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
-4. **Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil** (2025)
+4. **Comparative effects of natural forest coffee and coffee-based agroforestry systems on biomass and soil carbon stocks in the Yayu Coffee Forest Biosphere Reserve, Southwest Ethiopia** (2026)
+   0 citations
+
+5. **Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil** (2025)
    0 citations · BECCS
 
 ## External Profiles

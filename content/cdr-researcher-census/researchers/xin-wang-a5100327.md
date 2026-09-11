@@ -1,7 +1,7 @@
 ---
 title: "Xin Wang"
 description: "Xin Wang is a Senior Soil Carbon researcher at Anhui University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.811476
+date: 2026-09-11T02:38:29.758056
 url: "/cdr-researcher-census/researchers/xin-wang-a5100327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 267 |
+| Citations | 279 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Stable |

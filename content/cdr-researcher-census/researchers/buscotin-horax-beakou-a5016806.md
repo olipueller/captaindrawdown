@@ -1,7 +1,7 @@
 ---
 title: "Buscotin Horax Beakou"
-description: "Buscotin Horax Beakou is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.468664
+description: "Buscotin Horax Beakou is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.423999
 url: "/cdr-researcher-census/researchers/buscotin-horax-beakou-a5016806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 9 |
-| Citations | 562 |
-| Publications | 16 |
-| CDR Focus | 12.5% |
+| Citations | 573 |
+| Publications | 17 |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Insight into adsorptive removal of methylene blue, malachite green, and rhodamine B dyes by cassava peel biochar (Manihot esculenta Crantz) in single, binary, and ternary systems: competitive adsorption study and theoretical calculations** (2022)
-   51 citations · Biochar
+   53 citations · Biochar
 
 2. **Biosorption of cobalt and chromium from wastewater using manganese dioxide and iron oxide nanoparticles loaded on cellulose-based biochar: Modeling and optimization with machine learning (artificial neural network)** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

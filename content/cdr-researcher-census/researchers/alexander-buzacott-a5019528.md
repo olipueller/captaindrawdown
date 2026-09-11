@@ -1,7 +1,7 @@
 ---
 title: "Alexander Buzacott"
 description: "Alexander Buzacott is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.095750
+date: 2026-09-11T02:38:30.029951
 url: "/cdr-researcher-census/researchers/alexander-buzacott-a5019528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 168 |
+| Citations | 180 |
 | Publications | 38 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Quantifying the contribution of grassland and paludiculture to carbon fluxes from a single eddy covariance tower in a Dutch peatland** (2022)
+1. **Afforestation‐Related Fertilisation Quickly Turns Barren Cutaway Peatland Into a Carbon Dioxide Sink** (2025)
    2 citations · Soil Carbon
 
-2. **Afforestation‐Related Fertilisation Quickly Turns Barren Cutaway Peatland Into a Carbon Dioxide Sink** (2025)
-   1 citations · Soil Carbon
+2. **Quantifying the contribution of grassland and paludiculture to carbon fluxes from a single eddy covariance tower in a Dutch peatland** (2022)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jalil Shadbahr"
 description: "Jalil Shadbahr is a Mid-career General CDR researcher at National Research Council Canada in CA. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.595603
+date: 2026-09-11T02:38:29.526805
 url: "/cdr-researcher-census/researchers/jalil-shadbahr-a5018526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 412 |
+| Citations | 441 |
 | Publications | 24 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 2. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

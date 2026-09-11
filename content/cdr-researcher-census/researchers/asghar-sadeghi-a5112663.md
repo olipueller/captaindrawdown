@@ -1,7 +1,7 @@
 ---
 title: "Asghar Sadeghi"
 description: "Asghar Sadeghi is a Mid-career DAC researcher at Entergy (United States). With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.048942
+date: 2026-09-11T02:38:30.021238
 url: "/cdr-researcher-census/researchers/asghar-sadeghi-a5112663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 182 |
+| Citations | 183 |
 | Publications | 14 |
 | CDR Focus | 7.1% |
 | Trajectory | Exiting |

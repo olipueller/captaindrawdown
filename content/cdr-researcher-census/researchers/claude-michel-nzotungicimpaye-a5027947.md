@@ -1,7 +1,7 @@
 ---
 title: "Claude-Michel Nzotungicimpaye"
 description: "Claude-Michel Nzotungicimpaye is a Mid-career General CDR researcher at Environment and Climate Change Canada in CA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.914582
+date: 2026-09-11T02:38:29.876359
 url: "/cdr-researcher-census/researchers/claude-michel-nzotungicimpaye-a5027947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 220 |
+| Citations | 226 |
 | Publications | 23 |
 | CDR Focus | 13.0% |
 | Trajectory | Exiting |

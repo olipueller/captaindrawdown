@@ -1,7 +1,7 @@
 ---
 title: "Lizardo Reyna-Bowen"
-description: "Lizardo Reyna-Bowen is a Mid-career Soil Carbon researcher at Escuela Superior Politécnica Agropecuaria de Manabí Manuel Félix López in EC. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.406249
+description: "Lizardo Reyna-Bowen is a Mid-career Soil Carbon researcher at University of Agriculture in Krakow in PL. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.325502
 url: "/cdr-researcher-census/researchers/lizardo-reyna-bowen-a5018205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lizardo-reyna-bowen-a5018205/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Escuela Superior Polit\u00e9cnica Agropecuaria de Manab\u00ed Manuel F\u00e9lix L\u00f3pez"
+    "name": "University of Agriculture in Krakow"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0352-4005",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lizardo Reyna-Bowen**  
-Escuela Superior Politécnica Agropecuaria de Manabí Manuel Félix López ·  EC
+University of Agriculture in Krakow ·  PL
 
 **Career Stage:** Mid-career
 
@@ -42,22 +42,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 103 |
-| Publications | 27 |
-| CDR Focus | 14.8% |
+| h-index | 6 |
+| Citations | 113 |
+| Publications | 30 |
+| CDR Focus | 13.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Subsoiling for planting trees in dehesa system: long-term effects on soil organic carbon** (2023)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Soil health and dragon fruit cultivation: Assessing the impact on soil organic carbon** (2023)
    6 citations · Soil Carbon
 
 3. **Assessment of soil organic carbon: The influence of Ecuadorian cocoa varieties** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **The Impact of Cocoa Plantation Management on Soil Organic Carbon Sequestration** (2023)
    0 citations · Soil Carbon

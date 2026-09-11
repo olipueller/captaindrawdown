@@ -1,7 +1,7 @@
 ---
 title: "Tim Repke"
-description: "Tim Repke is a Mid-career General CDR researcher at The London College in GB. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.537449
+description: "Tim Repke is a Mid-career General CDR researcher at Leibniz Association in DE. With 55 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.427177
 url: "/cdr-researcher-census/researchers/tim-repke-a5042348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tim-repke-a5042348/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The London College"
+    "name": "Leibniz Association"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9661-6325",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tim Repke**  
-The London College · 🇬🇧 GB
+Leibniz Association · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -42,19 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 | Metric | Value |
 |--------|-------|
-| h-index | 10 |
-| Citations | 468 |
-| Publications | 53 |
-| CDR Focus | 9.4% |
+| h-index | 11 |
+| Citations | 568 |
+| Publications | 55 |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   38 citations · General CDR
+   45 citations · General CDR
 
 2. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   14 citations · General CDR
+   17 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR

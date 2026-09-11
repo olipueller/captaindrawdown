@@ -1,7 +1,7 @@
 ---
 title: "Enshuo Zhang"
-description: "Enshuo Zhang is an Early-career Biochar researcher at Changchun Observatory in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.420707
+description: "Enshuo Zhang is an Early-career Biochar researcher at Changchun Observatory in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:30.342110
 url: "/cdr-researcher-census/researchers/enshuo-zhang-a5011189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 100 |
-| Publications | 9 |
-| CDR Focus | 33.3% |
+| Citations | 109 |
+| Publications | 8 |
+| CDR Focus | 37.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Efficient removal of anionic Congo red by hickory-chip/peanut-shell biochar and Mg-Al hydrotalcite composites fabricated via modified co-precipitation-hydrothermal and buried carbon pyrolysis approach** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Facile synthesis of ball milled lanthanum oxide doped peanut shell biochar-diatomite composite and its promising removal of various organic pollutants** (2025)
    1 citations · Biochar

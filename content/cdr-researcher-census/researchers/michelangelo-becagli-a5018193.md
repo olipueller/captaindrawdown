@@ -1,7 +1,7 @@
 ---
 title: "Michelangelo Becagli"
 description: "Michelangelo Becagli is a Mid-career Biochar researcher at University of Pisa in IT. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.837671
+date: 2026-09-11T02:38:29.789248
 url: "/cdr-researcher-census/researchers/michelangelo-becagli-a5018193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 10 |
-| Citations | 253 |
+| Citations | 264 |
 | Publications | 26 |
 | CDR Focus | 11.5% |
 | Trajectory | Exiting |
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term effects of biochar on soil chemistry, biochemistry, and microbiota: Results from a 10-year field vineyard experiment** (2023)
-   70 citations · Biochar
+   72 citations · Biochar
 
 2. **Biochar as a soil amendment in the tree establishment phase: What are the consequences for tree physiology, soil quality and carbon sequestration?** (2022)
    16 citations · Biochar

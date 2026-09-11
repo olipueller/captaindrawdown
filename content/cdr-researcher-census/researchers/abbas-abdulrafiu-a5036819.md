@@ -1,7 +1,7 @@
 ---
 title: "Abbas AbdulRafiu"
 description: "Abbas AbdulRafiu is a Mid-career General CDR researcher at University of Sussex in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:12.103163
+date: 2026-09-11T02:38:30.040286
 url: "/cdr-researcher-census/researchers/abbas-abdulrafiu-a5036819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 166 |
+| Citations | 177 |
 | Publications | 9 |
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The dynamics of global public research funding on climate change, energy, transport, and industrial decarbonisation** (2022)
-   53 citations · General CDR
+   57 citations · General CDR
 
 ## External Profiles
 

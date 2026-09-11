@@ -1,7 +1,7 @@
 ---
 title: "Jincheng Shi"
-description: "Jincheng Shi is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.623198
+description: "Jincheng Shi is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.568689
 url: "/cdr-researcher-census/researchers/jincheng-shi-a5002599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 388 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 5 |
+| Citations | 403 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Spatial heterogeneity of plant diversity-productivity-carbon nexus in eastern Loess Plateau grasslands** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

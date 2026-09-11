@@ -1,7 +1,7 @@
 ---
 title: "Michael Nowicki"
 description: "Michael Nowicki is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.439811
+date: 2026-09-11T02:38:29.387810
 url: "/cdr-researcher-census/researchers/michael-nowicki-a5019805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 611 |
+| Citations | 629 |
 | Publications | 7 |
 | CDR Focus | 28.6% |
 | Trajectory | Exiting |
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    64 citations · General CDR
 
 2. **The Influence of Air‐Sea CO<sub>2</sub> Disequilibrium on Carbon Sequestration by the Ocean's Biological Pump** (2024)
-   21 citations · General CDR
+   23 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yang Wang"
-description: "Yang Wang is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-08-11T01:33:11.261799
+description: "Yang Wang is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-09-11T02:38:29.211115
 url: "/cdr-researcher-census/researchers/yang-wang-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 15 |
-| Citations | 1,184 |
-| Publications | 35 |
-| CDR Focus | 17.1% |
+| Citations | 1,216 |
+| Publications | 40 |
+| CDR Focus | 15.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Goethite modified biochar simultaneously mitigates the arsenic and cadmium accumulation in paddy rice (Oryza sativa) L** (2021)
-   80 citations · Biochar
+   81 citations · Biochar
 
 2. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   72 citations · Biochar
+   73 citations · Biochar
 
 3. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   46 citations · Biochar
+   49 citations · Biochar
 
 4. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
    34 citations · Biochar
 
 5. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Biochar stimulates inorganic carbon precipitation in the subsoil** (2023)
    0 citations · Biochar
