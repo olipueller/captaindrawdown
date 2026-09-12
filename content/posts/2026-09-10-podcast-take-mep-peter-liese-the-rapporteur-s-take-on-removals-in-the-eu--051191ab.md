@@ -2,7 +2,7 @@
 title: "Take: MEP Peter Liese: the Rapporteur's take on removals in the EU ETS"
 date: 2026-09-10T10:00:00+00:00
 slug: "podcast-take-mep-peter-liese-the-rapporteur-s-take-on-removals-in-the-eu--051191ab"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

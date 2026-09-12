@@ -2,7 +2,7 @@
 title: "Take: Gijsbrecht Gunter (Yara) over de businesscase van Nederlandse CO2 in de Noorse bodem"
 date: 2026-09-10T10:00:00+00:00
 slug: "podcast-take-gijsbrecht-gunter-yara-over-de-businesscase-van-nederlandse--82445560"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "studio-energie"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

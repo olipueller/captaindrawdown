@@ -2,7 +2,7 @@
 title: "Take: Brineworks: From “Magic Box” to Upgraded Suit | CO₂ + H₂ for E-Fuels"
 date: 2026-09-10T10:00:00+00:00
 slug: "podcast-take-brineworks-from-magic-box-to-upgraded-suit-co-h-for-e-fuels-016ac76c"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "bite-size-climate-tech"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
