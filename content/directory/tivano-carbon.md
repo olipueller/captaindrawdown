@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tivano-carbon.com/" target="_blank" rel="noopener">https://www.tivano-carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-namibia/" target="_blank" rel="noopener">tivano-namibia — 156 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-carbon/" target="_blank" rel="noopener">tivano-carbon — 508 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-04-30</small></td></tr>
-  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-04-30)</small></td></tr>
 </table>
@@ -32,13 +32,14 @@ Tivano Carbon restores Namibia's savanna rangelands by converting invasive encro
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Terrestrial Storage of Biomass · crediting period 2025-05-01 → 2030-04-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/dragonfly-252)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2025-05-01 → 2030-04-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/dragonfly-252)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.tivano-carbon.com/))

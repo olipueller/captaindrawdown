@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces and distributes biochar (pyrolyzed virgin hardwood/softwood) for soil amendment, bioremediation, water filtration, and carbon sink applications."
 url: "/directory/terra-char/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terra-char.com/" target="_blank" rel="noopener">https://www.terra-char.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terra-char/" target="_blank" rel="noopener">terra-char — 111 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Terra Char is the registered brand of BioEnergy Innovations Global, Inc., a Colu
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-31** — news mention: Terra Char: 📍 New from our backyard: the University of Missouri just landed a $960,000 USDA grant to ([source](https://www.linkedin.com/company/terra-char/#post-5420bd42e321))
+- **2026-08-15** — news mention: Terra Char: 🔬 Peer-reviewed and confirmed: a University of Missouri-led study found biochar improves ([source](https://www.linkedin.com/company/terra-char/#post-dcaf1ec9c451))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

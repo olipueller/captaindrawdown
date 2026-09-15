@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonfuture.earth/" target="_blank" rel="noopener">https://www.carbonfuture.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 31,257 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 31,838 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+12% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -36,6 +36,15 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-09** — news mention: #carbonremoval #cdr #climateaction #decarbonization | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503068809122160640/))
+- **2026-09-05** — news mention: #teamdays #carbonremoval #cdr #climateaction | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501635658223124480/))
+- **2026-09-02** — news mention: Carbonfuture: Carbonfuture's CDR buyers can now transfer removal credits to another organization, pa ([source](https://www.linkedin.com/company/carbonfuture/#post-c321cfae603a))
+- **2026-08-22** — news mention: Ibero Massa Florestal: Won a tonne of carbon removal from Portugal’s current largest biochar produce ([source](https://www.linkedin.com/company/imflorestal/#post-a1c31669d7d7))
+- **2026-08-19** — news mention: Top 8 Platforms Tokenizing Carbon Credits In 2026 | Metaverse Post ([source](https://mpost.io/top-8-platforms-tokenizing-carbon-credits-in-2026/))
+- **2026-08-15** — news mention: Skyrenu: Demand was never the hard part of carbon removal. Supply is. Last week, Frontier Infrastruc ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-bc59f25c1e41))
+- **2026-08-15** — news mention: Frontier Infrastructure Holdings: Frontier Infrastructure Holdings has entered into a multi-year par ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-62a2673de7d4))
+- **2026-08-15** — news mention: Frontier Infrastructure Holdings: We are thrilled to partner with Carbonfuture to bring high-quality ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-7f64b738d921))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
 - **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in Eu ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
@@ -57,15 +66,6 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 - **2026-07-28** — news mention: Frontier Infrastructure Holdings & Carbonfuture Announce Largest Ethanol BECCS Carbon Removal Partne ([source](https://www.prnewswire.com/news-releases/frontier-infrastructure-holdings--carbonfuture-announce-largest-ethanol-beccs-carbon-removal-partnership-agreement-to-date-302835922.html))
 - **2026-07-28** — news mention: Carbonfuture: Suppliers certified under the Rainbow Standard can now transact CDR credits through Ca ([source](https://www.linkedin.com/company/carbonfuture/#post-27c91bdbf2b9))
 - **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
-- **2026-07-23** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project â bioenerg ([source](https://www.linkedin.com/company/bigadan-a-s/#post-3b6c8dd59f0c))
-- **2026-07-21** — news mention: #carbonremoval #cdr #rainbow #dmrv #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7485259060120907776/))
-- **2026-07-21** — news mention: Carbonfuture: [BREAKING] The EU backs significant integration of CDR into the world’s biggest compli ([source](https://www.linkedin.com/company/carbonfuture/#post-d1e03320ae79))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-13** — news mention: Welcome to the Carbonfuture team, Marc! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482345399618445313/))
-- **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))
-- **2026-07-02** — news mention: Unlocking Sustainable Growth: How Green Buildings and Deep Decarbonization Redefine Corporate Real E ([source](https://industrylink.eu/unlocking-sustainable-growth-how-green-buildings-and-deep-decarbonization-redefine-corporate-real-estate-strategy/))
-- **2026-07-01** — news mention: Carbonfuture: Welcome to the coldest summer of your future. @[Robert Dornau](urn:li:person:ZkGAu5L8Z ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477651697629118464/))
 
 ---
 

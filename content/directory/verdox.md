@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Membrane)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://verdox.com/" target="_blank" rel="noopener">https://verdox.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verdox/" target="_blank" rel="noopener">verdox — 5,857 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verdox/" target="_blank" rel="noopener">verdox — 5,974 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~25 (+9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~25 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Founded in 2019 out of MIT, Verdox delivers electrochemical carbon capture techn
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-28** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-b7c1c00ba053))
 - **2026-07-23** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-79cb2cfeae23))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

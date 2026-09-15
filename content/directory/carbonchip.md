@@ -29,6 +29,7 @@ Carbonchip is a small Brisbane-based biochar manufacturer, established in 2020, 
 
 ## History
 
+- **2026-08-30** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.biocareprojects.com/post/biocare-biochar-portfolio-turning-waste-into-climate-solutions))
 - **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))

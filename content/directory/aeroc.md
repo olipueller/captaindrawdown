@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.aeroc.earth/" target="_blank" rel="noopener">https://www.aeroc.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aerocremotesensing/" target="_blank" rel="noopener">aerocremotesensing — 916 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aerocremotesensing/" target="_blank" rel="noopener">aerocremotesensing — 925 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -36,6 +36,7 @@ AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — refresh: coresignal
 - **2026-08-07** — news mention: Portfolio Spotlight: AEROC — Giving Enhanced Rock Weathering Its Eyes ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-aeroc-giving))
 - **2026-07-15** — refresh: coresignal

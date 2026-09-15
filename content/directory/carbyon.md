@@ -30,6 +30,9 @@ Carbyon is a Dutch DAC startup founded in 2019 as a spin-off from research insti
 
 ## History
 
+- **2026-08-29** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been more ([source](https://www.linkedin.com/company/carbonnet-limited/#post-ac68b7f0ced4))
+- **2026-08-27** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-199116260e4a))
+- **2026-08-21** — news mention: Airhive: Following our acquisition of Carbyon (blog link in comments), we were excited to bring the  ([source](https://www.linkedin.com/company/carbonnet-limited/#post-4ca21ef4abf7))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-24** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been more ([source](https://www.linkedin.com/company/carbonnet-limited/#post-f6406cc296b2))
 - **2026-07-22** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-89f97823b9a2))

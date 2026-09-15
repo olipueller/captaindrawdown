@@ -34,6 +34,19 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the firs ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
+- **2026-09-07** — news mention: Sylvera’s First Rating ([source](https://a.example/1))
+- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk. Al ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
+- **2026-09-04** — news mention: Deep Sky One Secures AAA-A Rating for DAC Project - ESG News ([source](https://esgnews.com/deep-sky-one-secures-aaa-a-rating-for-dac-project/))
+- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera&#039;s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/))
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera’s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating))
+- **2026-09-02** — news mention: Sylvera: 🗓️ Market Commentary: Weekly Carbon Update 💼 Article 6.2 reporting is maturing - here's wha ([source](https://www.linkedin.com/company/sylveracarbon/#post-3a97e2e5aac2))
+- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-30** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
+- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
+- **2026-08-16** — news mention: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating f ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
+- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by Sylver ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
 - **2026-08-11** — news mention: Sylvera: As BioCarbon Standard launched BCR0010 (IFM &amp; APFC), they brought in Sylvera to assess  ([source](https://www.linkedin.com/company/sylveracarbon/#post-2ad058ba364d))
 - **2026-08-09** — news mention: Tapovanam: At Tapovanam Biochar, we are proud to announce… a major milestone in our commitment to su ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-cd8ff1c1ea0e))
 - **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is its ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
@@ -51,19 +64,6 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 - **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
 - **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
 - **2026-07-24** — news mention: Tera: An exciting update as we focus on transparency and quality as an impact focused business, oper ([source](https://www.linkedin.com/company/teracarbon/#post-541ff6bde1b3))
-- **2026-07-23** — news mention: BlueLayer: The Katingan Mentaya Project has verified approximately 20 million carbon credits (17.3 m ([source](https://www.linkedin.com/company/getbluelayer/#post-ce7b6ebfa570))
-- **2026-07-23** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-a9bd0301c43b))
-- **2026-07-22** — news mention: Cloverly: We are pleased to announce that the US SecondCrop™ Project has been assigned a Sylvera Pre ([source](https://www.linkedin.com/company/cloverly/#post-9bd8e7bd4c8e))
-- **2026-07-21** — news mention: Sylvera: The European Commission has today published its proposed overhaul of the EU Emissions Tradi ([source](https://www.linkedin.com/company/sylveracarbon/#post-4968ef1822f7))
-- **2026-07-14** — news mention: Sylvera Market Report Outlines Rising Carbon Credit Prices and Surging Corporate Offtake Investments ([source](https://biochartoday.com/news/sylvera-market-report-outlines-rising-carbon-credit-prices-and-surging-corporate-offtake-investments-for-the-global-biochar-sector/))
-- **2026-07-14** — news mention: The Remove carbon dioxide removal (CDR) accelerator has launched its first program in Latin America. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmkbz3qes2t))
-- **2026-06-05** — news mention: Billions In CORSIA Compliance Spending Held Up By Missing Govt Approvals, Sylvera Warns ([source](https://carbonherald.com/billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns/?utm_source=rss&utm_medium=rss&utm_campaign=billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns))
-- **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
-- **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
-- **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))
-- **2026-05-14** — news mention: Germany's DAX40 giants are buying carbon credits at scale. What they actually bought? Mostly a black ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mls2bszkmi2m))
-- **2026-05-13** — news mention: Senken And Sylvera Find Major Gaps In Carbon Credit Transparency Among DAX40 Firms ([source](https://carbonherald.com/senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms))
-- **2026-05-01** — refresh: coresignal, screenshot
 
 ---
 

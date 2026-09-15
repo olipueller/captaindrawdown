@@ -30,6 +30,7 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 
 ## History
 
+- **2026-09-09** — news mention: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and a ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
 - **2026-08-05** — news mention: Earthly: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-Eligi ([source](https://www.linkedin.com/company/projectearthly/#post-ef8340d48292))
 - **2026-05-07** — news mention: Earthly Biochar Kiln: Original ([source](https://oldtreesoil.org/products/earthly-biochar-kiln))
 - **2026-05-01** — refresh: coresignal, screenshot

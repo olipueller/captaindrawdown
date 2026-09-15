@@ -13,8 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://sanbrafoods-ghana.com/" target="_blank" rel="noopener">https://sanbrafoods-ghana.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanbrafoods/" target="_blank" rel="noopener">sanbrafoods</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanbrafoods/" target="_blank" rel="noopener">sanbrafoods — 37 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +29,7 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-07-27** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
 - **2026-05-01** — refresh: screenshot

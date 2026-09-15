@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.sirona.tech/" target="_blank" rel="noopener">https://www.sirona.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 6,947 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 7,652 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~34 (+48% YoY)</td></tr>
+  <tr><th>Employees</th><td>~33 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -34,6 +34,10 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-fe23a3d53744))
+- **2026-09-04** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))
+- **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and ou ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
 - **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
 - **2026-08-06** — news mention: Sirona Technologies: Massive inflection point for our industry 🚀🚀 The EU just proposed to include Di ([source](https://www.linkedin.com/company/sirona-technologies/#post-0b023009f5e5))
 - **2026-07-31** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-7e2940befcf2))

@@ -35,6 +35,7 @@ Treeconomy is a London-based earth-tech company providing MRV and project-enable
 
 ## History
 
+- **2026-08-27** — news mention: Treeconomy: 🎉 Today, we are sharing a major commercial milestone cementing a clear industry shift to ([source](https://www.linkedin.com/company/treeconomyltd/#post-df7bcd3e7c3a))
 - **2026-07-29** — news mention: Treeconomy: As #NatureTechWeek puts the spotlight on closing the nature financing gap, we’re sharing ([source](https://www.linkedin.com/company/treeconomyltd/#post-199bd42e1f5d))
 - **2026-07-22** — news mention: Treeconomy: 🎉 Today, we are sharing a major commercial milestone cementing a clear industry shift to ([source](https://www.linkedin.com/company/treeconomyltd/#post-b5023b2431e1))
 - **2026-05-01** — refresh: coresignal, screenshot

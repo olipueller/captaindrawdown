@@ -30,6 +30,8 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-09-10** — news mention: Meet Our Partners ([source](https://www.removecarbontoday.com/pages/partners))
+- **2026-08-15** — news mention: Remove Carbon Today: One million CORCs retired in the Puro Registry. Today, Puro.earth marks a signi ([source](https://www.linkedin.com/company/remove-carbon-today/#post-ca91ef45ac40))
 - **2026-08-15** — refresh: coresignal
 - **2026-06-27** — news mention: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
 - **2026-05-22** — refresh: liveliness

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.aspiradac.com/" target="_blank" rel="noopener">https://www.aspiradac.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiradac/" target="_blank" rel="noopener">aspiradac — 449 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -30,6 +30,7 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 
 ## History
 
+- **2026-08-24** — news mention: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining g ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

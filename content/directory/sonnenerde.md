@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,146 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,309 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
-  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
 </table>
@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-11** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

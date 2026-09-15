@@ -40,6 +40,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-13** — news mention: Onnu: Another household name is backing biochar 🍃  PayPal is continuing to build a diversified carbo ([source](https://www.linkedin.com/company/onnuhq/#post-cfca6d15d35a))
+- **2026-08-19** — news mention: 3Degrees: Tackling hard-to-abate upstream emissions requires a new approach to value chain decarboni ([source](https://www.linkedin.com/company/3degrees/#post-532adc5273d7))
 - **2026-08-05** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, as Frontier Infrastructure and Carbon ([source](https://www.linkedin.com/company/cdr-fyi/#post-5abb7ab70e13))
 - **2026-08-04** — news mention: PayPal Expands Its Net Zero Strategy With 3Degrees' Carbon Removal Portfolio ([source](https://carboncredits.com/paypal-expands-its-net-zero-strategy-with-3degrees-carbon-removal-portfolio/))
 - **2026-08-04** — news mention: PayPal and 3Degrees Partner to Direct Corporate Capital Into High-Durability Carbon Removal Projects ([source](https://biochartoday.com/news/paypal-and-3degrees-partner-to-direct-corporate-capital-into-high-durability-carbon-removal-projects/))

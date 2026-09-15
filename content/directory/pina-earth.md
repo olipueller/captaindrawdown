@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pina.earth/" target="_blank" rel="noopener">https://www.pina.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pina-de/" target="_blank" rel="noopener">pina-de — 8,316 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pina-earth/" target="_blank" rel="noopener">pina-earth — 8,810 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~41 (+78% YoY)</td></tr>
+  <tr><th>Employees</th><td>~37 (-26% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ Pina Earth is a Munich-based forest carbon project developer that converts vulne
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: International Carbon Registry (ICR): The renewed public consultation for M-ICR015 – Impact Improved  ([source](https://www.linkedin.com/company/international-carbon-registry/#post-bc32f49c3dc7))
+- **2026-08-27** — news mention: Pina Earth: 📢 ICR has launched a new public consultation for M-ICR015 – Impact Improved Forest Manag ([source](https://www.linkedin.com/company/pina-de/#post-177ed8b2a541))
 - **2026-08-13** — news mention: International Carbon Registry (ICR): ⏳ Final day to comment: M-ICR015 – Impact Improved Forest Manag ([source](https://www.linkedin.com/company/international-carbon-registry/#post-0e238556699b))
 - **2026-08-06** — news mention: Pina Earth: ð¢ ICR has launched a new public consultation for M-ICR015 â Impact Improved Forest  ([source](https://www.linkedin.com/company/pina-de/#post-b10631a65390))
 - **2026-07-30** — news mention: International Carbon Registry (ICR): The renewed public consultation for M-ICR015 – Impact Improved  ([source](https://www.linkedin.com/company/international-carbon-registry/#post-3dab236d2766))

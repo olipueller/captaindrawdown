@@ -27,6 +27,7 @@ International Tie Disposal (ITD) is a subsidiary of Polivka International, a Nor
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.wbtv.com/2024/03/27/nc-community-battles-against-controversial-railroad-project/))

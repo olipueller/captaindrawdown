@@ -30,6 +30,7 @@ Carbon Xtract Corporation is a Fukuoka, Japan startup established in May 2023 by
 
 ## History
 
+- **2026-08-24** — news mention: Carbon Xtract: 【資金調達のご報告】 Carbon Xtract、プレシリーズA（1st Close）で資金調達を実施し、 経営陣が議決権過半数を保有する新たな経営体制へ移行します。 2 ([source](https://www.linkedin.com/company/carbon-xtract/#post-923c8b965bec))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-26** — news mention: Carbon Xtract: 「空気からCO₂を回収して使う建物」の実現へ Carbon Xtractは、清水建設株式会社および双日株式会社と連携し、東京都GX関連事業の一環として、都市型イノベーショ ([source](https://www.linkedin.com/company/carbon-xtract/#post-563dc8e1e091))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

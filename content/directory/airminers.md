@@ -5,7 +5,7 @@ type: "directory"
 description: "Nonprofit-style community, education (BootUp) and accelerator (Launchpad) platform supporting early-stage CDR founders across all pathways."
 url: "/directory/airminers/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://airminers.com/" target="_blank" rel="noopener">https://airminers.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airminers/" target="_blank" rel="noopener">airminers — 5,129 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-78% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ AirMiners is a community, education, and accelerator organization for the carbon
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-05** — news mention: AirMiners: How can a standardized purchase contract unlock carbon removal? Join us on Thursday March ([source](https://www.linkedin.com/company/airminers/#post-9a00464d888e))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active

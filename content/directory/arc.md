@@ -5,7 +5,7 @@ type: "directory"
 description: "Amine/solvent-based post-combustion carbon capture retrofit on the CopenHill waste-to-energy plant, capturing biogenic CO2 from combustion of organic waste fractions for geological storage."
 url: "/directory/arc/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://a-r-c.dk/" target="_blank" rel="noopener">https://a-r-c.dk/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~750</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~500</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ ARC (Amager Resource Center) is a Danish inter-municipal waste management compan
 
 ## History
 
+- **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://a-r-c.dk/klima-og-miljo/co2-fangst/arc-og-carbon-capture/))
 - **2026-05-01** — refresh: screenshot

@@ -45,6 +45,16 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-09-04** — news mention: Iron and steel are responsible for some of the hardest-to-address industrial emissions—and it will t ([source](https://www.linkedin.com/feed/update/urn:li:share:7501306664353054720/))
+- **2026-09-02** — news mention: Charm Industrial: After 43,265 operating hours (equivalent to nearly 5 years of non-stop operation), ([source](https://www.linkedin.com/company/charm-industrial/#post-af8bd0e97b93))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-28** — news mention: Before their students headed back to the classroom, 55 Colorado STEM teachers became students for th ([source](https://www.linkedin.com/feed/update/urn:li:share:7498575340143828992/))
+- **2026-08-21** — news mention: 175 measurement types. One Charm tonne.
+
+Every tonne of carbon removal we deliver is backed by a cha ([source](https://www.linkedin.com/feed/update/urn:li:share:7496052087542300672/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-13** — news mention: What happens to the wood that can’t become lumber? 🌲
@@ -86,14 +96,6 @@ From the towering redwoods of the West to the lob ([source](https://www.linkedin
 - **2026-06-10** — news mention: There’s a difference between understanding carbon removal on paper and seeing it in person.
 
 Earlier ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469957227764834304/))
-- **2026-06-09** — news mention: Below the Surface: Visiting Charm Industrial’s Carbon Dioxide Removal (CDR) Projects ([source](https://www.climateimpact.com/news-insights/insights/below-the-surface-visiting-charm-industrials-carbon-dioxide-removal-cdr-projects/))
-- **2026-06-09** — news mention: Real risk. Counting harvested wood as "removal" then subsidizing combustion would invert the account ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mntmix42z422))
-- **2026-06-08** — news mention: JPMorganChase Deepens Charm Industrial Partnership With A New CDR Deal And Debt Financing ([source](https://carbonherald.com/jpmorganchase-deepens-charm-industrial-partnership-with-a-new-cdr-deal-and-debt-financing/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorganchase-deepens-charm-industrial-partnership-with-a-new-cdr-deal-and-debt-financing))
-- **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
-- **2026-06-05** — news mention: JPMorgan signs carbon offtake and financing deal with Charm Industrial | ESG Dive ([source](https://www.esgdive.com/news/jpmorgan-signs-carbon-offtake-financing-deal-charm-industrial/822156/))
-- **2026-06-05** — news mention: JPMorgan Signs Carbon Removal, Financing Deal with Charm Industrial - ESG Today ([source](https://www.esgtoday.com/jpmorgan-signs-carbon-removal-financing-deal-with-charm-industrial/))
-- **2026-06-05** — news mention: Charm Industrial Secures 61,500-Ton Carbon Removal Deal and $20 Million Financing From JPMorganChase ([source](https://esgnews.com/charm-industrial-secures-61500-ton-carbon-removal-deal-and-20-million-financing-from-jpmorganchase/))
-- **2026-06-04** — news mention: Charm Industrial Secures 61,500-Ton Carbon Removal Purchase and $20 Million Debt Financing to Cataly ([source](https://charmindustrial.com/press/jp-morgan-expends-commitment))
 
 ---
 

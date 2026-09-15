@@ -29,6 +29,7 @@ Yuanchu Technology (原初科技) is a Beijing-based startup founded in 2014 tha
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.xprize.org/prizes/carbonremoval/articles/20-teams-bring-cutting-edge-solutions-to-xprize-carbon-removal-finals))

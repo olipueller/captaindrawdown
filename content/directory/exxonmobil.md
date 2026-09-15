@@ -34,6 +34,9 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-08-23** — news mention: Cadmium contaminated soils would seem to be a particularly good candidate for a place to permanently ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtquwnlh4c23))
+- **2026-08-21** — news mention: ExxonMobil Among Buyers Hit By German Carbon Credit Revocations ([source](https://carbonherald.com/exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations))
+- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
 - **2026-08-11** — news mention: ExxonMobil Challenges EU Carbon Storage Mandates In International Dispute ([source](https://carbonherald.com/exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute))
 - **2026-08-07** — news mention: Carbon Capture's New Advantage Is Now Execution Speed - Environment+Energy Leader ([source](https://environmentenergyleader.com/stories/carbon-captures-new-advantage-is-now-execution-speed,135375))
 - **2026-08-05** — news mention:  Puro.earth has had a 4.7-fold increase in credit retirement buyers between 2020 and 2025, while ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msdnjtm6zk2o))

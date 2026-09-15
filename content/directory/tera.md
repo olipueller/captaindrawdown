@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.teracarbon.earth/" target="_blank" rel="noopener">https://www.teracarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/teracarbon/" target="_blank" rel="noopener">teracarbon — 1,716 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/teracarbon/" target="_blank" rel="noopener">teracarbon — 1,836 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Tera (Tera Carbon) is a Kenyan climate-tech startup that converts sugarcane baga
 
 ## History
 
+- **2026-09-15** — refresh: coresignal
+- **2026-08-22** — news mention: Tera Carbon Pte Ltd: High-integrity biochar carbon removal is selling out fast. ð± Thatâs why we ([source](https://www.linkedin.com/company/teracarbon/#post-12d45456cceb))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://allafrica.com/stories/202507230004.html))
 - **2026-08-08** — news mention: Tera: High-integrity biochar carbon removal is selling out fast. 🌱 That’s why we’re proud to share t ([source](https://www.linkedin.com/company/teracarbon/#post-660d3236cf2a))
 - **2026-07-31** — news mention: Tera Carbon Pte Ltd: An exciting update as we focus on transparency and quality as an impact focused ([source](https://www.linkedin.com/company/teracarbon/#post-9db35c156663))

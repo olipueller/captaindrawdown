@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Saudi Arabia</td></tr>
   <tr><th>Website</th><td><a href="https://vcm.sa" target="_blank" rel="noopener">https://vcm.sa</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/voluntarycarbonmarket/" target="_blank" rel="noopener">voluntarycarbonmarket — 11,184 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~70 (+49% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/voluntarycarbonmarket/" target="_blank" rel="noopener">voluntarycarbonmarket — 13,203 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (+29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ The Regional Voluntary Carbon Market Company (RVCMC/VCM) is a Riyadh-based carbo
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-19** — news mention: Regional Voluntary Carbon Market Company: Saudi Arabia’s voluntary carbon market ranks among the top ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-5fcff15ca2c4))
+- **2026-08-19** — news mention: Regional Voluntary Carbon Market Company: يأتي #سوق_الكربون_الطوعي في السعودية ضمن أكبر ثلاثة أسواق  ([source](https://www.linkedin.com/company/voluntarycarbonmarket/#post-4470f4cc54e0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://vcm.sa/en/))

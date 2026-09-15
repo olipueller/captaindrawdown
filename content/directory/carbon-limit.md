@@ -30,6 +30,7 @@ Carbon Limit is a Boca Raton, Florida climate tech company founded in 2020/2021 
 
 ## History
 
+- **2026-08-29** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company of ([source](https://www.linkedin.com/company/carbonlimit/#post-e0d4f6499394))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-31** — news mention: Carbon Limit: Weâre proud to share that we are officially registered on the Verra Standards. ð  ([source](https://www.linkedin.com/company/carbonlimit/#post-6bf37ba2d5f2))
 - **2026-07-31** — news mention: Carbon Limit: CaptureCreteÂ® moves from engineering to real-world action. Weâve officially commiss ([source](https://www.linkedin.com/company/carbonlimit/#post-94fd1254a284))

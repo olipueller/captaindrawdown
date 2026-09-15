@@ -32,7 +32,7 @@ Biocare is an engineering-focused developer of biochar carbon removal projects w
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2023-04-01 → 2028-03-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbonchip-mobile-carboniser-1-137)
+- 1 project · Biochar, 2022 · crediting period 2023-04-01 → 2028-03-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbonchip-mobile-carboniser-1-137)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: Biocare: Iâm proud to share our new publication, Quantifying Inertinite Carbon in Biochar, co-auth ([source](https://www.linkedin.com/company/biocare-projects/#post-50041fc3192d))
+- **2026-08-30** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-1f5c7fc08580))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
 - **2026-07-25** — news mention: Biocare: I’m proud to share our new publication, Quantifying Inertinite Carbon in Biochar, co-author ([source](https://www.linkedin.com/company/biocare-projects/#post-27ff7aa000b7))

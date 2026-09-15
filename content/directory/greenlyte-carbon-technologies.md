@@ -34,6 +34,7 @@ Greenlyte Carbon Technologies is a German DAC startup founded in 2022 and headqu
 
 ## History
 
+- **2026-09-03** — news mention: Greenlyte Carbon Technologies: Our team is making strong progress towards de-risking our technology, ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-a76640f9153a))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-22** — news mention: Greenlyte Carbon Technologies: Scaling LiquidSolar™ from demonstration to a bankable technology: tha ([source](https://www.linkedin.com/company/greenlyte-carbon-technologies/#post-c250ab3e831a))
 - **2026-05-01** — refresh: screenshot

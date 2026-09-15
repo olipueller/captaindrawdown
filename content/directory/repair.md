@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Membrane)</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 9,619 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 10,338 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~51 (+34% YoY)</td></tr>
+  <tr><th>Employees</th><td>~43 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-14** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate capacity ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
 - **2026-08-08** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity o ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))
 - **2026-07-22** — news mention: RepAir: We're taking the heat out of carbon capture. Our Managing Director, Europe Jean-Philippe Hie ([source](https://www.linkedin.com/company/repair-carbon/#post-7f8934e54093))
 - **2026-07-20** — news mention: Massachusetts bill would end a costly gas pipeline repair program ([source](https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program))

@@ -30,6 +30,7 @@ CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by 
 
 ## History
 
+- **2026-08-28** — news mention: CarbonPool: We are live! Our Reversal Insurance Policy is officially approved by Verra under the Dur ([source](https://www.linkedin.com/company/carbonpool/#post-61ec18ed1398))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-08** — news mention: Community Climate Solutions: ⏰ There's still time to register!    Join us next Tuesday for a panel d ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-77573405bc0e))
 - **2026-07-30** — news mention: CarbonPool: BIG NEWS: We are Verra approved! CarbonPool is delighted to announce that Verra has appr ([source](https://www.linkedin.com/company/carbonpool/#post-e21c4a2a9c8f))

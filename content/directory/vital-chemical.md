@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://vitalindustries.com.au/" target="_blank" rel="noopener">https://vitalindustries.com.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vitalchemical/" target="_blank" rel="noopener">vitalchemical — 2,328 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vitalchemical/" target="_blank" rel="noopener">vitalchemical — 2,553 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~46 (+28% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (-7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Vital Chemical is a ~50-year-old Australian environmental products manufacturer 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-31** — news mention: Vital Chemical: Vital Chemical has released its Sustainability Impact Report for VE Geo-Loc Made by  ([source](https://www.linkedin.com/company/vitalchemical/#post-0a0307de76b8))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

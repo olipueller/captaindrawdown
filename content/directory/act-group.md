@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.actgroup.com/" target="_blank" rel="noopener">https://www.actgroup.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/actgroup/" target="_blank" rel="noopener">actgroup — 65,429 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~624 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 
 ## History
 
+- **2026-09-12** — news mention: ACT Group: 🌎 Brimex Energy®  emite el primer certificado de biometano de México para Norteamérica Br ([source](https://www.linkedin.com/company/actgroup/#post-b7ef658e7aa9))
+- **2026-09-04** — news mention: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African carbo ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
 - **2026-05-01** — refresh: screenshot

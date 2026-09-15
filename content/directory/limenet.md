@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://limenet.tech/en/" target="_blank" rel="noopener">https://limenet.tech/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/limenet-tech/" target="_blank" rel="noopener">limenet-tech — 6,350 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/limenet-tech/" target="_blank" rel="noopener">limenet-tech — 6,739 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~29 (+32% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,8 @@ Limenet is an Italian climate tech company operating an ocean alkalinity enhance
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: Limenet: How #sustainable are CO2 removal solutions when evaluated across their entire life cycle? W ([source](https://www.linkedin.com/company/limenet-tech/#post-02a4a9269a5e))
 - **2026-08-06** — news mention: Limenet: 🔩 Limenet takes another step towards full technology validation.   We have started the cons ([source](https://www.linkedin.com/company/limenet-tech/#post-a86e5d09c8a2))
 - **2026-07-30** — news mention: Limenet: How #sustainable are CO2 removal solutions when evaluated across their entire life cycle? W ([source](https://www.linkedin.com/company/limenet-tech/#post-852e0143900b))
 - **2026-07-23** — news mention: Limenet: Discover more about Limenet’s #calciner and why Fassa Bortolo decided to partner with us.   ([source](https://www.linkedin.com/company/limenet-tech/#post-66d9cf28f433))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.undergroundforest.nl" target="_blank" rel="noopener">https://www.undergroundforest.nl</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v — 94 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v — 223 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-01** — news mention: Underground Forest: SOLD OUT: All carbon credits from our Bergambacht Hospice building project 🏗️ We ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-714cfbb89599))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.undergroundforest.nl/home/en))
 - **2026-08-03** — news mention: Underground Forest: 20 tonnes of CO₂ permanently stored in buildings. Earlier this month, we reached ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-917801f7aa43))
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.undergroundforest.nl/home/en))

@@ -31,7 +31,7 @@ Exomad Green is a specialized division of Exomad, the largest wood exporter in B
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · crediting period 2023-04-03 → 2029-07-16 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/concepcion-1-51)
+- 2 projects · Biochar, 2022 · crediting period 2023-04-03 → 2029-07-16 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/concepcion-1-51)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Exomad Green: 🚨Milestone Alert🚨 We are proud to announce that Exomad Green has surpassed the milesto ([source](https://www.linkedin.com/company/exomad-green/#post-e3af480a6480))
 - **2026-08-06** — news mention: Exomad Green: ð¨Milestone Alertð¨ We are proud to announce that Exomad Green has surpassed the m ([source](https://www.linkedin.com/company/exomad-green/#post-e26ea95ec848))

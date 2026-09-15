@@ -29,6 +29,8 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
+- **2026-08-19** — news mention: The role of shipping capacity and maritime regulation in ocean liming deployment ([source](https://doi.org/10.21203/rs.3.rs-10430642/v1))
 - **2026-08-14** — news mention: European cities plan to compensate for a fifth of their emissions through carbon removal, few have t ([source](https://www.pik-potsdam.de/en/news/latest-news/european-cities-plan-to-compensate-for-a-fifth-of-their-emissions-through-carbon-removal-few-have-thought-through-how))
 - **2026-08-06** — news mention: Sirona Technologies: Massive inflection point for our industry 🚀🚀 The EU just proposed to include Di ([source](https://www.linkedin.com/company/sirona-technologies/#post-0b023009f5e5))
 - **2026-07-26** — news mention: Reply on RC2 ([source](https://doi.org/10.5194/egusphere-2026-2930-ac2))

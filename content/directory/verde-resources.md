@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.verderesources.com/" target="_blank" rel="noopener">https://www.verderesources.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr- — 1,018 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr- — 1,116 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,12 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-06** — news mention: Verde Resources: 🛣️ Verde Resources Inc. has partnered with HIGHWAY INTERNATIONAL PRIVATE LIMITED to ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-818e2dea546f))
+- **2026-09-01** — news mention: Verde Resources and Highway International Sign Memorandum of Understanding to Advance Carbon-Sequest ([source](https://biochartoday.com/news/verde-resources-and-highway-international-sign-memorandum-of-understanding-to-advance-carbon-sequestering-road-infrastructure-in-singapore/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-01** — news mention: Verde Partners With Highway International To Validate Biochar-Enhanced Asphalt In Singapore ([source](https://carbonherald.com/verde-partners-with-highway-international-to-validate-biochar-enhanced-asphalt-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=verde-partners-with-highway-international-to-validate-biochar-enhanced-asphalt-in-singapore))
+- **2026-08-23** — news mention: Verde Resources: Waste ➝ Biochar ➝ Roads ➝ Carbon sinks Verde has finalized a key supply and carbon  ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-b6ece6dae5b1))
+- **2026-08-16** — news mention: Verde Resources: Every mile is a carbon sink. From roads to sequestration, Verde Resources and Isome ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-d1d14b117739))
 - **2026-07-25** — news mention: Oregon Biochar Solutions: 🌍 Roads that remove carbon? That future is closer. Verde Resources Inc. ha ([source](https://www.linkedin.com/company/oregon-biochar-solutions/#post-2f24e6aab591))
 - **2026-07-25** — news mention: Verde Resources: Isometric , Verde Resources Inc. Move to Scale Carbon Removal Credits Through Infra ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-9a3d7f6f16be))
 - **2026-07-25** — news mention: Verde Resources: The road ahead is carbon-smart! Together with Ergon Asphalt &amp; Emulsions, Inc. , ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-a57d55990054))

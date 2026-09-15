@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,145 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,311 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~34 (+31% YoY)</td></tr>
+  <tr><th>Employees</th><td>~34 (+26% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504144206689628160/))
+- **2026-09-09** — news mention: #thedrop2026 #carbonremoval #climatetech #industrialdecarbonisation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7503075876134100992/))
+- **2026-09-05** — news mention: #carbonremoval #cdr #climatepolicy #euets #carbonmarkets #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501613074387234816/))
+- **2026-09-03** — news mention: #climatetech #mrv #carbonmanagement | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7495060101947494400/))
+- **2026-08-31** — news mention: #carbondioxideremoval #climatetech #sustainability | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7500080974894940160/))
+- **2026-08-27** — news mention: #mrv #carbonmanagement #decarbonisation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7495057688188534785/))
+- **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
+- **2026-08-21** — news mention: 📌 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 7: 𝐌𝐮𝐧𝐢𝐜𝐢𝐩𝐚𝐥𝐢𝐭𝐢𝐞𝐬 𝐝𝐨𝐧’𝐭 𝐣𝐮𝐬𝐭 𝐫𝐞𝐠𝐮𝐥𝐚𝐭𝐞 𝐜𝐥𝐢𝐦𝐚𝐭𝐞 𝐚𝐜𝐭𝐢𝐨𝐧 — 𝐭𝐡𝐞𝐲 𝐜𝐚𝐧 𝐚𝐜𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐞 𝐢𝐭.
+ 
+Many of t ([source](https://www.linkedin.com/feed/update/urn:li:share:7495049913232404480/))
+- **2026-08-18** — news mention: 🌍 Please join us in welcoming Martin Keim, PMP®, our newest Planeteer! 💚
+ 
+With a background in Envi ([source](https://www.linkedin.com/feed/update/urn:li:share:7495395277319688192/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: #climatefinance #climateinfrastructure #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7490042511680319488/))
 - **2026-08-07** — news mention: #carboncapture #carbonstorage #climatetech #industrialpartnerships #wastewatertreatment #mrv | Plane ([source](https://www.linkedin.com/feed/update/urn:li:share:7490035124017971200/))
@@ -73,20 +87,6 @@ With extensive experti ([source](https://www.linkedin.com/feed/update/urn:li:sha
 - **2026-06-15** — refresh: coresignal
 - **2026-06-11** — news mention: #hhis #hamburginnovationsummit #carbonremoval #climatetech #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470410455300280320/))
 - **2026-06-10** — news mention: #unitedbytech #vivatech2026 #planeteers #climatetech #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7470095057581346816/))
-- **2026-06-04** — news mention: #lifeatplaneteers #teamculture #internationalevening #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467859665549238272/))
-- **2026-05-29** — news mention: Planeteers: Meet us at the @[Negative Emissions Platform](urn:li:organization:69387564) Summit in Br ([source](https://www.linkedin.com/feed/update/urn:li:share:7465662435300003841/))
-- **2026-05-19** — news mention: #carbonremoval #climateintegrity #climatetech #planeteers #atmosfair #helix | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7460324716285853696/))
-- **2026-05-12** — news mention: 🌍 Please join us in welcoming Christian Barrera, our newest Planeteer! 💚
-
-With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:li:share:7457490151494049792/))
-- **2026-05-06** — news mention: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-28** — news mention: 🌍 Please join us in welcoming Tatum Miko Herrero, our newest Planeteer! 💚
-
-With a background in volc ([source](https://www.linkedin.com/feed/update/urn:li:share:7454886286924107776/))
-- **2026-04-21** — news mention: #climatetransition #carbonremoval #ccs #climatetech #partnerships | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7451993267208019968/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/company/))
 
 ---
 

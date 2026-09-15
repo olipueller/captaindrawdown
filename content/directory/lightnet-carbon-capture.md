@@ -15,9 +15,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.lightnetcc.com/en" target="_blank" rel="noopener">https://www.lightnetcc.com/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lightnetcc/" target="_blank" rel="noopener">lightnetcc — 53 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lightnetcc/" target="_blank" rel="noopener">lightnetcc — 60 followers</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ LightNET Carbon Capture (LNCC) is a Barcelona-based ICN2/CSIC spin-off that deve
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://rdcsic.dicat.csic.es/en/environment/success-stories/the-csic-promotes-green-innovation-with-its-participation-in-the-spin-off-lightnet-carbon-capture))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

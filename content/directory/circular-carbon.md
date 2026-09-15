@@ -33,6 +33,7 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 
 ## History
 
+- **2026-09-01** — news mention: Conversations around carbon storage are important - but seeing it in practice brings a whole new per ([source](https://www.linkedin.com/feed/update/urn:li:share:7500172799345594368/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
 - **2026-07-15** — news mention: Toward Circular Carbon Systems: A Comprehensive Review of Bioenergy with Carbon Capture, Utilization ([source](https://www.mdpi.com/2227-9717/14/14/2297))

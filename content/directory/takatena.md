@@ -27,6 +27,7 @@ Takatena Biochar Solutions is a Nanyuki, Kenya-based biochar producer that conve
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.takatena.com/))

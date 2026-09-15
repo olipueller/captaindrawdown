@@ -32,8 +32,8 @@ Fasera Holdings is an Australian company founded in 2005 that operates oil malle
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2022-03-01 → 2027-02-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-biochar-plant-1-91)
-- 1 project · Terrestrial Storage of Biomass · crediting period 2024-03-01 → 2029-02-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-tsb-facility-1-142)
+- 1 project · Biochar, 2022 · crediting period 2022-03-01 → 2027-02-28 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-biochar-plant-1-91)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2024-03-01 → 2029-02-28 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/fasera-tsb-facility-1-142)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

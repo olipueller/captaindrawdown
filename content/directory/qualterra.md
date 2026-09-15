@@ -5,7 +5,7 @@ type: "directory"
 description: "Qualterra operates patented Biomass Processing Units that pyrolyze agricultural waste (wheat straw, wood shavings, etc.) into biochar soil amendment while capturing renewable energy, with carbon"
 url: "/directory/qualterra/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.qualterraag.com/" target="_blank" rel="noopener">https://www.qualterraag.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuphyplants/" target="_blank" rel="noopener">nuphyplants — 1,083 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~20</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/qualterra/" target="_blank" rel="noopener">qualterra — 1,117 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~21 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ Qualterra is a Washington State-based agricultural technology company that produ
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
+- **2026-08-16** — news mention: Qualterra: 🌱 We’re thrilled to share that Qualterra and Plantd have joined forces to advance a true  ([source](https://www.linkedin.com/company/nuphyplants/#post-aa67391de600))
+- **2026-08-16** — news mention: Qualterra: We want to thank our partners at the College of Agriculture, Food, and Natural Resources  ([source](https://www.linkedin.com/company/nuphyplants/#post-cff00b2062cd))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
 - **2026-05-01** — refresh: screenshot

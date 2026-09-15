@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-29** — news mention: Offstream: If you're building a carbon removal project, this is the most useful 5-minute read we've  ([source](https://www.linkedin.com/company/useoffstream/#post-7b7bbc606008))
 - **2026-08-10** — news mention: ecoX: This week eco-x.com unveils its Biochar Production Facility in Minneapolis at USBI and then ne ([source](https://www.linkedin.com/company/eco-x-llc/#post-1d74a3c111f2))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

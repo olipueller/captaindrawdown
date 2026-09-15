@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Taiwan</td></tr>
   <tr><th>Website</th><td><a href="https://sacurn.com/" target="_blank" rel="noopener">https://sacurn.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sacurn-carbon/" target="_blank" rel="noopener">sacurn-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sacurn-carbon/" target="_blank" rel="noopener">sacurn-carbon — 30 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Sacurn Carbon is a Taiwan-based voluntary carbon credit developer and trader, no
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Sacurn Carbon Co.,LTD

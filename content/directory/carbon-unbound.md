@@ -30,6 +30,8 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-09-14** — news mention: Carbon Unbound Merges Its West Coast & East Coast Events Into One Flagship North American Summit ([source](https://carbonherald.com/carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit))
+- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149). Two  ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
 - **2026-05-28** — news mention: Puro.earth: Last week, the @[Puro.earth](urn:li:organization:14052561) team was in New York for @[Ca ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465387141292879872/))

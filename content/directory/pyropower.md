@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://pyro-power.com/" target="_blank" rel="noopener">https://pyro-power.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyropowersystems/" target="_blank" rel="noopener">pyropowersystems — 1,532 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyropowergmbh/" target="_blank" rel="noopener">pyropowergmbh — 1,701 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~8 (+167% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ pyropower GmbH is a German cleantech company based in Cottbus, Lusatia, founded 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-24** — news mention: pyropower: Die EU hat den ersten staatlich gestützten Standard für permanente CO₂-Entnahme in Kraft  ([source](https://www.linkedin.com/company/pyropowersystems/#post-e42e1d5d1d91))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

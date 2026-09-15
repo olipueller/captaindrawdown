@@ -30,6 +30,7 @@ GreenChar Climate Solutions is a Singapore-based startup that serves as a link b
 
 ## History
 
+- **2026-08-25** — news mention: DeCarbon Technology: Isometric has signed its first project developers in China, providing the high- ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/legal-entities/singapore/greenchar-climate-solutions-pte.ltd./__GK5flpzvhSJIfr0oru3OW-MTGMyW3sAXY4w8XaDmvNc))
 - **2026-08-10** — news mention: GreenChar Climate Solutions: China's first biochar carbon removal project validated under Carbon Sta ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-b13dd57eebd4))

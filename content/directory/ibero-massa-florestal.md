@@ -29,6 +29,9 @@ Ibero Massa Florestal (IMF) is a Portuguese biochar producer based in Oliveira d
 
 ## History
 
+- **2026-09-06** — news mention: Ibero Massa Florestal: 📢 New Publication! My recent review, “Biochar enhances soil hydrological buff ([source](https://www.linkedin.com/company/imflorestal/#post-8bd915132d71))
+- **2026-09-06** — news mention: Ibero Massa Florestal: 🌍📚 Orgulho em partilhar mais uma relevante contribuição científica do nosso D ([source](https://www.linkedin.com/company/imflorestal/#post-aa7e9c7babf1))
+- **2026-08-22** — news mention: Ibero Massa Florestal: Won a tonne of carbon removal from Portugal’s current largest biochar produce ([source](https://www.linkedin.com/company/imflorestal/#post-a1c31669d7d7))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/ibero/__BreM4r32ZvwnH0EXNQ0tHL-VfrWWt4samxIgka68OBw))
 - **2026-08-01** — news mention: Ibero Massa Florestal, S.A.: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa  ([source](https://www.linkedin.com/company/imflorestal/#post-3a5156800d05))

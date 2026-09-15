@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-19** — news mention: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary  ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-12** — news mention: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary o ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
 - **2026-05-01** — refresh: screenshot

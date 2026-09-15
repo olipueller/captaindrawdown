@@ -29,6 +29,7 @@ Cquestr8 is a Durham, UK-based startup founded in 2020 developing a reactor-base
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/cquestr8/__-CnabcR4rjj-Os9fSTPr1Y5FIO4CZhqgFxcA9mJMs3Q))
 - **2026-05-01** — refresh: screenshot

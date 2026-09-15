@@ -30,6 +30,7 @@ Counteract is a London-based venture capital fund dedicated exclusively to carbo
 
 ## History
 
+- **2026-08-28** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a ye ([source](https://www.linkedin.com/company/wecounteract/#post-7c2c9bcfb925))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
 - **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building th ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))

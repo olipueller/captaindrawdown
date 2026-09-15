@@ -29,6 +29,14 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
+- **2026-09-04** — news mention: Underserved Communities Again Ask Courts to Restore Justice Grant Funding ([source](https://insideclimatenews.org/news/04092026/communities-sue-again-over-termination-of-environmental-justice-grants/))
+- **2026-09-03** — news mention: New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects ([source](https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/))
+- **2026-09-02** — news mention: Lawsuit in Argentina Challenges British-Israeli Oil Project Near the Long-Disputed Falkland Islands ([source](https://insideclimatenews.org/news/02092026/argentina-challenges-british-israeli-oil-project-near-disputed-falkland-islands/))
+- **2026-09-02** — news mention: No Relief for Maui Wildfire Survivors Losing Thousands to Contractors ([source](https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/))
+- **2026-08-25** — news mention: As Ohio grapples with fake comments on clean energy, some want crackdown ([source](https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy))
+- **2026-08-21** — news mention: Lawsuit Seeks to Block Closure of Top Federal Climate Research Center ([source](https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/))
+- **2026-08-19** — news mention: Originally developed to power Captura’s Direct Ocean Capture systems, the BMED technology is now app ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtgwephlq22j))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-11** — news mention: Corpus Christi Seeks to Block Referendum on Industrial Water Charge ([source](https://insideclimatenews.org/news/11082026/corpus-christi-fair-water-amendment-industrial-charge/))
@@ -57,14 +65,6 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
 - **2026-06-10** — news mention: Energy-hungry aluminum plant is swept up in Oklahoma governor’s race ([source](https://www.canarymedia.com/articles/clean-aluminum/aluminum-plant-oklahoma-governor-race))
-- **2026-06-02** — news mention: What Is a Carbon Credit? Understanding the One-Tonne CO2e Building Block of Carbon Markets ([source](https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block))
-- **2026-06-01** — news mention: Terrafugia Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/terrafugia))
-- **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*  ⬜⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
-- **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
-- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
-- **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
-- **2026-05-01** — news mention: It would have reinforced a longstanding precedent and a potential outcome not the same as a legal pr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkqwrxxsec2p))
-- **2026-05-01** — refresh: screenshot
 
 ---
 

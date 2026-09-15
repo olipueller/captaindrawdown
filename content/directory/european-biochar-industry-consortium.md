@@ -31,6 +31,7 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 
 ## History
 
+- **2026-08-30** — news mention: CarStorCon: 🏗️ „Decarbonizing the Built Environment with Biochar: A Blueprint“ - das Whitepaper von  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-3c105b05636a))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
 - **2026-07-23** — news mention: German Biochar Association: 📚 Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem Whitepaper ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))

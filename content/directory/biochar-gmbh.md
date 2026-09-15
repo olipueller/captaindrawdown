@@ -30,6 +30,7 @@ BIOCHAR GmbH & Co. KG is the Convoris subsidiary that produces and sells biochar
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](http://biochar-biokohle.de/ansprechpartner))

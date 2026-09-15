@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://towing.co.jp/" target="_blank" rel="noopener">https://towing.co.jp/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/towing-co-ltd/" target="_blank" rel="noopener">towing-co-ltd — 711 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/towing-co-ltd/" target="_blank" rel="noopener">towing-co-ltd — 812 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~24 (+41% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+4% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,9 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in Th ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
+- **2026-08-16** — news mention: Towing: Some updates regarding TOWING's recent initiatives! 1. Collaboration with Suntory (Tea and S ([source](https://www.linkedin.com/company/towing-co-ltd/#post-6b2ec4a8d076))
 - **2026-08-08** — news mention: Towing: At Suntory, we believe innovation can help create a more sustainable future. Today, we’re pl ([source](https://www.linkedin.com/company/towing-co-ltd/#post-065881eac92b))
 - **2026-08-08** — news mention: Towing: 農林水産省「みどり加速化GXプラン」の事例としてTOWINGが紹介されました。 TOWING has been featured as a case study in the Mini ([source](https://www.linkedin.com/company/towing-co-ltd/#post-22b6ed456bd8))
 - **2026-08-06** — news mention: TOWING Unveils Japan’s Largest Production Facility to Convert 10,000 Tonnes of Livestock Biomass int ([source](https://biochartoday.com/news/towing-unveils-japans-largest-production-facility-to-convert-10000-tonnes-of-livestock-biomass-into-biochar/))

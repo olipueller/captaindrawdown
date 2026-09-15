@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cotierra-ag/" target="_blank" rel="noopener">cotierra-ag — 5,833 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cotierra-ag/" target="_blank" rel="noopener">cotierra-ag — 5,979 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (+31% YoY)</td></tr>
+  <tr><th>Employees</th><td>~18 (+12% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,6 +34,12 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: Terra Preta (Cotierra): From agricultural waste to resilient coffee supply.   Excited to work with J ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-2f57796d14f1))
+- **2026-08-29** — news mention: Cotierra: Today, our first Collaborative Impact Project was signed in #Colombia ! The project #Alian ([source](https://www.linkedin.com/company/cotierra-ag/#post-5d8e33eb0a16))
+- **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
+- **2026-08-15** — news mention: Cotierra: Trust is built on delivery. We’re excited to share a major milestone with  myclimate :  We ([source](https://www.linkedin.com/company/cotierra-ag/#post-93bda950f4de))
+- **2026-08-15** — news mention: Cotierra: Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e of carbon rem ([source](https://www.linkedin.com/company/cotierra-ag/#post-9a60c45d1c2c))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-06** — news mention: Terra Preta (Cotierra): Today, our first Collaborative Impact Project was signed in #Colombia ! The  ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-5d8e33eb0a16))
 - **2026-08-03** — news mention: Korean Researchers Turn Wet Coffee Grounds Into Biochar in 90 Seconds ([source](https://dailycoffeenews.com/2026/08/03/korean-researchers-turn-wet-coffee-grounds-into-biochar-in-90-seconds/))
@@ -58,12 +64,6 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Cotierra (slug=cotierra)
 - **2026-04-19** — merged 1 duplicate(s): Terra Preta
-- **2026-04-19** — refresh: screenshot, liveliness
-- **2026-04-19** — liveliness: 🔴 Likely Dead → 🟡 Moderate ([source](None))
-- **2026-04-19** — reclassified: pathway=Biochar focus=review_needed liveliness=🔴 Likely Dead ([source](https://terra-preta.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=review_needed liveliness=🔴 Likely Dead ([source](https://terra-preta.de/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Terra Preta (slug=terra-preta)
 
 ---
 

@@ -29,6 +29,10 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-09-02** — news mention: Drax: We recently announced that we’d completed the acquisition of Bluefield Solar Income Fund (BSIF ([source](https://www.linkedin.com/company/drax-power/#post-5556db1a4be7))
+- **2026-08-31** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
+- **2026-08-24** — news mention: Drax Power Station - Wikipedia ([source](https://en.wikipedia.org/wiki/Drax_Power_Station))
+- **2026-08-20** — news mention: European Commission approves Dutch state aid to support SAF | Biomass Magazine ([source](https://biomassmagazine.com/articles/european-commission-approves-dutch-state-aid-to-support-saf))
 - **2026-08-11** — news mention: Drax: Today marks a significant milestone in Drax's growth journey as we complete the acquisition of ([source](https://www.linkedin.com/company/drax-power/#post-70760b4e4e72))
 - **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
 - **2026-08-07** — news mention: Additional carbon drawdown potential by increasing Soil Organic Carbon appears to be significantly h ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msipznycrk2o))

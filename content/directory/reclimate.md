@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.reclimate.earth/" target="_blank" rel="noopener">https://www.reclimate.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal — 1,818 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+125% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal — 2,834 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~13 (+225% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Reclimate has several biochar projects in its portfolio, working with farmers an
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-15** — news mention: Reclimate: What was once left behind now has a new purpose. 🌽🌱 We’re excited to introduce the Blora  ([source](https://www.linkedin.com/company/reclimateglobal/#post-2d8f92d498ce))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reclimate.earth/))

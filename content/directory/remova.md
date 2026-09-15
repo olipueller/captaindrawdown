@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.remova.earth/" target="_blank" rel="noopener">https://www.remova.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remova-carbon-systems/" target="_blank" rel="noopener">remova-carbon-systems — 62 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remova-carbon-systems/" target="_blank" rel="noopener">remova-carbon-systems — 94 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-03** — news mention: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight they’ ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))
 - **2026-07-27** — news mention: Remova: Today we’re announcing that Frontier has raised an additional $915M for carbon removal, from ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e3e7a0ff2985))
 - **2026-07-26** — news mention: Canadian Wollastonite: 🚀 Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5 Milli ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))

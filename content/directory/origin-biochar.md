@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a Biomacon pyrolysis unit producing biochar granules sold as livestock feed additive (\"feedchar\") and horticultural biochar, with renewable heat and carbon sequestration as co-benefits."
 url: "/directory/origin-biochar/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://originbiochar.com/" target="_blank" rel="noopener">https://originbiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origin-biochar/" target="_blank" rel="noopener">origin-biochar — 106 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/originbiochar/" target="_blank" rel="noopener">originbiochar — 110 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +29,9 @@ Origin Biochar is a biochar product brand of R&S Biomass Equipment Ltd, a Northe
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://originbiochar.com/))
+- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://originbiochar.com/))

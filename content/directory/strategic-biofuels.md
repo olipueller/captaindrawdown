@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://strategicbiofuels.com/" target="_blank" rel="noopener">https://strategicbiofuels.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels — 2,157 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels — 2,273 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-29** — news mention: Strategic Biofuels: A major milestone for Strategic Biofuels and the future of clean energy in Louis ([source](https://www.linkedin.com/company/strategic-biofuels/#post-79a634a0ac78))
+- **2026-08-22** — news mention: Strategic Biofuels: Strategic Biofuels has reached a major milestone in advancing Louisianaâs next ([source](https://www.linkedin.com/company/strategic-biofuels/#post-8ff70d63fd7d))
 - **2026-07-31** — news mention: Strategic Biofuels: Strategic Biofuels has reached a major milestone in advancing Louisiana’s next c ([source](https://www.linkedin.com/company/strategic-biofuels/#post-017259d1e341))
 - **2026-07-30** — news mention: Integrating CCS with biomass and cogen - Modern Power Systems ([source](https://www.modernpowersystems.com/analysis/carbon-capture-storage/integrating-ccs-with-biomass-and-cogen/))
 - **2026-07-24** — news mention: Strategic Biofuels: A major milestone for Strategic Biofuels and the future of clean energy in Louis ([source](https://www.linkedin.com/company/strategic-biofuels/#post-f176e3e2d56e))

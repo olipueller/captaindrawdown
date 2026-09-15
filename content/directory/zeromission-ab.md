@@ -31,6 +31,7 @@ ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon cred
 
 ## History
 
+- **2026-08-21** — news mention: ZeroMission AB: New quality milestone for Plan Vivo on the voluntary carbon market 🌱 Plan Vivo , a s ([source](https://www.linkedin.com/company/zeromission-ab/#post-9de7ac65cb33))
 - **2026-08-14** — news mention: ZeroMission AB: 🌍 Historiskt genombrott för klimatfinansiering då ZeroMission var på plats i Zürich  ([source](https://www.linkedin.com/company/zeromission-ab/#post-22104a233d8f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Bio-oil Sequestration</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://nulifegreentech.com/" target="_blank" rel="noopener">https://nulifegreentech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nulife-greentech/" target="_blank" rel="noopener">nulife-greentech — 1,135 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nulife-greentech/" target="_blank" rel="noopener">nulife-greentech — 1,212 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-09-30</small></td></tr>
-  <tr><th>Employees</th><td>~30 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-09-30)</small></td></tr>
 </table>
@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
 - **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
 - **2026-07-25** — news mention: NULIFE GreenTech: Who would have thought that a bunch of pipes in a snowy Canadian winter equals car ([source](https://www.linkedin.com/company/nulife-greentech/#post-8b0b35e7d985))
 - **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))

@@ -30,6 +30,9 @@ BlueLayer is a Berlin-based software platform providing an end-to-end operating 
 
 ## History
 
+- **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
+- **2026-09-02** — news mention: BlueLayer joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/bluelayer-joins-the-negative-emissions-platform))
+- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice h ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
 - **2026-08-06** — news mention: BlueLayer: BlueLayer is now a Rainbow Standard -endorsed dMRV provider. We’ve been selected for the  ([source](https://www.linkedin.com/company/getbluelayer/#post-3463501a5dc5))

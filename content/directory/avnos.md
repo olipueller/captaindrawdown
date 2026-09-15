@@ -30,6 +30,12 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 
 ## History
 
+- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
+- **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the operationa ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
+- **2026-09-04** — news mention: Avnos: ð Avnos has launched operations at Project Brighton in New Jersey, its largest Hybrid Dire ([source](https://www.linkedin.com/company/avnos-inc/#post-21c0e0bfbc10))
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-01** — news mention: In 2026, Avnos Predicts A Strong Hybrid DAC Demand Driven By AI Data Centers And Industrial Decarbon ([source](https://carbonherald.com/in-2026-avnos-predicts-a-strong-hybrid-dac-demand-driven-by-ai-data-centers-and-industrial-decarbonization/))
+- **2026-09-01** — news mention: Exclusive: Avnos Launches Hybrid DAC Operations At Project Brighton ([source](https://carbonherald.com/exclusive-avnos-launches-hybrid-dac-operations-at-project-brighton/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-avnos-launches-hybrid-dac-operations-at-project-brighton))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))

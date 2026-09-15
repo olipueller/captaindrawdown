@@ -32,7 +32,7 @@ Woodcache PBC is a U.S. public benefit corporation (founded 2022, based in Provo
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Terrestrial Storage of Biomass · crediting period 2023-08-30 → 2029-09-14 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/domino-104)
+- 2 projects · Terrestrial Storage of Biomass · crediting period 2023-08-30 → 2029-09-14 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/domino-104)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

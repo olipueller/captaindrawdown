@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates charcoal kilns that pyrolyze sustainably-sourced British wood, producing lumpwood BBQ charcoal as the main product with biochar as a co-product bagged for gardening and horticultural soil"
 url: "/directory/oxford-charcoal-company/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.oxfordcharcoal.co.uk/" target="_blank" rel="noopener">https://www.oxfordcharcoal.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-oxford-charcoal-company-ltd/" target="_blank" rel="noopener">the-oxford-charcoal-company-ltd</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-oxford-charcoal-company-ltd/" target="_blank" rel="noopener">the-oxford-charcoal-company-ltd — 35 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Oxford Charcoal Company is a UK producer of ethically-sourced lumpwood gourmet c
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.oxfordcharcoal.co.uk/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.oxfordcharcoal.co.uk/))

@@ -30,6 +30,7 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 
 ## History
 
+- **2026-09-10** — news mention: CDRjobs: We're excited to announce our partnership with atmosfair gGmbH This marks Atmosfair's first ([source](https://www.linkedin.com/company/cdrjobs/#post-cb9a19e874cc))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-06** — news mention: CDRjobs: Today, we’re excited to announce that the European Innovation Council has selected Paebbl f ([source](https://www.linkedin.com/company/cdrjobs/#post-4ecf1d949537))
 - **2026-08-06** — news mention: CDRjobs: 🎉 Congratulations to Paebbl ! Paebbl has been selected by the European Innovation Council f ([source](https://www.linkedin.com/company/cdrjobs/#post-fce70b881854))

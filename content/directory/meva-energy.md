@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://mevaenergy.com/" target="_blank" rel="noopener">https://mevaenergy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meva-energy/" target="_blank" rel="noopener">meva-energy — 3,905 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/meva-energy/" target="_blank" rel="noopener">meva-energy — 4,126 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~35 (+2% YoY)</td></tr>
+  <tr><th>Employees</th><td>~36 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that bu
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar🪑🪨 At this year’s Biochar Summit, you’ ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mevaenergy.com/))
 - **2026-05-01** — refresh: screenshot

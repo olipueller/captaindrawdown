@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.pronoe.earth/" target="_blank" rel="noopener">https://www.pronoe.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pronoe-earth/" target="_blank" rel="noopener">pronoe-earth — 3,539 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pronoe-earth/" target="_blank" rel="noopener">pronoe-earth — 4,165 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+78% YoY)</td></tr>
+  <tr><th>Employees</th><td>~19 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and ou ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
 - **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
 - **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
 - **2026-05-22** — news mention: Singapore Management University Launches South-east Asia's First University-Anchored Fund Dedicated  ([source](https://moneycompass.com.my/singapore-management-university-launches-south-east-asias-first-university-anchored-fund-dedicated-to-urban-solutions-sustainability/))

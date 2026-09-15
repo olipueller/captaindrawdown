@@ -31,6 +31,8 @@ The SocialCarbon Standard was developed by the Ecológica Institute in Brazil in
 
 ## History
 
+- **2026-09-04** — news mention: Social Carbon: 🔥 What happens when vegetation recovers — but fire keeps resetting the carbon balance ([source](https://www.linkedin.com/company/social-carbon/#post-b79133937282))
+- **2026-08-20** — news mention: Social Carbon: 30 km of drainage ditches filled. More than 300 surface dams built. Almost 500 hectar ([source](https://www.linkedin.com/company/social-carbon/#post-684741275d56))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-06** — news mention: Social Carbon: 📢 Public consultation now open: Jurisdictional and Nested REDD+ Requirements v2.0 As  ([source](https://www.linkedin.com/company/social-carbon/#post-b94db44a1714))
 - **2026-07-30** — news mention: Social Carbon: There is no single measurement pathway that will work for every regenerative agricult ([source](https://www.linkedin.com/company/social-carbon/#post-0c354b103f1c))

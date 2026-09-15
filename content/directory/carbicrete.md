@@ -34,6 +34,8 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
+- **2026-08-20** — news mention: CarbiCrete: The Construction Products Group and IAPMO UES are eager to announce that CarbiCrete has  ([source](https://www.linkedin.com/company/carbicrete/#post-6dfd45f95213))
+- **2026-08-20** — news mention: CarbiCrete: CarbiCrete is pleased to share that our cement-free #concrete masonry units are complian ([source](https://www.linkedin.com/company/carbicrete/#post-a81080d727a1))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-22** — news mention: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science a ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
 - **2026-07-22** — news mention: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete procurem ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))

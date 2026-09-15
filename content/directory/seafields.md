@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.seafields.eco" target="_blank" rel="noopener">https://www.seafields.eco</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seafieldssl/" target="_blank" rel="noopener">seafieldssl — 2,369 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seafieldssl/" target="_blank" rel="noopener">seafieldssl — 2,429 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~19 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Seafields is a UK-based aquaculture carbon-removal company that intercepts, farm
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/seafields-is-gathering-funds-to-turn-coastal-seaweed-crisis-into-a-cdr-solution/))
 - **2026-08-07** — news mention: Seafields Solutions Limited: 🔔 🌊 We've been looking forward to sharing this news for quite some time ([source](https://www.linkedin.com/company/seafieldssl/#post-0930e2933591))
 - **2026-07-31** — news mention: Seafields Solutions Limited: Big milestone for Seafields ðð The first scientific paper featuri ([source](https://www.linkedin.com/company/seafieldssl/#post-0a2dc617ee8e))

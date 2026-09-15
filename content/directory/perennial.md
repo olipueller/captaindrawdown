@@ -35,6 +35,10 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 ## History
 
+- **2026-09-05** — news mention: Diagnostic Limitations in Soil Health Frameworks for Tropical Perennial Systems: A Critical Review a ([source](https://www.mdpi.com/2073-4395/16/17/1733))
+- **2026-09-03** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping â ([source](https://www.linkedin.com/company/perennial-earth/#post-a3d02f65f78f))
+- **2026-08-27** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-c53eb7196a5e))
+- **2026-08-25** — news mention: Carbon removal at the Farm Gate:Five questions for land managers ([source](https://openalex.org/W7204016391))
 - **2026-08-13** — news mention: Google Opens 2026 Climate R&D Awards for Carbon Removal - ESG News ([source](https://esgnews.com/google-opens-2026-climate-rd-awards-for-carbon-removal/))
 - **2026-07-22** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-f2d765f7c634))
 - **2026-07-22** — news mention: Perennial: Thanks to Carbon Herald for covering our team's third peer-reviewed study on digital soil ([source](https://www.linkedin.com/company/perennial-earth/#post-da61de2ab44d))

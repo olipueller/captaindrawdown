@@ -34,6 +34,7 @@ Arbon is a Brooklyn-based climate tech startup spun out of Columbia University d
 
 ## History
 
+- **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: Arbon Earth: Stockholm just became the 5th largest buyer of carbon removals in the world! Huge news  ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-db7d274fbea4))
 - **2026-05-01** — refresh: screenshot

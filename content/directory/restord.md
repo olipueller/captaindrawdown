@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.restord.earth/" target="_blank" rel="noopener">https://www.restord.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restord-earth/" target="_blank" rel="noopener">restord-earth — 1,686 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/restord-earth/" target="_blank" rel="noopener">restord-earth — 1,850 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ Restord is a Cornwall-based UK biochar startup founded by Tom Previte that conve
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-29** — news mention: Restord: A couple of weeks ago, we went public with Restordâs Â£1m financing deal. This week on Gr ([source](https://www.linkedin.com/company/restord-earth/#post-109679f8ba79))
+- **2026-08-15** — news mention: Restord: ððð¬ð­ð¨ð«ð ðððð®ð«ðð¬ ð ð¢ð«ð¬ð­-ð¨ð-ð ([source](https://www.linkedin.com/company/restord-earth/#post-9f21c0b106cc))
+- **2026-08-15** — news mention: Restord: How a $200,000 pre-purchase helped unlock a Â£1m bank loan. Terraset have written the story ([source](https://www.linkedin.com/company/restord-earth/#post-c1b6e8aba318))
 - **2026-08-08** — news mention: Restord: Something significant happened for UK carbon removal this week. The UK currently supplies l ([source](https://www.linkedin.com/company/restord-earth/#post-823c835e4bb5))
 - **2026-08-08** — news mention: Restord: A couple of weeks ago, we went public with Restord’s £1m financing deal. This week on Groun ([source](https://www.linkedin.com/company/restord-earth/#post-1e272113bb80))
 - **2026-07-31** — news mention: Restord: How a $200,000 pre-purchase helped unlock a £1m bank loan. Terraset have written the story  ([source](https://www.linkedin.com/company/restord-earth/#post-c5acd34b3150))

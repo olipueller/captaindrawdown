@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.roblumco.com/" target="_blank" rel="noopener">https://www.roblumco.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/robinson-lumber-company-inc-/" target="_blank" rel="noopener">robinson-lumber-company-inc- — 2,069 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/roblumco/" target="_blank" rel="noopener">roblumco — 2,149 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~60 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~58 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesa
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
 - **2026-07-24** — news mention: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver Creek  ([source](https://www.linkedin.com/company/robinson-lumber-company-inc-/#post-90d95d476026))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))

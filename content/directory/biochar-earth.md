@@ -29,6 +29,7 @@ Biochar Earth is a biochar carbon removal (BCR) supplier focused on converting c
 
 ## History
 
+- **2026-08-24** — news mention: Biochar Earth: ðð¶ð¼ð°ðµð®ð¿ ðµð®ð ðµðð´ð² ð½ð¼ðð²ð»ðð ([source](https://www.linkedin.com/company/biochar-earth/#post-5820bb92b1a5))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/company/biochar-earth/))
 - **2026-08-09** — news mention: Biochar Earth: The EU just did something historic for carbon removal. And it matters more than most  ([source](https://www.linkedin.com/company/biochar-earth/#post-6b60e60877ae))
 - **2026-05-01** — refresh: coresignal, screenshot

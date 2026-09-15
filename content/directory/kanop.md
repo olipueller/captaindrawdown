@@ -35,6 +35,8 @@ Kanop is a Paris-based MRV software company founded in 2021 that uses AI and sat
 
 ## History
 
+- **2026-08-27** — news mention: Kanop: 🌱 The EU just gave carbon farming its rulebook. This week the European Commission adopted thr ([source](https://www.linkedin.com/company/kanop/#post-7c1f07b2eb80))
+- **2026-08-20** — news mention: Kanop: ð± The EU just gave carbon farming its rulebook. This week the European Commission adopted  ([source](https://www.linkedin.com/company/kanop/#post-41f6d294ab9c))
 - **2026-07-22** — news mention: Kanop: Verra has officially vetted Kanop as a Data Service Provider for VM0047. That makes us the on ([source](https://www.linkedin.com/company/kanop/#post-18b7df4fc3b2))
 - **2026-07-22** — news mention: Kanop: 🌱 The EU just gave carbon farming its rulebook. This week the European Commission adopted thr ([source](https://www.linkedin.com/company/kanop/#post-92456e68dec0))
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://netzero.green/en/" target="_blank" rel="noopener">https://netzero.green/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/netzerogreen/" target="_blank" rel="noopener">netzerogreen — 19,255 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/netzero/" target="_blank" rel="noopener">netzero — 19,951 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~135 (+30% YoY)</td></tr>
+  <tr><th>Employees</th><td>~194</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-07-28)</small></td></tr>
@@ -32,7 +32,7 @@ NetZero is a French biochar company founded in 2021 and headquartered in Paris t
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 3 projects · Biochar, 2022 · crediting period 2022-06-06 → 2029-07-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/netzero-002-lajinha)
+- 3 projects · Biochar, 2022 · crediting period 2022-06-06 → 2029-07-28 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/netzero-002-lajinha)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,16 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-13** — news mention: Onnu: Another household name is backing biochar 🍃  PayPal is continuing to build a diversified carbo ([source](https://www.linkedin.com/company/onnuhq/#post-cfca6d15d35a))
+- **2026-09-09** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-3d46bc919598))
+- **2026-09-09** — news mention: #climateweeknyc #climeworks #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503087657711820803/))
+- **2026-08-30** — news mention: PureField Ingredients: The results are in: injection is successful, and carbon is now being safely s ([source](https://www.linkedin.com/company/purefield-ingredients/#post-756b0031b472))
+- **2026-08-26** — news mention: NetZero: We are proud to announce the signature of a MOU with Atvos , one of the largest biofuel pro ([source](https://www.linkedin.com/company/netzerogreen/#post-25020cb08c64))
+- **2026-08-26** — news mention: NetZero: Last Friday, NetZero inaugurated its fourth biochar factory. Located in Brazil's largest co ([source](https://www.linkedin.com/company/netzerogreen/#post-bab173c52841))
+- **2026-08-23** — news mention: Southern Green Gas: Capturing COâ directly from the atmosphere is a vital step for decarbonising s ([source](https://www.linkedin.com/company/southern-green-gas/#post-327a694ce7d9))
+- **2026-08-17** — news mention: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its Middlesb ([source](https://www.linkedin.com/company/carbon-plant/#post-83c659d48f80))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-11** — news mention: Ecologi Action Ltd: ISO 14060 is the new draft ISO standard for organisational net-zero. 🎯 It sets o ([source](https://www.linkedin.com/company/offset-earth/#post-461f4ea6be4a))
 - **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our cor ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
 - **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely stored ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
@@ -62,16 +72,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
 - **2026-06-24** — news mention: #londonclimateactionweek #lcaw2026 #climateaction #carbonmarkets #sustainability #climatesolutions # ([source](https://www.linkedin.com/feed/update/urn:li:share:7474809515964723200/))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxieremoval #cdr #netzero #climateaction | Deutscher Verband für negativ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473732709928984576/))
-- **2026-06-24** — news mention: #sbti #netzero #corporateclimate #decarbonization #industrialdecarbonization | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474902750884188160/))
-- **2026-06-10** — news mention: #carbonremoval #netzero #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470375845363331072/))
-- **2026-06-08** — news mention: #biochar #carbonremoval #cdr #biocharsummit #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7469730049823244288/))
-- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
-- **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
-- **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
-- **2026-05-18** — news mention: #climateaction #carbonremoval #climatesolutions #netzero #event #italy | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7462050202669977600/))
-- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
-- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
-- **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
 
 ---
 

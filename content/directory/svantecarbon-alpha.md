@@ -5,7 +5,7 @@ type: "directory"
 description: "Svante manufactures nanoengineered solid-sorbent filters and modular rotating contactor machines for capturing CO2 from industrial flue gas and air, and via its Carbon Alpha subsidiary develops BECCS"
 url: "/directory/svantecarbon-alpha/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>DAC</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.svanteinc.com/" target="_blank" rel="noopener">https://www.svanteinc.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions — 25,849 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~289 (-2% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/svantesolutions/" target="_blank" rel="noopener">svantesolutions — 26,842 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~287 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,6 +33,11 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Mercer Peace River is receiving C$20 million in support from the Government of  ([source](https://www.linkedin.com/company/svantesolutions/#post-05804bdf12b1))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, the Government of Alberta announced $20 million in funding, delivered th ([source](https://www.linkedin.com/company/svantesolutions/#post-496ec142b6df))
+- **2026-09-02** — news mention: Svante/Carbon Alpha: Today, Emissions Reduction Alberta (ERA) announced that it is awarding $20 mill ([source](https://www.linkedin.com/company/svantesolutions/#post-78ab1bf0da1c))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
 - **2026-05-01** — refresh: screenshot
@@ -58,11 +63,6 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
-- **2026-04-18** — discovered via: brave ([source](https://www.svanteinc.com/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/press-releases/svante-mltc-beccs-cdrs-microsoft/))
 
 ---
 

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.super6carbon.com/" target="_blank" rel="noopener">https://www.super6carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/super6-carbon-inc/" target="_blank" rel="noopener">super6-carbon-inc — 113 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/super6-carbon-inc/" target="_blank" rel="noopener">super6-carbon-inc — 131 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,8 @@ Super6 Carbon is a U.S. engineered-CDR project developer that aggregates concent
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-01** — news mention: Super6 Carbon: Excited to share some big news: Super6 Carbon, Inc. and ADM have signed an MOU to pro ([source](https://www.linkedin.com/company/super6-carbon-inc/#post-0d3ba0d48e01))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/adm-teams-up-with-super6-carbon-to-monetise-carbon-removal-at-decatur-site/))
 - **2026-08-03** — news mention: Super6 Carbon: https://lnkd.in/gV-ryxDh ADM Teams Up with Super6 Carbon To Monetise Carbon Removal A ([source](https://www.linkedin.com/company/super6-carbon-inc/#post-29d2fed8ccd4))
 - **2026-07-26** — news mention: Super6 Carbon: Excited to share some big news: Super6 Carbon, Inc. and ADM have signed an MOU to pro ([source](https://www.linkedin.com/company/super6-carbon-inc/#post-c1991121518a))

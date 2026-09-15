@@ -31,7 +31,7 @@ Ecoera is a Swedish biochar carbon removal company founded at Chalmers Ventures 
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2019-07-01 → 2024-03-31 (expired) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/ecoera-millennium-1-hammenhog-skanefro)
+- 1 project · Biochar, 2022 · crediting period 2019-07-01 → 2024-03-31 (expired) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/ecoera-millennium-1-hammenhog-skanefro)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

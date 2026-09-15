@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.terranova.inc/" target="_blank" rel="noopener">https://www.terranova.inc/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/levitree/" target="_blank" rel="noopener">levitree — 4,970 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terranova-inc/" target="_blank" rel="noopener">terranova-inc — 5,770 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~28</td></tr>
+  <tr><th>Employees</th><td>~41</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ Terranova (formerly Levitree) is a San Francisco/Berkeley-based terraforming rob
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-31** — news mention: TerraNova Energy: TerraNovaÂ®ultra HTC plant receives Japanese JS certification ð for sewage slud ([source](https://www.linkedin.com/company/terranova-energy/#post-bdce17702e6c))
+- **2026-08-31** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNovaÂ®ultra process ([source](https://www.linkedin.com/company/terranova-energy/#post-1ef75b2fa217))
+- **2026-08-16** — news mention: TerraNova Energy: How can we transform the waste from one of the world's largest landfills - from an ([source](https://www.linkedin.com/company/terranova-energy/#post-8f5068c9dabf))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://terranovacorp.com/))
 - **2026-08-01** — news mention: TerraNova Energy: Sewage sludge reaches End-of-Waste status in Poland after TerraNova®ultra process  ([source](https://www.linkedin.com/company/terranova-energy/#post-e348192c7e07))
 - **2026-07-25** — news mention: TerraNova Energy: TerraNova®ultra HTC plant receives Japanese JS certification 📃 for sewage sludge t ([source](https://www.linkedin.com/company/terranova-energy/#post-6ab96cc860f8))

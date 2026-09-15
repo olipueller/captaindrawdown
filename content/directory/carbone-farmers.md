@@ -31,6 +31,8 @@ Carbone Farmers coordinates collective Label Bas-Carbone projects, such as one w
 
 ## History
 
+- **2026-08-20** — news mention: Carbone Farmers: Avez-vous entendu parler du Buyers' Club du #CRCF  ? 👀 Il s’agit d’un club d'achete ([source](https://www.linkedin.com/company/carbone-farmers/#post-92395205fe39))
+- **2026-08-20** — news mention: Carbone Farmers: Vous l'aviez peut-être loupée, mais la troisième Stratégie nationale bas-carbone  ([source](https://www.linkedin.com/company/carbone-farmers/#post-d3a417153ede))
 - **2026-08-06** — news mention: Carbone Farmers: Le 𝙘𝙖𝙧𝙗𝙤𝙣 𝙛𝙖𝙧𝙢𝙞𝙣𝙜 européen a enfin ses règles du jeu… et c'est une bonne nouvelle p ([source](https://www.linkedin.com/company/carbone-farmers/#post-f84f8abaf46a))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.carbonefarmers.com/accueil/))

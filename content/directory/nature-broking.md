@@ -31,6 +31,7 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 
 ## History
 
+- **2026-08-29** — news mention: Nature Broking: CCP approval covers 95% of the market. Real progress, although not a substitute for  ([source](https://www.linkedin.com/company/nature-broking/#post-a9f693da1c3c))
 - **2026-07-24** — news mention: Nature Broking: 🌿 Last week we announced the QBE Buyers Club, and in 48 hours the coverage reached j ([source](https://www.linkedin.com/company/nature-broking/#post-11b7e6ae4a98))
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
 - **2026-05-01** — refresh: coresignal, screenshot

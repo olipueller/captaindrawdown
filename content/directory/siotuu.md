@@ -27,6 +27,7 @@ SIOTUU GmbH is an Austrian biochar producer based in Fließ/Landeck, Tyrol, that
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-06-15** — refresh: liveliness
 - **2026-06-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.klimate.co/project/siotuu-biochar))
 - **2026-05-01** — refresh: screenshot

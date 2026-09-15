@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://skyrenu.com/" target="_blank" rel="noopener">https://skyrenu.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skyrenu-technologies/" target="_blank" rel="noopener">skyrenu-technologies — 1,340 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skyrenu-technologies/" target="_blank" rel="noopener">skyrenu-technologies — 1,429 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+57% YoY)</td></tr>
+  <tr><th>Employees</th><td>~10 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Skyrenu Technologies is a Quebec-based direct air capture company developing com
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-15** — news mention: Skyrenu: Demand was never the hard part of carbon removal. Supply is. Last week, Frontier Infrastruc ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-bc59f25c1e41))
 - **2026-07-25** — news mention: Skyrenu: Build, prove, deliver. Our partner Deep Sky  just showed the carbon removal industry what e ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-cd925b4c4b2a))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

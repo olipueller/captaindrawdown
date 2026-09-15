@@ -28,6 +28,7 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
 - **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))

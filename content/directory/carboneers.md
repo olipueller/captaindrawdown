@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-22** — news mention: Carboneers: We celebrate the start of a new coalition: Biochar4All. Together with Ndugu Coffee and E ([source](https://www.linkedin.com/company/carboneersunitedbv/#post-7116fd7801c6))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-08-07** — news mention: Carboneers: Carbon credits are now firmly part of the EUâs path to a 90% emissions reduction by 20 ([source](https://www.linkedin.com/company/ipcita/#post-311a6c4f5a98))

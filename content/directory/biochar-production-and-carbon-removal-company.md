@@ -5,7 +5,7 @@ type: "directory"
 description: "CapChar develops on-farm pyrolysis kiln systems that convert wood-chip and agricultural residues into biochar, paired with an MRV platform and its own UK Biochar Carbon Code for issuing Biochar"
 url: "/directory/biochar-production-and-carbon-removal-company/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://capchar.com/" target="_blank" rel="noopener">https://capchar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capchar/" target="_blank" rel="noopener">capchar — 802 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~7</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capchar/" target="_blank" rel="noopener">capchar — 897 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~8</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ CapChar is a UK carbon removal company developing on-farm biochar production tec
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-30** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-14b4937dd245))
+- **2026-08-23** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-f95186ea5d2e))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

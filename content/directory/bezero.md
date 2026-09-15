@@ -30,6 +30,14 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-09-10** — news mention: Rubicon Carbon: Some organizations need more than a supplier's word on carbon credit quality. Procur ([source](https://www.linkedin.com/company/rubicon-carbon/#post-4e71ebf208f8))
+- **2026-09-01** — news mention: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal pr ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
+- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
+- **2026-08-28** — news mention: Ruuts: Our Carbon Program SARA, developed together with Anthesis Group , has been assigned a BeZero  ([source](https://www.linkedin.com/company/ruutsnetwork/#post-7a53b4ab1a7c))
+- **2026-08-22** — news mention: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project   The Gray Wolf Forestry Projec ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
+- **2026-08-21** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has been ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
+- **2026-08-20** — news mention: BeZero Offers A Unique Look Inside Microsoft’s CDR Risk Ratings ([source](https://carbonherald.com/bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-offers-a-unique-look-inside-microsofts-cdr-risk-ratings))
+- **2026-08-19** — news mention: BeZero Carbon: BeZero has published 14 ex ante rating reports on projects from Microsoft 's carbon r ([source](https://www.linkedin.com/company/bezero-carbon/#post-176fa419f995))
 - **2026-08-11** — news mention: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity proje ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
 - **2026-08-11** — news mention: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time in  ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
 - **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is its ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
@@ -52,14 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-28** — news mention: Carbon Credit Trading Platform ROI for Operators ([source](https://techaroha.com/carbon-credit-trading-platform-roi-operators/))
 - **2026-04-19** — merged 1 duplicate(s): BeZero Carbon
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bezerocarbon.com/))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://bezerocarbon.com/))
-- **2026-04-18** — discovered via: news_feed ([source](https://bioenergytimes.com/mast-sells-out-carbon-credits-from-montana-biomass-burial-project-in-under-six-weeks/))
-- **** — merged duplicate: BeZero Carbon (slug=bezero-carbon)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 
 ---
 

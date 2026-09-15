@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures and liquefies biogenic CO2 from biogas upgrading plants in Switzerland; most output currently sold as industrial CO2 (CCU), with a new Niederwil plant planned for 2026 targeting permanent"
 url: "/directory/co2-energie/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +28,13 @@ CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RW
 
 ## History
 
+- **2026-09-15** — refresh: screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
+- **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))
 - **2026-07-15** — refresh: liveliness
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
 - **2026-05-01** — refresh: screenshot

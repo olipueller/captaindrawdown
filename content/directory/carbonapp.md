@@ -33,7 +33,7 @@ Founded in March 2021, Carbonapp is a mission-driven company that develops low-c
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2022-10-01 → 2027-09-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70)
+- 1 project · Biochar, 2022 · crediting period 2022-10-01 → 2027-09-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/four-bordet-70)
 - 4 projects · Wooden Building Elements · crediting period 2020-07-01 → 2022-04-30 (expired)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de  ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
+- **2026-08-27** — news mention: Carbonapp: We issued our 500,000th carbon credit in July. It's been three and a half years since we  ([source](https://www.linkedin.com/company/carbonapp-fr/#post-48f56ecd54ab))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Carbonapp: Le projet de reconditionnement de matériel IT porté par Largo vient d'émettre pour la deu ([source](https://www.linkedin.com/company/carbonapp-fr/#post-8881a34b4bdf))
 - **2026-07-30** — news mention: Carbonapp: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de Cann ([source](https://www.linkedin.com/company/carbonapp-fr/#post-f4b86980a60b))

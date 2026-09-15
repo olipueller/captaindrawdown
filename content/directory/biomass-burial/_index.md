@@ -8,7 +8,7 @@ url: "/directory/biomass-burial/"
 
 # Biomass Burial — 31 Companies Tracked
 
-**Market pulse for Biomass Burial (updated 2026-08-15).**
+**Market pulse for Biomass Burial (updated 2026-09-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">31</span><span class="label">Companies</span></div>
@@ -19,22 +19,22 @@ url: "/directory/biomass-burial/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">505</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">528</span><span class="label">Total employees (lower bound)</span></div>
   <div class="stat-box"><span class="num">29/31</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
 - [Charm Industrial](/directory/charm-industrial/) — 106 employees
-- [Vaulted Deep](/directory/vaulted-deep/) — 57 employees
+- [Vaulted Deep](/directory/vaulted-deep/) — 64 employees
 - [Plantd Materials](/directory/plantd-materials/) — 52 employees
 - [Mast Reforestation](/directory/mast-reforestation/) — 43 employees
+- [Terranova](/directory/terranova/) — 41 employees
 - [Levitree](/directory/levitree/) — 28 employees
-- [Terranova](/directory/terranova/) — 28 employees
+- [Kodama Systems](/directory/kodama-systems/) — 23 employees
 - [Graphyte](/directory/graphyte/) — 22 employees
 - [Ekovilla](/directory/ekovilla/) — 20 employees
-- [Ecological Carbon Offset Partners](/directory/ecological-carbon-offset-partners/) — 19 employees
-- [Kodama Systems](/directory/kodama-systems/) — 18 employees
+- [Brilliant Planet | Inactive](/directory/brilliant-planet-inactive/) — 14 employees
 
 ## All Biomass Burial companies
 

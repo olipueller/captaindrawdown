@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecopartners-carbon/" target="_blank" rel="noopener">ecopartners-carbon — 2,925 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ep-carbon/" target="_blank" rel="noopener">ep-carbon — 3,137 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~19</td></tr>
+  <tr><th>Employees</th><td>~11 (-52% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-29** — news mention: Ecological Carbon Offset Partners: ð¢ We are proud to announce our Carbon Yards project has succes ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-61e79152beeb))
+- **2026-08-29** — news mention: Ecological Carbon Offset Partners: Congratulations to the Carbon Yards HCO2 Mississippi project, dev ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-8d10ab4095f6))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-31** — news mention: Ecological Carbon Offset Partners: 📢 We are proud to announce our Carbon Yards project has successfu ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-ceaf4288b2a8))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

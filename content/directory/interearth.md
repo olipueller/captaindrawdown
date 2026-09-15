@@ -33,7 +33,7 @@ InterEarth is a Western Australian pure-play CDR startup pursuing woody biomass 
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Terrestrial Storage of Biomass · crediting period 2023-12-27 → 2028-12-26 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/interearth-bowgada-215)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2023-12-27 → 2028-12-26 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/interearth-bowgada-215)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

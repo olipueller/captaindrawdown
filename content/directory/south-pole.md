@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-08** — news mention: South Pole: ð Carbon Check (India) Private Limited is proud to announce the successful completion ([source](https://www.linkedin.com/company/south-pole-/#post-1f1164ba99f7))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))
 - **2026-07-21** — news mention: South Pole: ❓ Confused by the carbon market’s jargon, specialised vocabulary, and endless acronyms?  ([source](https://www.linkedin.com/company/south-pole-/#post-f46e498a7fe7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

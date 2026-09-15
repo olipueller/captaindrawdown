@@ -31,6 +31,7 @@ Arrhenius AG is a Swiss HSLU (Lucerne University of Applied Sciences and Arts) s
 
 ## History
 
+- **2026-09-06** — news mention: Arrhenius: We are pleased to announce the successful closing of our seed funding round. This investm ([source](https://www.linkedin.com/company/arrhenius-ag/#post-39082e928d5e))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted. Eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
 - **2026-07-13** — news mention: Arrhenius AG successfully closed a seed funding round which will help the company scale its carbon r ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjrfpqfuk2k))

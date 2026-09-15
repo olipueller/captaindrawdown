@@ -31,7 +31,7 @@ Clean Maine Carbon is a biochar producer operating from the former Greenville St
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2023-08-01 → 2028-07-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/greenville-facility-111)
+- 1 project · Biochar, 2022 · crediting period 2023-08-01 → 2028-07-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/greenville-facility-111)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

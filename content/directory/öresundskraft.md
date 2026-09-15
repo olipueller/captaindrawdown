@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.oresundskraft.se/" target="_blank" rel="noopener">https://www.oresundskraft.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft-ab/" target="_blank" rel="noopener">oresundskraft-ab — 11,144 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft/" target="_blank" rel="noopener">oresundskraft — 11,517 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~428 (+9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~437 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,6 +32,14 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-03** — news mention: Öresundskraft AB: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige!  ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-e5f5e80dcd9b))
+- **2026-09-02** — news mention: CDR.fyi: 🚨 Huge CDR Deal Alert! 🚨 🤝 Höganäs AB , a Swedish advanced ceramic and metal powders manufa ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))
+- **2026-09-02** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement wi ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
+- **2026-08-27** — news mention: Öresundskraft: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige! Hög ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-d1a2a11245a2))
+- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
+
+At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
 - **2026-07-30** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Fyra intensiva dagar för Sysav i Almedalen! Under veckan arrang ([source](https://www.linkedin.com/company/sysav/#post-183898d3e407))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

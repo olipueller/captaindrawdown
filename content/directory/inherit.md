@@ -30,6 +30,7 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-09-03** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
 - **2026-08-05** — news mention: CDR.fyi: ✔ Europe's first certified BECCS credits have been issued. 📝 Last week, Inherit announced t ([source](https://www.linkedin.com/company/cdr-fyi/#post-a3f0e3c8a69f))
 - **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
 - **2026-07-28** — news mention: Bordet: Puro.earth has certified the world's first permanent carbon removal from biogas production.  ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-5254139ed902))

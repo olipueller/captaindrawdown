@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a carbon credit exchange, auction house, and project marketplace for voluntary carbon credits (including carbon removals contracts) and environmental commodities."
 url: "/directory/climate-impact-x/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateimpactx.com/" target="_blank" rel="noopener">https://www.climateimpactx.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/new-york-mercantile-exchange/" target="_blank" rel="noopener">new-york-mercantile-exchange</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~139 (-3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,11 @@ Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and m
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
+- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))
+- **2026-08-27** — news mention: Carbonplace: We announced a significant milestone today. 🌟 Climate Impact X and Carbonplace announce ([source](https://www.linkedin.com/company/carbonplace/#post-ed1b00fcd4ff))
+- **2026-08-27** — news mention: CarbonMeld: Two of the most institutionally backed platforms in carbon markets are merging: Climate  ([source](https://www.linkedin.com/company/carbonmeld/#post-4fbec6196d24))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

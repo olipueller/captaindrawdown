@@ -5,7 +5,7 @@ type: "directory"
 description: "Software platform (MRV, LCA, feasibility modeling, credit sales management) for biochar and biocarbon carbon-removal projects; rebranded from CarbonPilot to Valorize Systems in 2025."
 url: "/directory/carbonpilot/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.valorizesystems.com" target="_blank" rel="noopener">https://www.valorizesystems.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/valorizesystems/" target="_blank" rel="noopener">valorizesystems — 1,655 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ CarbonPilot (now Valorize Systems) is a software platform that helps biochar and
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-22** — news mention: CarbonPilot: It's Biochar Trial Tuesday and we're excited for this one: 52% less ammonia in the broi ([source](https://www.linkedin.com/company/valorizesystems/#post-33d3ebabde6c))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: liveliness

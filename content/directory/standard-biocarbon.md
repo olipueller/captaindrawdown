@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.standardbiocarbon.com/" target="_blank" rel="noopener">https://www.standardbiocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonx-llc/" target="_blank" rel="noopener">carbonx-llc — 2,195 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+9% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/standardbiocarbon/" target="_blank" rel="noopener">standardbiocarbon — 2,218 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Standard Biocarbon is a Maine-based biochar manufacturer operating a Pyreg-techn
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-22** — news mention: Standard Biocarbon: Standard Biocarbon and Black Earth Compost are excited to announce our partnersh ([source](https://www.linkedin.com/company/carbonx-llc/#post-5df00497230d))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Standard Biocarbon has its own LinkedIn page (linkedin.com/company/standardbiocarbon). The "carbonx-llc" slug does not appear associated with Standard Biocarbon in any search results, and no parent/su

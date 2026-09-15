@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.missionzero.tech/" target="_blank" rel="noopener">https://www.missionzero.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mission-zero/" target="_blank" rel="noopener">mission-zero — 13,008 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/missionzerotech/" target="_blank" rel="noopener">missionzerotech — 13,570 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~49</td></tr>
+  <tr><th>Employees</th><td>~49 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,12 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
+- **2026-08-29** — news mention: Airhive: Weâre joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a natio ([source](https://www.linkedin.com/company/carbonnet-limited/#post-a51aa9b5b270))
+- **2026-08-27** — news mention: Mission Zero Technologies: Mission Zero, Airhive And Progressive Energy Partner On Major UK DAC Proj ([source](https://www.linkedin.com/company/mission-zero/#post-a791c567416b))
+- **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
+- **2026-08-19** — news mention: Mission Zero Technologies: 🌍 An exciting step forward for carbon removal in the UK CCSA member Progr ([source](https://www.linkedin.com/company/mission-zero/#post-ff664054fa30))
 - **2026-08-12** — news mention: Mission Zero: Last Friday, we held our official launch event at Middlesbrough College in Teesside to ([source](https://www.linkedin.com/company/mission-zero/#post-4de13edfacb6))
 - **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong  ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
 - **2026-07-24** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-05330afd51c4))

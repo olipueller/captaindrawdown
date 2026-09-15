@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.lithoscarbon.com/" target="_blank" rel="noopener">https://www.lithoscarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 14,081 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 14,241 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-05-22</small></td></tr>
-  <tr><th>Employees</th><td>~33 (-21% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-29% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-05-22)</small></td></tr>
@@ -44,6 +44,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-09-03** — news mention: Lithos: Lithos Carbon has successfully issued 5,160 registry-certified tons of carbon dioxide remova ([source](https://www.linkedin.com/company/lithoscarbon/#post-3f449701c78a))
+- **2026-09-03** — news mention: Lithos: The original Frontier AMC has been nothing short of category-defining for CDR. This new Grow ([source](https://www.linkedin.com/company/lithoscarbon/#post-1f8cf02b9ca9))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-263f68f228a1))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-27** — news mention: Lithos Carbon: Lithos Carbon has successfully issued 5,160 registry-certified tons of carbon dioxide ([source](https://www.linkedin.com/company/lithoscarbon/#post-6c1a4b8497e5))
+- **2026-08-27** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-263f68f228a1))
+- **2026-08-19** — news mention: Lithos Carbon: ðª¨ Lithos has issued our first batch of Isometric -verified carbon removal credits  ([source](https://www.linkedin.com/company/lithoscarbon/#post-2a4c50fef95e))
+- **2026-08-19** — news mention: Lithos Carbon: Today weâre announcing that Frontier has raised an additional $915M for carbon remo ([source](https://www.linkedin.com/company/lithoscarbon/#post-e06a045ec830))
+- **2026-08-17** — news mention: Megatrends One Year Later – #9: Climate-Positive Technologies – What I Predicted, and What’s Actuall ([source](https://jimcarroll.com/2026/08/megatrends-one-year-later-9-climate-positive-technologies/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
@@ -61,19 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-22** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-2fc3b5595412))
 - **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
 - **2026-07-21** — news mention: A Direct-Measurement Framework for Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/309))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
-- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
-- **2026-06-24** — news mention: Frontier AMC Expands with New Growth Partnerships | Lithos Carbon posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:share:7473530006678188032/))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
-- **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
-- **2026-05-01** — refresh: screenshot
 
 ---
 

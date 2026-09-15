@@ -31,6 +31,7 @@ Carboniferous places densified crop byproducts (biomass) in the hypersaline and 
 
 ## History
 
+- **2026-08-30** — news mention: Carboniferous: Huge news: After close coordination with the Environmental Protection Agency and two  ([source](https://www.linkedin.com/company/carboniferous/#post-4e7cdd3c2d04))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://oceanvisions.org/launchpad/carboniferous-inc/))
 - **2026-08-01** — news mention: Carboniferous: Sharing progress on our EPA permit. You can enter comments related to this narrow sco ([source](https://www.linkedin.com/company/carboniferous/#post-2ef30f42c019))

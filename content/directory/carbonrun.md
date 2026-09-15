@@ -43,6 +43,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-16** — news mention: alterBiota: Today we issued a press release outlining our push into commercializing deltaC, highligh ([source](https://www.linkedin.com/company/alterbiotainc/#post-0b6563a1ae96))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity Enha ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))

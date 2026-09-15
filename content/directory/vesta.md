@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vesta.earth/" target="_blank" rel="noopener">https://www.vesta.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectvesta/" target="_blank" rel="noopener">projectvesta — 5,752 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vestaearth/" target="_blank" rel="noopener">vestaearth — 5,829 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>Employees</th><td>~15 (-21% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -38,6 +38,9 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: Vesta: We have an important leadership announcement: After 5 ½ years at the company, Tom Green has d ([source](https://www.linkedin.com/company/projectvesta/#post-f22e98fb5250))
+- **2026-08-28** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-9e7039810dd9))
 - **2026-08-06** — news mention: Project Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Sout ([source](https://www.linkedin.com/company/projectvesta/#post-1d12f71952ec))
 - **2026-07-23** — news mention: Vesta: 📢 Preprint alert! And this is a big one! 📢 "Olivine-based marine carbon dioxide removal field ([source](https://www.linkedin.com/company/projectvesta/#post-f7f6e614771f))
 - **2026-07-23** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-ae904b0c13e6))

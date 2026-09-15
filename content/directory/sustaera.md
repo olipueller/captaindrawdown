@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sustaera.com/" target="_blank" rel="noopener">https://www.sustaera.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustaera/" target="_blank" rel="noopener">sustaera — 2,757 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustaera/" target="_blank" rel="noopener">sustaera — 2,876 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteo
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-20** — news mention: From Steam to Sparks: How Electric DAC Is Changing Carbon Capture ([source](https://spectrum.ieee.org/direct-air-carbon-capture-electric))
 - **2026-08-14** — news mention: Sustaera: When it comes to direct air capture (DAC), a lot may depend on a small but important detai ([source](https://www.linkedin.com/company/sustaera/#post-c610f18dd9f4))
 - **2026-07-31** — news mention: Sustaera: Today is a big day—not just for Sustaera, but for the entire DAC industry. We have achieve ([source](https://www.linkedin.com/company/sustaera/#post-a70c43c42e18))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))

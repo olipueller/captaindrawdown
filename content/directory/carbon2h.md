@@ -28,6 +28,7 @@ Based in Berlin, Germany, Carbon2H specializes in advanced biomass gasification 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbon2h.com/blog/how-biomass-gasification-can-help-companies-reduce-pollution))

@@ -30,6 +30,7 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 
 ## History
 
+- **2026-08-28** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-162f176858cd))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-24** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-665e97a1cfcd))
 - **2026-05-01** — refresh: screenshot

@@ -31,6 +31,11 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-09-04** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))
+- **2026-09-03** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
+- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãªtre dans dix ans. Mais nous, on peut faire des pro ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
+- **2026-08-19** — news mention: Northern Lights: Two new subsea satellite structures for Northern Lights are ready to leave Aker Sol ([source](https://www.linkedin.com/company/northern-lights-jv/#post-2edd0005770a))
+- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets au ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
 - **2026-08-07** — news mention: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The  ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
 - **2026-08-05** — news mention: Northern Lights: The CO₂ carrier Northern Purpose has arrived in Norway! With the arrival we have co ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
 - **2026-07-30** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu ð Toda ([source](https://www.linkedin.com/company/sirona-technologies/#post-d38e0fce9cd8))
@@ -56,7 +61,6 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://norlights.com/news/green-light-for-co2-injection-and-storage/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://norlights.com/news/northern-lights-jv-has-successfully-stored-first-co%E2%82%82/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.carboncapturejournal.com/news/third-co2-vessels-added-to-northern-lights-fleet/7212.aspx))
 
 ---
 

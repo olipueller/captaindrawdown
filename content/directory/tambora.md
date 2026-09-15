@@ -15,9 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Indonesia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tambora.asia" target="_blank" rel="noopener">https://www.tambora.asia</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamboracdr/" target="_blank" rel="noopener">tamboracdr — 137 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamboracdr/" target="_blank" rel="noopener">tamboracdr — 145 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Tambora Carbon Removal (TCR) is an Indonesian CDR startup scaling Enhanced Rock 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))

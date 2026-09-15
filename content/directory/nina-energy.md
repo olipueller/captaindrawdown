@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ecuador</td></tr>
   <tr><th>Website</th><td><a href="https://nina.energy/en/" target="_blank" rel="noopener">https://nina.energy/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy — 786 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nina-energy/" target="_blank" rel="noopener">nina-energy — 839 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Nina Energy Limited is an Ecuadorian startup (founded 2021, formerly Andes Bioen
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-14** — news mention: Nina Energy: On 3 February 2026, the EU did something no regulator had done before: define by law wh ([source](https://www.linkedin.com/company/nina-energy/#post-da39de2c64ec))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://nina.energy/en/))

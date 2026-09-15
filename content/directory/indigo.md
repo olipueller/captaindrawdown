@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.indigoag.com/" target="_blank" rel="noopener">https://www.indigoag.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 92,608 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 95,353 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~346 (-0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~265 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -34,6 +34,8 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-01** — news mention: Indigo: What does high-integrity soil carbon removal look like at scale? Microsoft recently publishe ([source](https://www.linkedin.com/company/indigoag/#post-6fff14efd79f))
 - **2026-08-12** — news mention: Grow Indigo: Grow Indigo Punjab Wheat Program Achieves FSA Gold and Silver Performance Levels We are ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-5add2ed71a3d))
 - **2026-07-28** — news mention: Indigo: Across 2.5 million acres of U.S. farmland, more than 1,400 farmers are turning healthier soi ([source](https://www.linkedin.com/company/indigoag/#post-b87bcd6b2478))
 - **2026-07-22** — news mention: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of the ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))

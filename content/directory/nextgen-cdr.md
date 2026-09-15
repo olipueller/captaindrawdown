@@ -31,6 +31,9 @@ NextGen CDR is a buyers' club and advance-market-commitment facility jointly est
 
 ## History
 
+- **2026-08-21** — news mention: Corporate demand does not translate into project deployment automatically.
+
+Companies need credible  ([source](https://www.linkedin.com/feed/update/urn:li:share:7496158307972390912/))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
 - **2026-05-01** — refresh: coresignal, screenshot

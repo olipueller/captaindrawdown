@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops a solid-sorbent DAC material using a proprietary nano-engineered \"Nano-in-Nano\" platform aimed at sharply reducing capture cost and energy intensity."
 url: "/directory/freshean/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.freshean.com/" target="_blank" rel="noopener">https://www.freshean.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/freshean-corp/" target="_blank" rel="noopener">freshean-corp — 18 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Freshean Corp. is a Scottsdale, Arizona nanotechnology startup founded in 2017 b
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://fundraiseinsider.com/blog/pre-seed-startups/))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

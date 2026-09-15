@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.planetarytech.com/" target="_blank" rel="noopener">https://www.planetarytech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetary-hydrogen/" target="_blank" rel="noopener">planetary-hydrogen — 7,797 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetary-tech/" target="_blank" rel="noopener">planetary-tech — 8,176 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-06-16</small></td></tr>
-  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>Employees</th><td>~31</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-06-16)</small></td></tr>
 </table>
@@ -43,6 +43,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Engineered ocean bacteria could supercharge CO2 removal by dissolving rocks ([source](https://bioengineer.org/engineered-ocean-bacteria-could-supercharge-co2-removal-by-dissolving-rocks/))
+- **2026-09-11** — news mention: Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in crop ([source](https://cdrxiv.org/preprint/553))
+- **2026-09-06** — news mention: Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting ([source](https://doi.org/10.70212/cdrxiv.2026533.v2))
+- **2026-09-03** — news mention: Planetary: We’re proud to share another important milestone in Planetary’s #PAIR journey. 🎉 Followin ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-5f5c6a3c64ed))
+- **2026-08-31** — news mention: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering Applic ([source](https://doi.org/10.31223/x58b8c))
+- **2026-08-29** — news mention: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind (FOA ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
+- **2026-08-27** — news mention: Planetary: This paper with Michael Tyka , Bin Wang, and Katja Fennel explores how strongly seawater  ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-cd90c898e33e))
+- **2026-08-19** — news mention: Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weat ([source](https://doi.org/10.70212/cdrxiv.2026531.v2))
+- **2026-08-19** — news mention: Arid Ecosystem Restoration Matrix ([source](https://doi.org/10.5281/zenodo.21959770))
+- **2026-08-18** — news mention: An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering ([source](https://cdrxiv.org/preprint/417))
 - **2026-08-13** — news mention: Significant Scope for Improvement of Soil Acidity Management in US Croplands ([source](https://cdrxiv.org/preprint/535))
 - **2026-08-12** — news mention: Significant yield benefits from basalt soil amendments in the Southeastern US ([source](https://cdrxiv.org/preprint/413))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
@@ -62,17 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
 - **2026-07-22** — news mention: Planetary: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-a579e522e538))
 - **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure, rep ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
-- **2026-07-21** — news mention: Assessing CO2 fluxes during enhanced weathering from soils through a mesocosm lens ([source](https://cdrxiv.org/preprint/331))
-- **2026-07-21** — news mention: Spatiotemporal soil fertility responses to an enhanced rock weathering deployment within a temperate ([source](https://cdrxiv.org/preprint/461))
-- **2026-07-21** — news mention: Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS ([source](https://cdrxiv.org/preprint/471))
-- **2026-07-21** — news mention: Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice ag ([source](https://cdrxiv.org/preprint/483))
-- **2026-07-21** — news mention: Watershed: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/watershedclimate/#post-a5ddf8177df9))
-- **2026-07-19** — news mention: Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weat ([source](https://cdrxiv.org/preprint/531))
-- **2026-07-19** — news mention: Cation trapping by biochar reduces carbon removal efficiency ([source](https://cdrxiv.org/preprint/533))
-- **2026-05-27** — news mention: In this article, the new CMIP7 Emissions Scenarios reveal how much the world will rely on Carbon Dio ([source](https://bsky.app/profile/drtomharris.bsky.social/post/3mmt24qqaok2s))
-- **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
-- **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
-- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 
 ---
 

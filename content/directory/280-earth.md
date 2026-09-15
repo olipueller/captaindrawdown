@@ -34,6 +34,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-08-20** — news mention: Nice detail on the water byproduct: 280 Earth's sorbent process releases H2O as it captures CO2, whi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtit7azrnw23))
 - **2026-05-28** — news mention: 280 Earth Operates Direct Air Capture Facility, Closes $50M Project Funding | Turbomachinery Magazin ([source](https://www.turbomachinerymag.com/view/280-earth-operates-direct-air-capture-facility-closes-50m-project-funding))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://280.earth/stories/))

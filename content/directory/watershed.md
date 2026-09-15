@@ -34,6 +34,10 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-09-08** — news mention: Watershed: ð£ CARB just opened the portal for submitting first-year SB 253 reportingâand release ([source](https://www.linkedin.com/company/watershedclimate/#post-deabbb5776d1))
+- **2026-09-03** — news mention: Lithos: The original Frontier AMC has been nothing short of category-defining for CDR. This new Grow ([source](https://www.linkedin.com/company/lithoscarbon/#post-1f8cf02b9ca9))
+- **2026-08-27** — news mention: Blue Forest: Big news! The North Yuba Forest Partnership has renewed a memorandum of understanding,  ([source](https://www.linkedin.com/company/blue-forest-conservation/#post-247c426baf44))
+- **2026-08-19** — news mention: Lithos Carbon: ðª¨ Lithos has issued our first batch of Isometric -verified carbon removal credits  ([source](https://www.linkedin.com/company/lithoscarbon/#post-2a4c50fef95e))
 - **2026-08-04** — news mention: Watershed: 📣 Our July sustainability policy briefing is out from Madhav Seth , Watershed's policy le ([source](https://www.linkedin.com/company/watershedclimate/#post-b5dd8f5d604a))
 - **2026-08-04** — news mention: Watershed: California’s climate disclosure rules are coming into sharper focus. At its latest worksh ([source](https://www.linkedin.com/company/watershedclimate/#post-eae7bc8a8a3d))
 - **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
@@ -60,7 +64,6 @@ Watershed is an enterprise sustainability software platform that helps companies
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

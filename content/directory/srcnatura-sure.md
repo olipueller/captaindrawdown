@@ -37,6 +37,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness

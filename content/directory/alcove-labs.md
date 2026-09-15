@@ -30,6 +30,9 @@ Alcove (alcove.io) is a New York-based software company building inventory manag
 
 ## History
 
+- **2026-08-30** — news mention: Alcove Labs: We’re proud to support the next generation of carbon crediting. Today Puro.earth  launc ([source](https://www.linkedin.com/company/alcove-io/#post-0ac1dfdea5ab))
+- **2026-08-23** — news mention: Alcove Labs: Huge milestone for mCDR: Puro.earth just approved the MCFS methodology! Alcove is proud ([source](https://www.linkedin.com/company/alcove-io/#post-c1366e1c486f))
+- **2026-08-15** — news mention: Alcove Labs: Environmental markets are scaling fast, but the infrastructure powering them hasn’t kep ([source](https://www.linkedin.com/company/alcove-io/#post-3caad2de2d7f))
 - **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon F ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

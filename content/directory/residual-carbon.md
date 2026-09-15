@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.residualcarbon.com/" target="_blank" rel="noopener">https://www.residualcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/residualcarbon/" target="_blank" rel="noopener">residualcarbon — 3,336 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+300% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/residualcarbon/" target="_blank" rel="noopener">residualcarbon — 3,846 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ Residual is a UK-based carbon project developer that partners with industrials t
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Residual Carbon: Our second Residual quality framework is out - this time for ARR, following our bio ([source](https://www.linkedin.com/company/residualcarbon/#post-ad600515d117))
+- **2026-08-31** — news mention: Trade-driven diffusion of carbon dioxide removal exacerbates the decrease in global health co-benefi ([source](https://doi.org/10.21203/rs.3.rs-10722747/v1))
+- **2026-08-20** — news mention: CUR8: ð¦¸ð¨ Superpollutants drive roughly 45% of current warming. Yet, they account for less than ([source](https://www.linkedin.com/company/cur8earth/#post-a508190dc37b))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: Climeworks partners with NTT DATA Group ([source](https://climeworks.com/press-release/climeworks-partners-with-ntt-data-group))

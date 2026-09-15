@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://skytree.tech/" target="_blank" rel="noopener">https://skytree.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree — 17,107 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree — 18,210 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~150 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~142 (-10% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,8 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-26** — news mention: Skytree: Skytree’s Chief Product Officer, Bjørn Utgård , is joining industry leaders at ONS 2026 to  ([source](https://www.linkedin.com/company/skytree/#post-09915724f7cc))
 - **2026-07-22** — news mention: Skytree: Skytree has achieved ISO 9001:2015 and ISO/IEC 27001:2022 certifications, confirming our co ([source](https://www.linkedin.com/company/skytree/#post-b3ab9a91c924))
 - **2026-06-08** — news mention: Trade-off analysis matters. Most CDR pathways have land, water, energy, or air-quality footprints th ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnrjvi5ukl2h))
 - **2026-06-06** — news mention: Skytree Launches First Commercial Skytree Stratus System at Lingezegen Energy to Provide Fossil-Free ([source](https://skytree.tech/en-en/news/skytree-launches-first-commercial-skytree-stratus-system-at-lingezegen-energy))

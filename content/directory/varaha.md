@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enhanced Weathering, Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varaha-carbontech/" target="_blank" rel="noopener">varaha-carbontech — 37,513 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro · verra crediting window through 2030-02-07</small></td></tr>
+  <tr><th>Employees</th><td>~368 (+51% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth · Verra (VCS) <small>(active crediting window through 2030-02-07)</small></td></tr>
 </table>
@@ -30,8 +32,8 @@ Varaha is a New Delhi-based carbon removal project developer founded in 2022, op
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · crediting period 2023-02-09 → 2030-02-07 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/nsl-corn-seed-drying-facility-98)
-- 1 project · Enhanced Rock Weathering, 2022 · crediting period 2024-05-01 → 2029-04-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/enhanced-rock-weathering-smallholder-farmers-in-india-186)
+- 2 projects · Biochar, 2022 · crediting period 2023-02-09 → 2030-02-07 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/nsl-corn-seed-drying-facility-98)
+- 1 project · Enhanced Rock Weathering, 2022 · crediting period 2024-05-01 → 2029-04-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/enhanced-rock-weathering-smallholder-farmers-in-india-186)
 
 **Verra (VCS)**
 - 1 project · Afforestation + Reforestation · 68,259 tCO₂ issued · 11,468 retired · first issued 2026-05-01 &nbsp;[↗](https://registry.verra.org/app/projectDetail/VCS/4456)
@@ -45,6 +47,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-11** — news mention: GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha - ESG Today ([source](https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/))
+- **2026-09-09** — news mention: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and a ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-08-04** — news mention: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology Pione ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))
 - **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))

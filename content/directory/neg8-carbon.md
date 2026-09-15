@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trinity-green-energies/" target="_blank" rel="noopener">trinity-green-energies — 3,231 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neg8carbon/" target="_blank" rel="noopener">neg8carbon — 3,369 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~11 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-28** — news mention: NEG8 Carbon: ⭐ Amines are good at capturing carbon in Direct Air Capture (DAC) systems but they can  ([source](https://www.linkedin.com/company/trinity-green-energies/#post-ca4de809ae9e))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-08-07** — news mention: NEG8 Carbon: â­ Today marks a major step forward for permanent carbon removal in Europe. The Europe ([source](https://www.linkedin.com/company/trinity-green-energies/#post-ce19db2ff5fc))
 - **2026-07-31** — news mention: NEG8 Carbon: ⭐ Today marks a major step forward for permanent carbon removal in Europe. The European ([source](https://www.linkedin.com/company/trinity-green-energies/#post-bb5a3209c65d))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Advisory/due-diligence services for CDR project selection and ESG/decarbonization strategy — not a physical removal operator."
 url: "/directory/greenboost/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://www.greenboost.it/" target="_blank" rel="noopener">https://www.greenboost.it/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenboost/" target="_blank" rel="noopener">greenboost — 358 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greenboost/" target="_blank" rel="noopener">greenboost — 361 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ GreenBoost is an Italian consultancy offering carbon removal project due diligen
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://www.greenboost.it/))

@@ -30,6 +30,12 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-09-04** — news mention: Tierra Prieta: The Latin America Carbon Removal Investment Roadmap is live. 👉 https://lnkd.in/eTHYBP ([source](https://www.linkedin.com/company/tierra-prieta/#post-d7a836388d82))
+- **2026-09-03** — news mention: Carbon Business Council: Since announcing its intention to help scale investment in emerging carbon  ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-ff52358ebeff))
+- **2026-09-02** — news mention: Carbon Business Council Launches New Series Exploring CDR Buyer Profiles ([source](https://carbonherald.com/carbon-business-council-launches-new-series-exploring-cdr-buyer-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-business-council-launches-new-series-exploring-cdr-buyer-profiles))
+- **2026-08-27** — news mention: Carbon Business Council: New open calls for carbon removal are currently accepting applications. Car ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))
+- **2026-08-27** — news mention: Carbon Business Council: Four in five Canadians consider carbon removal essential to building a stro ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-e630b7882a3b))
+- **2026-08-27** — news mention: Carbon Business Council: Mining and carbon removal may have more in common than meets the eye. A new ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-71cd3d7d5ab7))
 - **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.
 
 Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
@@ -56,14 +62,6 @@ Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:l
 - **2026-06-25** — news mention: Report: Corporate Investment in Carbon Removal Hinges on Policy Clarity | Carbon Business Council ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475581088539586560/))
 - **2026-06-24** — news mention: Carbon removal in Canada is entering a new phase, and the range of sectors getting involved reflects ([source](https://www.linkedin.com/feed/update/urn:li:share:7475163887344971776/))
 - **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
-- **2026-06-02** — news mention: How data center demand can accelerate climate tech deployment ([source](https://www.esgdive.com/news/how-data-center-demand-can-accelerate-climate-tech-deployment/821465/))
-- **2026-05-29** — news mention: Carbon removal in Asia-Pacific is moving towards implementation, a shift visible throughout the APAC ([source](https://www.linkedin.com/feed/update/urn:li:share:7466124373242896386/))
-- **2026-05-29** — news mention: Corporate buyers are measuring climate strategy the same way they measure everything else: long-term ([source](https://www.linkedin.com/feed/update/urn:li:share:7465761742090989568/))
-- **2026-05-19** — news mention: Corporates Are Ready To Invest In CDR, But Need Policy Clarity, New Research Finds ([source](https://carbonherald.com/corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=corporates-are-ready-to-invest-in-cdr-but-need-policy-clarity-new-research-finds))
-- **2026-05-16** — news mention: The Carbon Business Council team heads to New York next week for Carbon Unbound East Coast.
-
-We are  ([source](https://www.linkedin.com/feed/update/urn:li:share:7461079211177365504/))
-- **2026-05-14** — news mention: Carbon Business Council Has Published Investment Roadmap to Scale Carbon Removal in Latin America, I ([source](https://www.carbonbusinesscouncil.org/news/latam-investment-roadmap-2026))
 
 ---
 

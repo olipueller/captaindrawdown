@@ -5,7 +5,7 @@ type: "directory"
 description: "Post-combustion amine-based CO2 capture (Shell CANSOLV via Technip Energies' Canopy) retrofitted to Runcorn EfW flue gases, with CO2 sent to HyNet for offshore geological storage in Liverpool Bay."
 url: "/directory/viridor/"
 pathway: "BECCS"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.viridor.co.uk/" target="_blank" rel="noopener">https://www.viridor.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viridor/" target="_blank" rel="noopener">viridor — 34,937 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~1099 (-3% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/viridor/" target="_blank" rel="noopener">viridor — 36,351 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1099</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ Viridor is a UK resource recovery and recycling company (majority-owned by KKR) 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
+- **2026-09-02** — news mention: Viridor: The UK ETS Authority has confirmed that the UK Emissions Trading Scheme will not be expande ([source](https://www.linkedin.com/company/viridor/#post-f892416384a5))
+- **2026-08-26** — news mention: Viridor: Data centres need power fast, but a conventional grid connection can take up to 12 years to ([source](https://www.linkedin.com/company/viridor/#post-00453db423f0))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://energy-oil-gas.com/news/viridors-vision-is-to-be-the-uks-leading-innovator-of-resource-recovery-and-recycling-transforming-waste-for-a-climate-positive-future/))
 - **2026-05-01** — refresh: screenshot

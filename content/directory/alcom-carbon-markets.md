@@ -33,7 +33,7 @@ Alcom Carbon Markets (ACM) is a Singapore-based climate-tech project developer t
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2022-06-10 → 2027-06-09 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/alcom-01-nuevaecijaphilippines)
+- 1 project · Biochar, 2022 · crediting period 2022-06-10 → 2027-06-09 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/alcom-01-nuevaecijaphilippines)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk. Al ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

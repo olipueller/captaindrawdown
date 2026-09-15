@@ -28,6 +28,10 @@ Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certif
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
+- **2026-09-03** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
+- **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))
+- **2026-08-22** — news mention: Climitra: 🌱 remove continues its streak of CDR deals with a new pre-purchase agreement with Climitra ([source](https://www.linkedin.com/company/climitra/#post-2f59fcf48eac))
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Planboo: New Milestone alert! 🚀 We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's 10 ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))

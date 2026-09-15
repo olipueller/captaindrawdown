@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.tamu-group.com" target="_blank" rel="noopener">https://www.tamu-group.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tamugroup/" target="_blank" rel="noopener">tamugroup — 1,312 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+133% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Tamu Group is a Kenya-based (Singapore-incorporated) holding company that builds
 
 ## History
 
+- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.tamu-group.com))
 - **2026-04-19** — refresh: coresignal

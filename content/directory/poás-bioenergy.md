@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.poasbioenergy.com/" target="_blank" rel="noopener">https://www.poasbioenergy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/po%c3%a1s-bioenergy/" target="_blank" rel="noopener">po%c3%a1s-bioenergy — 517 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/po%C3%A1s-bioenergy/" target="_blank" rel="noopener">po%C3%A1s-bioenergy — 582 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (-29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Poás Bioenergy is a University of Michigan spinout (founded 2021, HQ Ann Arbor,
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-09** — news mention: Poás Bioenergy: Biochar hits pineapple fields in Costa Rica Our CEO Jose Alfaro visited NICOVERDE SA ([source](https://www.linkedin.com/company/po%c3%a1s-bioenergy/#post-7f461ce00701))
 - **2026-08-02** — news mention: Poás Bioenergy: ðð ðð«ð ðð±ðð¢ð­ðð ð­ð¨ ðð§ð§ð¨ð®ð§ ([source](https://www.linkedin.com/company/po%c3%a1s-bioenergy/#post-18869c8cd623))
 - **2026-07-25** — news mention: Poás Bioenergy: We are excited to announce that we signed a carbon removal funding agreement with at ([source](https://www.linkedin.com/company/po%c3%a1s-bioenergy/#post-76712a089b66))

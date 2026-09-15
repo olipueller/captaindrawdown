@@ -29,6 +29,7 @@ Carbon Fields is a Madrid-based biochar company that transforms biomass waste in
 
 ## History
 
+- **2026-08-24** — news mention: CarbonFields: ➡️ Menorca acaba de anunciar un proyecto que, aunque no sea gigantesco, me parece bast ([source](https://www.linkedin.com/company/carbon-fields/#post-eec7b76068d3))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: CarbonFields: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Proj ([source](https://www.linkedin.com/company/carbon-fields/#post-b6a8f9aef9ca))
 - **2026-05-01** — refresh: screenshot

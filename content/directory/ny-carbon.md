@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes locally sourced woody biomass waste into biochar for agricultural soil application in the Hudson Valley."
 url: "/directory/ny-carbon/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -13,8 +13,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nycarbon.co/" target="_blank" rel="noopener">https://www.nycarbon.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ny-carbon/" target="_blank" rel="noopener">ny-carbon — 76 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ny-carbon/" target="_blank" rel="noopener">ny-carbon — 84 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ NY Carbon is a small Saugerties, NY-based commercial biochar producer using loca
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://biochar-us.org/ny-carbon))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://biochar-us.org/ny-carbon))

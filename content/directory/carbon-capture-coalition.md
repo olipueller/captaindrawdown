@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecoalition.org/" target="_blank" rel="noopener">https://carboncapturecoalition.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition — 3,711 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition — 3,895 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to d ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))
+- **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the operationa ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
+- **2026-08-21** — news mention: Carbon Capture Coalition: ICYM the Summer Friday news drop... Treasury and IRS Announce Modification ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-59e295048db9))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
 - **2026-07-30** — news mention: Carbon Capture Coalition: Entergy and Mitsubishi Heavy Industries Group companies have signed a memo ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-aeda0ed0ba54))

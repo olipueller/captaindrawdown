@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://linktr.ee/thenewblackbiochar" target="_blank" rel="noopener">https://linktr.ee/thenewblackbiochar</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~30003</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ The New Black Biochar is a small Tasmanian grassroots biochar operation co-found
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

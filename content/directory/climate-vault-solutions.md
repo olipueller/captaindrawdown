@@ -30,6 +30,7 @@ Climate Vault Solutions, Inc. is the commercial/sales arm of the University of C
 
 ## History
 
+- **2026-09-12** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-fe23a3d53744))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-31** — news mention: Climate Vault Solutions: What happens when a Wyoming company turns sugar beet molasses and abandoned ([source](https://www.linkedin.com/company/climatevault/#post-ac281c83884c))
 - **2026-07-31** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-7e2940befcf2))

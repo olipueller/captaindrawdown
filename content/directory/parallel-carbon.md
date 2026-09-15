@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.parallelcarbon.com/" target="_blank" rel="noopener">https://www.parallelcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parallel-carbon/" target="_blank" rel="noopener">parallel-carbon — 3,003 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/parallel-carbon/" target="_blank" rel="noopener">parallel-carbon — 3,189 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~8 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,11 @@ Parallel Carbon is a Manchester, UK-based company founded in 2021 that develops 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
+- **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
+- **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
+- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.parallelcarbon.com/post/parallel-carbon-unlocking-cost-effective-carbon-removal-and-hydrogen-co-production))
 - **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 - **2026-08-07** — news mention: Parallel Carbon: Great to see Tencent supporting innovative UK startups tackling global challenges.  ([source](https://www.linkedin.com/company/parallel-carbon/#post-390eda6afae8))

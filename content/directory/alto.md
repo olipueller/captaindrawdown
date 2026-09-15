@@ -29,6 +29,7 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 
 ## History
 
+- **2026-08-22** — news mention: CARBOLIVA SLU: 🔊 ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español cert ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-08** — news mention: CARBOLIVA SLU: ð Â¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar espaÃ±ol ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-c8ee202c91ca))
 - **2026-08-01** — news mention: Econew: Uma nova era de sustentabilidade começa em Várzea da Palma! 🌱🔥 Temos o prazer de anunciar: o ([source](https://www.linkedin.com/company/econew/#post-fd72061cdec2))

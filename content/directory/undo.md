@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://un-do.com/" target="_blank" rel="noopener">https://un-do.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/undocarbon/" target="_blank" rel="noopener">undocarbon — 11,812 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/undocarbon/" target="_blank" rel="noopener">undocarbon — 12,623 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~62 (-7% YoY)</td></tr>
+  <tr><th>Employees</th><td>~60 (-9% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,12 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-03** — news mention: UNDO: 🚜 A new haulage subsidy for Canadian farms, a UBS accelerator program, and a summer of momentu ([source](https://www.linkedin.com/company/undocarbon/#post-49524054d9de))
+- **2026-09-02** — news mention: UNDO Impact Update | August 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500543852420800512/))
+- **2026-09-02** — news mention: A big welcome to Pradeep Krishnamoorthy, who has joined UNDO as our new Chief Operating Officer. 🌱
+
+ ([source](https://www.linkedin.com/feed/update/urn:li:share:7500872178708439040/))
 - **2026-08-04** — news mention: UNDO Impact Update | July 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7489992393862168576/))
 - **2026-07-31** — news mention: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #carbonmarkets #climatefin ([source](https://www.linkedin.com/feed/update/urn:li:share:7488600510292316162/))
 - **2026-07-29** — news mention: UNDO: We were proud to see our Senior Geochemist, Dr Millie Dobson , representing UNDO at Goldschmid ([source](https://www.linkedin.com/company/undocarbon/#post-6f3bc99ea309))
@@ -60,10 +66,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 - **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
 - **2026-05-25** — news mention: Jim Mann, founder of UNDO, is becoming the geographic conscience of enhanced rock weathering. His ar ([source](https://x.com/CaptainDrawdown/status/2058776587550568848))
 - **2026-05-25** — news mention: Trees work, but they cap out fast. Limited land, fire risk, and carbon that returns to the air in de ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmndtpxfi62y))
-- **2026-05-22** — news mention: #cris2026 #carbonremoval #enhancedrockweathering #cdr #climatefinance #carbonmarkets #climatetech #m ([source](https://www.linkedin.com/feed/update/urn:li:share:7462901888485650432/))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlukhckpqx2u))
 
 ---
 

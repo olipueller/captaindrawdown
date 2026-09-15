@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbongap.org/" target="_blank" rel="noopener">https://carbongap.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-advocacy-europe/" target="_blank" rel="noopener">carbon-removal-advocacy-europe — 14,204 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbongap/" target="_blank" rel="noopener">carbongap — 15,160 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~25 (-14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~26 (-13% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,18 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Our team will be in New York City and Brussels in the coming weeks. Will we see you there?
+
+On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
+- **2026-09-11** — news mention: Carbon Removal Policy Summit National Level Session | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503757152298115073/))
+- **2026-09-10** — news mention: Policy Summit EU level panel | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503434342254198784/))
+- **2026-09-06** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-a10bc24b04e8))
+- **2026-09-04** — news mention: Closing the CDR gap: What the latest State of CDR Report tells us | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501272805192380416/))
+- **2026-09-03** — news mention: Ocean and Water R&amp;amp;I Strategy | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501204095383515137/))
+- **2026-08-27** — news mention: Carbon Gap: 📣 Big news for ocean alkalinity enhancement (OAE): the Carbon to Sea Initiative has open ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-64171bebdfd1))
+- **2026-08-20** — news mention: Carousel 8 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496112800172339201/))
+- **2026-08-18** — news mention: EU CDR state of play | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7495414219111190528/))
 - **2026-08-13** — news mention: €20 Billion Carbon Gap Threatens EU Net-Zero Mandate | ESG News.earth ([source](https://www.esgnews.earth/latest-news/e20-billion-carbon-gap-threatens-eu-net-zero-mandate/21327.html))
 - **2026-08-12** — news mention: State of CDR 2 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493231051687907329/))
 - **2026-08-12** — news mention: Carbon Gap: Could international carbon credits become part of the EU ETS? A new analysis from Carbon ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-c486c352e13d))
@@ -58,16 +70,6 @@ Thank you to all those who follow and support us as we advo ([source](https://ww
 
 On 16 September in B ([source](https://www.linkedin.com/feed/update/urn:li:share:7485260537673650176/))
 - **2026-07-18** — news mention: UK GGR Review | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483903705503678464/))
-- **2026-07-17** — news mention: Today the European Commission published its proposal to review the EU Emissions Trading System (ETS) ([source](https://www.linkedin.com/feed/update/urn:li:share:7483842349387915265/))
-- **2026-07-17** — news mention: Carbon Gap: The ETS Review Is A Landmark Opportunity To Kickstart CDR In EU - Carbon Herald ([source](https://carbonherald.com/carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu/))
-- **2026-07-16** — news mention: Carbon Gap: The ETS Review Is A Landmark Opportunity To Kickstart CDR In EU ([source](https://carbonherald.com/carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu))
-- **2026-07-16** — news mention: EU ETS Review CDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483127234455666688/))
-- **2026-07-09** — news mention: EU Ocean Act response | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480923948344487937/))
-- **2026-07-09** — news mention: EU CRCF Buyers Club | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480543715246247936/))
-- **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
-- **2026-07-02** — news mention: LCAW Takeaways | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478378832228687872/))
-- **2026-07-01** — news mention: Carbon Gap: Our own @[Francesca Battersby](urn:li:person:YHmf6ZNX5c) will be speaking on the @[Clean ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477380235617865728/))
-- **2026-07-01** — news mention: Carbon Gap: Poland has significant untapped potential to deploy carbon dioxide removal \(CDR\) at sc ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477700296836714497/))
 
 ---
 

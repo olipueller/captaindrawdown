@@ -31,6 +31,7 @@ High Plains Biochar designs and manufactures small scale biochar equipment and h
 
 ## History
 
+- **2026-08-30** — news mention: Climate Coffee brews up world’s first carbon-negative roasting process ([source](https://www.climatecoffee.shop/post/regenerative-coffee-brewing-for-a-sustainable-future))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-11** — news mention: High Plains Biochar | Biochar Stoves ([source](https://www.hpbiochar.com/stoves))
 - **2026-05-01** — refresh: coresignal, screenshot

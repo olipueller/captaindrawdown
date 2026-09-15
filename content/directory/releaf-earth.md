@@ -29,6 +29,8 @@ Releaf Earth is a Nigerian climate-agritech company that processes palm nuts fro
 
 ## History
 
+- **2026-08-22** — news mention: Releaf Earth: We are excited to share a major milestone: Our CEO, Ikenna Nzewi , has officially anno ([source](https://www.linkedin.com/company/releaf-earth/#post-d148300c7e0a))
+- **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-20** — news mention: Biochar Industrial Group Partners with Releaf Earth to Commercialize Agricultural Waste in Nigeria & ([source](https://biochartoday.com/news/biochar-industrial-group-partners-with-releaf-earth-to-commercialize-agricultural-waste-in-nigeria/))
 - **2026-07-20** — news mention: This is very nice to see since the Clean Development Mechanism has long faced criticism for failing  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mr3rgqbqis2t))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ucaneo.com/" target="_blank" rel="noopener">https://www.ucaneo.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ucaneo/" target="_blank" rel="noopener">ucaneo — 6,684 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ucaneo/" target="_blank" rel="noopener">ucaneo — 8,180 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~26 (+86% YoY)</td></tr>
+  <tr><th>Employees</th><td>~32 (+52% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,8 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-20** — news mention: Ucaneo: 💫 Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what c ([source](https://www.linkedin.com/company/ucaneo/#post-c1c78251f64f))
 - **2026-07-30** — news mention: Ucaneo: 🏪 Welcome to the CO₂ Store of the Future. The world's first place where you can experience w ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))
 - **2026-07-23** — news mention: Ucaneo: The EU just signed up to help us build the carbon economy of the future. 🚀 💫 The European Co ([source](https://www.linkedin.com/company/ucaneo/#post-e343b65c3abf))
 - **2026-07-09** — news mention: Ucaneo Inaugurates Germany's Largest DAC Facility ([source](https://www.process-worldwide.com/ucaneo-inaugurates-germanys-largest-dac-facility-a-91443e483c1f5e73a90a0052f81d4a75/))

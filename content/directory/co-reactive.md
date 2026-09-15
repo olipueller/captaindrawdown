@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,439 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,576 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (+43% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (+62% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,12 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: #coreactive #co2mineralisierung #carbonutilization #carbonmanagement #carbonremoval #zement #beton # ([source](https://www.linkedin.com/feed/update/urn:li:share:7502650037831921664/))
+- **2026-09-02** — news mention: #team #climatetech #industrialdecarbonization #materialsscience #mineralization | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7499091345542672385/))
+- **2026-08-26** — news mention: #team #climatetech #industrialdecarbonization #mineralization #startuplife | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7497647197941874688/))
+- **2026-08-24** — news mention: #SabancıTechnologyCenter | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497569758620377088/))
+- **2026-08-18** — news mention: #team #talent #startup #impact #growth | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7495036885581340672/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-07** — news mention: #coreactive #teamcoreactive #friendsandfamily #climatetech #sustainableconstruction #carbonnegative  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491406887796719617/))
 - **2026-07-29** — news mention: Co-reactive featured on ZDF WISO 🏗️
@@ -59,7 +65,6 @@ We are proud to share that Carbon ([source](https://www.linkedin.com/feed/update
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

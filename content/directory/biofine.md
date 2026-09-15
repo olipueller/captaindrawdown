@@ -30,6 +30,7 @@ Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer com
 
 ## History
 
+- **2026-08-31** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
 - **2026-05-01** — refresh: screenshot

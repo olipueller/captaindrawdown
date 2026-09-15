@@ -28,6 +28,7 @@ Emral Carbon is a UK-based carbon market brokerage, project finance, and advisor
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

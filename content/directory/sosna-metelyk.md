@@ -28,6 +28,7 @@ Sosna Metelyk is an unfunded American-Ukrainian early-stage climate hardware sta
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.startus-insights.com/innovators-guide/energy-startups-and-companies/))
 - **2026-05-01** — refresh: screenshot

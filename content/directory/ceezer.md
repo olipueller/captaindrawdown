@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceezer.earth/" target="_blank" rel="noopener">https://www.ceezer.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceezer/" target="_blank" rel="noopener">ceezer — 9,541 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceezer/" target="_blank" rel="noopener">ceezer — 10,354 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~67</td></tr>
+  <tr><th>Employees</th><td>~72 (+22% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corp
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-10** — news mention: Ceezer: The European Commission recently proposed folding carbon removal into the EU Emissions Tradi ([source](https://www.linkedin.com/company/ceezer/#post-70eff4a74402))
 - **2026-08-05** — news mention: Ceezer: CRCF is moving from paper to practice. Here's what carbon buyers need to know. The EU Carbon ([source](https://www.linkedin.com/company/ceezer/#post-1805d83213dc))
 - **2026-07-22** — news mention: Ceezer: The EU just extended its carbon removal rulebook to nature-based solutions. 🇪🇺 The European  ([source](https://www.linkedin.com/company/ceezer/#post-41c0d03255af))
 - **2026-07-22** — news mention: Ceezer: The global market for durable carbon removal moves about 8 million tonnes a year. Today, the ([source](https://www.linkedin.com/company/ceezer/#post-98bd69249a6b))

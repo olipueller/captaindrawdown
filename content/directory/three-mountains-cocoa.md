@@ -5,7 +5,7 @@ type: "directory"
 description: "Cocoa cooperative hosting a Terraton-operated biochar facility that pyrolyzes cocoa/agricultural waste into stable carbon for soil amendment and CORC-issued carbon removal credits."
 url: "/directory/three-mountains-cocoa/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://threemountainscocoa.com" target="_blank" rel="noopener">https://threemountainscocoa.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/three-mountains-cocoa/" target="_blank" rel="noopener">three-mountains-cocoa — 3,604 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/threemountainscocoa/" target="_blank" rel="noopener">threemountainscocoa — 3,696 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Three Mountains Cocoa is a Ghanaian organic cocoa cooperative producing beans fr
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://threemountainscocoa.com/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://threemountainscocoa.com/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://threemountainscocoa.com/))
 - **2026-05-01** — refresh: screenshot

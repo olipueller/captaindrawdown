@@ -32,7 +32,7 @@ Accend advises companies with carbon-negative products on the CORC markets and o
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 13 projects · Biochar, 2022 · crediting period 2019-10-01 → 2029-11-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/squires-farm-73)
+- 13 projects · Biochar, 2022 · crediting period 2019-10-01 → 2029-11-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/squires-farm-73)
 - 5 projects · Wooden Building Elements · crediting period 2019-04-01 → 2024-09-30 (expired)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
@@ -40,6 +40,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
+- **2026-08-29** — news mention: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there i ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))
 - **2026-08-13** — news mention: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.crunchbase.com/funding_round/accend-e26c-seed--151cdd0c))
 - **2026-05-01** — refresh: coresignal, screenshot

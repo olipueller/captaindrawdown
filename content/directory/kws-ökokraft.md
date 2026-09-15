@@ -28,6 +28,7 @@ KWS Ökokraft GmbH is a small Austrian district-heating and electricity utility 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.biomasseverband.at/wp-content/uploads/Holzenergiepreis2023SiegerHACKGUT.pdf))

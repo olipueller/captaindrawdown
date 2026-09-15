@@ -29,6 +29,7 @@ Biochar Life is a Delaware Public Benefit Corporation and impact venture of the 
 
 ## History
 
+- **2026-09-04** — news mention: Biochar Life: 🚨[BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for CDR ([source](https://www.linkedin.com/company/biochar-life/#post-b8b26e6485af))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))
 - **2026-08-06** — news mention: Biochar Life: A new look for Carbon Standards.   Today we're introducing our new brand – Carbon Stan ([source](https://www.linkedin.com/company/biochar-life/#post-5c4c9ed61b98))

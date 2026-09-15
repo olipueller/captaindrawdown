@@ -8,32 +8,32 @@ url: "/directory/dac/"
 
 # DAC — 125 Companies Tracked
 
-**Market pulse for DAC (updated 2026-08-15).**
+**Market pulse for DAC (updated 2026-09-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">125</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">82</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">16</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">88</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">12</span><span class="label">🟡 Moderate</span></div>
   <div class="stat-box"><span class="num" style="color:#f97316">9</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">18</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">16</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">435,131</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">462,792</span><span class="label">Total employees (lower bound)</span></div>
   <div class="stat-box"><span class="num">105/125</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
-- [Shell](/directory/shell/) — 192273 employees
+- [Shell](/directory/shell/) — 219735 employees
 - [Airbus](/directory/airbus/) — 85861 employees
 - [ExxonMobil](/directory/exxonmobil/) — 68441 employees
 - [ADNOC](/directory/adnoc/) — 50026 employees
 - [Equinor/Rolls Royce](/directory/equinorrolls-royce/) — 16757 employees
-- [Oxy](/directory/oxy/) — 16340 employees
+- [Oxy](/directory/oxy/) — 16366 employees
 - [China Energy Engineering Corporation](/directory/china-energy-engineering-corporation/) — 1743 employees
-- [Sizewell C/EDF Energy](/directory/sizewell-cedf-energy/) — 1039 employees
-- [Climeworks](/directory/climeworks/) — 403 employees
+- [Sizewell C/EDF Energy](/directory/sizewell-cedf-energy/) — 1234 employees
+- [Climeworks](/directory/climeworks/) — 398 employees
 - [Carbon Engineering](/directory/carbon-engineering/) — 186 employees
 
 ## All DAC companies

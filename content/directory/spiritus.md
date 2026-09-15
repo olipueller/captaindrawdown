@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://spiritus.com/" target="_blank" rel="noopener">https://spiritus.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spiritus-cdr/" target="_blank" rel="noopener">spiritus-cdr — 2,509 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spiritus-cdr/" target="_blank" rel="noopener">spiritus-cdr — 2,726 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~17 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-29** — news mention: Spiritus: Spiritus has signed a Joint Development Agreement with aramco 's Research &amp; Developmen ([source](https://www.linkedin.com/company/spiritus-cdr/#post-248dd6988169))
 - **2026-07-24** — news mention: Spiritus: Spiritus has signed a Joint Development Agreement with aramco 's Research &amp; Developmen ([source](https://www.linkedin.com/company/spiritus-cdr/#post-5e339700fa1a))
 - **2026-07-15** — news mention: Three deals in one week redrew the DAC and CCS map. Hyundai-KNOC locked in cross-border CCS. Airhive ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqnwxdtabs2r))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))

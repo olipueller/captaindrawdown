@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.fs.agr.br/en/" target="_blank" rel="noopener">https://www.fs.agr.br/en/</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~750</td></tr>
+  <tr><th>Employees</th><td>~500</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

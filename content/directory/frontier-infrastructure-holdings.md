@@ -30,6 +30,10 @@ Frontier Infrastructure Holdings (formerly Frontier Carbon Solutions) is a Tailw
 
 ## History
 
+- **2026-08-15** — news mention: Skyrenu: Demand was never the hard part of carbon removal. Supply is. Last week, Frontier Infrastruc ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-bc59f25c1e41))
+- **2026-08-15** — news mention: Frontier Infrastructure Holdings: Frontier's CO2-by-rail BECCS project has cleared Puro.earth 's pre ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-8d74b222a6e1))
+- **2026-08-15** — news mention: Frontier Infrastructure Holdings: Frontier Infrastructure Holdings has entered into a multi-year par ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-62a2673de7d4))
+- **2026-08-15** — news mention: Frontier Infrastructure Holdings: We are thrilled to partner with Carbonfuture to bring high-quality ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-7f64b738d921))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
 - **2026-08-05** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, as Frontier Infrastructure and Carbon ([source](https://www.linkedin.com/company/cdr-fyi/#post-5abb7ab70e13))

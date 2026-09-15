@@ -30,6 +30,18 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-09-05** — news mention: Carbon Drawdown Initiative: A soil-CO₂ sensor sounds like the ultimate shortcut. Weathering consumes ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-a461532367f2))
+- **2026-09-05** — news mention: Carbon Drawdown Initiative: This last part of our XXL Lysimeter Experiment is about plumbing, and it ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5a0bb8ea3b7c))
+- **2026-08-28** — news mention: This last part of our XXL Lysimeter Experiment is about plumbing, and it&amp;#39;s not glamorous: ke ([source](https://www.linkedin.com/feed/update/urn:li:share:7498725484290048000/))
+- **2026-08-26** — news mention: A soil-CO₂ sensor sounds like the ultimate shortcut. Weathering consumes CO₂, so bury a probe and re ([source](https://www.linkedin.com/feed/update/urn:li:share:7498359893628846080/))
+- **2026-08-26** — news mention: What the soil tells us when it breathes: reading four years of buried CO₂ sensors &mdash; Carbon Dra ([source](https://www.carbon-drawdown.de/blog/2026-7-19-what-the-soil-tells-us-when-it-breathes-reading-four-years-of-buried-co-sensors))
+- **2026-08-22** — news mention: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a tec ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
+- **2026-08-22** — news mention: Carbon Drawdown Initiative: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-f7591e567cec))
+- **2026-08-22** — news mention: Carbon Drawdown Initiative: Alkalinity is the number we actually care about, and it's slow and expen ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-add698a7f645))
+- **2026-08-21** — news mention: Alkalinity is the number we actually care about, and it&amp;#39;s slow and expensive: pump the leach ([source](https://www.linkedin.com/feed/update/urn:li:share:7496189729466572801/))
+- **2026-08-19** — news mention: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried senso ([source](https://www.linkedin.com/feed/update/urn:li:share:7495826821377200130/))
+- **2026-08-19** — news mention: The soil breathes: how temperature and CO₂ drive the weathering signal &mdash; Carbon Drawdown Initi ([source](https://www.carbon-drawdown.de/blog/2026-7-19-the-soil-breathes-how-temperature-and-co-drive-the-weathering-signal))
+- **2026-08-16** — news mention: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
 - **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
 - **2026-08-14** — news mention: The 1,400-day German basalt trial returning zero measurable CO2 removal isn't just another model-vs- ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeynp7fz2e))
 - **2026-08-14** — news mention: Carbon Drawdown Initiative: 1,400 days. Four winters. Twenty pots of basalt-amended soil. That's our ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-c5ca55aba09c))
@@ -56,31 +68,6 @@ We&amp;#39; ([source](https://www.linkedin.com/feed/update/urn:li:share:74907418
 - **2026-07-24** — news mention: Carbon Drawdown Initiative: Tim Jesper Suhrhoff has led a big effort to write a systematic review of ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5cd3f34c2e5c))
 - **2026-07-23** — news mention: For enhanced rock weathering (ERW), we spread a few tons of rock dust – say, 5 to 40 tons – on a hec ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485679526149185537/))
 - **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
-- **2026-07-16** — news mention: Nature already captures carbon for free. It just doesn&amp;#39;t know how to store it.
-
-Every log, e ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483507078578343936/))
-- **2026-07-16** — news mention: Next up from the Carbon Drawdown Symposium: our own greenhouse experiment under the microscope.
-
-CDI ([source](https://www.linkedin.com/feed/update/urn:li:share:7483146070026354688/))
-- **2026-07-09** — news mention: ERW is moving fast – from academic trials to real-world commercial deployments in just a few years.
- ([source](https://www.linkedin.com/feed/update/urn:li:share:7480969674239705088/))
-- **2026-07-01** — news mention: The Carbon Drawdown Symposium brought together some of the sharpest minds in permanent carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7478076380895858688/))
-- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
-- **2026-06-24** — news mention: Where does CDR in Germany stand in the world?
-
-Germany’s minister for the environment wants Germany  ([source](https://www.linkedin.com/feed/update/urn:li:share:7475533246311874561/))
-- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
-- **2026-06-24** — news mention: With 42.8 °C room temperature our greenhouse was the final and likely the hottest stop of the CDR Ex ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473767687203008512/))
-- **2026-06-24** — news mention: Last week we hosted the Carbon Drawdown Symposium in Erlangen.
-
-Researchers spent two days stress-te ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475206295755698177/))
-- **2026-06-11** — news mention: One week until the Carbon Drawdown Symposium.
-
-On 16 June, we will open our measurement dataset on e ([source](https://www.linkedin.com/feed/update/urn:li:share:7470459956933263360/))
-- **2026-06-08** — news mention: This is what two years of enhanced weathering research looks like in practice.
-
-300+ lysimeter pots. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469735751434440705/))
-- **2026-06-03** — news mention: Two weeks from today, Carbon Drawdown Initiative will open its measurement dataset on enhanced rock  ([source](https://www.linkedin.com/feed/update/urn:li:share:7467560946639495168/))
 
 ---
 

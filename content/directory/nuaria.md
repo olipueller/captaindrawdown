@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nuaria.com/" target="_blank" rel="noopener">https://www.nuaria.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuaria/" target="_blank" rel="noopener">nuaria — 87 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuaria/" target="_blank" rel="noopener">nuaria — 88 followers</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ NuAria is a US-based early-stage direct air capture startup developing a solid s
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://nuaria.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://rubiconcarbon.com/" target="_blank" rel="noopener">https://rubiconcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubicon-carbon/" target="_blank" rel="noopener">rubicon-carbon — 12,926 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~46 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Rubicon Carbon is a US-based carbon credit management and investment platform ba
 
 ## History
 
+- **2026-09-10** — news mention: Rubicon Carbon: Some organizations need more than a supplier's word on carbon credit quality. Procur ([source](https://www.linkedin.com/company/rubicon-carbon/#post-4e71ebf208f8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://rubiconcarbon.com/))

@@ -30,6 +30,9 @@ Calyx Global is an independent carbon credit ratings agency for the voluntary ca
 
 ## History
 
+- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
+- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
+- **2026-08-19** — news mention: Calyx Global: 🌍 What happened in the carbon markets in July? Our latest Carbon Indices show surprisi ([source](https://www.linkedin.com/company/calyx-global/#post-4701e6f5e49d))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-07** — news mention: Native, A public benefit corporation: One of the extraordinary things about the carbon market is its ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-1973f96435d6))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

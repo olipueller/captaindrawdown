@@ -29,6 +29,7 @@ TimberTurn is a Calgary, Alberta-based carbon removal startup that buries non-me
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.instagram.com/timber.turn/))

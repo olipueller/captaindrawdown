@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow-pyrolysis biochar production using agricultural residues (almond shells, vineyard waste) for soil application and CDR credits."
 url: "/directory/sitos-group/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sitos.earth/" target="_blank" rel="noopener">https://www.sitos.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group — 2,662 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group — 2,811 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -38,6 +38,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
+- **2026-09-05** — news mention: US Biochar Coalition (USBC): Commercial-scale biochar production at Sitos Group is almost here! 🤝 🪨  ([source](https://www.linkedin.com/company/u-s-biochar-coalition/#post-df68429b7d0f))
+- **2026-08-27** — news mention: US Biochar Initiative: Earlier this month, the USDA Forest Service awarded $105.5 million in Wood In ([source](https://www.linkedin.com/company/us-biochar-initiative/#post-adb18dc920e2))
+- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-21** — news mention: Sitos Group: Commercial-scale biochar production at Sitos Group is almost here! 🤝 🪨 After more than  ([source](https://www.linkedin.com/company/sitos-group/#post-df68429b7d0f))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))

@@ -30,6 +30,9 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
+- **2026-09-02** — news mention: Oxford Net Zero: Climate standards are increasingly shaping regulation, investment and corporate dec ([source](https://www.linkedin.com/company/oxfordnetzero/#post-f09ae02e08b3))
+- **2026-08-26** — news mention: Oxford Net Zero: Out today: a new briefing from our Net Zero Aviation project team on how to strengt ([source](https://www.linkedin.com/company/oxfordnetzero/#post-d26f81127332))
+- **2026-08-24** — news mention: A High-Integrity Route for CORSIA: Integrating Geologically Balanced Fuels - Net Zero Climate ([source](https://netzeroclimate.org/publications/a-high-integrity-route-for-corsia-integrating-geologically-balanced-fuels/))
 - **2026-08-12** — news mention: Oxford Net Zero: Our latest Net Zero Tracker blog explores the new opportunities opened up by a deca ([source](https://www.linkedin.com/company/oxfordnetzero/#post-6f1102f47b2f))
 - **2026-07-22** — news mention: Oxford Net Zero: What can we learn from a decade of net zero commitments? The new Net Zero Tracker H ([source](https://www.linkedin.com/company/oxfordnetzero/#post-a5966727475b))
 - **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's 5 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))

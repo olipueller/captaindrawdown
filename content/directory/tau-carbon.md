@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.taucarbon.com/" target="_blank" rel="noopener">https://www.taucarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon — 500 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon — 521 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea o
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: Tau Carbon: Carbon Yards is featured in a recent Quantum Commodity Intelligence interview, where our ([source](https://www.linkedin.com/company/tau-carbon/#post-ca129e94854f))
+- **2026-08-31** — news mention: Tau Carbon: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash piles. Wildfi ([source](https://www.linkedin.com/company/tau-carbon/#post-48133ed780b5))
+- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
+- **2026-08-16** — news mention: Tau Carbon: Congratulations to Sequest , which has successfully completed the Puro.earth Preliminary ([source](https://www.linkedin.com/company/tau-carbon/#post-3ce8e30755ed))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.linkedin.com/company/tau-carbon))
 - **2026-08-09** — news mention: Tau Carbon: Excited to share this report from RMI , the Beyond Alliance , and American Forest Founda ([source](https://www.linkedin.com/company/tau-carbon/#post-2a09b9c5c4f4))
 - **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))

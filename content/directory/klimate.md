@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.klimate.co/" target="_blank" rel="noopener">https://www.klimate.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co — 13,442 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co — 14,058 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~29 (-9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~24 (-17% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,8 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-14** — news mention: Evaneos To Support A Portfolio Of High-Quality CDR Via Klimate ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate/?utm_source=rss&utm_medium=rss&utm_campaign=evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
 - **2026-08-12** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS) â ([source](https://www.linkedin.com/company/klimate-co/#post-b4535fff04e6))
 - **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO₂ - AND BUILDING A BUSINESS A ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
 - **2026-08-05** — news mention: Klimate: 4️⃣ 4 things you should do to prep for SBTi’s Net Zero Standard 2.0. SBTi released its Corp ([source](https://www.linkedin.com/company/klimate-co/#post-ad6b76222c0f))

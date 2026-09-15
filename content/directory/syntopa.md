@@ -15,9 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://syntopa.com/" target="_blank" rel="noopener">https://syntopa.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 743 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 744 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (-57% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (-50% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -32,6 +32,7 @@ Founded in 2023 by Hans Holtan, Syntopa develops microbial products addressing t
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa))
 - **2026-07-15** — refresh: coresignal

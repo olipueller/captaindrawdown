@@ -30,6 +30,8 @@ DACLab is a Palo Alto-based climate-tech startup developing a modular solid-sorb
 
 ## History
 
+- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
+- **2026-08-31** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/cdr-in-2025-the-shifts-and-strides-that-redefined-the-sector/))
 - **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvi ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))

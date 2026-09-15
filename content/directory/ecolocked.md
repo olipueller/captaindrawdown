@@ -31,6 +31,8 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 
 ## History
 
+- **2026-09-03** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church ⛪ Berger Beton GmbH , ([source](https://www.linkedin.com/company/ecolocked/#post-3fb5909485ed))
+- **2026-08-27** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church âª Berger Beton GmbH ([source](https://www.linkedin.com/company/ecolocked/#post-67ef50ad057c))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-30** — news mention: ecoLocked: 🌱 Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft ⛪ Wie können historische G ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
 - **2026-07-22** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church ⛪ Berger Beton GmbH , ([source](https://www.linkedin.com/company/ecolocked/#post-018da9382087))

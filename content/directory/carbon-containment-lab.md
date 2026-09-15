@@ -35,6 +35,7 @@ Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, t
 
 ## History
 
+- **2026-08-29** — news mention: Carbon Containment Lab: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash p ([source](https://www.linkedin.com/company/carbon-containment-lab/#post-cab788ab529b))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

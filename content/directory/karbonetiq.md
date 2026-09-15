@@ -32,7 +32,7 @@ Karbonetiq is a Santa Barbara, California-based CDR startup (founded 2022) devel
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Carbonated Materials · crediting period 2025-08-01 → 2030-07-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/karbonetiq-contrecoeur-153)
+- 1 project · Carbonated Materials · crediting period 2025-08-01 → 2030-07-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/karbonetiq-contrecoeur-153)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-01** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-30b19228b44a))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))

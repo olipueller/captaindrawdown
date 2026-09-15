@@ -29,6 +29,7 @@ Coastal Carbon is a Canadian startup that uses AI and remote sensing to verify a
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-23** — news mention: Frontiers | Harnessing the microbial carbon pump: prospects and challenges for coastal carbon seques ([source](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1897665/full))

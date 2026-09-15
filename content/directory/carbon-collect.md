@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://carboncollect.com/" target="_blank" rel="noopener">https://carboncollect.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mechanical-tree/" target="_blank" rel="noopener">mechanical-tree — 4,649 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Carbon Collect is headquartered in Dublin, Ireland with a wholly owned subsidiar
 
 ## History
 
+- **2026-08-29** — news mention: Carbon Collect: Scaling Direct Air Capture Requires Capture Technology, Infrastructure, and an Opera ([source](https://www.linkedin.com/company/mechanical-tree/#post-9db0496778b2))
+- **2026-08-22** — news mention: Carbon Collect: June 2026: Carbon Collect launches capital raise to advance next-generation Mechanic ([source](https://www.linkedin.com/company/mechanical-tree/#post-fc27c0b25f71))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.gasworld.com/story/carbon-collect-targets-lower-cost-direct-air-capture-with-latest-technology-release/2143176.article/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.gasworld.com/story/carbon-collect-targets-lower-cost-direct-air-capture-with-latest-technology-release/2143176.article/))

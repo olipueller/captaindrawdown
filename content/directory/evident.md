@@ -29,6 +29,8 @@ Evident is a Sheffield, UK-based certification and registry provider, best known
 
 ## History
 
+- **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
+- **2026-08-29** — news mention: California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows ([source](https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/))
 - **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
 - **2026-08-06** — news mention: Evident: The Xpansiv I-REC Registry has recorded its one billionth I-REC redemption, reflecting I-RE ([source](https://www.linkedin.com/company/international-rec-services/#post-f9a1b8f9b0d2))

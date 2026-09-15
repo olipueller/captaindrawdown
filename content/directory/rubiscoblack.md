@@ -5,7 +5,7 @@ type: "directory"
 description: "Developing microbial technologies to accelerate olivine rock weathering on agricultural fields by addressing rock powder wastage and passivation-layer formation on mineral grains."
 url: "/directory/rubiscoblack/"
 pathway: "Enhanced Weathering"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://rubiscoblack.com/" target="_blank" rel="noopener">https://rubiscoblack.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubiscoblack/" target="_blank" rel="noopener">rubiscoblack — 53 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubiscoblack/" target="_blank" rel="noopener">rubiscoblack — 90 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ RubiscoBlack Environmental Technologies and Services Private Limited was incorpo
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://rubiscoblack.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://rubiscoblack.com/))

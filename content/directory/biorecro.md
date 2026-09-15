@@ -29,6 +29,9 @@ Biorecro is a Stockholm-based BECCS project developer that integrates carbon cap
 
 ## History
 
+- **2026-09-06** — news mention: Biorecro AB: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BE ([source](https://www.linkedin.com/company/biorecro-ab/#post-ff03a4cb488d))
+- **2026-09-06** — news mention: Biorecro: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BECCS ([source](https://www.linkedin.com/company/biorecro/#post-ff03a4cb488d))
+- **2026-08-30** — news mention: Biorecro: 🚨Richardton BECCS: Operational. Permanent. Proven. 🌿Since 2022, the Richardton BECCS Facil ([source](https://www.linkedin.com/company/biorecro/#post-24412b347a49))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
 - **2026-07-25** — news mention: Biorecro: 🚨Richardton BECCS: Operational. Permanent. Proven. 🌿Since 2022, the Richardton BECCS Facil ([source](https://www.linkedin.com/company/biorecro-ab/#post-24412b347a49))

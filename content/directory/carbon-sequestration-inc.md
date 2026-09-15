@@ -33,7 +33,7 @@ Carbon Sequestration Inc. (CSI) is a Houston, Texas-based CDR supplier founded b
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Terrestrial Storage of Biomass · crediting period 2023-04-24 → 2028-04-23 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/csi-hardin-106)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2023-04-24 → 2028-04-23 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/csi-hardin-106)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

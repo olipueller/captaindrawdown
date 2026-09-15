@@ -27,6 +27,7 @@ Arigna Fuels is a fifth-generation Irish family-run solid fuel manufacturer (par
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-22** — refresh: liveliness
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.boyletoday.com/e800k-investment-fuels-green-transition-at-arigna-group/))
 - **2026-05-01** — refresh: screenshot

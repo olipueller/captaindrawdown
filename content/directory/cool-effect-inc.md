@@ -31,6 +31,7 @@ Cool Effect is a US-based 501(c)(3) nonprofit carbon credit marketplace headquar
 
 ## History
 
+- **2026-09-12** — news mention: Cool Effect Inc: Iâm thrilled to share that Google has signed its largest superpollutant deal to d ([source](https://www.linkedin.com/company/cool-effect/#post-421f9093e2fc))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-07** — news mention: Cool Effect Inc: We have closed our Series A: $9.5M, led by Aramco Ventures — their first investment ([source](https://www.linkedin.com/company/cool-effect/#post-24217cd36188))
 - **2026-07-24** — news mention: Cool Effect Inc: I posted about Google’s rising emissions earlier this week. Despite the Good and th ([source](https://www.linkedin.com/company/cool-effect/#post-867d4b48070e))

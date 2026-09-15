@@ -44,6 +44,15 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-14** — news mention: Cattle continue emitting methane as long as they remain on the landscape, regardless of what alt gra ([source](https://bsky.app/profile/projectdrawdown.bsky.social/post/3mvigwatak22o))
+- **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO 2  ([source](https://doi.org/10.5194/bg-23-6211-2026))
+- **2026-09-07** — news mention: This Bengaluru VC Left Investing To Help 27000 Farmers Earn From Restoring Their Land ([source](https://thebetterindia.com/sustainability/carbon-removal-india-equilibrium-biochar-farmers-carbon-credits-12479077))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-31** — news mention: Turning an invader into a remediate: A phosphorus-coupled Spartina alterniflora-biochar system for c ([source](https://doi.org/10.17632/r5y59wggz9))
+- **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
+- **2026-08-21** — news mention: They are close, but TCRE refers to the transient climate response as a function of cumulative carbon ([source](https://bsky.app/profile/climatebook.bsky.social/post/3mtlhkhipfs2x))
+- **2026-08-18** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: p ([source](https://cdrxiv.org/preprint/539))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
 - **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
@@ -65,10 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/projects))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

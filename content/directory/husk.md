@@ -29,6 +29,14 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
+- **2026-09-14** — news mention: Boosting Bean Yields: Coffee Husk Biochar and Fertilizer Benefits ([source](https://biochartoday.com/news/combining-five-tons-of-coffee-husk-biochar-with-one-hundred-fifty-kilograms-of-blended-fertilizer-boosts-common-bean-yields-by-seventy-six-percent/))
+- **2026-09-11** — news mention: How To Achieve Rice Hull Biochar Continuous Production ([source](https://www.pyrolysismachine.com/rice-hull-biochar-continuous-production/))
+- **2026-09-10** — news mention: Researchers at the Bangladesh Institute of Nuclear Agriculture (BINA) have introduced a new biochar  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mv6hgc3mck2z))
+- **2026-09-10** — news mention: Boost Soil Health and Crop Yield with Rice Husk Biochar ([source](https://biochartoday.com/news/optimizing-rice-husk-biochar-application-rates-enhances-soil-carbon-sequestration-and-increases-wheat-yield-by-up-to-sixty-four-percent/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk. Al ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
+- **2026-08-31** — news mention: Physicochemical characteristics and carbon sequestration potential of biochar derived from agricultu ([source](https://doi.org/10.14456/kaj.2026.66))
+- **2026-08-31** — news mention: Physicochemical Characterization of Biochar Derived from Agricultural Wastes for Sustainable Agricul ([source](https://doi.org/10.5281/zenodo.22123730))
+- **2026-08-19** — news mention: Black Gold from the Fields: Obtaining Pyrolytic Biochar from Agricultural Wastes at Various Pyrolysi ([source](https://doi.org/10.46488/nept.2026.v25i03.b4409))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice h ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
 - **2026-08-05** — news mention: #biochar #carbonremoval #cdr #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7490393545430843394/))

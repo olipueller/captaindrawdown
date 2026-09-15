@@ -30,6 +30,14 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
+- **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
+- **2026-08-29** — news mention: Airfix: Ein entscheidender Meilenstein für unser BECCS-Projekt: Die gesamte Prozesskette funktionier ([source](https://www.linkedin.com/company/airfixcarbon/#post-56fde9ec2186))
+- **2026-08-29** — news mention: Airfix: Während sich die Schweiz weiterhin auf Effizienzsteigerung, den Ausbau erneuerbarer Energien ([source](https://www.linkedin.com/company/airfixcarbon/#post-f90888ae1bc6))
+- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO₂ storage in the North Sea – an important milestone f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
 - **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week talk ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
@@ -52,7 +60,6 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 - **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

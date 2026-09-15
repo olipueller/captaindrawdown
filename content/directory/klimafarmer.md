@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of untreated regional wood chips to produce EBC-certified biochar (carbonized ~700 °C, >90% C) sold as Carbon-Sink, Terra Preta substrates, and vineyard/urban-greening soil amendments."
 url: "/directory/klimafarmer/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://klimafarmer.de/" target="_blank" rel="noopener">https://klimafarmer.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimafarmer-gmbh/" target="_blank" rel="noopener">klimafarmer-gmbh — 214 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimafarmer-gmbh/" target="_blank" rel="noopener">klimafarmer-gmbh — 243 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Klimafarmer GmbH is a German biochar company based in Nierstein, Rhineland-Palat
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](registry_activity))

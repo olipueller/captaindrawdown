@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 from corn ethanol fermentation at the Hennepin, IL industrial complex and injects it into the Mt. Simon saline formation via a Class VI well."
 url: "/directory/marquis-energy/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://marquisinc.com/" target="_blank" rel="noopener">https://marquisinc.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marquis-energy-llc/" target="_blank" rel="noopener">marquis-energy-llc — 2,172 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~350</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marquis-inc/" target="_blank" rel="noopener">marquis-inc — 2,397 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~350 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Marquis Energy operates the world's largest dry-mill ethanol plant in Hennepin, 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://marquisinc.com/carbon-and-sustainability/))
 - **2026-05-01** — refresh: screenshot

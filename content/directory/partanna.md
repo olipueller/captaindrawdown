@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Bahamas</td></tr>
   <tr><th>Website</th><td><a href="https://partanna.com/" target="_blank" rel="noopener">https://partanna.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/partannaglobal/" target="_blank" rel="noopener">partannaglobal — 7,886 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/partannaglobal/" target="_blank" rel="noopener">partannaglobal — 7,898 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (-73% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,6 +33,7 @@ Partanna Global is a Bahamian advanced materials company co-founded by former NB
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://industrytoday.com/partanna-makes-senior-hires-as-it-continues-to-scale/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Catalytic-reactor R&D firm developing a low-temperature solid-sorbent DAC concept that uses waste/geothermal heat for sorbent regeneration, funded under DOE SBIR awards."
 url: "/directory/precision-combustion/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pci.energy/" target="_blank" rel="noopener">https://pci.energy/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/precision-combustion-inc./" target="_blank" rel="noopener">precision-combustion-inc. — 6,331 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~43 (-7% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/precision-combustion-inc./" target="_blank" rel="noopener">precision-combustion-inc. — 6,434 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~44 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Precision Combustion, Inc. (PCI) is a North Haven, CT clean-energy R&D firm whos
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://pci.energy/about-pci/pci-in-the-news/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pci.energy/about-pci/pci-in-the-news/))
 - **2026-05-01** — refresh: screenshot

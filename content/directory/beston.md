@@ -30,6 +30,9 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 
 ## History
 
+- **2026-09-14** — news mention: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
+- **2026-08-24** — news mention: Beston Group Deploys BST-50 Biochar Pyrolysis Plant in Asia to Convert Sugarcane Straw into Biochar  ([source](https://biochartoday.com/news/beston-group-deploys-bst-50-biochar-pyrolysis-plant-in-asia-to-convert-sugarcane-straw-into-biochar-and-carbon-credits/))
+- **2026-08-23** — news mention: BST-50 Biochar Pyrolysis Plant in Asia: Turning Sugarcane Straw into Biochar for Carbon Credits - Be ([source](https://www.bestongroup.com/global-cases/bst-50-biochar-pyrolysis-plant-in-asia-turning-sugarcane-straw-into-biochar-for-carbon-credits/))
 - **2026-08-04** — news mention: Beston: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacturers! We ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-02e26714b5f4))
 - **2026-07-28** — news mention: Beston Group: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacture ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-c29792934933))
 - **2026-07-25** — news mention: Euthenia Energy: 🌱 Big milestone for Euthenia! We’re proud to announce the successful launch of our  ([source](https://www.linkedin.com/company/euthenia-energy/#post-316fa6916097))

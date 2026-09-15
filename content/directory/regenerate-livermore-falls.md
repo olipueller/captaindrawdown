@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.regenerate-energy.com/" target="_blank" rel="noopener">https://www.regenerate-energy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenerate-energy/" target="_blank" rel="noopener">regenerate-energy — 61 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenerate-energy/" target="_blank" rel="noopener">regenerate-energy — 77 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-02-08</small></td></tr>
-  <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-02-08)</small></td></tr>
 </table>
@@ -32,13 +32,14 @@ ReGenerate Livermore Falls, LLC is a 39 MW biomass power facility in Livermore F
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2024-02-09 → 2029-02-08 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/regenerate-livermore-falls-llc-151)
+- 1 project · Biochar, 2022 · crediting period 2024-02-09 → 2029-02-08 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/regenerate-livermore-falls-llc-151)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.regenerate-energy.com/portfolio/regenerate-livermore-falls/))

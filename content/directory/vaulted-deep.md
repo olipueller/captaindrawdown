@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vaulteddeep.com/" target="_blank" rel="noopener">https://vaulteddeep.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep — 7,057 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep — 7,787 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~57 (+73% YoY)</td></tr>
+  <tr><th>Employees</th><td>~64 (+36% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2023-12-23)</small></td></tr>
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-08-04** — news mention: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology Pione ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))

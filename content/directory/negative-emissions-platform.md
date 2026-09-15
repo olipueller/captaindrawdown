@@ -29,6 +29,24 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-09-09** — news mention: Sysav joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/sysav-joins-the-negative-emissions-platform))
+- **2026-09-09** — news mention: The Negative Emissions Platform has published a new position paper on integrating permanent carbon r ([source](https://www.negative-emissions.org/updates/the-negative-emissions-platform-has-published-a-new-position-paper-on-integrating-permanent-carbon-removals-into-the-eu-ets))
+- **2026-09-07** — news mention: Pre-2031 CDR delivery timeline | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7502683295449628673/))
+- **2026-09-02** — news mention: Now is the time to enter Europe’s carbon removal market.
+ 
+The business case has never been stronger ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
+- **2026-09-02** — news mention: BlueLayer joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/bluelayer-joins-the-negative-emissions-platform))
+- **2026-08-29** — news mention: CDR Momentum, Edition III, August | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498298438246273024/))
+- **2026-08-26** — news mention: The future of the EU Emissions Trading System will shape both the pace of Europe’s industrial decarb ([source](https://www.linkedin.com/feed/update/urn:li:share:7498261413908422656/))
+- **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
+- **2026-08-21** — news mention: Corporate demand does not translate into project deployment automatically.
+
+Companies need credible  ([source](https://www.linkedin.com/feed/update/urn:li:share:7496158307972390912/))
+- **2026-08-20** — news mention: Negative Emissions Platform: Permanent carbon removal is becoming part of how European cities plan f ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-bfef587c91d5))
+- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
+
+At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
+- **2026-08-17** — news mention: VodafoneThree's new 24,000-tonne UK removals RFP, run by @linkedin.com's Negative Emissions Platform ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtawpww6u62p))
 - **2026-08-14** — news mention: What will shape Europe&amp;#39;s carbon removal market? | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493671284963328000/))
 - **2026-08-13** — news mention: Negative Emissions Platform: 📣 It’s official: carbon removal is returning to the Blue Zone at COP. T ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-fee5837e7e65))
 - **2026-08-13** — news mention: Europe’s carbon removal market is being shaped by new policy signals, buyer initiatives and corporat ([source](https://www.linkedin.com/feed/update/urn:li:share:7492878553517076481/))
@@ -48,20 +66,6 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
  ([source](https://www.linkedin.com/feed/update/urn:li:share:7479859627640340481/))
 - **2026-07-06** — news mention: A Healthier Earth joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/a-healthier-earth-joins-the-negative-emissions-platform))
 - **2026-07-03** — news mention: Today, the Negative Emissions Platform submitted its response to the stakeholder survey on the Innov ([source](https://www.linkedin.com/feed/update/urn:li:share:7478429780527271938/))
-- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
-- **2026-06-24** — news mention: Timber Carbon joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/timber-carbon-joins-the-negative-emissions-platform))
-- **2026-06-24** — news mention: #lcaw2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7472940097781350401/))
-- **2026-06-24** — news mention: #lcaw | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474837289572069377/))
-- **2026-06-24** — news mention: #londonclimateactionweek | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474794254196928513/))
-- **2026-06-11** — news mention: 🌍 VOLUNTEER WITH US AT COP31 – THINK NEGATIVE: CARBON REMOVALS PAVILION
-
-We&amp;#39;re looking for p ([source](https://www.linkedin.com/feed/update/urn:li:share:7470419902172913664/))
-- **2026-06-09** — news mention: Europe is moving on carbon removals and we’ve been on the ground as it happens. Here are the signals ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469647258750447616/))
-- **2026-06-04** — news mention: #nepsummit | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7467916739750555649/))
-- **2026-06-03** — news mention: #brussels | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:share:7467558566669729792/))
-- **2026-05-29** — news mention: Tibor Siering, German Energy Agency (dena) | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7466035796622434305/))
-- **2026-05-29** — news mention: Planeteers: Meet us at the @[Negative Emissions Platform](urn:li:organization:69387564) Summit in Br ([source](https://www.linkedin.com/feed/update/urn:li:share:7465662435300003841/))
-- **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
 
 ---
 

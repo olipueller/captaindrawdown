@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://takingroot.com/" target="_blank" rel="noopener">https://takingroot.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takingroot/" target="_blank" rel="noopener">takingroot — 5,542 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/takingroot/" target="_blank" rel="noopener">takingroot — 5,746 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~26 (-35% YoY)</td></tr>
+  <tr><th>Employees</th><td>~28 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: Taking Root: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-E ([source](https://www.linkedin.com/company/takingroot/#post-56d72f5979b3))
 - **2026-08-13** — news mention: Taking Root: Big news from Plan Vivo . PV Climate has been approved as a CCP-Eligible carbon-crediti ([source](https://www.linkedin.com/company/takingroot/#post-affb2ae9b8e8))
 - **2026-08-11** — news mention: A new type of levee is taking root in Northern California ([source](https://grist.org/solutions/a-new-type-of-levee-is-taking-root-in-northern-california/))

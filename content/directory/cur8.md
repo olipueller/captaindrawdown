@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://cur8.earth/" target="_blank" rel="noopener">https://cur8.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cur8earth/" target="_blank" rel="noopener">cur8earth — 9,926 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cur8earth/" target="_blank" rel="noopener">cur8earth — 10,625 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~38 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~36 (+16% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,10 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-27** — news mention: CUR8: Well, it’s finally happened. The European Commission has published its proposal for bringing c ([source](https://www.linkedin.com/company/cur8earth/#post-5577c033df5a))
+- **2026-08-20** — news mention: CUR8: Superpollutant supplier intake is live. ð Methane, N2O, ODS, HFCs: developers can now creat ([source](https://www.linkedin.com/company/cur8earth/#post-0a64346b1bc5))
+- **2026-08-20** — news mention: CUR8: ð¦¸ð¨ Superpollutants drive roughly 45% of current warming. Yet, they account for less than ([source](https://www.linkedin.com/company/cur8earth/#post-a508190dc37b))
 - **2026-07-29** — news mention: CUR8: Well, itâs finally happened. The European Commission has published its proposal for bringing ([source](https://www.linkedin.com/company/cur8earth/#post-a5ea1dfee971))
 - **2026-07-22** — news mention: CUR8: Well, it’s finally happened. The European Commission has published its proposal for bringing c ([source](https://www.linkedin.com/company/cur8earth/#post-19249493a132))
 - **2026-06-09** — news mention: NATS To Invest Over $600k In A Carbon Removal Portfolio Through CUR8 ([source](https://carbonherald.com/nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8/?utm_source=rss&utm_medium=rss&utm_campaign=nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8))

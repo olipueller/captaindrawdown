@@ -35,6 +35,7 @@ BioFlux is a consultancy focused on biochar carbon removal project development. 
 
 ## History
 
+- **2026-09-01** — news mention: IDH, reVive, and BioFlux Publish Report on In-Setting Biochar Applications Across Agricultural Suppl ([source](https://biochartoday.com/news/idh-revive-and-bioflux-publish-report-on-in-setting-biochar-applications-across-agricultural-supply-chains/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://travertinetech.com/" target="_blank" rel="noopener">https://travertinetech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/travertine-tech/" target="_blank" rel="noopener">travertine-tech — 5,202 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/travertine/" target="_blank" rel="noopener">travertine — 5,503 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~43 (+39% YoY)</td></tr>
+  <tr><th>Employees</th><td>~41 (+8% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Travertine Technologies is a Boulder, Colorado-based CDR company that spun out o
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: Travertine: 📢 NEWS RELEASE: Arianne Phosphate has completed the production of purified phosphoric ac ([source](https://www.linkedin.com/company/travertine-tech/#post-917e551bd6ec))
 - **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
 - **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))

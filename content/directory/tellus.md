@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://tellusbiocarbon.com/" target="_blank" rel="noopener">https://tellusbiocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tellusbiocarbon/" target="_blank" rel="noopener">tellusbiocarbon — 101 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Tellus is a Brazilian climate-tech company transforming biomass residues into bi
 
 ## History
 
+- **2026-08-15** — news mention: Tellus: Tellus is pleased to partner with Climeworks, a global leader in high-integrity carbon remov ([source](https://www.linkedin.com/company/tellusbiocarbon/#post-d845015f5c01))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://cdr30.org/member/tellus/))
 - **2026-05-01** — refresh: screenshot

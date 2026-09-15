@@ -30,6 +30,8 @@ AquaGreen is a Danish cleantech company that develops and sells HECLA® integrat
 
 ## History
 
+- **2026-08-28** — news mention: AquaGreen: "The plant has run with very few stoppages over the past year, and the technology has pro ([source](https://www.linkedin.com/company/aquagreenaps/#post-7d62d2828e86))
+- **2026-08-28** — news mention: AquaGreen: Congratulations to Severn Trent on leading this pioneering research. Sewage sludge is not ([source](https://www.linkedin.com/company/aquagreenaps/#post-939b7ca0f0de))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: AquaGreen: On 3 February 2026, the European Commission adopted the first #CRCF certification methodo ([source](https://www.linkedin.com/company/aquagreenaps/#post-b7c26a8fc830))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

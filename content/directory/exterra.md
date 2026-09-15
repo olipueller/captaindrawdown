@@ -30,6 +30,8 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 
 ## History
 
+- **2026-09-05** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate the  ([source](https://www.linkedin.com/company/esgnr/#post-6562348b19b4))
+- **2026-08-29** — news mention: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind (FOA ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-08-07** — news mention: Exterra: Proud to formalize our strategic collaboration with SGS to accelerate the validation and sc ([source](https://www.linkedin.com/company/esgnr/#post-3ecdc57c178d))

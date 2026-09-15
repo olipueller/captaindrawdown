@@ -31,6 +31,10 @@ Ruuts is an Argentina-based regenerative agriculture platform that co-developed 
 
 ## History
 
+- **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South Ameri ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
+- **2026-08-28** — news mention: Ruuts: Our Carbon Program SARA, developed together with Anthesis Group , has been assigned a BeZero  ([source](https://www.linkedin.com/company/ruutsnetwork/#post-7a53b4ab1a7c))
+- **2026-08-28** — news mention: Ruuts: For the first time, a regenerative grazing program in South America at scale is paying farmer ([source](https://www.linkedin.com/company/ruutsnetwork/#post-e40fd2820b1d))
+- **2026-08-28** — news mention: Ruuts: Our carbon program SARA reached a new milestone: we made the first carbon credit payments, wi ([source](https://www.linkedin.com/company/ruutsnetwork/#post-e5257e2e5a72))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-30** — news mention: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of AA ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

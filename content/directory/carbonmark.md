@@ -30,6 +30,7 @@ Carbonmark is a global carbon credits marketplace that connects project develope
 
 ## History
 
+- **2026-08-22** — news mention: Carbonmark: Software tools, and their friendly AI agent counterparts, can now retire carbon credits  ([source](https://www.linkedin.com/company/carbonmarkcom/#post-d6b1b7c1c6e8))
 - **2026-07-24** — news mention: Carbonmark: AI agents just learned how to pay. One of the first real things they can buy? Verified c ([source](https://www.linkedin.com/company/carbonmarkcom/#post-9ebd71bdced4))
 - **2026-05-14** — news mention: Carbonmark's API for Key Processes Automation ([source](https://www.carbonmark.com/api-and-integrations))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

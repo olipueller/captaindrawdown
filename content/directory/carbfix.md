@@ -34,6 +34,9 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-09-10** — news mention: Carbfix achieves 99.6% capture of CO2 and H2S from geothermal power plant in Iceland ([source](https://www.thinkgeoenergy.com/carbfix-achieves-99-6-capture-of-co2-and-h2s-from-geothermal-power-plant-in-iceland/))
+- **2026-09-05** — news mention: Sucking Carbon Out of Thin Air - by Ritchie Cunningham ([source](https://ritchiecunninghams.substack.com/p/sucking-carbon-out-of-thin-air))
+- **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
 - **2026-08-12** — news mention: Carbon crossroads: Petrochemicals boom tests Indonesia’s climate goals | Dialogue Earth ([source](https://dialogue.earth/en/energy/carbon-crossroads-petrochemicals-boom-tests-indonesias-climate-goals/))
 - **2026-07-29** — news mention: The storage form answers Kevin's leak question: mineralized carbonate and dissolved bicarbonate are  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrs326gpwn25))
 - **2026-07-23** — news mention: Cella Mineral Storage: Big milestone for us at Cella: We’ve completed our first CO2 injection test a ([source](https://www.linkedin.com/company/cellamineral/#post-72428974b093))

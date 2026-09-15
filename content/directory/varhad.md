@@ -5,7 +5,7 @@ type: "directory"
 description: "Varhad Capital operates artisanal Kon-Tiki kilns and industrial pyrolysis/gasification plants converting cotton and pigeon pea stalks from Indian farmer cooperatives into biochar, and is scaling"
 url: "/directory/varhad/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://varhad.in/" target="_blank" rel="noopener">https://varhad.in/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-varhad-group/" target="_blank" rel="noopener">the-varhad-group — 6,337 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~17</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-varhad-group/" target="_blank" rel="noopener">the-varhad-group — 6,843 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (+35% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,6 +39,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
+- **2026-08-20** — news mention: Varhad: Varhad is thrilled to announce a major IP milestone! The Patent Office, Government of India, ([source](https://www.linkedin.com/company/the-varhad-group/#post-ae7c110a9934))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2789227-india-s-varhad-advances-multi-pathway-carbon-removal))
 - **2026-05-01** — refresh: screenshot

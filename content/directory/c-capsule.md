@@ -30,6 +30,8 @@ C-Capsule is a carbon removal certification and registry service operated by Evi
 
 ## History
 
+- **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for hi ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
+- **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
 - **2026-08-01** — news mention: C-Capsule: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high ([source](https://www.linkedin.com/company/c-capsule/#post-c458964553b1))

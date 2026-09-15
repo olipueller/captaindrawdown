@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.leilac.com/" target="_blank" rel="noopener">https://www.leilac.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/leilac/" target="_blank" rel="noopener">leilac — 2,801 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/leilac/" target="_blank" rel="noopener">leilac — 3,261 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (-40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (-36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Leilac is a 93%-owned subsidiary of ASX-listed Calix Limited that develops indir
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-29** — news mention: Leilac/Calix: Another step towards commercial deployment. #Leilac has signed a paid engineering stud ([source](https://www.linkedin.com/company/leilac/#post-9d76a8670eab))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.calix.com/careers.html))
 - **2026-08-14** — news mention: Leilac/Calix: ð£ A major step forward for low-carbon cement production.   Leilac and Adani Cement  ([source](https://www.linkedin.com/company/leilac/#post-001b4aee8193))
 - **2026-08-07** — news mention: Leilac/Calix: From cement in Asia to lithium in the Pilbara, the #Calix technology is moving from de ([source](https://www.linkedin.com/company/leilac/#post-1c927b905b12))

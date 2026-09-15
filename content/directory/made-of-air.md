@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.madeofair.com/" target="_blank" rel="noopener">https://www.madeofair.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/made-of-air/" target="_blank" rel="noopener">made-of-air — 6,051 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/made-of-air/" target="_blank" rel="noopener">made-of-air — 6,154 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (-19% YoY)</td></tr>
+  <tr><th>Employees</th><td>~12 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Made of Air is a Berlin-based carbon-negative materials company, founded in 2016
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.materially.eu/en/made-of-air-2/))
 - **2026-08-06** — news mention: Made of Air: Sequoia façade panels weigh just 9.8 kg/m² - significantly reducing structural load, fo ([source](https://www.linkedin.com/company/made-of-air/#post-30965abefb24))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.materially.eu/en/made-of-air-2/))

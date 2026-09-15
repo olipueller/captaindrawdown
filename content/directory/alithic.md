@@ -35,6 +35,8 @@ Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout c
 
 ## History
 
+- **2026-09-14** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate capacity ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
+- **2026-08-23** — news mention: Alithic: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity of 50 tonnes  ([source](https://www.linkedin.com/company/alithic/#post-68f159b5c647))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-08** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity o ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))
 - **2026-08-01** — news mention: Alithic: A year ago, we commissioned Alithic's demonstration facility in Madison, Wisconsin. That mi ([source](https://www.linkedin.com/company/earth-repair/#post-e14b14926baa))

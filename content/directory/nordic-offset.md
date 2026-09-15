@@ -29,6 +29,7 @@ Nordic Offset (Nordic Offset Oy) is a Finnish carbon footprint management consul
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://nordicoffset.fi/en/carbon-offsetting/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://nordicoffset.fi/ ([source](https://www.cdr.fyi/marketplace/nordic-offset))

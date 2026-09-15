@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.reversecoal.co.uk/" target="_blank" rel="noopener">https://www.reversecoal.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy-ltd/" target="_blank" rel="noopener">lapwing-energy-ltd — 256 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy/" target="_blank" rel="noopener">lapwing-energy — 264 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
@@ -30,6 +30,8 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-08** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! ð I am thrilled to announce that  ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-16b380f56c4f))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
 - **2026-07-26** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! 🚀 I am thrilled to announce that our ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-69ceb9a9dc42))
 - **2026-05-01** — refresh: screenshot

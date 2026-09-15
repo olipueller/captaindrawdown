@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Fertilization</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.oceannourishment.com/" target="_blank" rel="noopener">https://www.oceannourishment.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-nourishment-corporation/" target="_blank" rel="noopener">ocean-nourishment-corporation — 304 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-nourishment-corporation/" target="_blank" rel="noopener">ocean-nourishment-corporation — 312 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Ocean Nourishment Corporation (ONC) is an Australian company incorporated in 200
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-17** — news mention: Ocean Nourishment Corporation: Marine-Carbon Dioxide Removal (Sydney) Important marine research is h ([source](https://www.linkedin.com/company/ocean-nourishment-corporation/#post-a441f069ed3a))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://hakaimagazine.com/news/iron-fertilization-isnt-going-to-save-us/))

@@ -38,6 +38,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-07** — news mention: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transf ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
+- **2026-09-07** — news mention: Enable Earth: ð½ 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth w ([source](https://www.linkedin.com/company/enable-earth/#post-6867f5fe40ad))
+- **2026-08-23** — news mention: Enable Earth: 🌽 80 tonnes of corn stalks that did not have to end in open burning. Enable Earth work ([source](https://www.linkedin.com/company/enable-earth/#post-40024b45edda))
+- **2026-08-17** — news mention: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transform Agricultural Waste i ([source](https://biochartoday.com/news/enable-earth-establishes-industrial-biochar-operations-in-thailand-to-transform-agricultural-waste-into-verifiable-carbon-removal/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Enable Earth: Scaling climate solutions starts with proving they work in the field. One of the ways  ([source](https://www.linkedin.com/company/enable-earth/#post-5af9cea037ed))
 - **2026-05-01** — refresh: screenshot

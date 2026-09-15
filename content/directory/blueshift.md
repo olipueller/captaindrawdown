@@ -35,6 +35,8 @@ BlueShift is a Cambridge, Massachusetts startup founded in 2024 developing a mem
 
 ## History
 
+- **2026-09-06** — news mention: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones and ([source](https://www.linkedin.com/company/buildblueshift/#post-40d1f186752f))
+- **2026-08-23** — news mention: BlueShift: Weâre deploying. Itâs been a high-velocity few months at BlueShift hitting milestones ([source](https://www.linkedin.com/company/buildblueshift/#post-a43ce0a2ce49))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-25** — news mention: BlueShift: We’re deploying. It’s been a high-velocity few months at BlueShift hitting milestones and ([source](https://www.linkedin.com/company/buildblueshift/#post-41eda444489f))
 - **2026-05-01** — refresh: screenshot

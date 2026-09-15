@@ -31,6 +31,12 @@ Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Y
 
 ## History
 
+- **2026-09-02** — news mention: DeCarbon Tech: PROJECT LICHUN | FROM AIR TO VALUE Capturing COâ from the air is only the starting  ([source](https://www.linkedin.com/company/decarbon-tech/#post-c2c8058641e0))
+- **2026-08-25** — news mention: DeCarbon Technology: Isometric has signed its first project developers in China, providing the high- ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
+- **2026-08-25** — news mention: DeCarbon Technology: PROJECT LICHUN | FROM AIR TO VALUE Capturing CO₂ from the air is only the start ([source](https://www.linkedin.com/company/decarbon-tech/#post-0cb36cb2a269))
+- **2026-08-18** — news mention: DeCarbon Tech: Isometric has signed its first carbon removal projects in China, expanding its certif ([source](https://www.linkedin.com/company/decarbon-tech/#post-64be3b1f8bd3))
+- **2026-08-18** — news mention: DeCarbon Tech: “We partnered with Isometric because of its rigorous, science-based approach and its  ([source](https://www.linkedin.com/company/decarbon-tech/#post-911918bfc406))
+- **2026-08-15** — news mention: Decarbon: A significant milestone for our team. We’re at the National Carbon Capture Center carrying ([source](https://www.linkedin.com/company/decarbontek/#post-518b81487b4f))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-12** — news mention: Isometric Signs Tongao Greenchar, Vastwing Energy, and DeCarbon Tech to Certify First Chinese Carbon ([source](https://biochartoday.com/news/isometric-signs-tongao-greenchar-vastwing-energy-and-decarbon-tech-to-certify-first-chinese-carbon-removals/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-10** — news mention: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing t ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-fb194392fed1))

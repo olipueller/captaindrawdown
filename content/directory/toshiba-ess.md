@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.global.toshiba/ww/products-solutions/energy.html" target="_blank" rel="noopener">https://www.global.toshiba/ww/products-solutions/energy.html</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/toshiba-corporation/" target="_blank" rel="noopener">toshiba-corporation — 404,967 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/toshiba-corporation/" target="_blank" rel="noopener">toshiba-corporation — 407,222 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~1965 (+18% YoY)</td></tr>
+  <tr><th>Employees</th><td>~2069 (+28% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Toshiba Energy Systems & Solutions (Toshiba ESS) is the energy-systems arm of To
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.global.toshiba/ww/news/energy/2020/10/news-20201031-01.html))

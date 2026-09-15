@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Ocean CDR, Enhanced Weathering</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://phathom.tech/" target="_blank" rel="noopener">https://phathom.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech — 1,004 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phathomtech/" target="_blank" rel="noopener">phathomtech — 1,154 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+120% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ pHathom Technologies is a Halifax, Nova Scotia cleantech startup founded in 2024
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-25** — news mention: pHathom Technologies: Ocean Supercluster has announced funding for a project that marks a major step ([source](https://www.linkedin.com/company/phathomtech/#post-8fb3e939d7fc))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-01** — refresh: screenshot

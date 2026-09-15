@@ -35,6 +35,8 @@ Cultivo is a California-based Public Benefit Corporation that develops, operates
 
 ## History
 
+- **2026-08-22** — news mention: CARBOLIVA SLU: 👉 El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo Operativo  ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))
+- **2026-08-19** — news mention: Short-term responses of a degraded Mediterranean soil to compost and biochar amendments combined wit ([source](https://doi.org/10.20350/digitalcsic/29050))
 - **2026-07-29** — news mention: Cultivo: Raising the bar for soil carbon quality is crucial for building trust in nature-based solut ([source](https://www.linkedin.com/company/cultivo/#post-82874baa1ca3))
 - **2026-07-22** — news mention: Cultivo: Isometric has certified the Improved Soil Management Protocol. Three leading project develo ([source](https://www.linkedin.com/company/cultivo/#post-dfd71984f6ae))
 - **2026-07-22** — news mention: Loam: Isometric has certified the Improved Soil Management Protocol. Three leading project developer ([source](https://www.linkedin.com/company/soilcarbonco/#post-a3eb7c68bc83))

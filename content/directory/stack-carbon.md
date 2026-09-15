@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Uganda</td></tr>
   <tr><th>Website</th><td><a href="https://www.stackcarbon.earth/" target="_blank" rel="noopener">https://www.stackcarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon — 961 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon — 1,073 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,12 @@ Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
+- **2026-08-23** — news mention: Stack Carbon: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonn ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
+- **2026-08-16** — news mention: Stack Carbon: ðð¨ððð² ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð ð¦ð ([source](https://www.linkedin.com/company/stackcarbon/#post-aecef9478f4f))
+- **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that meet ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
+- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602 t ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
 - **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
 - **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
 - **2026-08-03** — news mention: Uganda's Stack Carbon signs major carbon credits deal | Latest Market News ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2860077-uganda-s-stack-carbon-signs-major-carbon-credits-deal))

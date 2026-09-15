@@ -30,6 +30,31 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-09-14** — news mention: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
+- **2026-09-12** — news mention: Our team will be in New York City and Brussels in the coming weeks. Will we see you there?
+
+On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
+- **2026-09-11** — news mention: Takachar: We are excited to share that Takachar's Takavator technology has officially earned Rainbow ([source](https://www.linkedin.com/company/takachar/#post-78a33acf2b0f))
+- **2026-09-02** — news mention: A carbon credit buyer recently wrote to us about their experience with one of our methodologies. 
+
+H ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500824872948887552/))
+- **2026-08-30** — news mention: Sinkco Labs: We have finalized a new BiCRS module: Marine Sub-Sediment Burial (MSSB). The module was ([source](https://www.linkedin.com/company/sinkco-labs/#post-84030ff87fcd))
+- **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))
+- **2026-08-27** — news mention: Carbonapp: We issued our 500,000th carbon credit in July. It's been three and a half years since we  ([source](https://www.linkedin.com/company/carbonapp-fr/#post-48f56ecd54ab))
+- **2026-08-26** — news mention: Rainbow Starts Public Consultation On Its New Biomass Burial Module ([source](https://carbonherald.com/rainbow-starts-public-consultation-on-its-new-biomass-burial-module/?utm_source=rss&utm_medium=rss&utm_campaign=rainbow-starts-public-consultation-on-its-new-biomass-burial-module))
+- **2026-08-26** — news mention: We’ve opened the public consultation for our new biomass burial module. 
+
+This pathway keeps biogeni ([source](https://www.linkedin.com/feed/update/urn:li:share:7497925758091395073/))
+- **2026-08-22** — news mention: Tera Carbon Pte Ltd: High-integrity biochar carbon removal is selling out fast. ð± Thatâs why we ([source](https://www.linkedin.com/company/teracarbon/#post-12d45456cceb))
+- **2026-08-22** — news mention: Releaf Earth: We are excited to share a major milestone: Our CEO, Ikenna Nzewi , has officially anno ([source](https://www.linkedin.com/company/releaf-earth/#post-d148300c7e0a))
+- **2026-08-19** — news mention: 𝗡𝗲𝘄 𝗶𝗻 𝗔𝗿𝗰: 𝗮𝗻 𝗔𝗣𝗜 𝗳𝗼𝗿 𝗰𝗮𝗿𝗯𝗼𝗻 𝗿𝗲𝗺𝗼𝘃𝗮𝗹 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
+
+The quantification engine behind Arc, our ce ([source](https://www.linkedin.com/feed/update/urn:li:share:7495758974831755264/))
+- **2026-08-18** — news mention: For too long, biochar has been treated as a single credit type.
+
+The reality is biochar spans multip ([source](https://www.linkedin.com/feed/update/urn:li:share:7495373945727193088/))
+- **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that meet ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
+- **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
 - **2026-08-14** — news mention: Cler-Verts: 📣Une nouvelle avancée pour notre filière biochar ! Notre unité de production de biocha ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
 - **2026-08-13** — news mention: Carbonapp: Le projet de reconditionnement de matériel IT porté par Largo vient d'émettre pour la deu ([source](https://www.linkedin.com/company/carbonapp-fr/#post-8881a34b4bdf))
 - **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
@@ -47,31 +72,6 @@ Bio-oil is a co-product ([source](https://www.linkedin.com/feed/update/urn:li:sh
 - **2026-07-28** — news mention: The European Commission has proposed to become the largest buyer of carbon dioxide removal in the wo ([source](https://www.linkedin.com/feed/update/urn:li:share:7487771814404997120/))
 - **2026-07-28** — news mention: Carbonfuture: Suppliers certified under the Rainbow Standard can now transact CDR credits through Ca ([source](https://www.linkedin.com/company/carbonfuture/#post-27c91bdbf2b9))
 - **2026-07-28** — news mention: Beston Group: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacture ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-c29792934933))
-- **2026-07-23** — news mention: Congratulations to CLER VERTS on their first issuance of Rainbow Carbon Credits for biochar carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7485951861796196352/))
-- **2026-07-23** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-a99817071edb))
-- **2026-07-23** — news mention: Takachar: Excited to introduce the Rainbow Partner Program, the largest ecosystem of dMRV providers  ([source](https://www.linkedin.com/company/takachar/#post-b8359905ff33))
-- **2026-07-21** — news mention: Introducing the Rainbow Partner Program. 
-
-Great partners are crucial to many carbon removal project ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485242262659076096/))
-- **2026-07-21** — news mention: #carbonremoval #cdr #rainbow #dmrv #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7485259060120907776/))
-- **2026-07-17** — news mention: Frontier has approved Rainbow&amp;#39;s Biogenic Carbon Capture and Storage (BioCCS) methodology for ([source](https://www.linkedin.com/feed/update/urn:li:share:7483807974143070209/))
-- **2026-07-14** — news mention: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for biocha ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
-- **2026-07-09** — news mention: We&amp;#39;re looking for a Science Expert to join us as we scale our work in carbon removal.
-
-In th ([source](https://www.linkedin.com/feed/update/urn:li:share:7478019059914285058/))
-- **2026-07-07** — news mention: We have applied for CRCF recognition as a Certification Scheme.
-
-Once recognised, project developers ([source](https://www.linkedin.com/feed/update/urn:li:share:7480159241195040768/))
-- **2026-07-06** — news mention: Rainbow Updates Its BioCCS Methodology To Align With The EU CRCF Framework ([source](https://carbonherald.com/rainbow-updates-its-bioccs-methodology-to-align-with-the-eu-crcf-framework/?utm_source=rss&utm_medium=rss&utm_campaign=rainbow-updates-its-bioccs-methodology-to-align-with-the-eu-crcf-framework))
-- **2026-07-03** — news mention: We&amp;#39;re looking for a Carbon Project Analyst intern to join our Certification Operations team. ([source](https://www.linkedin.com/feed/update/urn:li:share:7478017194082168832/))
-- **2026-07-02** — news mention: We have finalised our Biogenic Carbon Capture and Storage (BioCCS) methodology.
-
-The methodology dir ([source](https://www.linkedin.com/feed/update/urn:li:share:7478341730300399617/))
-- **2026-07-01** — news mention: Rainbow Standard: For most of the last decade, the carbon world has sorted itself into two camps tha ([source](https://www.linkedin.com/feed/update/urn:li:share:7477997267984035840/))
-- **2026-06-30** — news mention: 44 data points per batch. 63 validation items. Up to 20 evidence documents per site.
-
-As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
-- **2026-06-26** — news mention: A UK biochar project developer told us why he prefers to work with Rainbow as a carbon credit regist ([source](https://www.linkedin.com/feed/update/urn:li:share:7476182098303713280/))
 
 ---
 

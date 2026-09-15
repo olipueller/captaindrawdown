@@ -29,6 +29,10 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-09-01** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-30b19228b44a))
+- **2026-08-22** — news mention: Releaf Earth: We are excited to share a major milestone: Our CEO, Ikenna Nzewi , has officially anno ([source](https://www.linkedin.com/company/releaf-earth/#post-d148300c7e0a))
+- **2026-08-20** — news mention: Milkywire: 📢 Our campaign #report , over 100 pages, is out now: 31 million litres of ice stored acro ([source](https://www.linkedin.com/company/milkywire/#post-f6eb4fcf3dc1))
+- **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
 - **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now publis ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
 - **2026-08-12** — news mention: Milkywire: Water scarcity is quietly emptying mountain villages. As glaciers retreat, the meltwater  ([source](https://www.linkedin.com/company/milkywire/#post-49b44c895e49))
 - **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))

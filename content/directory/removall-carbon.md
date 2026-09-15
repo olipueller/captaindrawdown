@@ -35,6 +35,7 @@ Removall Carbon is a developer and investor in high-integrity, nature-based proj
 
 ## History
 
+- **2026-09-03** — news mention: Removall Carbon: ð§ A new milestone for the Pungue Clean Water Project, the project has successful ([source](https://www.linkedin.com/company/removall-carbon/#post-de6632070f34))
 - **2026-08-13** — news mention: Removall Carbon: 💧 A new milestone for the Pungue Clean Water Project, the project has successfully  ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
 - **2026-08-06** — news mention: Removall Carbon: 🇪🇺 Two recent EU developments are sending a strong signal for carbon markets. 📊 Und ([source](https://www.linkedin.com/company/removall-carbon/#post-80ead297a3d1))
 - **2026-07-17** — news mention: #carbonremoval #carbonmarkets #climatefinance #naturebasedsolutions | Carbon Standards International ([source](https://www.linkedin.com/feed/update/urn:li:share:7483517342870839296/))

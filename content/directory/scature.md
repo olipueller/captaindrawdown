@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scature.com/" target="_blank" rel="noopener">https://www.scature.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scature/" target="_blank" rel="noopener">scature — 774 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scature/" target="_blank" rel="noopener">scature — 802 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Scature is a Netherlands-based broker/marketplace connecting corporate buyers wi
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-30** — news mention: Scature: Q2 2026 just became the biggest quarter carbon removal has ever seen. 2.1 million tonnes of ([source](https://www.linkedin.com/company/scature/#post-9b16d4fa6d95))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-25** — news mention: Scature: A CO₂ offset isn't a receipt. It's a farm you can walk through. This year, Coppa Group and  ([source](https://www.linkedin.com/company/scature/#post-baf58356f492))
 - **2026-05-01** — refresh: coresignal, screenshot

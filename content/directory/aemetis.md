@@ -29,6 +29,7 @@ Aemetis (NASDAQ: AMTX) is a Cupertino, California-based renewable natural gas, e
 
 ## History
 
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
 - **2026-08-13** — news mention: Aemetis: Progress on our mechanical vapor recompression system at the Keyes, California, ethanol pla ([source](https://www.linkedin.com/company/aemetis/#post-599f11e96d6a))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.aemetis.com/products/carbon-capture/))

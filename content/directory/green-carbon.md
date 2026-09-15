@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-03** — news mention: Green Carbon: 【🌾 Green Carbon Signs MOU with New Forests in Vietnam🇻🇳】 We are pleased to announce th ([source](https://www.linkedin.com/company/green-carbon-inc/#post-9c317eb4e2c2))
+- **2026-09-02** — news mention: Green Carbon, New Forests Target Large-Scale Rice Methane Projects In Vietnam ([source](https://carbonherald.com/green-carbon-new-forests-target-large-scale-rice-methane-projects-in-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=green-carbon-new-forests-target-large-scale-rice-methane-projects-in-vietnam))
+- **2026-08-27** — news mention: Green Carbon: 🌾 Turning Rice Paddies into Local Climate Action Green Carbon Inc. is pleased to annou ([source](https://www.linkedin.com/company/green-carbon-inc/#post-75667ba4f4df))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Green Carbon: 🌾 Unlocking Myanmar’s Rice Paddy Potential: 16 Million Tonnes of CO₂ Reduction Green C ([source](https://www.linkedin.com/company/green-carbon-inc/#post-83ef27dffe37))
 - **2026-05-01** — refresh: screenshot

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://premierforest.co.uk/" target="_blank" rel="noopener">https://premierforest.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/premier-forest-products-ltd/" target="_blank" rel="noopener">premier-forest-products-ltd — 4,886 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/premier-forest-products-ltd/" target="_blank" rel="noopener">premier-forest-products-ltd — 5,341 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~117 (+30% YoY)</td></tr>
+  <tr><th>Employees</th><td>~350 (+37% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -34,6 +34,7 @@ Premier Forest Products is a Newport (South Wales) based timber importer, sawmil
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://premierforest.co.uk/))

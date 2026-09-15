@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.uisa.com.br/" target="_blank" rel="noopener">https://www.uisa.com.br/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/uisa/" target="_blank" rel="noopener">uisa — 41,674 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1328 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Usinas Itamarati S.A. (UISA) is a large Brazilian biorefinery in Nova Olímpia, 
 
 ## History
 
+- **2026-09-13** — news mention: Usinas Itamarati S.A. - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/usinas-itamarati-s-a/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/usinas-itamarati-s-a-196))
 - **2026-04-19** — refresh: coresignal

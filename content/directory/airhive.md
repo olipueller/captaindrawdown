@@ -30,6 +30,16 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 
 ## History
 
+- **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
+- **2026-09-07** — news mention: Airhive And ACV To Build Australia’s First DACCS Hub With Over $7M Govt Funding ([source](https://carbonherald.com/airhive-and-acv-to-build-australias-first-daccs-hub-with-over-7m-govt-funding/?utm_source=rss&utm_medium=rss&utm_campaign=airhive-and-acv-to-build-australias-first-daccs-hub-with-over-7m-govt-funding))
+- **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
+- **2026-08-29** — news mention: Airhive: Weâre joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a natio ([source](https://www.linkedin.com/company/carbonnet-limited/#post-a51aa9b5b270))
+- **2026-08-29** — news mention: Airhive: Itâs great to see UnionDAC get off the ground! Our three-company consortium is a new mode ([source](https://www.linkedin.com/company/carbonnet-limited/#post-2face63614e3))
+- **2026-08-29** — news mention: Airhive: Welcome to the Airhive team, Carbyon ! Building DAC at commercial scale has never been more ([source](https://www.linkedin.com/company/carbonnet-limited/#post-ac68b7f0ced4))
+- **2026-08-27** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-199116260e4a))
+- **2026-08-27** — news mention: Mission Zero Technologies: Mission Zero, Airhive And Progressive Energy Partner On Major UK DAC Proj ([source](https://www.linkedin.com/company/mission-zero/#post-a791c567416b))
+- **2026-08-21** — news mention: Airhive: Following our acquisition of Carbyon (blog link in comments), we were excited to bring the  ([source](https://www.linkedin.com/company/carbonnet-limited/#post-4ca21ef4abf7))
+- **2026-08-19** — news mention: Mission Zero Technologies: 🌍 An exciting step forward for carbon removal in the UK CCSA member Progr ([source](https://www.linkedin.com/company/mission-zero/#post-ff664054fa30))
 - **2026-08-12** — news mention: Mission Zero: Last Friday, we held our official launch event at Middlesbrough College in Teesside to ([source](https://www.linkedin.com/company/mission-zero/#post-4de13edfacb6))
 - **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong  ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
 - **2026-07-24** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-05330afd51c4))
@@ -50,10 +60,6 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
-- **2026-04-18** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

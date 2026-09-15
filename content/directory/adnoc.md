@@ -31,6 +31,7 @@ ADNOC (Abu Dhabi National Oil Company) is the UAE's state-owned oil, gas, and pe
 
 ## History
 
+- **2026-08-18** — news mention: Holcim: Marking a milestone in industrial decarbonization, Holcim UAE and carbon storage innovator 4 ([source](https://www.linkedin.com/company/lafargeholcim/#post-25cc7b80c6d0))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))
 - **2026-08-04** — news mention: ADNOC: Beneath Abu Dhabi’s desert sits a carbonate formation so thick that, in places, it exceeds th ([source](https://www.linkedin.com/company/adnoc/#post-fa0cb4d0ad0a))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.pravasinewsdaily.com/2026/03/08/adnoc-careers-2025-adnoc-hiring-now-view-the-latest-2025-vacancy-list-and-employee-benefits/))

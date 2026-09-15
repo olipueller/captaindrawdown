@@ -5,7 +5,7 @@ type: "directory"
 description: "Liquid-solvent DAC using an electrochemical regeneration system that converts dissolved carbonates directly to CO2, aiming to eliminate the high-temperature calcination step of conventional alkaline"
 url: "/directory/e-quester/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://e-quester.com/" target="_blank" rel="noopener">https://e-quester.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/e-quester/" target="_blank" rel="noopener">e-quester — 189 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ E-quester is a University of Toronto spinout founded in 2021 that is developing 
 
 ## History
 
+- **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://pubs.rsc.org/en/content/articlehtml/2025/su/d5su00227c))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

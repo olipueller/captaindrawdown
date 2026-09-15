@@ -30,6 +30,9 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-09-10** — news mention: Carbon Removal Canada: Congratulations to the Government of Canada, the Government of Alberta, and E ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-ceee2dbbeb9e))
+- **2026-09-03** — news mention: UNDO: 🚜 A new haulage subsidy for Canadian farms, a UBS accelerator program, and a summer of momentu ([source](https://www.linkedin.com/company/undocarbon/#post-49524054d9de))
+- **2026-08-27** — news mention: Carbon Business Council: Four in five Canadians consider carbon removal essential to building a stro ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-e630b7882a3b))
 - **2026-07-30** — news mention: Carbon Removal Canada: 🤿 What do submarines have to do with carbon removal? More than you might thin ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-e2c0d2150843))
 - **2026-07-11** — news mention: #carbonremoval #climatesolutions #partnership #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481313249385336834/))
 - **2026-06-04** — news mention: Yesterday the Carbon Removal Canada team was busy from coast to coast.  Two cities. One team. A whol ([source](https://x.com/carbonremovers/status/2062565310692311227))

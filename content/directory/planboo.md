@@ -33,13 +33,20 @@ Planboo is an early-stage Swedish company founded in Stockholm in 2020 that oper
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2024-01-30 → 2029-01-29 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/farm-gai-kaisa-159-87)
+- 1 project · Biochar, 2022 · crediting period 2024-01-30 → 2029-01-29 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/farm-gai-kaisa-159-87)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
+- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
+- **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))
+- **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
+- **2026-08-20** — news mention: Planboo: A year into the programme, here's a video showing how Africa's drylands can be restored whi ([source](https://www.linkedin.com/company/planboo/#post-4edbf2bcd1c9))
+- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by Sylver ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now publis ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
 - **2026-08-13** — news mention: Planboo: New Milestone alert! 🚀 We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's 10 ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
 - **2026-08-06** — news mention: Planboo: New Milestone alert! ð We would like to take a moment to celebrate Wongphai - à¸§à¸à¸©à ([source](https://www.linkedin.com/company/planboo/#post-d985bcf03b69))

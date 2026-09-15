@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremovalalliance.org/" target="_blank" rel="noopener">https://www.carbonremovalalliance.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-alliance/" target="_blank" rel="noopener">carbon-removal-alliance — 3,242 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-alliance/" target="_blank" rel="noopener">carbon-removal-alliance — 3,681 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
+- **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are tr ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
 - **2026-08-07** — news mention: Carbon Removal Alliance: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !  ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-6efaf88068c2))
 - **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake, announ ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
 - **2026-07-31** — news mention: Carbon Removal Alliance: U.S. mines produce more than 1.8 billion tons of waste every year. With the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-26ba708a33a7))

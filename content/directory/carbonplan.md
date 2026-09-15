@@ -30,6 +30,9 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 
 ## History
 
+- **2026-09-04** — news mention: CarbonPlan: Two forest offset projects participating in Californiaâs cap-and-trade program are bur ([source](https://www.linkedin.com/company/carbonplan/#post-a506de0a86b2))
+- **2026-08-19** — news mention: Agreed MRV is the bottleneck. Field measurement of cation loss vs modeled weathering rates still div ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtgdzkl2qa2h))
+- **2026-08-18** — news mention: An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering ([source](https://cdrxiv.org/preprint/417))
 - **2026-08-13** — news mention: CarbonPlan: Policy strategies increasingly rely on carbon dioxide removal (CDR) to meet global tempe ([source](https://www.linkedin.com/company/carbonplan/#post-7cd3cde15bc1))
 - **2026-08-07** — news mention: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15 mont ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
 - **2026-08-07** — news mention: Moving fast without breaking things: The benefits of preprinting for CDR research ([source](https://doi.org/10.31223/x5421q))
@@ -57,9 +60,6 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 - **2026-04-23** — news mention: Captain's CDR Log #112: CarbonPlan's Lithos review puts enhanced weathering's MRV on trial | Captain ([source](https://captaindrawdown.com/posts/captains-cdr-log-112/))
 - **2026-04-23** — news mention: Designing a data pipeline for our highest-resolution dataset yet – CarbonPlan ([source](https://carbonplan.org/blog/producing-ocr-data))
 - **2026-04-21** — news mention: Offset project paperwork should be internally consistent. It’s not. – CarbonPlan ([source](https://carbonplan.org/blog/pig-manure-inconsistencies))
-- **2026-04-20** — news mention: Questions about Lithos’ first ERW credit issuance – CarbonPlan ([source](https://carbonplan.org/blog/lithos-first-issuance))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
 
 ---
 

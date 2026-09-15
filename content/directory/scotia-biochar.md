@@ -27,6 +27,7 @@ Scotia BioChar Inc. is a Bedford, Nova Scotia-based pre-commercial biochar produ
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.bioenergy-news.com/news/blusky-carbon-secures-biochar-agreement-with-scotia-biochar/))

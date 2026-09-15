@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,290 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,375 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,11 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-09** — news mention: #cdr #ccus #enhancedweathering #carbonremoval #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:share:7503111531782406145/))
+- **2026-09-02** — news mention: #soilhealth #agriculture #nitrogen #climatetech #agtech #erw #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500914886521155585/))
+- **2026-08-26** — news mention: Come say hello to Eliot Booth  and Emma Petri Petersen  this afternoon at TechBBQ  - we&amp;#39;re h ([source](https://www.linkedin.com/feed/update/urn:li:share:7498300192505380865/))
+- **2026-08-25** — news mention: #grf #greenland #nuuk #erw #cdr #agriculture #carbonremoval | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497643557348884481/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
 - **2026-07-26** — news mention: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
@@ -61,10 +66,6 @@ He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-rock-flour-company))
 - **** — merged duplicate: The Rock Flour Company ApS (slug=the-rock-flour-company-aps)
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-02** — news mention: Living Carbon: We're excited to share that Octopus Energy Generation is backing Living Carbon with $ ([source](https://www.linkedin.com/company/living-carbon/#post-af1bbd7008c5))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-07-29** — news mention: Living Carbon: Three of the world's most influential companies became Living Carbon customers last w ([source](https://www.linkedin.com/company/living-carbon/#post-b1f27fd3ee6c))
 - **2026-07-22** — news mention: Living Carbon: Octopus Energy Generation is backing Living Carbon with $500M to reforest degraded la ([source](https://www.linkedin.com/company/living-carbon/#post-2fee46eaa649))

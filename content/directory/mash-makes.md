@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.mashmakes.com/" target="_blank" rel="noopener">https://www.mashmakes.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mash-energy/" target="_blank" rel="noopener">mash-energy — 9,930 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mashmakes/" target="_blank" rel="noopener">mashmakes — 10,178 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~92</td></tr>
+  <tr><th>Employees</th><td>~64 (-15% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,11 @@ MASH Makes is an Indo-Danish cleantech company that operates India's first large
 
 ## History
 
+- **2026-09-15** — refresh: coresignal
+- **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
+- **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
+- **2026-08-19** — news mention: CDR.fyi: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding progr ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
+- **2026-08-15** — news mention: Ground Up: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding pro ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
 - **2026-07-29** — news mention: MASH Makes: Seven seasons. One biochar application. And the crops are STILL outperforming the contro ([source](https://www.linkedin.com/company/mash-energy/#post-d264f58c5c3f))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

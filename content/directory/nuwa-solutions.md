@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.nuwasolutions.org/" target="_blank" rel="noopener">https://www.nuwasolutions.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuwasolutions/" target="_blank" rel="noopener">nuwasolutions — 238 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuwasolutions/" target="_blank" rel="noopener">nuwasolutions — 284 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ NuWa Solutions was founded in 2025 and is headquartered in Dover, DE, with 1 tot
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.carbontosea.org/2026-hill-day/))
 - **2026-08-02** — news mention: NuWa Solutions: Thank you to the ocean community at large for standing up for the Ocean Observatorie ([source](https://www.linkedin.com/company/nuwasolutions/#post-717fea37ec08))
 - **2026-05-01** — refresh: screenshot

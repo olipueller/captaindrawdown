@@ -35,6 +35,12 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
+- **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
+- **2026-09-02** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement wi ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
+- **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
+- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
+- **2026-08-27** — news mention: Aircapture And NGK Launch New DAC Demonstration Project In Japan ([source](https://carbonherald.com/aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=aircapture-and-ngk-launch-new-dac-demonstration-project-in-japan))
+- **2026-08-20** — news mention: Aircapture: In a new feature, The Brewer Magazine takes a closer look at how Almanac is bringing on- ([source](https://www.linkedin.com/company/aircapture-llc/#post-34101a64d964))
 - **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 - **2026-08-03** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
 - **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))

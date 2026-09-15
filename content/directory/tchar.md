@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Taiwan</td></tr>
   <tr><th>Website</th><td><a href="https://www.tchar.com.tw/" target="_blank" rel="noopener">https://www.tchar.com.tw/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%e5%85%89%e6%b3%b0%e7%92%b0%e8%83%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8guangtech-environment-energy/" target="_blank" rel="noopener">%e5%85%89%e6%b3%b0%e7%92%b0%e8%83%bd%e6%9c%89%e9%99%90%e5%85%ac%e5%8f%b8guangtech-environment-energy — 501 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/taiwanbiochar/" target="_blank" rel="noopener">taiwanbiochar — 587 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ TCHAR (Guangtai Environmental Energy) is a Taiwanese biochar producer founded in
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.reccessary.com/en/interview/tchar-biochar))

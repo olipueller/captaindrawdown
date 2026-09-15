@@ -34,6 +34,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-08-23** — news mention: 350solutions: ð¥³ Microsoft is excited to share its latest carbon removal purchase agreement with C ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
+- **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently join ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
+- **2026-08-16** — news mention: 350solutions: 🥳 Microsoft is excited to share its latest carbon removal purchase agreement with CREW ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
 - **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity Enha ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
 - **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-05-01** — refresh: coresignal, screenshot

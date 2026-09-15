@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.olneo.green/" target="_blank" rel="noopener">https://www.olneo.green/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/" target="_blank" rel="noopener">olneo-%e2%80%a2-biochar-carbone — 55 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/olneo-%E2%80%A2-biochar-carbone/" target="_blank" rel="noopener">olneo-%E2%80%A2-biochar-carbone — 58 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ OLNEO is a Paris-based climate deeptech startup developing biochar carbon remova
 
 ## History
 
+- **2026-09-15** — refresh: coresignal
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.instagram.com/olneo_green/))
 - **2026-07-27** — news mention: OLNEO: 🔷 Annonce Officielle – OLNEO entre dans une nouvelle dimension Depuis notre création, nous av ([source](https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/#post-b97a2207e05c))
 - **2026-05-01** — refresh: screenshot

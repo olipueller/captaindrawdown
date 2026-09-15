@@ -34,6 +34,7 @@ Founded by Jim Mann and Jade Rein, the Future Forest Company delivers large-scal
 
 ## History
 
+- **2026-08-27** — news mention: The Future Forest Company: We are delighted to share that Dumyat has been recognised by NatureScot a ([source](https://www.linkedin.com/company/the-future-forest-company/#post-47c89d3c49c7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

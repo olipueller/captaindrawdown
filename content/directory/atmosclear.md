@@ -29,6 +29,7 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 
 ## History
 
+- **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-22** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
 - **2026-05-21** — news mention: Microsoft signs seven-year CO2 storage deal with BioCirc | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/microsoft-signs-seven-year-co2-storage-deal-with-biocirc/2250060.article/))

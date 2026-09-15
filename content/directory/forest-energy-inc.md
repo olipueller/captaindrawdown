@@ -31,6 +31,7 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 
 ## History
 
+- **2026-09-09** — news mention: Forest Energy Inc: ãVolterå°å ¥å ã®ãç´¹ä»ï½äºä¸å·¥ååºæ§ã äºä¸å·¥ååºã§ã¯ãæ ([source](https://www.linkedin.com/company/forest-energy/#post-ec9f1a77bd6f))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-02** — news mention: Forest Energy Inc: 【Volter | 泉佐野市】 大阪府泉佐野市にて、CHP「Volter」の設置が無事完了しました。 本プロジェクトは自治体主導のもと実施され、地域の持続可能なエ ([source](https://www.linkedin.com/company/forest-energy/#post-6602928461a0))
 - **2026-07-26** — news mention: Forest Energy Inc: ãVolter | æ³ä½éå¸ã å¤§éªåºæ³ä½éå¸ã«ã¦ãCHPãVolterãã®è¨­ç½ ([source](https://www.linkedin.com/company/forest-energy/#post-581bbc0d5f8d))

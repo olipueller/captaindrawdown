@@ -29,6 +29,8 @@ Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a 
 
 ## History
 
+- **2026-08-22** — news mention: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project   The Gray Wolf Forestry Projec ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
+- **2026-08-21** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has been ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
 - **2026-07-23** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has b ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

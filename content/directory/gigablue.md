@@ -34,6 +34,8 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 
 ## History
 
+- **2026-08-23** — news mention: Alcove Labs: Huge milestone for mCDR: Puro.earth just approved the MCFS methodology! Alcove is proud ([source](https://www.linkedin.com/company/alcove-io/#post-c1366e1c486f))
+- **2026-08-15** — news mention: Gigablue: New Zealand's Southern Ocean is one of the most promising places on Earth for marine carbo ([source](https://www.linkedin.com/company/gigabluecarbon/#post-7867656270ec))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon F ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))

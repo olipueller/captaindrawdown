@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mynocarbon.com/" target="_blank" rel="noopener">https://mynocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-enterprises/" target="_blank" rel="noopener">myno-enterprises — 1,425 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-carbon/" target="_blank" rel="noopener">myno-carbon — 1,536 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~14</td></tr>
+  <tr><th>Employees</th><td>~17 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-15** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected Myn ([source](https://www.linkedin.com/company/myno-enterprises/#post-d65e97153628))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://mynocarbon.com/))
 - **2026-08-08** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno Carbo ([source](https://www.linkedin.com/company/myno-enterprises/#post-a446768c9e40))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://mynocarbon.com/))

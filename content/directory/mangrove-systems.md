@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.mangrovesystems.com/" target="_blank" rel="noopener">https://www.mangrovesystems.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gomangrove/" target="_blank" rel="noopener">gomangrove — 2,536 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mangrovesystems/" target="_blank" rel="noopener">mangrovesystems — 3,421 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+64% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (+91% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-05** — news mention: Mangrove Systems: We're thrilled to announce our new partnership with 易境永續設計顧問有限公司 GreenJump Sustain ([source](https://www.linkedin.com/company/gomangrove/#post-2d5f53b96777))
 - **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
 - **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020, an ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
 - **2026-07-24** — news mention: Mangrove Systems: We're excited to share that Mangrove Systems has partnered with A Healthier Earth  ([source](https://www.linkedin.com/company/gomangrove/#post-b39b306039c0))

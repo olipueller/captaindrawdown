@@ -30,6 +30,7 @@ CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2
 
 ## History
 
+- **2026-09-06** — news mention: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de  ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
 - **2026-07-25** — news mention: CarbonConnect: 🎬 Dans le cadre de la démarche de contribution carbone volontaire du Festival de Cann ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-e701a094e968))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.carbonconnect.earth/))

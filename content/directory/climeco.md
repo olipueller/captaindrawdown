@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon project developer, environmental credit trader, and sustainability consultancy handling offsets, RECs, plastic credits, certification programs, and some CDR pathway projects (biochar, NBS)."
 url: "/directory/climeco/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.climeco.com/" target="_blank" rel="noopener">https://www.climeco.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeco/" target="_blank" rel="noopener">climeco — 11,591 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~96</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,10 @@ ClimeCo is a US-based global sustainability and decarbonization solutions firm p
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-02** — news mention: Gold Standard: 🚢 Hard-to-abate sectors need real action today, not just 2050 targets We are seeing r ([source](https://www.linkedin.com/company/gold-standard/#post-981c9cca2bfb))
+- **2026-08-27** — news mention: ClimeCo: ClimeCo and Marsoft Global Carbon Solutions are excited to announce the first issuance of c ([source](https://www.linkedin.com/company/climeco/#post-c31d924ad087))
+- **2026-08-21** — news mention: ClimeCo Launches AI Insetting Engine And Hires SBTi Co-Founder Cynthia Cummis ([source](https://carbonherald.com/climeco-launches-ai-insetting-engine-and-hires-sbti-co-founder-cynthia-cummis/?utm_source=rss&utm_medium=rss&utm_campaign=climeco-launches-ai-insetting-engine-and-hires-sbti-co-founder-cynthia-cummis))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://paebbl.com/" target="_blank" rel="noopener">https://paebbl.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/paebbl/" target="_blank" rel="noopener">paebbl — 10,053 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/paebbl/" target="_blank" rel="noopener">paebbl — 11,643 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~72 (+31% YoY)</td></tr>
+  <tr><th>Employees</th><td>~67 (-1% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,13 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-03** — news mention: Paebbl: Holcim , the global leader in sustainable construction is building an ecosystem of aligned v ([source](https://www.linkedin.com/company/paebbl/#post-275706fbb4c4))
+- **2026-08-27** — news mention: Paebbl: One of the hardest applications in the industry to decarbonise is now a carbon sink at Paris ([source](https://www.linkedin.com/company/paebbl/#post-b239190d5570))
+- **2026-08-24** — news mention: AGILIS And Paebbl Cut Concrete Infrastructure Carbon Footprint By 28% ([source](https://carbonherald.com/agilis-and-paebbl-cut-concrete-infrastructure-carbon-footprint-by-28/?utm_source=rss&utm_medium=rss&utm_campaign=agilis-and-paebbl-cut-concrete-infrastructure-carbon-footprint-by-28))
+- **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
+- **2026-08-20** — news mention: Paebbl: The City of Rotterdam ( Gemeente Rotterdam ) has awarded Paebbl an €805k grant under Kansen  ([source](https://www.linkedin.com/company/paebbl/#post-6084b309897f))
+- **2026-08-20** — news mention: Paebbl: Rebond 200: −14.4 kg CO₂e per tonne. Rebond 300: −149 kg CO₂e per tonne. Our latest product  ([source](https://www.linkedin.com/company/paebbl/#post-b7c20618bc5c))
 - **2026-08-12** — news mention: Paebbl: Today, weâre excited to announce that the European Innovation Council has selected Paebbl  ([source](https://www.linkedin.com/company/paebbl/#post-4137c94c9fbe))
 - **2026-08-11** — news mention: European Innovation Council and Paebbl Partner to Scale Carbon-Storing Construction Materials ([source](https://biochartoday.com/news/european-innovation-council-and-paebbl-partner-to-scale-carbon-storing-construction-materials/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-11** — news mention: European Innovation Council Selects Paebbl for STEP Scale Up Equity Investment to Commercialize Carb ([source](https://biochartoday.com/news/european-innovation-council-selects-paebbl-for-step-scale-up-equity-investment-to-commercialize-carbon-storing-building-materials/?utm_source=bluesky&utm_medium=jetpack_social))
@@ -57,7 +64,6 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
 - **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

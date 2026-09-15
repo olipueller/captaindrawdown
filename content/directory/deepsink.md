@@ -32,6 +32,7 @@ Deepsink is a UK-based fractional sales and commercialization service for engine
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://deepsink.co.uk/about))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrocal.com.au" target="_blank" rel="noopener">https://www.pyrocal.com.au</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrocal/" target="_blank" rel="noopener">pyrocal — 2,098 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyrocal/" target="_blank" rel="noopener">pyrocal — 2,284 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2026-12-31</small></td></tr>
-  <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~14 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2026-12-31)</small></td></tr>
 </table>
@@ -32,7 +32,7 @@ Pyrocal is a Queensland, Australia-based engineering firm that builds proprietar
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · crediting period 2020-06-01 → 2026-12-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/pyrocal-wellcamp)
+- 2 projects · Biochar, 2022 · crediting period 2020-06-01 → 2026-12-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/pyrocal-wellcamp)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-05** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure â and it's coming from wastew ([source](https://www.linkedin.com/company/pyrocal/#post-ccec5b0d8103))
+- **2026-08-30** — news mention: Big Benefits: How Carbonisation and Biochar Deliver for People, Planet, and Business - Pyrocal ([source](https://www.pyrocal.com.au/big-benefits-how-carbonisation-and-biochar-deliver-for-people-planet-and-business/))
 - **2026-08-14** — news mention: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.🔥 Prou ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
 - **2026-08-07** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure — and it's coming from wastewat ([source](https://www.linkedin.com/company/pyrocal/#post-c824f2c12283))
 - **2026-08-06** — news mention: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's coming  ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))

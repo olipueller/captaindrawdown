@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.puhi.fi/" target="_blank" rel="noopener">https://www.puhi.fi/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puhi/" target="_blank" rel="noopener">puhi — 1,429 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puhi/" target="_blank" rel="noopener">puhi — 1,478 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ PUHI is a Finland-based biochar and carbon removal company operating its first p
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: Viochar: We are launching a new pyrolysis reactor. Say hi to the PBR-1400! We're currently putting t ([source](https://www.linkedin.com/company/viochar/#post-60ecba5e17e6))
+- **2026-09-06** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-47db7d12d9b9))
+- **2026-08-15** — news mention: PUHI: 👀 ETS Proposal: Are these realistic CDR costs? 👀 🤷♂️ Here we go again: wild CDR costs in an of ([source](https://www.linkedin.com/company/puhi/#post-4dc7a9a0528e))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.puhi.fi/news/puhi-receives-environmental-permit))
 - **2026-08-01** — news mention: PUHI: The 5th European Biochar Market Report is out â and as its lead-author, here's the message I ([source](https://www.linkedin.com/company/puhi/#post-5e0f2e19c300))
 - **2026-08-01** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-21a5adaf83e4))

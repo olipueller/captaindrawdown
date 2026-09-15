@@ -30,6 +30,7 @@ Forge Minerals is an Edinburgh-based deep-tech startup incorporated in June 2024
 
 ## History
 
+- **2026-08-30** — news mention: Forge Minerals: We’ve closed our pre-seed round and are getting straight back to work. Our focus rem ([source](https://www.linkedin.com/company/forge-minerals/#post-65c0087eb0f7))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Forge Minerals Limited: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and T ([source](https://www.linkedin.com/company/forge-minerals/#post-a5f2647129ee))
 - **2026-07-25** — news mention: Forge Minerals: We’ve just closed a £1m pre-seed round, co-led by Sustainable Ventures and The Condu ([source](https://www.linkedin.com/company/forge-minerals/#post-70ae841e146a))

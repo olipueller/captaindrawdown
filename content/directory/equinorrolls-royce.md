@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,096,281 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~16757 (-0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,7 @@ Equinor is a Norwegian state-majority-owned international energy major (oil, gas
 
 ## History
 
+- **2026-09-01** — news mention: Equinor/Rolls Royce: More gas for Troll A and Kollsnes Thirty years after the Troll A platform first ([source](https://www.linkedin.com/company/equinor/#post-1a19db08e55e))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
 - **2026-05-01** — refresh: screenshot

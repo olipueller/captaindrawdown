@@ -31,6 +31,7 @@ Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemis
 
 ## History
 
+- **2026-09-05** — news mention: Dotz Nano: 🚀 𝑨 𝒃𝒊𝒈 𝒘𝒆𝒆𝒌 𝒇𝒐𝒓 𝑫𝒐𝒕𝒛 𝑬𝒏𝒆𝒓𝒈𝒚. Three milestones that move our decarbonisation and energy-s ([source](https://www.linkedin.com/company/dotznano/#post-e77bcbb0e8c4))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-22** — news mention: Dotz Nano Appoints Nati Harpaz As New CEO ([source](https://carbonherald.com/dotz-nano-appoints-nati-harpaz-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=dotz-nano-appoints-nati-harpaz-as-new-ceo))
 - **2026-05-01** — refresh: screenshot

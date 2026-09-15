@@ -5,7 +5,7 @@ type: "directory"
 description: "REFNOVA® steam-assisted rapid pyrolysis process converts woody and agricultural biomass residues into 2G bioethanol (for Sustainable Aviation Fuel via alcohol-to-jet) plus biochar as a"
 url: "/directory/nova-pangaea-technologies/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.novapangaea.com/" target="_blank" rel="noopener">https://www.novapangaea.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/" target="_blank" rel="noopener">nova-pangaea-technologies-uk-limited — 3,811 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-19% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/" target="_blank" rel="noopener">nova-pangaea-technologies-uk-limited — 3,989 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~29 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ Nova Pangaea Technologies is a UK cleantech company headquartered in Wilton Inte
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.novapangaea.com/about/))
+- **2026-08-28** — news mention: Nova Pangaea Technologies: Nova Pangaea Technologies continues to make significant progress towards  ([source](https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited/#post-55ea1f06a392))
+- **2026-08-25** — news mention: Waste-to-SAF technology completes 72-hour endurance trials | Envirotec ([source](https://envirotecmagazine.com/2026/08/24/waste-to-saf-technology-completes-72-hour-endurance-trials/))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.novapangaea.com/about/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.novapangaea.com/about/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.novapangaea.com/about/))

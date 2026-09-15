@@ -28,6 +28,7 @@ C-Fix is a pre-seed concept for a solar-powered direct air capture system. The C
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.remove-carbon.org/))

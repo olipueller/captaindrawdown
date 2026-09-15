@@ -28,6 +28,7 @@ CO2CO is a 2021 Imperial College London startup focused on atmospheric carbon di
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://co2co.earth/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

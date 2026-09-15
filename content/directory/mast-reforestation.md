@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.mastreforest.com/" target="_blank" rel="noopener">https://www.mastreforest.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/droneseed/" target="_blank" rel="noopener">droneseed — 18,143 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mast-reforest/" target="_blank" rel="noopener">mast-reforest — 18,763 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
-  <tr><th>Employees</th><td>~43</td></tr>
+  <tr><th>Employees</th><td>~43 (-7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-03-31)</small></td></tr>
 </table>
@@ -33,7 +33,7 @@ Mast Reforestation is a Seattle-based post-wildfire reforestation and CDR compan
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Terrestrial Storage of Biomass · crediting period 2025-04-01 → 2030-03-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/mast-wood-preserve-mt1-148)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2025-04-01 → 2030-03-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/mast-wood-preserve-mt1-148)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
 - **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
 - **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue  Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))

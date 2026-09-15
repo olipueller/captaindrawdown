@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wakefieldbiochar.com/" target="_blank" rel="noopener">https://wakefieldbiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wakefieldbiochar/" target="_blank" rel="noopener">wakefieldbiochar — 1,629 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wakefieldbiochar/" target="_blank" rel="noopener">wakefieldbiochar — 1,718 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (+44% YoY)</td></tr>
+  <tr><th>Employees</th><td>~26 (+30% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned bioch
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-14** — news mention: Wakefield Biochar Facility 4 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/wakefield-biochar-facility-4/))
 - **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
 - **2026-05-01** — refresh: screenshot

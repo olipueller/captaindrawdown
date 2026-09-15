@@ -30,6 +30,7 @@ MORFO is a Franco-Brazilian reforestation company (founded 2021) restoring degra
 
 ## History
 
+- **2026-09-02** — news mention: MORFO: A former alluvial gold mine in French Guiana. 84% bare soil, soil pH at 4.35. One of the most ([source](https://www.linkedin.com/company/morforest/#post-9f0a1d93c8fe))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-29** — news mention: MORFO: A former alluvial gold mine in French Guiana. 84% bare soil, soil pH at 4.35. One of the most ([source](https://www.linkedin.com/company/morforest/#post-b6a3b35bc8fd))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phoenixenergy.net/" target="_blank" rel="noopener">https://www.phoenixenergy.net/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1 — 1,382 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phoenix-energy-1/" target="_blank" rel="noopener">phoenix-energy-1 — 1,432 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (-6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbo
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-06** — news mention: Phoenix Energy: Hey look at that! Three cheers to CA Wildfire &amp; Forest Resilience Task Force and ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-3a7f17556ac7))
 - **2026-07-24** — news mention: Phoenix Energy: ICYMI: USDA allocated $61.24 million to three California companies through its Timbe ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-a4d56a97551f))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

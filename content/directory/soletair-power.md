@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.soletairpower.fi/" target="_blank" rel="noopener">https://www.soletairpower.fi/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soletair/" target="_blank" rel="noopener">soletair — 3,956 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~18</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Soletair Power is a Finnish direct air capture company (founded 2016, HQ Lappeen
 
 ## History
 
+- **2026-09-12** — news mention: Soletair Power: EN FANTASTISK GRAND OPENING   I går indviede vi verdens første CO₂-fangstanlæg i en  ([source](https://www.linkedin.com/company/soletair/#post-a652a01a94ea))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.soletairpower.fi/technical-specs-soletair-power-dac-unit-for-zbt/))
 - **2026-05-01** — refresh: screenshot

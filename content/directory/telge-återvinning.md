@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.telge.se/om-telge/vara-bolag/telge-atervinning/" target="_blank" rel="noopener">https://www.telge.se/om-telge/vara-bolag/telge-atervinning/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/telge-ab/" target="_blank" rel="noopener">telge-ab — 5,997 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/telge/" target="_blank" rel="noopener">telge — 6,177 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~659 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~673 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Telge Återvinning is a municipal waste management and recycling subsidiary of T
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.telge.se/om-telge/vara-bolag/telge-atervinning/))

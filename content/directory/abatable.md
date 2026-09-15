@@ -34,6 +34,12 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
+- **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
+- **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
+- **2026-08-27** — news mention: Carbon Business Council: New open calls for carbon removal are currently accepting applications. Car ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))
+- **2026-08-19** — news mention: CDR.fyi: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding progr ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
+- **2026-08-15** — news mention: VodafoneThree Partners with Abatable to Launch Carbon Removal RFP Sourcing 24,000 Tonnes &#8211; Bio ([source](https://biochartoday.com/news/vodafonethree-partners-with-abatable-to-launch-carbon-removal-rfp-sourcing-24000-tonnes/))
+- **2026-08-15** — news mention: Ground Up: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding pro ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
 - **2026-08-13** — news mention: In A New RFP, VodafoneThree Is Seeking UK Tech And Nature-Based Removals Via Abatable ([source](https://carbonherald.com/in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable))
 - **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.
 

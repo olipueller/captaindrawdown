@@ -31,6 +31,7 @@ The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisati
 
 ## History
 
+- **2026-08-21** — news mention: Carbon Removal India Alliance: We welcome the Union Cabinet’s approval of the ₹23,731 crore GOBARdha ([source](https://www.linkedin.com/company/cria-earth/#post-07964e42db42))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Carbon Removal India Alliance: ð¿ ðð²ð®ð¹ððµð ðð¼ð¶ð¹ð ðºð®ð¸ð ([source](https://www.linkedin.com/company/cria-earth/#post-d029b5267741))
 - **2026-07-23** — news mention: Carbon Removal India Alliance: CRIA was invited to engage with the Central Pollution Control Board ( ([source](https://www.linkedin.com/company/cria-earth/#post-765622fb0c06))

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://inkoh.swiss/" target="_blank" rel="noopener">https://inkoh.swiss/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkoh-biochar-and-beyond/" target="_blank" rel="noopener">inkoh-biochar-and-beyond — 983 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,11 @@ Inkoh AG is a Swiss biochar producer headquartered in Maienfeld, Graubünden, an
 
 ## History
 
+- **2026-08-30** — news mention: CarStorConTechnologies: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch!  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-dacc971960cc))
+- **2026-08-23** — news mention: Inkoh: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen uns, einen wichtigen Meilenste ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-9852bceaf97f))
+- **2026-08-23** — news mention: CarStorCon: Gemeinsam für die CO₂-Entnahme in der Schweiz: Holcim investiert in die Inkoh AG 🚀 Wir m ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-6cdeea8de3be))
+- **2026-08-23** — news mention: CarStorCon: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch! 💫 Wir freuen ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-4a391685f756))
+- **2026-08-22** — news mention: The Swiss Carbon Removal Platform: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen un ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-20523ea64a10))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
 - **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))

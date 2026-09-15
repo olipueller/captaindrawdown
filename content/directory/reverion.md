@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://reverion.com/en/" target="_blank" rel="noopener">https://reverion.com/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverion/" target="_blank" rel="noopener">reverion — 10,154 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverion/" target="_blank" rel="noopener">reverion — 11,736 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~149 (+39% YoY)</td></tr>
+  <tr><th>Employees</th><td>~164 (+41% YoY)</td></tr>
   <tr><th>Open roles</th><td>21 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,7 @@ Reverion is a 2022 spin-off from the Technical University of Munich that has cre
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-12** — news mention: Reverion: Reverion is expanding its partnership with Doosan Fuel Cell for the large-scale supply of  ([source](https://www.linkedin.com/company/reverion/#post-c99717d1ec21))
 - **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))

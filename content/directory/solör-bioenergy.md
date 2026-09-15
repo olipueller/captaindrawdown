@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://solorbioenergi.com/" target="_blank" rel="noopener">https://solorbioenergi.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/" target="_blank" rel="noopener">sol%c3%b6r-bioenergi-ab — 557 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%C3%B6r-bioenergi-ab/" target="_blank" rel="noopener">sol%C3%B6r-bioenergi-ab — 691 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~63</td></tr>
+  <tr><th>Employees</th><td>~350 (+70% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Solör Bioenergy Group is a major Scandinavian renewable energy utility operatin
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-14** — news mention: Solör Bioenergy: https://lnkd.in/e7muktQE Solör Bioenergi Utility Solutions förvärvar Trosabygdens T ([source](https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/#post-3e3d727cb22c))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-08-02** — news mention: Solör Bioenergy: https://lnkd.in/e7muktQE SolÃ¶r Bioenergi Utility Solutions fÃ¶rvÃ¤rvar Trosabygden ([source](https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/#post-c5b430940e35))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solorbioenergi.com/about-solor-bioenergi/))

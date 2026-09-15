@@ -31,6 +31,7 @@ OCELL is a Munich-based climate-tech startup that develops IFM carbon projects a
 
 ## History
 
+- **2026-09-10** — news mention: Ocell: ð Meilenstein fÃ¼r OCELL und die digitale Forstwirtschaft: Wir sind offiziell nach ISO/IEC ([source](https://www.linkedin.com/company/ocell-aero/#post-626b260b31ea))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-22** — news mention: Ocell: 🚀 Meilenstein für OCELL und die digitale Forstwirtschaft: Wir sind offiziell nach ISO/IEC 270 ([source](https://www.linkedin.com/company/ocell-aero/#post-df0d72c4d683))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

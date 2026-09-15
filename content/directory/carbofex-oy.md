@@ -31,7 +31,7 @@ Carbofex Oy is a Finnish biochar producer based in Nokia that operates a continu
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 2 projects · Biochar, 2022 · crediting period 2018-11-01 → 2027-08-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbofex-nokia-1)
+- 2 projects · Biochar, 2022 · crediting period 2018-11-01 → 2027-08-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/carbofex-nokia-1)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-05** — news mention: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am hap ([source](https://www.linkedin.com/company/carbofex/#post-608526007ca4))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

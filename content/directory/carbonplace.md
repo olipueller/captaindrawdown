@@ -30,6 +30,11 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 
 ## History
 
+- **2026-09-06** — news mention: Global Woods International: Welcoming Global Woods to the Carbonplace platform ð Weâre pleased  ([source](https://www.linkedin.com/company/global-woods-international-ag/#post-49c94da1b037))
+- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
+- **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))
+- **2026-08-27** — news mention: Carbonplace: We announced a significant milestone today. 🌟 Climate Impact X and Carbonplace announce ([source](https://www.linkedin.com/company/carbonplace/#post-ed1b00fcd4ff))
+- **2026-08-27** — news mention: CarbonMeld: Two of the most institutionally backed platforms in carbon markets are merging: Climate  ([source](https://www.linkedin.com/company/carbonmeld/#post-4fbec6196d24))
 - **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has signed ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))

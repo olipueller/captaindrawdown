@@ -34,6 +34,9 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-09-08** — news mention: Is the Cheap Carbon Credit Era Coming to an End? • Carbon Credits ([source](https://carboncredits.com/is-the-cheap-carbon-credit-era-coming-to-an-end/))
+- **2026-08-22** — news mention: Researchers released 16,500 gallons of sodium hydroxide into the ocean near Cape Cod, the first EPA- ([source](https://www.ecoticias.com/en/researchers-released-16500-gallons-of-sodium-hydroxide-into-the-ocean-near-cape-cod-the-first-epa-permitted-trial-of-its-kind-and-a-dye-tracer-followed-the-patch-for-five-days/35875/))
+- **2026-08-15** — news mention: Ground Up: As part of our ongoing biochar field application trials, Ground Up recently completed pat ([source](https://www.linkedin.com/company/ground-up-in/#post-9a1efa594a58))
 - **2026-07-30** — news mention: Biggest battery east of the Mississippi will help power AI complex ([source](https://www.canarymedia.com/articles/batteries/eolian-build-pjm-biggest-battery-ai-ohio))
 - **2026-07-26** — news mention: Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean bi ([source](https://doi.org/10.5194/bg-23-4943-2026))
 - **2026-07-10** — news mention: America’s first nuclear plant restart may be near the finish line ([source](https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart))

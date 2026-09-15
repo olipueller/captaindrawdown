@@ -13,8 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.reversecarbon.com/" target="_blank" rel="noopener">https://www.reversecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverse-carbon/" target="_blank" rel="noopener">reverse-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reverse-carbon/" target="_blank" rel="noopener">reverse-carbon — 543 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +29,7 @@ Reverse Carbon is a Swedish climate tech company based in Stockholm, founded by 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.reversecarbon.com/blog/ipcc-biochar-potential-to-remove-26-billion-tonnes-co2))

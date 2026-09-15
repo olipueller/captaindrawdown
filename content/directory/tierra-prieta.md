@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://www.tierraprieta.org/en" target="_blank" rel="noopener">https://www.tierraprieta.org/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-prieta/" target="_blank" rel="noopener">tierra-prieta</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tierra-prieta/" target="_blank" rel="noopener">tierra-prieta — 616 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-05-31</small></td></tr>
-  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-05-31)</small></td></tr>
 </table>
@@ -41,6 +41,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: Tierra Prieta: The Latin America Carbon Removal Investment Roadmap is live. 👉 https://lnkd.in/eTHYBP ([source](https://www.linkedin.com/company/tierra-prieta/#post-d7a836388d82))
+- **2026-09-04** — news mention: Tierra Prieta: Proud to share that Tierra Prieta is featured in the 2026 cCarbon CDR Compass Report  ([source](https://www.linkedin.com/company/tierra-prieta/#post-b4a4991d26ff))
 - **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
 - **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
 - **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))

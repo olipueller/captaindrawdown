@@ -32,7 +32,7 @@ American BioCarbon produces biochar, renewable energy, and carbon removal credit
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2022-07-05 → 2027-07-04 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/american-biocarbon-ct-llc)
+- 1 project · Biochar, 2022 · crediting period 2022-07-05 → 2027-07-04 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/american-biocarbon-ct-llc)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-29** — news mention: BBI International and Biomass Magazine Co-Locate the North American Biocarbon Conference to Expand C ([source](https://biochartoday.com/news/bbi-international-and-biomass-magazine-co-locate-the-north-american-biocarbon-conference-to-expand-commercial-synergies/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

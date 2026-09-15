@@ -30,6 +30,7 @@ TerraWatt SAS is a French technology startup (founded 2014, based in Meslay-du-M
 
 ## History
 
+- **2026-09-01** — news mention: Carbon Fields on Earth SL: After years of hard work, we are so proud to announce the launch of CARBO ([source](https://www.linkedin.com/company/carbon-fields/#post-21015f8bedb3))
 - **2026-07-27** — news mention: TerraWatt: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Project ([source](https://www.linkedin.com/company/terrawatt-sas/#post-b6a8f9aef9ca))
 - **2026-07-26** — news mention: CarbonFields: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Proj ([source](https://www.linkedin.com/company/carbon-fields/#post-b6a8f9aef9ca))
 - **2026-06-15** — refresh: coresignal, liveliness

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbogenics.com/" target="_blank" rel="noopener">https://www.carbogenics.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbogenics-ltd/" target="_blank" rel="noopener">carbogenics-ltd — 3,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a
 
 ## History
 
+- **2026-09-10** — news mention: Biochar firm launches first US facility in Raton - The World Journal ([source](https://worldjournalnewspaper.com/biochar-firm-launches-first-us-facility-in-raton/))
+- **2026-08-28** — news mention: Carbogenics: We officially have a production facility in the US! 🎉 We're incredibly excited to annou ([source](https://www.linkedin.com/company/carbogenics-ltd/#post-e8496f8c772b))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

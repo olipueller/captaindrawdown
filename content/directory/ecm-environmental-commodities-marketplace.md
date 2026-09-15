@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Turkey</td></tr>
   <tr><th>Website</th><td><a href="https://www.erguvan.co/" target="_blank" rel="noopener">https://www.erguvan.co/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/erguvan/" target="_blank" rel="noopener">erguvan — 3,373 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~11 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ ECM (Environmental Commodities Marketplace) is the flagship platform of Erguvan,
 
 ## History
 
+- **2026-08-21** — news mention: ECM | Environmental Commodities Marketplace: EUA dropped to EUR 66.65 on March 20 — an 11-month low  ([source](https://www.linkedin.com/company/erguvan/#post-783e7a863991))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): Erguvan
 - **2026-04-19** — refresh: coresignal, liveliness

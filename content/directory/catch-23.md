@@ -31,6 +31,7 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 
 ## History
 
+- **2026-09-02** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-d1f013eec339))
 - **2026-07-26** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-1e035614cb2b))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

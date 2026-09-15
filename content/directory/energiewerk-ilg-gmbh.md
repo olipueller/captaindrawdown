@@ -33,6 +33,7 @@ EnergieWerk Ilg GmbH is a family-owned regional energy utility in Dornbirn, Vora
 
 ## History
 
+- **2026-09-08** — news mention: EnergieWerk Ilg GmbH: Neues Heizwerk Wallenmahd: Investition in eine zukunftsorientierte WÃ¤rmeverso ([source](https://www.linkedin.com/company/energiewerk-ilg/#post-b7cdfdf0a0f8))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](registry_activity))
 - **2026-08-02** — news mention: EnergieWerk Ilg GmbH: Neues Heizwerk Wallenmahd: Investition in eine zukunftsorientierte Wärmeversor ([source](https://www.linkedin.com/company/energiewerk-ilg/#post-e12ed3b66a75))

@@ -39,6 +39,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-04** — news mention: Bigadan A/S: THREE CO₂ PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
+- **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
+- **2026-08-28** — news mention: Bigadan A/S: NÃ R SAMARBEJDER BLIVER TIL GODE RELATIONER I gÃ¥r var vi med til at indvie biogasanlÃ¦ ([source](https://www.linkedin.com/company/bigadan-a-s/#post-623e30ba695b))
+- **2026-08-21** — news mention: Bigadan A/S: NÅR SAMARBEJDER BLIVER TIL GODE RELATIONER I går var vi med til at indvie biogasanlægge ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4c7485584770))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: Bigadan A/S: SÅDAN GÅR DET NOGLE GANGE MED STORE MILEPÆLE… I går indviede vi vores nye CO₂-anlæg i K ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4275408bd7b1))
 - **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO₂ - AND BUILDING A BUSINESS A ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
@@ -65,10 +69,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Bioman (slug=bioman)
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://bigadan.com/services/biogenic-co2))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/bigadan-a/s))
 
 ---
 

@@ -35,6 +35,9 @@ Submarine Scientific (now branded as "Submarine") is a marine consulting firm pr
 
 ## History
 
+- **2026-09-07** — news mention: Submarine Scientific: Ocean alkalinity enhancement could become a large-scale carbon removal pathway ([source](https://www.linkedin.com/company/submarinemrv/#post-025268f38004))
+- **2026-09-06** — news mention: [C]Worthy: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. The quest ([source](https://www.linkedin.com/company/cworthy/#post-025268f38004))
+- **2026-09-06** — news mention: Frontier Climate: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. Th ([source](https://www.linkedin.com/company/frontierclimate/#post-025268f38004))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

@@ -30,6 +30,8 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 
 ## History
 
+- **2026-09-06** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7148b98e5abf))
+- **2026-08-30** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7676ae6221ad))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-24** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
 - **2026-07-24** — news mention: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata Carbo ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))

@@ -29,6 +29,7 @@ EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise
 
 ## History
 
+- **2026-08-30** — news mention: Terraton Industrial Inc.: What does a biochar facility look like when it's running? Mateo , who's se ([source](https://www.linkedin.com/company/terraton/#post-8a35ca9c131f))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))
 - **2026-08-08** — news mention: Terraton Industrial Inc.: A look inside the EcoFix Kenya Ltd (EFK) facility producing its first batc ([source](https://www.linkedin.com/company/terraton/#post-39dd2c8aa8d5))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockburst.tech/" target="_blank" rel="noopener">https://www.rockburst.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockburst-technologies/" target="_blank" rel="noopener">rockburst-technologies — 496 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockburst-technologies/" target="_blank" rel="noopener">rockburst-technologies — 513 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,8 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: Rockburst Technologies: In a recent Rockburst Technologies webinar, CEO Oscar Malpica shared promisi ([source](https://www.linkedin.com/company/rockburst-technologies/#post-74bfc32a60ff))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))
 - **2026-07-25** — news mention: Rockburst Technologies: In a recent Rockburst Technologies webinar, CEO Oscar Malpica shared promisi ([source](https://www.linkedin.com/company/rockburst-technologies/#post-5e274d72cfe3))
 - **2026-05-01** — refresh: screenshot

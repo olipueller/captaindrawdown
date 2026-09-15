@@ -44,6 +44,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, featu ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
+- **2026-08-20** — news mention: Graphyte: We're excited to be one of three suppliers included in Deduci 's first U.S. CDR Portfolio  ([source](https://www.linkedin.com/company/graphytecarbon/#post-99f216ac7e27))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
@@ -68,12 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-22** — news mention: JPMorgan Chase Signs 10-year Carbon Removal Deal With Graphyte ([source](https://www.tech-channels.com/breaking-news/jpmorgan-chase-signs-10-year-carbon-removal-deal-with-graphyte))
-- **2026-04-20** — news mention: Graphyte and JPMorganChase partner on biomass-driven carbon removal | Panels & Furniture Asia ([source](https://panelsfurnitureasia.com/graphyte-and-jpmorganchase-partner-on-biomass-driven-carbon-removal/))
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.ccarbon.info/news/graphyte-announces-60000-ton-carbon-removal-agreement-with-jpmorganchase/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://www.graphyte.com/))
 
 ---
 

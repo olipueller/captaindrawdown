@@ -30,6 +30,7 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 
 ## History
 
+- **2026-08-28** — news mention: Carbon8 Systems Limited: ð Carbon8: Accelerating Decarbonisation in Cement Weâre proud to share ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-4afb25b6b631))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-06** — news mention: Carbon8 Systems Limited: 🚀 Carbon8: Accelerating Decarbonisation in Cement We’re proud to share that ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-95388ee9d5ac))
 - **2026-07-23** — news mention: Carbon8 Systems Limited: ð Carbon8: Accelerating Decarbonisation in Cement Weâre proud to share ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-191b74c8456d))

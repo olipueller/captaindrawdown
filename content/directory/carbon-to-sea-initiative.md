@@ -31,6 +31,17 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-09-11** — news mention: Funding Opportunities - September 11, 2026 ([source](https://www.fundraisingdispatch.com/p/funding-opportunities-september-11))
+- **2026-09-04** — news mention: Carbon to Sea Initiative: Carbon to Sea, in partnership with PML Applications , has officially launc ([source](https://www.linkedin.com/company/carbontosea/#post-08574cf2cf1c))
+- **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
+- **2026-08-27** — news mention: Carbon Business Council: New open calls for carbon removal are currently accepting applications. Car ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))
+- **2026-08-27** — news mention: Carbon Gap: 📣 Big news for ocean alkalinity enhancement (OAE): the Carbon to Sea Initiative has open ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-64171bebdfd1))
+- **2026-08-26** — news mention: CDR.fyi: 🔬 Over $12 million in CDR research funding was announced in a single week. Last week, Googl ([source](https://www.linkedin.com/company/cdr-fyi/#post-fbf852de8dd5))
+- **2026-08-26** — news mention: CDR.fyi: 🌊 Carbon to Sea Initiative has opened two new calls for proposals focused on ocean alkalini ([source](https://www.linkedin.com/company/cdr-fyi/#post-b5096559d653))
+- **2026-08-22** — news mention: The Swiss Carbon Removal Platform: 📣 Big news for ocean alkalinity enhancement (OAE): the Carbon to  ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-b3d591bbc5ef))
+- **2026-08-19** — news mention: Limits on marine carbon dioxide removal potential set by coastal air-sea gas exchange rates ([source](https://doi.org/10.1038/s43247-026-03931-z))
+- **2026-08-19** — news mention: CDR.fyi: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding progr ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
+- **2026-08-15** — news mention: Ground Up: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding pro ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
 - **2026-08-13** — news mention: Carbon to Sea Initiative: 📣 Today, Carbon to Sea is announcing our 2026 OAE Research Call for Propos ([source](https://www.linkedin.com/company/carbontosea/#post-b6500fe59d4c))
 - **2026-08-13** — news mention: 2026 Carbon to Sea OAE Research Call for Proposals - WIOMSA Blog ([source](https://blog.wiomsa.net/2026/08/12/2026-carbon-to-sea-oae-research-call-for-proposals/))
 - **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.

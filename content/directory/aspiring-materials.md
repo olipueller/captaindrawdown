@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>New Zealand</td></tr>
   <tr><th>Website</th><td><a href="https://www.aspiringmaterials.com/" target="_blank" rel="noopener">https://www.aspiringmaterials.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiring-materials/" target="_blank" rel="noopener">aspiring-materials — 2,119 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiring-materials/" target="_blank" rel="noopener">aspiring-materials — 2,418 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Aspiring Materials is a Christchurch, New Zealand cleantech company that process
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: Aspiring Materials: 📢 Big news for Aspiring Materials today - we’re heading to Southland! The news i ([source](https://www.linkedin.com/company/aspiring-materials/#post-2cef03e82470))
 - **2026-07-24** — news mention: Aspiring Materials: Can you replace up to 30% of cement in precast concrete using a locally produced ([source](https://www.linkedin.com/company/aspiring-materials/#post-e578bbbfb96f))

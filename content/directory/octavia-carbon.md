@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.octaviacarbon.com/" target="_blank" rel="noopener">https://www.octaviacarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 17,016 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 17,273 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~71 (+27% YoY)</td></tr>
+  <tr><th>Employees</th><td>~71 (+15% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -36,6 +36,20 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-11** — news mention: 🌍 Kenya&amp;#39;s Direct Air Capture story is still being written, and last week, we brought the peo ([source](https://www.linkedin.com/feed/update/urn:li:share:7503777106515128320/))
+- **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
+- **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
+- **2026-09-03** — news mention: 🏗️  Officials once surveyed this land and called it bare and worthless; today, the community that ca ([source](https://www.linkedin.com/feed/update/urn:li:share:7501233617239449600/))
+- **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))
+- **2026-08-29** — news mention: Flux: 🌍 Big things are happening across the Global South. In the past week alone: ✅ Kenya's Octavia  ([source](https://www.linkedin.com/company/flux-carbon/#post-52e2184f265a))
+- **2026-08-28** — news mention: 🧩 What separates a good fix from the right one? For Charlestone Oyoo, a Mechanical Engineer on our R ([source](https://www.linkedin.com/feed/update/urn:li:share:7498712262405165056/))
+- **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and ou ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
+- **2026-08-21** — news mention: 🇰🇪🤝🇬🇧 Hosting the UK High Commissioner in the Rift Valley
+
+ 🌟 This week, we had the honor of welcomi ([source](https://www.linkedin.com/feed/update/urn:li:share:7496163730007904256/))
+- **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
+- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 - **2026-08-14** — news mention: 🤔 Where will Africa&amp;#39;s green jobs come from, and what will it take to make them real?
@@ -56,20 +70,6 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 - **2026-07-27** — news mention: Flux: 🌍 Big things are happening across the Global South. In the past week alone: ✅ Kenya's Octavia  ([source](https://www.linkedin.com/company/flux-earth/#post-52e2184f265a))
 - **2026-07-24** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for ð°ðª Kenya!! ð¢ Tencent has announced the winne ([source](https://www.linkedin.com/company/pyroccs/#post-94e66063f6cb))
 - **2026-07-24** — news mention: PyroCCS: ð£ Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/pyroccs/#post-8615e7d82657))
-- **2026-07-23** — news mention: 🌍 We are proud to have been selected as part of the inaugural cohort of the Climate Finance Accelera ([source](https://www.linkedin.com/feed/update/urn:li:share:7486017348286738432/))
-- **2026-07-23** — news mention: Aircapture: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled ([source](https://www.linkedin.com/company/aircapture-llc/#post-cab7b79b16ad))
-- **2026-07-23** — news mention: Aircapture: CDR.fyi broke down Tencent ’s CarbonX 2.0 program: • 16 winners • 660 applicants • 54 co ([source](https://www.linkedin.com/company/aircapture-llc/#post-3c9a31ad6a40))
-- **2026-07-16** — news mention: 🤝 We were honored to host Amb. T.B.H. Witjaksono Adji, Indonesia’s Ambassador to Kenya, Uganda, UNEP ([source](https://www.linkedin.com/feed/update/urn:li:share:7483476879098834946/))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-09** — news mention: 🌍 We are proud to have unveiled Africa&amp;#39;s first real-world green concrete deployment, a full  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480940632639864832/))
-- **2026-07-02** — news mention: Octavia Carbon Community Clean Up Event | Octavia Carbon ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478401010361794560/))
-- **2026-06-24** — news mention: Meet Ibrahim Njathi, Chemical Engineer for Climate Change | Octavia Carbon posted on the topic | Lin ([source](https://www.linkedin.com/feed/update/urn:li:share:7473337157009539072/))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape.
-
-At ZEN Carbon, we’ve always be ([source](https://www.linkedin.com/feed/update/urn:li:share:7468611921219317761/))
 
 ---
 

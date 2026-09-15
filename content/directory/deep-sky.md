@@ -44,6 +44,15 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-11** — news mention: Prospectus for Carney’s summit highlights more than 160 projects open for investment - The Globe and ([source](https://www.theglobeandmail.com/business/article-canada-investment-summit-carney-project-prospectus/))
+- **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
+- **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the firs ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
+- **2026-09-04** — news mention: Deep Sky One Secures AAA-A Rating for DAC Project - ESG News ([source](https://esgnews.com/deep-sky-one-secures-aaa-a-rating-for-dac-project/))
+- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera&#039;s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/))
+- **2026-09-03** — news mention: Avnos’ HDAC technology produces water while capturing CO₂. It integrates with data centers, geologic ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mummqjtqw22j))
+- **2026-09-03** — news mention: Deep Sky One Labeled AAA-A In Sylvera’s First-Ever Pre-Issuance DAC Rating ([source](https://carbonherald.com/deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-one-labeled-aaa-a-in-sylveras-first-ever-pre-issuance-dac-rating))
+- **2026-08-31** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-3744a19beb75))
+- **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvi ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
@@ -65,15 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-04** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits  Verde Resources (OTCQB: VRD ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpsbpuwbvz26))
 - **2026-07-01** — news mention: Deep Sky Delivers The First Certified North American DAC Credits  Deep Sky has delivered what it say ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpl5wlink62k))
 - **2026-07-01** — news mention: Microsoft and RBC Buy North America's First Verified Direct Air Capture (DAC) Carbon Credits From Ca ([source](https://carboncredits.com/microsoft-and-rbc-buy-north-americas-first-verified-direct-air-capture-dac-carbon-credits-from-canadas-deep-sky/))
-- **2026-07-01** — news mention: Alberta facility produces first certified carbon removal credits in North America - Digital Journal ([source](https://www.digitaljournal.com/article/alberta-facility-produces-first-certified-carbon-removal-credits-in-north-america/))
-- **2026-06-30** — news mention: Deep Sky Delivers First Certified DAC Carbon Credits to Microsoft, RBC - ESG Today ([source](https://www.esgtoday.com/deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc/))
-- **2026-06-30** — news mention: Based on data from May, the French people appear to not intend to stop purchasing ICE vehicles until ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpizwtko6k2b))
-- **2026-06-30** — news mention: Deep Sky Delivers The First Certified North American DAC Credits ([source](https://carbonherald.com/deep-sky-delivers-the-first-certified-north-american-dac-credits/?utm_source=rss&utm_medium=rss&utm_campaign=deep-sky-delivers-the-first-certified-north-american-dac-credits))
-- **2026-06-30** — news mention: Deep Sky delivers North America's first certified direct air capture carbon credits | Carbon Capture ([source](https://carboncapturemagazine.com/articles/deep-sky-issues-north-americas-first-certified-direct-air-capture-carbon-credits))
-- **2026-06-29** — news mention: Deep Sky delivers North America’s first direct air capture carbon credits | BetaKit ([source](https://betakit.com/deep-sky-delivers-north-americas-first-direct-air-capture-carbon-credits/))
-- **2026-06-29** — news mention: Deep Sky delivers North America’s first certified DAC carbon removal credits | Carbon Capture | gasw ([source](https://www.gasworld.com/story/deep-sky-delivers-north-americas-first-certified-dac-carbon-removal-credits/2253271.article/))
-- **2026-06-29** — news mention: Deep Sky Becomes First In North America To Deliver Direct Air Capture Carbon Credits ([source](https://stratnewsglobal.com/canada/deep-sky-becomes-first-in-north-america-to-deliver-direct-air-capture-carbon-credits/))
-- **2026-06-29** — news mention: Deep Sky Delivers North America's First DAC Carbon Credits - ESG News ([source](https://esgnews.com/deep-sky-delivers-north-americas-first-dac-carbon-credits/))
 
 ---
 

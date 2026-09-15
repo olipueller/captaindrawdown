@@ -30,6 +30,16 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 
 ## History
 
+- **2026-09-08** — news mention: Usina São Manoel estima receita adicional de R$ 15 milhões com projetos de captura de carbono ([source](https://globorural.globo.com/biocombustiveis/noticia/2026/09/usina-sao-manoel-estima-receita-adicional-de-r-15-milhoes-com-projetos-de-captura-de-carbono.ghtml))
+- **2026-09-02** — news mention: Captura: Today marks a significant milestone for Captura. We're proud to announce the first close of ([source](https://www.linkedin.com/company/capturaco2/#post-e700c02a06af))
+- **2026-08-30** — news mention: CarbonAir Energy: Brasil avança na regulamentação da captura e armazenamento de CO₂. A assinatura, n ([source](https://www.linkedin.com/company/carbonairenergy/#post-8680ef5b1e8f))
+- **2026-08-26** — news mention: Captura: Captura and ElectraLith have entered a strategic partnership to deploy Captura’s bipolar me ([source](https://www.linkedin.com/company/capturaco2/#post-285d3f33ce84))
+- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-22** — news mention: CarbonAir Energy: Brasil avanÃ§a na regulamentaÃ§Ã£o da captura e armazenamento de COâ. A assinatu ([source](https://www.linkedin.com/company/carbonairenergy/#post-b0f1e08dc3d3))
+- **2026-08-19** — news mention: New Partnership: ElectraLith To Use Captura&#039;s Tech For Lithium Extraction ([source](https://carbonherald.com/new-partnership-electralith-to-use-capturas-tech-for-lithium-extraction/))
+- **2026-08-19** — news mention: Originally developed to power Captura’s Direct Ocean Capture systems, the BMED technology is now app ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtgwephlq22j))
+- **2026-08-19** — news mention: New Partnership: ElectraLith To Use Captura’s Tech For Lithium Extraction ([source](https://carbonherald.com/new-partnership-electralith-to-use-capturas-tech-for-lithium-extraction/?utm_source=rss&utm_medium=rss&utm_campaign=new-partnership-electralith-to-use-capturas-tech-for-lithium-extraction))
+- **2026-08-19** — news mention: Captura: We’re excited to announce a strategic partnership with ElectraLith to help commercialize it ([source](https://www.linkedin.com/company/capturaco2/#post-34d8acd50d19))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Cómo pueden las fábricas de cemento eliminar el CO₂ de la atmósfera - Un nuevo análisis del ciclo de ([source](https://www.quimica.es/noticias/1189560/como-pueden-las-fabricas-de-cemento-eliminar-el-co-de-la-atmosfera.html))
 - **2026-08-13** — news mention: Brasil Carbon Capture Association: O Governo Federal assinou nessa quarta-feira (12), o decreto que  ([source](https://www.linkedin.com/company/ccs-brasil/#post-5ef916bd7c43))
@@ -50,15 +60,6 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://capturacorp.com/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/equinor-and-captura-validate-doc/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://capturacorp.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://capturacorp.com/equinor-and-captura-validate-doc/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

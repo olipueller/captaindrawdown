@@ -35,6 +35,9 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 
 ## History
 
+- **2026-09-06** — news mention: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August  ([source](https://www.linkedin.com/company/carbo-force/#post-8cc632c2d667))
+- **2026-08-22** — news mention: Cula: Last week we cut the ribbon on the first CF-𝟏𝟎𝟎𝟎. A big thank you to CO2-Sync and Carbo-FORCE  ([source](https://www.linkedin.com/company/cula-technologies/#post-48d8b8954751))
+- **2026-08-15** — news mention: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August  ([source](https://www.linkedin.com/company/carbo-force/#post-f2dc7a15330b))
 - **2026-08-06** — news mention: Syncraft: Welcoming Bioenergie Ralph Grauel to the Cula platform! A founder-led operation in Mayen,  ([source](https://www.linkedin.com/company/syncraft/#post-db194c10dd15))
 - **2026-07-31** — news mention: Cula: First credits issued! Isometric has certified 2,821 carbon removal certificates for Biochar So ([source](https://www.linkedin.com/company/cula-technologies/#post-3fc5e9092baa))
 - **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))

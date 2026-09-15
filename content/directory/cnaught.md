@@ -30,6 +30,7 @@ CNaught is a US-based carbon credit marketplace and portfolio provider that cura
 
 ## History
 
+- **2026-08-22** — news mention: Cnaught: In May we estimated that AI coding agents emit about 250,000 tonnes of CO₂e a year. We’re n ([source](https://www.linkedin.com/company/cnaught/#post-837f490a7838))
 - **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal

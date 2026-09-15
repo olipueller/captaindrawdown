@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 3,820 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 4,067 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~72 (-23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~53 (-43% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-04** — news mention: SCW Systems: 𝙁𝙤𝙧 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩 𝙮𝙚𝙖𝙧𝙨, 𝙎𝘾𝙒 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝙝𝙖𝙨 𝙗𝙚𝙚𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙦𝙪𝙞𝙚𝙩𝙡𝙮. Now, we are ready to share m ([source](https://www.linkedin.com/company/scw-systems/#post-3347ef9aa658))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
 - **2026-07-30** — news mention: SCW Systems: PFAS pollution is one of the most pressing environmental challenges of our time—togethe ([source](https://www.linkedin.com/company/scw-systems/#post-289e343bdf45))
 - **2026-07-23** — news mention: SCW Systems B.V.: Steel CleanUp selected for funding from the EU Innovation Fund!   Steel CleanUp ha ([source](https://www.linkedin.com/company/scw-systems/#post-edf084a41ee3))

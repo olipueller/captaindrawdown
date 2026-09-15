@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of municipal/shredded waste into stable carbon char for soil storage, with co-produced energy supplied to cement industry."
 url: "/directory/pull-to-refresh/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://pulltorefresh.earth/" target="_blank" rel="noopener">https://pulltorefresh.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pulltorefresh/" target="_blank" rel="noopener">pulltorefresh — 510 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pulltorefresh/" target="_blank" rel="noopener">pulltorefresh — 519 followers</a></td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Pull To Refresh Inc. is a San Francisco-based carbon removal startup founded in 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))

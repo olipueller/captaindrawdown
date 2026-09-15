@@ -29,6 +29,9 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
+- **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
+
+At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO₂ captured by Heidelberg Materials  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
 - **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates two wood-chip pyrolysis units producing EBC Agro-Bio biochar, using waste heat to dry sewage sludge and digestate from an integrated biogas plant; credits issued under Global C-Sink and sold"
 url: "/directory/ökt-offenhausen/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/" target="_blank" rel="noopener">https://biochar-zero.com/company/okologische-klarschlammtrocknung-offenhausen-gmbh/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,517 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-zero/" target="_blank" rel="noopener">biochar-zero — 4,557 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ liveliness: "🟠 Suspect"
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))
+- **2026-09-04** — news mention: ÖKT Offenhausen: Big news from Brussels! The EU Member States have agreed on the 90% headline reduct ([source](https://www.linkedin.com/company/biochar-zero/#post-ba73184358f4))
+- **2026-09-04** — news mention: ÖKT Offenhausen: EU lense: ⚠️ New EU Climate target with changes in CDR demand to come Yesterday, th ([source](https://www.linkedin.com/company/biochar-zero/#post-30ab5e2e0cce))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.carmen-ev.de/2025/09/29/neues-zum-thema-pyrolyseanlagen-im-c-a-r-m-e-n-statusseminar/))

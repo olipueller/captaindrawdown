@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.macrocarbon.world/" target="_blank" rel="noopener">https://www.macrocarbon.world/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon — 1,981 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon — 2,388 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-22** — news mention: Macrocarbon: We have completed our NEOTEC 2024 Project! We are glad to announce the successful compl ([source](https://www.linkedin.com/company/macrocarbon/#post-02335664bef2))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
 - **2026-07-24** — news mention: Macrocarbon: Sargassum to SAF Validation ongoing !!! MacroCarbon has secured financial support throu ([source](https://www.linkedin.com/company/macrocarbon/#post-6456ebdda12a))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))

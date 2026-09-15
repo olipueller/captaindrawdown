@@ -33,13 +33,14 @@ SCG Cement is the cement and building materials arm of Siam Cement Group, Thaila
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2025-05-03 → 2030-05-02 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128)
+- 1 project · Biochar, 2022 · crediting period 2025-05-03 → 2030-05-02 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/scg-128)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
+- **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in Th ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

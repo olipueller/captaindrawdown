@@ -28,6 +28,7 @@ Gaia is a Danish joint venture (Gaia ProjectCo P/S) between Copenhagen Infrastru
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.archyde.com/big-techs-carbon-removal-gamble-is-it-enough/))

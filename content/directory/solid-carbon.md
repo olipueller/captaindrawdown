@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://solidcarbon.ca/" target="_blank" rel="noopener">https://solidcarbon.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/solidcarbon/" target="_blank" rel="noopener">solidcarbon — 183 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/solidcarbon/" target="_blank" rel="noopener">solidcarbon — 196 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
@@ -31,6 +31,7 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: КОМПЛЕКСНА ОЦІНКА ТЕХНОЛОГІЙ ПІРОЛІЗУ АГРАРНОЇ БІОМАСИ: ЕФЕКТИВНІСТЬ, МАСШТАБУВАННЯ ТА ОХОРОНА ПРАЦІ ([source](https://openalex.org/W7172194218))
 - **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))
 - **2026-05-01** — refresh: screenshot

@@ -29,6 +29,9 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 
 ## History
 
+- **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
+- **2026-08-16** — news mention: Carbon Capital: Weâre excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating f ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-8f2a1817afd8))
+- **2026-08-16** — news mention: Carbon Capital: Credit where creditâs due (literally). Farm Gai Kaisa 159 is now A-rated by Sylver ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-c70ae0875c12))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-26** — news mention: Carbon Capital: We’re excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating fro ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-42110b29069a))
 - **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))

@@ -38,6 +38,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-14** — news mention: Biochar Demand Hits 2.99 Million Tonnes: Can Corporate Buyers Trigger a Supply Crunch? • Carbon Cred ([source](https://carboncredits.com/biochar-demand-hits-2-99-million-tonnes-can-corporate-buyers-trigger-a-supply-crunch/))
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-09-07** — news mention: Ground Up: From Pilot to Platform. ð Project Nandani has officially levelled up. Weâre scaling  ([source](https://www.linkedin.com/company/ground-up-in/#post-01d405ee561a))
+- **2026-09-04** — news mention: Supercritical Partners With Ground Up To Expand India Biochar Network ([source](https://carbonherald.com/supercritical-partners-with-ground-up-to-expand-india-biochar-network/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-ground-up-to-expand-india-biochar-network))
+- **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
+- **2026-08-23** — news mention: Ground Up: Pre-purchase announcement: remove has signed a pre-purchase agreement with Ground Up . At ([source](https://www.linkedin.com/company/ground-up-in/#post-a44f78c6d060))
+- **2026-08-20** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Ground Up . At re ([source](https://www.linkedin.com/company/cdr-accelerator/#post-a44f78c6d060))
+- **2026-08-19** — news mention: CDR.fyi: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding progr ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
+- **2026-08-15** — news mention: Ground Up: As part of our ongoing biochar field application trials, Ground Up recently completed pat ([source](https://www.linkedin.com/company/ground-up-in/#post-9a1efa594a58))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
+- **2026-08-15** — news mention: Ground Up: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding pro ([source](https://www.linkedin.com/company/ground-up-in/#post-0640bb086bc2))
+- **2026-08-15** — news mention: Ground Up: Indian biochar startup Ground Up has secured a pre-purchase agreement with remove, follow ([source](https://www.linkedin.com/company/ground-up-in/#post-778faa5c6a0a))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: Indian Company Ground Up Secures A Pre-Purchase Agreement With remove ([source](https://carbonherald.com/indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove/?utm_source=rss&utm_medium=rss&utm_campaign=indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove))
 - **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))

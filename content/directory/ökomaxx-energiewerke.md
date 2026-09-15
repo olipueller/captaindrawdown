@@ -28,6 +28,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-07-15** — refresh: liveliness
 - **2026-07-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.wirtschaft.at/u/553028b))
 - **2026-06-26** — news mention: #carbonremoval #bioenergy #carbonmarkets #renewableenergy #carbonremoval #bioenergy #carbonmarkets # ([source](https://www.linkedin.com/feed/update/urn:li:share:7475442829268484096/))

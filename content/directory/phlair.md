@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://phlair.com/" target="_blank" rel="noopener">https://phlair.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phlair/" target="_blank" rel="noopener">phlair — 8,394 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phlair/" target="_blank" rel="noopener">phlair — 9,199 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~44 (+26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~45 (-10% YoY)</td></tr>
   <tr><th>Open roles</th><td>10 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important mileston ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
 - **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
 - **2026-07-22** — news mention: Phlair: WISAG has kept buildings clean for 60 years. Now they're turning to the CO₂ in the air. WISA ([source](https://www.linkedin.com/company/phlair/#post-4d7db5390021))

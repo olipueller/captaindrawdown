@@ -34,6 +34,7 @@ Chooose AS is an Oslo-based climate-tech SaaS company founded in 2017 that provi
 
 ## History
 
+- **2026-08-27** — news mention: Chooose AS: Chooose and the RSB Book &amp; Claim Registry are partnering to connect our systems via  ([source](https://www.linkedin.com/company/chooose/#post-fe0e6db2c8ab))
 - **2026-07-22** — news mention: Chooose AS: All Nippon Airways passengers can now support Sustainable Aviation Fuel (SAF) via their  ([source](https://www.linkedin.com/company/chooose/#post-09a22ca56610))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

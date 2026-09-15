@@ -31,6 +31,8 @@ Carbon To Stone (CTS) is a Cornell University spinout in Ithaca, New York, comme
 
 ## History
 
+- **2026-08-30** — news mention: Carbon To Stone: We are thrilled to share that  Carbon To Stone  has been awarded funding by Carbont ([source](https://www.linkedin.com/company/carbon-to-stone/#post-ef3f95c3791b))
+- **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and the  ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
 - **2026-08-08** — news mention: Carbon To Stone: Carbon To Stone is now Revora Materials. Our new name more accurately reflects our  ([source](https://www.linkedin.com/company/carbon-to-stone/#post-a3e2f77236af))
 - **2026-08-08** — news mention: Carbon To Stone: Revora Materials is pleased to announce a strategic Memorandum of Understanding wit ([source](https://www.linkedin.com/company/carbon-to-stone/#post-31d699b440d1))
 - **2026-05-01** — refresh: screenshot

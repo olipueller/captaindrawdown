@@ -5,7 +5,7 @@ type: "directory"
 description: "Manufactures biochar-mineral matrix aggregates (OSTO® for concrete, ACLA® for asphalt) that embed biogenic carbon permanently into construction materials as a drop-in replacement for traditional"
 url: "/directory/low-carbon-materials/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbonmaterials.com/" target="_blank" rel="noopener">https://www.lowcarbonmaterials.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spherauk/" target="_blank" rel="noopener">spherauk — 5,744 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~20</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lowcarbonmaterials/" target="_blank" rel="noopener">lowcarbonmaterials — 6,386 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
+- **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and the  ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-05-01** — refresh: screenshot

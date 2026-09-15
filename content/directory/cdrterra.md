@@ -31,6 +31,12 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-09-12** — news mention: #cdr #co2entnahme #pflanzenkohle #biochar #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7452726578565844992/))
+- **2026-09-10** — news mention: Meet CDRterra Scientists: Daniel Kray and Claudia Kammann | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503078672560541696/))
+- **2026-09-07** — news mention: SESACOO - CDRterra ([source](https://cdrterra.de/consortia/sesacoo/))
+- **2026-09-06** — news mention: CDRterra: Herkömmliche Verfahren zur direkten Entfernung von CO₂ aus der Luft („Direct Air Capture“, ([source](https://www.linkedin.com/company/cdrterra/#post-dbf923baf0e1))
+- **2026-08-22** — news mention: Meet CDRterra scientists: Sarah Grosskopf for CDRnext | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7495051021526700033/))
+- **2026-08-15** — news mention: CDRterra: 📢 New publication alert! 🌱 How can Germany scale bio-based carbon dioxide removal (CDR) wh ([source](https://www.linkedin.com/company/cdrterra/#post-cf2914b8384b))
 - **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))
 - **2026-08-11** — news mention: Great work by Mohammad Sadr, Danial Esmaeili, Matthias Jordan,
 Ronja Wollnik, Daniela Thrän. Their s ([source](https://www.linkedin.com/feed/update/urn:li:share:7492889244089200641/))

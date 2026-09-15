@@ -30,6 +30,26 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-24** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
+- **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
+- **2026-08-22** — news mention: Senken Signs 50,000-Tonne Biomass Carbon Removal Deal with Carbonsate in Namibia ([source](https://carboncredits.com/senken-signs-50000-tonne-biomass-carbon-removal-deal-with-carbonsate-in-namibia/))
+- **2026-08-22** — news mention: Carbon Drawdown Initiative: Now we need to deliver! Three years ago, biomass storage was still a tec ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-197d8cb91c25))
+- **2026-08-21** — news mention: Senken、Carbonsateと欧州最大規模のバイオマス貯留契約を締結 5万トンの恒久的炭素除去を調達 - ESG Journal ([source](https://esgjournaljapan.com/world-news/55137))
+- **2026-08-21** — news mention: Protos energy-from-waste facility begins operations with carbon capture - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/protos-energy-from-waste-facility-begins-operations-with-carbon-capture/))
+- **2026-08-20** — news mention: Europe's largest biomass burial carbon removal deal signed - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/europes-largest-biomass-burial-carbon-removal-deal-signed/))
+- **2026-08-20** — news mention: Senken: Senken and Carbonsate signed Europe's largest biomass storage deal to date The agreement inc ([source](https://www.linkedin.com/company/senken/#post-e1d3f04c90d8))
+- **2026-08-19** — news mention: Senken signs 50,000-tonne carbon removal deal with Carbonsate - BioEnergy Times ([source](https://bioenergytimes.com/senken-signs-50000-tonne-carbon-removal-deal-with-carbonsate/))
+- **2026-08-18** — news mention: Senken Secures 50,000-Tonne Carbon Removal Deal - ESG News ([source](https://esgnews.com/senken-secures-50000-tonne-carbon-removal-deal/))
+- **2026-08-18** — news mention: Senken and Carbonsate Sign Europe's Largest Biomass Storage Deal ([source](https://www.renewableenergymagazine.com/biomass/senken-and-carbonsate-sign-europe-s-largest-20260818))
+- **2026-08-18** — news mention: Senken and Carbonsate Sign 50,000-Tonne Biomass Storage Deal in Namibia ([source](https://igrownews.com/senken-latest-news/))
+- **2026-08-18** — news mention: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon removal.
+
+Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:7495020333285138432/))
+- **2026-08-17** — news mention: Senken and Carbonsate Sign EU's Largest Biomass Storage Deal: 50,000 Tonnes of Permanent Carbon Remo ([source](https://uk.advfn.com/stock-market/share-news/Senken-and-Carbonsate-Sign-EUs-Largest-Biomass-Sto/99133239))
+- **2026-08-17** — news mention: Senken et Carbonsate signent le plus important contrat de stockage de biomasse de l'Union européenne ([source](https://www.prnewswire.com/news-releases/senken-et-carbonsate-signent-le-plus-important-contrat-de-stockage-de-biomasse-de-lunion-europeenne--50-000-tonnes-de-carbone-eliminees-de-maniere-permanente-302851879.html))
+- **2026-08-17** — news mention: Senken und Carbonsate unterzeichnen Europas größten Deal für Biomasse-Speicherung: 50.000 Tonnen per ([source](https://www.prnewswire.com/news-releases/senken-und-carbonsate-unterzeichnen-europas-groWten-deal-fur-biomasse-speicherung-50-000-tonnen-permanentes-co2-removal-302851903.html))
+- **2026-08-17** — news mention: Senken And Carbonsate Ink Europe’s Largest Biomass Storage Deal To Date ([source](https://carbonherald.com/senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-carbonsate-ink-europes-largest-biomass-storage-deal-to-date))
 - **2026-08-07** — news mention: Welcome, senken! | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490262133469986816/))
 - **2026-08-06** — news mention: Senken: Senken is partnering with Envoria to bring high-quality carbon credits directly to Envoria's ([source](https://www.linkedin.com/company/senken/#post-00e8aee51158))
 - **2026-07-22** — news mention: Senken: Most corporate net zero targets are a press release with a date attached, or not? ISO just p ([source](https://www.linkedin.com/company/senken/#post-a0a72af1e879))
@@ -42,17 +62,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 - **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
 - **2026-05-19** — news mention: Über den Weinanbau hinaus: Weinemissionen in biobasierte Wertstoffe umwandeln - Renewable Carbon New ([source](https://renewable-carbon.eu/news/?p=176903))
 - **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
-- **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))
-- **2026-05-14** — news mention: Germany's DAX40 corporate giants are buying carbon credits at scale and disclosing almost nothing ab ([source](https://x.com/CaptainDrawdown/status/2054790506933088352))
-- **2026-05-14** — news mention: Germany's DAX40 giants are buying carbon credits at scale. What they actually bought? Mostly a black ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mls2bszkmi2m))
-- **2026-05-13** — news mention: Senken And Sylvera Find Major Gaps In Carbon Credit Transparency Among DAX40 Firms ([source](https://carbonherald.com/senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms/?utm_source=rss&utm_medium=rss&utm_campaign=senken-and-sylvera-find-major-gaps-in-carbon-credit-transparency-among-dax40-firms))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.senken.io/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.senken.io/ ([source](https://www.cdr.fyi/marketplace/senken))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/senken))
 
 ---
 

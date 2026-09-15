@@ -31,6 +31,8 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-09-02** — news mention: 1PointFive: This morning marked a significant milestone for CF Industries and our partners, JERA Co. ([source](https://www.linkedin.com/company/1pointfive/#post-ba755a082389))
+- **2026-08-26** — news mention: 1PointFive: Fantastic to see the release of the 2026 Sustainable Aviation Decarbonisation Roadmap. h ([source](https://www.linkedin.com/company/1pointfive/#post-f2465e97f50b))
 - **2026-08-05** — news mention: Top 10 Leading Carbon Capture Companies in 2026 ([source](https://carbelim.io/top-10-carbon-capture-companies/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: 1PointFive - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/1pointfive/__j1A8Bl4Dvpqzj2ZoKWjLOq3ugJabICgxasKvcf7xBdY))

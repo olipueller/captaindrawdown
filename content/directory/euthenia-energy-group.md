@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-30** — news mention: Euthenia Energy Group: 🌱 Big milestone for Euthenia! We’re proud to announce the successful launch o ([source](https://www.linkedin.com/company/euthenia-energy/#post-316fa6916097))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

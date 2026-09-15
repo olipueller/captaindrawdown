@@ -31,6 +31,7 @@ CERES (CERtification of Environmental Standards GmbH) is a German inspection and
 
 ## History
 
+- **2026-09-12** — news mention: CERES: One year ago, we introduced the Rainforest Alliance Regenerative Agriculture Standard! 🌱 Sinc ([source](https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/#post-4eed4d5ac375))
 - **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

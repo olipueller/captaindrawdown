@@ -45,6 +45,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-09-04** — news mention: atmosfair gGmbH: A new chapter begins for atmosfair's carbon removal projects: With our Brazilian pa ([source](https://www.linkedin.com/company/atmosfair-ggmbh-klimabewusst-reisen/#post-94c103fcc82d))
+- **2026-09-02** — news mention: Atmosfair X InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500906876700729344/))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-28** — news mention: Commons And InPlanet Team Up To Expand Access To High-Integrity ERW Credits ([source](https://carbonherald.com/commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits/?utm_source=rss&utm_medium=rss&utm_campaign=commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits))
+- **2026-08-28** — news mention: Commons | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498737583468924929/))
+- **2026-08-22** — news mention: COP31 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496541259021357056/))
+- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
@@ -64,17 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-21** — news mention: InPlanet joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/inplanet-joins-the-negative-emissions-platform))
 - **2026-07-16** — news mention: German Federal Foreign Minister&amp;#39;s visit to Brazil | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483476897696387072/))
 - **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-09** — news mention: Meta-analysis of the agronomic Benefits | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480971203046854657/))
-- **2026-07-01** — news mention: Scaling CDR Summit | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478075320630394881/))
-- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of @[Lond ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
-- **2026-06-30** — news mention: Carbon Buyers Breakfast at the National Gallery | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477379256109629440/))
-- **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
-- **2026-06-27** — news mention: De-risking Carbon Removal | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476284747636404226/))
-- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
-- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
-- **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
-- **2026-06-15** — refresh: coresignal
 
 ---
 

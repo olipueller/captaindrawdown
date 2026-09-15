@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys modular reactors that add alkaline minerals to high-CO2 coastal/river water, converting dissolved CO2 into stable bicarbonate, paired with a proprietary real-time carbon-system sensor for MRV."
 url: "/directory/vycarb/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vy-carb.com/" target="_blank" rel="noopener">https://www.vy-carb.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot, liveliness
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://pitchbook.com/profiles/company/515320-12))
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://pitchbook.com/profiles/company/515320-12))
 - **2026-05-01** — refresh: screenshot

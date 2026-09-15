@@ -33,6 +33,7 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-09-11** — news mention: Arca: 1 tonne of mineralized CO₂ ≠ 1 tonne of carbon removal. This distinction is what Isometric ’s  ([source](https://www.linkedin.com/company/arcaclimate/#post-5650d2d43864))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-28** — news mention: Our team was excited to contribute to the conversation during PNW Climate Week last week alongside o ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487571648573997058/))
 - **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))

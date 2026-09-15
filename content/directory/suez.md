@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.suez.com/en" target="_blank" rel="noopener">https://www.suez.com/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suez/" target="_blank" rel="noopener">suez — 898,889 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suez/" target="_blank" rel="noopener">suez — 932,143 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~26066 (+3% YoY)</td></tr>
+  <tr><th>Employees</th><td>~26541 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ SUEZ is a large French waste and water utility (~26,000 employees) developing ca
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: Mini Green Power: https://lnkd.in/e67HQM-k Mini Green Power en liquidation après la rupture d'un con ([source](https://www.linkedin.com/company/mini-green-power/#post-15c069245261))
 - **2026-07-23** — news mention: Mini Green Power: https://lnkd.in/e67HQM-k Mini Green Power en liquidation aprÃ¨s la rupture d'un co ([source](https://www.linkedin.com/company/mini-green-power/#post-4d43ec8bd315))
 - **2026-05-01** — refresh: screenshot

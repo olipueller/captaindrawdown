@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://prattenergy.com/" target="_blank" rel="noopener">https://prattenergy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pratt-energy-llc/" target="_blank" rel="noopener">pratt-energy-llc — 183 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pratt-energy-llc/" target="_blank" rel="noopener">pratt-energy-llc — 211 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -29,6 +29,7 @@ Pratt Energy, LLC operates a corn and milo fuel ethanol plant in Pratt, Kansas. 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://prattenergy.com/))

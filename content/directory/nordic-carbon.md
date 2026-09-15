@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.nordiccarbon.dk/" target="_blank" rel="noopener">https://www.nordiccarbon.dk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordic-carbon/" target="_blank" rel="noopener">nordic-carbon — 526 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordic-carbon/" target="_blank" rel="noopener">nordic-carbon — 1,192 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Employees</th><td>~16 (+433% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,11 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-02** — news mention: Now is the time to enter Europe’s carbon removal market.
+ 
+The business case has never been stronger ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500493306318086144/))
+- **2026-08-16** — news mention: Nordic Carbon: 🎥 From delivery to deployment — installation underway in Drobonso! Our pyrolysis equi ([source](https://www.linkedin.com/company/nordic-carbon/#post-1fa605783dc0))
 - **2026-08-02** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal — which is why the public com ([source](https://www.linkedin.com/company/nordic-carbon/#post-24933099e92b))
 - **2026-07-25** — news mention: Nordic Carbon: ð¥ From delivery to deployment â installation underway in Drobonso! Our pyrolysis ([source](https://www.linkedin.com/company/nordic-carbon/#post-2d2551818095))
 - **2026-07-25** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal â which is why the public c ([source](https://www.linkedin.com/company/nordic-carbon/#post-f734de67301b))

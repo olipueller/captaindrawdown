@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://zs2technologies.com/" target="_blank" rel="noopener">https://zs2technologies.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zs2-technologies/" target="_blank" rel="noopener">zs2-technologies — 4,048 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zs2-technologies/" target="_blank" rel="noopener">zs2-technologies — 4,239 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~49 (+2% YoY)</td></tr>
+  <tr><th>Employees</th><td>~47 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -34,6 +34,7 @@ ZS2 Technologies is a Calgary-based building-materials manufacturer whose core b
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://zs2technologies.com/zs2-scales-first-domestic-production-of-magnesium-cement-in-north-america/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

@@ -27,6 +27,7 @@ Verora GmbH/AG is a Swiss farmers' cooperative in the Zug canton that processes 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://pyreg.com/tag/verora-2/))

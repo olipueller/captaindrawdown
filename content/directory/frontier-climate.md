@@ -29,6 +29,10 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. Th ([source](https://www.linkedin.com/company/frontierclimate/#post-025268f38004))
+- **2026-08-29** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-263f68f228a1))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
 - **2026-08-08** — news mention: Frontier Climate: Last week, DG CLIMA officially kicked off the EU Buyers Club at CRCF Days in Bruss ([source](https://www.linkedin.com/company/frontierclimate/#post-00b9a7493194))
 - **2026-07-31** — news mention: Frontier Climate: 🚨 Breaking news: today, Frontier announces $915 million in new funding to accelera ([source](https://www.linkedin.com/company/frontierclimate/#post-f57e83d87fc6))
 - **2026-07-31** — news mention: Frontier Climate: Today we’re announcing that Frontier has raised an additional $915M for carbon rem ([source](https://www.linkedin.com/company/frontierclimate/#post-e3e7a0ff2985))

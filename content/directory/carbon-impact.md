@@ -29,6 +29,14 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
+- **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
+- **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
+- **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
+- **2026-09-03** — news mention: Namibia's Newest Carbon Removal Idea - allAfrica.com ([source](https://allafrica.com/stories/202609030347.html))
+- **2026-09-03** — news mention: Swiss CO2 Capture Chain Targets Danish North Sea - ESG News ([source](https://esgnews.com/swiss-co2-capture-chain-targets-danish-north-sea/))
+- **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãªtre dans dix ans. Mais nous, on peut faire des pro ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
+- **2026-08-23** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalitÃ©s franÃ§aises ? Le 25 mai 2026 ([source](https://www.linkedin.com/company/carbon-impact-france/#post-70f43983599f))
+- **2026-08-16** — news mention: Carbon Impact: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets au ([source](https://www.linkedin.com/company/carbon-impact-france/#post-89cacd4a6cf2))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbon-impact.net/))
 - **2026-08-01** — news mention: Carbon Impact: Les 16 et 17 juillet, deux textes ont rapproché le BioCCS de son déploiement à grande ([source](https://www.linkedin.com/company/carbon-impact-france/#post-764911e3fcde))
@@ -51,10 +59,6 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 - **** — merged duplicate: Carbon Impact SAS (slug=carbon-impact-sas)
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/monetise-co2/))
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.carbon-impact.net/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-impact.net/monetise-co2/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟡 Moderate ([source](https://www.carbon-impact.net/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

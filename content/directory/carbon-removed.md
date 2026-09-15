@@ -30,6 +30,9 @@ Carbon Removed is a B2C/B2B carbon removal marketplace operated by Climacrux Gmb
 
 ## History
 
+- **2026-09-04** — news mention: Namibia’s newest carbon removal idea - News - The Namibian ([source](https://www.namibian.com.na/namibias-newest-carbon-removal-idea/))
+- **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South Ameri ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
+- **2026-09-01** — news mention: Anthesis B.V.: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in Sou ([source](https://www.linkedin.com/company/anthesis-consulting-group/#post-a7cb46ff49d3))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-09** — news mention: Altitude Carbon: What does demand actually look like in the biochar carbon credit market right now?  ([source](https://www.linkedin.com/company/altitude-sustainable/#post-a853dc6a3745))
 - **2026-07-26** — news mention: Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/379))

@@ -31,6 +31,7 @@ Cawa is an Amsterdam-based software startup (founded 2022) that provides API inf
 
 ## History
 
+- **2026-08-30** — news mention: CAWA: Cawa has been endorsed as a C-Sink Trader. ð Cawa is a carbon removal platform built on fin ([source](https://www.linkedin.com/company/cawa-tech/#post-446b2cca8591))
 - **2026-07-25** — news mention: CAWA: New offtake announcement: IMC x Cawa IMC Trading has just secured 4,000 tonnes of Carboneers b ([source](https://www.linkedin.com/company/cawa-tech/#post-3407f9d64c77))
 - **2026-07-25** — news mention: CAWA: Cawa has been endorsed as a C-Sink Trader. 🌍 Cawa is a carbon removal platform built on financ ([source](https://www.linkedin.com/company/cawa-tech/#post-61883bb56371))
 - **2026-05-01** — refresh: coresignal, screenshot

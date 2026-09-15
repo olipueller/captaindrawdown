@@ -35,6 +35,7 @@ Equatic is a carbon removal company combining carbon dioxide removal and green h
 
 ## History
 
+- **2026-08-28** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8b65d23acaa0))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-23** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-c0e080253003))
 - **2026-05-01** — refresh: screenshot

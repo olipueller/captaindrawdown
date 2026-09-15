@@ -29,6 +29,15 @@ Climitra Carbon Private Limited is a Delhi-based biochar startup incorporated in
 
 ## History
 
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-09-03** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Climitra . At rem ([source](https://www.linkedin.com/company/cdr-accelerator/#post-2d4416384ee6))
+- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-22** — news mention: Climitra: We are delighted to announce that Climitra has signed a five year MoU with CSIR-IIP Dehrad ([source](https://www.linkedin.com/company/climitra/#post-235e113cd8bf))
+- **2026-08-22** — news mention: Climitra: Pre-purchase announcement: remove has signed a pre-purchase agreement with Climitra . At r ([source](https://www.linkedin.com/company/climitra/#post-2d4416384ee6))
+- **2026-08-22** — news mention: Climitra: Delighted to share that remove has signed a pre-purchase agreement for Climitra 's carbon  ([source](https://www.linkedin.com/company/climitra/#post-7035e03254db))
+- **2026-08-22** — news mention: Climitra: 🌱 remove continues its streak of CDR deals with a new pre-purchase agreement with Climitra ([source](https://www.linkedin.com/company/climitra/#post-2f59fcf48eac))
+- **2026-08-21** — news mention: remove Continues Streak Of CDR Deals With New Climitra Agreement ([source](https://carbonherald.com/remove-continues-streak-of-cdr-deals-with-new-climitra-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=remove-continues-streak-of-cdr-deals-with-new-climitra-agreement))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://sequestra.tech/" target="_blank" rel="noopener">https://sequestra.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sequestra-tech/" target="_blank" rel="noopener">sequestra-tech — 1,725 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sequestra-tech/" target="_blank" rel="noopener">sequestra-tech — 1,803 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~16 (+60% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,11 @@ Sequestra is a Vienna-based climate tech startup founded in 2024 that develops a
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-09** — news mention: sequestra Opens The World’s First Carbonation Analytics Laboratory In Vienna ([source](https://carbonherald.com/sequestra-opens-the-worlds-first-carbonation-analytics-laboratory-in-vienna/?utm_source=rss&utm_medium=rss&utm_campaign=sequestra-opens-the-worlds-first-carbonation-analytics-laboratory-in-vienna))
+- **2026-09-06** — news mention: Sequestra: 🧪 sequestra opens the world's first laboratory for carbonation analytics in Vienna. We ar ([source](https://www.linkedin.com/company/sequestra-tech/#post-c6d8e1e929fa))
+- **2026-09-04** — news mention: Sequestra advances measurement of permanent CO₂ mineralisation - CO₂ Value Europe ([source](https://co2value.eu/sequestra-advances-measurement-of-permanent-co%e2%82%82-mineralisation/))
+- **2026-08-21** — news mention: Sequestra: Funding news! ð We are thrilled to announce that sequestra has been awarded a substant ([source](https://www.linkedin.com/company/sequestra-tech/#post-24e97b993297))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-28** — news mention: Sequestra: Funding news! 📈 We are thrilled to announce that sequestra has been awarded a substantial ([source](https://www.linkedin.com/company/sequestra-tech/#post-e71408a87776))
 - **2026-07-26** — news mention: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO₂ pressure on carbonate  ([source](https://doi.org/10.1007/s11356-026-38071-6))

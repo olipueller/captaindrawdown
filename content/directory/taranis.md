@@ -30,6 +30,8 @@ Taranis is a France-based investment and asset management company owned by the P
 
 ## History
 
+- **2026-09-04** — news mention: Taranis: ð£ Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal pr ([source](https://www.linkedin.com/company/taranis-investment/#post-f06f4c0f89e5))
+- **2026-08-27** — news mention: Taranis: 📣 Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal proje ([source](https://www.linkedin.com/company/taranis-investment/#post-2f09089c5794))
 - **2026-07-23** — news mention: Taranis: 📣 Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal proje ([source](https://www.linkedin.com/company/taranis-investment/#post-2aa412da5923))
 - **2026-05-09** — news mention: Venture capital firm, Taranis, joins NEP ([source](https://www.negative-emissions.org/updates/venture-capital-firm-taranis-joins-nep))
 - **2026-05-01** — refresh: coresignal, screenshot

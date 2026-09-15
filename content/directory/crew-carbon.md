@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,420 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,805 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~28 (+87% YoY)</td></tr>
+  <tr><th>Employees</th><td>~28 (+65% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -46,6 +46,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-14** — news mention: CREW Carbon: Big news: Whirlpool Corporation has included CREW Carbon as part of its carbon removal  ([source](https://www.linkedin.com/company/crew-carbon/#post-4359a6897dc8))
+- **2026-09-12** — news mention: We&amp;#39;re heading to WaterJAM next week — stop by Booth #400 to meet the CREW team and learn mor ([source](https://www.linkedin.com/feed/update/urn:li:share:7504260054372552704/))
+- **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
+- **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
+- **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
+- **2026-08-29** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-2acff671adf6))
+- **2026-08-23** — news mention: Stack Carbon: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonn ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
+- **2026-08-23** — news mention: 350solutions: ð¥³ Microsoft is excited to share its latest carbon removal purchase agreement with C ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
+- **2026-08-18** — news mention: Careers - CREW Carbon ([source](https://crewcarbon.com/careers/))
+- **2026-08-18** — news mention: ESG News Week In Review: 10 August - 16 August ([source](https://esgnews.com/esg-news-week-in-review-10-august-16-august/))
+- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602 t ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
+- **2026-08-16** — news mention: 350solutions: 🥳 Microsoft is excited to share its latest carbon removal purchase agreement with CREW ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
 - **2026-08-12** — news mention: Microsoft Signs Carbon Removal Deal With Crew Carbon ([source](https://impakter.com/microsoft-signs-carbon-removal-deal-with-crew-carbon/))
@@ -63,19 +76,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-05** — news mention: Microsoft Backs Wastewater Carbon Removal With CREW Carbon Offtake Deal ([source](https://carbonherald.com/microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal))
 - **2026-08-05** — news mention: CDR.fyi: 🚨 Big CDR Deal Alert! 🚨 🤝 CREW Carbon has signed an offtake agreement with Microsoft for 23 ([source](https://www.linkedin.com/company/cdr-fyi/#post-dbee0e1cdb2d))
 - **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
-- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
-- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
-- **2026-07-27** — news mention: CREW Carbon: "The CREW system was recently tested at another HRSD plant nearby. It proved so effecti ([source](https://www.linkedin.com/company/crew-carbon/#post-6d68773da812))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-06-24** — news mention: Frontier Commits $915M to Carbon Removal with CREW Carbon | CREW Carbon posted on the topic | Linked ([source](https://www.linkedin.com/feed/update/urn:li:share:7473061590855090177/))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-10** — news mention: &amp;quot;The CREW system was recently tested at another HRSD plant nearby. It proved so effective t ([source](https://www.linkedin.com/feed/update/urn:li:share:7470227579673829376/))
-- **2026-05-22** — news mention: Chestnut Carbon Raises $90 Million to Scale Nature-Based Carbon Removal Projects Across the U.S. ([source](https://www.causeartist.com/blog/chestnut-carbon-raises-90-million-to-scale-nature-based-carbon-removal-projects-across-the-u-s))
 
 ---
 

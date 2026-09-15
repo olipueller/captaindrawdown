@@ -30,6 +30,8 @@ ClimeRock is a French startup that spreads basalt rock powder onto farming field
 
 ## History
 
+- **2026-09-07** — news mention: ClimeRock: Notre projet "Rock net ZÃ©ro" parmi les laurÃ©ats de la Fondation d'entreprise FEREC en 2 ([source](https://www.linkedin.com/company/climerock/#post-4abb1a620dd2))
+- **2026-08-23** — news mention: ClimeRock: â¨ Heureux dâannoncer que le projet RockNetZero, portÃ© par ClimeRock avec notre parte ([source](https://www.linkedin.com/company/climerock/#post-5f456fc64ac2))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-08** — news mention: ClimeRock: Notre projet "Rock net Zéro" parmi les lauréats de la Fondation d'entreprise FEREC en 202 ([source](https://www.linkedin.com/company/climerock/#post-77d870d70c3d))
 - **2026-07-25** — news mention: ClimeRock: ✨ Heureux d’annoncer que le projet RockNetZero, porté par ClimeRock avec notre partenaire ([source](https://www.linkedin.com/company/climerock/#post-706fbac71563))

@@ -30,6 +30,13 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-09-09** — news mention: Celebrating CE Day! 
+
+CE Day is an annual opportunity for our team to come together and celebrate th ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503184334879793152/))
+- **2026-09-01** — news mention: #fia2026 | Carbon Engineering ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500299749003227137/))
+- **2026-08-20** — news mention: What do we mean when we say the system is “modular”? 
+
+At Carbon Engineering (CE), modularity is des ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7495960954652831745/))
 - **2026-07-28** — news mention: Our team was excited to contribute to the conversation during PNW Climate Week last week alongside o ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487571648573997058/))
 - **2026-07-17** — news mention: How does Direct Air Capture (DAC) technology work? 
 

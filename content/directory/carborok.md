@@ -32,6 +32,7 @@ Carborok is a Nantes-based French startup, spin-off of engineering firm Voltigit
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carborok.com/en))

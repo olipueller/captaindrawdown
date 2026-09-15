@@ -29,6 +29,7 @@ Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinn
 
 ## History
 
+- **2026-08-29** — news mention: Brineworks: On June 4, we opened the doors to our Direct Air Capture demonstration plant at Amsterda ([source](https://www.linkedin.com/company/brine-works/#post-fe57669ce1b2))
 - **2026-07-24** — news mention: Brineworks: On June 4, we opened the doors to our Direct Air Capture demonstration plant at Amsterda ([source](https://www.linkedin.com/company/brine-works/#post-cec3800f5ca3))
 - **2026-06-08** — news mention: Brineworks Opens New Amsterdam DAC Demo Plant, Targeting Sub-$115 CO2 Capture ([source](https://carbonherald.com/brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture/?utm_source=rss&utm_medium=rss&utm_campaign=brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture))
 - **2026-05-01** — refresh: coresignal, screenshot

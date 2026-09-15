@@ -30,6 +30,8 @@ Xpansiv operates market infrastructure for environmental commodities, including 
 
 ## History
 
+- **2026-09-02** — news mention: Xpansiv: SouthStar Energy Services Services has purchased 5 million MiQ - Methane Intelligence Certi ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-6368737fbfb7))
+- **2026-08-26** — news mention: Xpansiv: Nuclear power-based Zero Emission Credits are coming to Xpansiv’s North American Renewables ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-8d5ae5768a1b))
 - **2026-08-06** — news mention: Evident: The Xpansiv I-REC Registry has recorded its one billionth I-REC redemption, reflecting I-RE ([source](https://www.linkedin.com/company/international-rec-services/#post-f9a1b8f9b0d2))
 - **2026-07-30** — news mention: C-Capsule Registry - Xpansiv ([source](https://www.xpansiv.com/registries/c-capsule))
 - **2026-07-22** — news mention: Xpansiv: BEVerify is now live An important step forward for carbon markets in the built environment. ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-6c9087eab2be))

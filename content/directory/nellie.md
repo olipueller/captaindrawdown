@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>DAC, BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.nellie.tech/" target="_blank" rel="noopener">https://www.nellie.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nellie-tech/" target="_blank" rel="noopener">nellie-tech — 924 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nellie-tech/" target="_blank" rel="noopener">nellie-tech — 1,005 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,7 @@ Nellie Technologies is a UK pure-play CDR supplier operating a pilot site at Mwy
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-01** — news mention: Nellie Technologies: Today, on #EarthDay 2026, weâve switched on something important. Nellie has d ([source](https://www.linkedin.com/company/nellie-tech/#post-0683373a71ab))
 - **2026-07-25** — news mention: Nellie: Today, on #EarthDay 2026, we’ve switched on something important. Nellie has deployed its fir ([source](https://www.linkedin.com/company/nellie-tech/#post-55b617ca06fb))
 - **2026-05-01** — refresh: screenshot

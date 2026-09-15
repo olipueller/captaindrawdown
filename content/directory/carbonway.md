@@ -31,6 +31,8 @@ Carbonway is a France-based CDR project developer focused on mineralizing biogen
 
 ## History
 
+- **2026-08-23** — news mention: Stack Carbon: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonn ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))
+- **2026-08-16** — news mention: Stack Carbon: ð° This week saw some huge developments in durable CDR, as Microsoft bought 23,602 t ([source](https://www.linkedin.com/company/stackcarbon/#post-c541c578511b))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbonway.org/news))
 - **2026-08-13** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway . At re ([source](https://www.linkedin.com/company/cdr-accelerator/#post-818d569495e0))

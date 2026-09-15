@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops biochar production from agricultural residues plus agroforestry/reforestation projects with smallholder farmers in India and Africa, integrating dMRV, IoT and remote sensing."
 url: "/directory/terrafront/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terrafront.com/" target="_blank" rel="noopener">https://terrafront.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafront/" target="_blank" rel="noopener">terrafront</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrafrontventures/" target="_blank" rel="noopener">terrafrontventures — 223 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (+150% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Terrafront Ventures develops carbon removal infrastructure in South Asia and Afr
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://climateimpactx.com/perspectives/biochar-unlocked-a-buyers-roadmap-to-high-integrity-carbon-removal-credits/))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://climateimpactx.com/perspectives/biochar-unlocked-a-buyers-roadmap-to-high-integrity-carbon-removal-credits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

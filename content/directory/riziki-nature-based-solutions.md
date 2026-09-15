@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes invasive Prosopis juliflora biomass into biochar for soil application and carbon sequestration, alongside biofuel for industrial boilers."
 url: "/directory/riziki-nature-based-solutions/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.nbs-ea.com/" target="_blank" rel="noopener">https://www.nbs-ea.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riziki-nature-based-solutions/" target="_blank" rel="noopener">riziki-nature-based-solutions</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riziki-nature-based-solutions/" target="_blank" rel="noopener">riziki-nature-based-solutions — 15 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Riziki Nature Based Solutions is a Kenya-based startup that harvests invasive Pr
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, liveliness
+- **2026-09-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.nbs-ea.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.nbs-ea.com/))

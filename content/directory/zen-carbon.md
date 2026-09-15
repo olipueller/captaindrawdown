@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Construction)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zencarbon/" target="_blank" rel="noopener">zencarbon — 1,005 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zencarbon/" target="_blank" rel="noopener">zencarbon — 1,160 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -31,6 +31,12 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-02** — news mention: When science meets deployment, the conversation changes.
+
+We recently had the privilege of hosting r ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500602750380957696/))
+- **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
+- **2026-08-15** — news mention: ZEN Carbon: On 12th August 2026, the Kenya Green Building Society (KGBS) joined KGBS member Zen Carb ([source](https://www.linkedin.com/company/zencarbon/#post-49a9704bd36d))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-14** — news mention: Yesterday, we took another step toward changing how Africa builds.
 
@@ -64,9 +70,6 @@ This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcP
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

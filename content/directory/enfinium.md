@@ -29,6 +29,8 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-08-19** — news mention: enfinium limited: A new partnership to manage residual waste and generate homegrown energy. We’re pl ([source](https://www.linkedin.com/company/enfiniumuk/#post-b0fc8e75fa07))
+- **2026-08-19** — news mention: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary  ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-12** — news mention: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary o ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
 - **2026-07-22** — news mention: enfinium: 🎉 A major milestone for enfinium Kelvin! This week, our new Kelvin Energy from Waste facil ([source](https://www.linkedin.com/company/enfiniumuk/#post-308bdb42d904))

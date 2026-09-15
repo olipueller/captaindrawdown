@@ -34,6 +34,9 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-08-26** — news mention: CarbonCure: We're happy to see Tongyang, part of Eugene Group, featured in Korean media for its use  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ad014e0b4bc6))
+- **2026-08-26** — news mention: CarbonCure: Injecting carbon dioxide into cement is a growing commercial strategy to store CO₂ and r ([source](https://www.linkedin.com/company/carboncure-technologies/#post-5bf7728403ba))
+- **2026-08-19** — news mention: CarbonCure: "The process injects captured CO2 into fresh concrete, where it permanently mineralizes  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-fbd2627a66bf))
 - **2026-08-11** — news mention: CarbonCure: The next phase of King Salman International Airport construction is underway. CarbonCure ([source](https://www.linkedin.com/company/carboncure-technologies/#post-203f8271fa2d))
 - **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
 - **2026-07-14** — news mention: Every nonvoter is a fossil fool!  This analysis found that 223 manufacturing and clean energy projec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
@@ -61,8 +64,6 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carboncure-hits-10-million-low-carbon-concrete-truckloads/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

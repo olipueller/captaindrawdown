@@ -5,7 +5,7 @@ type: "directory"
 description: "Blends third-party-pyrolyzed Southern Yellow Pine biochar (NAKED Char) with humate into granular and liquid (5-micron) soil amendments sold to growers, turf managers, arborists, and home gardeners."
 url: "/directory/american-biochar-company/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ambiochar.com/" target="_blank" rel="noopener">https://ambiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/american-biochar/" target="_blank" rel="noopener">american-biochar — 2 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ American BioChar Company is a Michigan-based biochar soil amendment blender and 
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://ambiochar.com/how-to-use-biochar-application-rates-and-methods-for-real-world-results/))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

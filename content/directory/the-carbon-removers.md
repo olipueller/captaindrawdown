@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thecarbonremovers.com/" target="_blank" rel="noopener">https://thecarbonremovers.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers — 6,781 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/thecarbonremovers/" target="_blank" rel="noopener">thecarbonremovers — 6,867 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~12</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ The Carbon Removers (formerly Carbon Capture Scotland) is a Scottish CDR company
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: Sunstones: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet som er en de ([source](https://www.linkedin.com/company/sunstones-aps/#post-30168dd4f8eb))
+- **2026-08-15** — news mention: Sunstones: Hos Sunstones er vi glade og stolte over at være en del af LOCASH-projektet som er en del ([source](https://www.linkedin.com/company/sunstones-aps/#post-d142c2d1bf5f))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/the-carbon-removers-locks-in-nearly-1-3-million-in-support-from-sose/))
 - **2026-08-13** — news mention: The Carbon Removers: Hos Sunstones er vi glade og stolte over at vÃ¦re en del af LOCASH-projektet so ([source](https://www.linkedin.com/company/thecarbonremovers/#post-30168dd4f8eb))
 - **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week talk ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))

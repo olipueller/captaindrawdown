@@ -44,6 +44,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-12** — news mention: As I understand it, Carba sold the biochar based CORCs to U.S. Bank for less than $100/tonne of CO2. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvdarhk2j22n))
+- **2026-09-07** — news mention: Carba Inaugurates Molten Salt Reactor in Minnesota to Boost Biochar Efficiency and Yields &#8211; Bi ([source](https://biochartoday.com/news/carba-inaugurates-molten-salt-reactor-in-minnesota-to-boost-biochar-efficiency-and-yields/))
+- **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
+- **2026-09-07** — news mention: U.S. Bank Makes Its First CDR Investment, Backing Carba’s Biochar Approach ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
+- **2026-09-05** — news mention: Carba: Carba is excited to share a carbon removal first with U.S. Bank . We are transforming urban w ([source](https://www.linkedin.com/company/carbainc/#post-e22be91dfa15))
+- **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are tr ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

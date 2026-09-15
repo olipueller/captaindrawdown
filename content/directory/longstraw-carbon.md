@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://longstraw.earth/" target="_blank" rel="noopener">https://longstraw.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/longstraw-carbon/" target="_blank" rel="noopener">longstraw-carbon — 1,850 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/longstraw-carbon/" target="_blank" rel="noopener">longstraw-carbon — 3,449 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utka
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
+- **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
+- **2026-08-15** — news mention: Longstraw Carbon: Drift # 15 - our monthly newsletter is out, and we are thankful to our subscribers ([source](https://www.linkedin.com/company/longstraw-carbon/#post-25ab1d13533b))
 - **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice h ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
 - **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot

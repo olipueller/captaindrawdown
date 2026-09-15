@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.klim.eco/" target="_blank" rel="noopener">https://www.klim.eco/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimfoods/" target="_blank" rel="noopener">klimfoods — 19,744 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klim-eco/" target="_blank" rel="noopener">klim-eco — 21,179 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~138 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~127</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Klim is a Berlin-based agritech company founded in 2020 that operates a digital 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: ecoLocked: 🌱 Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft ⛪ Wie können historische G ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
 - **2026-07-23** — news mention: Seqana: 🎉🎉 Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our ex ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cascadeclimate.org/" target="_blank" rel="noopener">https://cascadeclimate.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascade-climate/" target="_blank" rel="noopener">cascade-climate — 7,556 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascade-climate/" target="_blank" rel="noopener">cascade-climate — 8,153 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~22 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~25 (+19% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-fe335e01a5a3))
 - **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
 - **2026-08-06** — news mention: Cascade Climate: Rocks used in ERW, such as basalt and peridotite (olivine), naturally contain trace ([source](https://www.linkedin.com/company/cascade-climate/#post-75e5a06354c1))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Broker/marketplace platform selling CO2 removal certificates from Dutch and Belgian nature-based and soil carbon removal projects, certified via ONCRA registry."
 url: "/directory/greencarbon/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbon.nl" target="_blank" rel="noopener">https://www.greencarbon.nl</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencarbon-bv/" target="_blank" rel="noopener">greencarbon-bv — 35 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in 
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-08** — news mention: #industrie #landwirtschaft #regionale #kreislaufwirtschaft #syncraft #tirol #innovation #grünerkohle ([source](https://www.linkedin.com/feed/update/urn:li:share:7502632448141189120/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

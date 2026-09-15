@@ -31,6 +31,10 @@ PyroCCS is a Cologne, Germany-based climate tech startup founded in 2022 that de
 
 ## History
 
+- **2026-09-14** — news mention: PyroCCS Secures Funding To Scale Biocarbon And Carbon Removal Supply Chain ([source](https://carbonherald.com/pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain))
+- **2026-09-08** — news mention: PyroCCS Secures Growth Funding to Scale Pyrolysis Infrastructure and Industrial Bioproduct Offtake G ([source](https://biochartoday.com/news/pyroccs-secures-growth-funding-to-scale-pyrolysis-infrastructure-and-industrial-bioproduct-offtake-globally/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
+- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
 - **2026-08-07** — news mention: PyroCCS: Today at the Science Museum in London, Tencent and TED Countdown announced the 16 winners o ([source](https://www.linkedin.com/company/pyroccs/#post-ceab834c1b9b))
 - **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))

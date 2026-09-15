@@ -30,6 +30,9 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-08-28** — news mention: Beccs Stockholm: When others slow down, we keep building. While many talk about investments slowing, ([source](https://www.linkedin.com/company/beccs-stockholm/#post-5e5d1d245dac))
+- **2026-08-21** — news mention: Beccs Stockholm: Cement with near-zero climate impact? Yes, with carbon capture this is now possible ([source](https://www.linkedin.com/company/beccs-stockholm/#post-bf255eaedc84))
+- **2026-08-21** — news mention: Beccs Stockholm: A significant milestone for Beccs Stockholm and Stockholm Exergi Over the past few  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-4b32526d4bac))
 - **2026-08-13** — news mention: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
 - **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
 - **2026-05-12** — news mention: Mammoet décroche le levage lourd du projet Beccs Stockholm ([source](https://jdlgroupe.com/2026/05/11/mammoet-decroche-le-levage-lourd-du-projet-beccs-stockholm/))

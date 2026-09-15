@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://planetsavers.earth/" target="_blank" rel="noopener">https://planetsavers.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers — 747 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetsavers/" target="_blank" rel="noopener">planetsavers — 886 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15 (+36% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-08** — news mention: Asset Finance & Alternatives in APAC & Beyond - by Huiling ([source](https://www.insights.beyondhorizons.sg/p/asset-finance-and-alternatives-in-65f))
+- **2026-08-30** — news mention: Planet Savers: We are pleased to announce that Planet Savers株式会社 has been selected for the Ministry  ([source](https://www.linkedin.com/company/planetsavers/#post-d1f56ddbe150))
 - **2026-07-25** — news mention: Planet Savers: Europe may be approaching a structural shift in the market for durable carbon removal ([source](https://www.linkedin.com/company/planetsavers/#post-d86813e190a7))
 - **2026-07-25** — news mention: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly und ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
 - **2026-07-25** — news mention: Planet Savers: 日本におけるCO2除去技術（CDR）に対する理解は、まだこれからです。 一方で、正しく説明されることで、多くの人がその必要性と可能性を支持することが明らかになりました。  ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))

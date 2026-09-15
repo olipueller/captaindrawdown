@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sowbiochar.com/" target="_blank" rel="noopener">https://sowbiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southwest-biochar-products/" target="_blank" rel="noopener">southwest-biochar-products</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southwest-biochar-products/" target="_blank" rel="noopener">southwest-biochar-products — 50 followers</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer in 
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))

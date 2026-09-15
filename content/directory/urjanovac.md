@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.urjanovac.com/" target="_blank" rel="noopener">https://www.urjanovac.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/urjanovac-pvt-ltd/" target="_blank" rel="noopener">urjanovac-pvt-ltd — 7,398 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/urjanovac-pvt-ltd/" target="_blank" rel="noopener">urjanovac-pvt-ltd — 8,890 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+86% YoY)</td></tr>
+  <tr><th>Employees</th><td>~9 (+56% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ UrjanovaC is a Mumbai-based climate-tech startup founded in 2023 by IIT Bombay p
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://dst.gov.in/newly-developed-resilient-cost-effective-carbon-capture-technology-represents-significant))

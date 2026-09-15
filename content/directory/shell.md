@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html" target="_blank" rel="noopener">https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,625,535 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,874,147 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~192273 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~219735</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,18 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-12** — news mention: Technical Methodology & Geothermal Formulation Specification: Bio-Encapsulated Dual-Action Ocean Alk ([source](https://doi.org/10.5281/zenodo.22393029))
+- **2026-09-06** — news mention: CoSDAC_Database ([source](https://doi.org/10.5281/zenodo.22240386))
+- **2026-09-06** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7148b98e5abf))
+- **2026-09-04** — news mention: Avnos: ð Avnos has launched operations at Project Brighton in New Jersey, its largest Hybrid Dire ([source](https://www.linkedin.com/company/avnos-inc/#post-21c0e0bfbc10))
+- **2026-09-04** — news mention: Tierra Prieta: Proud to share that Tierra Prieta is featured in the 2026 cCarbon CDR Compass Report  ([source](https://www.linkedin.com/company/tierra-prieta/#post-b4a4991d26ff))
+- **2026-08-31** — news mention: 265 pounds of leased government uranium went critical under an Idaho shed, on a machine with no turb ([source](https://www.autonocion.com/us/leased-uranium-idaho-shed-laboratory-experiment/))
+- **2026-08-31** — news mention: Physicochemical characteristics and carbon sequestration potential of biochar derived from agricultu ([source](https://doi.org/10.14456/kaj.2026.66))
+- **2026-08-30** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7676ae6221ad))
+- **2026-08-26** — news mention: Carbon capture | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/carbon-capture))
+- **2026-08-23** — news mention: Sinkco Labs: I’m incredibly proud to share that Sinkco Labs has been selected as the winner of the S ([source](https://www.linkedin.com/company/sinkco-labs/#post-b9a3192f4355))
+- **2026-08-20** — news mention: Adding Fifteen Tons of Cacao Shell Biochar per Hectare Boosts Maize Yields Over Several Growing Seas ([source](https://biochartoday.com/news/adding-fifteen-tons-of-cacao-shell-biochar-per-hectare-boosts-maize-yields-over-several-growing-seasons-in-degraded-indonesian-tropical-soil/))
 - **2026-08-14** — news mention: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.🔥 Prou ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
 - **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-07** — news mention: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The  ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
@@ -49,18 +61,6 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 - **2026-07-21** — news mention: Northern Lights: This short timelapse captures the progress of Northern Lights Phase 2 in Øygarden.  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-6fdc01174fbb))
 - **2026-07-20** — news mention: This is very nice to see since the Clean Development Mechanism has long faced criticism for failing  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mr3rgqbqis2t))
 - **2026-07-20** — news mention: Blending biochar into biodegradable plastics significantly increases material stiffness and prevents ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mr3iftcrt22t))
-- **2026-07-19** — news mention: Cation trapping by biochar reduces carbon removal efficiency ([source](https://cdrxiv.org/preprint/533))
-- **2026-07-16** — news mention: Assets of Delta Biofuels’ bagasse pellet mill to be sold via auction | Biomass Magazine ([source](https://biomassmagazine.com/articles/assets-of-delta-biofuels-bagasse-pellet-mill-to-be-sold-via-auction))
-- **2026-07-16** — news mention: Delta And Shell Aviation Strike 5-Year Deal To Boost SAF Supply ([source](https://carbonherald.com/delta-and-shell-aviation-strike-5-year-deal-to-boost-saf-supply/?utm_source=rss&utm_medium=rss&utm_campaign=delta-and-shell-aviation-strike-5-year-deal-to-boost-saf-supply))
-- **2026-07-16** — news mention: Delta expands SAF access through multi-airport collaboration with Shell Aviation | Biomass Magazine ([source](https://biomassmagazine.com/articles/delta-expands-saf-access-through-multi-airport-collaboration-with-shell-aviation))
-- **2026-06-30** — news mention: In potential #CDR news related to sargassum, validated performance of the amendment positions SeaGre ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjkcu2drk2b))
-- **2026-06-30** — news mention: Located on the Perdue Farms campus in Lewiston, North Carolina. This plant captures CO₂ using Pixie  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjirpri2k2b))
-- **2026-05-22** — news mention: Deep Sky Carbon Capture 2025, $3M Shell Agreement ([source](https://enkiai.com/canada-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.shell.com/what-we-do/technology-and-innovation/technology-for-a-sustainable-energy-industry/dac-technology.html))
 
 ---
 

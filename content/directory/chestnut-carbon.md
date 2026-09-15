@@ -34,6 +34,8 @@ Chestnut Carbon is a New York-based pure-play nature-based carbon removal develo
 
 ## History
 
+- **2026-09-10** — news mention: Chestnut Carbon: We're excited to announce an agreement to deliver Improved Forest Management (IFM)  ([source](https://www.linkedin.com/company/chestnut-carbon/#post-e9d065773e76))
+- **2026-08-21** — news mention: Chestnut Carbon, Sol Systems Extend Forest Carbon Deal - ESG News ([source](https://esgnews.com/chestnut-carbon-sol-systems-extend-forest-carbon-deal/))
 - **2026-05-22** — news mention: Chestnut Carbon Raises $90 Million to Scale Nature-Based Carbon Removal Projects Across the U.S. ([source](https://www.causeartist.com/blog/chestnut-carbon-raises-90-million-to-scale-nature-based-carbon-removal-projects-across-the-u-s))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

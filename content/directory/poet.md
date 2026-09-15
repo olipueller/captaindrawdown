@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://poet.com/" target="_blank" rel="noopener">https://poet.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/poet/" target="_blank" rel="noopener">poet — 31,275 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/poet/" target="_blank" rel="noopener">poet — 32,674 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~1856 (+7% YoY)</td></tr>
+  <tr><th>Employees</th><td>~1959 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ POET LLC is the world's largest bioethanol producer, headquartered in Sioux Fall
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-24** — news mention: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but al ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
 - **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
 - **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a big  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))

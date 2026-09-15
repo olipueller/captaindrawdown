@@ -30,6 +30,13 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-09-07** — news mention: Char Technologies Advances Pyrolysis Processing Facilities Across Canada and the United States &#821 ([source](https://biochartoday.com/news/char-technologies-advances-pyrolysis-processing-facilities-across-canada-and-the-united-states/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-04** — news mention: Char Tech develops pyrolysis to fuels sites; RNG news from Waga, Neogenyx | Waste Dive ([source](https://www.wastedive.com/news/biogas-monthly-char-tech-q2-earnings-clean-energy-fuels/829657/))
+- **2026-09-04** — news mention: CHAR Technologies: ICYMI CEO Andrew White walks through CHAR Tech's latest commercial and operationa ([source](https://www.linkedin.com/company/char-technologies/#post-bc81ff40c841))
+- **2026-09-04** — news mention: CHAR Technologies: https://lnkd.in/eA48MMbW Our CEO Andrew White breaks down a major milestone for t ([source](https://www.linkedin.com/company/char-technologies/#post-9c005cfb060d))
+- **2026-08-21** — news mention: CHAR Technologies: CHAR Tech Reports No Detectable PFAS in Biochar from HTP Testing As announced in  ([source](https://www.linkedin.com/company/char-technologies/#post-a7d153578b2b))
+- **2026-08-21** — news mention: CHAR Technologies: CHAR Tech has received a USPTO Notice of Allowance for a patent covering our pyro ([source](https://www.linkedin.com/company/char-technologies/#post-373fc6f43cac))
+- **2026-08-18** — news mention: CHAR Technologies Demonstrates Elimination of PFAS in Biosolids-Derived Biochar via High-Temperature ([source](https://biochartoday.com/news/char-technologies-demonstrates-elimination-of-pfas-in-biosolids-derived-biochar-via-high-temperature-pyrolysis/))
 - **2026-08-06** — news mention: CHAR Technologies: CHAR Tech and The BMI Group Completes Thorold Kiln Installation As announced in t ([source](https://www.linkedin.com/company/char-technologies/#post-ad7c316a119e))
 - **2026-07-30** — news mention: CHAR Technologies: https://lnkd.in/eA48MMbW Our CEO Andrew White breaks down a major milestone for t ([source](https://www.linkedin.com/company/char-technologies/#post-d6221e9071c7))
 - **2026-07-23** — news mention: CHAR Technologies: ICYMI CEO Andrew White walks through CHAR Tech's latest commercial and operationa ([source](https://www.linkedin.com/company/char-technologies/#post-12cc99c94a16))

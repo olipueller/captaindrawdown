@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.pacificbiochar.com" target="_blank" rel="noopener">https://www.pacificbiochar.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,096 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pacific-biochar/" target="_blank" rel="noopener">pacific-biochar — 2,189 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-12-16</small></td></tr>
-  <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-12-16)</small></td></tr>
 </table>
@@ -43,6 +43,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, featu ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
 - **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
 - **2026-07-31** — news mention: Pacific Biochar: Isometric has issued Pacific Biochar âs first verified carbon removal credits und ([source](https://www.linkedin.com/company/pacific-biochar/#post-dad9639dd5ad))
 - **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))

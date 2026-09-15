@@ -36,6 +36,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.carbono.capital/))
 - **2026-05-01** — refresh: screenshot

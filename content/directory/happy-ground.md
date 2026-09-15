@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://happyground.org/" target="_blank" rel="noopener">https://happyground.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground — 502 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground — 620 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -30,6 +30,8 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-21** — news mention: #atoneimpactweek #happyground #climatetech #biochar #climatefinance #agriculture | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:share:7496390296604135424/))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal, liveliness

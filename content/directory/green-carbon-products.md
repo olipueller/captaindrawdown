@@ -5,7 +5,7 @@ type: "directory"
 description: "Small Ontario-based producer that pyrolyzes clean wood into biochar and sells it as a retail soil/compost amendment."
 url: "/directory/green-carbon-products/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbonproducts.com/" target="_blank" rel="noopener">https://www.greencarbonproducts.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-products/" target="_blank" rel="noopener">green-carbon-products — 87 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Green Carbon Products is a small Ontario company that makes biochar from 100% su
 
 ## History
 
+- **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2025))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

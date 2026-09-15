@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops electrochemical direct air capture reactors (CarbonJet, SlipStream) using a patented solid sorbent activated by variable voltage rather than heat."
 url: "/directory/nuxsen/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nuxsen.com/" target="_blank" rel="noopener">https://nuxsen.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuxsen/" target="_blank" rel="noopener">nuxsen — 365 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-38% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nuxsen/" target="_blank" rel="noopener">nuxsen — 370 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Nūxsen is a New York-based direct air capture startup founded in 2022 developin
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot, liveliness
+- **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://nuxsen.com/news/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://nuxsen.com/news/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://nuxsen.com/news/))
 - **2026-05-01** — refresh: screenshot

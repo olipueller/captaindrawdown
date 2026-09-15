@@ -34,6 +34,11 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-09-02** — news mention: Stockholm Exergi: Building confidence in first-of-a-kind carbon removal | Carbon Direct ([source](https://www.carbon-direct.com/research-and-reports/stockholm-exergi-building-confidence-in-first-of-a-kind-carbon-removal))
+- **2026-09-02** — news mention: Carbon Direct: ð New case study: In March 2025, the Stockholm Exergi bioenergy with carbon captur ([source](https://www.linkedin.com/company/carbon-direct/#post-c0ac66dd247b))
+- **2026-08-26** — news mention: 20260813 - CAI - CDR For Mining.pdf | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498039006396387328/))
+- **2026-08-26** — news mention: Carbon Direct: â°ï¸ Carbon Direct is proud that our scientist Katherine Vaz Gomes contributed to t ([source](https://www.linkedin.com/company/carbon-direct/#post-a37a2b531353))
+- **2026-08-21** — news mention: We’re honored to have served as one of Microsoft&amp;#39;s technical diligence providers for these f ([source](https://www.linkedin.com/feed/update/urn:li:share:7496286255626874881/))
 - **2026-07-31** — news mention: The Wilfried Maas Industrial Decarbonization Internship | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-wilfried-maas-industrial-decarbonization-internship))
 - **2026-07-21** — news mention: Carbon Direct: We’re excited to announce our first agroforestry deal: carbon removal offtakes with T ([source](https://www.linkedin.com/company/carbon-direct/#post-a35d064c1843))
 - **2026-06-30** — news mention: #lcaw2026 #carbonremoval #naturebasedsolutions #decarbonization | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477351430828363776/))

@@ -42,6 +42,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-21** — news mention: Black Bull Biochar: Black Bull Biochar is back at #Groundswell !    Come find us at Stand E9. Daniel ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-962d8f05940e))
+- **2026-08-21** — news mention: Black Bull Biochar: I'm really thrilled to show you some great validation regarding biochar and its  ([source](https://www.linkedin.com/company/black-bull-biochar-ltd/#post-338803ee8a1c))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all as ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
 - **2026-05-01** — refresh: screenshot

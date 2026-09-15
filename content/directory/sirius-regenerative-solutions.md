@@ -31,13 +31,14 @@ Sirius Regenerative is a Colombian biochar producer based in Meta that operates 
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Biochar, 2022 · crediting period 2024-08-29 → 2029-08-28 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/guaicaramo-265)
+- 1 project · Biochar, 2022 · crediting period 2024-08-29 → 2029-08-28 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/guaicaramo-265)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ebbcarbon.com/" target="_blank" rel="noopener">https://www.ebbcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebb-carbon/" target="_blank" rel="noopener">ebb-carbon — 7,270 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~22 (-45% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Ebb Carbon is a South San Francisco-based marine CDR pure-play that integrates b
 
 ## History
 
+- **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
+- **2026-08-27** — news mention: Ebb Carbon: New research in Frontiers in Climate, led by Monash University's Water Studies Centre wi ([source](https://www.linkedin.com/company/ebb-carbon/#post-19ea1d489ee5))
+- **2026-08-25** — news mention: New Study Maps Out Suitable OAE Deployment Sites In Australia ([source](https://carbonherald.com/new-study-maps-out-suitable-oae-deployment-sites-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=new-study-maps-out-suitable-oae-deployment-sites-in-australia))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))

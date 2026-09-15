@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.seao2.com/" target="_blank" rel="noopener">https://www.seao2.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seao2-io/" target="_blank" rel="noopener">seao2-io — 7,336 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/seao2-io/" target="_blank" rel="noopener">seao2-io — 8,076 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (+19% YoY)</td></tr>
+  <tr><th>Employees</th><td>~14 (-47% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ SeaO2 is a Dutch TU Delft spin-off founded in 2021 offering direct ocean capture
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-03** — news mention: SeaO2: We need your help! In one week, SeaO2 will cease to exist. Not because the technology failed, ([source](https://www.linkedin.com/company/seao2-io/#post-001a20d5fa03))
+- **2026-08-27** — news mention: SeaO2: A month ago, we raised the alarm and last week, the outcome we fought so hard to avoid became ([source](https://www.linkedin.com/company/seao2-io/#post-e94b8ae057f3))
+- **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
 - **2026-07-26** — news mention: Supporting data for: Using the Seasonal Cycle for Monitoring and Guiding Ocean Alkalinity Enhancemen ([source](https://doi.org/10.5281/zenodo.21474671))
 - **2026-07-22** — news mention: SeaO2: A month ago, we raised the alarm and last week, the outcome we fought so hard to avoid became ([source](https://www.linkedin.com/company/seao2-io/#post-9a45fd4a0b40))
 - **2026-07-17** — news mention: Commercial and logistical considerations for MCDR implementation ([source](https://www.openaccessgovernment.org/article/commercial-and-logistical-considerations-for-mcdr-implementation/211961/))

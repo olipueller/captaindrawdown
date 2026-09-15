@@ -29,6 +29,7 @@ Yellow Duck Inc. is a Kobe, Japan startup led by CEO Shigeo Nakayama developing 
 
 ## History
 
+- **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://wave-dac.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

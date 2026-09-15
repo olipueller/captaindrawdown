@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.stockholmexergi.se/en/" target="_blank" rel="noopener">https://www.stockholmexergi.se/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stockholm-exergi/" target="_blank" rel="noopener">stockholm-exergi — 19,652 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stockholm-exergi/" target="_blank" rel="noopener">stockholm-exergi — 20,617 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~826 (+12% YoY)</td></tr>
+  <tr><th>Employees</th><td>~822 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,14 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-09-02** — news mention: Stockholm Exergi: Building confidence in first-of-a-kind carbon removal | Carbon Direct ([source](https://www.carbon-direct.com/research-and-reports/stockholm-exergi-building-confidence-in-first-of-a-kind-carbon-removal))
+- **2026-09-02** — news mention: Carbon Direct: ð New case study: In March 2025, the Stockholm Exergi bioenergy with carbon captur ([source](https://www.linkedin.com/company/carbon-direct/#post-c0ac66dd247b))
+- **2026-08-28** — news mention: Beccs Stockholm: When others slow down, we keep building. While many talk about investments slowing, ([source](https://www.linkedin.com/company/beccs-stockholm/#post-5e5d1d245dac))
+- **2026-08-23** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalitÃ©s franÃ§aises ? Le 25 mai 2026 ([source](https://www.linkedin.com/company/carbon-impact-france/#post-70f43983599f))
+- **2026-08-22** — news mention: #carbonremoval #cdr #euets #crcf #carbonmarkets #climatepolicy #europe #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7496554645104988160/))
+- **2026-08-21** — news mention: Beccs Stockholm: A significant milestone for Beccs Stockholm and Stockholm Exergi Over the past few  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-4b32526d4bac))
+- **2026-08-20** — news mention: ClimeFi: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, the  ([source](https://www.linkedin.com/company/carbonx-world/#post-c5c559524666))
 - **2026-08-13** — news mention: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
 - **2026-08-12** — news mention: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably,  ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))
 - **2026-08-12** — news mention: Stockholm Exergi: Cement med nära noll klimatpåverkan? Ja, med hjälp av koldioxidinfångning är det f ([source](https://www.linkedin.com/company/stockholm-exergi/#post-14016e7158d3))
@@ -51,14 +59,6 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: Stockholm Exergi hoists football-field pipe bridge for 720k-ton BECCS plant ([source](https://www.captaindrawdown.com/posts/a-pipe-bridge-the-length-of-a-football-field-delivered-via-b/))
 - **2026-04-24** — news mention: Behind the scenes: how the CDR Company Directory actually gets built.  Today we published the making ([source](https://x.com/CaptainDrawdown/status/2047601531076100376))
-- **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
-- **2026-04-23** — news mention: A pipe bridge the length of a football field, delivered via boat and hoisted into place using a heav ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453001214646059008/))
-- **2026-04-23** — news mention: The pipe bridge in place – a milestone in our largest climate initiative - Stockholm Exergi ([source](https://www.stockholmexergi.se/nyheter/the-pipe-bridge-in-place-a-milestone-in-our-largest-climate-initiative/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413620.html))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/stockholm-exergi-takes-final-investment-decision-on-worlds-first-large-scale-beccs-project-using-capsols-carbon-capture-technology-302413617.html))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.stockholmexergi.se/en/beccs/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

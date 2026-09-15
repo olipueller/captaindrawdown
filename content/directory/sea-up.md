@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Website</th><td><a href="https://www.sea-up.life/" target="_blank" rel="noopener">https://www.sea-up.life/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company — 14 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Sea-Up (The Sea Upwelling Company Inc, formerly Ocean-Based Climate Solutions) i
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.climate.gov/news-features/understanding-climate/carbon-dioxide-removal-noaa-state-science-factsheet))

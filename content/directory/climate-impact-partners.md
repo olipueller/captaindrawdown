@@ -30,6 +30,8 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 
 ## History
 
+- **2026-08-23** — news mention: Community Climate Solutions: ð Officially Launched: A New Chapter for the Miombo Woodland Project ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-cdd57725f61c))
+- **2026-08-19** — news mention: Climate Impact Partners: Bondhu Chula has achieved CCP labelling approval. We're pleased to see the  ([source](https://www.linkedin.com/company/climate-impact-partners/#post-9275667e7caf))
 - **2026-08-04** — news mention: Climate Impact Partners: 🎉Major milestone for Bondhu Chula clean cooking project in Bangladesh. http ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))
 - **2026-08-01** — news mention: Community Climate Solutions: 🎉 Officially Launched: A New Chapter for the Miombo Woodland Project 🌿  ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-e6ff47b521d1))
 - **2026-07-16** — news mention: Climate Impact Partners - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/climate-impact-partners/__Ykx91Cv5l0v7cK_bBcqQERkALg5HkwZIiBj1I5hgbIU))

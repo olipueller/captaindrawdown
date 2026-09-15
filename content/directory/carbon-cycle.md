@@ -30,6 +30,10 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO 2  ([source](https://doi.org/10.5194/bg-23-6211-2026))
+- **2026-09-08** — news mention: This ignores entirely the climate, let alone wider ecological, impacts of removing and charring load ([source](https://bsky.app/profile/biofuelwatch.bsky.social/post/3muzadfhiec22))
+- **2026-08-31** — news mention: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering Applic ([source](https://doi.org/10.31223/x58b8c))
+- **2026-08-19** — news mention: Critics argue that potential oil spills pose severe threats to coastal marine ecosystems, unique cor ([source](https://bsky.app/profile/gbw56.bsky.social/post/3mtgdjmtnos2k))
 - **2026-08-13** — news mention: Jupyter Notebooks referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhan ([source](https://doi.org/10.5281/zenodo.21874676))
 - **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
 - **2026-08-07** — news mention: Carbon Cycle, 001, Rieden, DE - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/carbon-cycle-001-rieden-de/))
@@ -56,10 +60,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-05-22** — news mention: Molecular Views of Mineral Carbonation: Reaction of CO2 with the Wollastonite (100) Surface ([source](https://pubs.acs.org/doi/10.1021/acsnano.5c19629))
 - **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use?  I suppose it is because so many pe ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
 - **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
-- **2026-05-05** — news mention: Okay, I see.  Yeah, assuming that ocean can absorb half of the CO2 that is emitted this year in abou ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml2ycxrhf323))
-- **2026-05-03** — news mention: When I see the term geological scale, as a geologist, I think of geologic timeframes which most defi ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxzveezws23))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
 
 ---
 

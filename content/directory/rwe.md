@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.rwe.com/" target="_blank" rel="noopener">https://www.rwe.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rwe-/" target="_blank" rel="noopener">rwe- — 404,114 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rwe-/" target="_blank" rel="noopener">rwe- — 429,374 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~14888 (+2% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15011 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ RWE is a major German energy utility (~20,000 employees globally) developing BEC
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.ziprecruiter.com/Jobs/Rwe))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

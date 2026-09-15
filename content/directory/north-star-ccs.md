@@ -29,6 +29,7 @@ North Star Carbon Solutions LP is a dedicated BECCS project joint venture betwee
 
 ## History
 
+- **2026-08-29** — news mention: North Star CCS: ð ð¡ð²ð ððµð®ð½ðð²ð¿ ð³ð¼ð¿ ðð®ð¿ð¯ð¼ð» ([source](https://www.linkedin.com/company/carbon-alpha/#post-7d83a9f1a71e))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: North Star CCS: A New Chapter for Carbon Alpha: Joining Forces with Svante! 🚀 We are thrilled to ann ([source](https://www.linkedin.com/company/carbon-alpha/#post-529edf72eeb8))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

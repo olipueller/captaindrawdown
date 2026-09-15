@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-06** — news mention: Dark Earth Carbon: Biochar + compost produced maize yields 4.6â6.6Ã higher than an unamended cont ([source](https://www.linkedin.com/company/dark-earth-carbon/#post-65347d628454))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Dark Earth Carbon: Biochar + compost produced maize yields 4.6–6.6× higher than an unamended control ([source](https://www.linkedin.com/company/dark-earth-carbon/#post-aa48b5fe57e4))
 - **2026-05-01** — refresh: screenshot

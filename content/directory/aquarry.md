@@ -35,6 +35,7 @@ Aquarry is a California-based (also listed in Denver) CDR startup founded in 202
 
 ## History
 
+- **2026-08-15** — news mention: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons of  ([source](https://www.linkedin.com/company/aquarry-inc/#post-3c7024ffad6e))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

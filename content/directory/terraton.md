@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terraton.ai/" target="_blank" rel="noopener">https://terraton.ai/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton — 1,540 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton — 2,607 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~17 (+240% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -40,6 +40,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-15** — refresh: coresignal, screenshot
+- **2026-08-30** — news mention: Terraton Industrial Inc.: What does a biochar facility look like when it's running? Mateo , who's se ([source](https://www.linkedin.com/company/terraton/#post-8a35ca9c131f))
+- **2026-08-29** — news mention: Offstream: If you're building a carbon removal project, this is the most useful 5-minute read we've  ([source](https://www.linkedin.com/company/useoffstream/#post-7b7bbc606008))
 - **2026-08-08** — news mention: Terraton Industrial Inc.: A look inside the EcoFix Kenya Ltd (EFK) facility producing its first batc ([source](https://www.linkedin.com/company/terraton/#post-39dd2c8aa8d5))
 - **2026-08-08** — news mention: Terraton Industrial Inc.: Our second biochar facility, with Tupande in Sagana, Kenya, is taking shap ([source](https://www.linkedin.com/company/terraton/#post-b7ce9afb9b2b))
 - **2026-08-01** — news mention: Terraton: A look inside the EcoFix Kenya Ltd (EFK) facility producing its first batches of biochar.  ([source](https://www.linkedin.com/company/terraton/#post-253c7b43db81))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a proprietary liquid-spray airflow approach (instead of filters) that binds CO2 molecules and removes the spray from airflow, designed with aerospace engineering principles for low"
 url: "/directory/gigadac/"
 pathway: "DAC"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigadac.org/" target="_blank" rel="noopener">https://www.gigadac.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigadac/" target="_blank" rel="noopener">gigadac — 250 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ GigaDAC (legal name Victory Over Carbon Inc.) is a Houston-based direct air capt
 
 ## History
 
+- **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-31** — news mention: GigaDAC/Victory Over Carbon: 700–1,000 tons of CO₂ removal per year, per system. Third-party modelin ([source](https://www.linkedin.com/company/gigadac/#post-7d69bb9e5d10))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
