@@ -2,7 +2,7 @@
 title: "CDR Industry Update - September 2026"
 date: 2026-09-16T08:00:00+00:00
 slug: "cdr-industry-update-2026-09"
-draft: true
+draft: false
 tags: ["cdr", "industry-update", "directory"]
 categories: ["industry-update"]
 cover:
