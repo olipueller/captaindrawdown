@@ -1,5 +1,5 @@
 ---
-title: "Captain's CDR Log #234: One olivine field trial just moved marine ERW from lab hypothesis to permittable practice"
+title: "Captain's CDR Log #234: One olivine field trial moved marine ERW from lab hypothesis to permittable practice"
 date: 2026-08-22T00:11:58.476390+02:00
 slug: "captains-cdr-log-234"
 tags: ["synthesis", "captains-log"]
@@ -19,7 +19,7 @@ cover:
 
 ## The story
 
-A field trial off a working oyster farm just produced the first direct biological measurements of olivine exposure on a commercial shellfish species, and the effect was small. Emilia Jankowska and colleagues posted the preprint [Limited impact on oysters in first-of-its-kind field trial of marine CDR](https://cdrxiv.org/preprint/326) on CDRXIV this week. This is not a mesocosm and not a model. It is olivine deployed in the water near cultivated oysters, with the animals themselves as the receptor. For a decade, marine enhanced rock weathering (ERW, the practice of dissolving crushed silicate rock to draw down CO2) has been blocked by an unfalsified hypothesis that olivine will poison shellfish. The field just tested that hypothesis on the animal regulators actually care about.
+A field trial off a working oyster farm produced the first direct biological measurements of olivine exposure on a commercial shellfish species, and the effect was small. Emilia Jankowska and colleagues posted the preprint [Limited impact on oysters in first-of-its-kind field trial of marine CDR](https://cdrxiv.org/preprint/326) on CDRXIV in January 2025. This is not a mesocosm and not a model. It is olivine deployed in the water near cultivated oysters, with the animals themselves as the receptor. For a decade, marine enhanced rock weathering (ERW, the practice of dissolving crushed silicate rock to draw down CO2) has been blocked by an unfalsified hypothesis that olivine will poison shellfish. The field has tested that hypothesis on the animal regulators actually care about.
 
 ## The mechanism
 
@@ -33,7 +33,7 @@ If you run a marine ERW pilot, your binding constraints are three: sourcing grou
 
 There is a geochemical ceiling on how much this pathway can do. A new paper in Communications Earth & Environment by Gerke, Ho and colleagues, [Limits on marine CDR potential set by coastal air-sea gas exchange rates](https://doi.org/10.1038/s43247-026-03931-z), argues coastal gas exchange caps how much added alkalinity actually pulls CO2 out of the atmosphere on useful timescales. So marine ERW is now bounded on two sides. Biologically tolerable per Jankowska. Geochemically capped per Gerke and Ho. That is a real operational envelope, which is more than most CDR pathways have.
 
-Marine ERW also sidesteps a loss pathway that just got worse for the terrestrial side. Neumann and colleagues published [Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC](https://cdrxiv.org/preprint/329) the same week, arguing a nontrivial fraction of terrestrial ERW alkalinity may be consumed in freshwater transit. Olivine dissolved in the ocean does not cross that river.
+Marine ERW also sidesteps a loss pathway flagged for the terrestrial side. Neumann and colleagues published [Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC](https://cdrxiv.org/preprint/329) in February 2025, arguing a nontrivial fraction of terrestrial ERW alkalinity may be consumed in freshwater transit. Olivine dissolved in the ocean does not cross that river.
 
 ## The policy context
 
@@ -47,11 +47,11 @@ Chris Bataille made a general point this week that transfers directly ([@chrisba
 
 ## The counter-argument
 
-Published essentially alongside Jankowska, Cobo and Guillén Gosalbez's [Delayed climate benefits and toxicity risks could hinder sustainable EW deployment](https://doi.org/10.70212/cdrxiv.2026531.v2) argues trace-metal toxicity remains a first-order deployment risk for olivine, based on life-cycle modeling. Both papers can be right. The modeled toxicity concern still holds at some doses, in some sediments, for some species. What has changed is that the burden of proof shifts. Objections now need to be specific - which metal, which species, which dose, which estuary - rather than categorical. Sample sizes are small. One estuary is not every estuary. Long-term chronic exposure is not addressed. Those are the honest limits.
+More recently (June 2026), Cobo and Guillén Gosalbez's [Delayed climate benefits and toxicity risks could hinder sustainable EW deployment](https://doi.org/10.70212/cdrxiv.2026531.v2) argues trace-metal toxicity remains a first-order deployment risk for olivine, based on life-cycle modeling. Both papers can be right. The modeled toxicity concern still holds at some doses, in some sediments, for some species. What has changed is that the burden of proof shifts. Objections now need to be specific - which metal, which species, which dose, which estuary - rather than categorical. Sample sizes are small. One estuary is not every estuary. Long-term chronic exposure is not addressed. Those are the honest limits.
 
 ## What this means
 
-Marine ERW just moved from "we think it is safe" to "we measured it on oysters and the effect was limited." That is not the end of the debate. It is the start of a different one, framed in numbers instead of hypotheticals. The next twelve months will show whether registries and coastal permitting bodies actually pick up the paper and let it do the work it can do. If they do, marine ERW gets its first real permitting on-ramp. If they do not, we will have learned that the binding constraint was never really the ecotoxicology.
+Marine ERW has moved from "we think it is safe" to "we measured it on oysters and the effect was limited." That is not the end of the debate. It is the start of a different one, framed in numbers instead of hypotheticals. The next twelve months will show whether registries and coastal permitting bodies actually pick up the paper and let it do the work it can do. If they do, marine ERW gets its first real permitting on-ramp. If they do not, we will have learned that the binding constraint was never really the ecotoxicology.
 
 
 ## Citations
@@ -63,3 +63,7 @@ Marine ERW just moved from "we think it is safe" to "we measured it on oysters a
 5. **Bluesky** — [@davidho.bsky.social on Bluesky](https://bsky.app/profile/davidho.bsky.social/post/3mtmjgspjkc2y) — *Bluesky post*
 6. **Bluesky** — [@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social/post/3mtk5nq32z22t) — *Bluesky post*
 7. **DOI-resolved paper** — [Delayed climate benefits and toxicity risks could hinder sustainable EW deployment](https://doi.org/10.70212/cdrxiv.2026531.v2)
+
+---
+
+*Correction (2026-09-18): this log originally described the Jankowska oyster preprint (January 2025) and the Neumann river-loss preprint (February 2025) as published "this week." A pipeline bug let older preprints resurface as news. Dates corrected; the analysis stands.*

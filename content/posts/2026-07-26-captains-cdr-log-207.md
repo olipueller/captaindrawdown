@@ -23,7 +23,7 @@ cover:
 
 ## The evidence Morton is reading correctly
 
-A new CDRXIV preprint, [Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity](https://cdrxiv.org/preprint/329) (Neumann et al., preprint 329), argues that aquatic photosynthesis can reconvert dissolved inorganic carbon (DIC) in rivers back into CO2 that outgasses to the atmosphere. If that pathway is quantitatively meaningful, the DIC that soil-based ERW measurement, reporting and verification (MRV) counts as removed does not all make it to durable ocean storage. It leaks in transit.
+A February 2025 CDRXIV preprint, [Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity](https://cdrxiv.org/preprint/329) (Neumann et al., preprint 329), argues that aquatic photosynthesis can reconvert dissolved inorganic carbon (DIC) in rivers back into CO2 that outgasses to the atmosphere. If that pathway is quantitatively meaningful, the DIC that soil-based ERW measurement, reporting and verification (MRV) counts as removed does not all make it to durable ocean storage. It leaks in transit.
 
 The upstream side is also wobbly. [Rogers and Maher](https://cdrxiv.org/preprint/334) (CDRXIV preprint 334) document large unquantified spatial uncertainty in feedstock dissolution across a field. So both ends of the ERW measurement chain, source and sink, have larger error bars than credit issuers currently price in.
 
