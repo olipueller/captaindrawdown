@@ -2,7 +2,7 @@
 title: "Pathway 101: Additionality & Baselines"
 date: 2026-09-16T08:00:00+00:00
 slug: "pathway-101-additionality-baselines"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "additionality-baselines"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
