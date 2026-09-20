@@ -2,7 +2,7 @@
 title: "Take: Which story is carbon dioxide removal actually in?—w/ Rudy Krehbiel of EcoEngineers"
 date: 2026-09-17T10:00:00+00:00
 slug: "podcast-take-which-story-is-carbon-dioxide-removal-actually-in-w-rudy-kre-f1bad36c"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

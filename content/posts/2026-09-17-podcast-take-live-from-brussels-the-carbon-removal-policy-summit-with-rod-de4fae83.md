@@ -2,7 +2,7 @@
 title: "Take: Live From Brussels: The Carbon Removal Policy Summit - with Rodica Avornic"
 date: 2026-09-17T10:00:00+00:00
 slug: "podcast-take-live-from-brussels-the-carbon-removal-policy-summit-with-rod-de4fae83"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
