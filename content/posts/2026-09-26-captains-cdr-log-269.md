@@ -21,7 +21,7 @@ cover:
 
 "Sometimes the future-tech is used as excuse to do nothing in the present." That is Aurel Wünsch ([@aurel.indoorco2map.com on Bluesky](https://bsky.app/profile/aurel.indoorco2map.com/post/3mwbzqrrrmc2d)), applying the mitigation-deterrence argument to DAC. The market news that gives his line new teeth this week: Spiritus has signed [its first three letters of intent with US oil and gas producers for on-site CO2 supply for enhanced oil recovery](https://carbonherald.com/spiritus-insk-first-three-letters-of-intent-with-us-oil-and-gas-producers-for-on-site-eor-co2-supply/) (Carbon Herald).
 
-Chris Bataille ([[@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social/post/3mwavj2xtv22g)](https://bsky.app/profile/chrisbataille.bsky.social/post/3mwavj2xtv22g)) sets the accounting frame from an adjacent argument about e-SAF: "unless you're pulling down more CO2 from the atmosphere than is burnt as fuel, it's not negative emissions because the CO2 is being returned to the atmosphere." He was talking about synthetic aviation fuel. But the ledger question is the same one Spiritus's LOIs will have to answer.
+Chris Bataille ([@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social/post/3mwavj2xtv22g)) sets the accounting frame from an adjacent argument about e-SAF: "unless you're pulling down more CO2 from the atmosphere than is burnt as fuel, it's not negative emissions because the CO2 is being returned to the atmosphere." He was talking about synthetic aviation fuel. But the ledger question is the same one Spiritus's LOIs will have to answer.
 
 ## The evidence the critics are reading correctly
 
@@ -54,7 +54,7 @@ CDR is for hard-to-abate residual emissions. It is not a license to delay fossil
 
 1. **Bluesky** — [@aurel.indoorco2map.com on Bluesky](https://bsky.app/profile/aurel.indoorco2map.com/post/3mwbzqrrrmc2d) — *Bluesky post*
 2. **Carbon Herald** — [its first three letters of intent with US oil and gas producers for on-site CO2 supply for enhanced oil recovery](https://carbonherald.com/spiritus-insk-first-three-letters-of-intent-with-us-oil-and-gas-producers-for-on-site-eor-co2-supply/)
-3. **Bluesky** — [[@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social/post/3mwavj2xtv22g) — *Bluesky post*
+3. **Bluesky** — [@chrisbataille.bsky.social on Bluesky](https://bsky.app/profile/chrisbataille.bsky.social/post/3mwavj2xtv22g) — *Bluesky post*
 4. **Heatmap News** — [carbon removal dispatch](https://heatmap.news/daily/carbon-removal-climate-week)
 5. **Relae** — [2026 Criteria for High-Quality Carbon Dioxide Removal](https://research.relae.co/hubfs/gated-assets/criteria-for-high-quality-cdr-2026-edition.pdf) — *PDF*
 6. **Carbon Herald** — [Carbon Herald this week](https://carbonherald.com/)
