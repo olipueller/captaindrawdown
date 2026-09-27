@@ -2,7 +2,7 @@
 title: "Take: Congresswoman Suzanne Bonamici on the ReSCUE Oceans Act and Bipartisan Support for mCDR"
 date: 2026-09-24T10:00:00+00:00
 slug: "podcast-take-congresswoman-suzanne-bonamici-on-the-rescue-oceans-act-and--51a5c46c"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "plan-sea:-ocean-interventions-to-address-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

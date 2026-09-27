@@ -2,7 +2,7 @@
 title: "Take: S4 E8: Anton Root on the State of the Voluntary Carbon Market"
 date: 2026-09-24T10:00:00+00:00
 slug: "podcast-take-s4-e8-anton-root-on-the-state-of-the-voluntary-carbon-market-40090dc7"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "untangling-climate-finance"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
