@@ -2,7 +2,7 @@
 title: "Pathway 101: Registries & Standards"
 date: 2026-09-30T08:00:00+00:00
 slug: "pathway-101-registries-standards"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "registries-standards"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
