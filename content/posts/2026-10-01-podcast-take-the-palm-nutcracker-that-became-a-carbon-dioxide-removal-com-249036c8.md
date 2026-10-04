@@ -2,7 +2,7 @@
 title: "Take: The palm nutcracker that became a carbon dioxide removal company—w/ Uzoma Ayogu of Biochar Industrial Group"
 date: 2026-10-01T10:00:00+00:00
 slug: "podcast-take-the-palm-nutcracker-that-became-a-carbon-dioxide-removal-com-249036c8"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

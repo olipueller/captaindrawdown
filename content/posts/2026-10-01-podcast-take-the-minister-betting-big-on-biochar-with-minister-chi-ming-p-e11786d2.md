@@ -2,7 +2,7 @@
 title: "Take: The Minister Betting Big on Biochar - with Minister Chi-ming Peng"
 date: 2026-10-01T10:00:00+00:00
 slug: "podcast-take-the-minister-betting-big-on-biochar-with-minister-chi-ming-p-e11786d2"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

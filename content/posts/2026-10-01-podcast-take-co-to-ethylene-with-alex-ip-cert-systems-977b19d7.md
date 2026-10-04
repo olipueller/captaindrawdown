@@ -2,7 +2,7 @@
 title: "Take: CO₂ to Ethylene with Alex Ip, CERT Systems"
 date: 2026-10-01T10:00:00+00:00
 slug: "podcast-take-co-to-ethylene-with-alex-ip-cert-systems-977b19d7"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "bite-size-climate-tech"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
