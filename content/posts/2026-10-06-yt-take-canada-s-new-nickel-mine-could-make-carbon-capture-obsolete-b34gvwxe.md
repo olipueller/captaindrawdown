@@ -2,7 +2,7 @@
 title: "Take: Canada's New Nickel Mine Could Make Carbon Capture Obsolete"
 date: 2026-10-06T10:00:00+00:00
 slug: "yt-take-canada-s-new-nickel-mine-could-make-carbon-capture-obsolete-b34gvwxe"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "musa-tule"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
